@@ -44,9 +44,32 @@ In Summary, enter the following commands:
 ``` cd ./path-to-cloned-repository/Bible-Search-Engine/my-app-frontend/
  npm init
  npm install
- npm run dev ```
+ npm run dev  ```
+<br/>
 
 ## <p id="how-to-backend">How to Run Start the Backend Server</p>
+
+#### Prerequisites
+* latest version of python3
+
+#### Steps
+1. In CLI, upon cloning the repository change your directory to the directory where you cloned this repository then change directory to Bible Search Engine and then to my-app-frontend.
+
+    ``` cd ./path-to-cloned-repository/Bible-Search-Engine/ ```
+
+1. Create a virtual env in python
+
+    ``` python3 venv ./.venv ```
+
+2. Install the required packages
+
+    ``` pip3 install -r requirements.txt ```
+
+3. Start the backend server
+
+    ``` python3 run main.py ```
+        
+
 
 ## <p id="how-to-CLI">How to Run the APP in CLI</p>
 
