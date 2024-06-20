@@ -1,0 +1,7 @@
+
+dayd	{"Ecclesiastes_ch_5.docx": [1053]}
+fawns	{"Song of Solomon_ch_4.docx": [740], "Song of Solomon_ch_7.docx": [366, 366, 366]}
+dayd	{"Ecclesiastes_ch_5.docx": [1053]}
+fawns	{"Song of Solomon_ch_4.docx": [740], "Song of Solomon_ch_7.docx": [366, 366]}
+dayd	{"Ecclesiastes_ch_5.docx": [1053]}
+fawns	{"Song of Solomon_ch_4.docx": [740], "Song of Solomon_ch_7.docx": [366]}

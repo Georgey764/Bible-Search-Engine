@@ -1,0 +1,4 @@
+
+mabs	{"1 Chronicles_ch_1.docx": [2299, 4519, 4519, 4519]}
+mabs	{"1 Chronicles_ch_1.docx": [2299, 4519, 4519]}
+mabs	{"1 Chronicles_ch_1.docx": [2299, 4519]}

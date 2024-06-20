@@ -1,0 +1,5 @@
+
+ozija	{"1 Chronicles_ch_6.docx": [1729, 2111, 2111, 2111], "1 Chronicles_ch_15.docx": [2963, 2963, 2963], "1 Chronicles_ch_24.docx": [2726, 2747, 2726, 2747, 2726, 2747]}
+31‘o	{"Judges_ch_5.docx": [4489], "Job_ch_33.docx": [3280]}
+ozija	{"1 Chronicles_ch_6.docx": [1729, 2111, 2111], "1 Chronicles_ch_15.docx": [2963, 2963], "1 Chronicles_ch_24.docx": [2726, 2747, 2726, 2747]}
+ozija	{"1 Chronicles_ch_6.docx": [1729, 2111], "1 Chronicles_ch_15.docx": [2963], "1 Chronicles_ch_24.docx": [2726, 2747]}

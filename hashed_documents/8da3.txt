@@ -1,0 +1,2 @@
+
+20wh	{"Judges_ch_2.docx": [4390], "2 Samuel_ch_15.docx": [2903], "Nehemiah_ch_4.docx": [3081], "Proverbs_ch_26.docx": [1692], "Proverbs_ch_29.docx": [1806], "Isaiah_ch_19.docx": [2703], "Jeremiah_ch_27.docx": [3633]}

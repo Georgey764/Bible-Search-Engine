@@ -1,0 +1,6 @@
+
+stamm	{"Isaiah_ch_32.docx": [420], "Isaiah_ch_35.docx": [700, 700, 700]}
+6‘well	{"Deuteronomy_ch_10.docx": [831]}
+20-	{"2 Chronicles_ch_25.docx": [612], "2 Chronicles_ch_31.docx": [3301], "Ezra_ch_3.docx": [1523], "Proverbs_ch_20.docx": [19]}
+stamm	{"Isaiah_ch_32.docx": [420], "Isaiah_ch_35.docx": [700, 700]}
+stamm	{"Isaiah_ch_32.docx": [420], "Isaiah_ch_35.docx": [700]}

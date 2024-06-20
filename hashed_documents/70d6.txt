@@ -1,0 +1,5 @@
+
+hosha	{"Nehemiah_ch_12.docx": [4371], "Jeremiah_ch_42.docx": [21, 21, 21], "Jeremiah_ch_43.docx": [26, 26, 26]}
+hosha	{"Nehemiah_ch_12.docx": [4371], "Jeremiah_ch_42.docx": [21, 21], "Jeremiah_ch_43.docx": [26, 26]}
+8‘will	{"Malachi_ch_3.docx": [1774]}
+hosha	{"Nehemiah_ch_12.docx": [4371], "Jeremiah_ch_42.docx": [21], "Jeremiah_ch_43.docx": [26]}

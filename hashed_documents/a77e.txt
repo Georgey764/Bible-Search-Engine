@@ -1,0 +1,5 @@
+
+jasie	{"1 Chronicles_ch_7.docx": [1682], "1 Chronicles_ch_27.docx": [2865, 2865, 2865]}
+jasie	{"1 Chronicles_ch_7.docx": [1682], "1 Chronicles_ch_27.docx": [2865, 2865]}
+2pay	{"Job_ch_37.docx": [108]}
+jasie	{"1 Chronicles_ch_7.docx": [1682], "1 Chronicles_ch_27.docx": [2865]}

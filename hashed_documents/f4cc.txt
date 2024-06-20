@@ -1,0 +1,2 @@
+
+22‘y	{"Exodus_ch_22.docx": [3057], "Exodus_ch_34.docx": [3285], "Leviticus_ch_18.docx": [2639], "Deuteronomy_ch_5.docx": [2516], "Deuteronomy_ch_9.docx": [3669], "Deuteronomy_ch_14.docx": [1990], "1 Chronicles_ch_16.docx": [2356], "Job_ch_13.docx": [1856], "Isaiah_ch_37.docx": [3504], "Lamentations_ch_1.docx": [5374], "Ezekiel_ch_13.docx": [4371], "Ezekiel_ch_22.docx": [3235], "Ezekiel_ch_37.docx": [3482], "Daniel_ch_6.docx": [3670], "Matthew_ch_6.docx": [2851], "Matthew_ch_7.docx": [2521]}

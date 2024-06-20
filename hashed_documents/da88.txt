@@ -1,0 +1,8 @@
+
+nimrod	{"Genesis_ch_10.docx": [1060, 1082, 1082, 1082], "1 Chronicles_ch_1.docx": [621, 621, 621], "Micah_ch_5.docx": [1726, 1735, 1726, 1735, 1726, 1735]}
+beze	{"Joshua_ch_10.docx": [7, 389, 389, 389], "Judges_ch_1.docx": [407, 407, 407]}
+nimrod	{"Genesis_ch_10.docx": [1060, 1082, 1082], "1 Chronicles_ch_1.docx": [621, 621], "Micah_ch_5.docx": [1726, 1735, 1726, 1735]}
+beze	{"Joshua_ch_10.docx": [7, 389, 389], "Judges_ch_1.docx": [407, 407]}
+42j	{"Joshua_ch_10.docx": [14733]}
+nimrod	{"Genesis_ch_10.docx": [1060, 1082], "1 Chronicles_ch_1.docx": [621], "Micah_ch_5.docx": [1726, 1735]}
+beze	{"Joshua_ch_10.docx": [7, 389], "Judges_ch_1.docx": [407]}

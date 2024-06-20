@@ -1,0 +1,8 @@
+
+moab’	{"Numbers_ch_21.docx": [2073], "Numbers_ch_23.docx": [863, 863, 863], "Psalms_ch_108.docx": [826, 826, 826], "Isaiah_ch_15.docx": [55, 653, 1481, 55, 653, 1481, 55, 653, 1481], "Isaiah_ch_16.docx": [2279, 2279, 2279], "Jeremiah_ch_48.docx": [2100, 4390, 4828, 5440, 5465, 4390, 4828, 5440, 5465, 2100, 4390, 4828, 5440, 5465]}
+bonni	{"1 Chronicles_ch_24.docx": [2725]}
+moab’	{"Numbers_ch_21.docx": [2073], "Numbers_ch_23.docx": [863, 863], "Psalms_ch_108.docx": [826, 826], "Isaiah_ch_15.docx": [55, 653, 1481, 55, 653, 1481], "Isaiah_ch_16.docx": [2279, 2279], "Jeremiah_ch_48.docx": [4390, 4828, 5440, 5465, 2100, 4390, 4828, 5440, 5465]}
+bonni	{"1 Chronicles_ch_24.docx": [2725]}
+33‘un	{"Job_ch_31.docx": [3008]}
+moab’	{"Numbers_ch_21.docx": [2073], "Numbers_ch_23.docx": [863], "Psalms_ch_108.docx": [826], "Isaiah_ch_15.docx": [55, 653, 1481], "Isaiah_ch_16.docx": [2279], "Jeremiah_ch_48.docx": [2100, 4390, 4828, 5440, 5465]}
+bonni	{"1 Chronicles_ch_24.docx": [2725]}

@@ -1,0 +1,4 @@
+
+workm	{"Ezra_ch_5.docx": [1234], "Ephesians_ch_2.docx": [1129, 1129], "2 Timothy_ch_2.docx": [1870, 1870]}
+workm	{"Ezra_ch_5.docx": [1234], "Ephesians_ch_2.docx": [1129], "2 Timothy_ch_2.docx": [1870]}
+workm	{"Ezra_ch_5.docx": [1234], "Ephesians_ch_2.docx": [1129], "2 Timothy_ch_2.docx": [1870]}

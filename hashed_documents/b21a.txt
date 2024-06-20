@@ -1,0 +1,4 @@
+
+pop	{"Genesis_ch_6.docx": [7], "Genesis_ch_18.docx": [2277, 2277, 2277], "Isaiah_ch_41.docx": [3335, 3335, 3335], "Hosea_ch_4.docx": [1982, 1982, 1982], "Joel_ch_1.docx": [763, 763, 763], "Ephesians_ch_5.docx": [1600, 1600]}
+pop	{"Genesis_ch_6.docx": [7], "Genesis_ch_18.docx": [2277, 2277], "Isaiah_ch_41.docx": [3335, 3335], "Hosea_ch_4.docx": [1982, 1982], "Joel_ch_1.docx": [763, 763], "Ephesians_ch_5.docx": [1600]}
+pop	{"Genesis_ch_6.docx": [7], "Genesis_ch_18.docx": [2277], "Isaiah_ch_41.docx": [3335], "Hosea_ch_4.docx": [1982], "Joel_ch_1.docx": [763], "Ephesians_ch_5.docx": [1600]}

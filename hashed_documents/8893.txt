@@ -1,0 +1,4 @@
+
+pear	{"1 Chronicles_ch_14.docx": [1616, 1691, 1691, 1691], "Esther_ch_1.docx": [1240, 1240, 1240], "Matthew_ch_7.docx": [667, 667, 667], "Matthew_ch_13.docx": [6125, 6133, 6125, 6133, 6125, 6133], "1 Timothy_ch_2.docx": [979, 979], "Revelation_ch_17.docx": [560, 560], "Revelation_ch_18.docx": [1982, 2912, 1982, 2912], "Revelation_ch_21.docx": [3280, 3290, 3280, 3290]}
+pear	{"1 Chronicles_ch_14.docx": [1616, 1691, 1691], "Esther_ch_1.docx": [1240, 1240], "Matthew_ch_7.docx": [667, 667], "Matthew_ch_13.docx": [6125, 6133, 6125, 6133], "1 Timothy_ch_2.docx": [979], "Revelation_ch_17.docx": [560], "Revelation_ch_18.docx": [1982, 2912], "Revelation_ch_21.docx": [3280, 3290]}
+pear	{"1 Chronicles_ch_14.docx": [1616, 1691], "Esther_ch_1.docx": [1240], "Matthew_ch_7.docx": [667], "Matthew_ch_13.docx": [6125, 6133], "1 Timothy_ch_2.docx": [979], "Revelation_ch_17.docx": [560], "Revelation_ch_18.docx": [1982, 2912], "Revelation_ch_21.docx": [3280, 3290]}

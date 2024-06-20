@@ -1,0 +1,5 @@
+
+unbec	{"Proverbs_ch_25.docx": [2529], "Ephesians_ch_5.docx": [391, 391]}
+12ah	{"1 Chronicles_ch_6.docx": [797]}
+unbec	{"Proverbs_ch_25.docx": [2529], "Ephesians_ch_5.docx": [391]}
+unbec	{"Proverbs_ch_25.docx": [2529], "Ephesians_ch_5.docx": [391]}

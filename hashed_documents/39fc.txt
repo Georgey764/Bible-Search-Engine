@@ -1,0 +1,7 @@
+
+bones;	{"Ezekiel_ch_32.docx": [4786], "Ezekiel_ch_39.docx": [2539, 2539, 2539]}
+16it	{"Numbers_ch_21.docx": [2185], "2 Samuel_ch_23.docx": [2638], "1 Kings_ch_3.docx": [2826], "2 Kings_ch_8.docx": [3059], "Proverbs_ch_15.docx": [1572], "Ezekiel_ch_13.docx": [3089]}
+21up	{"Job_ch_12.docx": [1949]}
+1‘ja	{"Isaiah_ch_42.docx": [6]}
+bones;	{"Ezekiel_ch_32.docx": [4786], "Ezekiel_ch_39.docx": [2539, 2539]}
+bones;	{"Ezekiel_ch_32.docx": [4786], "Ezekiel_ch_39.docx": [2539]}

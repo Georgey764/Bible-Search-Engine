@@ -1,0 +1,2 @@
+
+1‘then	{"Exodus_ch_26.docx": [6], "Exodus_ch_27.docx": [6], "Deuteronomy_ch_3.docx": [6], "Deuteronomy_ch_10.docx": [6], "Ecclesiastes_ch_2.docx": [6], "Isaiah_ch_16.docx": [6], "Jeremiah_ch_8.docx": [8], "Ezekiel_ch_45.docx": [8], "Ezekiel_ch_46.docx": [6], "Zechariah_ch_10.docx": [6]}

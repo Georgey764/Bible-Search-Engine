@@ -1,0 +1,4 @@
+
+hell	{"1 Chronicles_ch_2.docx": [3555, 3584, 3584, 3584], "1 Chronicles_ch_27.docx": [1274, 1274, 1274]}
+hell	{"1 Chronicles_ch_2.docx": [3555, 3584, 3584], "1 Chronicles_ch_27.docx": [1274, 1274]}
+hell	{"1 Chronicles_ch_2.docx": [3555, 3584], "1 Chronicles_ch_27.docx": [1274]}

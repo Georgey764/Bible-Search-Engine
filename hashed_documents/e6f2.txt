@@ -1,0 +1,5 @@
+
+hardn	{"Deuteronomy_ch_10.docx": [2253], "Jeremiah_ch_4.docx": [678, 678, 678]}
+hardn	{"Deuteronomy_ch_10.docx": [2253], "Jeremiah_ch_4.docx": [678, 678]}
+34‘und	{"Job_ch_34.docx": [3210]}
+hardn	{"Deuteronomy_ch_10.docx": [2253], "Jeremiah_ch_4.docx": [678]}

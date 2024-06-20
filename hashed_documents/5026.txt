@@ -1,0 +1,4 @@
+
+rites	{"1 Kings_ch_15.docx": [1403], "Amos_ch_7.docx": [1506, 1506, 1506]}
+rites	{"1 Kings_ch_15.docx": [1403], "Amos_ch_7.docx": [1506, 1506]}
+rites	{"1 Kings_ch_15.docx": [1403], "Amos_ch_7.docx": [1506]}

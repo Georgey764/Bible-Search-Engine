@@ -1,0 +1,5 @@
+
+ras	{"Leviticus_ch_26.docx": [1980], "2 Kings_ch_15.docx": [5466, 5466, 5466], "2 Kings_ch_16.docx": [632, 632, 632], "1 Chronicles_ch_7.docx": [4524, 4524, 4524], "Psalms_ch_40.docx": [486, 486, 486], "Proverbs_ch_10.docx": [1342, 1342, 1342], "Proverbs_ch_28.docx": [2415, 2415, 2415], "2 Corinthians_ch_1.docx": [3080, 3102, 3080, 3102]}
+ras	{"Leviticus_ch_26.docx": [1980], "2 Kings_ch_15.docx": [5466, 5466], "2 Kings_ch_16.docx": [632, 632], "1 Chronicles_ch_7.docx": [4524, 4524], "Psalms_ch_40.docx": [486, 486], "Proverbs_ch_10.docx": [1342, 1342], "Proverbs_ch_28.docx": [2415, 2415], "2 Corinthians_ch_1.docx": [3080, 3102]}
+3let	{"Psalms_ch_136.docx": [580]}
+ras	{"Leviticus_ch_26.docx": [1980], "2 Kings_ch_15.docx": [5466], "2 Kings_ch_16.docx": [632], "1 Chronicles_ch_7.docx": [4524], "Psalms_ch_40.docx": [486], "Proverbs_ch_10.docx": [1342], "Proverbs_ch_28.docx": [2415], "2 Corinthians_ch_1.docx": [3080, 3102]}

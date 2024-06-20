@@ -1,0 +1,6 @@
+
+girls!	{"Jeremiah_ch_50.docx": [6936]}
+32‘s	{"Exodus_ch_32.docx": [4779], "Deuteronomy_ch_12.docx": [5763], "Judges_ch_9.docx": [6176], "2 Kings_ch_19.docx": [5624], "Ezekiel_ch_33.docx": [6261]}
+33pl	{"2 Chronicles_ch_6.docx": [5316]}
+girls!	{"Jeremiah_ch_50.docx": [6936]}
+girls!	{"Jeremiah_ch_50.docx": [6936]}

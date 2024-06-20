@@ -1,0 +1,4 @@
+
+accum	{"Genesis_ch_12.docx": [491, 1960, 1960, 1960], "Genesis_ch_13.docx": [456, 456, 456], "Deuteronomy_ch_17.docx": [2576, 2799, 2576, 2799, 2576, 2799], "2 Kings_ch_12.docx": [1608, 1608, 1608]}
+accum	{"Genesis_ch_12.docx": [491, 1960, 1960], "Genesis_ch_13.docx": [456, 456], "Deuteronomy_ch_17.docx": [2576, 2799, 2576, 2799], "2 Kings_ch_12.docx": [1608, 1608]}
+accum	{"Genesis_ch_12.docx": [491, 1960], "Genesis_ch_13.docx": [456], "Deuteronomy_ch_17.docx": [2576, 2799], "2 Kings_ch_12.docx": [1608]}

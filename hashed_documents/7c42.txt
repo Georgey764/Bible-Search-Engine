@@ -1,0 +1,4 @@
+
+mala	{"Genesis_ch_4.docx": [2222, 2249, 2249, 2249], "Numbers_ch_26.docx": [3871, 3871, 3871], "1 Chronicles_ch_2.docx": [4974, 4974, 4974], "Malachi_ch_1.docx": [1, 1, 1], "Malachi_ch_2.docx": [1, 1, 1], "Malachi_ch_3.docx": [1, 1, 1], "Matthew_ch_11.docx": [1267, 1267, 1267], "Luke_ch_7.docx": [3954, 3954], "Romans_ch_9.docx": [1568, 1568]}
+mala	{"Genesis_ch_4.docx": [2222, 2249, 2249], "Numbers_ch_26.docx": [3871, 3871], "1 Chronicles_ch_2.docx": [4974, 4974], "Malachi_ch_1.docx": [1, 1], "Malachi_ch_2.docx": [1, 1], "Malachi_ch_3.docx": [1, 1], "Matthew_ch_11.docx": [1267, 1267], "Luke_ch_7.docx": [3954], "Romans_ch_9.docx": [1568]}
+mala	{"Genesis_ch_4.docx": [2222, 2249], "Numbers_ch_26.docx": [3871], "1 Chronicles_ch_2.docx": [4974], "Malachi_ch_1.docx": [1], "Malachi_ch_2.docx": [1], "Malachi_ch_3.docx": [1], "Matthew_ch_11.docx": [1267], "Luke_ch_7.docx": [3954], "Romans_ch_9.docx": [1568]}

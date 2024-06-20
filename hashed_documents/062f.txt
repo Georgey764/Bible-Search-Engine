@@ -1,0 +1,4 @@
+
+drawer	{"Joshua_ch_9.docx": [11272], "Amos_ch_8.docx": [785, 785, 785]}
+drawer	{"Joshua_ch_9.docx": [11272], "Amos_ch_8.docx": [785, 785]}
+drawer	{"Joshua_ch_9.docx": [11272], "Amos_ch_8.docx": [785]}

@@ -1,0 +1,5 @@
+
+erecti	{"1 Kings_ch_14.docx": [3983], "1 Kings_ch_16.docx": [5299, 5299, 5299], "2 Chronicles_ch_25.docx": [2074, 2074, 2074]}
+33wome	{"Leviticus_ch_15.docx": [4618]}
+erecti	{"1 Kings_ch_14.docx": [3983], "1 Kings_ch_16.docx": [5299, 5299], "2 Chronicles_ch_25.docx": [2074, 2074]}
+erecti	{"1 Kings_ch_14.docx": [3983], "1 Kings_ch_16.docx": [5299], "2 Chronicles_ch_25.docx": [2074]}

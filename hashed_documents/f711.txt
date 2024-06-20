@@ -1,0 +1,4 @@
+
+orac	{"2 Chronicles_ch_35.docx": [3892], "Isaiah_ch_28.docx": [1728, 1728, 1728], "Ezekiel_ch_21.docx": [3571, 5247, 3571, 5247, 3571, 5247]}
+orac	{"2 Chronicles_ch_35.docx": [3892], "Isaiah_ch_28.docx": [1728, 1728], "Ezekiel_ch_21.docx": [3571, 5247, 3571, 5247]}
+orac	{"2 Chronicles_ch_35.docx": [3892], "Isaiah_ch_28.docx": [1728], "Ezekiel_ch_21.docx": [3571, 5247]}

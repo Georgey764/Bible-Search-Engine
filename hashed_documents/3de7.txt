@@ -1,0 +1,4 @@
+
+marv	{"Exodus_ch_8.docx": [3435], "Exodus_ch_9.docx": [404, 404, 404], "Exodus_ch_15.docx": [1474, 1474, 1474], "2 Samuel_ch_23.docx": [3387, 3387, 3387], "Luke_ch_4.docx": [2938, 2938], "John_ch_9.docx": [3470, 3470], "2 Thessalonians_ch_1.docx": [1544, 1544], "Revelation_ch_17.docx": [1469, 1469]}
+marv	{"Exodus_ch_8.docx": [3435], "Exodus_ch_9.docx": [404, 404], "Exodus_ch_15.docx": [1474, 1474], "2 Samuel_ch_23.docx": [3387, 3387], "Luke_ch_4.docx": [2938], "John_ch_9.docx": [3470], "2 Thessalonians_ch_1.docx": [1544], "Revelation_ch_17.docx": [1469]}
+marv	{"Exodus_ch_8.docx": [3435], "Exodus_ch_9.docx": [404], "Exodus_ch_15.docx": [1474], "2 Samuel_ch_23.docx": [3387], "Luke_ch_4.docx": [2938], "John_ch_9.docx": [3470], "2 Thessalonians_ch_1.docx": [1544], "Revelation_ch_17.docx": [1469]}

@@ -1,0 +1,7 @@
+
+ellas	{"Genesis_ch_14.docx": [20, 1094, 1094, 1094]}
+vault	{"1 Kings_ch_6.docx": [1896]}
+ellas	{"Genesis_ch_14.docx": [20, 1094, 1094]}
+vault	{"1 Kings_ch_6.docx": [1896]}
+ellas	{"Genesis_ch_14.docx": [20, 1094]}
+vault	{"1 Kings_ch_6.docx": [1896]}

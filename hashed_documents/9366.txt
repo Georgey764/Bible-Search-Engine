@@ -1,0 +1,7 @@
+
+dath	{"Numbers_ch_16.docx": [68, 1548, 3409, 3707, 1548, 3409, 3707, 1548, 3409, 3707], "Numbers_ch_26.docx": [915, 985, 915, 985, 915, 985], "Deuteronomy_ch_11.docx": [726, 726, 726], "Psalms_ch_106.docx": [1535, 1535, 1535]}
+guests	{"Judges_ch_14.docx": [1640, 3106, 3144, 3106, 3144, 3106, 3144], "1 Kings_ch_1.docx": [5758, 6947, 5758, 6947, 5758, 6947], "2 Chronicles_ch_29.docx": [5128, 5128, 5128], "Proverbs_ch_9.docx": [214, 214, 214], "Daniel_ch_5.docx": [1434, 1434, 1434], "Matthew_ch_22.docx": [1280, 1280, 1280], "Luke_ch_14.docx": [631, 1190, 1791, 631, 1190, 1791]}
+dath	{"Numbers_ch_16.docx": [68, 1548, 3409, 3707, 1548, 3409, 3707], "Numbers_ch_26.docx": [915, 985, 915, 985], "Deuteronomy_ch_11.docx": [726, 726], "Psalms_ch_106.docx": [1535, 1535]}
+guests	{"Judges_ch_14.docx": [1640, 3106, 3144, 3106, 3144], "1 Kings_ch_1.docx": [5758, 6947, 5758, 6947], "2 Chronicles_ch_29.docx": [5128, 5128], "Proverbs_ch_9.docx": [214, 214], "Daniel_ch_5.docx": [1434, 1434], "Matthew_ch_22.docx": [1280, 1280], "Luke_ch_14.docx": [631, 1190, 1791]}
+dath	{"Numbers_ch_16.docx": [68, 1548, 3409, 3707], "Numbers_ch_26.docx": [915, 985], "Deuteronomy_ch_11.docx": [726], "Psalms_ch_106.docx": [1535]}
+guests	{"Judges_ch_14.docx": [1640, 3106, 3144], "1 Kings_ch_1.docx": [5758, 6947], "2 Chronicles_ch_29.docx": [5128], "Proverbs_ch_9.docx": [214], "Daniel_ch_5.docx": [1434], "Matthew_ch_22.docx": [1280], "Luke_ch_14.docx": [631, 1190, 1791]}

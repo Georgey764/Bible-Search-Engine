@@ -1,0 +1,5 @@
+
+life-g	{"Proverbs_ch_14.docx": [2384], "Proverbs_ch_18.docx": [374, 374, 374], "Song of Solomon_ch_4.docx": [2124, 2124, 2124], "Isaiah_ch_12.docx": [345, 345, 345], "Acts_ch_7.docx": [5498, 5498], "1 Corinthians_ch_15.docx": [5438, 5438], "Philippians_ch_2.docx": [1970, 1970]}
+31if	{"Psalms_ch_89.docx": [2999], "Proverbs_ch_11.docx": [3188]}
+life-g	{"Proverbs_ch_14.docx": [2384], "Proverbs_ch_18.docx": [374, 374], "Song of Solomon_ch_4.docx": [2124, 2124], "Isaiah_ch_12.docx": [345, 345], "Acts_ch_7.docx": [5498], "1 Corinthians_ch_15.docx": [5438], "Philippians_ch_2.docx": [1970]}
+life-g	{"Proverbs_ch_14.docx": [2384], "Proverbs_ch_18.docx": [374], "Song of Solomon_ch_4.docx": [2124], "Isaiah_ch_12.docx": [345], "Acts_ch_7.docx": [5498], "1 Corinthians_ch_15.docx": [5438], "Philippians_ch_2.docx": [1970]}

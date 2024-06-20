@@ -1,0 +1,4 @@
+
+joiada	{"Nehemiah_ch_12.docx": [531, 768, 795, 2025, 768, 2025, 768, 795, 2025]}
+joiada	{"Nehemiah_ch_12.docx": [531, 768, 2025, 768, 795, 2025]}
+joiada	{"Nehemiah_ch_12.docx": [531, 768, 795, 2025]}

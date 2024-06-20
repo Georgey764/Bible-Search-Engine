@@ -1,0 +1,6 @@
+
+worryi	{"1 Samuel_ch_10.docx": [415], "Luke_ch_12.docx": [3243, 3243]}
+unpro	{"Ephesians_ch_5.docx": [1205]}
+worryi	{"1 Samuel_ch_10.docx": [415], "Luke_ch_12.docx": [3243]}
+worryi	{"1 Samuel_ch_10.docx": [415], "Luke_ch_12.docx": [3243]}
+unpro	{"Ephesians_ch_5.docx": [1205]}

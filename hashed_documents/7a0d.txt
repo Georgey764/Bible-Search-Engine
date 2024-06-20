@@ -1,0 +1,4 @@
+
+rumble	{"Numbers_ch_16.docx": [4406], "Job_ch_30.docx": [2638, 2638, 2638], "Psalms_ch_18.docx": [886, 886, 886], "Jeremiah_ch_47.docx": [482, 482, 482], "Ezekiel_ch_26.docx": [2716, 2716, 2716], "Revelation_ch_10.docx": [334, 334]}
+rumble	{"Numbers_ch_16.docx": [4406], "Job_ch_30.docx": [2638, 2638], "Psalms_ch_18.docx": [886, 886], "Jeremiah_ch_47.docx": [482, 482], "Ezekiel_ch_26.docx": [2716, 2716], "Revelation_ch_10.docx": [334]}
+rumble	{"Numbers_ch_16.docx": [4406], "Job_ch_30.docx": [2638], "Psalms_ch_18.docx": [886], "Jeremiah_ch_47.docx": [482], "Ezekiel_ch_26.docx": [2716], "Revelation_ch_10.docx": [334]}

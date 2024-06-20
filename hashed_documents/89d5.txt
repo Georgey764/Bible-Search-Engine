@@ -1,0 +1,4 @@
+
+censor	{"Numbers_ch_16.docx": [5286], "Psalms_ch_150.docx": [965, 1414]}
+censor	{"Numbers_ch_16.docx": [5286]}
+censor	{"Numbers_ch_16.docx": [5286]}

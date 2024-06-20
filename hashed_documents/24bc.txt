@@ -1,0 +1,5 @@
+
+softe	{"Job_ch_23.docx": [1389], "Isaiah_ch_5.docx": [4088, 4088, 4088]}
+7(fo	{"1 Kings_ch_8.docx": [592]}
+softe	{"Job_ch_23.docx": [1389], "Isaiah_ch_5.docx": [4088, 4088]}
+softe	{"Job_ch_23.docx": [1389], "Isaiah_ch_5.docx": [4088]}

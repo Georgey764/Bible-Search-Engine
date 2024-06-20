@@ -1,0 +1,5 @@
+
+ziza	{"1 Chronicles_ch_23.docx": [1086, 1123, 1123, 1123]}
+3wit	{"2 Kings_ch_19.docx": [189], "Psalms_ch_88.docx": [292], "Psalms_ch_104.docx": [280]}
+ziza	{"1 Chronicles_ch_23.docx": [1086, 1123, 1123]}
+ziza	{"1 Chronicles_ch_23.docx": [1086, 1123]}

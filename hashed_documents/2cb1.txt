@@ -1,0 +1,7 @@
+
+tin	{"Numbers_ch_31.docx": [2742], "Ecclesiastes_ch_7.docx": [612, 612, 612], "Isaiah_ch_3.docx": [2560, 2560, 2560], "Ezekiel_ch_22.docx": [2642, 2950, 2642, 2950, 2642, 2950], "Ezekiel_ch_27.docx": [1715, 1715, 1715]}
+tasks	{"Ezekiel_ch_44.docx": [2912], "Revelation_ch_3.docx": [310, 310]}
+tin	{"Numbers_ch_31.docx": [2742], "Ecclesiastes_ch_7.docx": [612, 612], "Isaiah_ch_3.docx": [2560, 2560], "Ezekiel_ch_22.docx": [2642, 2950, 2642, 2950], "Ezekiel_ch_27.docx": [1715, 1715]}
+tasks	{"Ezekiel_ch_44.docx": [2912], "Revelation_ch_3.docx": [310]}
+tin	{"Numbers_ch_31.docx": [2742], "Ecclesiastes_ch_7.docx": [612], "Isaiah_ch_3.docx": [2560], "Ezekiel_ch_22.docx": [2642, 2950], "Ezekiel_ch_27.docx": [1715]}
+tasks	{"Ezekiel_ch_44.docx": [2912], "Revelation_ch_3.docx": [310]}

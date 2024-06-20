@@ -1,0 +1,4 @@
+
+unfait	{"Deuteronomy_ch_32.docx": [2824], "Psalms_ch_73.docx": [2371, 2371, 2371], "Ezekiel_ch_23.docx": [657, 657, 657], "Hosea_ch_4.docx": [1891, 1891, 1891], "Luke_ch_12.docx": [6057, 6057]}
+unfait	{"Deuteronomy_ch_32.docx": [2824], "Psalms_ch_73.docx": [2371, 2371], "Ezekiel_ch_23.docx": [657, 657], "Hosea_ch_4.docx": [1891, 1891], "Luke_ch_12.docx": [6057]}
+unfait	{"Deuteronomy_ch_32.docx": [2824], "Psalms_ch_73.docx": [2371], "Ezekiel_ch_23.docx": [657], "Hosea_ch_4.docx": [1891], "Luke_ch_12.docx": [6057]}

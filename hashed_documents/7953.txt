@@ -1,0 +1,3 @@
+
+laodi	{"Revelation_ch_1.docx": [1976], "Revelation_ch_3.docx": [2527, 2527]}
+laodi	{"Revelation_ch_1.docx": [1976], "Revelation_ch_3.docx": [2527]}

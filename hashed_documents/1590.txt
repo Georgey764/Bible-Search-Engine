@@ -1,0 +1,6 @@
+
+fif	{"Genesis_ch_47.docx": [4343], "Exodus_ch_18.docx": [2882, 3460, 2882, 3460, 2882, 3460], "Deuteronomy_ch_1.docx": [1940, 1940, 1940], "Judges_ch_7.docx": [3003, 3003, 3003], "2 Samuel_ch_3.docx": [494, 494, 494], "1 Kings_ch_18.docx": [426, 1784, 426, 1784, 426, 1784], "Galatians_ch_1.docx": [2311, 2311]}
+upbuil	{"Ephesians_ch_4.docx": [3880]}
+fif	{"Genesis_ch_47.docx": [4343], "Exodus_ch_18.docx": [2882, 3460, 2882, 3460], "Deuteronomy_ch_1.docx": [1940, 1940], "Judges_ch_7.docx": [3003, 3003], "2 Samuel_ch_3.docx": [494, 494], "1 Kings_ch_18.docx": [426, 1784, 426, 1784], "Galatians_ch_1.docx": [2311]}
+fif	{"Genesis_ch_47.docx": [4343], "Exodus_ch_18.docx": [2882, 3460], "Deuteronomy_ch_1.docx": [1940], "Judges_ch_7.docx": [3003], "2 Samuel_ch_3.docx": [494], "1 Kings_ch_18.docx": [426, 1784], "Galatians_ch_1.docx": [2311]}
+upbuil	{"Ephesians_ch_4.docx": [3880]}

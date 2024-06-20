@@ -1,0 +1,4 @@
+
+statue	{"Exodus_ch_25.docx": [1766, 1949, 1962, 2403, 1949, 1962, 2403, 1949, 1962, 2403], "Exodus_ch_37.docx": [632, 632, 632], "Leviticus_ch_19.docx": [306, 306, 306], "1 Samuel_ch_19.docx": [2075, 2427, 2075, 2427, 2075, 2427], "Isaiah_ch_19.docx": [530, 530, 530], "Isaiah_ch_40.docx": [2657, 2657, 2657]}
+statue	{"Exodus_ch_25.docx": [1766, 1949, 1962, 2403, 1949, 1962, 2403], "Exodus_ch_37.docx": [632, 632], "Leviticus_ch_19.docx": [306, 306], "1 Samuel_ch_19.docx": [2075, 2427, 2075, 2427], "Isaiah_ch_19.docx": [530, 530], "Isaiah_ch_40.docx": [2657, 2657]}
+statue	{"Exodus_ch_25.docx": [1766, 1949, 1962, 2403], "Exodus_ch_37.docx": [632], "Leviticus_ch_19.docx": [306], "1 Samuel_ch_19.docx": [2075, 2427], "Isaiah_ch_19.docx": [530], "Isaiah_ch_40.docx": [2657]}

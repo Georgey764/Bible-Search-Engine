@@ -1,0 +1,5 @@
+
+ishba	{"1 Chronicles_ch_26.docx": [890]}
+ishba	{"1 Chronicles_ch_26.docx": [890]}
+24le	{"Matthew_ch_5.docx": [2719], "Matthew_ch_19.docx": [2927]}
+ishba	{"1 Chronicles_ch_26.docx": [890]}

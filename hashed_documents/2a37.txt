@@ -1,0 +1,8 @@
+
+bethha	{"2 Kings_ch_9.docx": [5428], "Nehemiah_ch_3.docx": [5134, 5134, 5134]}
+immer;	{"Ezra_ch_2.docx": [1458]}
+25then	{"Genesis_ch_21.docx": [3032], "Genesis_ch_45.docx": [3556], "Exodus_ch_35.docx": [2572], "Leviticus_ch_4.docx": [3298], "Numbers_ch_18.docx": [4424], "Numbers_ch_23.docx": [3368], "Numbers_ch_24.docx": [3220], "Numbers_ch_33.docx": [2063], "Judges_ch_3.docx": [8935], "Judges_ch_6.docx": [5695], "1 Samuel_ch_10.docx": [4339], "1 Samuel_ch_17.docx": [3477], "1 Samuel_ch_26.docx": [4158], "1 Kings_ch_3.docx": [4030], "1 Kings_ch_20.docx": [4088], "1 Chronicles_ch_23.docx": [2553], "2 Chronicles_ch_18.docx": [4060], "Psalms_ch_105.docx": [1992], "Psalms_ch_136.docx": [2465], "Matthew_ch_11.docx": [3008]}
+bethha	{"2 Kings_ch_9.docx": [5428], "Nehemiah_ch_3.docx": [5134, 5134]}
+immer;	{"Ezra_ch_2.docx": [1458]}
+bethha	{"2 Kings_ch_9.docx": [5428], "Nehemiah_ch_3.docx": [5134]}
+immer;	{"Ezra_ch_2.docx": [1458]}

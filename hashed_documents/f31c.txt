@@ -1,0 +1,8 @@
+
+jeglo	{"Genesis_ch_36.docx": [346, 1579, 2165, 1579, 2165, 1579, 2165]}
+shru	{"Psalms_ch_58.docx": [926], "Ezekiel_ch_39.docx": [1604, 1604, 1604]}
+jeglo	{"Genesis_ch_36.docx": [346, 1579, 2165, 1579, 2165]}
+33sa	{"2 Samuel_ch_23.docx": [4686]}
+shru	{"Psalms_ch_58.docx": [926], "Ezekiel_ch_39.docx": [1604, 1604]}
+jeglo	{"Genesis_ch_36.docx": [346, 1579, 2165]}
+shru	{"Psalms_ch_58.docx": [926], "Ezekiel_ch_39.docx": [1604]}

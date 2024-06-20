@@ -1,0 +1,7 @@
+
+diss	{"1 Samuel_ch_15.docx": [4640], "Proverbs_ch_28.docx": [2329, 2329, 2329], "Jeremiah_ch_4.docx": [4878, 4878, 4878], "Micah_ch_4.docx": [2896, 2896, 2896]}
+away]	{"Jeremiah_ch_15.docx": [192], "Hosea_ch_1.docx": [1943, 1943, 1943]}
+diss	{"1 Samuel_ch_15.docx": [4640], "Proverbs_ch_28.docx": [2329, 2329], "Jeremiah_ch_4.docx": [4878, 4878], "Micah_ch_4.docx": [2896, 2896]}
+away]	{"Jeremiah_ch_15.docx": [192], "Hosea_ch_1.docx": [1943, 1943]}
+diss	{"1 Samuel_ch_15.docx": [4640], "Proverbs_ch_28.docx": [2329], "Jeremiah_ch_4.docx": [4878], "Micah_ch_4.docx": [2896]}
+away]	{"Jeremiah_ch_15.docx": [192], "Hosea_ch_1.docx": [1943]}

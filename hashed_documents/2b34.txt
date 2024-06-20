@@ -1,0 +1,5 @@
+
+fixe	{"Exodus_ch_13.docx": [2490], "Job_ch_41.docx": [2116, 2116, 2116], "Proverbs_ch_16.docx": [3060, 3060, 3060], "Isaiah_ch_48.docx": [2269, 2269, 2269]}
+fixe	{"Exodus_ch_13.docx": [2490], "Job_ch_41.docx": [2116, 2116], "Proverbs_ch_16.docx": [3060, 3060], "Isaiah_ch_48.docx": [2269, 2269]}
+4‘te	{"Deuteronomy_ch_2.docx": [298], "Jeremiah_ch_27.docx": [629]}
+fixe	{"Exodus_ch_13.docx": [2490], "Job_ch_41.docx": [2116], "Proverbs_ch_16.docx": [3060], "Isaiah_ch_48.docx": [2269]}

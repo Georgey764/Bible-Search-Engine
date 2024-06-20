@@ -1,0 +1,5 @@
+
+jexan	{"1 Chronicles_ch_1.docx": [2494, 2548, 2548, 2548]}
+37howe	{"Genesis_ch_30.docx": [4506], "2 Kings_ch_15.docx": [5457]}
+jexan	{"1 Chronicles_ch_1.docx": [2494, 2548, 2548]}
+jexan	{"1 Chronicles_ch_1.docx": [2494, 2548]}

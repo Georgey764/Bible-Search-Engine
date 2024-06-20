@@ -1,0 +1,10 @@
+
+zebras	{"Job_ch_39.docx": [406], "Jeremiah_ch_48.docx": [706, 706, 706], "Daniel_ch_5.docx": [3861, 3861, 3861]}
+hinds!	{"Song of Solomon_ch_2.docx": [1022]}
+andr	{"Matthew_ch_4.docx": [2184], "Matthew_ch_10.docx": [253, 253, 253], "Mark_ch_1.docx": [1795, 3305, 1795, 3305], "Mark_ch_3.docx": [2125, 2125], "Mark_ch_13.docx": [300, 300], "Luke_ch_6.docx": [1764, 1764], "John_ch_1.docx": [4252, 4812, 4252, 4812], "John_ch_6.docx": [902, 902], "John_ch_12.docx": [3070, 3072, 3070, 3072], "Acts_ch_1.docx": [3092, 3092]}
+zebras	{"Job_ch_39.docx": [406], "Jeremiah_ch_48.docx": [706, 706], "Daniel_ch_5.docx": [3861, 3861]}
+hinds!	{"Song of Solomon_ch_2.docx": [1022]}
+andr	{"Matthew_ch_4.docx": [2184], "Matthew_ch_10.docx": [253, 253], "Mark_ch_1.docx": [1795, 3305], "Mark_ch_3.docx": [2125], "Mark_ch_13.docx": [300], "Luke_ch_6.docx": [1764], "John_ch_1.docx": [4252, 4812], "John_ch_6.docx": [902], "John_ch_12.docx": [3070, 3072], "Acts_ch_1.docx": [3092]}
+zebras	{"Job_ch_39.docx": [406], "Jeremiah_ch_48.docx": [706], "Daniel_ch_5.docx": [3861]}
+hinds!	{"Song of Solomon_ch_2.docx": [1022]}
+andr	{"Matthew_ch_4.docx": [2184], "Matthew_ch_10.docx": [253], "Mark_ch_1.docx": [1795, 3305], "Mark_ch_3.docx": [2125], "Mark_ch_13.docx": [300], "Luke_ch_6.docx": [1764], "John_ch_1.docx": [4252, 4812], "John_ch_6.docx": [902], "John_ch_12.docx": [3070, 3072], "Acts_ch_1.docx": [3092]}

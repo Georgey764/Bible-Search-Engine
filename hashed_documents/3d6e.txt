@@ -1,0 +1,4 @@
+
+funne	{"Exodus_ch_25.docx": [4253], "Exodus_ch_37.docx": [2319, 2319, 2319], "Numbers_ch_4.docx": [973, 973, 973], "1 Kings_ch_7.docx": [6455, 6455, 6455], "Zechariah_ch_4.docx": [213, 1660, 213, 1660, 213, 1660]}
+funne	{"Exodus_ch_25.docx": [4253], "Exodus_ch_37.docx": [2319, 2319], "Numbers_ch_4.docx": [973, 973], "1 Kings_ch_7.docx": [6455, 6455], "Zechariah_ch_4.docx": [213, 1660, 213, 1660]}
+funne	{"Exodus_ch_25.docx": [4253], "Exodus_ch_37.docx": [2319], "Numbers_ch_4.docx": [973], "1 Kings_ch_7.docx": [6455], "Zechariah_ch_4.docx": [213, 1660]}

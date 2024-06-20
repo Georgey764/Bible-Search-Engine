@@ -1,0 +1,4 @@
+
+verses	{"1 Chronicles_ch_1.docx": [698, 703, 703, 703], "Job_ch_40.docx": [1291, 1291, 1291], "Psalms_ch_102.docx": [2185, 2185, 2185], "Psalms_ch_104.docx": [3407, 3407, 3407], "Proverbs_ch_20.docx": [12, 18, 56, 1985, 2696, 12, 18, 56, 1985, 2696, 12, 18, 56, 1985, 2696]}
+verses	{"1 Chronicles_ch_1.docx": [698, 703, 703], "Job_ch_40.docx": [1291, 1291], "Psalms_ch_102.docx": [2185, 2185], "Psalms_ch_104.docx": [3407, 3407], "Proverbs_ch_20.docx": [12, 18, 56, 1985, 2696, 12, 18, 56, 1985, 2696]}
+verses	{"1 Chronicles_ch_1.docx": [698, 703], "Job_ch_40.docx": [1291], "Psalms_ch_102.docx": [2185], "Psalms_ch_104.docx": [3407], "Proverbs_ch_20.docx": [12, 18, 56, 1985, 2696]}

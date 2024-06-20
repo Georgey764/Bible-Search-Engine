@@ -1,0 +1,5 @@
+
+cate	{"Joel_ch_1.docx": [377], "Joel_ch_2.docx": [4538, 4538, 4538]}
+7‘aaro	{"Exodus_ch_30.docx": [703]}
+cate	{"Joel_ch_1.docx": [377], "Joel_ch_2.docx": [4538, 4538]}
+cate	{"Joel_ch_1.docx": [377], "Joel_ch_2.docx": [4538]}

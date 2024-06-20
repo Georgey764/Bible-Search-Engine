@@ -1,0 +1,4 @@
+
+jariel	{"Joshua_ch_15.docx": [5917], "Joshua_ch_17.docx": [1353, 1353]}
+jariel	{"Joshua_ch_17.docx": [1353, 1353]}
+jariel	{"Joshua_ch_15.docx": [5917], "Joshua_ch_17.docx": [1353]}

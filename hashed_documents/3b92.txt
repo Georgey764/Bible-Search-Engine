@@ -1,0 +1,4 @@
+
+jochab	{"Exodus_ch_6.docx": [2539], "Numbers_ch_26.docx": [6094, 6094, 6094]}
+jochab	{"Exodus_ch_6.docx": [2539], "Numbers_ch_26.docx": [6094, 6094]}
+jochab	{"Exodus_ch_6.docx": [2539], "Numbers_ch_26.docx": [6094]}

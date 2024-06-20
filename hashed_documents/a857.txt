@@ -1,0 +1,7 @@
+
+swit	{"2 Samuel_ch_7.docx": [2074], "Psalms_ch_89.docx": [3094, 3094, 3094]}
+vend	{"Nehemiah_ch_3.docx": [15217, 15234, 15253, 15234, 15253, 15234, 15253], "Luke_ch_19.docx": [5391, 5391]}
+swit	{"2 Samuel_ch_7.docx": [2074], "Psalms_ch_89.docx": [3094, 3094]}
+vend	{"Nehemiah_ch_3.docx": [15217, 15234, 15253, 15234, 15253], "Luke_ch_19.docx": [5391]}
+swit	{"2 Samuel_ch_7.docx": [2074], "Psalms_ch_89.docx": [3094]}
+vend	{"Nehemiah_ch_3.docx": [15217, 15234, 15253], "Luke_ch_19.docx": [5391]}

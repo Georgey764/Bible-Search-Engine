@@ -1,0 +1,4 @@
+
+shiny	{"Leviticus_ch_14.docx": [8060], "Ezra_ch_8.docx": [3746, 3746, 3746], "Ezekiel_ch_21.docx": [1426, 1426, 1426]}
+shiny	{"Leviticus_ch_14.docx": [8060], "Ezra_ch_8.docx": [3746, 3746], "Ezekiel_ch_21.docx": [1426, 1426]}
+shiny	{"Leviticus_ch_14.docx": [8060], "Ezra_ch_8.docx": [3746], "Ezekiel_ch_21.docx": [1426]}

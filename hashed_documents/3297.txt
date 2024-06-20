@@ -1,0 +1,4 @@
+
+450,	{"1 Kings_ch_5.docx": [1623]}
+18when	{"Isaiah_ch_2.docx": [2215]}
+20alo	{"Ezekiel_ch_1.docx": [2536]}

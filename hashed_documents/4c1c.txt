@@ -1,0 +1,4 @@
+
+harass	{"Deuteronomy_ch_25.docx": [2274], "Joshua_ch_19.docx": [3753, 3753, 3753], "Judges_ch_2.docx": [1001, 1001, 1001], "Luke_ch_3.docx": [4761, 4761]}
+harass	{"Deuteronomy_ch_25.docx": [2274], "Joshua_ch_19.docx": [3753, 3753], "Judges_ch_2.docx": [1001, 1001], "Luke_ch_3.docx": [4761]}
+harass	{"Deuteronomy_ch_25.docx": [2274], "Joshua_ch_19.docx": [3753], "Judges_ch_2.docx": [1001], "Luke_ch_3.docx": [4761]}

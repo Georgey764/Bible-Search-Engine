@@ -1,0 +1,5 @@
+
+jeldap	{"Genesis_ch_22.docx": [3348], "2 Kings_ch_23.docx": [7946, 7946, 7946]}
+jeldap	{"Genesis_ch_22.docx": [3348], "2 Kings_ch_23.docx": [7946, 7946]}
+2[y	{"Psalms_ch_29.docx": [238]}
+jeldap	{"Genesis_ch_22.docx": [3348], "2 Kings_ch_23.docx": [7946]}

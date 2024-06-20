@@ -1,0 +1,4 @@
+
+predi	{"Leviticus_ch_20.docx": [815], "2 Samuel_ch_11.docx": [3327, 3327, 3327], "Acts_ch_16.docx": [5430, 5430]}
+predi	{"Leviticus_ch_20.docx": [815], "2 Samuel_ch_11.docx": [3327, 3327], "Acts_ch_16.docx": [5430]}
+predi	{"Leviticus_ch_20.docx": [815], "2 Samuel_ch_11.docx": [3327], "Acts_ch_16.docx": [5430]}

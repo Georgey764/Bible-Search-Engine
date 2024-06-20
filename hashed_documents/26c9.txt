@@ -1,0 +1,4 @@
+
+handin	{"Exodus_ch_23.docx": [4404], "2 Kings_ch_17.docx": [3627, 3627, 3627], "Nehemiah_ch_9.docx": [6715, 6715, 6715], "Jeremiah_ch_34.docx": [461, 461, 461], "Jeremiah_ch_39.docx": [2858, 2858, 2858], "Ezekiel_ch_2.docx": [1352, 1352, 1352], "Matthew_ch_14.docx": [2139, 2139, 2139], "John_ch_18.docx": [3807, 3807]}
+handin	{"Exodus_ch_23.docx": [4404], "2 Kings_ch_17.docx": [3627, 3627], "Nehemiah_ch_9.docx": [6715, 6715], "Jeremiah_ch_34.docx": [461, 461], "Jeremiah_ch_39.docx": [2858, 2858], "Ezekiel_ch_2.docx": [1352, 1352], "Matthew_ch_14.docx": [2139, 2139], "John_ch_18.docx": [3807]}
+handin	{"Exodus_ch_23.docx": [4404], "2 Kings_ch_17.docx": [3627], "Nehemiah_ch_9.docx": [6715], "Jeremiah_ch_34.docx": [461], "Jeremiah_ch_39.docx": [2858], "Ezekiel_ch_2.docx": [1352], "Matthew_ch_14.docx": [2139], "John_ch_18.docx": [3807]}

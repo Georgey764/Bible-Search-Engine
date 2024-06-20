@@ -1,0 +1,7 @@
+
+gesem	{"Genesis_ch_45.docx": [1352], "Genesis_ch_46.docx": [4271, 4271, 4271], "Genesis_ch_47.docx": [40, 476, 671, 4510, 40, 476, 671, 4510, 40, 476, 671, 4510], "Exodus_ch_8.docx": [3441, 3441, 3441], "Exodus_ch_9.docx": [3722, 3722, 3722]}
+horse’	{"Ezekiel_ch_26.docx": [1860], "Revelation_ch_14.docx": [3509, 3509]}
+gesem	{"Genesis_ch_45.docx": [1352], "Genesis_ch_46.docx": [4271, 4271], "Genesis_ch_47.docx": [40, 476, 671, 4510, 40, 476, 671, 4510], "Exodus_ch_8.docx": [3441, 3441], "Exodus_ch_9.docx": [3722, 3722]}
+horse’	{"Ezekiel_ch_26.docx": [1860], "Revelation_ch_14.docx": [3509]}
+gesem	{"Genesis_ch_45.docx": [1352], "Genesis_ch_46.docx": [4271], "Genesis_ch_47.docx": [40, 476, 671, 4510], "Exodus_ch_8.docx": [3441], "Exodus_ch_9.docx": [3722]}
+horse’	{"Ezekiel_ch_26.docx": [1860], "Revelation_ch_14.docx": [3509]}

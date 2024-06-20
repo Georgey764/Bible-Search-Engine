@@ -1,0 +1,7 @@
+
+doom	{"Genesis_ch_3.docx": [1992], "Judges_ch_20.docx": [5268, 5268, 5268]}
+slaye	{"Numbers_ch_35.docx": [3237, 3720, 3720, 3720]}
+doom	{"Genesis_ch_3.docx": [1992], "Judges_ch_20.docx": [5268, 5268]}
+slaye	{"Numbers_ch_35.docx": [3237, 3720, 3720]}
+doom	{"Genesis_ch_3.docx": [1992], "Judges_ch_20.docx": [5268]}
+slaye	{"Numbers_ch_35.docx": [3237, 3720]}

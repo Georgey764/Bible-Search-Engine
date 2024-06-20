@@ -1,0 +1,4 @@
+
+leopar	{"Song of Solomon_ch_4.docx": [1217], "Isaiah_ch_11.docx": [738, 738, 738], "Jeremiah_ch_5.docx": [1097, 1097, 1097], "Jeremiah_ch_13.docx": [3910, 3910, 3910], "Daniel_ch_7.docx": [896, 896, 896], "Hosea_ch_13.docx": [858, 858, 858], "Habakkuk_ch_1.docx": [1169, 1169, 1169], "Revelation_ch_13.docx": [232, 232]}
+leopar	{"Song of Solomon_ch_4.docx": [1217], "Isaiah_ch_11.docx": [738, 738], "Jeremiah_ch_5.docx": [1097, 1097], "Jeremiah_ch_13.docx": [3910, 3910], "Daniel_ch_7.docx": [896, 896], "Hosea_ch_13.docx": [858, 858], "Habakkuk_ch_1.docx": [1169, 1169], "Revelation_ch_13.docx": [232]}
+leopar	{"Song of Solomon_ch_4.docx": [1217], "Isaiah_ch_11.docx": [738], "Jeremiah_ch_5.docx": [1097], "Jeremiah_ch_13.docx": [3910], "Daniel_ch_7.docx": [896], "Hosea_ch_13.docx": [858], "Habakkuk_ch_1.docx": [1169], "Revelation_ch_13.docx": [232]}

@@ -1,0 +1,8 @@
+
+noah’	{"Genesis_ch_6.docx": [1118], "Genesis_ch_7.docx": [1342, 1342, 1342], "Genesis_ch_8.docx": [1569, 1569, 1569], "1 Chronicles_ch_1.docx": [138, 138, 138]}
+loben	{"Exodus_ch_6.docx": [2333], "Numbers_ch_3.docx": [2432, 2662, 2432, 2662, 2432, 2662], "Numbers_ch_26.docx": [6020, 6020, 6020], "1 Chronicles_ch_6.docx": [1179, 1388, 2062, 2071, 1179, 1388, 2062, 2071, 1179, 1388, 2062, 2071]}
+noah’	{"Genesis_ch_6.docx": [1118], "Genesis_ch_7.docx": [1342, 1342], "Genesis_ch_8.docx": [1569, 1569], "1 Chronicles_ch_1.docx": [138, 138]}
+loben	{"Exodus_ch_6.docx": [2333], "Numbers_ch_3.docx": [2432, 2662, 2432, 2662], "Numbers_ch_26.docx": [6020, 6020], "1 Chronicles_ch_6.docx": [1179, 1388, 2062, 2071, 1179, 1388, 2062, 2071]}
+5in	{"Deuteronomy_ch_1.docx": [379], "Joshua_ch_17.docx": [739], "2 Kings_ch_21.docx": [723], "1 Chronicles_ch_7.docx": [549], "Psalms_ch_17.docx": [528], "Psalms_ch_25.docx": [380], "Psalms_ch_31.docx": [555], "Psalms_ch_109.docx": [348], "Psalms_ch_118.docx": [372], "Proverbs_ch_20.docx": [834], "Isaiah_ch_15.docx": [734], "Isaiah_ch_28.docx": [708], "Jeremiah_ch_33.docx": [386], "Hosea_ch_1.docx": [831]}
+noah’	{"Genesis_ch_6.docx": [1118], "Genesis_ch_7.docx": [1342], "Genesis_ch_8.docx": [1569], "1 Chronicles_ch_1.docx": [138]}
+loben	{"Exodus_ch_6.docx": [2333], "Numbers_ch_3.docx": [2432, 2662], "Numbers_ch_26.docx": [6020], "1 Chronicles_ch_6.docx": [1179, 1388, 2062, 2071]}

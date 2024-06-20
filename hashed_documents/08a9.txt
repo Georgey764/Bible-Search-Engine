@@ -1,0 +1,4 @@
+
+achobo	{"Genesis_ch_36.docx": [3897], "2 Kings_ch_22.docx": [1822, 2355, 1822, 2355, 1822, 2355], "1 Chronicles_ch_1.docx": [4149, 4149, 4149]}
+achobo	{"Genesis_ch_36.docx": [3897], "2 Kings_ch_22.docx": [1822, 2355, 1822, 2355], "1 Chronicles_ch_1.docx": [4149, 4149]}
+achobo	{"Genesis_ch_36.docx": [3897], "2 Kings_ch_22.docx": [1822, 2355], "1 Chronicles_ch_1.docx": [4149]}

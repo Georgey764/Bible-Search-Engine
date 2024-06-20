@@ -1,0 +1,4 @@
+
+telmo	{"1 Chronicles_ch_9.docx": [2551], "Ezra_ch_2.docx": [1679, 1679, 1679]}
+telmo	{"1 Chronicles_ch_9.docx": [2551], "Ezra_ch_2.docx": [1679, 1679]}
+telmo	{"1 Chronicles_ch_9.docx": [2551], "Ezra_ch_2.docx": [1679]}

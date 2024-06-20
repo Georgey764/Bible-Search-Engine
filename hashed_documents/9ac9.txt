@@ -1,0 +1,7 @@
+
+jarib	{"Ezra_ch_8.docx": [1808]}
+24an	{"Genesis_ch_21.docx": [3001], "Exodus_ch_19.docx": [3651], "Exodus_ch_22.docx": [3083], "Exodus_ch_28.docx": [2751], "Leviticus_ch_11.docx": [2429], "Numbers_ch_5.docx": [3560], "Numbers_ch_15.docx": [2526], "Deuteronomy_ch_33.docx": [3491], "Joshua_ch_6.docx": [3161], "Joshua_ch_9.docx": [11492], "Joshua_ch_10.docx": [10003], "Judges_ch_1.docx": [7825], "Judges_ch_4.docx": [7747], "Judges_ch_6.docx": [4992], "Judges_ch_8.docx": [4587], "Judges_ch_18.docx": [5189], "1 Samuel_ch_23.docx": [3525], "2 Samuel_ch_23.docx": [4087], "1 Kings_ch_10.docx": [3662], "1 Kings_ch_15.docx": [3406], "1 Kings_ch_17.docx": [3136], "2 Kings_ch_2.docx": [3952], "2 Kings_ch_5.docx": [4465], "2 Kings_ch_8.docx": [4188], "2 Kings_ch_10.docx": [4675], "1 Chronicles_ch_1.docx": [1936], "1 Chronicles_ch_7.docx": [2852], "1 Chronicles_ch_17.docx": [3502], "1 Chronicles_ch_27.docx": [3067], "2 Chronicles_ch_9.docx": [3631], "2 Chronicles_ch_18.docx": [3946], "2 Chronicles_ch_29.docx": [4150], "Nehemiah_ch_3.docx": [11311], "Job_ch_5.docx": [2127], "Psalms_ch_105.docx": [1908], "Proverbs_ch_26.docx": [2162], "Isaiah_ch_30.docx": [4279], "Jeremiah_ch_25.docx": [3764], "Jeremiah_ch_44.docx": [4985], "Ezekiel_ch_11.docx": [3579], "Ezekiel_ch_46.docx": [4635], "Daniel_ch_3.docx": [3922], "Daniel_ch_11.docx": [4530]}
+24rat	{"Joshua_ch_22.docx": [3860]}
+jarib	{"Ezra_ch_8.docx": [1808]}
+2egy	{"Isaiah_ch_19.docx": [278]}
+jarib	{"Ezra_ch_8.docx": [1808]}

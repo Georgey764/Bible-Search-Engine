@@ -1,0 +1,5 @@
+
+magad	{"Joshua_ch_15.docx": [4823], "1 Samuel_ch_14.docx": [238, 238, 238], "Matthew_ch_15.docx": [4587, 4587, 4587]}
+31as	{"Exodus_ch_12.docx": [4973], "2 Samuel_ch_18.docx": [5148], "2 Kings_ch_4.docx": [4768], "Psalms_ch_106.docx": [2886]}
+magad	{"Joshua_ch_15.docx": [4823], "1 Samuel_ch_14.docx": [238, 238], "Matthew_ch_15.docx": [4587, 4587]}
+magad	{"Joshua_ch_15.docx": [4823], "1 Samuel_ch_14.docx": [238], "Matthew_ch_15.docx": [4587]}

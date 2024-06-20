@@ -1,0 +1,10 @@
+
+naalie	{"Numbers_ch_21.docx": [2550, 2583, 2583, 2583]}
+hespe	{"Job_ch_9.docx": [739]}
+wile	{"Proverbs_ch_2.docx": [1042], "Proverbs_ch_7.docx": [2273, 2273, 2273]}
+naalie	{"Numbers_ch_21.docx": [2550, 2583, 2583]}
+hespe	{"Job_ch_9.docx": [739]}
+wile	{"Proverbs_ch_2.docx": [1042], "Proverbs_ch_7.docx": [2273, 2273]}
+naalie	{"Numbers_ch_21.docx": [2550, 2583]}
+hespe	{"Job_ch_9.docx": [739]}
+wile	{"Proverbs_ch_2.docx": [1042], "Proverbs_ch_7.docx": [2273]}

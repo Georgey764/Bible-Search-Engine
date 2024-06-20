@@ -1,0 +1,6 @@
+
+maisa	{"1 Chronicles_ch_8.docx": [2438, 2440, 2440, 2440]}
+unhyp	{"2 Timothy_ch_1.docx": [530]}
+maisa	{"1 Chronicles_ch_8.docx": [2438, 2440, 2440]}
+maisa	{"1 Chronicles_ch_8.docx": [2438, 2440]}
+unhyp	{"2 Timothy_ch_1.docx": [530]}

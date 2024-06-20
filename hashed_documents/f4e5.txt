@@ -1,0 +1,5 @@
+
+dimens	{"1 Kings_ch_7.docx": [4786], "2 Kings_ch_16.docx": [1513, 1513, 1513], "Ezekiel_ch_43.docx": [1804, 1804, 1804]}
+dimens	{"1 Kings_ch_7.docx": [4786], "2 Kings_ch_16.docx": [1513, 1513], "Ezekiel_ch_43.docx": [1804, 1804]}
+18rig	{"Proverbs_ch_10.docx": [1639]}
+dimens	{"1 Kings_ch_7.docx": [4786], "2 Kings_ch_16.docx": [1513], "Ezekiel_ch_43.docx": [1804]}

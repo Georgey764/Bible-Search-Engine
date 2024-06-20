@@ -1,0 +1,2 @@
+
+16howe	{"Genesis_ch_19.docx": [2520], "Joshua_ch_17.docx": [2592], "2 Samuel_ch_12.docx": [2615], "2 Chronicles_ch_26.docx": [2419], "Daniel_ch_5.docx": [2965]}

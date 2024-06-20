@@ -1,0 +1,2 @@
+
+13‘yo	{"Exodus_ch_34.docx": [2000], "Leviticus_ch_19.docx": [1439], "Deuteronomy_ch_16.docx": [2079], "Deuteronomy_ch_25.docx": [1815], "Job_ch_10.docx": [1192], "Job_ch_22.docx": [1114], "Matthew_ch_5.docx": [1114], "Matthew_ch_7.docx": [1545]}

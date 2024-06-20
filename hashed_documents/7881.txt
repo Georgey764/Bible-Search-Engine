@@ -1,0 +1,4 @@
+
+kenezi	{"Genesis_ch_15.docx": [2543], "1 Samuel_ch_27.docx": [1467, 1467, 1467], "1 Chronicles_ch_4.docx": [1312, 1312, 1312]}
+kenezi	{"Genesis_ch_15.docx": [2543], "1 Samuel_ch_27.docx": [1467, 1467], "1 Chronicles_ch_4.docx": [1312, 1312]}
+kenezi	{"Genesis_ch_15.docx": [2543], "1 Samuel_ch_27.docx": [1467], "1 Chronicles_ch_4.docx": [1312]}

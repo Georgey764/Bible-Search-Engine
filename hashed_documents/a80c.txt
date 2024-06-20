@@ -1,0 +1,7 @@
+
+migr	{"Genesis_ch_11.docx": [24], "Leviticus_ch_11.docx": [2283, 2283, 2283]}
+phego	{"Numbers_ch_25.docx": [278, 605, 605, 605]}
+migr	{"Genesis_ch_11.docx": [24], "Leviticus_ch_11.docx": [2283, 2283]}
+phego	{"Numbers_ch_25.docx": [278, 605, 605]}
+migr	{"Genesis_ch_11.docx": [24], "Leviticus_ch_11.docx": [2283]}
+phego	{"Numbers_ch_25.docx": [278, 605]}

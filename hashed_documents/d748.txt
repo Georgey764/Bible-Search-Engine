@@ -1,0 +1,4 @@
+
+dread	{"Genesis_ch_9.docx": [119], "Deuteronomy_ch_11.docx": [3545, 3545, 3545], "Psalms_ch_119.docx": [3043, 13683, 3043, 13683, 3043, 13683]}
+dread	{"Genesis_ch_9.docx": [119], "Deuteronomy_ch_11.docx": [3545, 3545], "Psalms_ch_119.docx": [3043, 13683, 3043, 13683]}
+dread	{"Genesis_ch_9.docx": [119], "Deuteronomy_ch_11.docx": [3545], "Psalms_ch_119.docx": [3043, 13683]}

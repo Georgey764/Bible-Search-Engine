@@ -1,0 +1,4 @@
+
+jach	{"Exodus_ch_6.docx": [2075], "Numbers_ch_26.docx": [1446, 1451, 4451, 4456, 1446, 1451, 4451, 4456, 1446, 1451, 4451, 4456], "Joshua_ch_15.docx": [4861, 4861, 4861], "Nehemiah_ch_11.docx": [1581, 1581, 1581]}
+jach	{"Exodus_ch_6.docx": [2075], "Numbers_ch_26.docx": [1446, 1451, 4451, 4456, 1446, 1451, 4451, 4456], "Joshua_ch_15.docx": [4861, 4861], "Nehemiah_ch_11.docx": [1581, 1581]}
+jach	{"Exodus_ch_6.docx": [2075], "Numbers_ch_26.docx": [1446, 1451, 4451, 4456], "Joshua_ch_15.docx": [4861], "Nehemiah_ch_11.docx": [1581]}

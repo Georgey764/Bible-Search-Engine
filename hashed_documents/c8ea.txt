@@ -1,0 +1,4 @@
+
+joshap	{"2 Samuel_ch_8.docx": [2487], "1 Chronicles_ch_15.docx": [3271, 3271, 3271], "1 Chronicles_ch_18.docx": [2034, 2034, 2034]}
+joshap	{"2 Samuel_ch_8.docx": [2487], "1 Chronicles_ch_15.docx": [3271, 3271], "1 Chronicles_ch_18.docx": [2034, 2034]}
+joshap	{"2 Samuel_ch_8.docx": [2487], "1 Chronicles_ch_15.docx": [3271], "1 Chronicles_ch_18.docx": [2034]}

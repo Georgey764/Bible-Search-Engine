@@ -1,0 +1,4 @@
+
+faces!	{"1 Chronicles_ch_21.docx": [2383], "Job_ch_40.docx": [1188, 1188, 1188], "2 Corinthians_ch_10.docx": [863, 863]}
+faces!	{"1 Chronicles_ch_21.docx": [2383], "Job_ch_40.docx": [1188, 1188], "2 Corinthians_ch_10.docx": [863]}
+faces!	{"1 Chronicles_ch_21.docx": [2383], "Job_ch_40.docx": [1188], "2 Corinthians_ch_10.docx": [863]}

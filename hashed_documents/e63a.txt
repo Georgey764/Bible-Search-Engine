@@ -1,0 +1,5 @@
+
+impose	{"Ezra_ch_7.docx": [3639]}
+7joe	{"1 Chronicles_ch_12.docx": [822], "1 Chronicles_ch_15.docx": [756]}
+impose	{"Ezra_ch_7.docx": [3639]}
+impose	{"Ezra_ch_7.docx": [3639]}

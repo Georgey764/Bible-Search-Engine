@@ -1,0 +1,4 @@
+
+cinna	{"Exodus_ch_30.docx": [2958], "Job_ch_42.docx": [2816], "Proverbs_ch_7.docx": [1519, 1519, 1519], "Song of Solomon_ch_4.docx": [2034, 2034, 2034], "Jeremiah_ch_6.docx": [3572, 3572, 3572], "Revelation_ch_18.docx": [2014, 2014]}
+cinna	{"Exodus_ch_30.docx": [2958], "Proverbs_ch_7.docx": [1519, 1519], "Song of Solomon_ch_4.docx": [2034, 2034], "Jeremiah_ch_6.docx": [3572, 3572], "Revelation_ch_18.docx": [2014]}
+cinna	{"Exodus_ch_30.docx": [2958], "Proverbs_ch_7.docx": [1519], "Song of Solomon_ch_4.docx": [2034], "Jeremiah_ch_6.docx": [3572], "Revelation_ch_18.docx": [2014]}

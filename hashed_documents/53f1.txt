@@ -1,0 +1,4 @@
+
+smokin	{"Genesis_ch_15.docx": [2168], "Isaiah_ch_7.docx": [697, 697, 697], "Isaiah_ch_42.docx": [335, 335, 335], "Ezekiel_ch_8.docx": [1887, 1887, 1887], "Matthew_ch_12.docx": [2245, 2245, 2245]}
+smokin	{"Genesis_ch_15.docx": [2168], "Isaiah_ch_7.docx": [697, 697], "Isaiah_ch_42.docx": [335, 335], "Ezekiel_ch_8.docx": [1887, 1887], "Matthew_ch_12.docx": [2245, 2245]}
+smokin	{"Genesis_ch_15.docx": [2168], "Isaiah_ch_7.docx": [697], "Isaiah_ch_42.docx": [335], "Ezekiel_ch_8.docx": [1887], "Matthew_ch_12.docx": [2245]}

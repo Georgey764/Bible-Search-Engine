@@ -1,0 +1,7 @@
+
+bae	{"Numbers_ch_32.docx": [426, 4975, 4975, 4975], "Joshua_ch_15.docx": [731, 4268, 5750, 731, 4268, 5750, 731, 4268, 5750], "Joshua_ch_18.docx": [2758, 2758, 2758], "Judges_ch_9.docx": [4444, 4444, 4444], "Ezra_ch_2.docx": [766, 766, 766]}
+pinned	{"Judges_ch_5.docx": [3838]}
+bae	{"Numbers_ch_32.docx": [426, 4975, 4975], "Joshua_ch_15.docx": [731, 4268, 5750, 731, 4268, 5750], "Joshua_ch_18.docx": [2758, 2758], "Judges_ch_9.docx": [4444, 4444], "Ezra_ch_2.docx": [766, 766]}
+pinned	{"Judges_ch_5.docx": [3838]}
+bae	{"Numbers_ch_32.docx": [426, 4975], "Joshua_ch_15.docx": [731, 4268, 5750], "Joshua_ch_18.docx": [2758], "Judges_ch_9.docx": [4444], "Ezra_ch_2.docx": [766]}
+pinned	{"Judges_ch_5.docx": [3838]}

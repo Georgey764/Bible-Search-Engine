@@ -1,0 +1,4 @@
+
+abolis	{"2 Corinthians_ch_3.docx": [1562, 1703, 2012, 1703, 2012], "Hebrews_ch_9.docx": [3883, 3883], "Hebrews_ch_10.docx": [1123, 1123]}
+33sam	{"2 Samuel_ch_23.docx": [4686]}
+abolis	{"2 Corinthians_ch_3.docx": [1562, 1703, 2012], "Hebrews_ch_9.docx": [3883], "Hebrews_ch_10.docx": [1123]}

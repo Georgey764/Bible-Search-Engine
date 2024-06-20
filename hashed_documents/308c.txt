@@ -1,0 +1,8 @@
+
+potte	{"Exodus_ch_7.docx": [2619], "1 Chronicles_ch_4.docx": [2796, 2796, 2796], "Job_ch_2.docx": [1008, 1008, 1008], "Isaiah_ch_29.docx": [2877, 2877, 2877], "Isaiah_ch_41.docx": [4548, 4548, 4548], "Isaiah_ch_45.docx": [1486, 1582, 1486, 1582, 1486, 1582], "Jeremiah_ch_18.docx": [86, 170, 539, 620, 86, 170, 539, 620, 86, 170, 539, 620], "Lamentations_ch_4.docx": [324, 324, 324], "Matthew_ch_27.docx": [818, 1040, 818, 1040], "Romans_ch_9.docx": [2515, 2696, 2515, 2696], "2 Corinthians_ch_4.docx": [976, 976], "2 Timothy_ch_2.docx": [2663, 2663]}
+peko	{"Ezekiel_ch_23.docx": [3646]}
+potte	{"Exodus_ch_7.docx": [2619], "1 Chronicles_ch_4.docx": [2796, 2796], "Job_ch_2.docx": [1008, 1008], "Isaiah_ch_29.docx": [2877, 2877], "Isaiah_ch_41.docx": [4548, 4548], "Isaiah_ch_45.docx": [1486, 1582, 1486, 1582], "Jeremiah_ch_18.docx": [86, 170, 539, 620, 86, 170, 539, 620], "Lamentations_ch_4.docx": [324, 324], "Matthew_ch_27.docx": [818, 1040], "Romans_ch_9.docx": [2515, 2696], "2 Corinthians_ch_4.docx": [976], "2 Timothy_ch_2.docx": [2663]}
+32‘c	{"Job_ch_15.docx": [3056]}
+peko	{"Ezekiel_ch_23.docx": [3646]}
+potte	{"Exodus_ch_7.docx": [2619], "1 Chronicles_ch_4.docx": [2796], "Job_ch_2.docx": [1008], "Isaiah_ch_29.docx": [2877], "Isaiah_ch_41.docx": [4548], "Isaiah_ch_45.docx": [1486, 1582], "Jeremiah_ch_18.docx": [86, 170, 539, 620], "Lamentations_ch_4.docx": [324], "Matthew_ch_27.docx": [818, 1040], "Romans_ch_9.docx": [2515, 2696], "2 Corinthians_ch_4.docx": [976], "2 Timothy_ch_2.docx": [2663]}
+peko	{"Ezekiel_ch_23.docx": [3646]}

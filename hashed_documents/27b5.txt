@@ -1,0 +1,7 @@
+
+jobab	{"Genesis_ch_10.docx": [3075], "Genesis_ch_36.docx": [3449, 3526, 3449, 3526, 3449, 3526], "Numbers_ch_10.docx": [3235, 3480, 3235, 3480, 3235, 3480], "Joshua_ch_11.docx": [205, 212, 220, 205, 212, 220, 205, 212, 220], "Judges_ch_4.docx": [3286, 3302, 3319, 3343, 3368, 3397, 3427, 3286, 3302, 3319, 3343, 3368, 3397, 3427, 3286, 3302, 3319, 3343, 3368, 3397, 3427], "1 Chronicles_ch_1.docx": [1893, 3698, 3765, 1893, 3698, 3765, 1893, 3698, 3765], "1 Chronicles_ch_8.docx": [1286, 1286, 1286]}
+bathes	{"Leviticus_ch_22.docx": [949]}
+jobab	{"Genesis_ch_10.docx": [3075], "Genesis_ch_36.docx": [3449, 3526, 3449, 3526], "Numbers_ch_10.docx": [3235, 3480, 3235, 3480], "Joshua_ch_11.docx": [205, 212, 220, 205, 212, 220], "Judges_ch_4.docx": [3286, 3302, 3319, 3343, 3368, 3397, 3427, 3286, 3302, 3319, 3343, 3368, 3397, 3427], "1 Chronicles_ch_1.docx": [1893, 3698, 3765, 1893, 3698, 3765], "1 Chronicles_ch_8.docx": [1286, 1286]}
+bathes	{"Leviticus_ch_22.docx": [949]}
+jobab	{"Genesis_ch_10.docx": [3075], "Genesis_ch_36.docx": [3449, 3526], "Numbers_ch_10.docx": [3235, 3480], "Joshua_ch_11.docx": [205, 212, 220], "Judges_ch_4.docx": [3286, 3302, 3319, 3343, 3368, 3397, 3427], "1 Chronicles_ch_1.docx": [1893, 3698, 3765], "1 Chronicles_ch_8.docx": [1286]}
+bathes	{"Leviticus_ch_22.docx": [949]}

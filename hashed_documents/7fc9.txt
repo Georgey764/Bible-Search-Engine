@@ -1,0 +1,7 @@
+
+jessh	{"Genesis_ch_46.docx": [1980]}
+inse	{"Exodus_ch_37.docx": [376], "Exodus_ch_38.docx": [654, 654, 654], "Deuteronomy_ch_14.docx": [1573, 1573, 1573], "1 Chronicles_ch_1.docx": [1321, 1321, 1321], "1 Chronicles_ch_11.docx": [1615, 1615, 1615], "Ezra_ch_5.docx": [1225, 1225, 1225]}
+jessh	{"Genesis_ch_46.docx": [1980]}
+inse	{"Exodus_ch_37.docx": [376], "Exodus_ch_38.docx": [654, 654], "Deuteronomy_ch_14.docx": [1573, 1573], "1 Chronicles_ch_1.docx": [1321, 1321], "1 Chronicles_ch_11.docx": [1615, 1615], "Ezra_ch_5.docx": [1225, 1225]}
+jessh	{"Genesis_ch_46.docx": [1980]}
+inse	{"Exodus_ch_37.docx": [376], "Exodus_ch_38.docx": [654], "Deuteronomy_ch_14.docx": [1573], "1 Chronicles_ch_1.docx": [1321], "1 Chronicles_ch_11.docx": [1615], "Ezra_ch_5.docx": [1225]}

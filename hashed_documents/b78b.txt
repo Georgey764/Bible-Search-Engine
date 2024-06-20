@@ -1,0 +1,7 @@
+
+paws	{"Leviticus_ch_11.docx": [2896]}
+sora	{"Joshua_ch_15.docx": [5819]}
+paws	{"Leviticus_ch_11.docx": [2896]}
+sora	{"Joshua_ch_15.docx": [5819]}
+paws	{"Leviticus_ch_11.docx": [2896]}
+sora	{"Joshua_ch_15.docx": [5819]}

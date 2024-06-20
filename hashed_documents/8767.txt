@@ -1,0 +1,4 @@
+
+rubb	{"Leviticus_ch_8.docx": [1556], "Joshua_ch_8.docx": [3165, 3165, 3165], "2 Samuel_ch_12.docx": [3373, 3373, 3373], "Nehemiah_ch_4.docx": [507, 507, 507], "Isaiah_ch_25.docx": [217, 217, 217], "Ezekiel_ch_16.docx": [1511, 1511, 1511], "Daniel_ch_10.docx": [269, 269, 269], "Luke_ch_6.docx": [25, 25]}
+rubb	{"Leviticus_ch_8.docx": [1556], "Joshua_ch_8.docx": [3165, 3165], "2 Samuel_ch_12.docx": [3373, 3373], "Nehemiah_ch_4.docx": [507, 507], "Isaiah_ch_25.docx": [217, 217], "Ezekiel_ch_16.docx": [1511, 1511], "Daniel_ch_10.docx": [269, 269], "Luke_ch_6.docx": [25]}
+rubb	{"Leviticus_ch_8.docx": [1556], "Joshua_ch_8.docx": [3165], "2 Samuel_ch_12.docx": [3373], "Nehemiah_ch_4.docx": [507], "Isaiah_ch_25.docx": [217], "Ezekiel_ch_16.docx": [1511], "Daniel_ch_10.docx": [269], "Luke_ch_6.docx": [25]}

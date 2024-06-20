@@ -1,0 +1,7 @@
+
+heads;	{"1 Chronicles_ch_26.docx": [4247]}
+induce	{"Ezekiel_ch_16.docx": [5179]}
+heads;	{"1 Chronicles_ch_26.docx": [4247]}
+induce	{"Ezekiel_ch_16.docx": [5179]}
+heads;	{"1 Chronicles_ch_26.docx": [4247]}
+induce	{"Ezekiel_ch_16.docx": [5179]}

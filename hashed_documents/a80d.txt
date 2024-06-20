@@ -1,0 +1,4 @@
+
+lao	{"Genesis_ch_25.docx": [225], "Revelation_ch_1.docx": [1976, 1976], "Revelation_ch_3.docx": [2527, 2527]}
+lao	{"Genesis_ch_25.docx": [225], "Revelation_ch_1.docx": [1976], "Revelation_ch_3.docx": [2527]}
+lao	{"Genesis_ch_25.docx": [225], "Revelation_ch_1.docx": [1976], "Revelation_ch_3.docx": [2527]}

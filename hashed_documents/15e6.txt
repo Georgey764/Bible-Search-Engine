@@ -1,0 +1,5 @@
+
+halae	{"2 Kings_ch_17.docx": [720], "2 Kings_ch_18.docx": [1474, 1474, 1474]}
+halae	{"2 Kings_ch_17.docx": [720], "2 Kings_ch_18.docx": [1474, 1474]}
+17rath	{"Proverbs_ch_2.docx": [1479], "Ecclesiastes_ch_10.docx": [1766]}
+halae	{"2 Kings_ch_17.docx": [720], "2 Kings_ch_18.docx": [1474]}

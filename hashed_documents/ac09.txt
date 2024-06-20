@@ -1,0 +1,4 @@
+
+recr	{"1 Samuel_ch_14.docx": [8466], "2 Samuel_ch_15.docx": [16, 16, 16], "2 Chronicles_ch_32.docx": [794, 794, 794]}
+recr	{"1 Samuel_ch_14.docx": [8466], "2 Samuel_ch_15.docx": [16, 16], "2 Chronicles_ch_32.docx": [794, 794]}
+recr	{"1 Samuel_ch_14.docx": [8466], "2 Samuel_ch_15.docx": [16], "2 Chronicles_ch_32.docx": [794]}

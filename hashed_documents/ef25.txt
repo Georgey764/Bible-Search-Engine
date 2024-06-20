@@ -1,0 +1,4 @@
+
+stonec	{"1 Kings_ch_5.docx": [2274], "2 Chronicles_ch_24.docx": [1797, 1797, 1797]}
+stonec	{"1 Kings_ch_5.docx": [2274], "2 Chronicles_ch_24.docx": [1797, 1797]}
+stonec	{"1 Kings_ch_5.docx": [2274], "2 Chronicles_ch_24.docx": [1797]}

@@ -1,0 +1,5 @@
+
+lettin	{"Exodus_ch_5.docx": [255], "Acts_ch_27.docx": [5370, 5370]}
+lettin	{"Exodus_ch_5.docx": [255], "Acts_ch_27.docx": [5370]}
+320kg	{"2 Kings_ch_5.docx": [845]}
+lettin	{"Exodus_ch_5.docx": [255], "Acts_ch_27.docx": [5370]}

@@ -1,0 +1,4 @@
+
+elnat	{"Ezra_ch_8.docx": [1795, 1809, 1898, 1809, 1898, 1809, 1898], "Jeremiah_ch_26.docx": [3926, 3926, 3926], "Jeremiah_ch_36.docx": [2158, 4039, 2158, 4039, 2158, 4039]}
+elnat	{"Ezra_ch_8.docx": [1795, 1809, 1898, 1809, 1898], "Jeremiah_ch_26.docx": [3926, 3926], "Jeremiah_ch_36.docx": [2158, 4039, 2158, 4039]}
+elnat	{"Ezra_ch_8.docx": [1795, 1809, 1898], "Jeremiah_ch_26.docx": [3926], "Jeremiah_ch_36.docx": [2158, 4039]}

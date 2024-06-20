@@ -1,0 +1,4 @@
+
+lande	{"Exodus_ch_9.docx": [3466], "1 Samuel_ch_4.docx": [3085, 3085, 3085], "Acts_ch_27.docx": [320, 320]}
+lande	{"Exodus_ch_9.docx": [3466], "1 Samuel_ch_4.docx": [3085, 3085], "Acts_ch_27.docx": [320]}
+lande	{"Exodus_ch_9.docx": [3466], "1 Samuel_ch_4.docx": [3085], "Acts_ch_27.docx": [320]}

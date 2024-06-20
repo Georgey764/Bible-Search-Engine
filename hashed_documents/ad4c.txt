@@ -1,0 +1,6 @@
+
+bethz	{"1 Chronicles_ch_2.docx": [3957], "John_ch_5.docx": [349, 349]}
+obedie	{"Romans_ch_5.docx": [2846], "Romans_ch_6.docx": [2061, 2061], "Romans_ch_15.docx": [2516, 2516], "2 Corinthians_ch_10.docx": [24, 24], "Philippians_ch_2.docx": [885, 885], "1 Timothy_ch_2.docx": [1226, 1226], "Hebrews_ch_5.docx": [1088, 1088], "1 Peter_ch_1.docx": [282, 4508, 282, 4508]}
+bethz	{"1 Chronicles_ch_2.docx": [3957], "John_ch_5.docx": [349]}
+bethz	{"1 Chronicles_ch_2.docx": [3957], "John_ch_5.docx": [349]}
+obedie	{"Romans_ch_5.docx": [2846], "Romans_ch_6.docx": [2061], "Romans_ch_15.docx": [2516], "2 Corinthians_ch_10.docx": [24], "Philippians_ch_2.docx": [885], "1 Timothy_ch_2.docx": [1226], "Hebrews_ch_5.docx": [1088], "1 Peter_ch_1.docx": [282, 4508]}

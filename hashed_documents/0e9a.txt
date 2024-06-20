@@ -1,0 +1,4 @@
+
+cleare	{"Exodus_ch_21.docx": [2200], "Numbers_ch_5.docx": [4645, 4645, 4645]}
+cleare	{"Exodus_ch_21.docx": [2200], "Numbers_ch_5.docx": [4645, 4645]}
+cleare	{"Exodus_ch_21.docx": [2200], "Numbers_ch_5.docx": [4645]}

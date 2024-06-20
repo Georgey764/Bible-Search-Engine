@@ -1,0 +1,7 @@
+
+reside	{"Exodus_ch_12.docx": [3102, 7227, 7467, 7227, 7467, 7227, 7467], "1 Chronicles_ch_11.docx": [1070, 1070, 1070], "Esther_ch_5.docx": [35, 35, 35]}
+judah!	{"1 Kings_ch_1.docx": [4895], "2 Kings_ch_23.docx": [5089, 5089, 5089], "2 Chronicles_ch_9.docx": [1880, 1880, 1880], "2 Chronicles_ch_28.docx": [1389, 1389, 1389], "Nehemiah_ch_6.docx": [978, 978, 978], "Jeremiah_ch_4.docx": [2992, 2992, 2992], "Jeremiah_ch_40.docx": [3463, 3463, 3463], "Jeremiah_ch_42.docx": [2470, 2470, 2470], "Amos_ch_7.docx": [2522, 2522, 2522]}
+reside	{"Exodus_ch_12.docx": [3102, 7227, 7467, 7227, 7467], "1 Chronicles_ch_11.docx": [1070, 1070], "Esther_ch_5.docx": [35, 35]}
+judah!	{"1 Kings_ch_1.docx": [4895], "2 Kings_ch_23.docx": [5089, 5089], "2 Chronicles_ch_9.docx": [1880, 1880], "2 Chronicles_ch_28.docx": [1389, 1389], "Nehemiah_ch_6.docx": [978, 978], "Jeremiah_ch_4.docx": [2992, 2992], "Jeremiah_ch_40.docx": [3463, 3463], "Jeremiah_ch_42.docx": [2470, 2470], "Amos_ch_7.docx": [2522, 2522]}
+reside	{"Exodus_ch_12.docx": [3102, 7227, 7467], "1 Chronicles_ch_11.docx": [1070], "Esther_ch_5.docx": [35]}
+judah!	{"1 Kings_ch_1.docx": [4895], "2 Kings_ch_23.docx": [5089], "2 Chronicles_ch_9.docx": [1880], "2 Chronicles_ch_28.docx": [1389], "Nehemiah_ch_6.docx": [978], "Jeremiah_ch_4.docx": [2992], "Jeremiah_ch_40.docx": [3463], "Jeremiah_ch_42.docx": [2470], "Amos_ch_7.docx": [2522]}

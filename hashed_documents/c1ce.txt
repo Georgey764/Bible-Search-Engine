@@ -1,0 +1,8 @@
+
+esht	{"1 Samuel_ch_30.docx": [4412]}
+sent!	{"Jeremiah_ch_29.docx": [1575]}
+esht	{"1 Samuel_ch_30.docx": [4412]}
+34jona	{"1 Chronicles_ch_8.docx": [2213]}
+sent!	{"Jeremiah_ch_29.docx": [1575]}
+esht	{"1 Samuel_ch_30.docx": [4412]}
+sent!	{"Jeremiah_ch_29.docx": [1575]}

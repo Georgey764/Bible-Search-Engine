@@ -1,0 +1,5 @@
+
+aima	{"Numbers_ch_13.docx": [1819], "Joshua_ch_19.docx": [1646, 1646, 1646], "1 Chronicles_ch_9.docx": [2567, 2567, 2567]}
+aima	{"Numbers_ch_13.docx": [1819], "Joshua_ch_19.docx": [1646, 1646], "1 Chronicles_ch_9.docx": [2567, 2567]}
+5‘tel	{"Matthew_ch_11.docx": [479]}
+aima	{"Numbers_ch_13.docx": [1819], "Joshua_ch_19.docx": [1646], "1 Chronicles_ch_9.docx": [2567]}

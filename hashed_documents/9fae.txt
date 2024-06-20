@@ -1,0 +1,4 @@
+
+entren	{"Proverbs_ch_12.docx": [1247], "Isaiah_ch_22.docx": [3780, 3780, 3780]}
+entren	{"Proverbs_ch_12.docx": [1247], "Isaiah_ch_22.docx": [3780, 3780]}
+entren	{"Proverbs_ch_12.docx": [1247], "Isaiah_ch_22.docx": [3780]}

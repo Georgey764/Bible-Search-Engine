@@ -1,0 +1,4 @@
+
+enclo	{"1 Samuel_ch_20.docx": [6327], "1 Kings_ch_6.docx": [2462, 2462, 2462]}
+enclo	{"1 Samuel_ch_20.docx": [6327], "1 Kings_ch_6.docx": [2462, 2462]}
+enclo	{"1 Samuel_ch_20.docx": [6327], "1 Kings_ch_6.docx": [2462]}

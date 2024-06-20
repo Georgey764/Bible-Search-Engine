@@ -1,0 +1,4 @@
+
+unen	{"Deuteronomy_ch_28.docx": [8295], "2 Corinthians_ch_4.docx": [2647, 2647], "Hebrews_ch_7.docx": [621, 621]}
+unen	{"Deuteronomy_ch_28.docx": [8295], "2 Corinthians_ch_4.docx": [2647], "Hebrews_ch_7.docx": [621]}
+unen	{"Deuteronomy_ch_28.docx": [8295], "2 Corinthians_ch_4.docx": [2647], "Hebrews_ch_7.docx": [621]}

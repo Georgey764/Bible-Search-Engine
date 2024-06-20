@@ -1,0 +1,4 @@
+
+grasse	{"Genesis_ch_1.docx": [1539, 1776, 1776, 1776], "Genesis_ch_2.docx": [559, 559, 559], "Genesis_ch_3.docx": [2920, 2920, 2920], "Psalms_ch_104.docx": [1409, 1409, 1409], "Psalms_ch_105.docx": [2892, 2892, 2892]}
+grasse	{"Genesis_ch_1.docx": [1539, 1776, 1776], "Genesis_ch_2.docx": [559, 559], "Genesis_ch_3.docx": [2920, 2920], "Psalms_ch_104.docx": [1409, 1409], "Psalms_ch_105.docx": [2892, 2892]}
+grasse	{"Genesis_ch_1.docx": [1539, 1776], "Genesis_ch_2.docx": [559], "Genesis_ch_3.docx": [2920], "Psalms_ch_104.docx": [1409], "Psalms_ch_105.docx": [2892]}

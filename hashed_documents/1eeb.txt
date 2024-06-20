@@ -1,0 +1,5 @@
+
+azur	{"Jeremiah_ch_28.docx": [26], "Ezekiel_ch_11.docx": [45, 45, 45]}
+17m	{"Judges_ch_10.docx": [5752], "Judges_ch_20.docx": [2229], "2 Kings_ch_12.docx": [2718], "Job_ch_20.docx": [1534], "Psalms_ch_72.docx": [1586], "Proverbs_ch_30.docx": [1784]}
+azur	{"Jeremiah_ch_28.docx": [26], "Ezekiel_ch_11.docx": [45, 45]}
+azur	{"Jeremiah_ch_28.docx": [26], "Ezekiel_ch_11.docx": [45]}

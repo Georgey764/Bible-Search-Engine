@@ -1,0 +1,7 @@
+
+cut-of	{"Leviticus_ch_7.docx": [4576]}
+cric	{"Leviticus_ch_11.docx": [2352]}
+cut-of	{"Leviticus_ch_7.docx": [4576]}
+cric	{"Leviticus_ch_11.docx": [2352]}
+cut-of	{"Leviticus_ch_7.docx": [4576]}
+cric	{"Leviticus_ch_11.docx": [2352]}

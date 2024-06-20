@@ -1,0 +1,7 @@
+
+it]	{"Deuteronomy_ch_24.docx": [1704], "1 Kings_ch_12.docx": [637, 637, 637]}
+anemel	{"2 Kings_ch_17.docx": [5754]}
+it]	{"Deuteronomy_ch_24.docx": [1704], "1 Kings_ch_12.docx": [637, 637]}
+anemel	{"2 Kings_ch_17.docx": [5754]}
+it]	{"Deuteronomy_ch_24.docx": [1704], "1 Kings_ch_12.docx": [637]}
+anemel	{"2 Kings_ch_17.docx": [5754]}

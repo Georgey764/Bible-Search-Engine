@@ -1,0 +1,4 @@
+
+made;	{"Job_ch_33.docx": [256], "Proverbs_ch_14.docx": [2762, 2762, 2762], "Isaiah_ch_54.docx": [2510, 2510, 2510], "Isaiah_ch_59.docx": [858, 858, 858]}
+made;	{"Job_ch_33.docx": [256], "Proverbs_ch_14.docx": [2762, 2762], "Isaiah_ch_54.docx": [2510, 2510], "Isaiah_ch_59.docx": [858, 858]}
+made;	{"Job_ch_33.docx": [256], "Proverbs_ch_14.docx": [2762], "Isaiah_ch_54.docx": [2510], "Isaiah_ch_59.docx": [858]}

@@ -1,0 +1,5 @@
+
+activ	{"Leviticus_ch_13.docx": [2162, 8063, 8063, 8063], "2 Thessalonians_ch_2.docx": [971, 1819, 971, 1819]}
+activ	{"Leviticus_ch_13.docx": [2162, 8063, 8063], "2 Thessalonians_ch_2.docx": [971, 1819]}
+3‘ou	{"Numbers_ch_27.docx": [384]}
+activ	{"Leviticus_ch_13.docx": [2162, 8063], "2 Thessalonians_ch_2.docx": [971, 1819]}

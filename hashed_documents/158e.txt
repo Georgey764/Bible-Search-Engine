@@ -1,0 +1,11 @@
+
+anak<	{"Judges_ch_1.docx": [6797]}
+acian	{"2 Samuel_ch_23.docx": [4711]}
+thaa	{"1 Chronicles_ch_7.docx": [3596]}
+anak<	{"Judges_ch_1.docx": [6797]}
+acian	{"2 Samuel_ch_23.docx": [4711]}
+thaa	{"1 Chronicles_ch_7.docx": [3596]}
+5int	{"Psalms_ch_17.docx": [528], "Psalms_ch_31.docx": [555]}
+anak<	{"Judges_ch_1.docx": [6797]}
+acian	{"2 Samuel_ch_23.docx": [4711]}
+ thaa	{"1 Chronicles_ch_7.docx": [3596]}

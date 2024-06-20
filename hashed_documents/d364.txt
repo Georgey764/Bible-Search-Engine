@@ -1,0 +1,4 @@
+
+phalti	{"Numbers_ch_13.docx": [680], "Numbers_ch_34.docx": [2455, 2455, 2455], "1 Samuel_ch_25.docx": [6971, 6971, 6971], "2 Samuel_ch_3.docx": [2208, 2208, 2208]}
+phalti	{"Numbers_ch_13.docx": [680], "Numbers_ch_34.docx": [2455, 2455], "1 Samuel_ch_25.docx": [6971, 6971], "2 Samuel_ch_3.docx": [2208, 2208]}
+phalti	{"Numbers_ch_13.docx": [680], "Numbers_ch_34.docx": [2455], "1 Samuel_ch_25.docx": [6971], "2 Samuel_ch_3.docx": [2208]}

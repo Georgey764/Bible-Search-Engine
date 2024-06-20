@@ -1,0 +1,5 @@
+
+qualif	{"1 Chronicles_ch_23.docx": [67], "2 Chronicles_ch_2.docx": [1048, 1048, 1048], "Acts_ch_6.docx": [382, 382], "1 Corinthians_ch_6.docx": [56, 56], "2 Corinthians_ch_2.docx": [2459, 2459], "Colossians_ch_1.docx": [1329, 1329], "2 Timothy_ch_2.docx": [85, 85], "2 Timothy_ch_3.docx": [2719, 2719]}
+23in	{"2 Samuel_ch_17.docx": [3675], "Proverbs_ch_29.docx": [2103], "Isaiah_ch_19.docx": [3246]}
+qualif	{"1 Chronicles_ch_23.docx": [67], "2 Chronicles_ch_2.docx": [1048, 1048], "Acts_ch_6.docx": [382], "1 Corinthians_ch_6.docx": [56], "2 Corinthians_ch_2.docx": [2459], "Colossians_ch_1.docx": [1329], "2 Timothy_ch_2.docx": [85], "2 Timothy_ch_3.docx": [2719]}
+qualif	{"1 Chronicles_ch_23.docx": [67], "2 Chronicles_ch_2.docx": [1048], "Acts_ch_6.docx": [382], "1 Corinthians_ch_6.docx": [56], "2 Corinthians_ch_2.docx": [2459], "Colossians_ch_1.docx": [1329], "2 Timothy_ch_2.docx": [85], "2 Timothy_ch_3.docx": [2719]}

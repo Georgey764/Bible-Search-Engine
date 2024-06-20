@@ -1,0 +1,3 @@
+
+lebana	{"Ezra_ch_2.docx": [1759], "Nehemiah_ch_7.docx": [2844, 2844]}
+lebana	{"Ezra_ch_2.docx": [1759], "Nehemiah_ch_7.docx": [2844]}

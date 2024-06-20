@@ -1,0 +1,4 @@
+
+filthy	{"Zechariah_ch_3.docx": [529, 704, 704, 704], "Ephesians_ch_4.docx": [2744, 2744], "James_ch_2.docx": [144, 144], "2 Peter_ch_2.docx": [1498, 1498], "Revelation_ch_19.docx": [264, 264]}
+filthy	{"Zechariah_ch_3.docx": [529, 704, 704], "Ephesians_ch_4.docx": [2744], "James_ch_2.docx": [144], "2 Peter_ch_2.docx": [1498], "Revelation_ch_19.docx": [264]}
+filthy	{"Zechariah_ch_3.docx": [529, 704], "Ephesians_ch_4.docx": [2744], "James_ch_2.docx": [144], "2 Peter_ch_2.docx": [1498], "Revelation_ch_19.docx": [264]}

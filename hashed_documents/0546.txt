@@ -1,0 +1,4 @@
+
+pact	{"Exodus_ch_34.docx": [2223], "2 Chronicles_ch_23.docx": [408, 408, 408], "Isaiah_ch_28.docx": [2101, 2802, 2101, 2802, 2101, 2802]}
+pact	{"Exodus_ch_34.docx": [2223], "2 Chronicles_ch_23.docx": [408, 408], "Isaiah_ch_28.docx": [2101, 2802, 2101, 2802]}
+pact	{"Exodus_ch_34.docx": [2223], "2 Chronicles_ch_23.docx": [408], "Isaiah_ch_28.docx": [2101, 2802]}

@@ -1,0 +1,4 @@
+
+pesti	{"Ezekiel_ch_30.docx": [1345], "Ezekiel_ch_31.docx": [1873, 1873, 1873]}
+pesti	{"Ezekiel_ch_30.docx": [1345], "Ezekiel_ch_31.docx": [1873, 1873]}
+pesti	{"Ezekiel_ch_30.docx": [1345], "Ezekiel_ch_31.docx": [1873]}

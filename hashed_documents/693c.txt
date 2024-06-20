@@ -1,0 +1,4 @@
+
+aitham	{"Joshua_ch_18.docx": [2751], "Jeremiah_ch_49.docx": [3458, 3458, 3458], "Jeremiah_ch_50.docx": [8311, 8311, 8311]}
+aitham	{"Joshua_ch_18.docx": [2751], "Jeremiah_ch_49.docx": [3458, 3458], "Jeremiah_ch_50.docx": [8311, 8311]}
+aitham	{"Joshua_ch_18.docx": [2751], "Jeremiah_ch_49.docx": [3458], "Jeremiah_ch_50.docx": [8311]}

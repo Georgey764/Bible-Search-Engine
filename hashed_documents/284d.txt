@@ -1,0 +1,10 @@
+
+balad	{"2 Kings_ch_20.docx": [1645, 1648, 1648, 1648], "Isaiah_ch_39.docx": [9, 12, 9, 12, 9, 12]}
+naa	{"1 Chronicles_ch_11.docx": [5865]}
+end;	{"Psalms_ch_49.docx": [856], "Ezekiel_ch_17.docx": [3164, 3164, 3164]}
+balad	{"2 Kings_ch_20.docx": [1645, 1648, 1648], "Isaiah_ch_39.docx": [9, 12, 9, 12]}
+naa	{"1 Chronicles_ch_11.docx": [5865]}
+end;	{"Psalms_ch_49.docx": [856], "Ezekiel_ch_17.docx": [3164, 3164]}
+balad	{"2 Kings_ch_20.docx": [1645, 1648], "Isaiah_ch_39.docx": [9, 12]}
+naa	{"1 Chronicles_ch_11.docx": [5865]}
+end;	{"Psalms_ch_49.docx": [856], "Ezekiel_ch_17.docx": [3164]}

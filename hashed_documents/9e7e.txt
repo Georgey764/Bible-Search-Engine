@@ -1,0 +1,4 @@
+
+profi	{"Genesis_ch_37.docx": [3497], "Deuteronomy_ch_23.docx": [564, 564, 564], "Job_ch_15.docx": [255, 255, 255], "Isaiah_ch_23.docx": [2342, 2342, 2342], "Luke_ch_9.docx": [3541, 3541], "Acts_ch_16.docx": [5435, 5435], "Acts_ch_19.docx": [6647, 6647], "James_ch_4.docx": [1839, 1839]}
+profi	{"Genesis_ch_37.docx": [3497], "Deuteronomy_ch_23.docx": [564, 564], "Job_ch_15.docx": [255, 255], "Isaiah_ch_23.docx": [2342, 2342], "Luke_ch_9.docx": [3541], "Acts_ch_16.docx": [5435], "Acts_ch_19.docx": [6647], "James_ch_4.docx": [1839]}
+profi	{"Genesis_ch_37.docx": [3497], "Deuteronomy_ch_23.docx": [564], "Job_ch_15.docx": [255], "Isaiah_ch_23.docx": [2342], "Luke_ch_9.docx": [3541], "Acts_ch_16.docx": [5435], "Acts_ch_19.docx": [6647], "James_ch_4.docx": [1839]}

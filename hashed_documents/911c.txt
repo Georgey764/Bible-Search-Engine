@@ -1,0 +1,7 @@
+
+dared	{"Deuteronomy_ch_33.docx": [4487], "2 Kings_ch_19.docx": [3883, 3883, 3883], "2 Chronicles_ch_13.docx": [1056, 1056, 1056], "Esther_ch_7.docx": [684, 684, 684], "Psalms_ch_137.docx": [297, 297, 297], "Isaiah_ch_10.docx": [1723, 1723, 1723], "Jeremiah_ch_23.docx": [6195, 6195, 6195], "Zechariah_ch_2.docx": [941, 941, 941], "Romans_ch_10.docx": [2721, 2721], "Hebrews_ch_11.docx": [5747, 5747]}
+remark	{"2 Samuel_ch_23.docx": [3571], "1 Chronicles_ch_11.docx": [4460, 4460, 4460], "Job_ch_40.docx": [2502, 2502, 2502]}
+dared	{"Deuteronomy_ch_33.docx": [4487], "2 Kings_ch_19.docx": [3883, 3883], "2 Chronicles_ch_13.docx": [1056, 1056], "Esther_ch_7.docx": [684, 684], "Psalms_ch_137.docx": [297, 297], "Isaiah_ch_10.docx": [1723, 1723], "Jeremiah_ch_23.docx": [6195, 6195], "Zechariah_ch_2.docx": [941, 941], "Romans_ch_10.docx": [2721], "Hebrews_ch_11.docx": [5747]}
+remark	{"2 Samuel_ch_23.docx": [3571], "1 Chronicles_ch_11.docx": [4460, 4460], "Job_ch_40.docx": [2502, 2502]}
+dared	{"Deuteronomy_ch_33.docx": [4487], "2 Kings_ch_19.docx": [3883], "2 Chronicles_ch_13.docx": [1056], "Esther_ch_7.docx": [684], "Psalms_ch_137.docx": [297], "Isaiah_ch_10.docx": [1723], "Jeremiah_ch_23.docx": [6195], "Zechariah_ch_2.docx": [941], "Romans_ch_10.docx": [2721], "Hebrews_ch_11.docx": [5747]}
+remark	{"2 Samuel_ch_23.docx": [3571], "1 Chronicles_ch_11.docx": [4460], "Job_ch_40.docx": [2502]}

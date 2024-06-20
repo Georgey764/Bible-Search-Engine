@@ -1,0 +1,8 @@
+
+wring	{"Leviticus_ch_1.docx": [1939], "Zephaniah_ch_2.docx": [4940, 4940, 4940]}
+ishto	{"2 Samuel_ch_10.docx": [873, 1087, 1087, 1087]}
+wring	{"Leviticus_ch_1.docx": [1939], "Zephaniah_ch_2.docx": [4940, 4940]}
+ishto	{"2 Samuel_ch_10.docx": [873, 1087, 1087]}
+8‘sinc	{"Psalms_ch_22.docx": [759], "Ezekiel_ch_11.docx": [1153]}
+wring	{"Leviticus_ch_1.docx": [1939], "Zephaniah_ch_2.docx": [4940]}
+ishto	{"2 Samuel_ch_10.docx": [873, 1087]}

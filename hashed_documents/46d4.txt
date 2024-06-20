@@ -1,0 +1,7 @@
+
+gers	{"Exodus_ch_2.docx": [3038], "Exodus_ch_18.docx": [313, 313, 313], "Judges_ch_18.docx": [7157, 7157, 7157], "1 Chronicles_ch_6.docx": [3362, 3362, 3362], "1 Chronicles_ch_15.docx": [764, 764, 764], "1 Chronicles_ch_23.docx": [746, 786, 1716, 746, 786, 746, 786, 1716], "1 Chronicles_ch_26.docx": [2547, 2951, 2547, 2951, 2547, 2951], "2 Chronicles_ch_29.docx": [2014, 2014, 2014], "Ezra_ch_8.docx": [199, 199, 199]}
+caterp	{"Joel_ch_1.docx": [377], "Joel_ch_2.docx": [4538, 4538, 4538]}
+gers	{"Exodus_ch_2.docx": [3038], "Exodus_ch_18.docx": [313, 313], "Judges_ch_18.docx": [7157, 7157], "1 Chronicles_ch_6.docx": [3362, 3362], "1 Chronicles_ch_15.docx": [764, 764], "1 Chronicles_ch_23.docx": [746, 786, 746, 786, 1716], "1 Chronicles_ch_26.docx": [2547, 2951, 2547, 2951], "2 Chronicles_ch_29.docx": [2014, 2014], "Ezra_ch_8.docx": [199, 199]}
+caterp	{"Joel_ch_1.docx": [377], "Joel_ch_2.docx": [4538, 4538]}
+gers	{"Exodus_ch_2.docx": [3038], "Exodus_ch_18.docx": [313], "Judges_ch_18.docx": [7157], "1 Chronicles_ch_6.docx": [3362], "1 Chronicles_ch_15.docx": [764], "1 Chronicles_ch_23.docx": [746, 786, 1716], "1 Chronicles_ch_26.docx": [2547, 2951], "2 Chronicles_ch_29.docx": [2014], "Ezra_ch_8.docx": [199]}
+caterp	{"Joel_ch_1.docx": [377], "Joel_ch_2.docx": [4538]}

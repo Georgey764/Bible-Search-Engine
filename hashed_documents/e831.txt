@@ -1,0 +1,4 @@
+
+ner!	{"2 Samuel_ch_3.docx": [4257]}
+ner!	{"2 Samuel_ch_3.docx": [4257]}
+ner!	{"2 Samuel_ch_3.docx": [4257]}

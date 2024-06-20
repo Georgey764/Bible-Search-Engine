@@ -1,0 +1,4 @@
+
+walks	{"Deuteronomy_ch_23.docx": [1506], "Job_ch_6.docx": [1626, 1626, 1626], "Psalms_ch_10.docx": [485, 485, 485], "Isaiah_ch_20.docx": [420, 420, 420], "John_ch_11.docx": [1058, 1078, 1058, 1078], "Revelation_ch_2.docx": [31, 31]}
+walks	{"Deuteronomy_ch_23.docx": [1506], "Job_ch_6.docx": [1626, 1626], "Psalms_ch_10.docx": [485, 485], "Isaiah_ch_20.docx": [420, 420], "John_ch_11.docx": [1058, 1078], "Revelation_ch_2.docx": [31]}
+walks	{"Deuteronomy_ch_23.docx": [1506], "Job_ch_6.docx": [1626], "Psalms_ch_10.docx": [485], "Isaiah_ch_20.docx": [420], "John_ch_11.docx": [1058, 1078], "Revelation_ch_2.docx": [31]}

@@ -1,0 +1,4 @@
+
+incu	{"Job_ch_39.docx": [1289], "Isaiah_ch_13.docx": [1285, 1285, 1285], "Jeremiah_ch_8.docx": [3414, 3414, 3414], "Jeremiah_ch_30.docx": [2430, 2430, 2430]}
+incu	{"Job_ch_39.docx": [1289], "Isaiah_ch_13.docx": [1285, 1285], "Jeremiah_ch_8.docx": [3414, 3414], "Jeremiah_ch_30.docx": [2430, 2430]}
+incu	{"Job_ch_39.docx": [1289], "Isaiah_ch_13.docx": [1285], "Jeremiah_ch_8.docx": [3414], "Jeremiah_ch_30.docx": [2430]}

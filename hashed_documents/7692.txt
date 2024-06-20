@@ -1,0 +1,10 @@
+
+cassi	{"Exodus_ch_30.docx": [3056]}
+blurt	{"Proverbs_ch_12.docx": [2235]}
+crimso	{"Isaiah_ch_1.docx": [3046]}
+cassi	{"Exodus_ch_30.docx": [3056]}
+blurt	{"Proverbs_ch_12.docx": [2235]}
+crimso	{"Isaiah_ch_1.docx": [3046]}
+cassi	{"Exodus_ch_30.docx": [3056]}
+blurt	{"Proverbs_ch_12.docx": [2235]}
+crimso	{"Isaiah_ch_1.docx": [3046]}

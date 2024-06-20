@@ -1,0 +1,6 @@
+
+yields	{"Proverbs_ch_29.docx": [2422], "Isaiah_ch_47.docx": [1329, 1329, 1329]}
+25we	{"Genesis_ch_4.docx": [2908], "Genesis_ch_5.docx": [1803], "Genesis_ch_29.docx": [3116], "Genesis_ch_30.docx": [2937], "Exodus_ch_32.docx": [3665], "Numbers_ch_13.docx": [2476], "Numbers_ch_31.docx": [3060], "1 Samuel_ch_30.docx": [4023], "1 Kings_ch_9.docx": [3909], "1 Kings_ch_13.docx": [3921], "1 Kings_ch_16.docx": [3914], "2 Kings_ch_2.docx": [4121], "2 Kings_ch_5.docx": [4696], "2 Kings_ch_17.docx": [4545], "2 Kings_ch_21.docx": [4256], "2 Chronicles_ch_20.docx": [4327], "Matthew_ch_19.docx": [3143]}
+42from	{"Numbers_ch_31.docx": [4432]}
+yields	{"Proverbs_ch_29.docx": [2422], "Isaiah_ch_47.docx": [1329, 1329]}
+yields	{"Proverbs_ch_29.docx": [2422], "Isaiah_ch_47.docx": [1329]}

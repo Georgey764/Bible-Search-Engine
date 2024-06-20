@@ -1,0 +1,9 @@
+
+inclin	{"Psalms_ch_31.docx": [247], "Psalms_ch_45.docx": [1728, 1728], "Psalms_ch_49.docx": [304, 304, 304], "Psalms_ch_71.docx": [263, 263, 263], "Psalms_ch_78.docx": [82, 82, 82], "Psalms_ch_102.docx": [245, 245, 245], "Psalms_ch_119.docx": [9330, 9330, 9330], "Acts_ch_13.docx": [8612, 8612]}
+mell	{"Psalms_ch_90.docx": [1122]}
+hometo	{"Luke_ch_2.docx": [67], "Luke_ch_4.docx": [3231, 3340, 3231, 3340], "John_ch_4.docx": [5630, 5630]}
+inclin	{"Psalms_ch_45.docx": [1728, 1728], "Psalms_ch_49.docx": [304, 304], "Psalms_ch_71.docx": [263, 263], "Psalms_ch_78.docx": [82, 82], "Psalms_ch_102.docx": [245, 245], "Psalms_ch_119.docx": [9330, 9330], "Acts_ch_13.docx": [8612]}
+mell	{"Psalms_ch_90.docx": [1122]}
+inclin	{"Psalms_ch_31.docx": [247], "Psalms_ch_45.docx": [1728], "Psalms_ch_49.docx": [304], "Psalms_ch_71.docx": [263], "Psalms_ch_78.docx": [82], "Psalms_ch_102.docx": [245], "Psalms_ch_119.docx": [9330], "Acts_ch_13.docx": [8612]}
+mell	{"Psalms_ch_90.docx": [1122]}
+hometo	{"Luke_ch_2.docx": [67], "Luke_ch_4.docx": [3231, 3340], "John_ch_4.docx": [5630]}

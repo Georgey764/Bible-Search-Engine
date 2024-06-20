@@ -1,0 +1,4 @@
+
+assur	{"Genesis_ch_10.docx": [2549], "Genesis_ch_38.docx": [2315, 2386, 2315, 2386, 2315, 2386], "1 Chronicles_ch_1.docx": [1494, 1494, 1494], "Proverbs_ch_11.docx": [2268, 2268, 2268], "2 Corinthians_ch_9.docx": [369, 369]}
+assur	{"Genesis_ch_10.docx": [2549], "Genesis_ch_38.docx": [2315, 2386, 2315, 2386], "1 Chronicles_ch_1.docx": [1494, 1494], "Proverbs_ch_11.docx": [2268, 2268], "2 Corinthians_ch_9.docx": [369]}
+assur	{"Genesis_ch_10.docx": [2549], "Genesis_ch_38.docx": [2315, 2386], "1 Chronicles_ch_1.docx": [1494], "Proverbs_ch_11.docx": [2268], "2 Corinthians_ch_9.docx": [369]}

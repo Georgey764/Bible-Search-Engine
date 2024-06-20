@@ -1,0 +1,6 @@
+
+divert	{"Proverbs_ch_4.docx": [1460], "Isaiah_ch_22.docx": [1297, 1297, 1297], "Jeremiah_ch_2.docx": [4127, 4127, 4127], "Jeremiah_ch_4.docx": [1605, 1605, 1605], "Colossians_ch_1.docx": [3232, 3232]}
+13‘[	{"Exodus_ch_20.docx": [1468], "Leviticus_ch_21.docx": [1722], "1 Kings_ch_8.docx": [1620]}
+4530,	{"Numbers_ch_31.docx": [4756]}
+divert	{"Proverbs_ch_4.docx": [1460], "Isaiah_ch_22.docx": [1297, 1297], "Jeremiah_ch_2.docx": [4127, 4127], "Jeremiah_ch_4.docx": [1605, 1605], "Colossians_ch_1.docx": [3232]}
+divert	{"Proverbs_ch_4.docx": [1460], "Isaiah_ch_22.docx": [1297], "Jeremiah_ch_2.docx": [4127], "Jeremiah_ch_4.docx": [1605], "Colossians_ch_1.docx": [3232]}

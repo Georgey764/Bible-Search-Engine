@@ -1,0 +1,5 @@
+
+sutha	{"Numbers_ch_26.docx": [4027, 4032, 4112, 4032, 4032, 4112]}
+sutha	{"Numbers_ch_26.docx": [4027, 4032, 4032, 4112]}
+64for	{"Psalms_ch_119.docx": [5132]}
+sutha	{"Numbers_ch_26.docx": [4027, 4032, 4112]}

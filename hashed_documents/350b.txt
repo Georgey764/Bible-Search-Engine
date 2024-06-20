@@ -1,0 +1,4 @@
+
+wider	{"Job_ch_11.docx": [989], "Ezekiel_ch_41.docx": [669, 669, 669]}
+wider	{"Job_ch_11.docx": [989], "Ezekiel_ch_41.docx": [669, 669]}
+wider	{"Job_ch_11.docx": [989], "Ezekiel_ch_41.docx": [669]}

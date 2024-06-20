@@ -1,0 +1,4 @@
+
+argued	{"Genesis_ch_26.docx": [2665], "Genesis_ch_31.docx": [4802, 4802, 4802], "Genesis_ch_42.docx": [1650, 1650, 1650], "Psalms_ch_21.docx": [1025, 1025, 1025], "Psalms_ch_119.docx": [4709, 4709, 4709], "Acts_ch_9.docx": [4553, 4553], "Acts_ch_15.docx": [55, 55]}
+argued	{"Genesis_ch_26.docx": [2665], "Genesis_ch_31.docx": [4802, 4802], "Genesis_ch_42.docx": [1650, 1650], "Psalms_ch_21.docx": [1025, 1025], "Psalms_ch_119.docx": [4709, 4709], "Acts_ch_9.docx": [4553], "Acts_ch_15.docx": [55]}
+argued	{"Genesis_ch_26.docx": [2665], "Genesis_ch_31.docx": [4802], "Genesis_ch_42.docx": [1650], "Psalms_ch_21.docx": [1025], "Psalms_ch_119.docx": [4709], "Acts_ch_9.docx": [4553], "Acts_ch_15.docx": [55]}

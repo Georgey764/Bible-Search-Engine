@@ -1,0 +1,5 @@
+
+arsen	{"Numbers_ch_34.docx": [983, 1072, 1072, 1072]}
+arsen	{"Numbers_ch_34.docx": [983, 1072, 1072]}
+16ba	{"1 Kings_ch_4.docx": [1741]}
+arsen	{"Numbers_ch_34.docx": [983, 1072]}

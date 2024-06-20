@@ -1,0 +1,4 @@
+
+seled	{"1 Chronicles_ch_2.docx": [2816, 2840, 2840, 2840]}
+seled	{"1 Chronicles_ch_2.docx": [2816, 2840, 2840]}
+seled	{"1 Chronicles_ch_2.docx": [2816, 2840]}

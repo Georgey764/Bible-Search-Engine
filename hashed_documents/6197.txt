@@ -1,0 +1,4 @@
+
+chalac	{"Genesis_ch_10.docx": [1373, 1379, 1379, 1379]}
+chalac	{"Genesis_ch_10.docx": [1373, 1379, 1379]}
+chalac	{"Genesis_ch_10.docx": [1373, 1379]}

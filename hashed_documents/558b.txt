@@ -1,0 +1,4 @@
+
+wrestl	{"Genesis_ch_32.docx": [3267, 3298, 3298, 3298], "Hosea_ch_12.docx": [812, 812, 812]}
+wrestl	{"Genesis_ch_32.docx": [3267, 3298, 3298], "Hosea_ch_12.docx": [812, 812]}
+wrestl	{"Genesis_ch_32.docx": [3267, 3298], "Hosea_ch_12.docx": [812]}

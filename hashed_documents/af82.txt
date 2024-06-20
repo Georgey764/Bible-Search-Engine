@@ -1,0 +1,4 @@
+
+gateth	{"Nehemiah_ch_2.docx": [3382], "Nehemiah_ch_3.docx": [1640, 4291, 4371, 5117, 13820, 1640, 4291, 4371, 5117, 13820, 1640, 4291, 4371, 5117, 13820], "Nehemiah_ch_8.docx": [135, 756, 135, 756, 135, 756], "Nehemiah_ch_12.docx": [5444, 5444, 5444]}
+gateth	{"Nehemiah_ch_2.docx": [3382], "Nehemiah_ch_3.docx": [1640, 4291, 4371, 5117, 13820, 1640, 4291, 4371, 5117, 13820], "Nehemiah_ch_8.docx": [135, 756, 135, 756], "Nehemiah_ch_12.docx": [5444, 5444]}
+gateth	{"Nehemiah_ch_2.docx": [3382], "Nehemiah_ch_3.docx": [1640, 4291, 4371, 5117, 13820], "Nehemiah_ch_8.docx": [135, 756], "Nehemiah_ch_12.docx": [5444]}

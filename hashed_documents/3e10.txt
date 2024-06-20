@@ -1,0 +1,4 @@
+
+enric	{"Psalms_ch_65.docx": [1013], "Proverbs_ch_10.docx": [295, 2037, 295, 2037, 295, 2037], "Ezekiel_ch_27.docx": [4877, 4877, 4877], "Romans_ch_11.docx": [1836, 1844, 1836, 1844]}
+enric	{"Psalms_ch_65.docx": [1013], "Proverbs_ch_10.docx": [295, 2037, 295, 2037], "Ezekiel_ch_27.docx": [4877, 4877], "Romans_ch_11.docx": [1836, 1844]}
+enric	{"Psalms_ch_65.docx": [1013], "Proverbs_ch_10.docx": [295, 2037], "Ezekiel_ch_27.docx": [4877], "Romans_ch_11.docx": [1836, 1844]}

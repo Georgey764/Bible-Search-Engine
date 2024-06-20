@@ -1,0 +1,4 @@
+
+genne	{"Matthew_ch_14.docx": [4008], "Mark_ch_6.docx": [7367, 7367], "Luke_ch_5.docx": [36, 36]}
+genne	{"Matthew_ch_14.docx": [4008], "Mark_ch_6.docx": [7367], "Luke_ch_5.docx": [36]}
+genne	{"Matthew_ch_14.docx": [4008], "Mark_ch_6.docx": [7367], "Luke_ch_5.docx": [36]}

@@ -1,0 +1,4 @@
+
+casl	{"Genesis_ch_10.docx": [1727], "1 Chronicles_ch_1.docx": [1022, 1022, 1022]}
+casl	{"Genesis_ch_10.docx": [1727], "1 Chronicles_ch_1.docx": [1022, 1022]}
+casl	{"Genesis_ch_10.docx": [1727], "1 Chronicles_ch_1.docx": [1022]}

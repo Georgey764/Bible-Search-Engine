@@ -1,0 +1,7 @@
+
+naphes	{"Genesis_ch_25.docx": [1493], "1 Chronicles_ch_1.docx": [2377, 2377, 2377]}
+fearl	{"Philippians_ch_1.docx": [1579]}
+naphes	{"Genesis_ch_25.docx": [1493], "1 Chronicles_ch_1.docx": [2377, 2377]}
+2araij	{"Nehemiah_ch_10.docx": [127]}
+naphes	{"Genesis_ch_25.docx": [1493], "1 Chronicles_ch_1.docx": [2377]}
+fearl	{"Philippians_ch_1.docx": [1579]}

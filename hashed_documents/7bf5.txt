@@ -1,0 +1,7 @@
+
+long-e	{"1 Samuel_ch_26.docx": [3348]}
+pado	{"Ezra_ch_2.docx": [1758], "Nehemiah_ch_7.docx": [2843, 2843, 2843]}
+long-e	{"1 Samuel_ch_26.docx": [3348]}
+pado	{"Ezra_ch_2.docx": [1758], "Nehemiah_ch_7.docx": [2843, 2843]}
+long-e	{"1 Samuel_ch_26.docx": [3348]}
+pado	{"Ezra_ch_2.docx": [1758], "Nehemiah_ch_7.docx": [2843]}

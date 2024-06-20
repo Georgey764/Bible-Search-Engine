@@ -1,0 +1,5 @@
+
+metro	{"Joshua_ch_15.docx": [2072], "Joshua_ch_21.docx": [1624, 1624, 1624]}
+2(th	{"Genesis_ch_14.docx": [23], "Hosea_ch_5.docx": [374]}
+metro	{"Joshua_ch_15.docx": [2072], "Joshua_ch_21.docx": [1624, 1624]}
+metro	{"Joshua_ch_15.docx": [2072], "Joshua_ch_21.docx": [1624]}

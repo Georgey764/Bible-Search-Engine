@@ -1,0 +1,4 @@
+
+concea	{"2 Samuel_ch_22.docx": [1187], "2 Kings_ch_4.docx": [4226, 4226, 4226], "2 Kings_ch_6.docx": [962, 962, 962], "Job_ch_22.docx": [1211, 1211, 1211], "Psalms_ch_10.docx": [943, 943, 943], "Psalms_ch_18.docx": [1191, 1191, 1191], "Psalms_ch_27.docx": [812, 812, 812], "Psalms_ch_31.docx": [2273, 2273, 2273], "Isaiah_ch_45.docx": [461, 461, 461]}
+concea	{"2 Samuel_ch_22.docx": [1187], "2 Kings_ch_4.docx": [4226, 4226], "2 Kings_ch_6.docx": [962, 962], "Job_ch_22.docx": [1211, 1211], "Psalms_ch_10.docx": [943, 943], "Psalms_ch_18.docx": [1191, 1191], "Psalms_ch_27.docx": [812, 812], "Psalms_ch_31.docx": [2273, 2273], "Isaiah_ch_45.docx": [461, 461]}
+concea	{"2 Samuel_ch_22.docx": [1187], "2 Kings_ch_4.docx": [4226], "2 Kings_ch_6.docx": [962], "Job_ch_22.docx": [1211], "Psalms_ch_10.docx": [943], "Psalms_ch_18.docx": [1191], "Psalms_ch_27.docx": [812], "Psalms_ch_31.docx": [2273], "Isaiah_ch_45.docx": [461]}

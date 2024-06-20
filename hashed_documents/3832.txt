@@ -1,0 +1,4 @@
+
+barri	{"Genesis_ch_38.docx": [4183], "Job_ch_38.docx": [2954, 2954, 2954], "Psalms_ch_89.docx": [3867, 3867, 3867]}
+barri	{"Genesis_ch_38.docx": [4183], "Job_ch_38.docx": [2954, 2954], "Psalms_ch_89.docx": [3867, 3867]}
+barri	{"Genesis_ch_38.docx": [4183], "Job_ch_38.docx": [2954], "Psalms_ch_89.docx": [3867]}

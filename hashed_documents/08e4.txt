@@ -1,0 +1,4 @@
+
+gedd	{"Joshua_ch_15.docx": [4952, 6055, 6055]}
+gedd	{"Joshua_ch_15.docx": [6055, 6055]}
+gedd	{"Joshua_ch_15.docx": [4952, 6055]}

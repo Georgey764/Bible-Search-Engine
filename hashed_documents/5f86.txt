@@ -1,0 +1,4 @@
+
+undre	{"Leviticus_ch_18.docx": [711, 1732, 1732, 1732], "Leviticus_ch_20.docx": [2330, 2848, 2330, 2848, 2330, 2848], "Judges_ch_3.docx": [8880, 8880, 8880]}
+undre	{"Leviticus_ch_18.docx": [711, 1732, 1732], "Leviticus_ch_20.docx": [2330, 2848, 2330, 2848], "Judges_ch_3.docx": [8880, 8880]}
+undre	{"Leviticus_ch_18.docx": [711, 1732], "Leviticus_ch_20.docx": [2330, 2848], "Judges_ch_3.docx": [8880]}

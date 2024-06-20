@@ -1,0 +1,3 @@
+
+29‘you	{"Exodus_ch_22.docx": [3870], "Exodus_ch_25.docx": [3170], "Exodus_ch_30.docx": [3588], "Leviticus_ch_19.docx": [3894], "Numbers_ch_14.docx": [4292], "Deuteronomy_ch_33.docx": [4276], "Daniel_ch_2.docx": [4911]}
+55d	{"Ezra_ch_2.docx": [2175], "Psalms_ch_119.docx": [4363]}

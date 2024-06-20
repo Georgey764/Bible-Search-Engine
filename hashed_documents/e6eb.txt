@@ -1,0 +1,3 @@
+
+15m	{"Genesis_ch_5.docx": [1085], "Exodus_ch_26.docx": [745], "1 Samuel_ch_17.docx": [2048], "2 Samuel_ch_21.docx": [3026], "1 Kings_ch_5.docx": [2267], "1 Chronicles_ch_7.docx": [1863], "1 Chronicles_ch_23.docx": [1597], "Psalms_ch_17.docx": [1691], "Psalms_ch_22.docx": [1415], "Psalms_ch_59.docx": [1784], "Psalms_ch_69.docx": [1749], "Psalms_ch_71.docx": [1398], "Psalms_ch_72.docx": [1275], "Psalms_ch_109.docx": [1196], "Psalms_ch_115.docx": [1305], "Isaiah_ch_5.docx": [2452]}
+55b	{"Numbers_ch_7.docx": [6325], "Nehemiah_ch_7.docx": [3178]}

@@ -1,0 +1,3 @@
+
+20‘a	{"Genesis_ch_14.docx": [2846], "Genesis_ch_17.docx": [3006], "Genesis_ch_49.docx": [2335], "Exodus_ch_22.docx": [2871], "Leviticus_ch_11.docx": [2037], "Leviticus_ch_13.docx": [2646], "Leviticus_ch_15.docx": [2782], "Leviticus_ch_16.docx": [3311], "Leviticus_ch_18.docx": [2442], "Numbers_ch_13.docx": [1633], "Numbers_ch_19.docx": [2860], "Deuteronomy_ch_24.docx": [3100], "Joshua_ch_2.docx": [2848], "1 Samuel_ch_9.docx": [3172], "1 Samuel_ch_24.docx": [3030], "Psalms_ch_50.docx": [1838], "Isaiah_ch_49.docx": [4268], "Isaiah_ch_51.docx": [3785], "Ezekiel_ch_13.docx": [3942], "Ezekiel_ch_45.docx": [3853], "Matthew_ch_13.docx": [2562]}
+21‘als	{"Matthew_ch_23.docx": [2549]}

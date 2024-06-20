@@ -1,0 +1,4 @@
+
+fifth	{"Genesis_ch_47.docx": [4343], "2 Samuel_ch_3.docx": [494, 494, 494]}
+fifth	{"Genesis_ch_47.docx": [4343], "2 Samuel_ch_3.docx": [494, 494]}
+fifth	{"Genesis_ch_47.docx": [4343], "2 Samuel_ch_3.docx": [494]}

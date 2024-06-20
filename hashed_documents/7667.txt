@@ -1,0 +1,7 @@
+
+jethra	{"1 Chronicles_ch_1.docx": [3431], "1 Chronicles_ch_7.docx": [4386, 4413, 4386, 4413, 4386, 4413]}
+hadi	{"Ezra_ch_2.docx": [1322]}
+jethra	{"1 Chronicles_ch_1.docx": [3431], "1 Chronicles_ch_7.docx": [4386, 4413, 4386, 4413]}
+hadi	{"Ezra_ch_2.docx": [1322]}
+jethra	{"1 Chronicles_ch_1.docx": [3431], "1 Chronicles_ch_7.docx": [4386, 4413]}
+hadi	{"Ezra_ch_2.docx": [1322]}

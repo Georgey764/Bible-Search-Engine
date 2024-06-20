@@ -1,0 +1,4 @@
+
+payb	{"Isaiah_ch_34.docx": [1246], "Jeremiah_ch_51.docx": [9325, 9325, 9325], "2 Peter_ch_2.docx": [2000, 2000], "Revelation_ch_18.docx": [984, 984]}
+payb	{"Isaiah_ch_34.docx": [1246], "Jeremiah_ch_51.docx": [9325, 9325], "2 Peter_ch_2.docx": [2000], "Revelation_ch_18.docx": [984]}
+payb	{"Isaiah_ch_34.docx": [1246], "Jeremiah_ch_51.docx": [9325], "2 Peter_ch_2.docx": [2000], "Revelation_ch_18.docx": [984]}

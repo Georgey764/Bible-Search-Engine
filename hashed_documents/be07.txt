@@ -1,0 +1,7 @@
+
+substa	{"Exodus_ch_30.docx": [4211], "Jeremiah_ch_30.docx": [2281, 2281, 2281]}
+mosa	{"1 Chronicles_ch_2.docx": [4117]}
+substa	{"Exodus_ch_30.docx": [4211], "Jeremiah_ch_30.docx": [2281, 2281]}
+mosa	{"1 Chronicles_ch_2.docx": [4117]}
+substa	{"Exodus_ch_30.docx": [4211], "Jeremiah_ch_30.docx": [2281]}
+mosa	{"1 Chronicles_ch_2.docx": [4117]}

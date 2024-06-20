@@ -1,0 +1,8 @@
+
+balda	{"Job_ch_2.docx": [1645], "Job_ch_8.docx": [5, 5, 5], "Job_ch_18.docx": [5, 5, 5], "Job_ch_25.docx": [5, 5, 5], "Job_ch_42.docx": [1214, 1221, 1229, 1241, 1254]}
+doves;	{"Hosea_ch_11.docx": [1842]}
+16thos	{"Genesis_ch_25.docx": [1516], "Proverbs_ch_19.docx": [1412], "Proverbs_ch_22.docx": [1627], "Matthew_ch_24.docx": [1635]}
+balda	{"Job_ch_2.docx": [1645], "Job_ch_8.docx": [5, 5], "Job_ch_18.docx": [5, 5], "Job_ch_25.docx": [5, 5]}
+doves;	{"Hosea_ch_11.docx": [1842]}
+balda	{"Job_ch_2.docx": [1645], "Job_ch_8.docx": [5], "Job_ch_18.docx": [5], "Job_ch_25.docx": [5]}
+doves;	{"Hosea_ch_11.docx": [1842]}

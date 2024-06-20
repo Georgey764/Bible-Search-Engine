@@ -1,0 +1,6 @@
+
+mae	{"Genesis_ch_28.docx": [1213], "Joshua_ch_15.docx": [4063, 4635, 4063, 4635, 4063, 4635], "1 Kings_ch_4.docx": [1240, 1240, 1240], "1 Chronicles_ch_6.docx": [6938, 6938, 6938], "1 Chronicles_ch_7.docx": [2372, 2372, 2372]}
+mae	{"Genesis_ch_28.docx": [1213], "Joshua_ch_15.docx": [4063, 4635, 4063, 4635], "1 Kings_ch_4.docx": [1240, 1240], "1 Chronicles_ch_6.docx": [6938, 6938], "1 Chronicles_ch_7.docx": [2372, 2372]}
+22ho	{"Genesis_ch_40.docx": [2669], "Exodus_ch_7.docx": [3241], "Joshua_ch_6.docx": [2773], "Judges_ch_16.docx": [4009], "1 Samuel_ch_30.docx": [3320], "2 Samuel_ch_3.docx": [3231], "2 Samuel_ch_18.docx": [3652], "1 Kings_ch_12.docx": [3692], "1 Kings_ch_16.docx": [3387], "2 Chronicles_ch_35.docx": [5231], "Jeremiah_ch_26.docx": [3920], "Matthew_ch_2.docx": [3153], "Matthew_ch_19.docx": [2778]}
+23cou	{"Numbers_ch_4.docx": [3030]}
+mae	{"Genesis_ch_28.docx": [1213], "Joshua_ch_15.docx": [4063, 4635], "1 Kings_ch_4.docx": [1240], "1 Chronicles_ch_6.docx": [6938], "1 Chronicles_ch_7.docx": [2372]}

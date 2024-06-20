@@ -1,0 +1,4 @@
+
+sooth	{"Exodus_ch_7.docx": [1347, 3244, 3244, 3244], "Exodus_ch_8.docx": [873, 2592, 2774, 873, 2592, 2774, 873, 2592, 2774], "Exodus_ch_9.docx": [1440, 1440, 1440], "Leviticus_ch_14.docx": [3282, 4758, 3282, 4758, 3282, 4758], "Numbers_ch_23.docx": [3012, 3012, 3012], "Proverbs_ch_15.docx": [1828, 1828, 1828], "Proverbs_ch_21.docx": [1368, 1368, 1368]}
+sooth	{"Exodus_ch_7.docx": [1347, 3244, 3244], "Exodus_ch_8.docx": [873, 2592, 2774, 873, 2592, 2774], "Exodus_ch_9.docx": [1440, 1440], "Leviticus_ch_14.docx": [3282, 4758, 3282, 4758], "Numbers_ch_23.docx": [3012, 3012], "Proverbs_ch_15.docx": [1828, 1828], "Proverbs_ch_21.docx": [1368, 1368]}
+sooth	{"Exodus_ch_7.docx": [1347, 3244], "Exodus_ch_8.docx": [873, 2592, 2774], "Exodus_ch_9.docx": [1440], "Leviticus_ch_14.docx": [3282, 4758], "Numbers_ch_23.docx": [3012], "Proverbs_ch_15.docx": [1828], "Proverbs_ch_21.docx": [1368]}

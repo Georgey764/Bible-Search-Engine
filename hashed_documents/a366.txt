@@ -1,0 +1,5 @@
+
+fearso	{"Deuteronomy_ch_28.docx": [6782], "1 Samuel_ch_16.docx": [2533, 2679, 2774, 3818, 3840, 2533, 2679, 2774, 3818, 3840, 2533, 2679, 2774, 3818, 3840], "1 Samuel_ch_18.docx": [1608, 1608, 1608], "1 Samuel_ch_19.docx": [1328, 1328, 1328], "Nehemiah_ch_9.docx": [7025, 7025, 7025], "Psalms_ch_99.docx": [280, 280, 280], "Habakkuk_ch_1.docx": [1048, 1048, 1048]}
+fearso	{"Deuteronomy_ch_28.docx": [6782], "1 Samuel_ch_16.docx": [2533, 2679, 2774, 3818, 3840, 2533, 2679, 2774, 3818, 3840], "1 Samuel_ch_18.docx": [1608, 1608], "1 Samuel_ch_19.docx": [1328, 1328], "Nehemiah_ch_9.docx": [7025, 7025], "Psalms_ch_99.docx": [280, 280], "Habakkuk_ch_1.docx": [1048, 1048]}
+4phano	{"1 Chronicles_ch_4.docx": [315]}
+fearso	{"Deuteronomy_ch_28.docx": [6782], "1 Samuel_ch_16.docx": [2533, 2679, 2774, 3818, 3840], "1 Samuel_ch_18.docx": [1608], "1 Samuel_ch_19.docx": [1328], "Nehemiah_ch_9.docx": [7025], "Psalms_ch_99.docx": [280], "Habakkuk_ch_1.docx": [1048]}

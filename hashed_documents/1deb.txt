@@ -1,0 +1,2 @@
+
+20they	{"Genesis_ch_43.docx": [2703], "Job_ch_6.docx": [2060], "Psalms_ch_38.docx": [1649], "Psalms_ch_106.docx": [1808], "Matthew_ch_24.docx": [2015]}

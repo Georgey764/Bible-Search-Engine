@@ -1,0 +1,4 @@
+
+charad	{"Numbers_ch_33.docx": [2020, 2066, 2066, 2066]}
+charad	{"Numbers_ch_33.docx": [2020, 2066, 2066]}
+charad	{"Numbers_ch_33.docx": [2020, 2066]}

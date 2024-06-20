@@ -1,0 +1,7 @@
+
+arabot	{"Joshua_ch_13.docx": [26879, 26894, 26910, 26894, 26910, 26894, 26910], "2 Samuel_ch_23.docx": [4554, 4554, 4554], "1 Kings_ch_4.docx": [1021, 1021, 1021]}
+aisam	{"Joshua_ch_15.docx": [5611]}
+arabot	{"Joshua_ch_13.docx": [26879, 26894, 26910, 26894, 26910], "2 Samuel_ch_23.docx": [4554, 4554], "1 Kings_ch_4.docx": [1021, 1021]}
+aisam	{"Joshua_ch_15.docx": [5611]}
+arabot	{"Joshua_ch_13.docx": [26879, 26894, 26910], "2 Samuel_ch_23.docx": [4554], "1 Kings_ch_4.docx": [1021]}
+aisam	{"Joshua_ch_15.docx": [5611]}

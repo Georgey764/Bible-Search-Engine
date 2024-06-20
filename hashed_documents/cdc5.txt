@@ -1,0 +1,7 @@
+
+stew	{"Genesis_ch_25.docx": [3209, 3330, 3747, 3330, 3747, 3330, 3747], "Exodus_ch_16.docx": [381, 381, 381], "Judges_ch_9.docx": [5690, 5690, 5690], "2 Kings_ch_4.docx": [5922, 6034, 6278, 5922, 6034, 6278, 5922, 6034, 6278], "Ezekiel_ch_24.docx": [1410, 1410, 1410], "Luke_ch_12.docx": [5449, 5449]}
+zidki	{"Nehemiah_ch_10.docx": [114]}
+stew	{"Genesis_ch_25.docx": [3209, 3330, 3747, 3330, 3747], "Exodus_ch_16.docx": [381, 381], "Judges_ch_9.docx": [5690, 5690], "2 Kings_ch_4.docx": [5922, 6034, 6278, 5922, 6034, 6278], "Ezekiel_ch_24.docx": [1410, 1410], "Luke_ch_12.docx": [5449]}
+zidki	{"Nehemiah_ch_10.docx": [114]}
+stew	{"Genesis_ch_25.docx": [3209, 3330, 3747], "Exodus_ch_16.docx": [381], "Judges_ch_9.docx": [5690], "2 Kings_ch_4.docx": [5922, 6034, 6278], "Ezekiel_ch_24.docx": [1410], "Luke_ch_12.docx": [5449]}
+zidki	{"Nehemiah_ch_10.docx": [114]}

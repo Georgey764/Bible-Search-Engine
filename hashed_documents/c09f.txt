@@ -1,0 +1,4 @@
+
+lotan	{"Genesis_ch_36.docx": [2354, 2495, 3084, 2495, 3084, 2495, 3084], "1 Chronicles_ch_1.docx": [3087, 3159, 3204, 3087, 3204, 3087, 3159, 3204]}
+lotan	{"Genesis_ch_36.docx": [2354, 2495, 3084, 2495, 3084], "1 Chronicles_ch_1.docx": [3087, 3204, 3087, 3159, 3204]}
+lotan	{"Genesis_ch_36.docx": [2354, 2495, 3084], "1 Chronicles_ch_1.docx": [3087, 3159, 3204]}

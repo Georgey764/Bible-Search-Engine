@@ -1,0 +1,4 @@
+
+tent’s	{"Exodus_ch_33.docx": [1323], "Numbers_ch_3.docx": [4265, 4265, 4265], "Numbers_ch_4.docx": [1893, 4121, 1893, 4121, 1893, 4121]}
+tent’s	{"Exodus_ch_33.docx": [1323], "Numbers_ch_3.docx": [4265, 4265], "Numbers_ch_4.docx": [1893, 4121, 1893, 4121]}
+tent’s	{"Exodus_ch_33.docx": [1323], "Numbers_ch_3.docx": [4265], "Numbers_ch_4.docx": [1893, 4121]}

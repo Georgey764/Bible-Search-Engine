@@ -1,0 +1,8 @@
+
+taam	{"Genesis_ch_22.docx": [3539], "Genesis_ch_46.docx": [2572, 2572, 2572]}
+gola	{"1 Chronicles_ch_6.docx": [6068]}
+taam	{"Genesis_ch_22.docx": [3539], "Genesis_ch_46.docx": [2572, 2572]}
+751	{"Numbers_ch_7.docx": [8786]}
+gola	{"1 Chronicles_ch_6.docx": [6068]}
+taam	{"Genesis_ch_22.docx": [3539], "Genesis_ch_46.docx": [2572]}
+ gola	{"1 Chronicles_ch_6.docx": [6068]}

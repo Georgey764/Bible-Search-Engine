@@ -1,0 +1,4 @@
+
+peaks	{"Song of Solomon_ch_4.docx": [1175], "Jeremiah_ch_17.docx": [495, 495, 495], "Joel_ch_2.docx": [304, 304, 304]}
+peaks	{"Song of Solomon_ch_4.docx": [1175], "Jeremiah_ch_17.docx": [495, 495], "Joel_ch_2.docx": [304, 304]}
+peaks	{"Song of Solomon_ch_4.docx": [1175], "Jeremiah_ch_17.docx": [495], "Joel_ch_2.docx": [304]}

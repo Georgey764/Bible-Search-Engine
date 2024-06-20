@@ -1,0 +1,4 @@
+
+jugs	{"Ruth_ch_2.docx": [1353], "1 Samuel_ch_25.docx": [2628, 2628, 2628]}
+jugs	{"Ruth_ch_2.docx": [1353], "1 Samuel_ch_25.docx": [2628, 2628]}
+jugs	{"Ruth_ch_2.docx": [1353], "1 Samuel_ch_25.docx": [2628]}

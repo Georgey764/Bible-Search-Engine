@@ -1,0 +1,4 @@
+
+pele	{"1 Chronicles_ch_1.docx": [1593, 2022, 2022, 2022], "Luke_ch_3.docx": [7067, 7067]}
+pele	{"1 Chronicles_ch_1.docx": [1593, 2022, 2022], "Luke_ch_3.docx": [7067]}
+pele	{"1 Chronicles_ch_1.docx": [1593, 2022], "Luke_ch_3.docx": [7067]}

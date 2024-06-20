@@ -1,0 +1,6 @@
+
+jerem	{"1 Chronicles_ch_12.docx": [1297]}
+15‘yo	{"Genesis_ch_40.docx": [1748], "Exodus_ch_12.docx": [2127], "Exodus_ch_26.docx": [1638], "Leviticus_ch_18.docx": [1715], "Leviticus_ch_19.docx": [1712], "Deuteronomy_ch_16.docx": [2358], "Deuteronomy_ch_23.docx": [1730], "Deuteronomy_ch_24.docx": [2135], "Deuteronomy_ch_25.docx": [1974], "Job_ch_22.docx": [1307], "Psalms_ch_31.docx": [1646], "Habakkuk_ch_1.docx": [2551], "Matthew_ch_5.docx": [1351]}
+jerem	{"1 Chronicles_ch_12.docx": [1297]}
+5you’	{"Job_ch_17.docx": [333], "Psalms_ch_104.docx": [513], "Proverbs_ch_2.docx": [347], "Isaiah_ch_60.docx": [623], "Ezekiel_ch_22.docx": [614]}
+ jerem	{"1 Chronicles_ch_12.docx": [1297]}

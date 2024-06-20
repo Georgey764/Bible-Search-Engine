@@ -1,0 +1,4 @@
+
+azekah	{"1 Samuel_ch_17.docx": [29], "Jeremiah_ch_34.docx": [1209, 1209, 1209]}
+azekah	{"1 Samuel_ch_17.docx": [29], "Jeremiah_ch_34.docx": [1209, 1209]}
+azekah	{"1 Samuel_ch_17.docx": [29], "Jeremiah_ch_34.docx": [1209]}

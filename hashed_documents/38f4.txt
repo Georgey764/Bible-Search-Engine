@@ -1,0 +1,5 @@
+
+decrea	{"Leviticus_ch_26.docx": [2721], "Psalms_ch_107.docx": [3398, 3398, 3398], "Joel_ch_2.docx": [1798, 1798, 1798], "John_ch_3.docx": [3659, 3659]}
+46then	{"Genesis_ch_27.docx": [6321], "Exodus_ch_29.docx": [6188], "1 Kings_ch_2.docx": [8211], "1 Kings_ch_18.docx": [7803]}
+decrea	{"Leviticus_ch_26.docx": [2721], "Psalms_ch_107.docx": [3398, 3398], "Joel_ch_2.docx": [1798, 1798], "John_ch_3.docx": [3659]}
+decrea	{"Leviticus_ch_26.docx": [2721], "Psalms_ch_107.docx": [3398], "Joel_ch_2.docx": [1798], "John_ch_3.docx": [3659]}

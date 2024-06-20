@@ -1,0 +1,7 @@
+
+eglom’	{"Judges_ch_3.docx": [8394, 8775, 8775, 8775]}
+abel’	{"Hebrews_ch_12.docx": [4302]}
+eglom’	{"Judges_ch_3.docx": [8394, 8775, 8775]}
+99i’ve	{"Psalms_ch_119.docx": [8242]}
+eglom’	{"Judges_ch_3.docx": [8394, 8775]}
+abel’	{"Hebrews_ch_12.docx": [4302]}

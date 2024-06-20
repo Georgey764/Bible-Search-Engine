@@ -1,0 +1,5 @@
+
+windb	{"Genesis_ch_41.docx": [513, 690, 2622, 3260, 690, 2622, 3260, 690, 2622, 3260], "Jeremiah_ch_5.docx": [2332, 2332, 2332], "Titus_ch_1.docx": [1317, 1317]}
+windb	{"Genesis_ch_41.docx": [513, 690, 2622, 3260, 690, 2622, 3260], "Jeremiah_ch_5.docx": [2332, 2332], "Titus_ch_1.docx": [1317]}
+28‘o	{"2 Chronicles_ch_6.docx": [4511]}
+windb	{"Genesis_ch_41.docx": [513, 690, 2622, 3260], "Jeremiah_ch_5.docx": [2332], "Titus_ch_1.docx": [1317]}

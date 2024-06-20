@@ -1,0 +1,5 @@
+
+achil	{"2 Samuel_ch_20.docx": [4525], "1 Kings_ch_4.docx": [241, 1217, 241, 1217, 241, 1217], "1 Chronicles_ch_18.docx": [2037, 2037, 2037]}
+14[so	{"Genesis_ch_16.docx": [2145]}
+achil	{"2 Samuel_ch_20.docx": [4525], "1 Kings_ch_4.docx": [241, 1217, 241, 1217], "1 Chronicles_ch_18.docx": [2037, 2037]}
+achil	{"2 Samuel_ch_20.docx": [4525], "1 Kings_ch_4.docx": [241, 1217], "1 Chronicles_ch_18.docx": [2037]}

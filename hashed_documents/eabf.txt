@@ -1,0 +1,7 @@
+
+disag	{"Exodus_ch_18.docx": [2119], "Numbers_ch_13.docx": [3421, 3421, 3421], "Numbers_ch_30.docx": [491, 1010, 2033, 491, 1010, 2033, 491, 1010, 2033], "Job_ch_20.docx": [61, 61, 61], "Proverbs_ch_26.docx": [1749, 1749, 1749], "2 Timothy_ch_2.docx": [3449, 3449]}
+older;	{"1 Chronicles_ch_23.docx": [2794]}
+disag	{"Exodus_ch_18.docx": [2119], "Numbers_ch_13.docx": [3421, 3421], "Numbers_ch_30.docx": [491, 1010, 2033, 491, 1010, 2033], "Job_ch_20.docx": [61, 61], "Proverbs_ch_26.docx": [1749, 1749], "2 Timothy_ch_2.docx": [3449]}
+older;	{"1 Chronicles_ch_23.docx": [2794]}
+disag	{"Exodus_ch_18.docx": [2119], "Numbers_ch_13.docx": [3421], "Numbers_ch_30.docx": [491, 1010, 2033], "Job_ch_20.docx": [61], "Proverbs_ch_26.docx": [1749], "2 Timothy_ch_2.docx": [3449]}
+older;	{"1 Chronicles_ch_23.docx": [2794]}

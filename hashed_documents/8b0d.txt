@@ -1,0 +1,7 @@
+
+cheri	{"Numbers_ch_6.docx": [577], "1 Kings_ch_17.docx": [334, 492, 334, 492, 334, 492], "Psalms_ch_103.docx": [766, 766, 766]}
+ashsa	{"1 Chronicles_ch_4.docx": [1168, 1239, 1239, 1239]}
+cheri	{"Numbers_ch_6.docx": [577], "1 Kings_ch_17.docx": [334, 492, 334, 492], "Psalms_ch_103.docx": [766, 766]}
+ashsa	{"1 Chronicles_ch_4.docx": [1168, 1239, 1239]}
+cheri	{"Numbers_ch_6.docx": [577], "1 Kings_ch_17.docx": [334, 492], "Psalms_ch_103.docx": [766]}
+ashsa	{"1 Chronicles_ch_4.docx": [1168, 1239]}

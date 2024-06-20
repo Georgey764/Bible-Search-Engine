@@ -1,0 +1,4 @@
+
+backwa	{"Genesis_ch_9.docx": [2834], "1 Samuel_ch_4.docx": [3073, 3073, 3073], "Psalms_ch_114.docx": [238, 475, 238, 475, 238, 475]}
+backwa	{"Genesis_ch_9.docx": [2834], "1 Samuel_ch_4.docx": [3073, 3073], "Psalms_ch_114.docx": [238, 475, 238, 475]}
+backwa	{"Genesis_ch_9.docx": [2834], "1 Samuel_ch_4.docx": [3073], "Psalms_ch_114.docx": [238, 475]}

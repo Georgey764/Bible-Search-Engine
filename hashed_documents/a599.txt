@@ -1,0 +1,4 @@
+
+home-b	{"Genesis_ch_14.docx": [1774], "Genesis_ch_15.docx": [209, 395, 209, 395, 209, 395], "Genesis_ch_17.docx": [1587, 3374, 1587, 3374, 1587, 3374]}
+home-b	{"Genesis_ch_14.docx": [1774], "Genesis_ch_15.docx": [209, 395, 209, 395], "Genesis_ch_17.docx": [1587, 3374, 1587, 3374]}
+home-b	{"Genesis_ch_14.docx": [1774], "Genesis_ch_15.docx": [209, 395], "Genesis_ch_17.docx": [1587, 3374]}

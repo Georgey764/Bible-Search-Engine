@@ -1,0 +1,7 @@
+
+sanes	{"1 Chronicles_ch_3.docx": [1557]}
+zabdie	{"1 Chronicles_ch_27.docx": [310], "Nehemiah_ch_11.docx": [2167, 2167, 2167]}
+sanes	{"1 Chronicles_ch_3.docx": [1557]}
+zabdie	{"1 Chronicles_ch_27.docx": [310], "Nehemiah_ch_11.docx": [2167, 2167]}
+sanes	{"1 Chronicles_ch_3.docx": [1557]}
+zabdie	{"1 Chronicles_ch_27.docx": [310], "Nehemiah_ch_11.docx": [2167]}

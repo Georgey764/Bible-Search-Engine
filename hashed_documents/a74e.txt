@@ -1,0 +1,5 @@
+
+fist	{"Genesis_ch_16.docx": [1781, 1792, 1792, 1792], "Exodus_ch_21.docx": [2182, 2182, 2182], "Proverbs_ch_30.docx": [3299, 3299, 3299], "Isaiah_ch_58.docx": [780, 780, 780], "Amos_ch_5.docx": [2019, 2019, 2019], "Matthew_ch_26.docx": [8426, 8426], "Mark_ch_14.docx": [8308, 8308]}
+fist	{"Genesis_ch_16.docx": [1781, 1792, 1792], "Exodus_ch_21.docx": [2182, 2182], "Proverbs_ch_30.docx": [3299, 3299], "Isaiah_ch_58.docx": [780, 780], "Amos_ch_5.docx": [2019, 2019], "Matthew_ch_26.docx": [8426], "Mark_ch_14.docx": [8308]}
+7where	{"Psalms_ch_139.docx": [609]}
+fist	{"Genesis_ch_16.docx": [1781, 1792], "Exodus_ch_21.docx": [2182], "Proverbs_ch_30.docx": [3299], "Isaiah_ch_58.docx": [780], "Amos_ch_5.docx": [2019], "Matthew_ch_26.docx": [8426], "Mark_ch_14.docx": [8308]}

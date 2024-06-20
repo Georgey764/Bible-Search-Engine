@@ -1,0 +1,4 @@
+
+asroni	{"Numbers_ch_26.docx": [777, 1844, 1844, 1844]}
+asroni	{"Numbers_ch_26.docx": [777, 1844, 1844]}
+asroni	{"Numbers_ch_26.docx": [777, 1844]}

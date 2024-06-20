@@ -1,0 +1,7 @@
+
+phis	{"Genesis_ch_2.docx": [1595]}
+shalat	{"1 Chronicles_ch_3.docx": [1513, 1611, 1611, 1611], "Matthew_ch_1.docx": [964, 993, 964, 993, 964, 993]}
+phis	{"Genesis_ch_2.docx": [1595]}
+shalat	{"1 Chronicles_ch_3.docx": [1513, 1611, 1611], "Matthew_ch_1.docx": [964, 993, 964, 993]}
+phis	{"Genesis_ch_2.docx": [1595]}
+shalat	{"1 Chronicles_ch_3.docx": [1513, 1611], "Matthew_ch_1.docx": [964, 993]}

@@ -1,0 +1,5 @@
+
+arctu	{"Job_ch_9.docx": [741]}
+9all	{"Nehemiah_ch_6.docx": [1207], "Jeremiah_ch_34.docx": [1492]}
+arctu	{"Job_ch_9.docx": [741]}
+arctu	{"Job_ch_9.docx": [741]}

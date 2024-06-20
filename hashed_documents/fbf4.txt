@@ -1,0 +1,2 @@
+
+22he	{"Genesis_ch_45.docx": [3160], "Judges_ch_3.docx": [8396], "Judges_ch_13.docx": [3505], "1 Kings_ch_7.docx": [2846], "2 Kings_ch_14.docx": [3560], "Esther_ch_1.docx": [3756], "Job_ch_39.docx": [1974], "Psalms_ch_38.docx": [1783], "Isaiah_ch_40.docx": [3021], "Daniel_ch_2.docx": [3510]}

@@ -1,0 +1,4 @@
+
+etebat	{"Numbers_ch_33.docx": [2459, 2513, 2513, 2513], "Deuteronomy_ch_10.docx": [1077, 1077, 1077]}
+etebat	{"Numbers_ch_33.docx": [2459, 2513, 2513], "Deuteronomy_ch_10.docx": [1077, 1077]}
+etebat	{"Numbers_ch_33.docx": [2459, 2513], "Deuteronomy_ch_10.docx": [1077]}

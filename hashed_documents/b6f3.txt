@@ -1,0 +1,4 @@
+
+rent	{"Exodus_ch_22.docx": [2417, 2428, 2428, 2428], "Ezekiel_ch_22.docx": [1748, 1748, 1748], "Mark_ch_12.docx": [115, 115]}
+rent	{"Exodus_ch_22.docx": [2417, 2428, 2428], "Ezekiel_ch_22.docx": [1748, 1748], "Mark_ch_12.docx": [115]}
+rent	{"Exodus_ch_22.docx": [2417, 2428], "Ezekiel_ch_22.docx": [1748], "Mark_ch_12.docx": [115]}

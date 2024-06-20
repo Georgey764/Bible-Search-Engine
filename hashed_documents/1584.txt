@@ -1,0 +1,2 @@
+
+23they	{"Exodus_ch_32.docx": [3300], "Numbers_ch_10.docx": [2549], "Joshua_ch_8.docx": [2564], "Jeremiah_ch_6.docx": [4014]}

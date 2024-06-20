@@ -1,0 +1,8 @@
+
+moriah	{"2 Chronicles_ch_3.docx": [17], "Psalms_ch_120.docx": [16, 16, 16], "Psalms_ch_121.docx": [16, 16, 16], "Psalms_ch_122.docx": [16, 16, 16], "Psalms_ch_123.docx": [16, 16, 16], "Psalms_ch_124.docx": [16, 16, 16], "Psalms_ch_125.docx": [16, 16, 16], "Psalms_ch_126.docx": [16, 16, 16], "Psalms_ch_127.docx": [16, 16, 16], "Psalms_ch_128.docx": [16, 16, 16], "Psalms_ch_129.docx": [16, 16, 16], "Psalms_ch_130.docx": [16, 16, 16], "Psalms_ch_131.docx": [16, 16, 16], "Psalms_ch_132.docx": [16, 16, 16], "Psalms_ch_133.docx": [16, 16, 16], "Psalms_ch_134.docx": [16, 16, 16]}
+unconc	{"Amos_ch_6.docx": [1701]}
+19tha	{"Judges_ch_15.docx": [3576]}
+moriah	{"2 Chronicles_ch_3.docx": [17], "Psalms_ch_120.docx": [16, 16], "Psalms_ch_121.docx": [16, 16], "Psalms_ch_122.docx": [16, 16], "Psalms_ch_123.docx": [16, 16], "Psalms_ch_124.docx": [16, 16], "Psalms_ch_125.docx": [16, 16], "Psalms_ch_126.docx": [16, 16], "Psalms_ch_127.docx": [16, 16], "Psalms_ch_128.docx": [16, 16], "Psalms_ch_129.docx": [16, 16], "Psalms_ch_130.docx": [16, 16], "Psalms_ch_131.docx": [16, 16], "Psalms_ch_132.docx": [16, 16], "Psalms_ch_133.docx": [16, 16], "Psalms_ch_134.docx": [16, 16]}
+unconc	{"Amos_ch_6.docx": [1701]}
+moriah	{"2 Chronicles_ch_3.docx": [17], "Psalms_ch_120.docx": [16], "Psalms_ch_121.docx": [16], "Psalms_ch_122.docx": [16], "Psalms_ch_123.docx": [16], "Psalms_ch_124.docx": [16], "Psalms_ch_125.docx": [16], "Psalms_ch_126.docx": [16], "Psalms_ch_127.docx": [16], "Psalms_ch_128.docx": [16], "Psalms_ch_129.docx": [16], "Psalms_ch_130.docx": [16], "Psalms_ch_131.docx": [16], "Psalms_ch_132.docx": [16], "Psalms_ch_133.docx": [16], "Psalms_ch_134.docx": [16]}
+unconc	{"Amos_ch_6.docx": [1701]}

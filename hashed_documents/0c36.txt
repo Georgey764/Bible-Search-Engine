@@ -1,0 +1,4 @@
+
+pep	{"Genesis_ch_12.docx": [1762], "Isaiah_ch_28.docx": [3886, 4086, 4172, 3886, 4086, 4172, 3886, 4086, 4172]}
+pep	{"Genesis_ch_12.docx": [1762], "Isaiah_ch_28.docx": [3886, 4086, 4172, 3886, 4086, 4172]}
+pep	{"Genesis_ch_12.docx": [1762], "Isaiah_ch_28.docx": [3886, 4086, 4172]}

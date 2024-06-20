@@ -1,0 +1,4 @@
+
+mousi	{"1 Chronicles_ch_6.docx": [3661], "1 Chronicles_ch_23.docx": [2184, 2322, 2184, 2322, 2184, 2322], "1 Chronicles_ch_24.docx": [2924, 2924, 2924]}
+mousi	{"1 Chronicles_ch_6.docx": [3661], "1 Chronicles_ch_23.docx": [2184, 2322, 2184, 2322], "1 Chronicles_ch_24.docx": [2924, 2924]}
+mousi	{"1 Chronicles_ch_6.docx": [3661], "1 Chronicles_ch_23.docx": [2184, 2322], "1 Chronicles_ch_24.docx": [2924]}

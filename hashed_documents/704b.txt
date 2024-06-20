@@ -1,0 +1,4 @@
+
+pointe	{"1 Kings_ch_13.docx": [2163], "Ezra_ch_9.docx": [13, 13, 13], "Esther_ch_3.docx": [476, 476, 476], "Daniel_ch_8.docx": [1232, 1232, 1232], "Mark_ch_1.docx": [3323, 3323], "Mark_ch_11.docx": [2551, 2551], "Luke_ch_19.docx": [5037, 5037]}
+pointe	{"1 Kings_ch_13.docx": [2163], "Ezra_ch_9.docx": [13, 13], "Esther_ch_3.docx": [476, 476], "Daniel_ch_8.docx": [1232, 1232], "Mark_ch_1.docx": [3323], "Mark_ch_11.docx": [2551], "Luke_ch_19.docx": [5037]}
+pointe	{"1 Kings_ch_13.docx": [2163], "Ezra_ch_9.docx": [13], "Esther_ch_3.docx": [476], "Daniel_ch_8.docx": [1232], "Mark_ch_1.docx": [3323], "Mark_ch_11.docx": [2551], "Luke_ch_19.docx": [5037]}

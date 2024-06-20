@@ -1,0 +1,5 @@
+
+conani	{"2 Chronicles_ch_31.docx": [2237, 2495, 2495, 2495], "2 Chronicles_ch_35.docx": [1705, 1705, 1705]}
+11as	{"Genesis_ch_6.docx": [1312], "Exodus_ch_33.docx": [1564], "Deuteronomy_ch_26.docx": [1545], "Deuteronomy_ch_29.docx": [1246], "Judges_ch_11.docx": [1535], "1 Samuel_ch_29.docx": [1803], "2 Kings_ch_16.docx": [1724], "2 Chronicles_ch_33.docx": [1532], "Psalms_ch_103.docx": [891], "Proverbs_ch_6.docx": [1163], "Proverbs_ch_25.docx": [1064], "Proverbs_ch_26.docx": [924]}
+conani	{"2 Chronicles_ch_31.docx": [2237, 2495, 2495], "2 Chronicles_ch_35.docx": [1705, 1705]}
+conani	{"2 Chronicles_ch_31.docx": [2237, 2495], "2 Chronicles_ch_35.docx": [1705]}

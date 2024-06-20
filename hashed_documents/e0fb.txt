@@ -1,0 +1,4 @@
+
+nabuz	{"Jeremiah_ch_39.docx": [1385, 2056, 2056, 2056], "Jeremiah_ch_40.docx": [22, 22, 22], "Jeremiah_ch_43.docx": [598, 598, 598]}
+nabuz	{"Jeremiah_ch_39.docx": [1385, 2056, 2056], "Jeremiah_ch_40.docx": [22, 22], "Jeremiah_ch_43.docx": [598, 598]}
+nabuz	{"Jeremiah_ch_39.docx": [1385, 2056], "Jeremiah_ch_40.docx": [22], "Jeremiah_ch_43.docx": [598]}

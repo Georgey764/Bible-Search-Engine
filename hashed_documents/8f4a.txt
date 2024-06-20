@@ -1,0 +1,4 @@
+
+87th	{"Numbers_ch_7.docx": [10246]}
+23thos	{"Proverbs_ch_5.docx": [1995], "Proverbs_ch_21.docx": [2224], "Proverbs_ch_28.docx": [2124], "Isaiah_ch_5.docx": [3546]}
+17‘in	{"Ecclesiastes_ch_5.docx": [2512], "Joel_ch_1.docx": [2659]}

@@ -1,0 +1,7 @@
+
+itself	{"Numbers_ch_3.docx": [2940], "Numbers_ch_4.docx": [3297, 3297, 3297], "Psalms_ch_27.docx": [1765, 1765, 1765], "Isaiah_ch_10.docx": [2374, 2374, 2374], "Mark_ch_4.docx": [3174, 3174], "John_ch_16.docx": [1216, 1216], "Acts_ch_12.docx": [1641, 1641], "1 Corinthians_ch_12.docx": [423, 423], "1 Corinthians_ch_13.docx": [504, 504]}
+parua	{"1 Kings_ch_4.docx": [1822]}
+itself	{"Numbers_ch_3.docx": [2940], "Numbers_ch_4.docx": [3297, 3297], "Psalms_ch_27.docx": [1765, 1765], "Isaiah_ch_10.docx": [2374, 2374], "Mark_ch_4.docx": [3174], "John_ch_16.docx": [1216], "Acts_ch_12.docx": [1641], "1 Corinthians_ch_12.docx": [423], "1 Corinthians_ch_13.docx": [504]}
+parua	{"1 Kings_ch_4.docx": [1822]}
+itself	{"Numbers_ch_3.docx": [2940], "Numbers_ch_4.docx": [3297], "Psalms_ch_27.docx": [1765], "Isaiah_ch_10.docx": [2374], "Mark_ch_4.docx": [3174], "John_ch_16.docx": [1216], "Acts_ch_12.docx": [1641], "1 Corinthians_ch_12.docx": [423], "1 Corinthians_ch_13.docx": [504]}
+parua	{"1 Kings_ch_4.docx": [1822]}

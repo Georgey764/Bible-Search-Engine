@@ -1,0 +1,5 @@
+
+goldsm	{"Nehemiah_ch_3.docx": [15215, 15232, 15251, 15232, 15251, 15232, 15251], "Jeremiah_ch_10.docx": [1112, 1865, 1112, 1865, 1112, 1865], "Jeremiah_ch_51.docx": [2956, 2956, 2956]}
+17me	{"Judges_ch_10.docx": [5752], "Judges_ch_20.docx": [2229], "2 Kings_ch_12.docx": [2718]}
+goldsm	{"Nehemiah_ch_3.docx": [15215, 15232, 15251, 15232, 15251], "Jeremiah_ch_10.docx": [1112, 1865, 1112, 1865], "Jeremiah_ch_51.docx": [2956, 2956]}
+goldsm	{"Nehemiah_ch_3.docx": [15215, 15232, 15251], "Jeremiah_ch_10.docx": [1112, 1865], "Jeremiah_ch_51.docx": [2956]}

@@ -1,0 +1,4 @@
+
+affa	{"2 Kings_ch_20.docx": [176], "Ezekiel_ch_23.docx": [1095, 1095, 1095], "1 Timothy_ch_5.docx": [1661, 1661]}
+affa	{"2 Kings_ch_20.docx": [176], "Ezekiel_ch_23.docx": [1095, 1095], "1 Timothy_ch_5.docx": [1661]}
+affa	{"2 Kings_ch_20.docx": [176], "Ezekiel_ch_23.docx": [1095], "1 Timothy_ch_5.docx": [1661]}

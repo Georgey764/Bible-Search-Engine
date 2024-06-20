@@ -1,0 +1,4 @@
+
+alc	{"Numbers_ch_6.docx": [161], "Joshua_ch_19.docx": [3439, 3439], "Matthew_ch_11.docx": [2014, 2014, 2014], "Luke_ch_7.docx": [4903, 4903], "Titus_ch_2.docx": [234, 234]}
+alc	{"Numbers_ch_6.docx": [161], "Matthew_ch_11.docx": [2014, 2014], "Joshua_ch_19.docx": [3439], "Luke_ch_7.docx": [4903], "Titus_ch_2.docx": [234]}
+alc	{"Numbers_ch_6.docx": [161], "Joshua_ch_19.docx": [3439], "Matthew_ch_11.docx": [2014], "Luke_ch_7.docx": [4903], "Titus_ch_2.docx": [234]}

@@ -1,0 +1,4 @@
+
+riph	{"Genesis_ch_10.docx": [417], "1 Chronicles_ch_1.docx": [334, 334, 334]}
+riph	{"Genesis_ch_10.docx": [417], "1 Chronicles_ch_1.docx": [334, 334]}
+riph	{"Genesis_ch_10.docx": [417], "1 Chronicles_ch_1.docx": [334]}

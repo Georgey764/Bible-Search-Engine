@@ -1,0 +1,5 @@
+
+jass	{"Numbers_ch_21.docx": [3113], "Deuteronomy_ch_2.docx": [4570, 4570, 4570], "Joshua_ch_17.docx": [1110, 1110, 1110]}
+jass	{"Numbers_ch_21.docx": [3113], "Deuteronomy_ch_2.docx": [4570, 4570], "Joshua_ch_17.docx": [1110, 1110]}
+33jap	{"1 Chronicles_ch_7.docx": [4029]}
+jass	{"Numbers_ch_21.docx": [3113], "Deuteronomy_ch_2.docx": [4570], "Joshua_ch_17.docx": [1110]}

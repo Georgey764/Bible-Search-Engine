@@ -1,0 +1,4 @@
+
+sebama	{"Numbers_ch_32.docx": [396, 5196, 5196, 5196]}
+sebama	{"Numbers_ch_32.docx": [396, 5196, 5196]}
+sebama	{"Numbers_ch_32.docx": [396, 5196]}

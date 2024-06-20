@@ -1,0 +1,4 @@
+
+jel	{"Genesis_ch_22.docx": [3348], "2 Kings_ch_23.docx": [7946, 7946, 7946]}
+jel	{"Genesis_ch_22.docx": [3348], "2 Kings_ch_23.docx": [7946, 7946]}
+jel	{"Genesis_ch_22.docx": [3348], "2 Kings_ch_23.docx": [7946]}

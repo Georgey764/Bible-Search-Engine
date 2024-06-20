@@ -1,0 +1,4 @@
+
+fount	{"Deuteronomy_ch_8.docx": [2120], "Mark_ch_5.docx": [3278, 3278], "John_ch_4.docx": [2176, 2176], "James_ch_3.docx": [1374, 1374]}
+fount	{"Deuteronomy_ch_8.docx": [2120], "Mark_ch_5.docx": [3278], "John_ch_4.docx": [2176], "James_ch_3.docx": [1374]}
+fount	{"Deuteronomy_ch_8.docx": [2120], "Mark_ch_5.docx": [3278], "John_ch_4.docx": [2176], "James_ch_3.docx": [1374]}

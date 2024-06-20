@@ -1,0 +1,7 @@
+
+mec	{"1 Chronicles_ch_11.docx": [5768]}
+mode	{"Esther_ch_4.docx": [1793], "1 Timothy_ch_2.docx": [970, 970], "1 Timothy_ch_3.docx": [209, 1290, 209, 1290]}
+mec	{"1 Chronicles_ch_11.docx": [5768]}
+mode	{"Esther_ch_4.docx": [1793], "1 Timothy_ch_2.docx": [970], "1 Timothy_ch_3.docx": [209, 1290]}
+mec	{"1 Chronicles_ch_11.docx": [5768]}
+mode	{"Esther_ch_4.docx": [1793], "1 Timothy_ch_2.docx": [970], "1 Timothy_ch_3.docx": [209, 1290]}

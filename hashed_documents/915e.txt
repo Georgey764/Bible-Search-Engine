@@ -1,0 +1,7 @@
+
+attach	{"Genesis_ch_34.docx": [2204], "Exodus_ch_26.docx": [912, 912, 912], "Exodus_ch_39.docx": [365, 698, 365, 698, 365, 698], "1 Kings_ch_6.docx": [1080, 1080, 1080], "Isaiah_ch_28.docx": [2638, 2638, 2638]}
+guilel	{"Job_ch_12.docx": [404], "Psalms_ch_7.docx": [852, 852, 852], "Psalms_ch_25.docx": [1838, 1838, 1838], "Proverbs_ch_1.docx": [344, 344, 344], "Proverbs_ch_8.docx": [308, 308, 308], "Proverbs_ch_15.docx": [987, 987, 987], "Proverbs_ch_21.docx": [1087, 1087, 1087]}
+attach	{"Genesis_ch_34.docx": [2204], "Exodus_ch_26.docx": [912, 912], "Exodus_ch_39.docx": [365, 698, 365, 698], "1 Kings_ch_6.docx": [1080, 1080], "Isaiah_ch_28.docx": [2638, 2638]}
+guilel	{"Job_ch_12.docx": [404], "Psalms_ch_7.docx": [852, 852], "Psalms_ch_25.docx": [1838, 1838], "Proverbs_ch_1.docx": [344, 344], "Proverbs_ch_8.docx": [308, 308], "Proverbs_ch_15.docx": [987, 987], "Proverbs_ch_21.docx": [1087, 1087]}
+attach	{"Genesis_ch_34.docx": [2204], "Exodus_ch_26.docx": [912], "Exodus_ch_39.docx": [365, 698], "1 Kings_ch_6.docx": [1080], "Isaiah_ch_28.docx": [2638]}
+guilel	{"Job_ch_12.docx": [404], "Psalms_ch_7.docx": [852], "Psalms_ch_25.docx": [1838], "Proverbs_ch_1.docx": [344], "Proverbs_ch_8.docx": [308], "Proverbs_ch_15.docx": [987], "Proverbs_ch_21.docx": [1087]}

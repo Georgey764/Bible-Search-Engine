@@ -1,0 +1,3 @@
+
+38‘t	{"Exodus_ch_29.docx": [5223], "Leviticus_ch_23.docx": [5369], "Jeremiah_ch_49.docx": [6694], "Ezekiel_ch_23.docx": [6297], "Ezekiel_ch_36.docx": [7023], "Matthew_ch_10.docx": [4779], "Matthew_ch_22.docx": [4179]}
+23‘{l	{"Matthew_ch_1.docx": [2385]}

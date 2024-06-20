@@ -1,0 +1,5 @@
+
+gate;	{"2 Samuel_ch_11.docx": [2286], "Ezekiel_ch_46.docx": [1466, 1466, 1466]}
+gate;	{"2 Samuel_ch_11.docx": [2286], "Ezekiel_ch_46.docx": [1466, 1466]}
+25eac	{"1 Kings_ch_10.docx": [3852]}
+gate;	{"2 Samuel_ch_11.docx": [2286], "Ezekiel_ch_46.docx": [1466]}

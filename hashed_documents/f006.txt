@@ -1,0 +1,8 @@
+
+stall	{"Genesis_ch_6.docx": [1759], "1 Kings_ch_18.docx": [663, 663, 663], "Amos_ch_6.docx": [2611, 2611, 2611], "Luke_ch_13.docx": [1957, 1957]}
+sewn	{"Job_ch_14.docx": [1283]}
+stall	{"Genesis_ch_6.docx": [1759], "1 Kings_ch_18.docx": [663, 663], "Amos_ch_6.docx": [2611, 2611], "Luke_ch_13.docx": [1957]}
+36his	{"1 Chronicles_ch_9.docx": [5156]}
+sewn	{"Job_ch_14.docx": [1283]}
+stall	{"Genesis_ch_6.docx": [1759], "1 Kings_ch_18.docx": [663], "Amos_ch_6.docx": [2611], "Luke_ch_13.docx": [1957]}
+sewn	{"Job_ch_14.docx": [1283]}

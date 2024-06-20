@@ -1,0 +1,5 @@
+
+camue	{"Genesis_ch_22.docx": [3256], "Numbers_ch_34.docx": [2318, 2318, 2318]}
+camue	{"Genesis_ch_22.docx": [3256], "Numbers_ch_34.docx": [2318, 2318]}
+16hu	{"2 Samuel_ch_16.docx": [2425]}
+camue	{"Genesis_ch_22.docx": [3256], "Numbers_ch_34.docx": [2318]}

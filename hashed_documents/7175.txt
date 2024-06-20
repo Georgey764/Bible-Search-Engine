@@ -1,0 +1,4 @@
+
+winepr	{"Judges_ch_7.docx": [6941, 6956, 6992, 7029, 6956, 6992, 7029, 6956, 6992, 7029], "Isaiah_ch_5.docx": [330, 330, 330], "Lamentations_ch_1.docx": [3768, 3768, 3768], "Revelation_ch_14.docx": [3308, 3495, 3308, 3495], "Revelation_ch_19.docx": [2529, 2529]}
+winepr	{"Judges_ch_7.docx": [6941, 6956, 6992, 7029, 6956, 6992, 7029], "Isaiah_ch_5.docx": [330, 330], "Lamentations_ch_1.docx": [3768, 3768], "Revelation_ch_14.docx": [3308, 3495], "Revelation_ch_19.docx": [2529]}
+winepr	{"Judges_ch_7.docx": [6941, 6956, 6992, 7029], "Isaiah_ch_5.docx": [330], "Lamentations_ch_1.docx": [3768], "Revelation_ch_14.docx": [3308, 3495], "Revelation_ch_19.docx": [2529]}

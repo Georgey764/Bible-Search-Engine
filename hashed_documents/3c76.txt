@@ -1,0 +1,4 @@
+
+campi	{"Numbers_ch_21.docx": [1562], "Numbers_ch_22.docx": [705, 1560, 705, 1560, 705, 1560], "Numbers_ch_33.docx": [2347, 2347, 2347], "Joshua_ch_4.docx": [135, 135, 135], "1 Chronicles_ch_23.docx": [2588, 2588, 2588]}
+campi	{"Numbers_ch_21.docx": [1562], "Numbers_ch_22.docx": [705, 1560, 705, 1560], "Numbers_ch_33.docx": [2347, 2347], "Joshua_ch_4.docx": [135, 135], "1 Chronicles_ch_23.docx": [2588, 2588]}
+campi	{"Numbers_ch_21.docx": [1562], "Numbers_ch_22.docx": [705, 1560], "Numbers_ch_33.docx": [2347], "Joshua_ch_4.docx": [135], "1 Chronicles_ch_23.docx": [2588]}

@@ -1,0 +1,4 @@
+
+retir	{"1 Samuel_ch_12.docx": [249], "Isaiah_ch_34.docx": [2162, 2162, 2162]}
+retir	{"1 Samuel_ch_12.docx": [249], "Isaiah_ch_34.docx": [2162, 2162]}
+retir	{"1 Samuel_ch_12.docx": [249], "Isaiah_ch_34.docx": [2162]}

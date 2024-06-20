@@ -1,0 +1,5 @@
+
+eserae	{"1 Chronicles_ch_4.docx": [1781, 1793, 1793, 1793]}
+eserae	{"1 Chronicles_ch_4.docx": [1781, 1793, 1793]}
+5‘i’l	{"Isaiah_ch_56.docx": [779], "Jeremiah_ch_20.docx": [830], "Ezekiel_ch_25.docx": [774], "Ezekiel_ch_32.docx": [833]}
+eserae	{"1 Chronicles_ch_4.docx": [1781, 1793]}

@@ -1,0 +1,4 @@
+
+dissu	{"1 Samuel_ch_15.docx": [4640], "Jeremiah_ch_4.docx": [4878, 4878, 4878]}
+dissu	{"1 Samuel_ch_15.docx": [4640], "Jeremiah_ch_4.docx": [4878, 4878]}
+dissu	{"1 Samuel_ch_15.docx": [4640], "Jeremiah_ch_4.docx": [4878]}

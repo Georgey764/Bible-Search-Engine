@@ -1,0 +1,8 @@
+
+ozrie	{"1 Chronicles_ch_12.docx": [786]}
+gladde	{"Proverbs_ch_10.docx": [7], "Hosea_ch_7.docx": [545, 545, 545]}
+30as	{"Exodus_ch_22.docx": [3984], "Numbers_ch_28.docx": [3772], "Judges_ch_3.docx": [11014], "2 Samuel_ch_14.docx": [4834], "1 Chronicles_ch_26.docx": [3889]}
+ozrie	{"1 Chronicles_ch_12.docx": [786]}
+gladde	{"Proverbs_ch_10.docx": [7], "Hosea_ch_7.docx": [545, 545]}
+ozrie	{"1 Chronicles_ch_12.docx": [786]}
+gladde	{"Proverbs_ch_10.docx": [7], "Hosea_ch_7.docx": [545]}

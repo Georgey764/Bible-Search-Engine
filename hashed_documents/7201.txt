@@ -1,0 +1,4 @@
+
+gesi	{"Numbers_ch_33.docx": [2564, 2606, 2606, 2606], "Deuteronomy_ch_2.docx": [1032, 1032, 1032], "2 Samuel_ch_3.docx": [380, 380, 380]}
+gesi	{"Numbers_ch_33.docx": [2564, 2606, 2606], "Deuteronomy_ch_2.docx": [1032, 1032], "2 Samuel_ch_3.docx": [380, 380]}
+gesi	{"Numbers_ch_33.docx": [2564, 2606], "Deuteronomy_ch_2.docx": [1032], "2 Samuel_ch_3.docx": [380]}

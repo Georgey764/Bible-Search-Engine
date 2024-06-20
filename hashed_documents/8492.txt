@@ -1,0 +1,6 @@
+
+impot	{"Exodus_ch_23.docx": [3622], "Deuteronomy_ch_7.docx": [2277, 2277, 2277]}
+scu	{"Acts_ch_17.docx": [5935], "1 Corinthians_ch_4.docx": [2064, 2064]}
+impot	{"Exodus_ch_23.docx": [3622], "Deuteronomy_ch_7.docx": [2277, 2277]}
+impot	{"Exodus_ch_23.docx": [3622], "Deuteronomy_ch_7.docx": [2277]}
+scu	{"Acts_ch_17.docx": [5935], "1 Corinthians_ch_4.docx": [2064]}

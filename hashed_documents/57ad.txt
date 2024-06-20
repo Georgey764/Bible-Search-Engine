@@ -1,0 +1,4 @@
+
+mortar	{"Genesis_ch_11.docx": [326], "Numbers_ch_11.docx": [860, 860, 860], "Job_ch_4.docx": [1802, 1802, 1802], "Job_ch_27.docx": [1466, 1466, 1466]}
+mortar	{"Genesis_ch_11.docx": [326], "Numbers_ch_11.docx": [860, 860], "Job_ch_4.docx": [1802, 1802], "Job_ch_27.docx": [1466, 1466]}
+mortar	{"Genesis_ch_11.docx": [326], "Numbers_ch_11.docx": [860], "Job_ch_4.docx": [1802], "Job_ch_27.docx": [1466]}

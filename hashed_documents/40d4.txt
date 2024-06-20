@@ -1,0 +1,5 @@
+
+spin	{"Genesis_ch_3.docx": [3736], "Exodus_ch_35.docx": [2579, 2579, 2579], "Job_ch_13.docx": [920, 920, 920], "Job_ch_40.docx": [3181, 3181, 3181], "Ezekiel_ch_1.docx": [1788, 1788, 1788], "Matthew_ch_6.docx": [3920, 3920, 3920], "Luke_ch_12.docx": [3406, 3406]}
+spin	{"Genesis_ch_3.docx": [3736], "Exodus_ch_35.docx": [2579, 2579], "Job_ch_13.docx": [920, 920], "Job_ch_40.docx": [3181, 3181], "Ezekiel_ch_1.docx": [1788, 1788], "Matthew_ch_6.docx": [3920, 3920], "Luke_ch_12.docx": [3406]}
+35‘ne	{"Exodus_ch_26.docx": [3526]}
+spin	{"Genesis_ch_3.docx": [3736], "Exodus_ch_35.docx": [2579], "Job_ch_13.docx": [920], "Job_ch_40.docx": [3181], "Ezekiel_ch_1.docx": [1788], "Matthew_ch_6.docx": [3920], "Luke_ch_12.docx": [3406]}

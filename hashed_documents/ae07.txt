@@ -1,0 +1,7 @@
+
+hadade	{"1 Kings_ch_11.docx": [3313]}
+jehiel	{"Ezra_ch_8.docx": [986]}
+hadade	{"1 Kings_ch_11.docx": [3313]}
+jehiel	{"Ezra_ch_8.docx": [986]}
+hadade	{"1 Kings_ch_11.docx": [3313]}
+jehiel	{"Ezra_ch_8.docx": [986]}

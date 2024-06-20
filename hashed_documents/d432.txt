@@ -1,0 +1,3 @@
+
+5of	{"Genesis_ch_42.docx": [443], "Psalms_ch_18.docx": [592], "Psalms_ch_65.docx": [495], "Jonah_ch_1.docx": [493]}
+13[als	{"1 Chronicles_ch_9.docx": [1766]}

@@ -1,0 +1,5 @@
+
+sundo	{"Leviticus_ch_22.docx": [955], "Deuteronomy_ch_23.docx": [1025, 1025, 1025]}
+31one	{"Leviticus_ch_14.docx": [4740]}
+sundo	{"Leviticus_ch_22.docx": [955], "Deuteronomy_ch_23.docx": [1025, 1025]}
+sundo	{"Leviticus_ch_22.docx": [955], "Deuteronomy_ch_23.docx": [1025]}

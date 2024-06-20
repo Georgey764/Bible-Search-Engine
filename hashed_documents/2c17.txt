@@ -1,0 +1,7 @@
+
+jaaim	{"1 Chronicles_ch_7.docx": [2412]}
+alpha	{"1 Chronicles_ch_8.docx": [790, 799, 799], "Mark_ch_2.docx": [1655, 1655], "Mark_ch_3.docx": [2205, 2205], "Luke_ch_6.docx": [1890, 1890], "Acts_ch_1.docx": [3101, 3101], "Revelation_ch_1.docx": [1174, 1729, 1174, 1729], "Revelation_ch_21.docx": [830, 830]}
+jaaim	{"1 Chronicles_ch_7.docx": [2412]}
+alpha	{"1 Chronicles_ch_8.docx": [790, 799], "Mark_ch_2.docx": [1655], "Mark_ch_3.docx": [2205], "Luke_ch_6.docx": [1890], "Acts_ch_1.docx": [3101], "Revelation_ch_1.docx": [1174, 1729], "Revelation_ch_21.docx": [830]}
+jaaim	{"1 Chronicles_ch_7.docx": [2412]}
+alpha	{"1 Chronicles_ch_8.docx": [790, 799], "Mark_ch_2.docx": [1655], "Mark_ch_3.docx": [2205], "Luke_ch_6.docx": [1890], "Acts_ch_1.docx": [3101], "Revelation_ch_1.docx": [1174, 1729], "Revelation_ch_21.docx": [830]}

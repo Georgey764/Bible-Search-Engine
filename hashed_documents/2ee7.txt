@@ -1,0 +1,8 @@
+
+hazor	{"Judges_ch_4.docx": [38, 66, 96, 6476, 66, 96, 6476, 66, 96, 6476], "1 Samuel_ch_12.docx": [1533, 1533, 1533], "2 Kings_ch_15.docx": [4337, 4337, 4337]}
+contu	{"Isaiah_ch_1.docx": [952]}
+hazor	{"Judges_ch_4.docx": [38, 66, 96, 6476, 66, 96, 6476], "1 Samuel_ch_12.docx": [1533, 1533], "2 Kings_ch_15.docx": [4337, 4337]}
+13‘i’	{"2 Kings_ch_21.docx": [2334], "1 Chronicles_ch_17.docx": [1915], "Ecclesiastes_ch_5.docx": [1898], "Ecclesiastes_ch_9.docx": [2504], "Jeremiah_ch_44.docx": [2612]}
+contu	{"Isaiah_ch_1.docx": [952]}
+hazor	{"Judges_ch_4.docx": [38, 66, 96, 6476], "1 Samuel_ch_12.docx": [1533], "2 Kings_ch_15.docx": [4337]}
+contu	{"Isaiah_ch_1.docx": [952]}

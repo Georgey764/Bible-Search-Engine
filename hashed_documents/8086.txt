@@ -1,0 +1,5 @@
+
+osin	{"1 Chronicles_ch_8.docx": [489, 742, 742, 742]}
+5‘thi	{"Deuteronomy_ch_7.docx": [688], "Isaiah_ch_44.docx": [521], "Ezekiel_ch_5.docx": [822]}
+osin	{"1 Chronicles_ch_8.docx": [489, 742, 742]}
+osin	{"1 Chronicles_ch_8.docx": [489, 742]}

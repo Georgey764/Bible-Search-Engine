@@ -1,0 +1,4 @@
+
+hardne	{"Deuteronomy_ch_10.docx": [2253], "Jeremiah_ch_4.docx": [678, 678, 678]}
+hardne	{"Deuteronomy_ch_10.docx": [2253], "Jeremiah_ch_4.docx": [678, 678]}
+hardne	{"Deuteronomy_ch_10.docx": [2253], "Jeremiah_ch_4.docx": [678]}

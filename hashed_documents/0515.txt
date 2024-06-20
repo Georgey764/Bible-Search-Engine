@@ -1,0 +1,5 @@
+
+tyrant	{"Exodus_ch_1.docx": [1272], "Jeremiah_ch_7.docx": [774, 774, 774], "Jeremiah_ch_50.docx": [6107, 6208, 6107, 6208, 6107, 6208], "Ezekiel_ch_18.docx": [2259, 2259, 2259], "Ezekiel_ch_22.docx": [4521, 4521, 4521], "Amos_ch_4.docx": [332, 332, 332]}
+tyrant	{"Exodus_ch_1.docx": [1272], "Jeremiah_ch_7.docx": [774, 774], "Jeremiah_ch_50.docx": [6107, 6208, 6107, 6208], "Ezekiel_ch_18.docx": [2259, 2259], "Ezekiel_ch_22.docx": [4521, 4521], "Amos_ch_4.docx": [332, 332]}
+22‘q	{"1 Samuel_ch_23.docx": [3236]}
+tyrant	{"Exodus_ch_1.docx": [1272], "Jeremiah_ch_7.docx": [774], "Jeremiah_ch_50.docx": [6107, 6208], "Ezekiel_ch_18.docx": [2259], "Ezekiel_ch_22.docx": [4521], "Amos_ch_4.docx": [332]}

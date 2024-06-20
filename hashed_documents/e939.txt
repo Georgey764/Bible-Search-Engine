@@ -1,0 +1,3 @@
+
+23aram	{"Genesis_ch_10.docx": [2602]}
+42y	{"Leviticus_ch_23.docx": [6045], "Psalms_ch_89.docx": [4043]}

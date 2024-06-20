@@ -1,0 +1,4 @@
+
+ensu	{"Ezra_ch_3.docx": [1527], "Proverbs_ch_22.docx": [2647, 2647, 2647]}
+ensu	{"Ezra_ch_3.docx": [1527], "Proverbs_ch_22.docx": [2647, 2647]}
+ensu	{"Ezra_ch_3.docx": [1527], "Proverbs_ch_22.docx": [2647]}

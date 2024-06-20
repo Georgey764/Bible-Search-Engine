@@ -1,0 +1,7 @@
+
+chobam	{"Joshua_ch_19.docx": [2271]}
+14...	{"Genesis_ch_38.docx": [1658]}
+3‘this	{"Leviticus_ch_15.docx": [220], "Leviticus_ch_16.docx": [348]}
+chobam	{"Joshua_ch_19.docx": [2271]}
+18god	{"Psalms_ch_34.docx": [1524]}
+chobam	{"Joshua_ch_19.docx": [2271]}

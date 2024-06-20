@@ -1,0 +1,6 @@
+
+keni	{"Numbers_ch_24.docx": [2762], "Joshua_ch_14.docx": [651, 651, 651], "Judges_ch_1.docx": [2883, 2896, 2913, 2949, 2986, 2883, 2896, 2913, 2949, 2986, 2883, 2896, 2913, 2949, 2986], "Judges_ch_4.docx": [6461, 6461, 6461], "Judges_ch_5.docx": [3499, 3499, 3499], "1 Samuel_ch_30.docx": [4479, 4479, 4479]}
+enormo	{"Mark_ch_6.docx": [4756], "2 Corinthians_ch_1.docx": [1486, 1486], "2 Corinthians_ch_4.docx": [2413, 2413], "Revelation_ch_21.docx": [1533, 1533]}
+keni	{"Numbers_ch_24.docx": [2762], "Joshua_ch_14.docx": [651, 651], "Judges_ch_1.docx": [2883, 2896, 2913, 2949, 2986, 2883, 2896, 2913, 2949, 2986], "Judges_ch_4.docx": [6461, 6461], "Judges_ch_5.docx": [3499, 3499], "1 Samuel_ch_30.docx": [4479, 4479]}
+keni	{"Numbers_ch_24.docx": [2762], "Joshua_ch_14.docx": [651], "Judges_ch_1.docx": [2883, 2896, 2913, 2949, 2986], "Judges_ch_4.docx": [6461], "Judges_ch_5.docx": [3499], "1 Samuel_ch_30.docx": [4479]}
+enormo	{"Mark_ch_6.docx": [4756], "2 Corinthians_ch_1.docx": [1486], "2 Corinthians_ch_4.docx": [2413], "Revelation_ch_21.docx": [1533]}

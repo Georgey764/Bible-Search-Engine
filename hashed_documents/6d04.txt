@@ -1,0 +1,2 @@
+
+2‘b	{"Deuteronomy_ch_20.docx": [247], "Ruth_ch_3.docx": [186], "Job_ch_36.docx": [43], "Isaiah_ch_56.docx": [163], "Isaiah_ch_58.docx": [190], "Ezekiel_ch_21.docx": [57], "Nahum_ch_1.docx": [353], "Zechariah_ch_10.docx": [220]}

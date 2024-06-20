@@ -1,0 +1,5 @@
+
+sali	{"Joshua_ch_19.docx": [1678], "1 Chronicles_ch_7.docx": [4375, 4375, 4375], "2 Chronicles_ch_20.docx": [5386, 5386, 5386], "John_ch_3.docx": [2833, 2833], "John_ch_9.docx": [553, 553]}
+31he’d	{"Genesis_ch_27.docx": [3841]}
+sali	{"Joshua_ch_19.docx": [1678], "1 Chronicles_ch_7.docx": [4375, 4375], "2 Chronicles_ch_20.docx": [5386, 5386], "John_ch_3.docx": [2833], "John_ch_9.docx": [553]}
+sali	{"Joshua_ch_19.docx": [1678], "1 Chronicles_ch_7.docx": [4375], "2 Chronicles_ch_20.docx": [5386], "John_ch_3.docx": [2833], "John_ch_9.docx": [553]}

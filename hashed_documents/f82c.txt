@@ -1,0 +1,6 @@
+
+mammal	{"Job_ch_40.docx": [1762]}
+prods	{"Acts_ch_9.docx": [1022]}
+mammal	{"Job_ch_40.docx": [1762]}
+mammal	{"Job_ch_40.docx": [1762]}
+prods	{"Acts_ch_9.docx": [1022]}

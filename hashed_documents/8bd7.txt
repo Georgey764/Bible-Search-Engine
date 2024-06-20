@@ -1,0 +1,7 @@
+
+telme	{"Ezra_ch_2.docx": [2451], "Nehemiah_ch_7.docx": [3562, 3562, 3562]}
+ablaze	{"Jeremiah_ch_51.docx": [5061], "Lamentations_ch_2.docx": [618, 618, 618], "James_ch_3.docx": [778, 778]}
+telme	{"Ezra_ch_2.docx": [2451], "Nehemiah_ch_7.docx": [3562, 3562]}
+ablaze	{"Jeremiah_ch_51.docx": [5061], "Lamentations_ch_2.docx": [618, 618], "James_ch_3.docx": [778]}
+telme	{"Ezra_ch_2.docx": [2451], "Nehemiah_ch_7.docx": [3562]}
+ablaze	{"Jeremiah_ch_51.docx": [5061], "Lamentations_ch_2.docx": [618], "James_ch_3.docx": [778]}

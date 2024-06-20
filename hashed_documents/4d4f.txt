@@ -1,0 +1,6 @@
+
+castra	{"Leviticus_ch_22.docx": [3362], "Deuteronomy_ch_23.docx": [10, 10, 10]}
+8kus	{"Genesis_ch_10.docx": [1058]}
+29[the	{"Exodus_ch_38.docx": [3661]}
+castra	{"Leviticus_ch_22.docx": [3362], "Deuteronomy_ch_23.docx": [10, 10]}
+castra	{"Leviticus_ch_22.docx": [3362], "Deuteronomy_ch_23.docx": [10]}

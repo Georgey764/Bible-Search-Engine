@@ -1,0 +1,7 @@
+
+server	{"1 Kings_ch_10.docx": [553], "2 Chronicles_ch_9.docx": [456, 456, 456], "Nehemiah_ch_1.docx": [1989, 1989, 1989]}
+year;	{"2 Kings_ch_17.docx": [441]}
+server	{"1 Kings_ch_10.docx": [553], "2 Chronicles_ch_9.docx": [456, 456], "Nehemiah_ch_1.docx": [1989, 1989]}
+year;	{"2 Kings_ch_17.docx": [441]}
+server	{"1 Kings_ch_10.docx": [553], "2 Chronicles_ch_9.docx": [456], "Nehemiah_ch_1.docx": [1989]}
+year;	{"2 Kings_ch_17.docx": [441]}

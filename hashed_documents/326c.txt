@@ -1,0 +1,4 @@
+
+banker	{"Psalms_ch_109.docx": [851], "Matthew_ch_25.docx": [3050, 3050, 3050]}
+banker	{"Psalms_ch_109.docx": [851], "Matthew_ch_25.docx": [3050, 3050]}
+banker	{"Psalms_ch_109.docx": [851], "Matthew_ch_25.docx": [3050]}

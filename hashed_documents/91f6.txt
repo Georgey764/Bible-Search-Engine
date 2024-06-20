@@ -1,0 +1,4 @@
+
+mahlon	{"Ruth_ch_1.docx": [60, 572, 572, 572]}
+mahlon	{"Ruth_ch_1.docx": [60, 572, 572]}
+mahlon	{"Ruth_ch_1.docx": [60, 572]}

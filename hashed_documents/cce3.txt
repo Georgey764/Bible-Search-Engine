@@ -1,0 +1,5 @@
+
+in;	{"Genesis_ch_20.docx": [1301], "2 Kings_ch_6.docx": [5056, 5056, 5056], "Proverbs_ch_7.docx": [1883, 1883, 1883]}
+in;	{"Genesis_ch_20.docx": [1301], "2 Kings_ch_6.docx": [5056, 5056], "Proverbs_ch_7.docx": [1883, 1883]}
+12‘co	{"Isaiah_ch_56.docx": [2102]}
+in;	{"Genesis_ch_20.docx": [1301], "2 Kings_ch_6.docx": [5056], "Proverbs_ch_7.docx": [1883]}

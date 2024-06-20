@@ -1,0 +1,4 @@
+
+thrive	{"Psalms_ch_1.docx": [299], "Psalms_ch_72.docx": [1549, 1549, 1549]}
+thrive	{"Psalms_ch_1.docx": [299], "Psalms_ch_72.docx": [1549, 1549]}
+thrive	{"Psalms_ch_1.docx": [299], "Psalms_ch_72.docx": [1549]}

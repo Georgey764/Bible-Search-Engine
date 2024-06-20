@@ -1,0 +1,6 @@
+
+shisha	{"2 Chronicles_ch_12.docx": [185, 654, 1191, 1462, 654, 1191, 1462, 654, 1191, 1462], "Jeremiah_ch_25.docx": [4118, 4118, 4118]}
+shisha	{"2 Chronicles_ch_12.docx": [185, 654, 1191, 1462, 654, 1191, 1462], "Jeremiah_ch_25.docx": [4118, 4118]}
+2just	{"Psalms_ch_15.docx": [119]}
+84ho	{"Psalms_ch_119.docx": [6905]}
+shisha	{"2 Chronicles_ch_12.docx": [185, 654, 1191, 1462], "Jeremiah_ch_25.docx": [4118]}

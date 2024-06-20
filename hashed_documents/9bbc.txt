@@ -1,0 +1,8 @@
+
+plowin	{"Genesis_ch_45.docx": [836], "Judges_ch_14.docx": [3329, 3329, 3329], "Job_ch_1.docx": [2251, 2251, 2251], "Isaiah_ch_28.docx": [3748, 3748, 3748], "Isaiah_ch_63.docx": [452, 452, 452], "Luke_ch_17.docx": [865, 865]}
+yokes	{"Deuteronomy_ch_28.docx": [6574], "1 Kings_ch_19.docx": [3852, 3852, 3852], "Psalms_ch_2.docx": [539, 539, 539], "Isaiah_ch_47.docx": [1027, 1027, 1027], "Jeremiah_ch_5.docx": [877, 877, 877], "Jeremiah_ch_28.docx": [1901, 1901, 1901], "Jeremiah_ch_30.docx": [1063, 1063, 1063], "Daniel_ch_8.docx": [3760, 3760, 3760]}
+plowin	{"Genesis_ch_45.docx": [836], "Judges_ch_14.docx": [3329, 3329], "Job_ch_1.docx": [2251, 2251], "Isaiah_ch_28.docx": [3748, 3748], "Isaiah_ch_63.docx": [452, 452], "Luke_ch_17.docx": [865]}
+yokes	{"Deuteronomy_ch_28.docx": [6574], "1 Kings_ch_19.docx": [3852, 3852], "Psalms_ch_2.docx": [539, 539], "Isaiah_ch_47.docx": [1027, 1027], "Jeremiah_ch_5.docx": [877, 877], "Jeremiah_ch_28.docx": [1901, 1901], "Jeremiah_ch_30.docx": [1063, 1063], "Daniel_ch_8.docx": [3760, 3760]}
+125he	{"Psalms_ch_119.docx": [10456]}
+plowin	{"Genesis_ch_45.docx": [836], "Judges_ch_14.docx": [3329], "Job_ch_1.docx": [2251], "Isaiah_ch_28.docx": [3748], "Isaiah_ch_63.docx": [452], "Luke_ch_17.docx": [865]}
+yokes	{"Deuteronomy_ch_28.docx": [6574], "1 Kings_ch_19.docx": [3852], "Psalms_ch_2.docx": [539], "Isaiah_ch_47.docx": [1027], "Jeremiah_ch_5.docx": [877], "Jeremiah_ch_28.docx": [1901], "Jeremiah_ch_30.docx": [1063], "Daniel_ch_8.docx": [3760]}

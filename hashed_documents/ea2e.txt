@@ -1,0 +1,3 @@
+
+30‘i	{"Genesis_ch_49.docx": [3943], "Leviticus_ch_7.docx": [4056], "Leviticus_ch_26.docx": [3786], "Jeremiah_ch_50.docx": [5563], "Ezekiel_ch_36.docx": [5344], "Matthew_ch_22.docx": [3440], "Matthew_ch_23.docx": [3840]}
+3‘{	{"Jeremiah_ch_30.docx": [207], "Ezekiel_ch_31.docx": [269], "Ezekiel_ch_34.docx": [314], "Micah_ch_1.docx": [1494], "Malachi_ch_2.docx": [366]}

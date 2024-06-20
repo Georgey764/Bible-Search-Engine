@@ -1,0 +1,7 @@
+
+maea	{"Joshua_ch_15.docx": [4635]}
+xerx	{"Daniel_ch_9.docx": [14]}
+maea	{"Joshua_ch_15.docx": [4635]}
+xerx	{"Daniel_ch_9.docx": [14]}
+maea	{"Joshua_ch_15.docx": [4635]}
+xerx	{"Daniel_ch_9.docx": [14]}

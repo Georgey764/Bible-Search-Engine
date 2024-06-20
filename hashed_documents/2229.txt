@@ -1,0 +1,4 @@
+
+vegeta	{"Genesis_ch_9.docx": [406], "1 Kings_ch_21.docx": [136, 410, 136, 410, 136, 410], "2 Kings_ch_4.docx": [6005, 6005, 6005], "Proverbs_ch_15.docx": [1679, 1679, 1679], "Mark_ch_4.docx": [3704, 3704], "Romans_ch_14.docx": [139, 139], "Revelation_ch_9.docx": [473, 473]}
+vegeta	{"Genesis_ch_9.docx": [406], "1 Kings_ch_21.docx": [136, 410, 136, 410], "2 Kings_ch_4.docx": [6005, 6005], "Proverbs_ch_15.docx": [1679, 1679], "Mark_ch_4.docx": [3704], "Romans_ch_14.docx": [139], "Revelation_ch_9.docx": [473]}
+vegeta	{"Genesis_ch_9.docx": [406], "1 Kings_ch_21.docx": [136, 410], "2 Kings_ch_4.docx": [6005], "Proverbs_ch_15.docx": [1679], "Mark_ch_4.docx": [3704], "Romans_ch_14.docx": [139], "Revelation_ch_9.docx": [473]}

@@ -1,0 +1,5 @@
+
+elami	{"Ezra_ch_4.docx": [1462]}
+17cor	{"Deuteronomy_ch_14.docx": [1427], "Proverbs_ch_29.docx": [1529]}
+elami	{"Ezra_ch_4.docx": [1462]}
+elami	{"Ezra_ch_4.docx": [1462]}

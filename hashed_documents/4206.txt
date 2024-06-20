@@ -1,0 +1,4 @@
+
+reape	{"Job_ch_5.docx": [2398], "Job_ch_18.docx": [1416, 1416, 1416], "Matthew_ch_13.docx": [3933, 5399, 3933, 5399, 3933, 5399]}
+reape	{"Job_ch_5.docx": [2398], "Job_ch_18.docx": [1416, 1416], "Matthew_ch_13.docx": [3933, 5399, 3933, 5399]}
+reape	{"Job_ch_5.docx": [2398], "Job_ch_18.docx": [1416], "Matthew_ch_13.docx": [3933, 5399]}

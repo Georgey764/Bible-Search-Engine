@@ -1,0 +1,4 @@
+
+mosol	{"1 Chronicles_ch_3.docx": [1699], "1 Chronicles_ch_5.docx": [1621, 1621, 1621], "1 Chronicles_ch_8.docx": [1223, 1223, 1223], "1 Chronicles_ch_9.docx": [877, 1045, 1702, 877, 1045, 1702, 877, 1045, 1702], "2 Chronicles_ch_28.docx": [1904, 1904, 1904]}
+mosol	{"1 Chronicles_ch_3.docx": [1699], "1 Chronicles_ch_5.docx": [1621, 1621], "1 Chronicles_ch_8.docx": [1223, 1223], "1 Chronicles_ch_9.docx": [877, 1045, 1702, 877, 1045, 1702], "2 Chronicles_ch_28.docx": [1904, 1904]}
+mosol	{"1 Chronicles_ch_3.docx": [1699], "1 Chronicles_ch_5.docx": [1621], "1 Chronicles_ch_8.docx": [1223], "1 Chronicles_ch_9.docx": [877, 1045, 1702], "2 Chronicles_ch_28.docx": [1904]}

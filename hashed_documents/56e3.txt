@@ -1,0 +1,7 @@
+
+sly	{"Genesis_ch_27.docx": [4580]}
+overri	{"Romans_ch_3.docx": [3840], "Galatians_ch_3.docx": [3245, 3245]}
+sly	{"Genesis_ch_27.docx": [4580]}
+48m	{"Judges_ch_20.docx": [8727]}
+sly	{"Genesis_ch_27.docx": [4580]}
+overri	{"Romans_ch_3.docx": [3840], "Galatians_ch_3.docx": [3245]}

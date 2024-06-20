@@ -1,0 +1,4 @@
+
+soco	{"1 Samuel_ch_17.docx": [23, 27, 27, 27]}
+soco	{"1 Samuel_ch_17.docx": [23, 27, 27]}
+soco	{"1 Samuel_ch_17.docx": [23, 27]}

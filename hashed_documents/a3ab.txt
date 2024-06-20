@@ -1,0 +1,4 @@
+
+abie	{"Judges_ch_8.docx": [217], "1 Samuel_ch_11.docx": [1227, 1227, 1227], "1 Samuel_ch_14.docx": [8322, 8322, 8322], "2 Samuel_ch_23.docx": [4344, 4344], "1 Chronicles_ch_7.docx": [2356, 2356, 2356], "1 Chronicles_ch_27.docx": [1523, 1523, 1523]}
+abie	{"Judges_ch_8.docx": [217], "1 Samuel_ch_11.docx": [1227, 1227], "1 Samuel_ch_14.docx": [8322, 8322], "1 Chronicles_ch_7.docx": [2356, 2356], "1 Chronicles_ch_27.docx": [1523, 1523], "2 Samuel_ch_23.docx": [4344]}
+abie	{"Judges_ch_8.docx": [217], "1 Samuel_ch_11.docx": [1227], "1 Samuel_ch_14.docx": [8322], "2 Samuel_ch_23.docx": [4344], "1 Chronicles_ch_7.docx": [2356], "1 Chronicles_ch_27.docx": [1523]}

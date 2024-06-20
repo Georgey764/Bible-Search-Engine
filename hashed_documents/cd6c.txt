@@ -1,0 +1,5 @@
+
+deer	{"Deuteronomy_ch_14.docx": [445], "Deuteronomy_ch_15.docx": [3236, 3236, 3236], "2 Samuel_ch_2.docx": [2531, 2531, 2531], "Isaiah_ch_13.docx": [2045, 2045, 2045]}
+deer	{"Deuteronomy_ch_14.docx": [445], "Deuteronomy_ch_15.docx": [3236, 3236], "2 Samuel_ch_2.docx": [2531, 2531], "Isaiah_ch_13.docx": [2045, 2045]}
+162b	{"Psalms_ch_119.docx": [13719]}
+deer	{"Deuteronomy_ch_14.docx": [445], "Deuteronomy_ch_15.docx": [3236], "2 Samuel_ch_2.docx": [2531], "Isaiah_ch_13.docx": [2045]}

@@ -1,0 +1,6 @@
+
+ailam	{"2 Samuel_ch_10.docx": [2179, 2437, 2437, 2437], "1 Chronicles_ch_8.docx": [943, 1554, 2816, 943, 1554, 2816, 943, 1554, 2816], "Nehemiah_ch_12.docx": [11659, 11659, 11659]}
+simon’	{"Mark_ch_1.docx": [3309], "Luke_ch_4.docx": [5449, 5449], "Acts_ch_10.docx": [1988, 1988]}
+ailam	{"2 Samuel_ch_10.docx": [2179, 2437, 2437], "1 Chronicles_ch_8.docx": [943, 1554, 2816, 943, 1554, 2816], "Nehemiah_ch_12.docx": [11659, 11659]}
+ailam	{"2 Samuel_ch_10.docx": [2179, 2437], "1 Chronicles_ch_8.docx": [943, 1554, 2816], "Nehemiah_ch_12.docx": [11659]}
+simon’	{"Mark_ch_1.docx": [3309], "Luke_ch_4.docx": [5449], "Acts_ch_10.docx": [1988]}

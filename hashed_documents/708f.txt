@@ -1,0 +1,4 @@
+
+maba	{"1 Chronicles_ch_4.docx": [3032, 3058, 3058, 3058]}
+maba	{"1 Chronicles_ch_4.docx": [3032, 3058, 3058]}
+maba	{"1 Chronicles_ch_4.docx": [3032, 3058]}

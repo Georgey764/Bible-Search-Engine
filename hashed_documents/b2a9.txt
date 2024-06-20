@@ -1,0 +1,5 @@
+
+me]!	{"2 Samuel_ch_13.docx": [2033], "2 Chronicles_ch_18.docx": [3710, 3710, 3710], "Jeremiah_ch_5.docx": [4321, 4321, 4321]}
+me]!	{"2 Samuel_ch_13.docx": [2033], "2 Chronicles_ch_18.docx": [3710, 3710], "Jeremiah_ch_5.docx": [4321, 4321]}
+40‘ag	{"Ezekiel_ch_16.docx": [6444]}
+me]!	{"2 Samuel_ch_13.docx": [2033], "2 Chronicles_ch_18.docx": [3710], "Jeremiah_ch_5.docx": [4321]}

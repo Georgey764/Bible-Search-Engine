@@ -1,0 +1,2 @@
+
+10mean	{"Genesis_ch_28.docx": [1346], "Judges_ch_8.docx": [2077], "1 Samuel_ch_7.docx": [1932]}

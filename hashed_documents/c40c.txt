@@ -1,0 +1,5 @@
+
+goodw	{"Esther_ch_2.docx": [4262], "Romans_ch_10.docx": [40, 40]}
+goodw	{"Esther_ch_2.docx": [4262], "Romans_ch_10.docx": [40]}
+16‘it’	{"Lamentations_ch_1.docx": [3842], "Zephaniah_ch_1.docx": [2826]}
+goodw	{"Esther_ch_2.docx": [4262], "Romans_ch_10.docx": [40]}

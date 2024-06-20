@@ -1,0 +1,8 @@
+
+pens	{"Genesis_ch_18.docx": [842], "Genesis_ch_33.docx": [2190, 2202, 2190, 2202, 2190, 2202], "Numbers_ch_32.docx": [2152, 3225, 4980, 2152, 3225, 4980, 2152, 3225, 4980], "Numbers_ch_35.docx": [147, 147, 147], "Judges_ch_5.docx": [2251, 2429, 2251, 2429, 2251, 2429], "2 Samuel_ch_7.docx": [1051, 1051, 1051], "2 Chronicles_ch_32.docx": [5309, 5309, 5309], "Ezekiel_ch_25.docx": [819, 819, 819], "Amos_ch_8.docx": [390, 390, 390], "Zephaniah_ch_2.docx": [1829, 1829, 1829]}
+strife	{"Job_ch_11.docx": [1928], "Proverbs_ch_17.docx": [1914, 1914, 1914], "1 Corinthians_ch_11.docx": [1983, 1983]}
+pens	{"Genesis_ch_18.docx": [842], "Genesis_ch_33.docx": [2190, 2202, 2190, 2202], "Numbers_ch_32.docx": [2152, 3225, 4980, 2152, 3225, 4980], "Numbers_ch_35.docx": [147, 147], "Judges_ch_5.docx": [2251, 2429, 2251, 2429], "2 Samuel_ch_7.docx": [1051, 1051], "2 Chronicles_ch_32.docx": [5309, 5309], "Ezekiel_ch_25.docx": [819, 819], "Amos_ch_8.docx": [390, 390], "Zephaniah_ch_2.docx": [1829, 1829]}
+6blue	{"Exodus_ch_35.docx": [710]}
+strife	{"Job_ch_11.docx": [1928], "Proverbs_ch_17.docx": [1914, 1914], "1 Corinthians_ch_11.docx": [1983]}
+pens	{"Genesis_ch_18.docx": [842], "Genesis_ch_33.docx": [2190, 2202], "Numbers_ch_32.docx": [2152, 3225, 4980], "Numbers_ch_35.docx": [147], "Judges_ch_5.docx": [2251, 2429], "2 Samuel_ch_7.docx": [1051], "2 Chronicles_ch_32.docx": [5309], "Ezekiel_ch_25.docx": [819], "Amos_ch_8.docx": [390], "Zephaniah_ch_2.docx": [1829]}
+strife	{"Job_ch_11.docx": [1928], "Proverbs_ch_17.docx": [1914], "1 Corinthians_ch_11.docx": [1983]}

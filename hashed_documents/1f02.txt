@@ -1,0 +1,4 @@
+
+mesrai	{"Genesis_ch_10.docx": [763, 1526, 1526], "1 Chronicles_ch_1.docx": [460, 460, 460]}
+mesrai	{"Genesis_ch_10.docx": [763, 1526], "1 Chronicles_ch_1.docx": [460, 460]}
+mesrai	{"Genesis_ch_10.docx": [763, 1526], "1 Chronicles_ch_1.docx": [460]}

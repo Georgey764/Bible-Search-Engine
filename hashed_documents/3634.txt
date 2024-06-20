@@ -1,0 +1,10 @@
+
+amar	{"Genesis_ch_14.docx": [10, 1085, 1085, 1085], "1 Chronicles_ch_6.docx": [463, 492, 737, 768, 4236, 463, 492, 737, 768, 4236, 463, 492, 737, 768, 4236], "1 Chronicles_ch_7.docx": [1123, 1123, 1123], "2 Chronicles_ch_19.docx": [1696, 1696, 1696], "2 Chronicles_ch_31.docx": [2671, 2671, 2671], "Ezra_ch_7.docx": [264, 264, 264], "Nehemiah_ch_10.docx": [177, 177, 177], "Nehemiah_ch_12.docx": [154, 1108, 1108, 154, 1108], "Zephaniah_ch_1.docx": [20, 20, 20]}
+vesti	{"1 Kings_ch_6.docx": [1077, 3951, 3951, 3951]}
+iii	{"2 Kings_ch_15.docx": [2618, 4200, 4200, 4200], "2 Kings_ch_16.docx": [959, 1499, 959, 1499, 959, 1499], "1 Chronicles_ch_5.docx": [733, 840, 3449, 733, 840, 3449, 733, 840, 3449], "2 Chronicles_ch_28.docx": [3523, 3523, 3523]}
+amar	{"Genesis_ch_14.docx": [10, 1085, 1085], "1 Chronicles_ch_6.docx": [463, 492, 737, 768, 4236, 463, 492, 737, 768, 4236], "1 Chronicles_ch_7.docx": [1123, 1123], "2 Chronicles_ch_19.docx": [1696, 1696], "2 Chronicles_ch_31.docx": [2671, 2671], "Ezra_ch_7.docx": [264, 264], "Nehemiah_ch_10.docx": [177, 177], "Nehemiah_ch_12.docx": [1108, 154, 1108], "Zephaniah_ch_1.docx": [20, 20]}
+vesti	{"1 Kings_ch_6.docx": [1077, 3951, 3951]}
+iii	{"2 Kings_ch_15.docx": [2618, 4200, 4200], "2 Kings_ch_16.docx": [959, 1499, 959, 1499], "1 Chronicles_ch_5.docx": [733, 840, 3449, 733, 840, 3449], "2 Chronicles_ch_28.docx": [3523, 3523]}
+amar	{"Genesis_ch_14.docx": [10, 1085], "1 Chronicles_ch_6.docx": [463, 492, 737, 768, 4236], "1 Chronicles_ch_7.docx": [1123], "2 Chronicles_ch_19.docx": [1696], "2 Chronicles_ch_31.docx": [2671], "Ezra_ch_7.docx": [264], "Nehemiah_ch_10.docx": [177], "Nehemiah_ch_12.docx": [154, 1108], "Zephaniah_ch_1.docx": [20]}
+vesti	{"1 Kings_ch_6.docx": [1077, 3951]}
+iii	{"2 Kings_ch_15.docx": [2618, 4200], "2 Kings_ch_16.docx": [959, 1499], "1 Chronicles_ch_5.docx": [733, 840, 3449], "2 Chronicles_ch_28.docx": [3523]}

@@ -1,0 +1,10 @@
+
+prior	{"Genesis_ch_41.docx": [6571], "1 Chronicles_ch_9.docx": [157, 157, 157], "Romans_ch_4.docx": [1607, 1607]}
+unfair	{"Exodus_ch_23.docx": [646], "Deuteronomy_ch_16.docx": [3029, 3029, 3029], "Deuteronomy_ch_24.docx": [1975, 1975, 1975], "Deuteronomy_ch_27.docx": [2725, 2725, 2725], "Deuteronomy_ch_28.docx": [3896, 3896, 3896], "Proverbs_ch_1.docx": [1186, 1186, 1186], "Isaiah_ch_56.docx": [2070, 2070, 2070], "Jeremiah_ch_17.docx": [1795, 1795, 1795], "Jeremiah_ch_22.docx": [2238, 2238, 2238], "Ezekiel_ch_22.docx": [4569, 4569, 4569], "Amos_ch_8.docx": [828, 828, 828]}
+prior	{"Genesis_ch_41.docx": [6571], "1 Chronicles_ch_9.docx": [157, 157], "Romans_ch_4.docx": [1607]}
+21m	{"Exodus_ch_15.docx": [2793], "2 Kings_ch_3.docx": [3099], "1 Chronicles_ch_15.docx": [2887], "Nehemiah_ch_10.docx": [1030], "Psalms_ch_135.docx": [1713]}
+unfair	{"Exodus_ch_23.docx": [646], "Deuteronomy_ch_16.docx": [3029, 3029], "Deuteronomy_ch_24.docx": [1975, 1975], "Deuteronomy_ch_27.docx": [2725, 2725], "Deuteronomy_ch_28.docx": [3896, 3896], "Proverbs_ch_1.docx": [1186, 1186], "Isaiah_ch_56.docx": [2070, 2070], "Jeremiah_ch_17.docx": [1795, 1795], "Jeremiah_ch_22.docx": [2238, 2238], "Ezekiel_ch_22.docx": [4569, 4569], "Amos_ch_8.docx": [828, 828]}
+2‘fo	{"Joshua_ch_13.docx": [176], "1 Samuel_ch_15.docx": [167], "Isaiah_ch_41.docx": [224], "Isaiah_ch_65.docx": [179], "Lamentations_ch_4.docx": [169], "Amos_ch_4.docx": [481], "Matthew_ch_7.docx": [68]}
+15send	{"Psalms_ch_83.docx": [1152]}
+prior	{"Genesis_ch_41.docx": [6571], "1 Chronicles_ch_9.docx": [157], "Romans_ch_4.docx": [1607]}
+unfair	{"Exodus_ch_23.docx": [646], "Deuteronomy_ch_16.docx": [3029], "Deuteronomy_ch_24.docx": [1975], "Deuteronomy_ch_27.docx": [2725], "Deuteronomy_ch_28.docx": [3896], "Proverbs_ch_1.docx": [1186], "Isaiah_ch_56.docx": [2070], "Jeremiah_ch_17.docx": [1795], "Jeremiah_ch_22.docx": [2238], "Ezekiel_ch_22.docx": [4569], "Amos_ch_8.docx": [828]}

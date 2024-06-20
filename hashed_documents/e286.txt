@@ -1,0 +1,5 @@
+
+rounde	{"Job_ch_1.docx": [2821]}
+rounde	{"Job_ch_1.docx": [2821]}
+8‘like	{"Jeremiah_ch_5.docx": [1557], "Nahum_ch_1.docx": [1760]}
+rounde	{"Job_ch_1.docx": [2821]}

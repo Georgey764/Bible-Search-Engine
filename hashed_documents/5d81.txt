@@ -1,0 +1,2 @@
+
+12yes	{"Judges_ch_2.docx": [3239], "Psalms_ch_76.docx": [1050], "Daniel_ch_8.docx": [1670], "Matthew_ch_3.docx": [1398]}

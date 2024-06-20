@@ -1,0 +1,4 @@
+
+sparks	{"Isaiah_ch_1.docx": [4791], "Ezekiel_ch_1.docx": [559, 559, 559]}
+sparks	{"Isaiah_ch_1.docx": [4791], "Ezekiel_ch_1.docx": [559, 559]}
+sparks	{"Isaiah_ch_1.docx": [4791], "Ezekiel_ch_1.docx": [559]}

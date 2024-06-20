@@ -1,0 +1,4 @@
+
+explan	{"1 Chronicles_ch_1.docx": [728], "Proverbs_ch_9.docx": [897, 897, 897]}
+explan	{"1 Chronicles_ch_1.docx": [728], "Proverbs_ch_9.docx": [897, 897]}
+explan	{"1 Chronicles_ch_1.docx": [728], "Proverbs_ch_9.docx": [897]}

@@ -1,0 +1,4 @@
+
+chenan	{"Nehemiah_ch_9.docx": [521, 542, 565, 542, 565, 542, 565]}
+chenan	{"Nehemiah_ch_9.docx": [521, 542, 565, 542, 565]}
+chenan	{"Nehemiah_ch_9.docx": [521, 542, 565]}

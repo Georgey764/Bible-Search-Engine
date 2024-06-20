@@ -1,0 +1,7 @@
+
+hoped	{"Genesis_ch_4.docx": [3132], "2 Samuel_ch_12.docx": [3869, 3869, 3869], "2 Chronicles_ch_35.docx": [6014, 6014, 6014], "Job_ch_6.docx": [864, 864, 864], "Psalms_ch_38.docx": [1294, 1294, 1294], "Proverbs_ch_11.docx": [760, 760, 760], "Proverbs_ch_23.docx": [1563, 1563, 1563], "Isaiah_ch_25.docx": [1262, 1262, 1262], "Isaiah_ch_26.docx": [295, 295, 295], "Jeremiah_ch_44.docx": [2854, 2854, 2854], "Luke_ch_23.docx": [878, 878], "2 Corinthians_ch_8.docx": [592, 592]}
+of]b	{"Matthew_ch_12.docx": [2685]}
+hoped	{"Genesis_ch_4.docx": [3132], "2 Samuel_ch_12.docx": [3869, 3869], "2 Chronicles_ch_35.docx": [6014, 6014], "Job_ch_6.docx": [864, 864], "Psalms_ch_38.docx": [1294, 1294], "Proverbs_ch_11.docx": [760, 760], "Proverbs_ch_23.docx": [1563, 1563], "Isaiah_ch_25.docx": [1262, 1262], "Isaiah_ch_26.docx": [295, 295], "Jeremiah_ch_44.docx": [2854, 2854], "Luke_ch_23.docx": [878], "2 Corinthians_ch_8.docx": [592]}
+of]b	{"Matthew_ch_12.docx": [2685]}
+hoped	{"Genesis_ch_4.docx": [3132], "2 Samuel_ch_12.docx": [3869], "2 Chronicles_ch_35.docx": [6014], "Job_ch_6.docx": [864], "Psalms_ch_38.docx": [1294], "Proverbs_ch_11.docx": [760], "Proverbs_ch_23.docx": [1563], "Isaiah_ch_25.docx": [1262], "Isaiah_ch_26.docx": [295], "Jeremiah_ch_44.docx": [2854], "Luke_ch_23.docx": [878], "2 Corinthians_ch_8.docx": [592]}
+of]b	{"Matthew_ch_12.docx": [2685]}

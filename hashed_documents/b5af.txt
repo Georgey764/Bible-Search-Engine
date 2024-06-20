@@ -1,0 +1,7 @@
+
+wreath	{"Exodus_ch_25.docx": [1314, 2800, 2813, 2800, 2813, 2800, 2813], "Exodus_ch_28.docx": [1650, 1656, 2964, 1650, 1656, 2964, 1650, 1656, 2964], "Exodus_ch_30.docx": [256, 265, 256, 265, 256, 265], "Exodus_ch_39.docx": [1754, 1853, 1754, 1853, 1754, 1853], "Isaiah_ch_3.docx": [2931, 2931, 2931], "Jeremiah_ch_13.docx": [3015, 3015, 3015], "Ezekiel_ch_7.docx": [796, 796, 796]}
+unna	{"Romans_ch_1.docx": [3274]}
+3‘reub	{"Genesis_ch_49.docx": [236]}
+wreath	{"Exodus_ch_25.docx": [1314, 2800, 2813, 2800, 2813], "Exodus_ch_28.docx": [1650, 1656, 2964, 1650, 1656, 2964], "Exodus_ch_30.docx": [256, 265, 256, 265], "Exodus_ch_39.docx": [1754, 1853, 1754, 1853], "Isaiah_ch_3.docx": [2931, 2931], "Jeremiah_ch_13.docx": [3015, 3015], "Ezekiel_ch_7.docx": [796, 796]}
+wreath	{"Exodus_ch_25.docx": [1314, 2800, 2813], "Exodus_ch_28.docx": [1650, 1656, 2964], "Exodus_ch_30.docx": [256, 265], "Exodus_ch_39.docx": [1754, 1853], "Isaiah_ch_3.docx": [2931], "Jeremiah_ch_13.docx": [3015], "Ezekiel_ch_7.docx": [796]}
+unna	{"Romans_ch_1.docx": [3274]}

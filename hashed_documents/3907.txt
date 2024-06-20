@@ -1,0 +1,4 @@
+
+vent	{"Numbers_ch_13.docx": [1652], "Jeremiah_ch_22.docx": [2432, 2432, 2432]}
+vent	{"Numbers_ch_13.docx": [1652], "Jeremiah_ch_22.docx": [2432, 2432]}
+vent	{"Numbers_ch_13.docx": [1652], "Jeremiah_ch_22.docx": [2432]}

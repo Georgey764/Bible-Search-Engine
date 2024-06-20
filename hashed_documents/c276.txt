@@ -1,0 +1,4 @@
+
+hazars	{"Nehemiah_ch_11.docx": [4419, 4422, 4426, 4422, 4426, 4422, 4426]}
+hazars	{"Nehemiah_ch_11.docx": [4419, 4422, 4426, 4422, 4426]}
+hazars	{"Nehemiah_ch_11.docx": [4419, 4422, 4426]}

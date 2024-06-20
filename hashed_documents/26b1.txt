@@ -1,0 +1,5 @@
+
+merab	{"1 Samuel_ch_18.docx": [2574, 2991, 2991, 2991]}
+24alo	{"Genesis_ch_43.docx": [3267], "Exodus_ch_36.docx": [2961]}
+merab	{"1 Samuel_ch_18.docx": [2574, 2991, 2991]}
+merab	{"1 Samuel_ch_18.docx": [2574, 2991]}

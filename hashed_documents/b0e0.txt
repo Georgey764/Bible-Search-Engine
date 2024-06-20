@@ -1,0 +1,5 @@
+
+souphi	{"1 Chronicles_ch_6.docx": [1800, 1808, 1808, 1808]}
+9fro	{"Numbers_ch_13.docx": [673], "Ezra_ch_8.docx": [941], "Nehemiah_ch_3.docx": [3411], "Job_ch_20.docx": [754], "Psalms_ch_17.docx": [935], "Psalms_ch_143.docx": [1080]}
+souphi	{"1 Chronicles_ch_6.docx": [1800, 1808, 1808]}
+souphi	{"1 Chronicles_ch_6.docx": [1800, 1808]}

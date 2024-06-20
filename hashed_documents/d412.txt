@@ -1,0 +1,8 @@
+
+gravey	{"Numbers_ch_11.docx": [5349, 5471, 5471, 5471], "Numbers_ch_33.docx": [1584, 1656, 1584, 1656, 1584, 1656], "Deuteronomy_ch_9.docx": [3682, 3682, 3682], "2 Kings_ch_23.docx": [1550, 4216, 1550, 4216, 1550, 4216], "2 Chronicles_ch_26.docx": [3946, 3946, 3946], "Jeremiah_ch_2.docx": [3761, 3761, 3761], "Jeremiah_ch_8.docx": [72, 72, 72], "Jeremiah_ch_19.docx": [152, 1113, 1156, 152, 1113, 1156, 152, 1113, 1156], "Ezekiel_ch_39.docx": [1924, 2053, 2675, 2708, 1924, 2053, 2675, 2708, 1924, 2053, 2675, 2708]}
+sakcho	{"1 Chronicles_ch_24.docx": [2820], "1 Chronicles_ch_25.docx": [308, 308, 308]}
+gravey	{"Numbers_ch_11.docx": [5349, 5471, 5471], "Numbers_ch_33.docx": [1584, 1656, 1584, 1656], "Deuteronomy_ch_9.docx": [3682, 3682], "2 Kings_ch_23.docx": [1550, 4216, 1550, 4216], "2 Chronicles_ch_26.docx": [3946, 3946], "Jeremiah_ch_2.docx": [3761, 3761], "Jeremiah_ch_8.docx": [72, 72], "Jeremiah_ch_19.docx": [152, 1113, 1156, 152, 1113, 1156], "Ezekiel_ch_39.docx": [1924, 2053, 2675, 2708, 1924, 2053, 2675, 2708]}
+40suth	{"Numbers_ch_26.docx": [4112]}
+sakcho	{"1 Chronicles_ch_24.docx": [2820], "1 Chronicles_ch_25.docx": [308, 308]}
+gravey	{"Numbers_ch_11.docx": [5349, 5471], "Numbers_ch_33.docx": [1584, 1656], "Deuteronomy_ch_9.docx": [3682], "2 Kings_ch_23.docx": [1550, 4216], "2 Chronicles_ch_26.docx": [3946], "Jeremiah_ch_2.docx": [3761], "Jeremiah_ch_8.docx": [72], "Jeremiah_ch_19.docx": [152, 1113, 1156], "Ezekiel_ch_39.docx": [1924, 2053, 2675, 2708]}
+sakcho	{"1 Chronicles_ch_24.docx": [2820], "1 Chronicles_ch_25.docx": [308]}

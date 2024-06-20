@@ -1,0 +1,2 @@
+
+46‘	{"Genesis_ch_24.docx": [6953], "Leviticus_ch_13.docx": [6522], "Leviticus_ch_14.docx": [6854], "Numbers_ch_3.docx": [5610], "Deuteronomy_ch_1.docx": [6601], "Deuteronomy_ch_28.docx": [6310], "2 Samuel_ch_22.docx": [4323], "1 Kings_ch_1.docx": [6480], "1 Kings_ch_8.docx": [7337], "Jeremiah_ch_48.docx": [6405], "Jeremiah_ch_50.docx": [8754], "Jeremiah_ch_51.docx": [7557], "Lamentations_ch_3.docx": [3795], "Ezekiel_ch_20.docx": [8133], "Ezekiel_ch_23.docx": [7649], "Matthew_ch_5.docx": [5684], "Matthew_ch_25.docx": [5486]}

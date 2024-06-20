@@ -1,0 +1,7 @@
+
+races	{"Genesis_ch_25.docx": [2449], "Joshua_ch_11.docx": [11372, 11372, 11372], "Job_ch_41.docx": [443, 443, 443], "Isaiah_ch_30.docx": [4958, 4958, 4958], "Galatians_ch_3.docx": [1939, 1939], "Ephesians_ch_2.docx": [1300, 1300], "Ephesians_ch_3.docx": [29, 615, 958, 29, 615, 958], "Colossians_ch_1.docx": [4030, 4030], "1 Timothy_ch_2.docx": [701, 701], "1 Peter_ch_2.docx": [1755, 1755]}
+facia	{"Isaiah_ch_3.docx": [2848]}
+races	{"Genesis_ch_25.docx": [2449], "Joshua_ch_11.docx": [11372, 11372], "Job_ch_41.docx": [443, 443], "Isaiah_ch_30.docx": [4958, 4958], "Galatians_ch_3.docx": [1939], "Ephesians_ch_2.docx": [1300], "Ephesians_ch_3.docx": [29, 615, 958], "Colossians_ch_1.docx": [4030], "1 Timothy_ch_2.docx": [701], "1 Peter_ch_2.docx": [1755]}
+facia	{"Isaiah_ch_3.docx": [2848]}
+races	{"Genesis_ch_25.docx": [2449], "Joshua_ch_11.docx": [11372], "Job_ch_41.docx": [443], "Isaiah_ch_30.docx": [4958], "Galatians_ch_3.docx": [1939], "Ephesians_ch_2.docx": [1300], "Ephesians_ch_3.docx": [29, 615, 958], "Colossians_ch_1.docx": [4030], "1 Timothy_ch_2.docx": [701], "1 Peter_ch_2.docx": [1755]}
+facia	{"Isaiah_ch_3.docx": [2848]}

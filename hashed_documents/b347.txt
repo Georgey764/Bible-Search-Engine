@@ -1,0 +1,2 @@
+
+5‘no	{"Genesis_ch_48.docx": [624], "Exodus_ch_6.docx": [511], "Deuteronomy_ch_15.docx": [531], "Joshua_ch_1.docx": [464], "1 Kings_ch_2.docx": [736], "2 Chronicles_ch_2.docx": [807], "Job_ch_19.docx": [424], "Job_ch_34.docx": [279], "Jeremiah_ch_9.docx": [795], "Joel_ch_1.docx": [623], "Micah_ch_2.docx": [949], "Zechariah_ch_1.docx": [738]}

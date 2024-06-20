@@ -1,0 +1,8 @@
+
+easy	{"Genesis_ch_33.docx": [1774], "1 Samuel_ch_10.docx": [4053, 4053, 4053], "Proverbs_ch_10.docx": [833, 833, 833], "Isaiah_ch_8.docx": [2520, 2520, 2520], "Luke_ch_12.docx": [2468, 2468], "Ephesians_ch_5.docx": [525, 525], "1 Timothy_ch_3.docx": [1022, 1022], "1 John_ch_3.docx": [1396, 1396]}
+alike	{"1 Kings_ch_7.docx": [4781], "2 Kings_ch_3.docx": [916, 916, 916]}
+easy	{"Genesis_ch_33.docx": [1774], "1 Samuel_ch_10.docx": [4053, 4053], "Proverbs_ch_10.docx": [833, 833], "Isaiah_ch_8.docx": [2520, 2520], "Luke_ch_12.docx": [2468], "Ephesians_ch_5.docx": [525], "1 Timothy_ch_3.docx": [1022], "1 John_ch_3.docx": [1396]}
+alike	{"1 Kings_ch_7.docx": [4781], "2 Kings_ch_3.docx": [916, 916]}
+18‘ca	{"Job_ch_37.docx": [1638]}
+easy	{"Genesis_ch_33.docx": [1774], "1 Samuel_ch_10.docx": [4053], "Proverbs_ch_10.docx": [833], "Isaiah_ch_8.docx": [2520], "Luke_ch_12.docx": [2468], "Ephesians_ch_5.docx": [525], "1 Timothy_ch_3.docx": [1022], "1 John_ch_3.docx": [1396]}
+alike	{"1 Kings_ch_7.docx": [4781], "2 Kings_ch_3.docx": [916]}

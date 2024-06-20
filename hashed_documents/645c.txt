@@ -1,0 +1,3 @@
+
+dorc	{"Acts_ch_9.docx": [6097, 6821, 6821]}
+dorc	{"Acts_ch_9.docx": [6097, 6821]}

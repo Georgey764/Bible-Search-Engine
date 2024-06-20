@@ -1,0 +1,4 @@
+
+wrink	{"Job_ch_30.docx": [1858], "Ephesians_ch_5.docx": [2821, 2821]}
+wrink	{"Job_ch_30.docx": [1858], "Ephesians_ch_5.docx": [2821]}
+wrink	{"Job_ch_30.docx": [1858], "Ephesians_ch_5.docx": [2821]}

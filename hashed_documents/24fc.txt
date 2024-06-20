@@ -1,0 +1,4 @@
+
+ribs	{"Genesis_ch_2.docx": [2884], "Daniel_ch_7.docx": [696, 696, 696]}
+ribs	{"Genesis_ch_2.docx": [2884], "Daniel_ch_7.docx": [696, 696]}
+ribs	{"Genesis_ch_2.docx": [2884], "Daniel_ch_7.docx": [696]}

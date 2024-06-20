@@ -1,0 +1,4 @@
+
+pathw	{"Proverbs_ch_2.docx": [1271], "Proverbs_ch_8.docx": [1730, 1730, 1730], "Hebrews_ch_10.docx": [2452, 2452]}
+pathw	{"Proverbs_ch_2.docx": [1271], "Proverbs_ch_8.docx": [1730, 1730], "Hebrews_ch_10.docx": [2452]}
+pathw	{"Proverbs_ch_2.docx": [1271], "Proverbs_ch_8.docx": [1730], "Hebrews_ch_10.docx": [2452]}

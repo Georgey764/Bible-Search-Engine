@@ -1,0 +1,4 @@
+
+disgui	{"1 Samuel_ch_28.docx": [1147], "2 Chronicles_ch_18.docx": [4563, 4652, 4563, 4652, 4563, 4652]}
+disgui	{"1 Samuel_ch_28.docx": [1147], "2 Chronicles_ch_18.docx": [4563, 4652, 4563, 4652]}
+disgui	{"1 Samuel_ch_28.docx": [1147], "2 Chronicles_ch_18.docx": [4563, 4652]}

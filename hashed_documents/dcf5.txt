@@ -1,0 +1,4 @@
+
+afa	{"Psalms_ch_138.docx": [776], "Proverbs_ch_25.docx": [2498, 2498, 2498], "Isaiah_ch_10.docx": [296, 296, 296]}
+afa	{"Psalms_ch_138.docx": [776], "Proverbs_ch_25.docx": [2498, 2498], "Isaiah_ch_10.docx": [296, 296]}
+afa	{"Psalms_ch_138.docx": [776], "Proverbs_ch_25.docx": [2498], "Isaiah_ch_10.docx": [296]}

@@ -1,0 +1,4 @@
+
+silva	{"2 Corinthians_ch_1.docx": [3513], "1 Thessalonians_ch_1.docx": [6, 6], "2 Thessalonians_ch_1.docx": [7, 31, 7, 31]}
+34just	{"Proverbs_ch_14.docx": [3059]}
+silva	{"2 Corinthians_ch_1.docx": [3513], "1 Thessalonians_ch_1.docx": [6], "2 Thessalonians_ch_1.docx": [7, 31]}

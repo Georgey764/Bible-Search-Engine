@@ -1,0 +1,4 @@
+
+vinega	{"Numbers_ch_6.docx": [154], "Ruth_ch_2.docx": [2448, 2448, 2448], "Psalms_ch_69.docx": [2331, 2331, 2331], "Proverbs_ch_25.docx": [1892, 1892, 1892], "Matthew_ch_27.docx": [5494, 5494], "John_ch_19.docx": [3979, 3988, 4101, 3979, 3988, 4101]}
+vinega	{"Numbers_ch_6.docx": [154], "Ruth_ch_2.docx": [2448, 2448], "Psalms_ch_69.docx": [2331, 2331], "Proverbs_ch_25.docx": [1892, 1892], "Matthew_ch_27.docx": [5494], "John_ch_19.docx": [3979, 3988, 4101]}
+vinega	{"Numbers_ch_6.docx": [154], "Ruth_ch_2.docx": [2448], "Psalms_ch_69.docx": [2331], "Proverbs_ch_25.docx": [1892], "Matthew_ch_27.docx": [5494], "John_ch_19.docx": [3979, 3988, 4101]}

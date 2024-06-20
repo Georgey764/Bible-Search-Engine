@@ -1,0 +1,5 @@
+
+flesh.	{"Colossians_ch_2.docx": [3797, 3827, 3827]}
+5aft	{"Exodus_ch_24.docx": [530]}
+16[and	{"1 Chronicles_ch_26.docx": [2002], "Song of Solomon_ch_1.docx": [2043]}
+flesh.	{"Colossians_ch_2.docx": [3797, 3827]}

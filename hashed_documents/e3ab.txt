@@ -1,0 +1,5 @@
+
+petit	{"2 Chronicles_ch_6.docx": [2989], "Esther_ch_5.docx": [1106, 1106, 1106], "Esther_ch_7.docx": [190, 308, 190, 308, 190, 308], "Jeremiah_ch_7.docx": [2405, 2405, 2405], "Jeremiah_ch_11.docx": [2648, 2648, 2648], "Daniel_ch_1.docx": [1246, 1246, 1246], "Daniel_ch_2.docx": [2534, 3773, 2534, 3773, 2534, 3773], "Daniel_ch_6.docx": [1771, 1771, 1771], "Mark_ch_15.docx": [784, 784]}
+61brou	{"Numbers_ch_7.docx": [7021]}
+petit	{"2 Chronicles_ch_6.docx": [2989], "Esther_ch_5.docx": [1106, 1106], "Esther_ch_7.docx": [190, 308, 190, 308], "Jeremiah_ch_7.docx": [2405, 2405], "Jeremiah_ch_11.docx": [2648, 2648], "Daniel_ch_1.docx": [1246, 1246], "Daniel_ch_2.docx": [2534, 3773, 2534, 3773], "Daniel_ch_6.docx": [1771, 1771], "Mark_ch_15.docx": [784]}
+petit	{"2 Chronicles_ch_6.docx": [2989], "Esther_ch_5.docx": [1106], "Esther_ch_7.docx": [190, 308], "Jeremiah_ch_7.docx": [2405], "Jeremiah_ch_11.docx": [2648], "Daniel_ch_1.docx": [1246], "Daniel_ch_2.docx": [2534, 3773], "Daniel_ch_6.docx": [1771], "Mark_ch_15.docx": [784]}

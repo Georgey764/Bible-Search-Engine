@@ -1,0 +1,2 @@
+
+32s	{"Genesis_ch_19.docx": [4902], "Genesis_ch_24.docx": [4646], "Genesis_ch_25.docx": [3514], "Genesis_ch_29.docx": [3859], "Genesis_ch_43.docx": [4442], "Exodus_ch_39.docx": [3895], "Numbers_ch_11.docx": [4817], "Joshua_ch_22.docx": [5583], "Judges_ch_1.docx": [17976], "Judges_ch_11.docx": [6910], "1 Samuel_ch_17.docx": [4644], "1 Kings_ch_20.docx": [5576], "2 Kings_ch_17.docx": [5855], "Proverbs_ch_3.docx": [3091], "Proverbs_ch_23.docx": [2915], "Lamentations_ch_3.docx": [2581], "Matthew_ch_20.docx": [4030]}

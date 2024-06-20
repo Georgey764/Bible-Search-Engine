@@ -1,0 +1,4 @@
+
+atarot	{"Numbers_ch_32.docx": [315, 4921, 4921, 4921], "Joshua_ch_16.docx": [507, 681, 507, 681, 507, 681], "1 Chronicles_ch_2.docx": [4936, 4936, 4936]}
+atarot	{"Numbers_ch_32.docx": [315, 4921, 4921], "Joshua_ch_16.docx": [507, 681, 507, 681], "1 Chronicles_ch_2.docx": [4936, 4936]}
+atarot	{"Numbers_ch_32.docx": [315, 4921], "Joshua_ch_16.docx": [507, 681], "1 Chronicles_ch_2.docx": [4936]}

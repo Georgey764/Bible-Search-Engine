@@ -1,0 +1,4 @@
+
+auna	{"Genesis_ch_14.docx": [1752, 3396, 3396, 3396], "Genesis_ch_38.docx": [194, 697, 873, 194, 697, 873, 194, 697, 873], "Genesis_ch_46.docx": [1411, 1411, 1411], "Numbers_ch_26.docx": [1666, 1666, 1666]}
+auna	{"Genesis_ch_14.docx": [1752, 3396, 3396], "Genesis_ch_38.docx": [194, 697, 873, 194, 697, 873], "Genesis_ch_46.docx": [1411, 1411], "Numbers_ch_26.docx": [1666, 1666]}
+auna	{"Genesis_ch_14.docx": [1752, 3396], "Genesis_ch_38.docx": [194, 697, 873], "Genesis_ch_46.docx": [1411], "Numbers_ch_26.docx": [1666]}

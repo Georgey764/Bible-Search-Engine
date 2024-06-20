@@ -1,0 +1,5 @@
+
+sixt	{"Genesis_ch_2.docx": [106], "Exodus_ch_26.docx": [914, 914, 914], "2 Samuel_ch_3.docx": [535, 535, 535], "Nehemiah_ch_3.docx": [14267, 14267, 14267]}
+sixt	{"Genesis_ch_2.docx": [106], "Exodus_ch_26.docx": [914, 914], "2 Samuel_ch_3.docx": [535, 535], "Nehemiah_ch_3.docx": [14267, 14267]}
+18may	{"Psalms_ch_31.docx": [2015], "Jeremiah_ch_17.docx": [2749]}
+sixt	{"Genesis_ch_2.docx": [106], "Exodus_ch_26.docx": [914], "2 Samuel_ch_3.docx": [535], "Nehemiah_ch_3.docx": [14267]}

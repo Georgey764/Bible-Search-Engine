@@ -1,0 +1,5 @@
+
+sundow	{"Leviticus_ch_22.docx": [955], "Deuteronomy_ch_23.docx": [1025, 1025, 1025]}
+20‘{	{"Exodus_ch_23.docx": [2720], "Numbers_ch_23.docx": [2670]}
+sundow	{"Leviticus_ch_22.docx": [955], "Deuteronomy_ch_23.docx": [1025, 1025]}
+sundow	{"Leviticus_ch_22.docx": [955], "Deuteronomy_ch_23.docx": [1025]}

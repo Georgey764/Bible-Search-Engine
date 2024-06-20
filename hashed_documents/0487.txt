@@ -1,0 +1,4 @@
+
+hoed	{"Isaiah_ch_5.docx": [881], "Hosea_ch_9.docx": [3277, 3277, 3277]}
+hoed	{"Isaiah_ch_5.docx": [881], "Hosea_ch_9.docx": [3277, 3277]}
+hoed	{"Isaiah_ch_5.docx": [881], "Hosea_ch_9.docx": [3277]}

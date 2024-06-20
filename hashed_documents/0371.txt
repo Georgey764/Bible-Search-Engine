@@ -1,0 +1,8 @@
+
+hata	{"Esther_ch_4.docx": [875, 950, 1786, 1860, 2188, 950, 1786, 1860, 2188, 950, 1786, 1860, 2188]}
+speec	{"Job_ch_38.docx": [9, 1344, 1344, 1344], "Psalms_ch_31.docx": [2021, 2021, 2021], "Matthew_ch_15.docx": [3524, 3524, 3524], "Matthew_ch_22.docx": [1476, 1476, 1476], "Mark_ch_9.docx": [3407, 3407], "Acts_ch_9.docx": [1302, 1302], "Acts_ch_15.docx": [5597, 6964, 5597, 6964], "Acts_ch_20.docx": [468, 483, 499, 2549, 468, 483, 499, 2549]}
+hata	{"Esther_ch_4.docx": [875, 950, 1786, 1860, 2188, 950, 1786, 1860, 2188]}
+speec	{"Job_ch_38.docx": [9, 1344, 1344], "Psalms_ch_31.docx": [2021, 2021], "Matthew_ch_15.docx": [3524, 3524], "Matthew_ch_22.docx": [1476, 1476], "Mark_ch_9.docx": [3407], "Acts_ch_9.docx": [1302], "Acts_ch_15.docx": [5597, 6964], "Acts_ch_20.docx": [468, 483, 499, 2549]}
+22[app	{"Proverbs_ch_20.docx": [2821]}
+hata	{"Esther_ch_4.docx": [875, 950, 1786, 1860, 2188]}
+speec	{"Job_ch_38.docx": [9, 1344], "Psalms_ch_31.docx": [2021], "Matthew_ch_15.docx": [3524], "Matthew_ch_22.docx": [1476], "Mark_ch_9.docx": [3407], "Acts_ch_9.docx": [1302], "Acts_ch_15.docx": [5597, 6964], "Acts_ch_20.docx": [468, 483, 499, 2549]}

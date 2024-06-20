@@ -1,0 +1,4 @@
+
+50‘th	{"Leviticus_ch_13.docx": [7035], "Leviticus_ch_25.docx": [7049], "Deuteronomy_ch_32.docx": [7526]}
+32‘ha	{"Job_ch_39.docx": [2760]}
+2‘cu	{"Hosea_ch_4.docx": [228]}

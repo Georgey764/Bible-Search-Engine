@@ -1,0 +1,5 @@
+
+shrive	{"Ezekiel_ch_17.docx": [1859], "Joel_ch_1.docx": [1695, 1695, 1695]}
+30thei	{"Genesis_ch_10.docx": [3089], "Joshua_ch_13.docx": [31857]}
+shrive	{"Ezekiel_ch_17.docx": [1859], "Joel_ch_1.docx": [1695, 1695]}
+shrive	{"Ezekiel_ch_17.docx": [1859], "Joel_ch_1.docx": [1695]}

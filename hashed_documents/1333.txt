@@ -1,0 +1,4 @@
+
+cras	{"Isaiah_ch_30.docx": [2285], "Matthew_ch_8.docx": [2896, 2896, 2896], "Acts_ch_27.docx": [5428, 5428]}
+cras	{"Isaiah_ch_30.docx": [2285], "Matthew_ch_8.docx": [2896, 2896], "Acts_ch_27.docx": [5428]}
+cras	{"Isaiah_ch_30.docx": [2285], "Matthew_ch_8.docx": [2896], "Acts_ch_27.docx": [5428]}

@@ -1,0 +1,6 @@
+
+jedd	{"2 Samuel_ch_8.docx": [1467], "1 Chronicles_ch_5.docx": [1852, 1852, 1852]}
+tabit	{"Acts_ch_9.docx": [6092, 7134, 7134]}
+jedd	{"2 Samuel_ch_8.docx": [1467], "1 Chronicles_ch_5.docx": [1852, 1852]}
+jedd	{"2 Samuel_ch_8.docx": [1467], "1 Chronicles_ch_5.docx": [1852]}
+tabit	{"Acts_ch_9.docx": [6092, 7134]}

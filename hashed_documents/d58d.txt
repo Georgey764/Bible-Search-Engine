@@ -1,0 +1,4 @@
+
+gains	{"Daniel_ch_11.docx": [403], "Luke_ch_9.docx": [3548, 3548], "John_ch_3.docx": [3515, 3515], "Hebrews_ch_10.docx": [5509, 5528, 5509, 5528]}
+gains	{"Daniel_ch_11.docx": [403], "Luke_ch_9.docx": [3548], "John_ch_3.docx": [3515], "Hebrews_ch_10.docx": [5509, 5528]}
+gains	{"Daniel_ch_11.docx": [403], "Luke_ch_9.docx": [3548], "John_ch_3.docx": [3515], "Hebrews_ch_10.docx": [5509, 5528]}

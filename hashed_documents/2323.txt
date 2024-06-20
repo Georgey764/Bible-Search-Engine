@@ -1,0 +1,4 @@
+
+awaite	{"2 Samuel_ch_22.docx": [618], "Psalms_ch_130.docx": [426, 426, 426]}
+awaite	{"2 Samuel_ch_22.docx": [618], "Psalms_ch_130.docx": [426, 426]}
+awaite	{"2 Samuel_ch_22.docx": [618], "Psalms_ch_130.docx": [426]}

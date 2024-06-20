@@ -1,0 +1,4 @@
+
+feebl	{"Deuteronomy_ch_28.docx": [4453], "Job_ch_4.docx": [293, 293, 293], "Ezekiel_ch_21.docx": [938, 938, 938], "Nahum_ch_2.docx": [1178, 1178, 1178]}
+feebl	{"Deuteronomy_ch_28.docx": [4453], "Job_ch_4.docx": [293, 293], "Ezekiel_ch_21.docx": [938, 938], "Nahum_ch_2.docx": [1178, 1178]}
+feebl	{"Deuteronomy_ch_28.docx": [4453], "Job_ch_4.docx": [293], "Ezekiel_ch_21.docx": [938], "Nahum_ch_2.docx": [1178]}

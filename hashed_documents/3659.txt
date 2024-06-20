@@ -1,0 +1,4 @@
+
+blot	{"Genesis_ch_7.docx": [562, 2802, 2825, 2802, 2825, 2802, 2825], "Genesis_ch_9.docx": [1692, 1692, 1692], "Exodus_ch_17.docx": [2270, 2270, 2270], "Leviticus_ch_13.docx": [5996, 5996, 5996], "Numbers_ch_27.docx": [429, 429, 429], "Deuteronomy_ch_9.docx": [2378, 2378, 2378], "Deuteronomy_ch_25.docx": [786, 786, 786], "Deuteronomy_ch_29.docx": [2801, 2801, 2801]}
+blot	{"Genesis_ch_7.docx": [562, 2802, 2825, 2802, 2825], "Genesis_ch_9.docx": [1692, 1692], "Exodus_ch_17.docx": [2270, 2270], "Leviticus_ch_13.docx": [5996, 5996], "Numbers_ch_27.docx": [429, 429], "Deuteronomy_ch_9.docx": [2378, 2378], "Deuteronomy_ch_25.docx": [786, 786], "Deuteronomy_ch_29.docx": [2801, 2801]}
+blot	{"Genesis_ch_7.docx": [562, 2802, 2825], "Genesis_ch_9.docx": [1692], "Exodus_ch_17.docx": [2270], "Leviticus_ch_13.docx": [5996], "Numbers_ch_27.docx": [429], "Deuteronomy_ch_9.docx": [2378], "Deuteronomy_ch_25.docx": [786], "Deuteronomy_ch_29.docx": [2801]}

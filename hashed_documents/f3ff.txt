@@ -1,0 +1,4 @@
+
+heart;	{"1 Kings_ch_11.docx": [517], "Psalms_ch_94.docx": [1619, 1619, 1619], "Proverbs_ch_3.docx": [82, 82, 82], "Proverbs_ch_19.docx": [1896, 1896, 1896]}
+heart;	{"1 Kings_ch_11.docx": [517], "Psalms_ch_94.docx": [1619, 1619], "Proverbs_ch_3.docx": [82, 82], "Proverbs_ch_19.docx": [1896, 1896]}
+heart;	{"1 Kings_ch_11.docx": [517], "Psalms_ch_94.docx": [1619], "Proverbs_ch_3.docx": [82], "Proverbs_ch_19.docx": [1896]}

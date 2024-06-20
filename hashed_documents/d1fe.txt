@@ -1,0 +1,4 @@
+
+begun	{"Deuteronomy_ch_3.docx": [3511], "1 Samuel_ch_17.docx": [2785, 2785, 2785], "2 Chronicles_ch_29.docx": [6431, 6431, 6431]}
+begun	{"Deuteronomy_ch_3.docx": [3511], "1 Samuel_ch_17.docx": [2785, 2785], "2 Chronicles_ch_29.docx": [6431, 6431]}
+begun	{"Deuteronomy_ch_3.docx": [3511], "1 Samuel_ch_17.docx": [2785], "2 Chronicles_ch_29.docx": [6431]}

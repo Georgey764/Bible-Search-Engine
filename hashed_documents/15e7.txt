@@ -1,0 +1,3 @@
+
+15y	{"Leviticus_ch_2.docx": [1857], "Leviticus_ch_25.docx": [1966], "Deuteronomy_ch_13.docx": [2091], "1 Samuel_ch_20.docx": [2593], "Ezra_ch_7.docx": [1824], "Job_ch_11.docx": [1563], "Psalms_ch_74.docx": [1482], "Psalms_ch_86.docx": [1249], "Psalms_ch_145.docx": [1431], "Isaiah_ch_3.docx": [2320], "Isaiah_ch_28.docx": [2095], "Isaiah_ch_45.docx": [2846], "Isaiah_ch_59.docx": [2277], "Jeremiah_ch_18.docx": [1855], "Ezekiel_ch_28.docx": [2292], "Ezekiel_ch_38.docx": [2885]}
+36nor	{"Job_ch_31.docx": [3316]}

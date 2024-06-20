@@ -1,0 +1,5 @@
+
+sallu	{"Nehemiah_ch_11.docx": [1257], "Nehemiah_ch_12.docx": [342, 342]}
+sallu	{"Nehemiah_ch_11.docx": [1257], "Nehemiah_ch_12.docx": [342]}
+4sure	{"Job_ch_8.docx": [233]}
+sallu	{"Nehemiah_ch_11.docx": [1257], "Nehemiah_ch_12.docx": [342]}

@@ -1,0 +1,8 @@
+
+washtu	{"1 Kings_ch_7.docx": [3994, 4975, 5025, 5663, 4975, 5025, 5663, 4975, 5025, 5663]}
+eigh	{"Ecclesiastes_ch_11.docx": [115], "Micah_ch_5.docx": [1526, 1526, 1526], "Luke_ch_2.docx": [3905, 3905], "Luke_ch_9.docx": [3966, 3966]}
+31‘loo	{"1 Samuel_ch_2.docx": [5898], "Jeremiah_ch_31.docx": [5587], "Jeremiah_ch_50.docx": [5744]}
+washtu	{"1 Kings_ch_7.docx": [3994, 4975, 5025, 5663, 4975, 5025, 5663]}
+eigh	{"Ecclesiastes_ch_11.docx": [115], "Micah_ch_5.docx": [1526, 1526], "Luke_ch_2.docx": [3905], "Luke_ch_9.docx": [3966]}
+washtu	{"1 Kings_ch_7.docx": [3994, 4975, 5025, 5663]}
+eigh	{"Ecclesiastes_ch_11.docx": [115], "Micah_ch_5.docx": [1526], "Luke_ch_2.docx": [3905], "Luke_ch_9.docx": [3966]}

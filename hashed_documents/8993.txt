@@ -1,0 +1,2 @@
+
+11‘h	{"Exodus_ch_23.docx": [1103], "Exodus_ch_34.docx": [1646], "Leviticus_ch_1.docx": [1460], "Deuteronomy_ch_19.docx": [1709], "2 Chronicles_ch_32.docx": [2260], "Job_ch_1.docx": [1755], "Job_ch_11.docx": [1112], "Job_ch_16.docx": [1013], "Job_ch_34.docx": [935], "Song of Solomon_ch_5.docx": [2012], "Jeremiah_ch_7.docx": [1499], "Jeremiah_ch_20.docx": [2222], "Ezekiel_ch_26.docx": [1859]}

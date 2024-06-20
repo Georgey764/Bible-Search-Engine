@@ -1,0 +1,4 @@
+
+flax	{"Exodus_ch_9.docx": [4340, 4353, 4353, 4353], "Isaiah_ch_19.docx": [1240, 1240, 1240], "Isaiah_ch_42.docx": [336, 336, 336], "Isaiah_ch_43.docx": [2810, 2810, 2810], "Matthew_ch_12.docx": [2246, 2246, 2246]}
+flax	{"Exodus_ch_9.docx": [4340, 4353, 4353], "Isaiah_ch_19.docx": [1240, 1240], "Isaiah_ch_42.docx": [336, 336], "Isaiah_ch_43.docx": [2810, 2810], "Matthew_ch_12.docx": [2246, 2246]}
+flax	{"Exodus_ch_9.docx": [4340, 4353], "Isaiah_ch_19.docx": [1240], "Isaiah_ch_42.docx": [336], "Isaiah_ch_43.docx": [2810], "Matthew_ch_12.docx": [2246]}

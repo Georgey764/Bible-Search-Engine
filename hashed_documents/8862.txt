@@ -1,0 +1,6 @@
+
+talent	{"Exodus_ch_31.docx": [553], "Revelation_ch_16.docx": [2983, 2983]}
+talent	{"Exodus_ch_31.docx": [553], "Revelation_ch_16.docx": [2983]}
+6nage	{"1 Chronicles_ch_14.docx": [578]}
+26‘i’m	{"Isaiah_ch_44.docx": [4540]}
+talent	{"Exodus_ch_31.docx": [553], "Revelation_ch_16.docx": [2983]}

@@ -1,0 +1,7 @@
+
+jese	{"Numbers_ch_26.docx": [5049, 5054, 5054], "1 Chronicles_ch_11.docx": [1943, 1943, 1943]}
+recomm	{"1 Kings_ch_12.docx": [1183], "Isaiah_ch_32.docx": [856, 856, 856], "Acts_ch_27.docx": [1133, 1527, 1133, 1527], "2 Corinthians_ch_3.docx": [26, 38, 26, 38], "2 Corinthians_ch_10.docx": [2796, 2796], "2 Corinthians_ch_12.docx": [1669, 1669]}
+jese	{"Numbers_ch_26.docx": [5054, 5054], "1 Chronicles_ch_11.docx": [1943, 1943]}
+recomm	{"1 Kings_ch_12.docx": [1183], "Isaiah_ch_32.docx": [856, 856], "Acts_ch_27.docx": [1133, 1527], "2 Corinthians_ch_3.docx": [26, 38], "2 Corinthians_ch_10.docx": [2796], "2 Corinthians_ch_12.docx": [1669]}
+jese	{"Numbers_ch_26.docx": [5049, 5054], "1 Chronicles_ch_11.docx": [1943]}
+recomm	{"1 Kings_ch_12.docx": [1183], "Isaiah_ch_32.docx": [856], "Acts_ch_27.docx": [1133, 1527], "2 Corinthians_ch_3.docx": [26, 38], "2 Corinthians_ch_10.docx": [2796], "2 Corinthians_ch_12.docx": [1669]}

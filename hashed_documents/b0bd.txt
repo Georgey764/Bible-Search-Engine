@@ -1,0 +1,5 @@
+
+mish	{"Nehemiah_ch_8.docx": [1411], "Daniel_ch_1.docx": [873, 885, 1834, 2778, 873, 885, 1834, 2778, 873, 885, 1834, 2778], "Daniel_ch_2.docx": [2568, 2568, 2568], "Luke_ch_16.docx": [84, 84]}
+mish	{"Nehemiah_ch_8.docx": [1411], "Daniel_ch_1.docx": [873, 885, 1834, 2778, 873, 885, 1834, 2778], "Daniel_ch_2.docx": [2568, 2568], "Luke_ch_16.docx": [84]}
+16our	{"Isaiah_ch_63.docx": [2384]}
+mish	{"Nehemiah_ch_8.docx": [1411], "Daniel_ch_1.docx": [873, 885, 1834, 2778], "Daniel_ch_2.docx": [2568], "Luke_ch_16.docx": [84]}

@@ -1,0 +1,10 @@
+
+garga	{"Deuteronomy_ch_3.docx": [1971]}
+witted	{"Proverbs_ch_22.docx": [2930]}
+beeri	{"Hosea_ch_1.docx": [13]}
+garga	{"Deuteronomy_ch_3.docx": [1971]}
+witted	{"Proverbs_ch_22.docx": [2930]}
+beeri	{"Hosea_ch_1.docx": [13]}
+garga	{"Deuteronomy_ch_3.docx": [1971]}
+witted	{"Proverbs_ch_22.docx": [2930]}
+beeri	{"Hosea_ch_1.docx": [13]}

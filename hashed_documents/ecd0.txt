@@ -1,0 +1,4 @@
+
+edges	{"Exodus_ch_28.docx": [3256], "Exodus_ch_30.docx": [257, 257, 257], "Exodus_ch_36.docx": [1634, 1652, 1634, 1652, 1634, 1652], "Revelation_ch_9.docx": [1703, 1703]}
+edges	{"Exodus_ch_28.docx": [3256], "Exodus_ch_30.docx": [257, 257], "Exodus_ch_36.docx": [1634, 1652, 1634, 1652], "Revelation_ch_9.docx": [1703]}
+edges	{"Exodus_ch_28.docx": [3256], "Exodus_ch_30.docx": [257], "Exodus_ch_36.docx": [1634, 1652], "Revelation_ch_9.docx": [1703]}

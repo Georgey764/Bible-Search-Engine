@@ -1,0 +1,5 @@
+
+adri	{"1 Samuel_ch_18.docx": [2998], "Acts_ch_27.docx": [3652, 3652]}
+32‘i	{"Exodus_ch_25.docx": [3487], "Matthew_ch_10.docx": [4030], "Matthew_ch_12.docx": [3712], "Matthew_ch_22.docx": [3652]}
+adri	{"1 Samuel_ch_18.docx": [2998], "Acts_ch_27.docx": [3652]}
+adri	{"1 Samuel_ch_18.docx": [2998], "Acts_ch_27.docx": [3652]}

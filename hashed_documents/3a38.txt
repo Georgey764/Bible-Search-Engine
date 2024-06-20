@@ -1,0 +1,5 @@
+
+bottle	{"Genesis_ch_21.docx": [1421, 1638, 1638, 1638]}
+bottle	{"Genesis_ch_21.docx": [1421, 1638, 1638]}
+63for	{"Lamentations_ch_3.docx": [5244]}
+bottle	{"Genesis_ch_21.docx": [1421, 1638]}

@@ -1,0 +1,4 @@
+
+wherea	{"Numbers_ch_5.docx": [4640], "1 Samuel_ch_17.docx": [8709, 8709, 8709]}
+wherea	{"Numbers_ch_5.docx": [4640], "1 Samuel_ch_17.docx": [8709, 8709]}
+wherea	{"Numbers_ch_5.docx": [4640], "1 Samuel_ch_17.docx": [8709]}

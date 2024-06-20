@@ -1,0 +1,4 @@
+
+fords	{"Joshua_ch_2.docx": [922], "Judges_ch_12.docx": [918, 1195, 1226, 918, 1195, 1226, 918, 1195, 1226]}
+fords	{"Joshua_ch_2.docx": [922], "Judges_ch_12.docx": [918, 1195, 1226, 918, 1195, 1226]}
+fords	{"Joshua_ch_2.docx": [922], "Judges_ch_12.docx": [918, 1195, 1226]}

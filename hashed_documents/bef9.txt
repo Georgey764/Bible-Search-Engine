@@ -1,0 +1,4 @@
+
+series	{"Joshua_ch_12.docx": [9]}
+series	{"Joshua_ch_12.docx": [9]}
+series	{"Joshua_ch_12.docx": [9]}

@@ -1,0 +1,5 @@
+
+plei	{"Job_ch_9.docx": [702], "Job_ch_38.docx": [2911, 2911, 2911]}
+28‘h	{"Leviticus_ch_15.docx": [3930], "Numbers_ch_13.docx": [2935], "Isaiah_ch_30.docx": [4952]}
+plei	{"Job_ch_9.docx": [702], "Job_ch_38.docx": [2911, 2911]}
+plei	{"Job_ch_9.docx": [702], "Job_ch_38.docx": [2911]}

@@ -1,0 +1,4 @@
+
+mayo	{"1 Kings_ch_16.docx": [1488], "2 Kings_ch_23.docx": [2158, 2158, 2158], "2 Chronicles_ch_18.docx": [4113, 4113, 4113], "2 Chronicles_ch_34.docx": [1350, 1350, 1350]}
+mayo	{"1 Kings_ch_16.docx": [1488], "2 Kings_ch_23.docx": [2158, 2158], "2 Chronicles_ch_18.docx": [4113, 4113], "2 Chronicles_ch_34.docx": [1350, 1350]}
+mayo	{"1 Kings_ch_16.docx": [1488], "2 Kings_ch_23.docx": [2158], "2 Chronicles_ch_18.docx": [4113], "2 Chronicles_ch_34.docx": [1350]}

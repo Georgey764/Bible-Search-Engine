@@ -1,0 +1,4 @@
+
+ulam	{"Genesis_ch_28.docx": [2724], "1 Chronicles_ch_8.docx": [2740, 2740, 2740]}
+ulam	{"Genesis_ch_28.docx": [2724], "1 Chronicles_ch_8.docx": [2740, 2740]}
+ulam	{"Genesis_ch_28.docx": [2724], "1 Chronicles_ch_8.docx": [2740]}

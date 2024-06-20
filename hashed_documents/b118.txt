@@ -1,0 +1,4 @@
+
+presse	{"Numbers_ch_18.docx": [5161], "1 Chronicles_ch_10.docx": [448, 448, 448], "Psalms_ch_32.docx": [328, 328, 328], "Jonah_ch_1.docx": [2001, 2001, 2001]}
+presse	{"Numbers_ch_18.docx": [5161], "1 Chronicles_ch_10.docx": [448, 448], "Psalms_ch_32.docx": [328, 328], "Jonah_ch_1.docx": [2001, 2001]}
+presse	{"Numbers_ch_18.docx": [5161], "1 Chronicles_ch_10.docx": [448], "Psalms_ch_32.docx": [328], "Jonah_ch_1.docx": [2001]}

@@ -1,0 +1,6 @@
+
+getth	{"Genesis_ch_36.docx": [3635], "2 Samuel_ch_4.docx": [419, 419, 419], "1 Chronicles_ch_1.docx": [3880, 3880, 3880]}
+getth	{"Genesis_ch_36.docx": [3635], "2 Samuel_ch_4.docx": [419, 419], "1 Chronicles_ch_1.docx": [3880, 3880]}
+3their	{"Numbers_ch_34.docx": [212], "Psalms_ch_36.docx": [233], "Isaiah_ch_3.docx": [413], "Isaiah_ch_34.docx": [317]}
+18‘by	{"Proverbs_ch_8.docx": [1505], "Ecclesiastes_ch_10.docx": [1966]}
+getth	{"Genesis_ch_36.docx": [3635], "2 Samuel_ch_4.docx": [419], "1 Chronicles_ch_1.docx": [3880]}

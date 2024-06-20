@@ -1,0 +1,4 @@
+
+kamo	{"Exodus_ch_4.docx": [2743], "1 Chronicles_ch_27.docx": [2240, 2240, 2240]}
+kamo	{"Exodus_ch_4.docx": [2743], "1 Chronicles_ch_27.docx": [2240, 2240]}
+kamo	{"Exodus_ch_4.docx": [2743], "1 Chronicles_ch_27.docx": [2240]}

@@ -1,0 +1,4 @@
+
+49‘you	{"Numbers_ch_1.docx": [4320], "Numbers_ch_31.docx": [5107]}
+26‘lo	{"Deuteronomy_ch_11.docx": [3686]}
+10‘ye	{"Job_ch_33.docx": [772], "Isaiah_ch_33.docx": [1451], "Hosea_ch_1.docx": [1558]}

@@ -1,0 +1,10 @@
+
+jagged	{"1 Samuel_ch_14.docx": [602]}
+gemmed	{"Psalms_ch_21.docx": [299]}
+rushin	{"Ezekiel_ch_1.docx": [3300]}
+jagged	{"1 Samuel_ch_14.docx": [602]}
+gemmed	{"Psalms_ch_21.docx": [299]}
+rushin	{"Ezekiel_ch_1.docx": [3300]}
+jagged	{"1 Samuel_ch_14.docx": [602]}
+gemmed	{"Psalms_ch_21.docx": [299]}
+rushin	{"Ezekiel_ch_1.docx": [3300]}

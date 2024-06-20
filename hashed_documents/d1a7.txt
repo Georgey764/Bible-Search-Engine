@@ -1,0 +1,4 @@
+
+deme	{"Acts_ch_19.docx": [6632, 11636, 11636]}
+30yo	{"Genesis_ch_30.docx": [3427], "Numbers_ch_35.docx": [3875], "Deuteronomy_ch_28.docx": [4017]}
+deme	{"Acts_ch_19.docx": [6632, 11636]}

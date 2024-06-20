@@ -1,0 +1,5 @@
+
+sapho	{"Genesis_ch_46.docx": [1861], "Numbers_ch_26.docx": [2587, 2592, 2587, 2592, 2587, 2592]}
+34als	{"Genesis_ch_41.docx": [4078], "Numbers_ch_10.docx": [3843], "Judges_ch_1.docx": [18721]}
+sapho	{"Genesis_ch_46.docx": [1861], "Numbers_ch_26.docx": [2587, 2592, 2587, 2592]}
+sapho	{"Genesis_ch_46.docx": [1861], "Numbers_ch_26.docx": [2587, 2592]}

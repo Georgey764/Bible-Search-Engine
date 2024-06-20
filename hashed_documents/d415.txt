@@ -1,0 +1,5 @@
+
+cultiv	{"Genesis_ch_2.docx": [821, 1992, 1992, 1992], "Deuteronomy_ch_28.docx": [5406, 5406, 5406], "Deuteronomy_ch_29.docx": [3214, 3214, 3214], "Isaiah_ch_7.docx": [3327, 3327, 3327], "Matthew_ch_21.docx": [4814, 5738, 4814, 5738, 4814, 5738], "Luke_ch_13.docx": [1145, 1145], "John_ch_15.docx": [45, 45], "Hebrews_ch_6.docx": [826, 826]}
+cultiv	{"Genesis_ch_2.docx": [821, 1992, 1992], "Deuteronomy_ch_28.docx": [5406, 5406], "Deuteronomy_ch_29.docx": [3214, 3214], "Isaiah_ch_7.docx": [3327, 3327], "Matthew_ch_21.docx": [4814, 5738, 4814, 5738], "Luke_ch_13.docx": [1145], "John_ch_15.docx": [45], "Hebrews_ch_6.docx": [826]}
+44yet	{"Psalms_ch_106.docx": [4064]}
+cultiv	{"Genesis_ch_2.docx": [821, 1992], "Deuteronomy_ch_28.docx": [5406], "Deuteronomy_ch_29.docx": [3214], "Isaiah_ch_7.docx": [3327], "Matthew_ch_21.docx": [4814, 5738], "Luke_ch_13.docx": [1145], "John_ch_15.docx": [45], "Hebrews_ch_6.docx": [826]}

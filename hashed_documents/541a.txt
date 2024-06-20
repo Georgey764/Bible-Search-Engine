@@ -1,0 +1,4 @@
+
+preva	{"1 Kings_ch_3.docx": [4610], "Isaiah_ch_25.docx": [1073, 1073, 1073], "Jeremiah_ch_20.docx": [2145, 2145, 2145], "1 Corinthians_ch_15.docx": [6583, 6583]}
+preva	{"1 Kings_ch_3.docx": [4610], "Isaiah_ch_25.docx": [1073, 1073], "Jeremiah_ch_20.docx": [2145, 2145], "1 Corinthians_ch_15.docx": [6583]}
+preva	{"1 Kings_ch_3.docx": [4610], "Isaiah_ch_25.docx": [1073], "Jeremiah_ch_20.docx": [2145], "1 Corinthians_ch_15.docx": [6583]}

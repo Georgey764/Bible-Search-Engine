@@ -1,0 +1,5 @@
+
+socho	{"1 Kings_ch_4.docx": [1022], "1 Chronicles_ch_4.docx": [2033, 2033, 2033], "2 Chronicles_ch_28.docx": [3256, 3256, 3256]}
+socho	{"1 Kings_ch_4.docx": [1022], "1 Chronicles_ch_4.docx": [2033, 2033], "2 Chronicles_ch_28.docx": [3256, 3256]}
+17go	{"Psalms_ch_103.docx": [1429], "Proverbs_ch_3.docx": [1531], "Proverbs_ch_19.docx": [1519]}
+socho	{"1 Kings_ch_4.docx": [1022], "1 Chronicles_ch_4.docx": [2033], "2 Chronicles_ch_28.docx": [3256]}

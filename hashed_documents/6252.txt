@@ -1,0 +1,4 @@
+
+calamu	{"Exodus_ch_30.docx": [3008], "Song of Solomon_ch_4.docx": [1987, 1987, 1987]}
+calamu	{"Exodus_ch_30.docx": [3008], "Song of Solomon_ch_4.docx": [1987, 1987]}
+calamu	{"Exodus_ch_30.docx": [3008], "Song of Solomon_ch_4.docx": [1987]}

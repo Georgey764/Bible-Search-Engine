@@ -1,0 +1,6 @@
+
+jarim	{"Joshua_ch_15.docx": [1397, 1415, 1415, 1415], "1 Chronicles_ch_12.docx": [694, 694, 694], "1 Chronicles_ch_24.docx": [2973, 2973, 2973]}
+21mi	{"Exodus_ch_15.docx": [2793]}
+jarim	{"Joshua_ch_15.docx": [1397, 1415, 1415], "1 Chronicles_ch_12.docx": [694, 694], "1 Chronicles_ch_24.docx": [2973, 2973]}
+33alt	{"Psalms_ch_107.docx": [2886]}
+jarim	{"Joshua_ch_15.docx": [1397, 1415], "1 Chronicles_ch_12.docx": [694], "1 Chronicles_ch_24.docx": [2973]}

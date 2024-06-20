@@ -1,0 +1,4 @@
+
+treatm	{"2 Kings_ch_9.docx": [2520], "Ezra_ch_4.docx": [2300, 2300, 2300], "Esther_ch_2.docx": [383, 1757, 2425, 2435, 383, 1757, 2425, 2435, 383, 1757, 2425, 2435], "Isaiah_ch_53.docx": [660, 660, 660], "Acts_ch_7.docx": [4680, 4680]}
+treatm	{"2 Kings_ch_9.docx": [2520], "Ezra_ch_4.docx": [2300, 2300], "Esther_ch_2.docx": [383, 1757, 2425, 2435, 383, 1757, 2425, 2435], "Isaiah_ch_53.docx": [660, 660], "Acts_ch_7.docx": [4680]}
+treatm	{"2 Kings_ch_9.docx": [2520], "Ezra_ch_4.docx": [2300], "Esther_ch_2.docx": [383, 1757, 2425, 2435], "Isaiah_ch_53.docx": [660], "Acts_ch_7.docx": [4680]}

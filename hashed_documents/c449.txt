@@ -1,0 +1,10 @@
+
+poles;	{"Exodus_ch_36.docx": [3913]}
+overse	{"Leviticus_ch_19.docx": [2664], "Numbers_ch_4.docx": [2216, 2216, 2216], "2 Kings_ch_11.docx": [3067, 3067, 3067], "2 Chronicles_ch_24.docx": [744, 744, 744], "2 Chronicles_ch_34.docx": [2142, 3032, 2142, 3032, 2142, 3032], "Ezra_ch_7.docx": [1813, 1813, 1813], "Nehemiah_ch_11.docx": [1479, 2165, 3781, 1479, 2165, 3781, 1479, 2165, 3781], "Nehemiah_ch_12.docx": [11663, 11663, 11663], "Isaiah_ch_60.docx": [2904, 2904, 2904], "Jeremiah_ch_35.docx": [355, 355, 355], "Acts_ch_20.docx": [8951, 8951], "Philippians_ch_1.docx": [28, 28], "Titus_ch_1.docx": [905, 905]}
+ailmen	{"Jeremiah_ch_30.docx": [2909], "Matthew_ch_4.docx": [2991, 2991, 2991]}
+poles;	{"Exodus_ch_36.docx": [3913]}
+overse	{"Leviticus_ch_19.docx": [2664], "Numbers_ch_4.docx": [2216, 2216], "2 Kings_ch_11.docx": [3067, 3067], "2 Chronicles_ch_24.docx": [744, 744], "2 Chronicles_ch_34.docx": [2142, 3032, 2142, 3032], "Ezra_ch_7.docx": [1813, 1813], "Nehemiah_ch_11.docx": [1479, 2165, 3781, 1479, 2165, 3781], "Nehemiah_ch_12.docx": [11663, 11663], "Isaiah_ch_60.docx": [2904, 2904], "Jeremiah_ch_35.docx": [355, 355], "Acts_ch_20.docx": [8951], "Philippians_ch_1.docx": [28], "Titus_ch_1.docx": [905]}
+ailmen	{"Jeremiah_ch_30.docx": [2909], "Matthew_ch_4.docx": [2991, 2991]}
+poles;	{"Exodus_ch_36.docx": [3913]}
+overse	{"Leviticus_ch_19.docx": [2664], "Numbers_ch_4.docx": [2216], "2 Kings_ch_11.docx": [3067], "2 Chronicles_ch_24.docx": [744], "2 Chronicles_ch_34.docx": [2142, 3032], "Ezra_ch_7.docx": [1813], "Nehemiah_ch_11.docx": [1479, 2165, 3781], "Nehemiah_ch_12.docx": [11663], "Isaiah_ch_60.docx": [2904], "Jeremiah_ch_35.docx": [355], "Acts_ch_20.docx": [8951], "Philippians_ch_1.docx": [28], "Titus_ch_1.docx": [905]}
+ailmen	{"Jeremiah_ch_30.docx": [2909], "Matthew_ch_4.docx": [2991]}

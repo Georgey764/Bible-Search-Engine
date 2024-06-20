@@ -1,0 +1,3 @@
+
+hois	{"Acts_ch_27.docx": [2332, 5385, 5385]}
+hois	{"Acts_ch_27.docx": [2332, 5385]}

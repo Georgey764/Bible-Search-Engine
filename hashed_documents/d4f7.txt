@@ -1,0 +1,5 @@
+
+capaci	{"1 Kings_ch_7.docx": [3597], "2 Kings_ch_10.docx": [4154, 4154, 4154], "2 Chronicles_ch_4.docx": [613, 613, 613]}
+capaci	{"1 Kings_ch_7.docx": [3597], "2 Kings_ch_10.docx": [4154, 4154], "2 Chronicles_ch_4.docx": [613, 613]}
+34‘h	{"Job_ch_41.docx": [3062], "Matthew_ch_5.docx": [4306]}
+capaci	{"1 Kings_ch_7.docx": [3597], "2 Kings_ch_10.docx": [4154], "2 Chronicles_ch_4.docx": [613]}

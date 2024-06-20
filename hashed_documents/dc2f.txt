@@ -1,0 +1,7 @@
+
+elio	{"1 Chronicles_ch_3.docx": [2127, 2167, 2167], "1 Chronicles_ch_7.docx": [1110, 1110, 1110], "1 Chronicles_ch_8.docx": [1355, 1355], "1 Chronicles_ch_12.docx": [682, 682], "1 Chronicles_ch_15.docx": [2303, 2303, 2303], "1 Chronicles_ch_26.docx": [329, 860, 329, 860, 329, 860], "Nehemiah_ch_12.docx": [11645, 11645, 11645]}
+mainla	{"Acts_ch_13.docx": [3051]}
+34amon	{"Numbers_ch_1.docx": [3096]}
+elio	{"1 Chronicles_ch_3.docx": [2127, 2167], "1 Chronicles_ch_7.docx": [1110, 1110], "1 Chronicles_ch_15.docx": [2303, 2303], "1 Chronicles_ch_26.docx": [329, 860, 329, 860], "Nehemiah_ch_12.docx": [11645, 11645], "1 Chronicles_ch_8.docx": [1355], "1 Chronicles_ch_12.docx": [682]}
+elio	{"1 Chronicles_ch_3.docx": [2127, 2167], "1 Chronicles_ch_7.docx": [1110], "1 Chronicles_ch_8.docx": [1355], "1 Chronicles_ch_12.docx": [682], "1 Chronicles_ch_15.docx": [2303], "1 Chronicles_ch_26.docx": [329, 860], "Nehemiah_ch_12.docx": [11645]}
+mainla	{"Acts_ch_13.docx": [3051]}

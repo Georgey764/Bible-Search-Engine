@@ -1,0 +1,6 @@
+
+enach	{"Numbers_ch_13.docx": [1841, 3041, 3041, 3041]}
+enach	{"Numbers_ch_13.docx": [1841, 3041, 3041]}
+13i’ve	{"Psalms_ch_31.docx": [1471]}
+19on	{"Psalms_ch_33.docx": [1563]}
+enach	{"Numbers_ch_13.docx": [1841, 3041]}

@@ -1,0 +1,5 @@
+
+manac	{"Genesis_ch_36.docx": [2605], "Jeremiah_ch_40.docx": [656, 656, 656]}
+manac	{"Genesis_ch_36.docx": [2605], "Jeremiah_ch_40.docx": [656, 656]}
+46‘an	{"Leviticus_ch_14.docx": [6854], "Numbers_ch_3.docx": [5610], "1 Kings_ch_8.docx": [7337], "Jeremiah_ch_51.docx": [7557]}
+manac	{"Genesis_ch_36.docx": [2605], "Jeremiah_ch_40.docx": [656]}

@@ -1,0 +1,4 @@
+
+braggi	{"2 Corinthians_ch_11.docx": [1731, 2509, 4315, 2509, 4315]}
+19well	{"Genesis_ch_2.docx": [2450], "Genesis_ch_22.docx": [2900], "Genesis_ch_39.docx": [2608], "Exodus_ch_5.docx": [2744], "1 Samuel_ch_3.docx": [2882], "1 Samuel_ch_8.docx": [2249], "1 Samuel_ch_13.docx": [3159], "1 Samuel_ch_18.docx": [2985], "2 Samuel_ch_2.docx": [2535], "2 Samuel_ch_12.docx": [3189], "2 Samuel_ch_18.docx": [3216], "1 Kings_ch_11.docx": [2606], "1 Kings_ch_20.docx": [3084], "2 Kings_ch_2.docx": [3110], "2 Kings_ch_12.docx": [3204], "2 Kings_ch_23.docx": [4618], "2 Chronicles_ch_13.docx": [3308], "2 Chronicles_ch_26.docx": [3048], "2 Chronicles_ch_34.docx": [3273], "Jeremiah_ch_3.docx": [3520], "Daniel_ch_3.docx": [3061], "Matthew_ch_2.docx": [2878]}
+braggi	{"2 Corinthians_ch_11.docx": [1731, 2509, 4315]}

@@ -1,0 +1,5 @@
+
+saves!	{"Psalms_ch_42.docx": [677], "2 Corinthians_ch_3.docx": [680, 680]}
+saves!	{"Psalms_ch_42.docx": [677], "2 Corinthians_ch_3.docx": [680]}
+6‘lik	{"Lamentations_ch_2.docx": [1160]}
+saves!	{"Psalms_ch_42.docx": [677], "2 Corinthians_ch_3.docx": [680]}

@@ -1,0 +1,5 @@
+
+arche	{"Genesis_ch_21.docx": [2452], "Genesis_ch_49.docx": [2755, 2755, 2755], "1 Kings_ch_7.docx": [348, 348, 348], "1 Chronicles_ch_10.docx": [458, 458, 458], "2 Chronicles_ch_18.docx": [5255, 5255, 5255], "Ezra_ch_4.docx": [1458, 1458, 1458], "Matthew_ch_2.docx": [3158, 3158, 3158]}
+arche	{"Genesis_ch_21.docx": [2452], "Genesis_ch_49.docx": [2755, 2755], "1 Kings_ch_7.docx": [348, 348], "1 Chronicles_ch_10.docx": [458, 458], "2 Chronicles_ch_18.docx": [5255, 5255], "Ezra_ch_4.docx": [1458, 1458], "Matthew_ch_2.docx": [3158, 3158]}
+23beca	{"Joshua_ch_9.docx": [11254]}
+arche	{"Genesis_ch_21.docx": [2452], "Genesis_ch_49.docx": [2755], "1 Kings_ch_7.docx": [348], "1 Chronicles_ch_10.docx": [458], "2 Chronicles_ch_18.docx": [5255], "Ezra_ch_4.docx": [1458], "Matthew_ch_2.docx": [3158]}

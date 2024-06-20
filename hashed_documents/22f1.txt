@@ -1,0 +1,5 @@
+
+atti	{"1 Samuel_ch_14.docx": [2167], "1 Peter_ch_3.docx": [990, 990]}
+13:1	{"Exodus_ch_12.docx": [7793], "1 Chronicles_ch_12.docx": [3075], "Matthew_ch_24.docx": [3361]}
+atti	{"1 Samuel_ch_14.docx": [2167], "1 Peter_ch_3.docx": [990]}
+atti	{"1 Samuel_ch_14.docx": [2167], "1 Peter_ch_3.docx": [990]}

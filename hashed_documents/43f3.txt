@@ -1,0 +1,4 @@
+
+osa	{"1 Kings_ch_16.docx": [1486], "1 Chronicles_ch_3.docx": [1581, 1581, 1581], "1 Chronicles_ch_4.docx": [327, 327, 327], "1 Chronicles_ch_16.docx": [3949, 3949, 3949], "1 Chronicles_ch_26.docx": [1075, 1351, 2006, 1075, 1351, 2006, 1075, 1351, 2006]}
+osa	{"1 Kings_ch_16.docx": [1486], "1 Chronicles_ch_3.docx": [1581, 1581], "1 Chronicles_ch_4.docx": [327, 327], "1 Chronicles_ch_16.docx": [3949, 3949], "1 Chronicles_ch_26.docx": [1075, 1351, 2006, 1075, 1351, 2006]}
+osa	{"1 Kings_ch_16.docx": [1486], "1 Chronicles_ch_3.docx": [1581], "1 Chronicles_ch_4.docx": [327], "1 Chronicles_ch_16.docx": [3949], "1 Chronicles_ch_26.docx": [1075, 1351, 2006]}

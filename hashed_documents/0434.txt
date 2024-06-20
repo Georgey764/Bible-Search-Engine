@@ -1,0 +1,4 @@
+
+molte	{"Ezekiel_ch_1.docx": [3691], "Ezekiel_ch_8.docx": [248, 248, 248]}
+molte	{"Ezekiel_ch_1.docx": [3691], "Ezekiel_ch_8.docx": [248, 248]}
+molte	{"Ezekiel_ch_1.docx": [3691], "Ezekiel_ch_8.docx": [248]}

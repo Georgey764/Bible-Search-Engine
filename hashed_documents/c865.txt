@@ -1,0 +1,5 @@
+
+crip	{"Leviticus_ch_21.docx": [2308], "Luke_ch_14.docx": [1607, 2759, 1607, 2759]}
+23‘you	{"Genesis_ch_49.docx": [2652], "Exodus_ch_25.docx": [2653], "Exodus_ch_30.docx": [2829], "2 Kings_ch_19.docx": [3831], "Ezekiel_ch_24.docx": [3359]}
+crip	{"Leviticus_ch_21.docx": [2308], "Luke_ch_14.docx": [1607, 2759]}
+crip	{"Leviticus_ch_21.docx": [2308], "Luke_ch_14.docx": [1607, 2759]}

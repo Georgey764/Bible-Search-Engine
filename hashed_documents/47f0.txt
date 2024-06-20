@@ -1,0 +1,5 @@
+
+ports	{"Judges_ch_5.docx": [2768]}
+ports	{"Judges_ch_5.docx": [2768]}
+14jeho	{"Psalms_ch_135.docx": [1128], "Isaiah_ch_3.docx": [2125]}
+ports	{"Judges_ch_5.docx": [2768]}

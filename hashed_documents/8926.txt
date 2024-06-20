@@ -1,0 +1,4 @@
+
+bery	{"Exodus_ch_28.docx": [2435], "Exodus_ch_39.docx": [1524, 1524, 1524], "Ezekiel_ch_28.docx": [1902, 1902, 1902], "Revelation_ch_21.docx": [3144, 3144]}
+bery	{"Exodus_ch_28.docx": [2435], "Exodus_ch_39.docx": [1524, 1524], "Ezekiel_ch_28.docx": [1902, 1902], "Revelation_ch_21.docx": [3144]}
+bery	{"Exodus_ch_28.docx": [2435], "Exodus_ch_39.docx": [1524], "Ezekiel_ch_28.docx": [1902], "Revelation_ch_21.docx": [3144]}

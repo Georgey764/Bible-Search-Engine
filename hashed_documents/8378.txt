@@ -1,0 +1,4 @@
+
+vinedr	{"2 Chronicles_ch_26.docx": [1443], "Isaiah_ch_61.docx": [1144, 1144, 1144], "Luke_ch_13.docx": [1043, 1043]}
+vinedr	{"2 Chronicles_ch_26.docx": [1443], "Isaiah_ch_61.docx": [1144, 1144], "Luke_ch_13.docx": [1043]}
+vinedr	{"2 Chronicles_ch_26.docx": [1443], "Isaiah_ch_61.docx": [1144], "Luke_ch_13.docx": [1043]}

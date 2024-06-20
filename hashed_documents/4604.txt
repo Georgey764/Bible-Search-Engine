@@ -1,0 +1,7 @@
+
+religi	{"Judges_ch_17.docx": [741], "Judges_ch_18.docx": [3651, 4081, 4629, 3651, 4081, 4629, 3651, 4081, 4629], "Matthew_ch_5.docx": [2475, 2475, 2475], "Matthew_ch_10.docx": [2012, 2012, 2012], "Mark_ch_13.docx": [1018, 1018], "Mark_ch_14.docx": [7047, 7047], "Mark_ch_15.docx": [18, 18], "Luke_ch_21.docx": [1562, 1562], "Acts_ch_25.docx": [5902, 5902]}
+care;	{"Proverbs_ch_10.docx": [2974]}
+religi	{"Judges_ch_17.docx": [741], "Judges_ch_18.docx": [3651, 4081, 4629, 3651, 4081, 4629], "Matthew_ch_5.docx": [2475, 2475], "Matthew_ch_10.docx": [2012, 2012], "Mark_ch_13.docx": [1018], "Mark_ch_14.docx": [7047], "Mark_ch_15.docx": [18], "Luke_ch_21.docx": [1562], "Acts_ch_25.docx": [5902]}
+care;	{"Proverbs_ch_10.docx": [2974]}
+religi	{"Judges_ch_17.docx": [741], "Judges_ch_18.docx": [3651, 4081, 4629], "Matthew_ch_5.docx": [2475], "Matthew_ch_10.docx": [2012], "Mark_ch_13.docx": [1018], "Mark_ch_14.docx": [7047], "Mark_ch_15.docx": [18], "Luke_ch_21.docx": [1562], "Acts_ch_25.docx": [5902]}
+care;	{"Proverbs_ch_10.docx": [2974]}

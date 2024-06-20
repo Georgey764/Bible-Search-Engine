@@ -1,0 +1,4 @@
+
+defini	{"Ruth_ch_2.docx": [2794], "Matthew_ch_26.docx": [3293, 3293], "Mark_ch_14.docx": [3375, 4110, 3375, 4110], "Luke_ch_22.docx": [1665, 1665], "1 Thessalonians_ch_4.docx": [1787, 1787], "1 Timothy_ch_4.docx": [8, 8]}
+defini	{"Ruth_ch_2.docx": [2794], "Matthew_ch_26.docx": [3293], "Mark_ch_14.docx": [3375, 4110], "Luke_ch_22.docx": [1665], "1 Thessalonians_ch_4.docx": [1787], "1 Timothy_ch_4.docx": [8]}
+defini	{"Ruth_ch_2.docx": [2794], "Matthew_ch_26.docx": [3293], "Mark_ch_14.docx": [3375, 4110], "Luke_ch_22.docx": [1665], "1 Thessalonians_ch_4.docx": [1787], "1 Timothy_ch_4.docx": [8]}

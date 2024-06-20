@@ -1,0 +1,4 @@
+
+paired	{"Judges_ch_15.docx": [499]}
+paired	{"Judges_ch_15.docx": [499]}
+paired	{"Judges_ch_15.docx": [499]}

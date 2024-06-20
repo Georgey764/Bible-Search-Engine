@@ -1,0 +1,4 @@
+
+gaps	{"Nehemiah_ch_4.docx": [1158], "Psalms_ch_62.docx": [381, 381, 381]}
+gaps	{"Nehemiah_ch_4.docx": [1158], "Psalms_ch_62.docx": [381, 381]}
+gaps	{"Nehemiah_ch_4.docx": [1158], "Psalms_ch_62.docx": [381]}

@@ -1,0 +1,4 @@
+
+warl	{"Exodus_ch_7.docx": [1345], "Esther_ch_9.docx": [1483, 1483, 1483]}
+warl	{"Exodus_ch_7.docx": [1345], "Esther_ch_9.docx": [1483, 1483]}
+warl	{"Exodus_ch_7.docx": [1345], "Esther_ch_9.docx": [1483]}

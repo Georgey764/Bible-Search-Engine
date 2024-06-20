@@ -1,0 +1,7 @@
+
+struct	{"Leviticus_ch_23.docx": [6050, 6065, 6081, 6065, 6081, 6065, 6081], "Deuteronomy_ch_31.docx": [1459, 1459, 1459], "1 Kings_ch_6.docx": [619, 619, 619], "2 Chronicles_ch_4.docx": [2147, 2147, 2147], "Job_ch_42.docx": [3847], "Mark_ch_9.docx": [564, 564], "Luke_ch_9.docx": [4615, 4615], "John_ch_7.docx": [450, 450]}
+hagaba	{"Ezra_ch_2.docx": [1760], "Nehemiah_ch_7.docx": [2845, 2845, 2845]}
+struct	{"Leviticus_ch_23.docx": [6050, 6065, 6081, 6065, 6081], "Deuteronomy_ch_31.docx": [1459, 1459], "1 Kings_ch_6.docx": [619, 619], "2 Chronicles_ch_4.docx": [2147, 2147], "Mark_ch_9.docx": [564], "Luke_ch_9.docx": [4615], "John_ch_7.docx": [450]}
+hagaba	{"Ezra_ch_2.docx": [1760], "Nehemiah_ch_7.docx": [2845, 2845]}
+struct	{"Leviticus_ch_23.docx": [6050, 6065, 6081], "Deuteronomy_ch_31.docx": [1459], "1 Kings_ch_6.docx": [619], "2 Chronicles_ch_4.docx": [2147], "Mark_ch_9.docx": [564], "Luke_ch_9.docx": [4615], "John_ch_7.docx": [450]}
+hagaba	{"Ezra_ch_2.docx": [1760], "Nehemiah_ch_7.docx": [2845]}

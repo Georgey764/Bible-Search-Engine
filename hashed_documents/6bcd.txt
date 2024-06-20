@@ -1,0 +1,5 @@
+
+pests	{"Ezekiel_ch_7.docx": [3528], "Ezekiel_ch_28.docx": [804, 804, 804], "Ezekiel_ch_32.docx": [1953, 1953, 1953]}
+7this	{"1 Kings_ch_7.docx": [751]}
+pests	{"Ezekiel_ch_7.docx": [3528], "Ezekiel_ch_28.docx": [804, 804], "Ezekiel_ch_32.docx": [1953, 1953]}
+pests	{"Ezekiel_ch_7.docx": [3528], "Ezekiel_ch_28.docx": [804], "Ezekiel_ch_32.docx": [1953]}

@@ -1,0 +1,2 @@
+
+7yo	{"Job_ch_10.docx": [630], "Psalms_ch_8.docx": [693], "Psalms_ch_71.docx": [726], "Psalms_ch_148.docx": [643], "Song of Solomon_ch_6.docx": [1009], "Isaiah_ch_1.docx": [1088], "Isaiah_ch_59.docx": [947]}

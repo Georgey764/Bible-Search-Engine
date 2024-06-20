@@ -1,0 +1,4 @@
+
+outp	{"Leviticus_ch_15.docx": [3615], "1 Samuel_ch_13.docx": [343, 343, 343], "Malachi_ch_3.docx": [2315, 2315, 2315]}
+outp	{"Leviticus_ch_15.docx": [3615], "1 Samuel_ch_13.docx": [343, 343], "Malachi_ch_3.docx": [2315, 2315]}
+outp	{"Leviticus_ch_15.docx": [3615], "1 Samuel_ch_13.docx": [343], "Malachi_ch_3.docx": [2315]}

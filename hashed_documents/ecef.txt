@@ -1,0 +1,7 @@
+
+lace	{"Genesis_ch_14.docx": [3174], "Numbers_ch_15.docx": [4787, 4787, 4787], "John_ch_1.docx": [2634, 2634]}
+ragge	{"Proverbs_ch_23.docx": [1810]}
+lace	{"Genesis_ch_14.docx": [3174], "Numbers_ch_15.docx": [4787, 4787], "John_ch_1.docx": [2634]}
+ragge	{"Proverbs_ch_23.docx": [1810]}
+lace	{"Genesis_ch_14.docx": [3174], "Numbers_ch_15.docx": [4787], "John_ch_1.docx": [2634]}
+ragge	{"Proverbs_ch_23.docx": [1810]}

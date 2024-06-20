@@ -1,0 +1,4 @@
+
+four-c	{"Exodus_ch_39.docx": [1051], "1 Kings_ch_7.docx": [346, 346, 346]}
+four-c	{"Exodus_ch_39.docx": [1051], "1 Kings_ch_7.docx": [346, 346]}
+four-c	{"Exodus_ch_39.docx": [1051], "1 Kings_ch_7.docx": [346]}

@@ -1,0 +1,7 @@
+
+remnan	{"2 Kings_ch_19.docx": [5494], "Isaiah_ch_11.docx": [1509, 1509, 1509], "Isaiah_ch_41.docx": [2294, 2294, 2294], "Isaiah_ch_60.docx": [3684, 3684, 3684], "Jeremiah_ch_42.docx": [2468, 2468, 2468], "Jeremiah_ch_44.docx": [2332, 2813, 6126, 2332, 2813, 6126, 2332, 2813, 6126], "Amos_ch_5.docx": [2899, 2899, 2899], "Micah_ch_2.docx": [2079, 2079, 2079], "Micah_ch_3.docx": [1640, 1640, 1640], "Micah_ch_5.docx": [1055, 2359, 1055, 2359, 1055, 2359], "Zephaniah_ch_2.docx": [1648, 1659, 1671, 3462, 1648, 1659, 1671, 3462, 1648, 1659, 1671, 3462]}
+fantas	{"Zechariah_ch_10.docx": [119]}
+remnan	{"2 Kings_ch_19.docx": [5494], "Isaiah_ch_11.docx": [1509, 1509], "Isaiah_ch_41.docx": [2294, 2294], "Isaiah_ch_60.docx": [3684, 3684], "Jeremiah_ch_42.docx": [2468, 2468], "Jeremiah_ch_44.docx": [2332, 2813, 6126, 2332, 2813, 6126], "Amos_ch_5.docx": [2899, 2899], "Micah_ch_2.docx": [2079, 2079], "Micah_ch_3.docx": [1640, 1640], "Micah_ch_5.docx": [1055, 2359, 1055, 2359], "Zephaniah_ch_2.docx": [1648, 1659, 1671, 3462, 1648, 1659, 1671, 3462]}
+fantas	{"Zechariah_ch_10.docx": [119]}
+remnan	{"2 Kings_ch_19.docx": [5494], "Isaiah_ch_11.docx": [1509], "Isaiah_ch_41.docx": [2294], "Isaiah_ch_60.docx": [3684], "Jeremiah_ch_42.docx": [2468], "Jeremiah_ch_44.docx": [2332, 2813, 6126], "Amos_ch_5.docx": [2899], "Micah_ch_2.docx": [2079], "Micah_ch_3.docx": [1640], "Micah_ch_5.docx": [1055, 2359], "Zephaniah_ch_2.docx": [1648, 1659, 1671, 3462]}
+fantas	{"Zechariah_ch_10.docx": [119]}

@@ -1,0 +1,7 @@
+
+long-	{"1 Samuel_ch_26.docx": [3348], "2 Samuel_ch_13.docx": [2652, 2652, 2652]}
+windy	{"Job_ch_16.docx": [170]}
+long-	{"1 Samuel_ch_26.docx": [3348], "2 Samuel_ch_13.docx": [2652, 2652]}
+windy	{"Job_ch_16.docx": [170]}
+long-	{"1 Samuel_ch_26.docx": [3348], "2 Samuel_ch_13.docx": [2652]}
+windy	{"Job_ch_16.docx": [170]}

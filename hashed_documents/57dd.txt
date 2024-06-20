@@ -1,0 +1,4 @@
+
+outpos	{"1 Samuel_ch_13.docx": [343]}
+outpos	{"1 Samuel_ch_13.docx": [343]}
+outpos	{"1 Samuel_ch_13.docx": [343]}

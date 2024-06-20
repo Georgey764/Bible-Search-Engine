@@ -1,0 +1,4 @@
+
+match	{"Luke_ch_5.docx": [6479]}
+135p	{"Psalms_ch_119.docx": [11289]}
+match	{"Luke_ch_5.docx": [6479]}

@@ -1,0 +1,6 @@
+
+wine)	{"Isaiah_ch_51.docx": [4029]}
+40w	{"Leviticus_ch_11.docx": [4556], "1 Kings_ch_11.docx": [6217], "Nehemiah_ch_12.docx": [7499], "Psalms_ch_105.docx": [3288]}
+13no	{"Psalms_ch_132.docx": [1151]}
+wine)	{"Isaiah_ch_51.docx": [4029]}
+wine)	{"Isaiah_ch_51.docx": [4029]}

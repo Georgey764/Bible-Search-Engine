@@ -1,0 +1,6 @@
+
+phacua	{"Joshua_ch_15.docx": [5764]}
+legion	{"Mark_ch_5.docx": [952, 1445, 1445], "Luke_ch_8.docx": [4664, 4664]}
+phacua	{"Joshua_ch_15.docx": [5764]}
+phacua	{"Joshua_ch_15.docx": [5764]}
+legion	{"Mark_ch_5.docx": [952, 1445], "Luke_ch_8.docx": [4664]}

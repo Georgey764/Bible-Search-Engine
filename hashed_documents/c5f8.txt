@@ -1,0 +1,4 @@
+
+boul	{"Deuteronomy_ch_32.docx": [1782], "Joshua_ch_10.docx": [7287, 7287, 7287], "1 Samuel_ch_20.docx": [3087, 3087, 3087], "2 Chronicles_ch_26.docx": [2119, 2119, 2119], "Proverbs_ch_26.docx": [2516, 2516, 2516], "Isaiah_ch_33.docx": [2507, 2507, 2507]}
+boul	{"Deuteronomy_ch_32.docx": [1782], "Joshua_ch_10.docx": [7287, 7287], "1 Samuel_ch_20.docx": [3087, 3087], "2 Chronicles_ch_26.docx": [2119, 2119], "Proverbs_ch_26.docx": [2516, 2516], "Isaiah_ch_33.docx": [2507, 2507]}
+boul	{"Deuteronomy_ch_32.docx": [1782], "Joshua_ch_10.docx": [7287], "1 Samuel_ch_20.docx": [3087], "2 Chronicles_ch_26.docx": [2119], "Proverbs_ch_26.docx": [2516], "Isaiah_ch_33.docx": [2507]}

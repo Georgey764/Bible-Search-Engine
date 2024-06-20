@@ -1,0 +1,5 @@
+
+lists	{"Numbers_ch_7.docx": [1430], "Numbers_ch_32.docx": [4713, 4713, 4713], "Joshua_ch_12.docx": [11, 11, 11], "1 Chronicles_ch_11.docx": [4971, 4971, 4971], "1 Chronicles_ch_12.docx": [3068, 3068, 3068]}
+lists	{"Numbers_ch_7.docx": [1430], "Numbers_ch_32.docx": [4713, 4713], "Joshua_ch_12.docx": [11, 11], "1 Chronicles_ch_11.docx": [4971, 4971], "1 Chronicles_ch_12.docx": [3068, 3068]}
+6si	{"Psalms_ch_23.docx": [498], "Ezekiel_ch_20.docx": [867], "Joel_ch_1.docx": [759]}
+lists	{"Numbers_ch_7.docx": [1430], "Numbers_ch_32.docx": [4713], "Joshua_ch_12.docx": [11], "1 Chronicles_ch_11.docx": [4971], "1 Chronicles_ch_12.docx": [3068]}

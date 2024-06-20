@@ -1,0 +1,4 @@
+
+rattle	{"Job_ch_4.docx": [1313], "Psalms_ch_114.docx": [613, 613, 613], "Jeremiah_ch_23.docx": [1625, 1625, 1625], "Hebrews_ch_12.docx": [4698, 4698]}
+rattle	{"Job_ch_4.docx": [1313], "Psalms_ch_114.docx": [613, 613], "Jeremiah_ch_23.docx": [1625, 1625], "Hebrews_ch_12.docx": [4698]}
+rattle	{"Job_ch_4.docx": [1313], "Psalms_ch_114.docx": [613], "Jeremiah_ch_23.docx": [1625], "Hebrews_ch_12.docx": [4698]}

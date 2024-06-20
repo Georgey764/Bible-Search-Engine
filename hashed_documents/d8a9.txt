@@ -1,0 +1,5 @@
+
+yester	{"Genesis_ch_31.docx": [3605], "Exodus_ch_2.docx": [1921, 1921, 1921], "Exodus_ch_5.docx": [2125, 2125, 2125], "2 Kings_ch_9.docx": [5182, 5182, 5182], "Psalms_ch_90.docx": [384, 384, 384], "John_ch_4.docx": [6758, 6758], "Acts_ch_7.docx": [3865, 3865]}
+9tha	{"Genesis_ch_11.docx": [1016], "Numbers_ch_18.docx": [1432], "Deuteronomy_ch_11.docx": [1120], "1 Kings_ch_15.docx": [1086], "1 Kings_ch_16.docx": [1252], "2 Chronicles_ch_2.docx": [1539], "Job_ch_27.docx": [709]}
+yester	{"Genesis_ch_31.docx": [3605], "Exodus_ch_2.docx": [1921, 1921], "Exodus_ch_5.docx": [2125, 2125], "2 Kings_ch_9.docx": [5182, 5182], "Psalms_ch_90.docx": [384, 384], "John_ch_4.docx": [6758], "Acts_ch_7.docx": [3865]}
+yester	{"Genesis_ch_31.docx": [3605], "Exodus_ch_2.docx": [1921], "Exodus_ch_5.docx": [2125], "2 Kings_ch_9.docx": [5182], "Psalms_ch_90.docx": [384], "John_ch_4.docx": [6758], "Acts_ch_7.docx": [3865]}

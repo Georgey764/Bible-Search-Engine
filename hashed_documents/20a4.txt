@@ -1,0 +1,4 @@
+
+apheka	{"1 Kings_ch_20.docx": [4384, 5098, 5098, 5098]}
+apheka	{"1 Kings_ch_20.docx": [4384, 5098, 5098]}
+apheka	{"1 Kings_ch_20.docx": [4384, 5098]}

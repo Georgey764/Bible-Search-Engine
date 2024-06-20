@@ -1,0 +1,4 @@
+
+piled	{"Leviticus_ch_6.docx": [1482], "Joshua_ch_8.docx": [3350, 3350, 3350], "1 Kings_ch_18.docx": [5405, 5405, 5405], "2 Chronicles_ch_31.docx": [1235, 1235, 1235], "Job_ch_15.docx": [615, 615, 615], "Psalms_ch_104.docx": [660, 660, 660], "Song of Solomon_ch_2.docx": [1710, 1710, 1710], "Micah_ch_4.docx": [2722, 2722, 2722], "Revelation_ch_18.docx": [780, 780]}
+piled	{"Leviticus_ch_6.docx": [1482], "Joshua_ch_8.docx": [3350, 3350], "1 Kings_ch_18.docx": [5405, 5405], "2 Chronicles_ch_31.docx": [1235, 1235], "Job_ch_15.docx": [615, 615], "Psalms_ch_104.docx": [660, 660], "Song of Solomon_ch_2.docx": [1710, 1710], "Micah_ch_4.docx": [2722, 2722], "Revelation_ch_18.docx": [780]}
+piled	{"Leviticus_ch_6.docx": [1482], "Joshua_ch_8.docx": [3350], "1 Kings_ch_18.docx": [5405], "2 Chronicles_ch_31.docx": [1235], "Job_ch_15.docx": [615], "Psalms_ch_104.docx": [660], "Song of Solomon_ch_2.docx": [1710], "Micah_ch_4.docx": [2722], "Revelation_ch_18.docx": [780]}

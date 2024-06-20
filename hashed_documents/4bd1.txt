@@ -1,0 +1,4 @@
+
+worry!	{"1 Kings_ch_20.docx": [1269], "Acts_ch_20.docx": [3102, 3102]}
+worry!	{"1 Kings_ch_20.docx": [1269], "Acts_ch_20.docx": [3102]}
+worry!	{"1 Kings_ch_20.docx": [1269], "Acts_ch_20.docx": [3102]}

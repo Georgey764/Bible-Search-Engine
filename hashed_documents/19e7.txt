@@ -1,0 +1,5 @@
+
+bevera	{"Leviticus_ch_11.docx": [3850]}
+bevera	{"Leviticus_ch_11.docx": [3850]}
+11rat	{"Deuteronomy_ch_11.docx": [1395]}
+bevera	{"Leviticus_ch_11.docx": [3850]}

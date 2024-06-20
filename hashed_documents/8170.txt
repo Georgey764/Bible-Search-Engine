@@ -1,0 +1,4 @@
+
+unimpo	{"Numbers_ch_16.docx": [1141], "1 Chronicles_ch_17.docx": [2458, 2458, 2458], "Isaiah_ch_7.docx": [1758, 1758, 1758], "Acts_ch_19.docx": [8190, 8190]}
+unimpo	{"Numbers_ch_16.docx": [1141], "1 Chronicles_ch_17.docx": [2458, 2458], "Isaiah_ch_7.docx": [1758, 1758], "Acts_ch_19.docx": [8190]}
+unimpo	{"Numbers_ch_16.docx": [1141], "1 Chronicles_ch_17.docx": [2458], "Isaiah_ch_7.docx": [1758], "Acts_ch_19.docx": [8190]}

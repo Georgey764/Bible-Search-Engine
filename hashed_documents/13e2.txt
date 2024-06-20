@@ -1,0 +1,6 @@
+
+pave	{"2 Chronicles_ch_7.docx": [241], "Ecclesiastes_ch_10.docx": [1078, 1078, 1078], "John_ch_19.docx": [1671, 1671], "Revelation_ch_21.docx": [3297, 3297]}
+pave	{"2 Chronicles_ch_7.docx": [241], "Ecclesiastes_ch_10.docx": [1078, 1078], "John_ch_19.docx": [1671], "Revelation_ch_21.docx": [3297]}
+28[go	{"Psalms_ch_105.docx": [2293]}
+45h	{"Psalms_ch_106.docx": [4154], "Matthew_ch_12.docx": [5622]}
+pave	{"2 Chronicles_ch_7.docx": [241], "Ecclesiastes_ch_10.docx": [1078], "John_ch_19.docx": [1671], "Revelation_ch_21.docx": [3297]}

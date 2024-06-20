@@ -1,0 +1,6 @@
+
+ending	{"Joshua_ch_16.docx": [689], "2 Chronicles_ch_16.docx": [2012, 2012, 2012], "Job_ch_42.docx": [2593], "Isaiah_ch_38.docx": [1690, 1690, 1690], "Ezekiel_ch_13.docx": [3798, 3798, 3798]}
+elye	{"2 Samuel_ch_23.docx": [4955]}
+ending	{"Joshua_ch_16.docx": [689], "2 Chronicles_ch_16.docx": [2012, 2012], "Isaiah_ch_38.docx": [1690, 1690], "Ezekiel_ch_13.docx": [3798, 3798]}
+ending	{"Joshua_ch_16.docx": [689], "2 Chronicles_ch_16.docx": [2012], "Isaiah_ch_38.docx": [1690], "Ezekiel_ch_13.docx": [3798]}
+elye	{"2 Samuel_ch_23.docx": [4955]}

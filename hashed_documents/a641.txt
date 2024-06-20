@@ -1,0 +1,4 @@
+
+hospi	{"2 Chronicles_ch_22.docx": [817, 1385, 1385, 1385], "Acts_ch_10.docx": [2823, 2823], "Acts_ch_21.docx": [5047, 5074, 5102, 5047, 5074, 5102], "Romans_ch_12.docx": [1600, 1600], "1 Timothy_ch_5.docx": [1170, 1170], "Titus_ch_1.docx": [1063, 1063], "1 Peter_ch_4.docx": [1221, 1221]}
+hospi	{"2 Chronicles_ch_22.docx": [817, 1385, 1385], "Acts_ch_10.docx": [2823], "Acts_ch_21.docx": [5047, 5074, 5102], "Romans_ch_12.docx": [1600], "1 Timothy_ch_5.docx": [1170], "Titus_ch_1.docx": [1063], "1 Peter_ch_4.docx": [1221]}
+hospi	{"2 Chronicles_ch_22.docx": [817, 1385], "Acts_ch_10.docx": [2823], "Acts_ch_21.docx": [5047, 5074, 5102], "Romans_ch_12.docx": [1600], "1 Timothy_ch_5.docx": [1170], "Titus_ch_1.docx": [1063], "1 Peter_ch_4.docx": [1221]}

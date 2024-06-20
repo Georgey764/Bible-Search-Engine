@@ -1,0 +1,4 @@
+
+15josh	{"Joshua_ch_9.docx": [8829]}
+41ho	{"2 Kings_ch_4.docx": [6450], "2 Kings_ch_17.docx": [7267]}
+12‘ba	{"Psalms_ch_40.docx": [1481]}

@@ -1,0 +1,5 @@
+
+tishbi	{"1 Kings_ch_17.docx": [10], "1 Kings_ch_18.docx": [4374, 4374, 4374], "1 Kings_ch_21.docx": [2396, 4401, 2396, 4401, 2396, 4401], "2 Kings_ch_1.docx": [386, 1554, 386, 1554, 386, 1554], "2 Kings_ch_9.docx": [6971, 6971, 6971]}
+tishbi	{"1 Kings_ch_17.docx": [10], "1 Kings_ch_18.docx": [4374, 4374], "1 Kings_ch_21.docx": [2396, 4401, 2396, 4401], "2 Kings_ch_1.docx": [386, 1554, 386, 1554], "2 Kings_ch_9.docx": [6971, 6971]}
+9‘hav	{"Jeremiah_ch_44.docx": [1690]}
+tishbi	{"1 Kings_ch_17.docx": [10], "1 Kings_ch_18.docx": [4374], "1 Kings_ch_21.docx": [2396, 4401], "2 Kings_ch_1.docx": [386, 1554], "2 Kings_ch_9.docx": [6971]}

@@ -1,0 +1,3 @@
+
+36‘s	{"Leviticus_ch_11.docx": [4210], "1 Samuel_ch_2.docx": [6672], "1 Samuel_ch_17.docx": [5233], "2 Samuel_ch_19.docx": [5891], "Job_ch_34.docx": [3398], "Psalms_ch_89.docx": [3437], "Jeremiah_ch_48.docx": [4825], "Daniel_ch_2.docx": [6247], "Matthew_ch_12.docx": [4335], "Matthew_ch_21.docx": [5220]}
+63[	{"Jeremiah_ch_51.docx": [10507]}

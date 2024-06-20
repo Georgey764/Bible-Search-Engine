@@ -1,0 +1,2 @@
+
+9‘you	{"Exodus_ch_20.docx": [808], "Exodus_ch_23.docx": [918], "Exodus_ch_27.docx": [865], "Exodus_ch_30.docx": [974], "Leviticus_ch_18.docx": [944], "Numbers_ch_3.docx": [1051], "Deuteronomy_ch_5.docx": [925], "Deuteronomy_ch_14.docx": [966], "Deuteronomy_ch_22.docx": [1334], "Isaiah_ch_30.docx": [1379], "Matthew_ch_10.docx": [1021]}

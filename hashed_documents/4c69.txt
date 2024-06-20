@@ -1,0 +1,7 @@
+
+ebro	{"Numbers_ch_33.docx": [2517, 2560, 2560, 2560]}
+berit	{"Judges_ch_9.docx": [865, 8536, 9172, 8536, 9172, 8536, 9172]}
+ebro	{"Numbers_ch_33.docx": [2517, 2560, 2560]}
+berit	{"Judges_ch_9.docx": [865, 8536, 9172, 8536, 9172]}
+ebro	{"Numbers_ch_33.docx": [2517, 2560]}
+berit	{"Judges_ch_9.docx": [865, 8536, 9172]}

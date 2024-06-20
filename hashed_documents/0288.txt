@@ -1,0 +1,5 @@
+
+shreds	{"2 Kings_ch_7.docx": [2930], "2 Chronicles_ch_25.docx": [1769, 1769, 1769], "Psalms_ch_35.docx": [1022, 1022, 1022], "Psalms_ch_55.docx": [2147, 2147, 2147]}
+125c	{"Exodus_ch_25.docx": [1755]}
+shreds	{"2 Kings_ch_7.docx": [2930], "2 Chronicles_ch_25.docx": [1769, 1769], "Psalms_ch_35.docx": [1022, 1022], "Psalms_ch_55.docx": [2147, 2147]}
+shreds	{"2 Kings_ch_7.docx": [2930], "2 Chronicles_ch_25.docx": [1769], "Psalms_ch_35.docx": [1022], "Psalms_ch_55.docx": [2147]}

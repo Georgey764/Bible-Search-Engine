@@ -1,0 +1,4 @@
+
+defec	{"Leviticus_ch_1.docx": [400], "Numbers_ch_19.docx": [158, 158, 158], "2 Chronicles_ch_29.docx": [3099, 3099, 3099], "2 Chronicles_ch_33.docx": [3127, 3127, 3127], "Ezra_ch_4.docx": [3229, 3229, 3229], "Job_ch_26.docx": [1197, 1197, 1197], "Jeremiah_ch_2.docx": [657, 657, 657], "Revelation_ch_14.docx": [582, 582]}
+defec	{"Leviticus_ch_1.docx": [400], "Numbers_ch_19.docx": [158, 158], "2 Chronicles_ch_29.docx": [3099, 3099], "2 Chronicles_ch_33.docx": [3127, 3127], "Ezra_ch_4.docx": [3229, 3229], "Job_ch_26.docx": [1197, 1197], "Jeremiah_ch_2.docx": [657, 657], "Revelation_ch_14.docx": [582]}
+defec	{"Leviticus_ch_1.docx": [400], "Numbers_ch_19.docx": [158], "2 Chronicles_ch_29.docx": [3099], "2 Chronicles_ch_33.docx": [3127], "Ezra_ch_4.docx": [3229], "Job_ch_26.docx": [1197], "Jeremiah_ch_2.docx": [657], "Revelation_ch_14.docx": [582]}

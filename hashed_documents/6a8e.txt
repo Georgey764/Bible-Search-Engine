@@ -1,0 +1,3 @@
+
+3-d	{"Genesis_ch_30.docx": [4253], "Exodus_ch_3.docx": [3298], "Exodus_ch_5.docx": [439], "1 Samuel_ch_30.docx": [18]}
+37‘i’	{"Ezekiel_ch_20.docx": [6486]}

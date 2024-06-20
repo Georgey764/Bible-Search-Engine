@@ -1,0 +1,4 @@
+
+28lame	{"Genesis_ch_5.docx": [2019]}
+32,	{"Numbers_ch_1.docx": [3089], "Numbers_ch_2.docx": [1934], "Numbers_ch_26.docx": [4184], "Numbers_ch_31.docx": [4014], "1 Chronicles_ch_19.docx": [1065, 1093]}
+10le	{"Psalms_ch_109.docx": [773]}

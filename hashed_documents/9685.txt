@@ -1,0 +1,4 @@
+
+flawle	{"2 Samuel_ch_22.docx": [2943], "Psalms_ch_15.docx": [121, 121, 121], "Psalms_ch_18.docx": [2311, 2906, 3145, 2311, 2906, 3145, 2311, 2906, 3145], "Psalms_ch_37.docx": [1631, 1631, 1631]}
+flawle	{"2 Samuel_ch_22.docx": [2943], "Psalms_ch_15.docx": [121, 121], "Psalms_ch_18.docx": [2311, 2906, 3145, 2311, 2906, 3145], "Psalms_ch_37.docx": [1631, 1631]}
+flawle	{"2 Samuel_ch_22.docx": [2943], "Psalms_ch_15.docx": [121], "Psalms_ch_18.docx": [2311, 2906, 3145], "Psalms_ch_37.docx": [1631]}

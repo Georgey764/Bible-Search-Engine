@@ -1,0 +1,4 @@
+
+bills	{"Deuteronomy_ch_14.docx": [1535], "Job_ch_31.docx": [3284, 3284, 3284]}
+bills	{"Deuteronomy_ch_14.docx": [1535], "Job_ch_31.docx": [3284, 3284]}
+bills	{"Deuteronomy_ch_14.docx": [1535], "Job_ch_31.docx": [3284]}

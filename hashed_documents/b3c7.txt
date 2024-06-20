@@ -1,0 +1,3 @@
+
+4whi	{"Genesis_ch_4.docx": [317], "Numbers_ch_23.docx": [360], "Job_ch_14.docx": [296], "Proverbs_ch_13.docx": [386], "Ezekiel_ch_28.docx": [478], "Hosea_ch_11.docx": [488], "Matthew_ch_25.docx": [53]}
+67plus	{"Nehemiah_ch_7.docx": [4208]}

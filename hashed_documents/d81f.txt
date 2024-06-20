@@ -1,0 +1,3 @@
+
+3al	{"1 Samuel_ch_14.docx": [381], "1 Samuel_ch_18.docx": [476], "Psalms_ch_65.docx": [228], "Jeremiah_ch_1.docx": [255]}
+345	{"Ezra_ch_2.docx": [1354], "Nehemiah_ch_7.docx": [2319]}

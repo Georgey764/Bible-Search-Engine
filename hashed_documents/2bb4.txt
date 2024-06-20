@@ -1,0 +1,4 @@
+
+midst;	{"Ezekiel_ch_14.docx": [3083], "Ezekiel_ch_26.docx": [2588, 2588, 2588]}
+midst;	{"Ezekiel_ch_14.docx": [3083], "Ezekiel_ch_26.docx": [2588, 2588]}
+midst;	{"Ezekiel_ch_14.docx": [3083], "Ezekiel_ch_26.docx": [2588]}

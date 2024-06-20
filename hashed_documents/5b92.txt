@@ -1,0 +1,4 @@
+
+14‘and	{"Exodus_ch_13.docx": [2008], "Leviticus_ch_2.docx": [1829], "Leviticus_ch_15.docx": [1918], "Leviticus_ch_16.docx": [2036], "Numbers_ch_9.docx": [1817], "Numbers_ch_18.docx": [2444], "Deuteronomy_ch_4.docx": [2295], "Deuteronomy_ch_17.docx": [2193], "Deuteronomy_ch_27.docx": [1929], "Joshua_ch_23.docx": [1946], "Judges_ch_9.docx": [3188], "1 Kings_ch_3.docx": [2351], "Ezra_ch_7.docx": [1800], "Song of Solomon_ch_5.docx": [2374], "Isaiah_ch_29.docx": [2396], "Isaiah_ch_30.docx": [2238], "Ezekiel_ch_33.docx": [2855], "Hosea_ch_2.docx": [2448], "Amos_ch_8.docx": [2266], "Matthew_ch_13.docx": [1449]}
+5don	{"Psalms_ch_75.docx": [543], "Psalms_ch_105.docx": [326]}
+12‘me	{"Ezekiel_ch_27.docx": [1580]}

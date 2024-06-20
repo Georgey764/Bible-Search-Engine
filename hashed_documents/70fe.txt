@@ -1,0 +1,4 @@
+
+negl	{"Leviticus_ch_26.docx": [5263, 5936, 5936, 5936], "Ecclesiastes_ch_10.docx": [1969, 1969, 1969], "Jeremiah_ch_4.docx": [3129, 3129, 3129], "Hebrews_ch_2.docx": [181, 181]}
+negl	{"Leviticus_ch_26.docx": [5263, 5936, 5936], "Ecclesiastes_ch_10.docx": [1969, 1969], "Jeremiah_ch_4.docx": [3129, 3129], "Hebrews_ch_2.docx": [181]}
+negl	{"Leviticus_ch_26.docx": [5263, 5936], "Ecclesiastes_ch_10.docx": [1969], "Jeremiah_ch_4.docx": [3129], "Hebrews_ch_2.docx": [181]}

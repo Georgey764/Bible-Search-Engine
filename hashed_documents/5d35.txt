@@ -1,0 +1,4 @@
+
+dor	{"Joshua_ch_17.docx": [1845], "1 Chronicles_ch_7.docx": [3659, 3659, 3659], "Acts_ch_9.docx": [6097, 6821, 6097, 6821]}
+dor	{"Joshua_ch_17.docx": [1845], "1 Chronicles_ch_7.docx": [3659, 3659], "Acts_ch_9.docx": [6097, 6821]}
+dor	{"Joshua_ch_17.docx": [1845], "1 Chronicles_ch_7.docx": [3659], "Acts_ch_9.docx": [6097, 6821]}

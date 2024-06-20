@@ -1,0 +1,7 @@
+
+joking	{"Genesis_ch_19.docx": [2273], "Jeremiah_ch_4.docx": [1847, 1847, 1847], "Mark_ch_15.docx": [3211, 3211], "Acts_ch_17.docx": [6436, 6436]}
+sweete	{"Judges_ch_14.docx": [3238], "Psalms_ch_19.docx": [1203, 1203, 1203], "Psalms_ch_55.docx": [1341, 1341, 1341]}
+joking	{"Genesis_ch_19.docx": [2273], "Jeremiah_ch_4.docx": [1847, 1847], "Mark_ch_15.docx": [3211], "Acts_ch_17.docx": [6436]}
+sweete	{"Judges_ch_14.docx": [3238], "Psalms_ch_19.docx": [1203, 1203], "Psalms_ch_55.docx": [1341, 1341]}
+joking	{"Genesis_ch_19.docx": [2273], "Jeremiah_ch_4.docx": [1847], "Mark_ch_15.docx": [3211], "Acts_ch_17.docx": [6436]}
+sweete	{"Judges_ch_14.docx": [3238], "Psalms_ch_19.docx": [1203], "Psalms_ch_55.docx": [1341]}

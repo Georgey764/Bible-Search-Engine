@@ -1,0 +1,5 @@
+
+plowe	{"1 Samuel_ch_22.docx": [790], "Jeremiah_ch_26.docx": [3179, 3179, 3179], "Micah_ch_3.docx": [2123, 2123, 2123]}
+30‘{l	{"Deuteronomy_ch_11.docx": [4252], "Job_ch_36.docx": [3138], "Jeremiah_ch_44.docx": [6475]}
+plowe	{"1 Samuel_ch_22.docx": [790], "Jeremiah_ch_26.docx": [3179, 3179], "Micah_ch_3.docx": [2123, 2123]}
+plowe	{"1 Samuel_ch_22.docx": [790], "Jeremiah_ch_26.docx": [3179], "Micah_ch_3.docx": [2123]}

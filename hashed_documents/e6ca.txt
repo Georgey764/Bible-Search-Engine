@@ -1,0 +1,4 @@
+
+tanis	{"Numbers_ch_13.docx": [1849], "Psalms_ch_78.docx": [1273, 4270, 1273, 4270, 1273, 4270], "Isaiah_ch_19.docx": [1503, 1774, 1503, 1774, 1503, 1774], "Isaiah_ch_30.docx": [518, 518, 518], "Ezekiel_ch_30.docx": [2018, 2018, 2018]}
+tanis	{"Numbers_ch_13.docx": [1849], "Psalms_ch_78.docx": [1273, 4270, 1273, 4270], "Isaiah_ch_19.docx": [1503, 1774, 1503, 1774], "Isaiah_ch_30.docx": [518, 518], "Ezekiel_ch_30.docx": [2018, 2018]}
+tanis	{"Numbers_ch_13.docx": [1849], "Psalms_ch_78.docx": [1273, 4270], "Isaiah_ch_19.docx": [1503, 1774], "Isaiah_ch_30.docx": [518], "Ezekiel_ch_30.docx": [2018]}

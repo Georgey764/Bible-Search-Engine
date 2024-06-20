@@ -1,0 +1,2 @@
+
+18‘h	{"Deuteronomy_ch_31.docx": [3026], "1 Kings_ch_19.docx": [3290], "2 Kings_ch_5.docx": [3338], "Job_ch_12.docx": [1671], "Job_ch_22.docx": [1589], "Job_ch_41.docx": [1611], "Isaiah_ch_44.docx": [2920], "Matthew_ch_15.docx": [1867]}

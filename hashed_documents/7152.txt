@@ -1,0 +1,5 @@
+
+dreami	{"Isaiah_ch_29.docx": [1322], "Isaiah_ch_56.docx": [1865, 1865, 1865], "Jeremiah_ch_23.docx": [5032, 5032, 5032]}
+12i’ve	{"Job_ch_23.docx": [1022], "Psalms_ch_31.docx": [1378], "Proverbs_ch_26.docx": [1027]}
+dreami	{"Isaiah_ch_29.docx": [1322], "Isaiah_ch_56.docx": [1865, 1865], "Jeremiah_ch_23.docx": [5032, 5032]}
+dreami	{"Isaiah_ch_29.docx": [1322], "Isaiah_ch_56.docx": [1865], "Jeremiah_ch_23.docx": [5032]}

@@ -1,0 +1,4 @@
+
+thomas	{"Matthew_ch_10.docx": [428], "Mark_ch_3.docx": [2191, 2191], "Luke_ch_6.docx": [1875, 1875], "John_ch_11.docx": [1755, 1755], "John_ch_14.docx": [443, 443], "John_ch_20.docx": [2973, 3290, 3500, 3656, 2973, 3290, 3500, 3656], "Acts_ch_1.docx": [3094, 3094]}
+thomas	{"Matthew_ch_10.docx": [428], "Mark_ch_3.docx": [2191], "Luke_ch_6.docx": [1875], "John_ch_11.docx": [1755], "John_ch_14.docx": [443], "John_ch_20.docx": [2973, 3290, 3500, 3656], "Acts_ch_1.docx": [3094]}
+thomas	{"Matthew_ch_10.docx": [428], "Mark_ch_3.docx": [2191], "Luke_ch_6.docx": [1875], "John_ch_11.docx": [1755], "John_ch_14.docx": [443], "John_ch_20.docx": [2973, 3290, 3500, 3656], "Acts_ch_1.docx": [3094]}

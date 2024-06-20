@@ -1,0 +1,8 @@
+
+camp;	{"Judges_ch_7.docx": [3352], "Zechariah_ch_8.docx": [269, 269, 269]}
+fast-r	{"Job_ch_28.docx": [352]}
+camp;	{"Judges_ch_7.docx": [3352], "Zechariah_ch_8.docx": [269, 269]}
+fast-r	{"Job_ch_28.docx": [352]}
+24‘ca	{"Isaiah_ch_49.docx": [5212]}
+camp;	{"Judges_ch_7.docx": [3352], "Zechariah_ch_8.docx": [269]}
+fast-r	{"Job_ch_28.docx": [352]}

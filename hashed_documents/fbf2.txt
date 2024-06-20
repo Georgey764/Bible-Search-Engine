@@ -1,0 +1,9 @@
+
+poste	{"1 Kings_ch_7.docx": [3292], "1 Chronicles_ch_26.docx": [2155, 2155, 2155], "Nehemiah_ch_4.docx": [1398, 1925, 3574, 1398, 1925, 3574, 1398, 1925, 3574], "Ezekiel_ch_16.docx": [3825, 3825, 3825], "Acts_ch_5.docx": [3313, 3313], "Acts_ch_12.docx": [884, 884], "2 Corinthians_ch_11.docx": [4567, 4567]}
+rainb	{"Ezekiel_ch_1.docx": [3719], "Revelation_ch_4.docx": [396, 396], "Revelation_ch_10.docx": [30, 30]}
+2thes	{"Numbers_ch_3.docx": [123], "1 Kings_ch_4.docx": [13], "Amos_ch_7.docx": [33], "Matthew_ch_10.docx": [196]}
+poste	{"1 Kings_ch_7.docx": [3292], "1 Chronicles_ch_26.docx": [2155, 2155], "Nehemiah_ch_4.docx": [1398, 1925, 3574, 1398, 1925, 3574], "Ezekiel_ch_16.docx": [3825, 3825], "Acts_ch_5.docx": [3313], "Acts_ch_12.docx": [884], "2 Corinthians_ch_11.docx": [4567]}
+22unl	{"Proverbs_ch_5.docx": [1902]}
+rainb	{"Ezekiel_ch_1.docx": [3719], "Revelation_ch_4.docx": [396], "Revelation_ch_10.docx": [30]}
+poste	{"1 Kings_ch_7.docx": [3292], "1 Chronicles_ch_26.docx": [2155], "Nehemiah_ch_4.docx": [1398, 1925, 3574], "Ezekiel_ch_16.docx": [3825], "Acts_ch_5.docx": [3313], "Acts_ch_12.docx": [884], "2 Corinthians_ch_11.docx": [4567]}
+rainb	{"Ezekiel_ch_1.docx": [3719], "Revelation_ch_4.docx": [396], "Revelation_ch_10.docx": [30]}

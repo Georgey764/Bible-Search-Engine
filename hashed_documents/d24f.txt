@@ -1,0 +1,4 @@
+
+lehabi	{"Genesis_ch_10.docx": [1643], "1 Chronicles_ch_1.docx": [980, 980, 980]}
+lehabi	{"Genesis_ch_10.docx": [1643], "1 Chronicles_ch_1.docx": [980, 980]}
+lehabi	{"Genesis_ch_10.docx": [1643], "1 Chronicles_ch_1.docx": [980]}

@@ -1,0 +1,4 @@
+
+house;	{"Genesis_ch_44.docx": [4409], "Exodus_ch_12.docx": [1772, 1772, 1772], "Exodus_ch_22.docx": [1163, 1163, 1163], "Proverbs_ch_7.docx": [718, 718, 718], "Ezekiel_ch_3.docx": [4088, 4088, 4088]}
+house;	{"Genesis_ch_44.docx": [4409], "Exodus_ch_12.docx": [1772, 1772], "Exodus_ch_22.docx": [1163, 1163], "Proverbs_ch_7.docx": [718, 718], "Ezekiel_ch_3.docx": [4088, 4088]}
+house;	{"Genesis_ch_44.docx": [4409], "Exodus_ch_12.docx": [1772], "Exodus_ch_22.docx": [1163], "Proverbs_ch_7.docx": [718], "Ezekiel_ch_3.docx": [4088]}

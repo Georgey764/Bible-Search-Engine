@@ -1,0 +1,5 @@
+
+seed-	{"Genesis_ch_1.docx": [4967, 5058, 5058, 5058], "Acts_ch_17.docx": [3779, 3779]}
+seed-	{"Genesis_ch_1.docx": [4967, 5058, 5058], "Acts_ch_17.docx": [3779]}
+56w	{"Genesis_ch_41.docx": [7423]}
+seed-	{"Genesis_ch_1.docx": [4967, 5058], "Acts_ch_17.docx": [3779]}

@@ -1,0 +1,5 @@
+
+sewed	{"Genesis_ch_3.docx": [994], "Exodus_ch_28.docx": [3433, 3433, 3433], "Exodus_ch_39.docx": [2452, 2452, 2452], "Job_ch_16.docx": [1474, 1474, 1474]}
+sewed	{"Genesis_ch_3.docx": [994], "Exodus_ch_28.docx": [3433, 3433], "Exodus_ch_39.docx": [2452, 2452], "Job_ch_16.docx": [1474, 1474]}
+21est	{"Esther_ch_9.docx": [2165]}
+sewed	{"Genesis_ch_3.docx": [994], "Exodus_ch_28.docx": [3433], "Exodus_ch_39.docx": [2452], "Job_ch_16.docx": [1474]}

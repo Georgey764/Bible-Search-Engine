@@ -1,0 +1,6 @@
+
+chemo	{"Numbers_ch_21.docx": [4113], "Judges_ch_11.docx": [5281, 5281, 5281], "2 Kings_ch_23.docx": [3256, 3256, 3256], "Jeremiah_ch_48.docx": [1828, 6437, 1828, 6437, 1828, 6437]}
+papho	{"Acts_ch_13.docx": [1932, 3048, 3048]}
+chemo	{"Numbers_ch_21.docx": [4113], "Judges_ch_11.docx": [5281, 5281], "2 Kings_ch_23.docx": [3256, 3256], "Jeremiah_ch_48.docx": [1828, 6437, 1828, 6437]}
+chemo	{"Numbers_ch_21.docx": [4113], "Judges_ch_11.docx": [5281], "2 Kings_ch_23.docx": [3256], "Jeremiah_ch_48.docx": [1828, 6437]}
+papho	{"Acts_ch_13.docx": [1932, 3048]}

@@ -1,0 +1,4 @@
+
+tent-d	{"Judges_ch_5.docx": [3547], "Psalms_ch_83.docx": [526, 526, 526]}
+tent-d	{"Judges_ch_5.docx": [3547], "Psalms_ch_83.docx": [526, 526]}
+tent-d	{"Judges_ch_5.docx": [3547], "Psalms_ch_83.docx": [526]}

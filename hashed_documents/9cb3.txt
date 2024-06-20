@@ -1,0 +1,6 @@
+
+solv	{"Judges_ch_14.docx": [2283], "2 Samuel_ch_20.docx": [3375, 3375, 3375]}
+solv	{"Judges_ch_14.docx": [2283], "2 Samuel_ch_20.docx": [3375, 3375]}
+23(th	{"1 Kings_ch_16.docx": [3538]}
+12‘wo	{"Ecclesiastes_ch_10.docx": [1221], "Habakkuk_ch_2.docx": [2038]}
+solv	{"Judges_ch_14.docx": [2283], "2 Samuel_ch_20.docx": [3375]}

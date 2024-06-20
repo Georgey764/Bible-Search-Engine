@@ -1,0 +1,10 @@
+
+gettha	{"Genesis_ch_36.docx": [3635], "2 Samuel_ch_4.docx": [419, 419, 419], "1 Chronicles_ch_1.docx": [3880, 3880, 3880]}
+you'r	{"Genesis_ch_49.docx": [3548]}
+verifi	{"Romans_ch_15.docx": [1027]}
+gettha	{"Genesis_ch_36.docx": [3635], "2 Samuel_ch_4.docx": [419, 419], "1 Chronicles_ch_1.docx": [3880, 3880]}
+you'r	{"Genesis_ch_49.docx": [3548]}
+25‘ev	{"Job_ch_30.docx": [2451]}
+gettha	{"Genesis_ch_36.docx": [3635], "2 Samuel_ch_4.docx": [419], "1 Chronicles_ch_1.docx": [3880]}
+you'r	{"Genesis_ch_49.docx": [3548]}
+verifi	{"Romans_ch_15.docx": [1027]}

@@ -1,0 +1,5 @@
+
+ishsaa	{"Genesis_ch_46.docx": [2927], "Exodus_ch_6.docx": [2389, 2732, 2389, 2732, 2389, 2732]}
+ishsaa	{"Genesis_ch_46.docx": [2927], "Exodus_ch_6.docx": [2389, 2732, 2389, 2732]}
+6‘eve	{"Deuteronomy_ch_13.docx": [903]}
+ishsaa	{"Genesis_ch_46.docx": [2927], "Exodus_ch_6.docx": [2389, 2732]}

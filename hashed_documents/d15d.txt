@@ -1,0 +1,5 @@
+
+racetr	{"Genesis_ch_48.docx": [972, 1153, 1153, 1153]}
+racetr	{"Genesis_ch_48.docx": [972, 1153, 1153]}
+9‘ma	{"Job_ch_35.docx": [675]}
+racetr	{"Genesis_ch_48.docx": [972, 1153]}

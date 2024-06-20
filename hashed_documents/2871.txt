@@ -1,0 +1,4 @@
+
+sneeri	{"Nehemiah_ch_4.docx": [780, 796, 796, 796], "Jeremiah_ch_20.docx": [1278, 1278, 1278], "Ezekiel_ch_8.docx": [3124, 3124, 3124]}
+sneeri	{"Nehemiah_ch_4.docx": [780, 796, 796], "Jeremiah_ch_20.docx": [1278, 1278], "Ezekiel_ch_8.docx": [3124, 3124]}
+sneeri	{"Nehemiah_ch_4.docx": [780, 796], "Jeremiah_ch_20.docx": [1278], "Ezekiel_ch_8.docx": [3124]}

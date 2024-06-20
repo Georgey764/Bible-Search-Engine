@@ -1,0 +1,4 @@
+
+flouri	{"Ezekiel_ch_17.docx": [4724], "Mark_ch_4.docx": [823, 823]}
+flouri	{"Ezekiel_ch_17.docx": [4724], "Mark_ch_4.docx": [823]}
+flouri	{"Ezekiel_ch_17.docx": [4724], "Mark_ch_4.docx": [823]}

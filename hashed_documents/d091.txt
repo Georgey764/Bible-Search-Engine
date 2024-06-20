@@ -1,0 +1,7 @@
+
+plou	{"1 Kings_ch_19.docx": [3452]}
+aramai	{"2 Kings_ch_18.docx": [4388], "Luke_ch_1.docx": [3800, 3800], "Acts_ch_13.docx": [2117, 2117], "Acts_ch_22.docx": [120, 120], "Acts_ch_26.docx": [2908, 2908], "Revelation_ch_9.docx": [1427, 1427]}
+plou	{"1 Kings_ch_19.docx": [3452]}
+aramai	{"2 Kings_ch_18.docx": [4388], "Luke_ch_1.docx": [3800], "Acts_ch_13.docx": [2117], "Acts_ch_22.docx": [120], "Acts_ch_26.docx": [2908], "Revelation_ch_9.docx": [1427]}
+plou	{"1 Kings_ch_19.docx": [3452]}
+aramai	{"2 Kings_ch_18.docx": [4388], "Luke_ch_1.docx": [3800], "Acts_ch_13.docx": [2117], "Acts_ch_22.docx": [120], "Acts_ch_26.docx": [2908], "Revelation_ch_9.docx": [1427]}

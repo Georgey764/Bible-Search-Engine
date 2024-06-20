@@ -1,0 +1,4 @@
+
+seboi	{"Genesis_ch_10.docx": [2152], "Genesis_ch_14.docx": [309, 1053, 309, 1053, 309, 1053], "Deuteronomy_ch_29.docx": [3231, 3231, 3231]}
+seboi	{"Genesis_ch_10.docx": [2152], "Genesis_ch_14.docx": [309, 1053, 309, 1053], "Deuteronomy_ch_29.docx": [3231, 3231]}
+seboi	{"Genesis_ch_10.docx": [2152], "Genesis_ch_14.docx": [309, 1053], "Deuteronomy_ch_29.docx": [3231]}

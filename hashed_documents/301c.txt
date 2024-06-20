@@ -1,0 +1,4 @@
+
+nanny	{"Genesis_ch_15.docx": [1125], "Genesis_ch_30.docx": [4227, 4227, 4227], "Genesis_ch_31.docx": [1028, 1483, 5203, 1028, 1483, 5203, 1028, 1483, 5203], "Genesis_ch_32.docx": [1895, 1895, 1895], "Numbers_ch_15.docx": [3415, 3415, 3415]}
+nanny	{"Genesis_ch_15.docx": [1125], "Genesis_ch_30.docx": [4227, 4227], "Genesis_ch_31.docx": [1028, 1483, 5203, 1028, 1483, 5203], "Genesis_ch_32.docx": [1895, 1895], "Numbers_ch_15.docx": [3415, 3415]}
+nanny	{"Genesis_ch_15.docx": [1125], "Genesis_ch_30.docx": [4227], "Genesis_ch_31.docx": [1028, 1483, 5203], "Genesis_ch_32.docx": [1895], "Numbers_ch_15.docx": [3415]}

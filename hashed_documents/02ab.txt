@@ -1,0 +1,8 @@
+
+taa	{"Genesis_ch_22.docx": [3539], "Genesis_ch_46.docx": [2572, 2572, 2572]}
+dagger	{"Judges_ch_3.docx": [7653, 8384, 8418, 8384, 8418, 8384, 8418], "2 Samuel_ch_5.docx": [1116, 1116, 1116], "Isaiah_ch_31.docx": [1597, 1597, 1597], "Acts_ch_21.docx": [10901, 10901]}
+taa	{"Genesis_ch_22.docx": [3539], "Genesis_ch_46.docx": [2572, 2572]}
+18[is	{"Genesis_ch_25.docx": [1758]}
+dagger	{"Judges_ch_3.docx": [7653, 8384, 8418, 8384, 8418], "2 Samuel_ch_5.docx": [1116, 1116], "Isaiah_ch_31.docx": [1597, 1597], "Acts_ch_21.docx": [10901]}
+taa	{"Genesis_ch_22.docx": [3539], "Genesis_ch_46.docx": [2572]}
+dagger	{"Judges_ch_3.docx": [7653, 8384, 8418], "2 Samuel_ch_5.docx": [1116], "Isaiah_ch_31.docx": [1597], "Acts_ch_21.docx": [10901]}

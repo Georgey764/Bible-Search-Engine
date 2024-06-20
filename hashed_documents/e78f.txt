@@ -1,0 +1,4 @@
+
+spank	{"2 Samuel_ch_7.docx": [2079], "Proverbs_ch_13.docx": [2509, 2509, 2509], "Proverbs_ch_22.docx": [1579, 1579, 1579], "Proverbs_ch_23.docx": [1121, 1168, 1121, 1168, 1121, 1168], "Proverbs_ch_29.docx": [1321, 1321], "Jeremiah_ch_2.docx": [5184, 5184, 5184], "Hebrews_ch_12.docx": [1166, 1166]}
+spank	{"2 Samuel_ch_7.docx": [2079], "Proverbs_ch_13.docx": [2509, 2509], "Proverbs_ch_22.docx": [1579, 1579], "Proverbs_ch_23.docx": [1121, 1168, 1121, 1168], "Jeremiah_ch_2.docx": [5184, 5184], "Proverbs_ch_29.docx": [1321], "Hebrews_ch_12.docx": [1166]}
+spank	{"2 Samuel_ch_7.docx": [2079], "Proverbs_ch_13.docx": [2509], "Proverbs_ch_22.docx": [1579], "Proverbs_ch_23.docx": [1121, 1168], "Proverbs_ch_29.docx": [1321], "Jeremiah_ch_2.docx": [5184], "Hebrews_ch_12.docx": [1166]}

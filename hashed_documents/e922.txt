@@ -1,0 +1,5 @@
+
+chaos	{"Psalms_ch_94.docx": [1755], "Micah_ch_1.docx": [2547, 2547, 2547]}
+6up	{"Job_ch_38.docx": [520]}
+chaos	{"Psalms_ch_94.docx": [1755], "Micah_ch_1.docx": [2547, 2547]}
+chaos	{"Psalms_ch_94.docx": [1755], "Micah_ch_1.docx": [2547]}

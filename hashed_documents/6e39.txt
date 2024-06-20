@@ -1,0 +1,4 @@
+
+pegs	{"Exodus_ch_38.docx": [2358, 3985, 4015, 3985, 4015, 3985, 4015], "Isaiah_ch_54.docx": [416, 416, 416]}
+pegs	{"Exodus_ch_38.docx": [2358, 3985, 4015, 3985, 4015], "Isaiah_ch_54.docx": [416, 416]}
+pegs	{"Exodus_ch_38.docx": [2358, 3985, 4015], "Isaiah_ch_54.docx": [416]}

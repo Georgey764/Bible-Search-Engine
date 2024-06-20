@@ -1,0 +1,5 @@
+
+shaph	{"1 Chronicles_ch_4.docx": [2699]}
+26‘i	{"Exodus_ch_21.docx": [3097], "Leviticus_ch_26.docx": [3341], "Numbers_ch_31.docx": [3114], "Deuteronomy_ch_9.docx": [4217], "Job_ch_33.docx": [2629], "Ecclesiastes_ch_7.docx": [2910], "Isaiah_ch_44.docx": [4540], "Jeremiah_ch_22.docx": [4439], "Ezekiel_ch_30.docx": [3978], "Ezekiel_ch_39.docx": [4586], "Matthew_ch_5.docx": [3199], "Matthew_ch_25.docx": [2944]}
+shaph	{"1 Chronicles_ch_4.docx": [2699]}
+ shaph	{"1 Chronicles_ch_4.docx": [2699]}

@@ -1,0 +1,4 @@
+
+short,	{"2 Corinthians_ch_4.docx": [2632, 2642, 2642]}
+23kn	{"Proverbs_ch_27.docx": [2167]}
+short,	{"2 Corinthians_ch_4.docx": [2632, 2642]}

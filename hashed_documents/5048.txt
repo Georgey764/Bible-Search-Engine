@@ -1,0 +1,6 @@
+
+whips	{"1 Kings_ch_12.docx": [1644, 2098, 2098, 2098], "2 Chronicles_ch_10.docx": [1515, 1953, 1515, 1953, 1515, 1953], "Psalms_ch_35.docx": [1567, 1567, 1567], "Psalms_ch_38.docx": [1432, 1432, 1432], "Psalms_ch_125.docx": [365, 365, 365], "Proverbs_ch_3.docx": [1114, 1114, 1114], "Proverbs_ch_19.docx": [2830, 2830], "Jeremiah_ch_6.docx": [1118, 1118, 1118], "Nahum_ch_1.docx": [2419, 2419, 2419], "Mark_ch_12.docx": [610, 610]}
+kernel	{"John_ch_12.docx": [3257, 3270, 3270]}
+whips	{"1 Kings_ch_12.docx": [1644, 2098, 2098], "2 Chronicles_ch_10.docx": [1515, 1953, 1515, 1953], "Psalms_ch_35.docx": [1567, 1567], "Psalms_ch_38.docx": [1432, 1432], "Psalms_ch_125.docx": [365, 365], "Proverbs_ch_3.docx": [1114, 1114], "Jeremiah_ch_6.docx": [1118, 1118], "Nahum_ch_1.docx": [2419, 2419], "Proverbs_ch_19.docx": [2830], "Mark_ch_12.docx": [610]}
+whips	{"1 Kings_ch_12.docx": [1644, 2098], "2 Chronicles_ch_10.docx": [1515, 1953], "Psalms_ch_35.docx": [1567], "Psalms_ch_38.docx": [1432], "Psalms_ch_125.docx": [365], "Proverbs_ch_3.docx": [1114], "Proverbs_ch_19.docx": [2830], "Jeremiah_ch_6.docx": [1118], "Nahum_ch_1.docx": [2419], "Mark_ch_12.docx": [610]}
+kernel	{"John_ch_12.docx": [3257, 3270]}

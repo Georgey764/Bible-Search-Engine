@@ -1,0 +1,4 @@
+
+pashur	{"Ezra_ch_2.docx": [1481], "Nehemiah_ch_7.docx": [2518, 2518, 2518], "Nehemiah_ch_10.docx": [165, 165], "Nehemiah_ch_11.docx": [1857, 1857, 1857], "Jeremiah_ch_20.docx": [6, 299, 397, 6, 299, 397, 6, 299, 397], "Jeremiah_ch_21.docx": [20, 20, 20], "Jeremiah_ch_38.docx": [12, 18, 12, 18, 12, 18]}
+pashur	{"Ezra_ch_2.docx": [1481], "Nehemiah_ch_7.docx": [2518, 2518], "Nehemiah_ch_11.docx": [1857, 1857], "Jeremiah_ch_20.docx": [6, 299, 397, 6, 299, 397], "Jeremiah_ch_21.docx": [20, 20], "Jeremiah_ch_38.docx": [12, 18, 12, 18], "Nehemiah_ch_10.docx": [165]}
+pashur	{"Ezra_ch_2.docx": [1481], "Nehemiah_ch_7.docx": [2518], "Nehemiah_ch_10.docx": [165], "Nehemiah_ch_11.docx": [1857], "Jeremiah_ch_20.docx": [6, 299, 397], "Jeremiah_ch_21.docx": [20], "Jeremiah_ch_38.docx": [12, 18]}

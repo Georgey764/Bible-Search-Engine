@@ -1,0 +1,4 @@
+
+thaph	{"Joshua_ch_17.docx": [1115, 1123, 1123, 1123], "1 Chronicles_ch_2.docx": [3903, 3903, 3903]}
+thaph	{"Joshua_ch_17.docx": [1115, 1123, 1123], "1 Chronicles_ch_2.docx": [3903, 3903]}
+thaph	{"Joshua_ch_17.docx": [1115, 1123], "1 Chronicles_ch_2.docx": [3903]}

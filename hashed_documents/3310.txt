@@ -1,0 +1,4 @@
+
+news!	{"2 Samuel_ch_18.docx": [4465, 4539, 4539, 4539], "1 Kings_ch_1.docx": [6067, 6067, 6067], "2 Kings_ch_7.docx": [1673, 1673, 1673], "1 Corinthians_ch_9.docx": [2084, 2084]}
+news!	{"2 Samuel_ch_18.docx": [4465, 4539, 4539], "1 Kings_ch_1.docx": [6067, 6067], "2 Kings_ch_7.docx": [1673, 1673], "1 Corinthians_ch_9.docx": [2084]}
+news!	{"2 Samuel_ch_18.docx": [4465, 4539], "1 Kings_ch_1.docx": [6067], "2 Kings_ch_7.docx": [1673], "1 Corinthians_ch_9.docx": [2084]}

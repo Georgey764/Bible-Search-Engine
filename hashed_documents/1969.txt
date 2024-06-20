@@ -1,0 +1,4 @@
+
+hevite	{"Genesis_ch_10.docx": [1974], "Genesis_ch_15.docx": [2686, 2686, 2686]}
+hevite	{"Genesis_ch_10.docx": [1974], "Genesis_ch_15.docx": [2686, 2686]}
+hevite	{"Genesis_ch_10.docx": [1974], "Genesis_ch_15.docx": [2686]}

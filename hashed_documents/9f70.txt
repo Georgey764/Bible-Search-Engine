@@ -1,0 +1,4 @@
+
+meats	{"Leviticus_ch_7.docx": [1950, 2333, 2630, 3017, 2333, 2630, 3017, 2333, 2630, 3017], "Jeremiah_ch_7.docx": [3407, 3407, 3407], "Zechariah_ch_11.docx": [3138, 3138, 3138]}
+meats	{"Leviticus_ch_7.docx": [1950, 2333, 2630, 3017, 2333, 2630, 3017], "Jeremiah_ch_7.docx": [3407, 3407], "Zechariah_ch_11.docx": [3138, 3138]}
+meats	{"Leviticus_ch_7.docx": [1950, 2333, 2630, 3017], "Jeremiah_ch_7.docx": [3407], "Zechariah_ch_11.docx": [3138]}

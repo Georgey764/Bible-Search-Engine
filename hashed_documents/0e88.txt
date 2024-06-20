@@ -1,0 +1,3 @@
+
+12‘fo	{"Deuteronomy_ch_16.docx": [1925], "Deuteronomy_ch_17.docx": [1866], "Deuteronomy_ch_18.docx": [1572], "1 Samuel_ch_3.docx": [1757], "Job_ch_20.docx": [1046], "Isaiah_ch_22.docx": [1631], "Isaiah_ch_42.docx": [1670], "Isaiah_ch_44.docx": [1909], "Isaiah_ch_52.docx": [1993], "Isaiah_ch_53.docx": [2019], "Ezekiel_ch_23.docx": [1767], "Amos_ch_5.docx": [2292], "Micah_ch_1.docx": [4159], "Matthew_ch_5.docx": [969], "Matthew_ch_11.docx": [1446]}
+14i’	{"2 Samuel_ch_7.docx": [1922], "1 Chronicles_ch_17.docx": [1947], "Psalms_ch_31.docx": [1594], "Psalms_ch_116.docx": [1122], "Psalms_ch_119.docx": [964], "Jeremiah_ch_7.docx": [2037], "Ezekiel_ch_29.docx": [2410], "Ezekiel_ch_37.docx": [2090], "Daniel_ch_5.docx": [2600]}

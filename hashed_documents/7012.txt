@@ -1,0 +1,4 @@
+
+rocks;	{"Deuteronomy_ch_21.docx": [2922], "Matthew_ch_13.docx": [2570, 2570, 2570]}
+rocks;	{"Deuteronomy_ch_21.docx": [2922], "Matthew_ch_13.docx": [2570, 2570]}
+rocks;	{"Deuteronomy_ch_21.docx": [2922], "Matthew_ch_13.docx": [2570]}

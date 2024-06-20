@@ -1,0 +1,3 @@
+
+20amo	{"Numbers_ch_1.docx": [1885]}
+1,24	{"Ezra_ch_2.docx": [1479], "Nehemiah_ch_7.docx": [2520]}

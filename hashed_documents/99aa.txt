@@ -1,0 +1,5 @@
+
+unqual	{"Zechariah_ch_11.docx": [2834], "Titus_ch_1.docx": [2154, 2154]}
+2bec	{"Genesis_ch_12.docx": [71], "Psalms_ch_10.docx": [103], "Psalms_ch_46.docx": [160]}
+unqual	{"Zechariah_ch_11.docx": [2834], "Titus_ch_1.docx": [2154]}
+unqual	{"Zechariah_ch_11.docx": [2834], "Titus_ch_1.docx": [2154]}

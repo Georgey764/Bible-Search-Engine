@@ -1,0 +1,4 @@
+
+quak	{"Job_ch_41.docx": [2583], "Psalms_ch_104.docx": [747, 747, 747]}
+quak	{"Job_ch_41.docx": [2583], "Psalms_ch_104.docx": [747, 747]}
+quak	{"Job_ch_41.docx": [2583], "Psalms_ch_104.docx": [747]}

@@ -1,0 +1,4 @@
+
+abuse	{"Judges_ch_19.docx": [4263], "Judges_ch_20.docx": [583, 583, 583], "Job_ch_21.docx": [164, 164, 164], "Psalms_ch_55.docx": [2450, 2450, 2450], "Ezekiel_ch_28.docx": [4440, 4440, 4440], "Matthew_ch_22.docx": [576, 576, 576], "Acts_ch_7.docx": [3093, 3093]}
+abuse	{"Judges_ch_19.docx": [4263], "Judges_ch_20.docx": [583, 583], "Job_ch_21.docx": [164, 164], "Psalms_ch_55.docx": [2450, 2450], "Ezekiel_ch_28.docx": [4440, 4440], "Matthew_ch_22.docx": [576, 576], "Acts_ch_7.docx": [3093]}
+abuse	{"Judges_ch_19.docx": [4263], "Judges_ch_20.docx": [583], "Job_ch_21.docx": [164], "Psalms_ch_55.docx": [2450], "Ezekiel_ch_28.docx": [4440], "Matthew_ch_22.docx": [576], "Acts_ch_7.docx": [3093]}

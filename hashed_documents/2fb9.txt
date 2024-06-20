@@ -1,0 +1,7 @@
+
+membra	{"Leviticus_ch_3.docx": [637, 1475, 2092, 1475, 2092, 1475, 2092], "Leviticus_ch_4.docx": [1258, 1258, 1258], "Leviticus_ch_9.docx": [2360, 2360, 2360], "Joshua_ch_15.docx": [4672, 4672, 4672]}
+soften	{"Job_ch_23.docx": [1389], "Isaiah_ch_5.docx": [4088, 4088, 4088]}
+membra	{"Leviticus_ch_3.docx": [637, 1475, 2092, 1475, 2092], "Leviticus_ch_4.docx": [1258, 1258], "Leviticus_ch_9.docx": [2360, 2360], "Joshua_ch_15.docx": [4672, 4672]}
+soften	{"Job_ch_23.docx": [1389], "Isaiah_ch_5.docx": [4088, 4088]}
+membra	{"Leviticus_ch_3.docx": [637, 1475, 2092], "Leviticus_ch_4.docx": [1258], "Leviticus_ch_9.docx": [2360], "Joshua_ch_15.docx": [4672]}
+soften	{"Job_ch_23.docx": [1389], "Isaiah_ch_5.docx": [4088]}

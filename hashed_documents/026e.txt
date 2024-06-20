@@ -1,0 +1,3 @@
+
+1‘be	{"Deuteronomy_ch_14.docx": [6], "Isaiah_ch_46.docx": [6], "Matthew_ch_6.docx": [6]}
+4don	{"Psalms_ch_53.docx": [506], "Psalms_ch_141.docx": [283], "Proverbs_ch_26.docx": [305]}

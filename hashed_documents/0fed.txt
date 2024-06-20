@@ -1,0 +1,6 @@
+
+hivit	{"Genesis_ch_36.docx": [217], "1 Kings_ch_9.docx": [3166, 3166, 3166], "2 Kings_ch_17.docx": [5690, 5690, 5690], "1 Chronicles_ch_1.docx": [1209, 1209, 1209], "2 Chronicles_ch_8.docx": [662, 662, 662], "Isaiah_ch_17.docx": [1312, 1312, 1312]}
+demetr	{"Acts_ch_19.docx": [6632, 11636, 11636]}
+hivit	{"Genesis_ch_36.docx": [217], "1 Kings_ch_9.docx": [3166, 3166], "2 Kings_ch_17.docx": [5690, 5690], "1 Chronicles_ch_1.docx": [1209, 1209], "2 Chronicles_ch_8.docx": [662, 662], "Isaiah_ch_17.docx": [1312, 1312]}
+hivit	{"Genesis_ch_36.docx": [217], "1 Kings_ch_9.docx": [3166], "2 Kings_ch_17.docx": [5690], "1 Chronicles_ch_1.docx": [1209], "2 Chronicles_ch_8.docx": [662], "Isaiah_ch_17.docx": [1312]}
+demetr	{"Acts_ch_19.docx": [6632, 11636]}

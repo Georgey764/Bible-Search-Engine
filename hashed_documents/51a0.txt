@@ -1,0 +1,4 @@
+
+lion’	{"Judges_ch_14.docx": [1524], "Job_ch_4.docx": [942, 942, 942], "Proverbs_ch_19.docx": [1043, 1043, 1043], "Proverbs_ch_20.docx": [542, 542, 542], "Daniel_ch_6.docx": [1203, 1948, 3310, 4130, 1203, 1948, 3310, 4130, 1203, 1948, 3310, 4130], "Nahum_ch_2.docx": [2141, 2141, 2141], "Hebrews_ch_11.docx": [6468, 6468]}
+lion’	{"Judges_ch_14.docx": [1524], "Job_ch_4.docx": [942, 942], "Proverbs_ch_19.docx": [1043, 1043], "Proverbs_ch_20.docx": [542, 542], "Daniel_ch_6.docx": [1203, 1948, 3310, 4130, 1203, 1948, 3310, 4130], "Nahum_ch_2.docx": [2141, 2141], "Hebrews_ch_11.docx": [6468]}
+lion’	{"Judges_ch_14.docx": [1524], "Job_ch_4.docx": [942], "Proverbs_ch_19.docx": [1043], "Proverbs_ch_20.docx": [542], "Daniel_ch_6.docx": [1203, 1948, 3310, 4130], "Nahum_ch_2.docx": [2141], "Hebrews_ch_11.docx": [6468]}

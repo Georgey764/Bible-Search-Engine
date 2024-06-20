@@ -1,0 +1,4 @@
+
+chaff	{"Job_ch_27.docx": [1911], "Jeremiah_ch_31.docx": [1753, 1753, 1753], "Hosea_ch_13.docx": [429, 429, 429], "Matthew_ch_3.docx": [1426, 1426, 1426], "Matthew_ch_7.docx": [252, 388, 570, 252, 388, 570, 252, 388, 570], "Luke_ch_3.docx": [5450, 5450], "Luke_ch_6.docx": [5279, 5414, 5605, 5279, 5414, 5605]}
+chaff	{"Job_ch_27.docx": [1911], "Jeremiah_ch_31.docx": [1753, 1753], "Hosea_ch_13.docx": [429, 429], "Matthew_ch_3.docx": [1426, 1426], "Matthew_ch_7.docx": [252, 388, 570, 252, 388, 570], "Luke_ch_3.docx": [5450], "Luke_ch_6.docx": [5279, 5414, 5605]}
+chaff	{"Job_ch_27.docx": [1911], "Jeremiah_ch_31.docx": [1753], "Hosea_ch_13.docx": [429], "Matthew_ch_3.docx": [1426], "Matthew_ch_7.docx": [252, 388, 570], "Luke_ch_3.docx": [5450], "Luke_ch_6.docx": [5279, 5414, 5605]}

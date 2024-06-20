@@ -1,0 +1,4 @@
+
+malch	{"Genesis_ch_11.docx": [3349, 3359, 3359, 3359], "John_ch_18.docx": [1066, 1066]}
+malch	{"Genesis_ch_11.docx": [3349, 3359, 3359], "John_ch_18.docx": [1066]}
+malch	{"Genesis_ch_11.docx": [3349, 3359], "John_ch_18.docx": [1066]}

@@ -1,0 +1,4 @@
+
+diz	{"Psalms_ch_78.docx": [6299], "Isaiah_ch_24.docx": [3208, 3208, 3208], "Isaiah_ch_29.docx": [1524, 1524, 1524]}
+diz	{"Psalms_ch_78.docx": [6299], "Isaiah_ch_24.docx": [3208, 3208], "Isaiah_ch_29.docx": [1524, 1524]}
+diz	{"Psalms_ch_78.docx": [6299], "Isaiah_ch_24.docx": [3208], "Isaiah_ch_29.docx": [1524]}

@@ -1,0 +1,4 @@
+
+barba	{"Psalms_ch_114.docx": [66], "Ezekiel_ch_21.docx": [5683, 5683, 5683], "Romans_ch_1.docx": [1429, 1429], "Colossians_ch_3.docx": [1104, 1104]}
+barba	{"Psalms_ch_114.docx": [66], "Ezekiel_ch_21.docx": [5683, 5683], "Romans_ch_1.docx": [1429], "Colossians_ch_3.docx": [1104]}
+barba	{"Psalms_ch_114.docx": [66], "Ezekiel_ch_21.docx": [5683], "Romans_ch_1.docx": [1429], "Colossians_ch_3.docx": [1104]}

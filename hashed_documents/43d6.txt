@@ -1,0 +1,8 @@
+
+maid!	{"Genesis_ch_16.docx": [1215]}
+bachi	{"1 Chronicles_ch_7.docx": [811, 1052, 1052, 1052]}
+maid!	{"Genesis_ch_16.docx": [1215]}
+bachi	{"1 Chronicles_ch_7.docx": [811, 1052, 1052]}
+3‘it’	{"Micah_ch_2.docx": [388]}
+maid!	{"Genesis_ch_16.docx": [1215]}
+bachi	{"1 Chronicles_ch_7.docx": [811, 1052]}

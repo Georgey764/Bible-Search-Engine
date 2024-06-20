@@ -1,0 +1,4 @@
+
+meri	{"1 Chronicles_ch_8.docx": [2216, 2218, 2218, 2218], "1 Chronicles_ch_9.docx": [5560, 5562, 5560, 5562, 5560, 5562]}
+meri	{"1 Chronicles_ch_8.docx": [2216, 2218, 2218], "1 Chronicles_ch_9.docx": [5560, 5562, 5560, 5562]}
+meri	{"1 Chronicles_ch_8.docx": [2216, 2218], "1 Chronicles_ch_9.docx": [5560, 5562]}

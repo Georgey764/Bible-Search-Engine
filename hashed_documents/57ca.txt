@@ -1,0 +1,4 @@
+
+peace;	{"Isaiah_ch_26.docx": [1420], "Zechariah_ch_8.docx": [1661, 2805, 1661, 2805, 1661, 2805], "Matthew_ch_5.docx": [619, 619, 619], "James_ch_2.docx": [1924, 1924]}
+peace;	{"Isaiah_ch_26.docx": [1420], "Zechariah_ch_8.docx": [1661, 2805, 1661, 2805], "Matthew_ch_5.docx": [619, 619], "James_ch_2.docx": [1924]}
+peace;	{"Isaiah_ch_26.docx": [1420], "Zechariah_ch_8.docx": [1661, 2805], "Matthew_ch_5.docx": [619], "James_ch_2.docx": [1924]}

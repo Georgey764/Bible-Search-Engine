@@ -1,0 +1,5 @@
+
+poch	{"Ezra_ch_2.docx": [2331], "Nehemiah_ch_7.docx": [3431, 3431, 3431]}
+8‘ye	{"1 Kings_ch_3.docx": [1332], "Song of Solomon_ch_6.docx": [1088], "Isaiah_ch_15.docx": [1246], "Isaiah_ch_48.docx": [1447], "Isaiah_ch_56.docx": [1559], "Ezekiel_ch_28.docx": [1005], "Ezekiel_ch_32.docx": [1275], "Matthew_ch_13.docx": [704]}
+poch	{"Ezra_ch_2.docx": [2331], "Nehemiah_ch_7.docx": [3431, 3431]}
+poch	{"Ezra_ch_2.docx": [2331], "Nehemiah_ch_7.docx": [3431]}

@@ -1,0 +1,5 @@
+
+engage	{"Genesis_ch_19.docx": [2096], "Exodus_ch_22.docx": [2511, 2511, 2511], "Deuteronomy_ch_20.docx": [1016, 1016, 1016], "Deuteronomy_ch_22.docx": [3175, 3506, 3734, 3907, 3175, 3506, 3734, 3907, 3175, 3506, 3734, 3907], "Ezekiel_ch_16.docx": [5221, 5221, 5221], "Luke_ch_1.docx": [3280, 3280]}
+engage	{"Genesis_ch_19.docx": [2096], "Exodus_ch_22.docx": [2511, 2511], "Deuteronomy_ch_20.docx": [1016, 1016], "Deuteronomy_ch_22.docx": [3175, 3506, 3734, 3907, 3175, 3506, 3734, 3907], "Ezekiel_ch_16.docx": [5221, 5221], "Luke_ch_1.docx": [3280]}
+12sayi	{"Jeremiah_ch_38.docx": [1929]}
+engage	{"Genesis_ch_19.docx": [2096], "Exodus_ch_22.docx": [2511], "Deuteronomy_ch_20.docx": [1016], "Deuteronomy_ch_22.docx": [3175, 3506, 3734, 3907], "Ezekiel_ch_16.docx": [5221], "Luke_ch_1.docx": [3280]}

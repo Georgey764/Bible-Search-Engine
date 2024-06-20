@@ -1,0 +1,10 @@
+
+areeli	{"Genesis_ch_46.docx": [1933]}
+fart	{"Job_ch_38.docx": [999], "Joel_ch_2.docx": [3646, 3646, 3646], "Mark_ch_1.docx": [2090, 2090], "Acts_ch_1.docx": [1218, 1218], "Acts_ch_27.docx": [3895, 3895]}
+wishin	{"Psalms_ch_35.docx": [331], "Psalms_ch_38.docx": [968, 968, 968], "Psalms_ch_70.docx": [231, 231, 231], "Psalms_ch_71.docx": [1288, 1288, 1288], "Matthew_ch_5.docx": [5242, 5242, 5242], "Romans_ch_9.docx": [1825, 1825]}
+areeli	{"Genesis_ch_46.docx": [1933]}
+fart	{"Job_ch_38.docx": [999], "Joel_ch_2.docx": [3646, 3646], "Mark_ch_1.docx": [2090], "Acts_ch_1.docx": [1218], "Acts_ch_27.docx": [3895]}
+wishin	{"Psalms_ch_35.docx": [331], "Psalms_ch_38.docx": [968, 968], "Psalms_ch_70.docx": [231, 231], "Psalms_ch_71.docx": [1288, 1288], "Matthew_ch_5.docx": [5242, 5242], "Romans_ch_9.docx": [1825]}
+areeli	{"Genesis_ch_46.docx": [1933]}
+fart	{"Job_ch_38.docx": [999], "Joel_ch_2.docx": [3646], "Mark_ch_1.docx": [2090], "Acts_ch_1.docx": [1218], "Acts_ch_27.docx": [3895]}
+wishin	{"Psalms_ch_35.docx": [331], "Psalms_ch_38.docx": [968], "Psalms_ch_70.docx": [231], "Psalms_ch_71.docx": [1288], "Matthew_ch_5.docx": [5242], "Romans_ch_9.docx": [1825]}

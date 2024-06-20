@@ -1,0 +1,4 @@
+
+zelph	{"Genesis_ch_29.docx": [2902], "Genesis_ch_30.docx": [1019, 1039, 1313, 1019, 1039, 1313, 1019, 1039, 1313], "Genesis_ch_35.docx": [3355, 3355, 3355], "Genesis_ch_37.docx": [156, 156, 156], "Genesis_ch_46.docx": [2091, 2091, 2091]}
+zelph	{"Genesis_ch_29.docx": [2902], "Genesis_ch_30.docx": [1019, 1039, 1313, 1019, 1039, 1313], "Genesis_ch_35.docx": [3355, 3355], "Genesis_ch_37.docx": [156, 156], "Genesis_ch_46.docx": [2091, 2091]}
+zelph	{"Genesis_ch_29.docx": [2902], "Genesis_ch_30.docx": [1019, 1039, 1313], "Genesis_ch_35.docx": [3355], "Genesis_ch_37.docx": [156], "Genesis_ch_46.docx": [2091]}

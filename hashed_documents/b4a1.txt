@@ -1,0 +1,4 @@
+
+bleed	{"Proverbs_ch_30.docx": [3419], "Hebrews_ch_12.docx": [760, 760]}
+bleed	{"Proverbs_ch_30.docx": [3419], "Hebrews_ch_12.docx": [760]}
+bleed	{"Proverbs_ch_30.docx": [3419], "Hebrews_ch_12.docx": [760]}

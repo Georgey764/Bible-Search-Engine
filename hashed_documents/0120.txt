@@ -1,0 +1,4 @@
+
+cadenc	{"Job_ch_42.docx": [3435, 3803, 3839]}
+last[s	{"Revelation_ch_1.docx": [1736]}
+last[s	{"Revelation_ch_1.docx": [1736]}

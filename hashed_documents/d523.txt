@@ -1,0 +1,7 @@
+
+ete	{"Numbers_ch_33.docx": [2459, 2513, 2513, 2513], "Deuteronomy_ch_10.docx": [1077, 1077, 1077], "Amos_ch_6.docx": [1495, 1495, 1495], "Romans_ch_1.docx": [2322, 2322], "2 Corinthians_ch_4.docx": [2958, 2958], "Hebrews_ch_7.docx": [3319, 4006, 3319, 4006]}
+paulu	{"Acts_ch_13.docx": [2089]}
+ete	{"Numbers_ch_33.docx": [2459, 2513, 2513], "Deuteronomy_ch_10.docx": [1077, 1077], "Amos_ch_6.docx": [1495, 1495], "Romans_ch_1.docx": [2322], "2 Corinthians_ch_4.docx": [2958], "Hebrews_ch_7.docx": [3319, 4006]}
+40f	{"Jeremiah_ch_50.docx": [7463], "Lamentations_ch_3.docx": [3254], "Daniel_ch_2.docx": [6753], "Matthew_ch_12.docx": [4711]}
+ete	{"Numbers_ch_33.docx": [2459, 2513], "Deuteronomy_ch_10.docx": [1077], "Amos_ch_6.docx": [1495], "Romans_ch_1.docx": [2322], "2 Corinthians_ch_4.docx": [2958], "Hebrews_ch_7.docx": [3319, 4006]}
+paulu	{"Acts_ch_13.docx": [2089]}

@@ -1,0 +1,5 @@
+
+chews	{"Leviticus_ch_11.docx": [223, 256, 562, 256, 562, 256, 562]}
+chews	{"Leviticus_ch_11.docx": [223, 256, 562, 256, 562]}
+36when	{"Matthew_ch_25.docx": [4255]}
+chews	{"Leviticus_ch_11.docx": [223, 256, 562]}

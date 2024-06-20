@@ -1,0 +1,4 @@
+
+illus	{"Deuteronomy_ch_28.docx": [4964], "Psalms_ch_78.docx": [133, 133, 133], "Proverbs_ch_1.docx": [528, 528, 528], "Matthew_ch_18.docx": [3084, 3084, 3084], "Luke_ch_5.docx": [6321, 6321], "Luke_ch_8.docx": [1411, 1411], "Luke_ch_18.docx": [9, 944, 9, 944], "Hebrews_ch_9.docx": [1120, 1120]}
+illus	{"Deuteronomy_ch_28.docx": [4964], "Psalms_ch_78.docx": [133, 133], "Proverbs_ch_1.docx": [528, 528], "Matthew_ch_18.docx": [3084, 3084], "Luke_ch_5.docx": [6321], "Luke_ch_8.docx": [1411], "Luke_ch_18.docx": [9, 944], "Hebrews_ch_9.docx": [1120]}
+illus	{"Deuteronomy_ch_28.docx": [4964], "Psalms_ch_78.docx": [133], "Proverbs_ch_1.docx": [528], "Matthew_ch_18.docx": [3084], "Luke_ch_5.docx": [6321], "Luke_ch_8.docx": [1411], "Luke_ch_18.docx": [9, 944], "Hebrews_ch_9.docx": [1120]}

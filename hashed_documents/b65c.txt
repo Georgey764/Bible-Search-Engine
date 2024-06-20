@@ -1,0 +1,8 @@
+
+kal	{"1 Chronicles_ch_2.docx": [632], "Nehemiah_ch_12.docx": [1788, 1788, 1788]}
+isma	{"1 Chronicles_ch_8.docx": [2607]}
+23howe	{"Genesis_ch_42.docx": [2885], "Judges_ch_13.docx": [3683], "1 Samuel_ch_28.docx": [3681], "1 Samuel_ch_30.docx": [3595], "2 Kings_ch_13.docx": [3787], "Matthew_ch_16.docx": [3111]}
+kal	{"1 Chronicles_ch_2.docx": [632], "Nehemiah_ch_12.docx": [1788, 1788]}
+isma	{"1 Chronicles_ch_8.docx": [2607]}
+kal	{"1 Chronicles_ch_2.docx": [632], "Nehemiah_ch_12.docx": [1788]}
+isma	{"1 Chronicles_ch_8.docx": [2607]}

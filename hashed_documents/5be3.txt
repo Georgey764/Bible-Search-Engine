@@ -1,0 +1,4 @@
+
+beb	{"Ezra_ch_8.docx": [1137, 1180, 1180, 1180], "Nehemiah_ch_7.docx": [1580, 1580, 1580], "Nehemiah_ch_10.docx": [842, 842, 842]}
+beb	{"Ezra_ch_8.docx": [1137, 1180, 1180], "Nehemiah_ch_7.docx": [1580, 1580], "Nehemiah_ch_10.docx": [842, 842]}
+beb	{"Ezra_ch_8.docx": [1137, 1180], "Nehemiah_ch_7.docx": [1580], "Nehemiah_ch_10.docx": [842]}

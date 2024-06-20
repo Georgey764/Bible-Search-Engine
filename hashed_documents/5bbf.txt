@@ -1,0 +1,7 @@
+
+marked	{"Genesis_ch_30.docx": [5180], "Deuteronomy_ch_12.docx": [2661, 2661, 2661], "Job_ch_19.docx": [958, 958, 958], "Ezekiel_ch_9.docx": [1373, 1373, 1373], "Luke_ch_22.docx": [2170, 2170]}
+merai	{"Ezra_ch_7.docx": [313], "Nehemiah_ch_12.docx": [954, 954, 954]}
+marked	{"Genesis_ch_30.docx": [5180], "Deuteronomy_ch_12.docx": [2661, 2661], "Job_ch_19.docx": [958, 958], "Ezekiel_ch_9.docx": [1373, 1373], "Luke_ch_22.docx": [2170]}
+merai	{"Ezra_ch_7.docx": [313], "Nehemiah_ch_12.docx": [954, 954]}
+marked	{"Genesis_ch_30.docx": [5180], "Deuteronomy_ch_12.docx": [2661], "Job_ch_19.docx": [958], "Ezekiel_ch_9.docx": [1373], "Luke_ch_22.docx": [2170]}
+merai	{"Ezra_ch_7.docx": [313], "Nehemiah_ch_12.docx": [954]}

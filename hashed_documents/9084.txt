@@ -1,0 +1,5 @@
+
+blaze	{"Deuteronomy_ch_29.docx": [2777], "Psalms_ch_78.docx": [3851, 3851, 3851], "Psalms_ch_106.docx": [1624, 1624, 1624], "Jeremiah_ch_17.docx": [744, 744, 744], "Jeremiah_ch_20.docx": [1727, 1727, 1727]}
+18mose	{"Leviticus_ch_8.docx": [2118]}
+blaze	{"Deuteronomy_ch_29.docx": [2777], "Psalms_ch_78.docx": [3851, 3851], "Psalms_ch_106.docx": [1624, 1624], "Jeremiah_ch_17.docx": [744, 744], "Jeremiah_ch_20.docx": [1727, 1727]}
+blaze	{"Deuteronomy_ch_29.docx": [2777], "Psalms_ch_78.docx": [3851], "Psalms_ch_106.docx": [1624], "Jeremiah_ch_17.docx": [744], "Jeremiah_ch_20.docx": [1727]}

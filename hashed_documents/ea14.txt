@@ -1,0 +1,4 @@
+
+adram	{"2 Kings_ch_17.docx": [5752], "2 Kings_ch_19.docx": [6386, 6386, 6386], "Isaiah_ch_37.docx": [6053, 6053, 6053], "Acts_ch_27.docx": [299, 299]}
+adram	{"2 Kings_ch_17.docx": [5752], "2 Kings_ch_19.docx": [6386, 6386], "Isaiah_ch_37.docx": [6053, 6053], "Acts_ch_27.docx": [299]}
+adram	{"2 Kings_ch_17.docx": [5752], "2 Kings_ch_19.docx": [6386], "Isaiah_ch_37.docx": [6053], "Acts_ch_27.docx": [299]}

@@ -1,0 +1,3 @@
+
+15‘w	{"Exodus_ch_21.docx": [1913], "Judges_ch_5.docx": [2298], "Jeremiah_ch_46.docx": [2374], "Lamentations_ch_3.docx": [1135], "Ezekiel_ch_32.docx": [2418], "Daniel_ch_3.docx": [2237], "Daniel_ch_7.docx": [2897], "Hosea_ch_7.docx": [2853], "Joel_ch_1.docx": [2443], "Amos_ch_5.docx": [2769]}
+25‘bec	{"Ezekiel_ch_33.docx": [4632]}

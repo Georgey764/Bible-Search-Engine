@@ -1,0 +1,7 @@
+
+ isma	{"1 Chronicles_ch_4.docx": [4026]}
+salath	{"1 Chronicles_ch_8.docx": [1369]}
+ isma	{"1 Chronicles_ch_4.docx": [4026]}
+salath	{"1 Chronicles_ch_8.docx": [1369]}
+ isma	{"1 Chronicles_ch_4.docx": [4026]}
+salath	{"1 Chronicles_ch_8.docx": [1369]}

@@ -1,0 +1,2 @@
+
+1,7	{"Exodus_ch_38.docx": [2945, 3109, 3509], "1 Chronicles_ch_9.docx": [1807], "1 Chronicles_ch_26.docx": [3898], "Nehemiah_ch_3.docx": [4322, 4361, 4402]}

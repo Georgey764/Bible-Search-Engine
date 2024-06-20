@@ -1,0 +1,4 @@
+
+gethe	{"Joshua_ch_21.docx": [2887, 2948, 2948, 2948]}
+gethe	{"Joshua_ch_21.docx": [2887, 2948, 2948]}
+gethe	{"Joshua_ch_21.docx": [2887, 2948]}

@@ -1,0 +1,4 @@
+
+shapes	{"Isaiah_ch_44.docx": [2035, 2475, 2475, 2475]}
+shapes	{"Isaiah_ch_44.docx": [2035, 2475, 2475]}
+shapes	{"Isaiah_ch_44.docx": [2035, 2475]}

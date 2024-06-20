@@ -1,0 +1,8 @@
+
+hro	{"Genesis_ch_46.docx": [3405, 3431, 3431, 3431]}
+rever	{"1 Kings_ch_19.docx": [3312], "2 Chronicles_ch_14.docx": [2058, 2058, 2058], "Psalms_ch_102.docx": [1303, 1303, 1303], "Psalms_ch_119.docx": [10092, 10092, 10092], "Proverbs_ch_1.docx": [715, 715, 715], "Isaiah_ch_11.docx": [237, 237, 237], "Acts_ch_2.docx": [504, 511, 519, 538, 558, 504, 511, 519, 538, 558], "Ephesians_ch_5.docx": [2248, 3722, 2248, 3722], "2 Thessalonians_ch_2.docx": [411, 411], "1 Timothy_ch_4.docx": [816, 827, 816, 827], "Hebrews_ch_12.docx": [5252, 5252]}
+hro	{"Genesis_ch_46.docx": [3405, 3431, 3431]}
+24bec	{"Numbers_ch_4.docx": [3054], "Numbers_ch_18.docx": [4154], "2 Kings_ch_15.docx": [3264], "Ezekiel_ch_20.docx": [4044], "Matthew_ch_24.docx": [2593]}
+rever	{"1 Kings_ch_19.docx": [3312], "2 Chronicles_ch_14.docx": [2058, 2058], "Psalms_ch_102.docx": [1303, 1303], "Psalms_ch_119.docx": [10092, 10092], "Proverbs_ch_1.docx": [715, 715], "Isaiah_ch_11.docx": [237, 237], "Acts_ch_2.docx": [504, 511, 519, 538, 558], "Ephesians_ch_5.docx": [2248, 3722], "2 Thessalonians_ch_2.docx": [411], "1 Timothy_ch_4.docx": [816, 827], "Hebrews_ch_12.docx": [5252]}
+hro	{"Genesis_ch_46.docx": [3405, 3431]}
+rever	{"1 Kings_ch_19.docx": [3312], "2 Chronicles_ch_14.docx": [2058], "Psalms_ch_102.docx": [1303], "Psalms_ch_119.docx": [10092], "Proverbs_ch_1.docx": [715], "Isaiah_ch_11.docx": [237], "Acts_ch_2.docx": [504, 511, 519, 538, 558], "Ephesians_ch_5.docx": [2248, 3722], "2 Thessalonians_ch_2.docx": [411], "1 Timothy_ch_4.docx": [816, 827], "Hebrews_ch_12.docx": [5252]}

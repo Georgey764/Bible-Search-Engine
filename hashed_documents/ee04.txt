@@ -1,0 +1,9 @@
+
+electe	{"2 Samuel_ch_22.docx": [2600], "Psalms_ch_106.docx": [375, 375, 375], "Isaiah_ch_65.docx": [1502, 3986, 1502, 3986, 1502, 3986], "Jeremiah_ch_10.docx": [2340, 2340, 2340], "Matthew_ch_24.docx": [2373, 2616, 3602, 2373, 2616, 3602, 2373, 2616, 3602], "Mark_ch_13.docx": [2506, 2791, 3266, 2506, 2791, 3266], "2 Timothy_ch_2.docx": [995, 995], "Titus_ch_1.docx": [26, 26], "1 Peter_ch_1.docx": [15, 33, 52, 72, 93, 115, 138, 162, 188, 216, 245, 15, 33, 52, 72, 93, 115, 138, 162, 188, 216, 245], "Revelation_ch_17.docx": [2383, 2383]}
+spra	{"Isaiah_ch_49.docx": [3435]}
+myra	{"Acts_ch_27.docx": [628]}
+electe	{"2 Samuel_ch_22.docx": [2600], "Psalms_ch_106.docx": [375, 375], "Isaiah_ch_65.docx": [1502, 3986, 1502, 3986], "Jeremiah_ch_10.docx": [2340, 2340], "Matthew_ch_24.docx": [2373, 2616, 3602, 2373, 2616, 3602], "Mark_ch_13.docx": [2506, 2791, 3266], "2 Timothy_ch_2.docx": [995], "Titus_ch_1.docx": [26], "1 Peter_ch_1.docx": [15, 33, 52, 72, 93, 115, 138, 162, 188, 216, 245], "Revelation_ch_17.docx": [2383]}
+spra	{"Isaiah_ch_49.docx": [3435]}
+electe	{"2 Samuel_ch_22.docx": [2600], "Psalms_ch_106.docx": [375], "Isaiah_ch_65.docx": [1502, 3986], "Jeremiah_ch_10.docx": [2340], "Matthew_ch_24.docx": [2373, 2616, 3602], "Mark_ch_13.docx": [2506, 2791, 3266], "2 Timothy_ch_2.docx": [995], "Titus_ch_1.docx": [26], "1 Peter_ch_1.docx": [15, 33, 52, 72, 93, 115, 138, 162, 188, 216, 245], "Revelation_ch_17.docx": [2383]}
+spra	{"Isaiah_ch_49.docx": [3435]}
+myra	{"Acts_ch_27.docx": [628]}

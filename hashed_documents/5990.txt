@@ -1,0 +1,2 @@
+
+13‘no	{"Exodus_ch_12.docx": [1760], "Exodus_ch_19.docx": [1949], "Leviticus_ch_18.docx": [1464], "Deuteronomy_ch_11.docx": [1763], "Deuteronomy_ch_30.docx": [2033], "Joshua_ch_7.docx": [2674], "Judges_ch_20.docx": [1718], "2 Chronicles_ch_2.docx": [2532], "Job_ch_19.docx": [1168], "Jeremiah_ch_7.docx": [1850], "Jeremiah_ch_11.docx": [2450], "Ezekiel_ch_7.docx": [1801], "Ezekiel_ch_22.docx": [1887]}

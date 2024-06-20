@@ -1,0 +1,6 @@
+
+eliaki	{"2 Kings_ch_18.docx": [2926, 4311, 6337, 4311, 6337, 4311, 6337], "2 Kings_ch_19.docx": [164, 164, 164], "2 Kings_ch_23.docx": [7522, 7522, 7522], "Nehemiah_ch_12.docx": [11641, 11641, 11641], "Isaiah_ch_22.docx": [2909, 2909, 2909], "Isaiah_ch_36.docx": [395, 1801, 3639, 395, 1801, 3639, 395, 1801, 3639], "Isaiah_ch_37.docx": [30, 30, 30], "Matthew_ch_1.docx": [1058, 1081, 1058, 1081, 1058, 1081], "Luke_ch_3.docx": [6748, 6748]}
+peacem	{"James_ch_3.docx": [2102]}
+eliaki	{"2 Kings_ch_18.docx": [2926, 4311, 6337, 4311, 6337], "2 Kings_ch_19.docx": [164, 164], "2 Kings_ch_23.docx": [7522, 7522], "Nehemiah_ch_12.docx": [11641, 11641], "Isaiah_ch_22.docx": [2909, 2909], "Isaiah_ch_36.docx": [395, 1801, 3639, 395, 1801, 3639], "Isaiah_ch_37.docx": [30, 30], "Matthew_ch_1.docx": [1058, 1081, 1058, 1081], "Luke_ch_3.docx": [6748]}
+eliaki	{"2 Kings_ch_18.docx": [2926, 4311, 6337], "2 Kings_ch_19.docx": [164], "2 Kings_ch_23.docx": [7522], "Nehemiah_ch_12.docx": [11641], "Isaiah_ch_22.docx": [2909], "Isaiah_ch_36.docx": [395, 1801, 3639], "Isaiah_ch_37.docx": [30], "Matthew_ch_1.docx": [1058, 1081], "Luke_ch_3.docx": [6748]}
+peacem	{"James_ch_3.docx": [2102]}

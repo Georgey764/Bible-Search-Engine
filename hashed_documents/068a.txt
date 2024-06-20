@@ -1,0 +1,4 @@
+
+futil	{"Romans_ch_8.docx": [2485]}
+10ther	{"Genesis_ch_2.docx": [1454], "Exodus_ch_19.docx": [1399], "Exodus_ch_26.docx": [925], "Numbers_ch_21.docx": [1553], "1 Samuel_ch_5.docx": [1819], "1 Chronicles_ch_14.docx": [887], "2 Chronicles_ch_8.docx": [957], "2 Chronicles_ch_21.docx": [1401], "2 Chronicles_ch_23.docx": [1957], "Job_ch_38.docx": [870], "Isaiah_ch_1.docx": [1551], "Isaiah_ch_2.docx": [1463]}
+futil	{"Romans_ch_8.docx": [2485]}

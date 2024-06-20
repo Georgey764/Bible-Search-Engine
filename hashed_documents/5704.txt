@@ -1,0 +1,4 @@
+
+symo	{"Genesis_ch_14.docx": [305], "Joshua_ch_12.docx": [14295, 14295, 14295], "Joshua_ch_19.docx": [1283, 1283, 1283]}
+symo	{"Genesis_ch_14.docx": [305], "Joshua_ch_12.docx": [14295, 14295], "Joshua_ch_19.docx": [1283, 1283]}
+symo	{"Genesis_ch_14.docx": [305], "Joshua_ch_12.docx": [14295], "Joshua_ch_19.docx": [1283]}

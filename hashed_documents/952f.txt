@@ -1,0 +1,5 @@
+
+eliaa	{"1 Chronicles_ch_2.docx": [3586, 3612, 3612], "1 Chronicles_ch_7.docx": [2520, 2576, 2520, 2576, 2520, 2576]}
+11bac	{"2 Samuel_ch_7.docx": [1451]}
+eliaa	{"1 Chronicles_ch_2.docx": [3586, 3612], "1 Chronicles_ch_7.docx": [2520, 2576, 2520, 2576]}
+eliaa	{"1 Chronicles_ch_2.docx": [3586, 3612], "1 Chronicles_ch_7.docx": [2520, 2576]}

@@ -1,0 +1,5 @@
+
+choki	{"Matthew_ch_18.docx": [3721]}
+50m	{"Genesis_ch_41.docx": [6563], "Exodus_ch_27.docx": [930, 1117]}
+choki	{"Matthew_ch_18.docx": [3721]}
+choki	{"Matthew_ch_18.docx": [3721]}

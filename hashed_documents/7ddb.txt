@@ -1,0 +1,4 @@
+
+flesh!	{"Exodus_ch_4.docx": [1060], "Job_ch_31.docx": [2879, 2879, 2879], "Ecclesiastes_ch_2.docx": [296, 296, 296], "Ecclesiastes_ch_4.docx": [685, 685, 685], "Isaiah_ch_31.docx": [567, 567, 567], "Hosea_ch_9.docx": [2635, 2635, 2635], "1 Corinthians_ch_3.docx": [209, 209]}
+flesh!	{"Exodus_ch_4.docx": [1060], "Job_ch_31.docx": [2879, 2879], "Ecclesiastes_ch_2.docx": [296, 296], "Ecclesiastes_ch_4.docx": [685, 685], "Isaiah_ch_31.docx": [567, 567], "Hosea_ch_9.docx": [2635, 2635], "1 Corinthians_ch_3.docx": [209]}
+flesh!	{"Exodus_ch_4.docx": [1060], "Job_ch_31.docx": [2879], "Ecclesiastes_ch_2.docx": [296], "Ecclesiastes_ch_4.docx": [685], "Isaiah_ch_31.docx": [567], "Hosea_ch_9.docx": [2635], "1 Corinthians_ch_3.docx": [209]}

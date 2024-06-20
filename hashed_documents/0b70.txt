@@ -1,0 +1,10 @@
+
+packe	{"Genesis_ch_13.docx": [2308], "Numbers_ch_10.docx": [1526, 1526, 1526], "Joshua_ch_3.docx": [5543, 5543, 5543], "Isaiah_ch_37.docx": [6023, 6023, 6023], "Luke_ch_6.docx": [4908, 4908]}
+hamme	{"Exodus_ch_39.docx": [342], "Numbers_ch_10.docx": [181, 181, 181], "Judges_ch_4.docx": [7273, 7273, 7273], "Judges_ch_5.docx": [3745, 3745, 3745], "1 Kings_ch_6.docx": [933, 933, 933], "1 Kings_ch_10.docx": [2527, 2547, 2527, 2547, 2527, 2547], "2 Chronicles_ch_9.docx": [2389, 2389, 2389], "Job_ch_41.docx": [2543, 2543, 2543], "Isaiah_ch_41.docx": [1060, 1060, 1060], "Isaiah_ch_44.docx": [1952, 1952, 1952], "Jeremiah_ch_10.docx": [418, 418, 418], "Jeremiah_ch_50.docx": [4330, 4330, 4330], "Habakkuk_ch_2.docx": [3515, 3515, 3515]}
+skinni	{"2 Chronicles_ch_35.docx": [2103]}
+packe	{"Genesis_ch_13.docx": [2308], "Numbers_ch_10.docx": [1526, 1526], "Joshua_ch_3.docx": [5543, 5543], "Isaiah_ch_37.docx": [6023, 6023], "Luke_ch_6.docx": [4908]}
+hamme	{"Exodus_ch_39.docx": [342], "Numbers_ch_10.docx": [181, 181], "Judges_ch_4.docx": [7273, 7273], "Judges_ch_5.docx": [3745, 3745], "1 Kings_ch_6.docx": [933, 933], "1 Kings_ch_10.docx": [2527, 2547, 2527, 2547], "2 Chronicles_ch_9.docx": [2389, 2389], "Job_ch_41.docx": [2543, 2543], "Isaiah_ch_41.docx": [1060, 1060], "Isaiah_ch_44.docx": [1952, 1952], "Jeremiah_ch_10.docx": [418, 418], "Jeremiah_ch_50.docx": [4330, 4330], "Habakkuk_ch_2.docx": [3515, 3515]}
+skinni	{"2 Chronicles_ch_35.docx": [2103]}
+packe	{"Genesis_ch_13.docx": [2308], "Numbers_ch_10.docx": [1526], "Joshua_ch_3.docx": [5543], "Isaiah_ch_37.docx": [6023], "Luke_ch_6.docx": [4908]}
+hamme	{"Exodus_ch_39.docx": [342], "Numbers_ch_10.docx": [181], "Judges_ch_4.docx": [7273], "Judges_ch_5.docx": [3745], "1 Kings_ch_6.docx": [933], "1 Kings_ch_10.docx": [2527, 2547], "2 Chronicles_ch_9.docx": [2389], "Job_ch_41.docx": [2543], "Isaiah_ch_41.docx": [1060], "Isaiah_ch_44.docx": [1952], "Jeremiah_ch_10.docx": [418], "Jeremiah_ch_50.docx": [4330], "Habakkuk_ch_2.docx": [3515]}
+skinni	{"2 Chronicles_ch_35.docx": [2103]}

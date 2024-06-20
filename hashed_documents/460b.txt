@@ -1,0 +1,4 @@
+
+mattan	{"Nehemiah_ch_11.docx": [2260, 2479, 3797, 2479, 3797, 2479, 3797], "Nehemiah_ch_12.docx": [542, 2665, 542, 2665, 542, 2665], "Jeremiah_ch_38.docx": [8, 8, 8]}
+mattan	{"Nehemiah_ch_11.docx": [2260, 2479, 3797, 2479, 3797], "Nehemiah_ch_12.docx": [542, 2665, 542, 2665], "Jeremiah_ch_38.docx": [8, 8]}
+mattan	{"Nehemiah_ch_11.docx": [2260, 2479, 3797], "Nehemiah_ch_12.docx": [542, 2665], "Jeremiah_ch_38.docx": [8]}

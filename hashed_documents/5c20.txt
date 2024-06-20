@@ -1,0 +1,4 @@
+
+hedgeh	{"Isaiah_ch_13.docx": [3191], "Isaiah_ch_14.docx": [3822, 3822, 3822], "Isaiah_ch_34.docx": [1672, 2194, 1672, 2194, 1672, 2194], "Zephaniah_ch_2.docx": [4460, 4460, 4460]}
+hedgeh	{"Isaiah_ch_13.docx": [3191], "Isaiah_ch_14.docx": [3822, 3822], "Isaiah_ch_34.docx": [1672, 2194, 1672, 2194], "Zephaniah_ch_2.docx": [4460, 4460]}
+hedgeh	{"Isaiah_ch_13.docx": [3191], "Isaiah_ch_14.docx": [3822], "Isaiah_ch_34.docx": [1672, 2194], "Zephaniah_ch_2.docx": [4460]}

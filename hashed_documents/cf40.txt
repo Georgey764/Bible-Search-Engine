@@ -1,0 +1,4 @@
+
+assum	{"Proverbs_ch_28.docx": [2249], "Luke_ch_2.docx": [8088, 8088], "Acts_ch_7.docx": [3340, 3340], "Acts_ch_16.docx": [3401, 3401], "James_ch_4.docx": [2189, 2189], "Revelation_ch_11.docx": [2689, 2689]}
+assum	{"Proverbs_ch_28.docx": [2249], "Luke_ch_2.docx": [8088], "Acts_ch_7.docx": [3340], "Acts_ch_16.docx": [3401], "James_ch_4.docx": [2189], "Revelation_ch_11.docx": [2689]}
+assum	{"Proverbs_ch_28.docx": [2249], "Luke_ch_2.docx": [8088], "Acts_ch_7.docx": [3340], "Acts_ch_16.docx": [3401], "James_ch_4.docx": [2189], "Revelation_ch_11.docx": [2689]}

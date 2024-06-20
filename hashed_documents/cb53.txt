@@ -1,0 +1,4 @@
+
+else’s	{"Exodus_ch_22.docx": [658], "2 Corinthians_ch_5.docx": [2285, 2285], "2 Corinthians_ch_10.docx": [2358, 2358]}
+else’s	{"Exodus_ch_22.docx": [658], "2 Corinthians_ch_5.docx": [2285], "2 Corinthians_ch_10.docx": [2358]}
+else’s	{"Exodus_ch_22.docx": [658], "2 Corinthians_ch_5.docx": [2285], "2 Corinthians_ch_10.docx": [2358]}

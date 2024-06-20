@@ -1,0 +1,4 @@
+
+thobel	{"Genesis_ch_4.docx": [2555], "Genesis_ch_10.docx": [263, 263, 263]}
+thobel	{"Genesis_ch_4.docx": [2555], "Genesis_ch_10.docx": [263, 263]}
+thobel	{"Genesis_ch_4.docx": [2555], "Genesis_ch_10.docx": [263]}

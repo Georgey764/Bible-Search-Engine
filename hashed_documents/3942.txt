@@ -1,0 +1,5 @@
+
+adopte	{"Esther_ch_9.docx": [3334], "Ephesians_ch_1.docx": [550, 550]}
+18cla	{"2 Chronicles_ch_31.docx": [3310]}
+adopte	{"Esther_ch_9.docx": [3334], "Ephesians_ch_1.docx": [550]}
+adopte	{"Esther_ch_9.docx": [3334], "Ephesians_ch_1.docx": [550]}

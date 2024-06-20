@@ -1,0 +1,5 @@
+
+enab	{"Joshua_ch_13.docx": [23623, 23633, 23633, 23633]}
+enab	{"Joshua_ch_13.docx": [23623, 23633, 23633]}
+15‘le	{"Daniel_ch_4.docx": [2238]}
+enab	{"Joshua_ch_13.docx": [23623, 23633]}

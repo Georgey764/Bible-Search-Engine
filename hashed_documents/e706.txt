@@ -1,0 +1,6 @@
+
+kec	{"2 Samuel_ch_18.docx": [3954]}
+jettur	{"1 Chronicles_ch_1.docx": [2364]}
+kec	{"2 Samuel_ch_18.docx": [3954]}
+kec	{"2 Samuel_ch_18.docx": [3954]}
+jettur	{"1 Chronicles_ch_1.docx": [2364]}

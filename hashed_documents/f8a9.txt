@@ -1,0 +1,7 @@
+
+eleel	{"1 Chronicles_ch_8.docx": [1485]}
+adiel	{"1 Chronicles_ch_9.docx": [1660]}
+eleel	{"1 Chronicles_ch_8.docx": [1485]}
+adiel	{"1 Chronicles_ch_9.docx": [1660]}
+eleel	{"1 Chronicles_ch_8.docx": [1485]}
+adiel	{"1 Chronicles_ch_9.docx": [1660]}

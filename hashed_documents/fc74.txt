@@ -1,0 +1,4 @@
+
+jegl	{"Genesis_ch_36.docx": [346, 1579, 2165, 1579, 2165, 1579, 2165], "1 Chronicles_ch_1.docx": [2826, 2826, 2826], "1 Chronicles_ch_8.docx": [428, 428, 428]}
+jegl	{"Genesis_ch_36.docx": [346, 1579, 2165, 1579, 2165], "1 Chronicles_ch_1.docx": [2826, 2826], "1 Chronicles_ch_8.docx": [428, 428]}
+jegl	{"Genesis_ch_36.docx": [346, 1579, 2165], "1 Chronicles_ch_1.docx": [2826], "1 Chronicles_ch_8.docx": [428]}

@@ -1,0 +1,4 @@
+
+sire	{"2 Kings_ch_20.docx": [2734], "Isaiah_ch_45.docx": [1802, 1802, 1802], "Matthew_ch_22.docx": [2816, 2816, 2816], "Mark_ch_12.docx": [2669, 2669], "Luke_ch_20.docx": [3580, 3580]}
+sire	{"2 Kings_ch_20.docx": [2734], "Isaiah_ch_45.docx": [1802, 1802], "Matthew_ch_22.docx": [2816, 2816], "Mark_ch_12.docx": [2669], "Luke_ch_20.docx": [3580]}
+sire	{"2 Kings_ch_20.docx": [2734], "Isaiah_ch_45.docx": [1802], "Matthew_ch_22.docx": [2816], "Mark_ch_12.docx": [2669], "Luke_ch_20.docx": [3580]}

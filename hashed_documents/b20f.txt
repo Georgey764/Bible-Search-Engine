@@ -1,0 +1,8 @@
+
+custod	{"Numbers_ch_15.docx": [4092], "2 Samuel_ch_20.docx": [766, 766, 766], "Mark_ch_14.docx": [8433, 8433], "Luke_ch_22.docx": [7350, 7350]}
+oaths!	{"Hosea_ch_4.docx": [2703], "Zechariah_ch_8.docx": [2995, 2995, 2995]}
+custod	{"Numbers_ch_15.docx": [4092], "2 Samuel_ch_20.docx": [766, 766], "Mark_ch_14.docx": [8433], "Luke_ch_22.docx": [7350]}
+13blo	{"Isaiah_ch_27.docx": [2068]}
+oaths!	{"Hosea_ch_4.docx": [2703], "Zechariah_ch_8.docx": [2995, 2995]}
+custod	{"Numbers_ch_15.docx": [4092], "2 Samuel_ch_20.docx": [766], "Mark_ch_14.docx": [8433], "Luke_ch_22.docx": [7350]}
+oaths!	{"Hosea_ch_4.docx": [2703], "Zechariah_ch_8.docx": [2995]}

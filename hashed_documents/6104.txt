@@ -1,0 +1,4 @@
+
+pouch	{"1 Samuel_ch_17.docx": [6046, 7545, 7545, 7545], "2 Kings_ch_5.docx": [4442, 4442, 4442], "Matthew_ch_10.docx": [1040, 1040, 1040], "Mark_ch_6.docx": [1015, 1015], "Luke_ch_9.docx": [258, 258], "Luke_ch_10.docx": [348, 348], "Luke_ch_22.docx": [3895, 4106, 3895, 4106]}
+pouch	{"1 Samuel_ch_17.docx": [6046, 7545, 7545], "2 Kings_ch_5.docx": [4442, 4442], "Matthew_ch_10.docx": [1040, 1040], "Mark_ch_6.docx": [1015], "Luke_ch_9.docx": [258], "Luke_ch_10.docx": [348], "Luke_ch_22.docx": [3895, 4106]}
+pouch	{"1 Samuel_ch_17.docx": [6046, 7545], "2 Kings_ch_5.docx": [4442], "Matthew_ch_10.docx": [1040], "Mark_ch_6.docx": [1015], "Luke_ch_9.docx": [258], "Luke_ch_10.docx": [348], "Luke_ch_22.docx": [3895, 4106]}

@@ -1,0 +1,5 @@
+
+assau	{"Deuteronomy_ch_22.docx": [3921], "Proverbs_ch_1.docx": [2847, 2847, 2847], "1 Corinthians_ch_8.docx": [1588, 1588]}
+assau	{"Deuteronomy_ch_22.docx": [3921], "Proverbs_ch_1.docx": [2847, 2847], "1 Corinthians_ch_8.docx": [1588]}
+2gr	{"Psalms_ch_99.docx": [170]}
+assau	{"Deuteronomy_ch_22.docx": [3921], "Proverbs_ch_1.docx": [2847], "1 Corinthians_ch_8.docx": [1588]}

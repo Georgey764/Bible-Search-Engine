@@ -1,0 +1,4 @@
+
+breadt	{"Genesis_ch_13.docx": [2094], "Job_ch_11.docx": [992, 992, 992], "Ezekiel_ch_41.docx": [639, 721, 749, 639, 721, 749, 639, 721, 749], "Habakkuk_ch_1.docx": [960, 960, 960]}
+breadt	{"Genesis_ch_13.docx": [2094], "Job_ch_11.docx": [992, 992], "Ezekiel_ch_41.docx": [639, 721, 749, 639, 721, 749], "Habakkuk_ch_1.docx": [960, 960]}
+breadt	{"Genesis_ch_13.docx": [2094], "Job_ch_11.docx": [992], "Ezekiel_ch_41.docx": [639, 721, 749], "Habakkuk_ch_1.docx": [960]}

@@ -1,0 +1,4 @@
+
+jesba	{"1 Chronicles_ch_24.docx": [1658], "1 Chronicles_ch_25.docx": [789, 2524, 789, 2524, 789, 2524]}
+jesba	{"1 Chronicles_ch_24.docx": [1658], "1 Chronicles_ch_25.docx": [789, 2524, 789, 2524]}
+jesba	{"1 Chronicles_ch_24.docx": [1658], "1 Chronicles_ch_25.docx": [789, 2524]}

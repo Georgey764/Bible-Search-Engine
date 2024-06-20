@@ -1,0 +1,7 @@
+
+cormo	{"Leviticus_ch_11.docx": [1917], "Deuteronomy_ch_14.docx": [1427, 1427]}
+sneere	{"Psalms_ch_44.docx": [1340], "Psalms_ch_79.docx": [488, 488, 488], "Proverbs_ch_1.docx": [3144, 3144, 3144], "Proverbs_ch_12.docx": [748, 748, 748], "Isaiah_ch_37.docx": [3505, 3505, 3505]}
+cormo	{"Leviticus_ch_11.docx": [1917], "Deuteronomy_ch_14.docx": [1427]}
+sneere	{"Psalms_ch_44.docx": [1340], "Psalms_ch_79.docx": [488, 488], "Proverbs_ch_1.docx": [3144, 3144], "Proverbs_ch_12.docx": [748, 748], "Isaiah_ch_37.docx": [3505, 3505]}
+cormo	{"Leviticus_ch_11.docx": [1917], "Deuteronomy_ch_14.docx": [1427]}
+sneere	{"Psalms_ch_44.docx": [1340], "Psalms_ch_79.docx": [488], "Proverbs_ch_1.docx": [3144], "Proverbs_ch_12.docx": [748], "Isaiah_ch_37.docx": [3505]}

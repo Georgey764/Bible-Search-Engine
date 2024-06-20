@@ -1,0 +1,7 @@
+
+happin	{"Genesis_ch_30.docx": [1274], "Judges_ch_9.docx": [3081, 3081, 3081], "Nehemiah_ch_12.docx": [2810, 2810, 2810], "Proverbs_ch_10.docx": [2608, 2608], "Isaiah_ch_65.docx": [3174, 3174, 3174], "Jeremiah_ch_25.docx": [1693, 1693, 1693], "Acts_ch_14.docx": [3696, 3696], "Acts_ch_20.docx": [10008, 10008]}
+tarnis	{"Lamentations_ch_4.docx": [69]}
+happin	{"Genesis_ch_30.docx": [1274], "Judges_ch_9.docx": [3081, 3081], "Nehemiah_ch_12.docx": [2810, 2810], "Isaiah_ch_65.docx": [3174, 3174], "Jeremiah_ch_25.docx": [1693, 1693], "Proverbs_ch_10.docx": [2608], "Acts_ch_14.docx": [3696], "Acts_ch_20.docx": [10008]}
+tarnis	{"Lamentations_ch_4.docx": [69]}
+happin	{"Genesis_ch_30.docx": [1274], "Judges_ch_9.docx": [3081], "Nehemiah_ch_12.docx": [2810], "Proverbs_ch_10.docx": [2608], "Isaiah_ch_65.docx": [3174], "Jeremiah_ch_25.docx": [1693], "Acts_ch_14.docx": [3696], "Acts_ch_20.docx": [10008]}
+tarnis	{"Lamentations_ch_4.docx": [69]}

@@ -1,0 +1,4 @@
+
+tamed	{"James_ch_3.docx": [920, 924, 924]}
+3doing	{"Proverbs_ch_19.docx": [79]}
+tamed	{"James_ch_3.docx": [920, 924]}

@@ -1,0 +1,7 @@
+
+years!	{"Deuteronomy_ch_8.docx": [671], "1 Samuel_ch_7.docx": [328, 328, 328], "Jeremiah_ch_28.docx": [1514, 1514, 1514], "Ezekiel_ch_22.docx": [490, 490, 490], "Luke_ch_13.docx": [2076, 2076], "Hebrews_ch_3.docx": [1036, 1036]}
+david]	{"1 Kings_ch_12.docx": [2509]}
+years!	{"Deuteronomy_ch_8.docx": [671], "1 Samuel_ch_7.docx": [328, 328], "Jeremiah_ch_28.docx": [1514, 1514], "Ezekiel_ch_22.docx": [490, 490], "Luke_ch_13.docx": [2076], "Hebrews_ch_3.docx": [1036]}
+david]	{"1 Kings_ch_12.docx": [2509]}
+years!	{"Deuteronomy_ch_8.docx": [671], "1 Samuel_ch_7.docx": [328], "Jeremiah_ch_28.docx": [1514], "Ezekiel_ch_22.docx": [490], "Luke_ch_13.docx": [2076], "Hebrews_ch_3.docx": [1036]}
+david]	{"1 Kings_ch_12.docx": [2509]}

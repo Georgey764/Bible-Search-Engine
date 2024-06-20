@@ -1,0 +1,2 @@
+
+26i	{"Deuteronomy_ch_4.docx": [3847], "2 Samuel_ch_1.docx": [3614], "2 Kings_ch_4.docx": [3842], "2 Chronicles_ch_30.docx": [4826], "Ezra_ch_8.docx": [3538], "Nehemiah_ch_11.docx": [4382], "Nehemiah_ch_12.docx": [2744], "Job_ch_3.docx": [2454], "Job_ch_30.docx": [2541], "Proverbs_ch_17.docx": [2516], "Ezekiel_ch_1.docx": [3648], "Ezekiel_ch_32.docx": [4278]}

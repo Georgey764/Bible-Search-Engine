@@ -1,0 +1,6 @@
+
+radia	{"Exodus_ch_34.docx": [4416, 5197, 5197, 5197], "Psalms_ch_18.docx": [1280, 1280, 1280], "Psalms_ch_19.docx": [914, 914, 914], "Lamentations_ch_4.docx": [1090, 1090, 1090]}
+ital	{"Acts_ch_10.docx": [20], "Acts_ch_18.docx": [428, 458, 489, 428, 458, 489], "Acts_ch_27.docx": [17, 645, 17, 645]}
+radia	{"Exodus_ch_34.docx": [4416, 5197, 5197], "Psalms_ch_18.docx": [1280, 1280], "Psalms_ch_19.docx": [914, 914], "Lamentations_ch_4.docx": [1090, 1090]}
+radia	{"Exodus_ch_34.docx": [4416, 5197], "Psalms_ch_18.docx": [1280], "Psalms_ch_19.docx": [914], "Lamentations_ch_4.docx": [1090]}
+ital	{"Acts_ch_10.docx": [20], "Acts_ch_18.docx": [428, 458, 489], "Acts_ch_27.docx": [17, 645]}

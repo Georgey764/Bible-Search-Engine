@@ -1,0 +1,4 @@
+
+amad	{"Genesis_ch_36.docx": [2899], "1 Chronicles_ch_1.docx": [3409, 3409, 3409], "1 Chronicles_ch_23.docx": [1994, 1994, 1994], "1 Chronicles_ch_24.docx": [2503, 2503, 2503], "Esther_ch_3.docx": [13, 13, 13], "Esther_ch_9.docx": [717, 717, 717]}
+amad	{"Genesis_ch_36.docx": [2899], "1 Chronicles_ch_1.docx": [3409, 3409], "1 Chronicles_ch_23.docx": [1994, 1994], "1 Chronicles_ch_24.docx": [2503, 2503], "Esther_ch_3.docx": [13, 13], "Esther_ch_9.docx": [717, 717]}
+amad	{"Genesis_ch_36.docx": [2899], "1 Chronicles_ch_1.docx": [3409], "1 Chronicles_ch_23.docx": [1994], "1 Chronicles_ch_24.docx": [2503], "Esther_ch_3.docx": [13], "Esther_ch_9.docx": [717]}

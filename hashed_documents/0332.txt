@@ -1,0 +1,5 @@
+
+7‘n	{"Genesis_ch_9.docx": [827], "Exodus_ch_23.docx": [642], "Numbers_ch_18.docx": [1092], "2 Samuel_ch_19.docx": [942], "2 Kings_ch_9.docx": [1069], "Job_ch_16.docx": [598], "Job_ch_40.docx": [549], "Psalms_ch_52.docx": [742], "Jeremiah_ch_4.docx": [1236], "Jeremiah_ch_16.docx": [1044], "Ezekiel_ch_35.docx": [806], "Zechariah_ch_7.docx": [969]}
+15he	{"Exodus_ch_19.docx": [2323], "Numbers_ch_5.docx": [1553], "1 Kings_ch_6.docx": [1879], "2 Kings_ch_17.docx": [2403], "2 Kings_ch_18.docx": [2266], "2 Kings_ch_24.docx": [2346], "1 Chronicles_ch_11.docx": [2879], "1 Chronicles_ch_24.docx": [1731], "2 Chronicles_ch_26.docx": [2082], "Job_ch_33.docx": [1310], "Psalms_ch_33.docx": [1210], "Psalms_ch_78.docx": [1531], "Psalms_ch_91.docx": [1320], "Psalms_ch_118.docx": [1219], "Psalms_ch_136.docx": [1602], "Psalms_ch_147.docx": [1332], "Isaiah_ch_7.docx": [2027], "Isaiah_ch_38.docx": [2188], "Isaiah_ch_51.docx": [2928], "Daniel_ch_2.docx": [2203]}
+26‘no	{"Leviticus_ch_7.docx": [3728], "Isaiah_ch_41.docx": [4655], "Jeremiah_ch_51.docx": [4248]}
+7‘emb	{"Ezekiel_ch_27.docx": [724]}

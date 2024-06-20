@@ -1,0 +1,2 @@
+
+600	{"Genesis_ch_7.docx": [797, 1339], "Exodus_ch_12.docx": [5765], "Numbers_ch_11.docx": [3236], "Judges_ch_3.docx": [11228], "Judges_ch_18.docx": [2393, 3822], "Judges_ch_20.docx": [8345, 8360, 8378], "1 Samuel_ch_13.docx": [2612], "1 Samuel_ch_14.docx": [247], "1 Samuel_ch_27.docx": [263], "1 Samuel_ch_30.docx": [1177], "2 Samuel_ch_15.docx": [2583, 2595], "1 Kings_ch_10.docx": [2535], "1 Chronicles_ch_21.docx": [4185], "2 Chronicles_ch_1.docx": [2745], "2 Chronicles_ch_9.docx": [2396], "2 Chronicles_ch_29.docx": [5933], "Ezra_ch_7.docx": [3195, 3222, 3257]}

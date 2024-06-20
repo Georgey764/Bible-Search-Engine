@@ -1,0 +1,5 @@
+
+raga	{"Genesis_ch_11.docx": [2282, 2288, 2445, 2288, 2288, 2445], "1 Chronicles_ch_1.docx": [2048, 2048, 2048]}
+raga	{"Genesis_ch_11.docx": [2282, 2288, 2288, 2445], "1 Chronicles_ch_1.docx": [2048, 2048]}
+6on	{"Psalms_ch_41.docx": [547]}
+raga	{"Genesis_ch_11.docx": [2282, 2288, 2445], "1 Chronicles_ch_1.docx": [2048]}

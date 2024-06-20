@@ -1,0 +1,4 @@
+
+amada	{"Genesis_ch_36.docx": [2899], "1 Chronicles_ch_1.docx": [3409, 3409, 3409], "Esther_ch_3.docx": [13, 13, 13], "Esther_ch_9.docx": [717, 717, 717]}
+amada	{"Genesis_ch_36.docx": [2899], "1 Chronicles_ch_1.docx": [3409, 3409], "Esther_ch_3.docx": [13, 13], "Esther_ch_9.docx": [717, 717]}
+amada	{"Genesis_ch_36.docx": [2899], "1 Chronicles_ch_1.docx": [3409], "Esther_ch_3.docx": [13], "Esther_ch_9.docx": [717]}

@@ -1,0 +1,5 @@
+
+wastef	{"Isaiah_ch_32.docx": [619], "1 Timothy_ch_5.docx": [1423, 1423]}
+22‘we	{"Genesis_ch_43.docx": [2945]}
+wastef	{"Isaiah_ch_32.docx": [619], "1 Timothy_ch_5.docx": [1423]}
+wastef	{"Isaiah_ch_32.docx": [619], "1 Timothy_ch_5.docx": [1423]}

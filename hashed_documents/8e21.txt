@@ -1,0 +1,5 @@
+
+congra	{"2 Samuel_ch_8.docx": [1477], "1 Chronicles_ch_18.docx": [1153, 1153, 1153]}
+31he’	{"Genesis_ch_27.docx": [3841]}
+congra	{"2 Samuel_ch_8.docx": [1477], "1 Chronicles_ch_18.docx": [1153, 1153]}
+congra	{"2 Samuel_ch_8.docx": [1477], "1 Chronicles_ch_18.docx": [1153]}

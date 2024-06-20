@@ -1,0 +1,5 @@
+
+reconc	{"Exodus_ch_30.docx": [1122, 1685, 2028, 1685, 2028, 1685, 2028], "1 Samuel_ch_29.docx": [748, 748, 748], "2 Corinthians_ch_5.docx": [3192, 3192], "Hebrews_ch_4.docx": [1010, 1746, 1010, 1746]}
+reconc	{"Exodus_ch_30.docx": [1122, 1685, 2028, 1685, 2028], "1 Samuel_ch_29.docx": [748, 748], "2 Corinthians_ch_5.docx": [3192], "Hebrews_ch_4.docx": [1010, 1746]}
+7their	{"Ezekiel_ch_1.docx": [547]}
+reconc	{"Exodus_ch_30.docx": [1122, 1685, 2028], "1 Samuel_ch_29.docx": [748], "2 Corinthians_ch_5.docx": [3192], "Hebrews_ch_4.docx": [1010, 1746]}

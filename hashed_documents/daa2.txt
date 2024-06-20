@@ -1,0 +1,4 @@
+
+ibi	{"Leviticus_ch_11.docx": [1919], "Isaiah_ch_34.docx": [1671, 1671]}
+ibi	{"Isaiah_ch_34.docx": [1671, 1671]}
+ibi	{"Leviticus_ch_11.docx": [1919], "Isaiah_ch_34.docx": [1671]}

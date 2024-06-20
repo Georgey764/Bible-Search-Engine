@@ -1,0 +1,6 @@
+
+jesshu	{"Genesis_ch_46.docx": [1980]}
+loweri	{"Acts_ch_27.docx": [4159]}
+jesshu	{"Genesis_ch_46.docx": [1980]}
+jesshu	{"Genesis_ch_46.docx": [1980]}
+loweri	{"Acts_ch_27.docx": [4159]}

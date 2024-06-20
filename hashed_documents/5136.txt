@@ -1,0 +1,7 @@
+
+upsid	{"Judges_ch_7.docx": [3477]}
+below;	{"Ecclesiastes_ch_7.docx": [2645]}
+upsid	{"Judges_ch_7.docx": [3477]}
+below;	{"Ecclesiastes_ch_7.docx": [2645]}
+upsid	{"Judges_ch_7.docx": [3477]}
+below;	{"Ecclesiastes_ch_7.docx": [2645]}

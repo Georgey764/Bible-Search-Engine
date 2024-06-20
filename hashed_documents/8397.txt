@@ -1,0 +1,5 @@
+
+first!	{"Ruth_ch_3.docx": [1217], "Matthew_ch_27.docx": [7661, 7661], "Mark_ch_7.docx": [722, 722], "John_ch_15.docx": [2118, 2118], "Romans_ch_11.docx": [128, 128], "1 John_ch_4.docx": [2466, 2466], "Revelation_ch_2.docx": [554, 554]}
+first!	{"Ruth_ch_3.docx": [1217], "Matthew_ch_27.docx": [7661], "Mark_ch_7.docx": [722], "John_ch_15.docx": [2118], "Romans_ch_11.docx": [128], "1 John_ch_4.docx": [2466], "Revelation_ch_2.docx": [554]}
+9melci	{"1 Chronicles_ch_24.docx": [1435]}
+first!	{"Ruth_ch_3.docx": [1217], "Matthew_ch_27.docx": [7661], "Mark_ch_7.docx": [722], "John_ch_15.docx": [2118], "Romans_ch_11.docx": [128], "1 John_ch_4.docx": [2466], "Revelation_ch_2.docx": [554]}

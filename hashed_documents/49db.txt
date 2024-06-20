@@ -1,0 +1,4 @@
+
+kelita	{"Nehemiah_ch_8.docx": [1919], "Nehemiah_ch_10.docx": [555, 555, 555]}
+kelita	{"Nehemiah_ch_8.docx": [1919], "Nehemiah_ch_10.docx": [555, 555]}
+kelita	{"Nehemiah_ch_8.docx": [1919], "Nehemiah_ch_10.docx": [555]}

@@ -1,0 +1,5 @@
+
+chalan	{"Genesis_ch_10.docx": [1100]}
+15.2	{"Genesis_ch_6.docx": [2043], "2 Chronicles_ch_3.docx": [1808], "2 Chronicles_ch_4.docx": [166]}
+chalan	{"Genesis_ch_10.docx": [1100]}
+chalan	{"Genesis_ch_10.docx": [1100]}

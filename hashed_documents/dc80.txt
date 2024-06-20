@@ -1,0 +1,4 @@
+
+tum	{"Ezekiel_ch_7.docx": [931], "Nahum_ch_2.docx": [1963, 1963, 1963]}
+tum	{"Ezekiel_ch_7.docx": [931], "Nahum_ch_2.docx": [1963, 1963]}
+tum	{"Ezekiel_ch_7.docx": [931], "Nahum_ch_2.docx": [1963]}

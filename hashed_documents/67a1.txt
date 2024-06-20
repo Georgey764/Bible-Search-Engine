@@ -1,0 +1,4 @@
+
+kare	{"Jeremiah_ch_40.docx": [1714, 2993, 3330, 3640, 2993, 3330, 3640, 2993, 3330, 3640], "Jeremiah_ch_41.docx": [1887, 1948, 1887, 1948, 1887, 1948], "Jeremiah_ch_42.docx": [17, 1167, 17, 1167, 17, 1167], "Jeremiah_ch_43.docx": [30, 520, 30, 520, 30, 520]}
+kare	{"Jeremiah_ch_40.docx": [1714, 2993, 3330, 3640, 2993, 3330, 3640], "Jeremiah_ch_41.docx": [1887, 1948, 1887, 1948], "Jeremiah_ch_42.docx": [17, 1167, 17, 1167], "Jeremiah_ch_43.docx": [30, 520, 30, 520]}
+kare	{"Jeremiah_ch_40.docx": [1714, 2993, 3330, 3640], "Jeremiah_ch_41.docx": [1887, 1948], "Jeremiah_ch_42.docx": [17, 1167], "Jeremiah_ch_43.docx": [30, 520]}

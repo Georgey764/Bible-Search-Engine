@@ -1,0 +1,4 @@
+
+chobe	{"Numbers_ch_26.docx": [3068, 3073, 3073]}
+chobe	{"Numbers_ch_26.docx": [3073, 3073]}
+chobe	{"Numbers_ch_26.docx": [3068, 3073]}

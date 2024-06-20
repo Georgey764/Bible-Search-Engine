@@ -1,0 +1,4 @@
+
+aside!	{"Numbers_ch_6.docx": [197], "Deuteronomy_ch_19.docx": [1105, 1105, 1105], "1 Kings_ch_14.docx": [1535, 1535, 1535], "Ezekiel_ch_34.docx": [3756, 3756, 3756]}
+aside!	{"Numbers_ch_6.docx": [197], "Deuteronomy_ch_19.docx": [1105, 1105], "1 Kings_ch_14.docx": [1535, 1535], "Ezekiel_ch_34.docx": [3756, 3756]}
+aside!	{"Numbers_ch_6.docx": [197], "Deuteronomy_ch_19.docx": [1105], "1 Kings_ch_14.docx": [1535], "Ezekiel_ch_34.docx": [3756]}

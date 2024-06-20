@@ -1,0 +1,4 @@
+
+carpet	{"1 Samuel_ch_9.docx": [4215], "Song of Solomon_ch_3.docx": [1523, 1523, 1523]}
+carpet	{"1 Samuel_ch_9.docx": [4215], "Song of Solomon_ch_3.docx": [1523, 1523]}
+carpet	{"1 Samuel_ch_9.docx": [4215], "Song of Solomon_ch_3.docx": [1523]}

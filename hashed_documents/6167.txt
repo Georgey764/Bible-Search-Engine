@@ -1,0 +1,4 @@
+
+skille	{"Genesis_ch_25.docx": [2989], "Exodus_ch_35.docx": [2577, 3476, 2577, 3476, 2577, 3476], "1 Samuel_ch_16.docx": [3021, 3021, 3021], "1 Chronicles_ch_28.docx": [4285, 4285, 4285], "2 Chronicles_ch_18.docx": [5254, 5254, 5254], "Psalms_ch_78.docx": [6967, 6967, 6967], "Jeremiah_ch_10.docx": [1111, 1111, 1111]}
+skille	{"Genesis_ch_25.docx": [2989], "Exodus_ch_35.docx": [2577, 3476, 2577, 3476], "1 Samuel_ch_16.docx": [3021, 3021], "1 Chronicles_ch_28.docx": [4285, 4285], "2 Chronicles_ch_18.docx": [5254, 5254], "Psalms_ch_78.docx": [6967, 6967], "Jeremiah_ch_10.docx": [1111, 1111]}
+skille	{"Genesis_ch_25.docx": [2989], "Exodus_ch_35.docx": [2577, 3476], "1 Samuel_ch_16.docx": [3021], "1 Chronicles_ch_28.docx": [4285], "2 Chronicles_ch_18.docx": [5254], "Psalms_ch_78.docx": [6967], "Jeremiah_ch_10.docx": [1111]}

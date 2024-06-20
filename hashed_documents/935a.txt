@@ -1,0 +1,5 @@
+
+mired	{"Judges_ch_5.docx": [3242], "Psalms_ch_9.docx": [1352, 1352, 1352]}
+mired	{"Judges_ch_5.docx": [3242], "Psalms_ch_9.docx": [1352, 1352]}
+2wat	{"Psalms_ch_86.docx": [106]}
+mired	{"Judges_ch_5.docx": [3242], "Psalms_ch_9.docx": [1352]}

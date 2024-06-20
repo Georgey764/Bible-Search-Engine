@@ -1,0 +1,6 @@
+
+biceps	{"2 Samuel_ch_1.docx": [1249]}
+sincer	{"Acts_ch_2.docx": [12039], "1 Corinthians_ch_5.docx": [878, 878], "2 Corinthians_ch_1.docx": [2295, 2295], "Philippians_ch_1.docx": [2177, 2177], "Colossians_ch_3.docx": [2706, 2706], "1 Peter_ch_1.docx": [5767, 5767]}
+biceps	{"2 Samuel_ch_1.docx": [1249]}
+biceps	{"2 Samuel_ch_1.docx": [1249]}
+sincer	{"Acts_ch_2.docx": [12039], "1 Corinthians_ch_5.docx": [878], "2 Corinthians_ch_1.docx": [2295], "Philippians_ch_1.docx": [2177], "Colossians_ch_3.docx": [2706], "1 Peter_ch_1.docx": [5767]}

@@ -1,0 +1,4 @@
+
+vulne	{"1 Samuel_ch_24.docx": [2875]}
+vulne	{"1 Samuel_ch_24.docx": [2875]}
+vulne	{"1 Samuel_ch_24.docx": [2875]}

@@ -1,0 +1,5 @@
+
+kedem	{"Jeremiah_ch_49.docx": [5057], "Ezekiel_ch_25.docx": [538, 1611, 538, 1611, 538, 1611]}
+32(t	{"Joshua_ch_13.docx": [34917]}
+kedem	{"Jeremiah_ch_49.docx": [5057], "Ezekiel_ch_25.docx": [538, 1611, 538, 1611]}
+kedem	{"Jeremiah_ch_49.docx": [5057], "Ezekiel_ch_25.docx": [538, 1611]}

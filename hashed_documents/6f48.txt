@@ -1,0 +1,5 @@
+
+intend	{"1 Kings_ch_20.docx": [1036], "2 Chronicles_ch_32.docx": [521, 521, 521], "Psalms_ch_38.docx": [8, 8, 8], "John_ch_7.docx": [4528, 4528], "Romans_ch_8.docx": [1637, 1637], "2 Corinthians_ch_10.docx": [257, 257]}
+intend	{"1 Kings_ch_20.docx": [1036], "2 Chronicles_ch_32.docx": [521, 521], "Psalms_ch_38.docx": [8, 8], "John_ch_7.docx": [4528], "Romans_ch_8.docx": [1637], "2 Corinthians_ch_10.docx": [257]}
+1‘d	{"Song of Solomon_ch_3.docx": [8], "Isaiah_ch_9.docx": [6], "Matthew_ch_7.docx": [6]}
+intend	{"1 Kings_ch_20.docx": [1036], "2 Chronicles_ch_32.docx": [521], "Psalms_ch_38.docx": [8], "John_ch_7.docx": [4528], "Romans_ch_8.docx": [1637], "2 Corinthians_ch_10.docx": [257]}

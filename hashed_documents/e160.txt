@@ -1,0 +1,4 @@
+
+heavil	{"Psalms_ch_73.docx": [1416], "Ecclesiastes_ch_9.docx": [2552, 2552, 2552]}
+heavil	{"Psalms_ch_73.docx": [1416], "Ecclesiastes_ch_9.docx": [2552, 2552]}
+heavil	{"Psalms_ch_73.docx": [1416], "Ecclesiastes_ch_9.docx": [2552]}

@@ -1,0 +1,4 @@
+
+pint	{"Numbers_ch_28.docx": [2844, 3681, 3681, 3681], "2 Kings_ch_6.docx": [3767, 3767, 3767]}
+pint	{"Numbers_ch_28.docx": [2844, 3681, 3681], "2 Kings_ch_6.docx": [3767, 3767]}
+pint	{"Numbers_ch_28.docx": [2844, 3681], "2 Kings_ch_6.docx": [3767]}

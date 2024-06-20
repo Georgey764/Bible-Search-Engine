@@ -1,0 +1,5 @@
+
+closet	{"2 Kings_ch_6.docx": [1584], "2 Kings_ch_11.docx": [170, 170, 170], "2 Chronicles_ch_18.docx": [3985, 3987, 3985, 3987, 3985, 3987], "2 Chronicles_ch_22.docx": [1846, 1846, 1846], "Psalms_ch_105.docx": [2508, 2508, 2508], "Ecclesiastes_ch_10.docx": [2237, 2237, 2237]}
+closet	{"2 Kings_ch_6.docx": [1584], "2 Kings_ch_11.docx": [170, 170], "2 Chronicles_ch_18.docx": [3985, 3987, 3985, 3987], "2 Chronicles_ch_22.docx": [1846, 1846], "Psalms_ch_105.docx": [2508, 2508], "Ecclesiastes_ch_10.docx": [2237, 2237]}
+5inst	{"Psalms_ch_109.docx": [348], "Proverbs_ch_20.docx": [834]}
+closet	{"2 Kings_ch_6.docx": [1584], "2 Kings_ch_11.docx": [170], "2 Chronicles_ch_18.docx": [3985, 3987], "2 Chronicles_ch_22.docx": [1846], "Psalms_ch_105.docx": [2508], "Ecclesiastes_ch_10.docx": [2237]}

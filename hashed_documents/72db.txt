@@ -1,0 +1,4 @@
+
+cag	{"Job_ch_41.docx": [387], "Ezekiel_ch_19.docx": [390, 1003, 1088, 390, 1003, 1088, 390, 1003, 1088], "Amos_ch_8.docx": [16, 162, 16, 162, 16, 162], "2 Timothy_ch_2.docx": [3641, 3641], "Revelation_ch_18.docx": [232, 232]}
+cag	{"Job_ch_41.docx": [387], "Ezekiel_ch_19.docx": [390, 1003, 1088, 390, 1003, 1088], "Amos_ch_8.docx": [16, 162, 16, 162], "2 Timothy_ch_2.docx": [3641], "Revelation_ch_18.docx": [232]}
+cag	{"Job_ch_41.docx": [387], "Ezekiel_ch_19.docx": [390, 1003, 1088], "Amos_ch_8.docx": [16, 162], "2 Timothy_ch_2.docx": [3641], "Revelation_ch_18.docx": [232]}

@@ -1,0 +1,5 @@
+
+most-	{"Exodus_ch_30.docx": [4511], "Psalms_ch_7.docx": [1750, 1750, 1750], "Song of Solomon_ch_6.docx": [1270, 1270, 1270], "Isaiah_ch_57.docx": [2453, 2453, 2453], "Jeremiah_ch_29.docx": [4563, 4563, 4563], "Ezekiel_ch_20.docx": [7309, 7309, 7309], "Luke_ch_16.docx": [3270, 3270]}
+most-	{"Exodus_ch_30.docx": [4511], "Psalms_ch_7.docx": [1750, 1750], "Song of Solomon_ch_6.docx": [1270, 1270], "Isaiah_ch_57.docx": [2453, 2453], "Jeremiah_ch_29.docx": [4563, 4563], "Ezekiel_ch_20.docx": [7309, 7309], "Luke_ch_16.docx": [3270]}
+49‘...	{"Matthew_ch_24.docx": [5677]}
+most-	{"Exodus_ch_30.docx": [4511], "Psalms_ch_7.docx": [1750], "Song of Solomon_ch_6.docx": [1270], "Isaiah_ch_57.docx": [2453], "Jeremiah_ch_29.docx": [4563], "Ezekiel_ch_20.docx": [7309], "Luke_ch_16.docx": [3270]}

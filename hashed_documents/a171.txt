@@ -1,0 +1,7 @@
+
+tripp	{"Deuteronomy_ch_32.docx": [5108], "Romans_ch_9.docx": [4173, 4173]}
+death<	{"2 Corinthians_ch_1.docx": [1551]}
+tripp	{"Deuteronomy_ch_32.docx": [5108], "Romans_ch_9.docx": [4173]}
+50unti	{"Lamentations_ch_3.docx": [4099]}
+tripp	{"Deuteronomy_ch_32.docx": [5108], "Romans_ch_9.docx": [4173]}
+death<	{"2 Corinthians_ch_1.docx": [1551]}

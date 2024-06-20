@@ -1,0 +1,2 @@
+
+300,00	{"1 Samuel_ch_11.docx": [1233], "2 Chronicles_ch_14.docx": [1051], "2 Chronicles_ch_17.docx": [1982], "2 Chronicles_ch_25.docx": [621], "2 Chronicles_ch_28.docx": [981]}

@@ -1,0 +1,4 @@
+
+masek	{"Genesis_ch_15.docx": [215], "1 Chronicles_ch_1.docx": [4017, 4017, 4017]}
+masek	{"Genesis_ch_15.docx": [215], "1 Chronicles_ch_1.docx": [4017, 4017]}
+masek	{"Genesis_ch_15.docx": [215], "1 Chronicles_ch_1.docx": [4017]}

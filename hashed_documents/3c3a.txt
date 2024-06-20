@@ -1,0 +1,10 @@
+
+jov	{"Genesis_ch_10.docx": [243, 489, 489]}
+moat	{"1 Kings_ch_18.docx": [5367, 5830, 6349, 5830, 6349, 5830, 6349], "2 Kings_ch_19.docx": [4111, 4111, 4111], "Jeremiah_ch_51.docx": [5353, 5353, 5353]}
+tarp	{"Ezra_ch_4.docx": [1456]}
+jov	{"Genesis_ch_10.docx": [243, 489]}
+moat	{"1 Kings_ch_18.docx": [5367, 5830, 6349, 5830, 6349], "2 Kings_ch_19.docx": [4111, 4111], "Jeremiah_ch_51.docx": [5353, 5353]}
+tarp	{"Ezra_ch_4.docx": [1456]}
+jov	{"Genesis_ch_10.docx": [243, 489]}
+moat	{"1 Kings_ch_18.docx": [5367, 5830, 6349], "2 Kings_ch_19.docx": [4111], "Jeremiah_ch_51.docx": [5353]}
+tarp	{"Ezra_ch_4.docx": [1456]}

@@ -1,0 +1,4 @@
+
+thadd	{"Matthew_ch_10.docx": [498], "Mark_ch_3.docx": [2230, 2230], "Luke_ch_6.docx": [1961, 1961], "John_ch_14.docx": [2594, 2594]}
+thadd	{"Matthew_ch_10.docx": [498], "Mark_ch_3.docx": [2230], "Luke_ch_6.docx": [1961], "John_ch_14.docx": [2594]}
+thadd	{"Matthew_ch_10.docx": [498], "Mark_ch_3.docx": [2230], "Luke_ch_6.docx": [1961], "John_ch_14.docx": [2594]}

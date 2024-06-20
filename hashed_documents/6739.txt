@@ -1,0 +1,4 @@
+
+27od	{"Genesis_ch_10.docx": [2982]}
+19‘tho	{"Numbers_ch_35.docx": [2500], "Job_ch_4.docx": [1755], "Job_ch_19.docx": [1678]}
+55des	{"Ezra_ch_2.docx": [2175]}

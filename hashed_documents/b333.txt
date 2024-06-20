@@ -1,0 +1,5 @@
+
+gabb	{"Nehemiah_ch_11.docx": [1425], "John_ch_19.docx": [1672, 1672]}
+gabb	{"Nehemiah_ch_11.docx": [1425], "John_ch_19.docx": [1672]}
+11‘wel	{"Matthew_ch_25.docx": [1041]}
+gabb	{"Nehemiah_ch_11.docx": [1425], "John_ch_19.docx": [1672]}

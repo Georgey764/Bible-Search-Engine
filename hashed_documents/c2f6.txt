@@ -1,0 +1,4 @@
+
+foref	{"Numbers_ch_18.docx": [231], "Deuteronomy_ch_32.docx": [7349, 7349, 7349], "Matthew_ch_23.docx": [3850, 3850, 3850], "John_ch_7.docx": [2762, 2762], "Acts_ch_13.docx": [5904, 5904], "Romans_ch_9.docx": [397, 1205, 397, 1205], "2 Timothy_ch_1.docx": [277, 277], "Hebrews_ch_7.docx": [1459, 1459]}
+foref	{"Numbers_ch_18.docx": [231], "Deuteronomy_ch_32.docx": [7349, 7349], "Matthew_ch_23.docx": [3850, 3850], "John_ch_7.docx": [2762], "Acts_ch_13.docx": [5904], "Romans_ch_9.docx": [397, 1205], "2 Timothy_ch_1.docx": [277], "Hebrews_ch_7.docx": [1459]}
+foref	{"Numbers_ch_18.docx": [231], "Deuteronomy_ch_32.docx": [7349], "Matthew_ch_23.docx": [3850], "John_ch_7.docx": [2762], "Acts_ch_13.docx": [5904], "Romans_ch_9.docx": [397, 1205], "2 Timothy_ch_1.docx": [277], "Hebrews_ch_7.docx": [1459]}

@@ -1,0 +1,2 @@
+
+18for	{"Exodus_ch_15.docx": [2354], "Exodus_ch_18.docx": [2351], "Deuteronomy_ch_24.docx": [2597], "Deuteronomy_ch_25.docx": [2267], "2 Chronicles_ch_10.docx": [2514], "Job_ch_5.docx": [1573], "Job_ch_9.docx": [1579], "Psalms_ch_89.docx": [1765], "Proverbs_ch_22.docx": [1897], "Proverbs_ch_23.docx": [1483], "Proverbs_ch_24.docx": [1724], "Isaiah_ch_24.docx": [2790], "Isaiah_ch_26.docx": [2112], "Isaiah_ch_28.docx": [2752], "Ezekiel_ch_11.docx": [2808], "Ezekiel_ch_39.docx": [3204], "Hosea_ch_4.docx": [2913]}

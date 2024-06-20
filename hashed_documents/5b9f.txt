@@ -1,0 +1,8 @@
+
+knows;	{"Joshua_ch_22.docx": [3713]}
+nappin	{"Song of Solomon_ch_1.docx": [1105]}
+knows;	{"Joshua_ch_22.docx": [3713]}
+13ri	{"Proverbs_ch_16.docx": [1245]}
+nappin	{"Song of Solomon_ch_1.docx": [1105]}
+knows;	{"Joshua_ch_22.docx": [3713]}
+nappin	{"Song of Solomon_ch_1.docx": [1105]}

@@ -1,0 +1,4 @@
+
+collap	{"Exodus_ch_23.docx": [509], "Joshua_ch_6.docx": [2402, 2402, 2402], "Judges_ch_16.docx": [5612, 5612, 5612], "Matthew_ch_7.docx": [3151, 3151, 3151], "Luke_ch_6.docx": [6528, 6528]}
+collap	{"Exodus_ch_23.docx": [509], "Joshua_ch_6.docx": [2402, 2402], "Judges_ch_16.docx": [5612, 5612], "Matthew_ch_7.docx": [3151, 3151], "Luke_ch_6.docx": [6528]}
+collap	{"Exodus_ch_23.docx": [509], "Joshua_ch_6.docx": [2402], "Judges_ch_16.docx": [5612], "Matthew_ch_7.docx": [3151], "Luke_ch_6.docx": [6528]}

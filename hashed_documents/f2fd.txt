@@ -1,0 +1,4 @@
+
+times;	{"Deuteronomy_ch_25.docx": [208], "1 Kings_ch_18.docx": [7371, 7371, 7371], "Zechariah_ch_8.docx": [1872, 1872, 1872]}
+times;	{"Deuteronomy_ch_25.docx": [208], "1 Kings_ch_18.docx": [7371, 7371], "Zechariah_ch_8.docx": [1872, 1872]}
+times;	{"Deuteronomy_ch_25.docx": [208], "1 Kings_ch_18.docx": [7371], "Zechariah_ch_8.docx": [1872]}

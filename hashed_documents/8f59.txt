@@ -1,0 +1,5 @@
+
+ ar	{"1 Chronicles_ch_8.docx": [99]}
+ ar	{"1 Chronicles_ch_8.docx": [99]}
+106so	{"Psalms_ch_119.docx": [8800]}
+ ar	{"1 Chronicles_ch_8.docx": [99]}

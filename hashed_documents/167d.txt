@@ -1,0 +1,4 @@
+
+zup	{"1 Samuel_ch_1.docx": [39], "1 Samuel_ch_9.docx": [620, 620, 620]}
+zup	{"1 Samuel_ch_1.docx": [39], "1 Samuel_ch_9.docx": [620, 620]}
+zup	{"1 Samuel_ch_1.docx": [39], "1 Samuel_ch_9.docx": [620]}

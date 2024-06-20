@@ -1,0 +1,5 @@
+
+bethon	{"Joshua_ch_18.docx": [1965]}
+22tha	{"Genesis_ch_47.docx": [3417], "1 Chronicles_ch_5.docx": [2815]}
+bethon	{"Joshua_ch_18.docx": [1965]}
+bethon	{"Joshua_ch_18.docx": [1965]}

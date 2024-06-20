@@ -1,0 +1,7 @@
+
+44oz	{"1 Chronicles_ch_11.docx": [6353]}
+wisely	{"Proverbs_ch_11.docx": [153], "Proverbs_ch_28.docx": [2465, 2465, 2465], "Isaiah_ch_31.docx": [322, 322, 322], "Isaiah_ch_40.docx": [2817, 2817, 2817]}
+44oz	{"1 Chronicles_ch_11.docx": [6353]}
+wisely	{"Proverbs_ch_11.docx": [153], "Proverbs_ch_28.docx": [2465, 2465], "Isaiah_ch_31.docx": [322, 322], "Isaiah_ch_40.docx": [2817, 2817]}
+44oz	{"1 Chronicles_ch_11.docx": [6353]}
+wisely	{"Proverbs_ch_11.docx": [153], "Proverbs_ch_28.docx": [2465], "Isaiah_ch_31.docx": [322], "Isaiah_ch_40.docx": [2817]}

@@ -1,0 +1,6 @@
+
+jeseba	{"1 Chronicles_ch_11.docx": [1943]}
+gerase	{"Luke_ch_8.docx": [3844]}
+jeseba	{"1 Chronicles_ch_11.docx": [1943]}
+jeseba	{"1 Chronicles_ch_11.docx": [1943]}
+gerase	{"Luke_ch_8.docx": [3844]}

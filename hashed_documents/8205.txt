@@ -1,0 +1,6 @@
+
+gadare	{"Matthew_ch_8.docx": [3500]}
+aglow	{"Acts_ch_18.docx": [8451]}
+gadare	{"Matthew_ch_8.docx": [3500]}
+gadare	{"Matthew_ch_8.docx": [3500]}
+aglow	{"Acts_ch_18.docx": [8451]}

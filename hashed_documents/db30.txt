@@ -1,0 +1,4 @@
+
+power!	{"Deuteronomy_ch_8.docx": [2465], "Job_ch_37.docx": [1317, 1317, 1317], "Ecclesiastes_ch_9.docx": [1839, 1839, 1839], "Jeremiah_ch_20.docx": [2744, 2744, 2744], "Colossians_ch_2.docx": [1779, 1779], "Hebrews_ch_1.docx": [77, 77]}
+power!	{"Deuteronomy_ch_8.docx": [2465], "Job_ch_37.docx": [1317, 1317], "Ecclesiastes_ch_9.docx": [1839, 1839], "Jeremiah_ch_20.docx": [2744, 2744], "Colossians_ch_2.docx": [1779], "Hebrews_ch_1.docx": [77]}
+power!	{"Deuteronomy_ch_8.docx": [2465], "Job_ch_37.docx": [1317], "Ecclesiastes_ch_9.docx": [1839], "Jeremiah_ch_20.docx": [2744], "Colossians_ch_2.docx": [1779], "Hebrews_ch_1.docx": [77]}

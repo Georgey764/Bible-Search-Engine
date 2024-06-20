@@ -1,0 +1,7 @@
+
+featur	{"Job_ch_40.docx": [1759, 1772, 1772, 1772]}
+tilte	{"Psalms_ch_46.docx": [527]}
+featur	{"Job_ch_40.docx": [1759, 1772, 1772]}
+tilte	{"Psalms_ch_46.docx": [527]}
+featur	{"Job_ch_40.docx": [1759, 1772]}
+tilte	{"Psalms_ch_46.docx": [527]}

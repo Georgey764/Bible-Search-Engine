@@ -1,0 +1,5 @@
+
+cob	{"Job_ch_27.docx": [1641], "Psalms_ch_91.docx": [1152, 1152, 1152], "Isaiah_ch_11.docx": [1057, 1057, 1057], "Isaiah_ch_59.docx": [766, 766, 766]}
+42asar	{"1 Chronicles_ch_1.docx": [3457]}
+cob	{"Job_ch_27.docx": [1641], "Psalms_ch_91.docx": [1152, 1152], "Isaiah_ch_11.docx": [1057, 1057], "Isaiah_ch_59.docx": [766, 766]}
+cob	{"Job_ch_27.docx": [1641], "Psalms_ch_91.docx": [1152], "Isaiah_ch_11.docx": [1057], "Isaiah_ch_59.docx": [766]}

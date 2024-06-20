@@ -1,0 +1,4 @@
+
+sacar	{"Joshua_ch_15.docx": [4705]}
+17it’	{"Psalms_ch_104.docx": [1772], "Proverbs_ch_15.docx": [1675]}
+sacar	{"Joshua_ch_15.docx": [4705]}

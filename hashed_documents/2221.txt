@@ -1,0 +1,5 @@
+
+mace	{"Esther_ch_9.docx": [2699], "Acts_ch_27.docx": [224, 224], "Romans_ch_15.docx": [3606, 3606], "2 Corinthians_ch_1.docx": [2855, 2866, 2855, 2866], "2 Corinthians_ch_7.docx": [700, 700], "2 Corinthians_ch_9.docx": [93, 353, 93, 353], "2 Corinthians_ch_11.docx": [1180, 1180], "1 Thessalonians_ch_1.docx": [743, 940, 743, 940], "1 Thessalonians_ch_4.docx": [946, 946], "1 Timothy_ch_1.docx": [395, 395]}
+mace	{"Esther_ch_9.docx": [2699], "Acts_ch_27.docx": [224], "Romans_ch_15.docx": [3606], "2 Corinthians_ch_1.docx": [2855, 2866], "2 Corinthians_ch_7.docx": [700], "2 Corinthians_ch_9.docx": [93, 353], "2 Corinthians_ch_11.docx": [1180], "1 Thessalonians_ch_1.docx": [743, 940], "1 Thessalonians_ch_4.docx": [946], "1 Timothy_ch_1.docx": [395]}
+16‘und	{"Matthew_ch_9.docx": [2096]}
+mace	{"Esther_ch_9.docx": [2699], "Acts_ch_27.docx": [224], "Romans_ch_15.docx": [3606], "2 Corinthians_ch_1.docx": [2855, 2866], "2 Corinthians_ch_7.docx": [700], "2 Corinthians_ch_9.docx": [93, 353], "2 Corinthians_ch_11.docx": [1180], "1 Thessalonians_ch_1.docx": [743, 940], "1 Thessalonians_ch_4.docx": [946], "1 Timothy_ch_1.docx": [395]}

@@ -1,0 +1,7 @@
+
+horri	{"Deuteronomy_ch_28.docx": [8292], "Jeremiah_ch_14.docx": [3149, 3149, 3149]}
+pair’s	{"Judges_ch_15.docx": [505]}
+horri	{"Deuteronomy_ch_28.docx": [8292], "Jeremiah_ch_14.docx": [3149, 3149]}
+pair’s	{"Judges_ch_15.docx": [505]}
+horri	{"Deuteronomy_ch_28.docx": [8292], "Jeremiah_ch_14.docx": [3149]}
+pair’s	{"Judges_ch_15.docx": [505]}

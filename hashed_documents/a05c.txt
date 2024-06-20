@@ -1,0 +1,2 @@
+
+3‘an	{"Deuteronomy_ch_26.docx": [401], "2 Samuel_ch_17.docx": [283], "1 Chronicles_ch_13.docx": [450], "Jeremiah_ch_15.docx": [706], "Jeremiah_ch_17.docx": [385], "Ezekiel_ch_24.docx": [308], "Ezekiel_ch_44.docx": [313], "Ezekiel_ch_45.docx": [374], "Hosea_ch_7.docx": [496], "Amos_ch_1.docx": [3288], "Amos_ch_5.docx": [260], "Micah_ch_5.docx": [912]}

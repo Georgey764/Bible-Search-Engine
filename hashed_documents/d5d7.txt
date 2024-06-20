@@ -1,0 +1,8 @@
+
+tusks	{"2 Chronicles_ch_9.docx": [2649]}
+pride;	{"Jeremiah_ch_13.docx": [2798]}
+tusks	{"2 Chronicles_ch_9.docx": [2649]}
+7,7	{"2 Chronicles_ch_17.docx": [1544, 1548]}
+pride;	{"Jeremiah_ch_13.docx": [2798]}
+tusks	{"2 Chronicles_ch_9.docx": [2649]}
+pride;	{"Jeremiah_ch_13.docx": [2798]}

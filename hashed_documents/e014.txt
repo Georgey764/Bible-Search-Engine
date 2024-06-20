@@ -1,0 +1,7 @@
+
+saga	{"1 Chronicles_ch_2.docx": [4244, 4328, 4336, 4328, 4336, 4328, 4336]}
+azri	{"Nehemiah_ch_11.docx": [2252], "Jeremiah_ch_36.docx": [4071, 4071, 4071]}
+saga	{"1 Chronicles_ch_2.docx": [4244, 4328, 4336, 4328, 4336]}
+azri	{"Nehemiah_ch_11.docx": [2252], "Jeremiah_ch_36.docx": [4071, 4071]}
+saga	{"1 Chronicles_ch_2.docx": [4244, 4328, 4336]}
+azri	{"Nehemiah_ch_11.docx": [2252], "Jeremiah_ch_36.docx": [4071]}

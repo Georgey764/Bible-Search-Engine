@@ -1,0 +1,4 @@
+
+termi	{"Joshua_ch_15.docx": [934, 1715, 1715, 1715], "2 Kings_ch_1.docx": [14, 14, 14]}
+termi	{"Joshua_ch_15.docx": [934, 1715, 1715], "2 Kings_ch_1.docx": [14, 14]}
+termi	{"Joshua_ch_15.docx": [934, 1715], "2 Kings_ch_1.docx": [14]}

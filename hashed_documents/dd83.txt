@@ -1,0 +1,3 @@
+
+16‘com	{"Genesis_ch_8.docx": [1901]}
+12‘whe	{"Deuteronomy_ch_21.docx": [1585], "Job_ch_9.docx": [999], "Matthew_ch_26.docx": [1082]}

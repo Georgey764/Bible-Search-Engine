@@ -1,0 +1,5 @@
+
+tuck	{"Jeremiah_ch_49.docx": [1799]}
+618,55	{"Numbers_ch_1.docx": [4073]}
+tuck	{"Jeremiah_ch_49.docx": [1799]}
+tuck	{"Jeremiah_ch_49.docx": [1799]}

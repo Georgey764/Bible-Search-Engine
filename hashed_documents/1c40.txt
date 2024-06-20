@@ -1,0 +1,4 @@
+
+aggra	{"Proverbs_ch_19.docx": [605], "Proverbs_ch_25.docx": [2323, 2323, 2323]}
+aggra	{"Proverbs_ch_19.docx": [605], "Proverbs_ch_25.docx": [2323, 2323]}
+aggra	{"Proverbs_ch_19.docx": [605], "Proverbs_ch_25.docx": [2323]}

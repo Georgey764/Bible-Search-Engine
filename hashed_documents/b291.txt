@@ -1,0 +1,4 @@
+
+exces	{"Matthew_ch_23.docx": [3132], "1 Timothy_ch_3.docx": [1016, 1016], "Titus_ch_2.docx": [92, 92]}
+exces	{"Matthew_ch_23.docx": [3132], "1 Timothy_ch_3.docx": [1016], "Titus_ch_2.docx": [92]}
+exces	{"Matthew_ch_23.docx": [3132], "1 Timothy_ch_3.docx": [1016], "Titus_ch_2.docx": [92]}

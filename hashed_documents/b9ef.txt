@@ -1,0 +1,5 @@
+
+dump	{"Matthew_ch_5.docx": [3551, 3587, 3587, 3587], "Matthew_ch_18.docx": [1159, 1159, 1159], "Matthew_ch_23.docx": [1734, 4186, 1734, 4186, 1734, 4186], "Mark_ch_9.docx": [5931, 6221, 6464, 5931, 6221, 6464], "James_ch_3.docx": [782, 782]}
+8maazi	{"Nehemiah_ch_10.docx": [355]}
+dump	{"Matthew_ch_5.docx": [3551, 3587, 3587], "Matthew_ch_18.docx": [1159, 1159], "Matthew_ch_23.docx": [1734, 4186, 1734, 4186], "Mark_ch_9.docx": [5931, 6221, 6464], "James_ch_3.docx": [782]}
+dump	{"Matthew_ch_5.docx": [3551, 3587], "Matthew_ch_18.docx": [1159], "Matthew_ch_23.docx": [1734, 4186], "Mark_ch_9.docx": [5931, 6221, 6464], "James_ch_3.docx": [782]}

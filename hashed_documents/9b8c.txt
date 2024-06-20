@@ -1,0 +1,5 @@
+
+laban’	{"Genesis_ch_29.docx": [1227, 1279, 1279, 1279], "Genesis_ch_30.docx": [5043, 5043, 5043], "Genesis_ch_31.docx": [9, 9, 9]}
+laban’	{"Genesis_ch_29.docx": [1227, 1279, 1279], "Genesis_ch_30.docx": [5043, 5043], "Genesis_ch_31.docx": [9, 9]}
+4afte	{"2 Kings_ch_4.docx": [564]}
+laban’	{"Genesis_ch_29.docx": [1227, 1279], "Genesis_ch_30.docx": [5043], "Genesis_ch_31.docx": [9]}

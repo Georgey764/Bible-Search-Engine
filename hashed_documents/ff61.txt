@@ -1,0 +1,5 @@
+
+re-p	{"Leviticus_ch_14.docx": [6376, 6437, 7116, 6437, 7116, 6437, 7116]}
+re-p	{"Leviticus_ch_14.docx": [6376, 6437, 7116, 6437, 7116]}
+10‘sp	{"Leviticus_ch_23.docx": [1093], "Numbers_ch_35.docx": [1287], "Isaiah_ch_32.docx": [1348]}
+re-p	{"Leviticus_ch_14.docx": [6376, 6437, 7116]}

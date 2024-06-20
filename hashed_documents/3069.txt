@@ -1,0 +1,8 @@
+
+barin	{"1 Chronicles_ch_7.docx": [4323]}
+tying	{"Proverbs_ch_7.docx": [1836]}
+barin	{"1 Chronicles_ch_7.docx": [4323]}
+1giv	{"Psalms_ch_55.docx": [91]}
+tying	{"Proverbs_ch_7.docx": [1836]}
+barin	{"1 Chronicles_ch_7.docx": [4323]}
+tying	{"Proverbs_ch_7.docx": [1836]}

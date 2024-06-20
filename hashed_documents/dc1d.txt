@@ -1,0 +1,4 @@
+
+log	{"Job_ch_42.docx": [3842], "Ecclesiastes_ch_10.docx": [987], "Acts_ch_9.docx": [3508, 3508]}
+log	{"Ecclesiastes_ch_10.docx": [987], "Acts_ch_9.docx": [3508]}
+log	{"Ecclesiastes_ch_10.docx": [987], "Acts_ch_9.docx": [3508]}

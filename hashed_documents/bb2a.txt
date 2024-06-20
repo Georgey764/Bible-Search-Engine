@@ -1,0 +1,5 @@
+
+elee	{"1 Chronicles_ch_8.docx": [1485]}
+15asom	{"1 Chronicles_ch_2.docx": [1257]}
+elee	{"1 Chronicles_ch_8.docx": [1485]}
+elee	{"1 Chronicles_ch_8.docx": [1485]}

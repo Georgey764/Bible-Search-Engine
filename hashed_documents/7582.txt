@@ -1,0 +1,8 @@
+
+clair	{"1 Samuel_ch_6.docx": [38], "Jeremiah_ch_50.docx": [6685, 6685, 6685]}
+batte	{"Lamentations_ch_1.docx": [1929]}
+clair	{"1 Samuel_ch_6.docx": [38], "Jeremiah_ch_50.docx": [6685, 6685]}
+45son	{"1 Chronicles_ch_6.docx": [3527]}
+batte	{"Lamentations_ch_1.docx": [1929]}
+clair	{"1 Samuel_ch_6.docx": [38], "Jeremiah_ch_50.docx": [6685]}
+batte	{"Lamentations_ch_1.docx": [1929]}

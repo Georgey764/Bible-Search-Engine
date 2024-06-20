@@ -1,0 +1,5 @@
+
+midni	{"Exodus_ch_11.docx": [587], "Exodus_ch_12.docx": [4546, 4546, 4546], "Judges_ch_16.docx": [174, 174, 174], "Psalms_ch_119.docx": [4979, 12400, 4979, 12400, 4979, 12400], "Isaiah_ch_59.docx": [1473, 1607, 1473, 1607, 1473, 1607], "Mark_ch_13.docx": [4256, 4256], "Luke_ch_11.docx": [678, 678], "Acts_ch_20.docx": [2563, 2563], "Acts_ch_27.docx": [3656, 3656]}
+midni	{"Exodus_ch_11.docx": [587], "Exodus_ch_12.docx": [4546, 4546], "Judges_ch_16.docx": [174, 174], "Psalms_ch_119.docx": [4979, 12400, 4979, 12400], "Isaiah_ch_59.docx": [1473, 1607, 1473, 1607], "Mark_ch_13.docx": [4256], "Luke_ch_11.docx": [678], "Acts_ch_20.docx": [2563], "Acts_ch_27.docx": [3656]}
+35asa	{"2 Samuel_ch_23.docx": [4859]}
+midni	{"Exodus_ch_11.docx": [587], "Exodus_ch_12.docx": [4546], "Judges_ch_16.docx": [174], "Psalms_ch_119.docx": [4979, 12400], "Isaiah_ch_59.docx": [1473, 1607], "Mark_ch_13.docx": [4256], "Luke_ch_11.docx": [678], "Acts_ch_20.docx": [2563], "Acts_ch_27.docx": [3656]}

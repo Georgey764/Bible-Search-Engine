@@ -1,0 +1,4 @@
+
+bello	{"Job_ch_32.docx": [1928], "Jeremiah_ch_6.docx": [5120, 5120, 5120]}
+bello	{"Job_ch_32.docx": [1928], "Jeremiah_ch_6.docx": [5120, 5120]}
+bello	{"Job_ch_32.docx": [1928], "Jeremiah_ch_6.docx": [5120]}

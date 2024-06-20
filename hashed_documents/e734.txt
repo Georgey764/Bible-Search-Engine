@@ -1,0 +1,6 @@
+
+blocks	{"Genesis_ch_49.docx": [2087], "Numbers_ch_23.docx": [1884, 1884, 1884], "Joshua_ch_23.docx": [1595, 1595, 1595], "1 Kings_ch_5.docx": [2310, 2612, 2310, 2612, 2310, 2612], "2 Chronicles_ch_34.docx": [1889, 1889, 1889], "Jeremiah_ch_51.docx": [4301, 4301, 4301], "1 Peter_ch_2.docx": [454, 454]}
+cot!	{"John_ch_5.docx": [1558]}
+blocks	{"Genesis_ch_49.docx": [2087], "Numbers_ch_23.docx": [1884, 1884], "Joshua_ch_23.docx": [1595, 1595], "1 Kings_ch_5.docx": [2310, 2612, 2310, 2612], "2 Chronicles_ch_34.docx": [1889, 1889], "Jeremiah_ch_51.docx": [4301, 4301], "1 Peter_ch_2.docx": [454]}
+blocks	{"Genesis_ch_49.docx": [2087], "Numbers_ch_23.docx": [1884], "Joshua_ch_23.docx": [1595], "1 Kings_ch_5.docx": [2310, 2612], "2 Chronicles_ch_34.docx": [1889], "Jeremiah_ch_51.docx": [4301], "1 Peter_ch_2.docx": [454]}
+cot!	{"John_ch_5.docx": [1558]}

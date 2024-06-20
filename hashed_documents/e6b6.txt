@@ -1,0 +1,4 @@
+
+meshez	{"Nehemiah_ch_3.docx": [1985], "Nehemiah_ch_10.docx": [1030, 1030], "Nehemiah_ch_11.docx": [4074, 4074, 4074]}
+meshez	{"Nehemiah_ch_3.docx": [1985], "Nehemiah_ch_11.docx": [4074, 4074], "Nehemiah_ch_10.docx": [1030]}
+meshez	{"Nehemiah_ch_3.docx": [1985], "Nehemiah_ch_10.docx": [1030], "Nehemiah_ch_11.docx": [4074]}

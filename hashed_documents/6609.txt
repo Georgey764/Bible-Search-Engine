@@ -1,0 +1,4 @@
+
+enslav	{"Isaiah_ch_43.docx": [3664], "2 Corinthians_ch_11.docx": [2672, 2672]}
+enslav	{"Isaiah_ch_43.docx": [3664], "2 Corinthians_ch_11.docx": [2672]}
+enslav	{"Isaiah_ch_43.docx": [3664], "2 Corinthians_ch_11.docx": [2672]}

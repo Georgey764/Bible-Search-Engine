@@ -1,0 +1,6 @@
+
+ravine	{"Genesis_ch_37.docx": [2535], "2 Chronicles_ch_14.docx": [1296, 1296, 1296], "Proverbs_ch_30.docx": [1889, 1889, 1889], "Isaiah_ch_11.docx": [2327, 2327, 2327], "Isaiah_ch_30.docx": [5987, 6085, 5987, 6085, 5987, 6085], "Ezekiel_ch_31.docx": [1955, 1955, 1955], "Ezekiel_ch_32.docx": [885, 885, 885], "Ezekiel_ch_35.docx": [1039, 1039, 1039], "Amos_ch_6.docx": [3157, 3157, 3157]}
+ravine	{"Genesis_ch_37.docx": [2535], "2 Chronicles_ch_14.docx": [1296, 1296], "Proverbs_ch_30.docx": [1889, 1889], "Isaiah_ch_11.docx": [2327, 2327], "Isaiah_ch_30.docx": [5987, 6085, 5987, 6085], "Ezekiel_ch_31.docx": [1955, 1955], "Ezekiel_ch_32.docx": [885, 885], "Ezekiel_ch_35.docx": [1039, 1039], "Amos_ch_6.docx": [3157, 3157]}
+4giv	{"Joshua_ch_8.docx": [390], "Matthew_ch_6.docx": [469]}
+250,	{"1 Chronicles_ch_5.docx": [2750]}
+ravine	{"Genesis_ch_37.docx": [2535], "2 Chronicles_ch_14.docx": [1296], "Proverbs_ch_30.docx": [1889], "Isaiah_ch_11.docx": [2327], "Isaiah_ch_30.docx": [5987, 6085], "Ezekiel_ch_31.docx": [1955], "Ezekiel_ch_32.docx": [885], "Ezekiel_ch_35.docx": [1039], "Amos_ch_6.docx": [3157]}

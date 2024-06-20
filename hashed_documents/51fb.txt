@@ -1,0 +1,4 @@
+
+angere	{"Numbers_ch_14.docx": [3499], "Numbers_ch_16.docx": [4351, 4351, 4351], "Numbers_ch_20.docx": [3680, 3680, 3680], "Deuteronomy_ch_9.docx": [1155, 3671, 1155, 3671, 1155, 3671], "Psalms_ch_78.docx": [4104, 4104, 4104]}
+angere	{"Numbers_ch_14.docx": [3499], "Numbers_ch_16.docx": [4351, 4351], "Numbers_ch_20.docx": [3680, 3680], "Deuteronomy_ch_9.docx": [1155, 3671, 1155, 3671], "Psalms_ch_78.docx": [4104, 4104]}
+angere	{"Numbers_ch_14.docx": [3499], "Numbers_ch_16.docx": [4351], "Numbers_ch_20.docx": [3680], "Deuteronomy_ch_9.docx": [1155, 3671], "Psalms_ch_78.docx": [4104]}

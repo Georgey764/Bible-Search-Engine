@@ -1,0 +1,7 @@
+
+cita	{"Judges_ch_9.docx": [8521, 8658, 8964, 9185, 9210, 9413, 8658, 8964, 9185, 9210, 9413, 8658, 8964, 9185, 9210, 9413], "1 Samuel_ch_22.docx": [553, 685, 553, 685, 553, 685], "2 Samuel_ch_5.docx": [1016, 1353, 2432, 1016, 1353, 2432, 1016, 1353, 2432], "2 Samuel_ch_23.docx": [2374, 2374, 2374], "1 Chronicles_ch_11.docx": [732, 1073, 2929, 732, 1073, 2929, 732, 1073, 2929], "2 Chronicles_ch_32.docx": [1215, 1215, 1215], "Nehemiah_ch_3.docx": [5715, 5715, 5715]}
+edom!	{"2 Chronicles_ch_25.docx": [3356]}
+cita	{"Judges_ch_9.docx": [8521, 8658, 8964, 9185, 9210, 9413, 8658, 8964, 9185, 9210, 9413], "1 Samuel_ch_22.docx": [553, 685, 553, 685], "2 Samuel_ch_5.docx": [1016, 1353, 2432, 1016, 1353, 2432], "2 Samuel_ch_23.docx": [2374, 2374], "1 Chronicles_ch_11.docx": [732, 1073, 2929, 732, 1073, 2929], "2 Chronicles_ch_32.docx": [1215, 1215], "Nehemiah_ch_3.docx": [5715, 5715]}
+edom!	{"2 Chronicles_ch_25.docx": [3356]}
+cita	{"Judges_ch_9.docx": [8521, 8658, 8964, 9185, 9210, 9413], "1 Samuel_ch_22.docx": [553, 685], "2 Samuel_ch_5.docx": [1016, 1353, 2432], "2 Samuel_ch_23.docx": [2374], "1 Chronicles_ch_11.docx": [732, 1073, 2929], "2 Chronicles_ch_32.docx": [1215], "Nehemiah_ch_3.docx": [5715]}
+edom!	{"2 Chronicles_ch_25.docx": [3356]}

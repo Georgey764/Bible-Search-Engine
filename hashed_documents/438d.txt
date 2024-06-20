@@ -1,0 +1,4 @@
+
+wrong;	{"1 Kings_ch_8.docx": [7636], "Job_ch_27.docx": [295, 295, 295], "Psalms_ch_35.docx": [542, 542, 542], "Proverbs_ch_14.docx": [584, 584, 584]}
+wrong;	{"1 Kings_ch_8.docx": [7636], "Job_ch_27.docx": [295, 295], "Psalms_ch_35.docx": [542, 542], "Proverbs_ch_14.docx": [584, 584]}
+wrong;	{"1 Kings_ch_8.docx": [7636], "Job_ch_27.docx": [295], "Psalms_ch_35.docx": [542], "Proverbs_ch_14.docx": [584]}

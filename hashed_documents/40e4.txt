@@ -1,0 +1,4 @@
+
+uph	{"Genesis_ch_10.docx": [3048], "Jeremiah_ch_10.docx": [1195, 1195]}
+uph	{"Jeremiah_ch_10.docx": [1195, 1195]}
+uph	{"Genesis_ch_10.docx": [3048], "Jeremiah_ch_10.docx": [1195]}

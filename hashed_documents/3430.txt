@@ -1,0 +1,7 @@
+
+overto	{"Judges_ch_20.docx": [6722], "Psalms_ch_40.docx": [1525, 1525, 1525]}
+amzi	{"Nehemiah_ch_11.docx": [1851]}
+overto	{"Judges_ch_20.docx": [6722], "Psalms_ch_40.docx": [1525, 1525]}
+amzi	{"Nehemiah_ch_11.docx": [1851]}
+overto	{"Judges_ch_20.docx": [6722], "Psalms_ch_40.docx": [1525]}
+amzi	{"Nehemiah_ch_11.docx": [1851]}

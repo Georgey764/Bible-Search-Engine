@@ -1,0 +1,4 @@
+
+route	{"Deuteronomy_ch_32.docx": [4509], "Judges_ch_8.docx": [2341, 2341, 2341], "1 Samuel_ch_23.docx": [664, 664, 664], "2 Samuel_ch_8.docx": [13, 13, 13], "1 Kings_ch_13.docx": [1797, 1797, 1797], "Matthew_ch_2.docx": [1603, 1603, 1603]}
+route	{"Deuteronomy_ch_32.docx": [4509], "Judges_ch_8.docx": [2341, 2341], "1 Samuel_ch_23.docx": [664, 664], "2 Samuel_ch_8.docx": [13, 13], "1 Kings_ch_13.docx": [1797, 1797], "Matthew_ch_2.docx": [1603, 1603]}
+route	{"Deuteronomy_ch_32.docx": [4509], "Judges_ch_8.docx": [2341], "1 Samuel_ch_23.docx": [664], "2 Samuel_ch_8.docx": [13], "1 Kings_ch_13.docx": [1797], "Matthew_ch_2.docx": [1603]}

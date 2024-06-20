@@ -1,0 +1,7 @@
+
+cooki	{"Genesis_ch_25.docx": [3206], "1 Kings_ch_7.docx": [5297, 5692, 5297, 5692, 5297, 5692], "2 Kings_ch_4.docx": [5916, 5916, 5916], "2 Chronicles_ch_4.docx": [1897, 1897, 1897], "Ezekiel_ch_46.docx": [4302, 4302, 4302]}
+alter	{"Genesis_ch_30.docx": [4521], "Job_ch_5.docx": [1011, 1011, 1011], "Proverbs_ch_4.docx": [1456, 1456, 1456], "Isaiah_ch_41.docx": [119, 119, 119], "Daniel_ch_6.docx": [2536, 2536, 2536], "Hosea_ch_8.docx": [1554, 1554, 1554]}
+cooki	{"Genesis_ch_25.docx": [3206], "1 Kings_ch_7.docx": [5297, 5692, 5297, 5692], "2 Kings_ch_4.docx": [5916, 5916], "2 Chronicles_ch_4.docx": [1897, 1897], "Ezekiel_ch_46.docx": [4302, 4302]}
+alter	{"Genesis_ch_30.docx": [4521], "Job_ch_5.docx": [1011, 1011], "Proverbs_ch_4.docx": [1456, 1456], "Isaiah_ch_41.docx": [119, 119], "Daniel_ch_6.docx": [2536, 2536], "Hosea_ch_8.docx": [1554, 1554]}
+cooki	{"Genesis_ch_25.docx": [3206], "1 Kings_ch_7.docx": [5297, 5692], "2 Kings_ch_4.docx": [5916], "2 Chronicles_ch_4.docx": [1897], "Ezekiel_ch_46.docx": [4302]}
+alter	{"Genesis_ch_30.docx": [4521], "Job_ch_5.docx": [1011], "Proverbs_ch_4.docx": [1456], "Isaiah_ch_41.docx": [119], "Daniel_ch_6.docx": [2536], "Hosea_ch_8.docx": [1554]}

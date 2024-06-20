@@ -1,0 +1,4 @@
+
+gel	{"Numbers_ch_33.docx": [3388, 3444, 3444, 3444], "Joshua_ch_21.docx": [2055, 2055], "2 Samuel_ch_15.docx": [1454, 1454, 1454], "2 Samuel_ch_23.docx": [4821, 4979, 4821, 4979, 4821, 4979]}
+gel	{"Numbers_ch_33.docx": [3388, 3444, 3444], "2 Samuel_ch_15.docx": [1454, 1454], "2 Samuel_ch_23.docx": [4821, 4979, 4821, 4979], "Joshua_ch_21.docx": [2055]}
+gel	{"Numbers_ch_33.docx": [3388, 3444], "Joshua_ch_21.docx": [2055], "2 Samuel_ch_15.docx": [1454], "2 Samuel_ch_23.docx": [4821, 4979]}

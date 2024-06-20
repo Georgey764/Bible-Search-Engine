@@ -1,0 +1,4 @@
+
+bow!	{"2 Kings_ch_13.docx": [2512], "Psalms_ch_45.docx": [923, 923, 923]}
+bow!	{"2 Kings_ch_13.docx": [2512], "Psalms_ch_45.docx": [923, 923]}
+bow!	{"2 Kings_ch_13.docx": [2512], "Psalms_ch_45.docx": [923]}

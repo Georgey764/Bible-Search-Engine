@@ -1,0 +1,6 @@
+
+shut	{"Genesis_ch_19.docx": [913, 1489, 1489, 1489], "2 Samuel_ch_18.docx": [4762, 4762, 4762], "Isaiah_ch_8.docx": [1294, 1294, 1294], "Lamentations_ch_3.docx": [660, 660, 660], "Amos_ch_3.docx": [640, 640, 640], "Matthew_ch_6.docx": [924, 924, 924], "Hebrews_ch_11.docx": [6467, 6467]}
+shut	{"Genesis_ch_19.docx": [913, 1489, 1489], "2 Samuel_ch_18.docx": [4762, 4762], "Isaiah_ch_8.docx": [1294, 1294], "Lamentations_ch_3.docx": [660, 660], "Amos_ch_3.docx": [640, 640], "Matthew_ch_6.docx": [924, 924], "Hebrews_ch_11.docx": [6467]}
+42so	{"Numbers_ch_3.docx": [5201], "Numbers_ch_16.docx": [6025], "1 Kings_ch_11.docx": [6572], "1 Chronicles_ch_6.docx": [3287], "Psalms_ch_18.docx": [4003], "Psalms_ch_119.docx": [3283]}
+16ar	{"Isaiah_ch_29.docx": [2868]}
+shut	{"Genesis_ch_19.docx": [913, 1489], "2 Samuel_ch_18.docx": [4762], "Isaiah_ch_8.docx": [1294], "Lamentations_ch_3.docx": [660], "Amos_ch_3.docx": [640], "Matthew_ch_6.docx": [924], "Hebrews_ch_11.docx": [6467]}

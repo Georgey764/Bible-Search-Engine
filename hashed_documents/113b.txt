@@ -1,0 +1,5 @@
+
+stripp	{"1 Chronicles_ch_10.docx": [1272], "Lamentations_ch_4.docx": [360, 360, 360], "Mark_ch_15.docx": [2042, 2042], "Luke_ch_10.docx": [3917, 3917], "Acts_ch_16.docx": [6574, 6574], "Colossians_ch_2.docx": [1927, 2536, 1927, 2536]}
+44this	{"Numbers_ch_1.docx": [3944], "Deuteronomy_ch_32.docx": [6718]}
+stripp	{"1 Chronicles_ch_10.docx": [1272], "Lamentations_ch_4.docx": [360, 360], "Mark_ch_15.docx": [2042], "Luke_ch_10.docx": [3917], "Acts_ch_16.docx": [6574], "Colossians_ch_2.docx": [1927, 2536]}
+stripp	{"1 Chronicles_ch_10.docx": [1272], "Lamentations_ch_4.docx": [360], "Mark_ch_15.docx": [2042], "Luke_ch_10.docx": [3917], "Acts_ch_16.docx": [6574], "Colossians_ch_2.docx": [1927, 2536]}

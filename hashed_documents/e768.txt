@@ -1,0 +1,4 @@
+
+gait	{"1 Kings_ch_4.docx": [3496]}
+gait	{"1 Kings_ch_4.docx": [3496]}
+gait	{"1 Kings_ch_4.docx": [3496]}

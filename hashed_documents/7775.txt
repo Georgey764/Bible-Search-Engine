@@ -1,0 +1,7 @@
+
+isade	{"1 Chronicles_ch_7.docx": [2345]}
+limp	{"Isaiah_ch_13.docx": [934], "Ezekiel_ch_7.docx": [4647, 4647, 4647], "Mark_ch_9.docx": [2265, 2265], "Hebrews_ch_12.docx": [2302, 2302]}
+isade	{"1 Chronicles_ch_7.docx": [2345]}
+limp	{"Isaiah_ch_13.docx": [934], "Ezekiel_ch_7.docx": [4647, 4647], "Mark_ch_9.docx": [2265], "Hebrews_ch_12.docx": [2302]}
+isade	{"1 Chronicles_ch_7.docx": [2345]}
+limp	{"Isaiah_ch_13.docx": [934], "Ezekiel_ch_7.docx": [4647], "Mark_ch_9.docx": [2265], "Hebrews_ch_12.docx": [2302]}

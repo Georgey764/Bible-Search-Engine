@@ -1,0 +1,4 @@
+
+law!	{"2 Chronicles_ch_15.docx": [421], "Job_ch_34.docx": [1643, 1643, 1643], "Acts_ch_6.docx": [1807, 1807], "Romans_ch_2.docx": [1526, 1833, 3464, 1526, 1833, 3464], "Romans_ch_3.docx": [3425, 3425], "Galatians_ch_2.docx": [2541, 2541], "Galatians_ch_5.docx": [349, 2223, 349, 2223]}
+law!	{"2 Chronicles_ch_15.docx": [421], "Job_ch_34.docx": [1643, 1643], "Acts_ch_6.docx": [1807], "Romans_ch_2.docx": [1526, 1833, 3464], "Romans_ch_3.docx": [3425], "Galatians_ch_2.docx": [2541], "Galatians_ch_5.docx": [349, 2223]}
+law!	{"2 Chronicles_ch_15.docx": [421], "Job_ch_34.docx": [1643], "Acts_ch_6.docx": [1807], "Romans_ch_2.docx": [1526, 1833, 3464], "Romans_ch_3.docx": [3425], "Galatians_ch_2.docx": [2541], "Galatians_ch_5.docx": [349, 2223]}

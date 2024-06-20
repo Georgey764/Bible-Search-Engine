@@ -1,0 +1,5 @@
+
+gedori	{"1 Chronicles_ch_27.docx": [3854]}
+16d	{"1 Chronicles_ch_11.docx": [2925], "1 Chronicles_ch_15.docx": [1804], "Psalms_ch_18.docx": [1701]}
+gedori	{"1 Chronicles_ch_27.docx": [3854]}
+gedori	{"1 Chronicles_ch_27.docx": [3854]}

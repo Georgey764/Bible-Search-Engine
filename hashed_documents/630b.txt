@@ -1,0 +1,4 @@
+
+azi	{"Joshua_ch_12.docx": [14345], "Ezra_ch_8.docx": [597, 597, 597]}
+azi	{"Joshua_ch_12.docx": [14345], "Ezra_ch_8.docx": [597, 597]}
+azi	{"Joshua_ch_12.docx": [14345], "Ezra_ch_8.docx": [597]}

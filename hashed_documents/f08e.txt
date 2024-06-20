@@ -1,0 +1,3 @@
+
+7next	{"Exodus_ch_24.docx": [888], "Nehemiah_ch_3.docx": [2640]}
+26‘how	{"Deuteronomy_ch_1.docx": [3663], "Deuteronomy_ch_29.docx": [3958], "Jeremiah_ch_23.docx": [4610], "Matthew_ch_18.docx": [3430]}

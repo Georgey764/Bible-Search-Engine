@@ -1,0 +1,8 @@
+
+re-pla	{"Leviticus_ch_14.docx": [6376, 6437, 7116, 6437, 7116, 6437, 7116]}
+azary	{"1 Chronicles_ch_6.docx": [578, 607, 607, 607]}
+re-pla	{"Leviticus_ch_14.docx": [6376, 6437, 7116, 6437, 7116]}
+2reb	{"Numbers_ch_16.docx": [84]}
+azary	{"1 Chronicles_ch_6.docx": [578, 607, 607]}
+re-pla	{"Leviticus_ch_14.docx": [6376, 6437, 7116]}
+azary	{"1 Chronicles_ch_6.docx": [578, 607]}

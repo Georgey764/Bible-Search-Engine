@@ -1,0 +1,4 @@
+
+gaini	{"Proverbs_ch_21.docx": [441], "Proverbs_ch_24.docx": [322, 327, 327, 322, 327], "Matthew_ch_25.docx": [1601, 1601, 1601], "2 Peter_ch_1.docx": [1230, 1230]}
+gaini	{"Proverbs_ch_21.docx": [441], "Proverbs_ch_24.docx": [327, 322, 327], "Matthew_ch_25.docx": [1601, 1601], "2 Peter_ch_1.docx": [1230]}
+gaini	{"Proverbs_ch_21.docx": [441], "Proverbs_ch_24.docx": [322, 327], "Matthew_ch_25.docx": [1601], "2 Peter_ch_1.docx": [1230]}

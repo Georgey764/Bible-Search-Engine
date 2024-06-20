@@ -1,0 +1,3 @@
+
+23‘now	{"1 Samuel_ch_12.docx": [3860], "1 Samuel_ch_15.docx": [3503], "1 Samuel_ch_20.docx": [3618], "1 Samuel_ch_22.docx": [3618], "2 Kings_ch_18.docx": [3847], "Isaiah_ch_45.docx": [4458], "Daniel_ch_8.docx": [3391]}
+35‘fo	{"1 Kings_ch_1.docx": [4866], "Jeremiah_ch_25.docx": [5881], "Daniel_ch_4.docx": [6861], "Matthew_ch_25.docx": [4111]}

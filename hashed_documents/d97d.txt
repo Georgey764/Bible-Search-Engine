@@ -1,0 +1,4 @@
+
+joints	{"Exodus_ch_26.docx": [1710], "Exodus_ch_36.docx": [2788, 2788, 2788], "Ephesians_ch_4.docx": [2063, 2094, 2063, 2094], "Colossians_ch_2.docx": [3127, 3127], "Hebrews_ch_4.docx": [1898, 1898]}
+joints	{"Exodus_ch_26.docx": [1710], "Exodus_ch_36.docx": [2788, 2788], "Ephesians_ch_4.docx": [2063, 2094], "Colossians_ch_2.docx": [3127], "Hebrews_ch_4.docx": [1898]}
+joints	{"Exodus_ch_26.docx": [1710], "Exodus_ch_36.docx": [2788], "Ephesians_ch_4.docx": [2063, 2094], "Colossians_ch_2.docx": [3127], "Hebrews_ch_4.docx": [1898]}

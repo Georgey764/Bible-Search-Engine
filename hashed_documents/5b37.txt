@@ -1,0 +1,9 @@
+
+/8t	{"Genesis_ch_24.docx": [3287]}
+tithes	{"Deuteronomy_ch_12.docx": [1719, 3133, 3133, 3133], "Deuteronomy_ch_14.docx": [2033, 2998, 2033, 2998, 2033, 2998], "Deuteronomy_ch_26.docx": [1787, 1787, 1787], "2 Chronicles_ch_24.docx": [1461, 1461, 1461], "Nehemiah_ch_12.docx": [12116, 12116, 12116], "Amos_ch_4.docx": [1305, 1305, 1305], "Hebrews_ch_7.docx": [1249, 1440, 1249, 1440]}
+lapido	{"Judges_ch_4.docx": [788]}
+tithes	{"Deuteronomy_ch_12.docx": [1719, 3133, 3133], "Deuteronomy_ch_14.docx": [2033, 2998, 2033, 2998], "Deuteronomy_ch_26.docx": [1787, 1787], "2 Chronicles_ch_24.docx": [1461, 1461], "Nehemiah_ch_12.docx": [12116, 12116], "Amos_ch_4.docx": [1305, 1305], "Hebrews_ch_7.docx": [1249, 1440]}
+lapido	{"Judges_ch_4.docx": [788]}
+/8t	{"Genesis_ch_24.docx": [3287]}
+tithes	{"Deuteronomy_ch_12.docx": [1719, 3133], "Deuteronomy_ch_14.docx": [2033, 2998], "Deuteronomy_ch_26.docx": [1787], "2 Chronicles_ch_24.docx": [1461], "Nehemiah_ch_12.docx": [12116], "Amos_ch_4.docx": [1305], "Hebrews_ch_7.docx": [1249, 1440]}
+lapido	{"Judges_ch_4.docx": [788]}

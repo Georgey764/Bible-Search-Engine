@@ -1,0 +1,4 @@
+
+moldy	{"Joshua_ch_9.docx": [5712, 8559, 8559, 8559], "2 Chronicles_ch_18.docx": [4135, 4135, 4135]}
+moldy	{"Joshua_ch_9.docx": [5712, 8559, 8559], "2 Chronicles_ch_18.docx": [4135, 4135]}
+moldy	{"Joshua_ch_9.docx": [5712, 8559], "2 Chronicles_ch_18.docx": [4135]}

@@ -1,0 +1,4 @@
+
+solem	{"Exodus_ch_19.docx": [1448], "Joel_ch_1.docx": [2289, 2289, 2289], "Acts_ch_23.docx": [2559, 2559], "1 Timothy_ch_5.docx": [2752, 2752]}
+solem	{"Exodus_ch_19.docx": [1448], "Joel_ch_1.docx": [2289, 2289], "Acts_ch_23.docx": [2559], "1 Timothy_ch_5.docx": [2752]}
+solem	{"Exodus_ch_19.docx": [1448], "Joel_ch_1.docx": [2289], "Acts_ch_23.docx": [2559], "1 Timothy_ch_5.docx": [2752]}

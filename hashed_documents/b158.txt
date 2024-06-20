@@ -1,0 +1,7 @@
+
+elia	{"1 Chronicles_ch_11.docx": [5629], "1 Chronicles_ch_12.docx": [1343]}
+elia	{"1 Chronicles_ch_12.docx": [1387]}
+elia	{"1 Chronicles_ch_11.docx": [5629], "1 Chronicles_ch_12.docx": [1343]}
+elia	{"1 Chronicles_ch_12.docx": [1387]}
+elia	{"1 Chronicles_ch_11.docx": [5629], "1 Chronicles_ch_12.docx": [1343]}
+elia	{"1 Chronicles_ch_12.docx": [1387]}

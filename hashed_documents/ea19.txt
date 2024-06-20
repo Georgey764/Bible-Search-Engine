@@ -1,0 +1,5 @@
+
+nett	{"Job_ch_31.docx": [3717], "Luke_ch_5.docx": [769, 769]}
+nett	{"Job_ch_31.docx": [3717], "Luke_ch_5.docx": [769]}
+6‘you’	{"Matthew_ch_24.docx": [679]}
+nett	{"Job_ch_31.docx": [3717], "Luke_ch_5.docx": [769]}

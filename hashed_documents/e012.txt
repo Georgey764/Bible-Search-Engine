@@ -1,0 +1,5 @@
+
+misor	{"Deuteronomy_ch_3.docx": [1251], "Jeremiah_ch_48.docx": [2768, 2768, 2768]}
+7‘it	{"Genesis_ch_45.docx": [950], "Psalms_ch_81.docx": [662], "Isaiah_ch_27.docx": [825]}
+misor	{"Deuteronomy_ch_3.docx": [1251], "Jeremiah_ch_48.docx": [2768, 2768]}
+misor	{"Deuteronomy_ch_3.docx": [1251], "Jeremiah_ch_48.docx": [2768]}

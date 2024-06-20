@@ -1,0 +1,4 @@
+
+ram’s	{"Exodus_ch_25.docx": [561], "Exodus_ch_26.docx": [1528, 1528], "Exodus_ch_29.docx": [2843, 3424, 4289, 2843, 3424, 4289, 2843, 3424, 4289], "Exodus_ch_35.docx": [825, 2289, 2289, 825, 2289], "Exodus_ch_36.docx": [2585, 2585, 2585], "Numbers_ch_6.docx": [2955, 2955, 2955], "1 Chronicles_ch_15.docx": [3947, 3947, 3947]}
+ram’s	{"Exodus_ch_26.docx": [1528, 1528], "Exodus_ch_29.docx": [2843, 3424, 4289, 2843, 3424, 4289], "Exodus_ch_35.docx": [2289, 825, 2289], "Exodus_ch_36.docx": [2585, 2585], "Numbers_ch_6.docx": [2955, 2955], "1 Chronicles_ch_15.docx": [3947, 3947]}
+ram’s	{"Exodus_ch_25.docx": [561], "Exodus_ch_26.docx": [1528], "Exodus_ch_29.docx": [2843, 3424, 4289], "Exodus_ch_35.docx": [825, 2289], "Exodus_ch_36.docx": [2585], "Numbers_ch_6.docx": [2955], "1 Chronicles_ch_15.docx": [3947]}

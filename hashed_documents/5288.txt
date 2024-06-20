@@ -1,0 +1,2 @@
+
+20[	{"Genesis_ch_45.docx": [2788], "Exodus_ch_37.docx": [1965], "Numbers_ch_7.docx": [2522], "Deuteronomy_ch_27.docx": [2850], "Joshua_ch_6.docx": [2369], "1 Chronicles_ch_11.docx": [3814], "1 Chronicles_ch_27.docx": [2616], "Job_ch_4.docx": [1887], "Proverbs_ch_20.docx": [2777]}

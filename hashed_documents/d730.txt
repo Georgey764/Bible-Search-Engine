@@ -1,0 +1,4 @@
+
+mut	{"2 Samuel_ch_17.docx": [4637], "Psalms_ch_38.docx": [1128, 1128, 1128], "Psalms_ch_39.docx": [214, 972, 214, 972, 214, 972], "Isaiah_ch_42.docx": [2767, 2767, 2767], "Ezekiel_ch_24.docx": [4217, 4217, 4217]}
+mut	{"2 Samuel_ch_17.docx": [4637], "Psalms_ch_38.docx": [1128, 1128], "Psalms_ch_39.docx": [214, 972, 214, 972], "Isaiah_ch_42.docx": [2767, 2767], "Ezekiel_ch_24.docx": [4217, 4217]}
+mut	{"2 Samuel_ch_17.docx": [4637], "Psalms_ch_38.docx": [1128], "Psalms_ch_39.docx": [214, 972], "Isaiah_ch_42.docx": [2767], "Ezekiel_ch_24.docx": [4217]}

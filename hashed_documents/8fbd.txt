@@ -1,0 +1,2 @@
+
+2-1	{"Exodus_ch_26.docx": [1700], "Exodus_ch_37.docx": [1040], "Numbers_ch_32.docx": [4719], "Numbers_ch_34.docx": [1674]}

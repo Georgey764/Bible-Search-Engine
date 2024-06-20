@@ -1,0 +1,4 @@
+
+moans	{"Job_ch_18.docx": [1733], "Psalms_ch_79.docx": [1230, 1230, 1230], "Psalms_ch_102.docx": [1756, 1756, 1756], "Jeremiah_ch_4.docx": [5522, 5522, 5522]}
+moans	{"Job_ch_18.docx": [1733], "Psalms_ch_79.docx": [1230, 1230], "Psalms_ch_102.docx": [1756, 1756], "Jeremiah_ch_4.docx": [5522, 5522]}
+moans	{"Job_ch_18.docx": [1733], "Psalms_ch_79.docx": [1230], "Psalms_ch_102.docx": [1756], "Jeremiah_ch_4.docx": [5522]}

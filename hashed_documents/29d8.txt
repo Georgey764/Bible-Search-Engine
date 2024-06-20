@@ -1,0 +1,6 @@
+
+natu	{"Leviticus_ch_11.docx": [4545], "Numbers_ch_16.docx": [4008, 4008, 4008], "Job_ch_42.docx": [3802, 3838], "Romans_ch_1.docx": [3267, 3464, 3976, 3267, 3464, 3976], "Romans_ch_2.docx": [1818, 3446, 1818, 3446], "Romans_ch_11.docx": [3163, 3665, 3670, 3687, 3163, 3665, 3670, 3687], "1 Corinthians_ch_11.docx": [1561, 1561], "Galatians_ch_2.docx": [2308, 2308], "Ephesians_ch_2.docx": [366, 366], "2 Timothy_ch_3.docx": [64, 64], "2 Peter_ch_1.docx": [580, 580]}
+titiu	{"Acts_ch_18.docx": [3030, 3044, 3044]}
+natu	{"Leviticus_ch_11.docx": [4545], "Numbers_ch_16.docx": [4008, 4008], "Romans_ch_1.docx": [3267, 3464, 3976], "Romans_ch_2.docx": [1818, 3446], "Romans_ch_11.docx": [3163, 3665, 3670, 3687], "1 Corinthians_ch_11.docx": [1561], "Galatians_ch_2.docx": [2308], "Ephesians_ch_2.docx": [366], "2 Timothy_ch_3.docx": [64], "2 Peter_ch_1.docx": [580]}
+natu	{"Leviticus_ch_11.docx": [4545], "Numbers_ch_16.docx": [4008], "Romans_ch_1.docx": [3267, 3464, 3976], "Romans_ch_2.docx": [1818, 3446], "Romans_ch_11.docx": [3163, 3665, 3670, 3687], "1 Corinthians_ch_11.docx": [1561], "Galatians_ch_2.docx": [2308], "Ephesians_ch_2.docx": [366], "2 Timothy_ch_3.docx": [64], "2 Peter_ch_1.docx": [580]}
+titiu	{"Acts_ch_18.docx": [3030, 3044]}

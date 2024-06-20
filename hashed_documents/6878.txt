@@ -1,0 +1,4 @@
+
+chasbi	{"Genesis_ch_38.docx": [211], "Numbers_ch_25.docx": [1997, 2367, 1997, 2367, 1997, 2367]}
+chasbi	{"Genesis_ch_38.docx": [211], "Numbers_ch_25.docx": [1997, 2367, 1997, 2367]}
+chasbi	{"Genesis_ch_38.docx": [211], "Numbers_ch_25.docx": [1997, 2367]}

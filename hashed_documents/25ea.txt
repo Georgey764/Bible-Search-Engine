@@ -1,0 +1,7 @@
+
+arb	{"Genesis_ch_23.docx": [20], "Joshua_ch_15.docx": [2069, 5788, 2069, 5788, 2069, 5788], "Joshua_ch_20.docx": [1250, 1250, 1250], "Judges_ch_1.docx": [1415, 1415, 1415], "Nehemiah_ch_11.docx": [4279, 4289, 4304, 4320, 4343, 4367, 4279, 4289, 4304, 4320, 4343, 4367, 4279, 4289, 4304, 4320, 4343, 4367], "Luke_ch_12.docx": [1778, 1778]}
+bether	{"Judges_ch_7.docx": [6624, 6746, 6746, 6746]}
+arb	{"Genesis_ch_23.docx": [20], "Joshua_ch_15.docx": [2069, 5788, 2069, 5788], "Joshua_ch_20.docx": [1250, 1250], "Judges_ch_1.docx": [1415, 1415], "Nehemiah_ch_11.docx": [4279, 4289, 4304, 4320, 4343, 4367, 4279, 4289, 4304, 4320, 4343, 4367], "Luke_ch_12.docx": [1778]}
+bether	{"Judges_ch_7.docx": [6624, 6746, 6746]}
+arb	{"Genesis_ch_23.docx": [20], "Joshua_ch_15.docx": [2069, 5788], "Joshua_ch_20.docx": [1250], "Judges_ch_1.docx": [1415], "Nehemiah_ch_11.docx": [4279, 4289, 4304, 4320, 4343, 4367], "Luke_ch_12.docx": [1778]}
+bether	{"Judges_ch_7.docx": [6624, 6746]}

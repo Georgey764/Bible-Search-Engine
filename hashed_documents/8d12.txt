@@ -1,0 +1,7 @@
+
+madal	{"Genesis_ch_25.docx": [132]}
+pledge	{"Deuteronomy_ch_24.docx": [1718], "1 Thessalonians_ch_4.docx": [1195, 1195]}
+madal	{"Genesis_ch_25.docx": [132]}
+pledge	{"Deuteronomy_ch_24.docx": [1718], "1 Thessalonians_ch_4.docx": [1195]}
+madal	{"Genesis_ch_25.docx": [132]}
+pledge	{"Deuteronomy_ch_24.docx": [1718], "1 Thessalonians_ch_4.docx": [1195]}

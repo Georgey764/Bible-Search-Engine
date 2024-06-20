@@ -1,0 +1,8 @@
+
+year-	{"Genesis_ch_15.docx": [1121, 1124, 1128, 1124, 1128], "Genesis_ch_17.docx": [2527, 2527], "1 Samuel_ch_1.docx": [3807, 3807], "2 Samuel_ch_4.docx": [501, 501], "2 Kings_ch_12.docx": [10, 10], "Isaiah_ch_15.docx": [819, 819], "Jeremiah_ch_48.docx": [4609, 4609], "Ezekiel_ch_46.docx": [2639, 2639], "Micah_ch_6.docx": [1550, 1550], "Mark_ch_5.docx": [4873, 4873], "Luke_ch_2.docx": [5906, 5906]}
+ganeb	{"1 Kings_ch_11.docx": [2647]}
+fak	{"Job_ch_42.docx": [4332], "1 John_ch_2.docx": [2672, 2682, 3251, 2682, 3251], "1 John_ch_4.docx": [355, 355]}
+ganeb	{"1 Kings_ch_11.docx": [2647]}
+year-	{"Genesis_ch_15.docx": [1121, 1124, 1128], "Genesis_ch_17.docx": [2527], "1 Samuel_ch_1.docx": [3807], "2 Samuel_ch_4.docx": [501], "2 Kings_ch_12.docx": [10], "Isaiah_ch_15.docx": [819], "Jeremiah_ch_48.docx": [4609], "Ezekiel_ch_46.docx": [2639], "Micah_ch_6.docx": [1550], "Mark_ch_5.docx": [4873], "Luke_ch_2.docx": [5906]}
+ganeb	{"1 Kings_ch_11.docx": [2647]}
+fak	{"1 John_ch_2.docx": [2672, 2682, 3251], "1 John_ch_4.docx": [355]}

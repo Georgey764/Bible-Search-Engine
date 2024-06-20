@@ -1,0 +1,8 @@
+
+ascent	{"Nehemiah_ch_9.docx": [548, 571, 571, 571]}
+rege	{"Zechariah_ch_7.docx": [197]}
+2,60	{"2 Chronicles_ch_26.docx": [1757], "2 Chronicles_ch_35.docx": [1553]}
+ascent	{"Nehemiah_ch_9.docx": [548, 571, 571]}
+rege	{"Zechariah_ch_7.docx": [197]}
+ascent	{"Nehemiah_ch_9.docx": [548, 571]}
+rege	{"Zechariah_ch_7.docx": [197]}

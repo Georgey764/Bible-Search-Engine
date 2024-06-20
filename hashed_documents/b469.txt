@@ -1,0 +1,4 @@
+
+30mean	{"2 Samuel_ch_13.docx": [4700]}
+114so	{"Psalms_ch_119.docx": [9480]}
+16’	{"Isaiah_ch_22.docx": [2246]}

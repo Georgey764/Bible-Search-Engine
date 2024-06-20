@@ -1,0 +1,4 @@
+
+gul	{"2 Samuel_ch_18.docx": [2649], "Proverbs_ch_14.docx": [1268, 1268, 1268], "Matthew_ch_23.docx": [2978, 2978, 2978], "Luke_ch_3.docx": [3606, 3606]}
+gul	{"2 Samuel_ch_18.docx": [2649], "Proverbs_ch_14.docx": [1268, 1268], "Matthew_ch_23.docx": [2978, 2978], "Luke_ch_3.docx": [3606]}
+gul	{"2 Samuel_ch_18.docx": [2649], "Proverbs_ch_14.docx": [1268], "Matthew_ch_23.docx": [2978], "Luke_ch_3.docx": [3606]}

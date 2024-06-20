@@ -1,0 +1,4 @@
+
+free!	{"Jeremiah_ch_34.docx": [1558, 2574, 2574, 2574], "Luke_ch_23.docx": [2430, 2430], "John_ch_8.docx": [4071, 4474, 4071, 4474], "1 Corinthians_ch_7.docx": [3250, 3250], "Galatians_ch_5.docx": [17, 17]}
+free!	{"Jeremiah_ch_34.docx": [1558, 2574, 2574], "Luke_ch_23.docx": [2430], "John_ch_8.docx": [4071, 4474], "1 Corinthians_ch_7.docx": [3250], "Galatians_ch_5.docx": [17]}
+free!	{"Jeremiah_ch_34.docx": [1558, 2574], "Luke_ch_23.docx": [2430], "John_ch_8.docx": [4071, 4474], "1 Corinthians_ch_7.docx": [3250], "Galatians_ch_5.docx": [17]}

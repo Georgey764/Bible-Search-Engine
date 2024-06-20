@@ -1,0 +1,4 @@
+
+thaim	{"1 Chronicles_ch_1.docx": [2352, 2879, 4498, 2879, 4498, 2879, 4498], "1 Chronicles_ch_4.docx": [566, 566, 566]}
+thaim	{"1 Chronicles_ch_1.docx": [2352, 2879, 4498, 2879, 4498], "1 Chronicles_ch_4.docx": [566, 566]}
+thaim	{"1 Chronicles_ch_1.docx": [2352, 2879, 4498], "1 Chronicles_ch_4.docx": [566]}

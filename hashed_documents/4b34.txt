@@ -1,0 +1,4 @@
+
+grati	{"Exodus_ch_27.docx": [424, 441, 441, 441], "Exodus_ch_30.docx": [240, 240, 240]}
+grati	{"Exodus_ch_27.docx": [424, 441, 441], "Exodus_ch_30.docx": [240, 240]}
+grati	{"Exodus_ch_27.docx": [424, 441], "Exodus_ch_30.docx": [240]}

@@ -1,0 +1,4 @@
+
+witchc	{"Leviticus_ch_20.docx": [824], "Isaiah_ch_47.docx": [2272, 2272, 2272]}
+witchc	{"Leviticus_ch_20.docx": [824], "Isaiah_ch_47.docx": [2272, 2272]}
+witchc	{"Leviticus_ch_20.docx": [824], "Isaiah_ch_47.docx": [2272]}

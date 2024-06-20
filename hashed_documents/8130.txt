@@ -1,0 +1,4 @@
+
+ank	{"Joshua_ch_15.docx": [6516], "Acts_ch_3.docx": [672, 672]}
+ank	{"Joshua_ch_15.docx": [6516], "Acts_ch_3.docx": [672]}
+ank	{"Joshua_ch_15.docx": [6516], "Acts_ch_3.docx": [672]}

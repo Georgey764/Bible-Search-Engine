@@ -1,0 +1,4 @@
+
+paria	{"Esther_ch_1.docx": [1049, 1229, 1229, 1229]}
+paria	{"Esther_ch_1.docx": [1049, 1229, 1229]}
+paria	{"Esther_ch_1.docx": [1049, 1229]}

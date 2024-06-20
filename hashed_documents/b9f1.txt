@@ -1,0 +1,2 @@
+
+35‘t	{"Genesis_ch_41.docx": [4311], "Numbers_ch_29.docx": [4455], "Jeremiah_ch_23.docx": [6288], "Jeremiah_ch_32.docx": [6007], "Jeremiah_ch_48.docx": [4688], "Ezekiel_ch_20.docx": [6220], "Ezekiel_ch_23.docx": [5834], "Ezekiel_ch_27.docx": [5104], "Ezekiel_ch_36.docx": [6239], "Daniel_ch_11.docx": [6441]}

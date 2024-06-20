@@ -1,0 +1,5 @@
+
+unripe	{"Job_ch_15.docx": [3144], "Jeremiah_ch_31.docx": [5349, 5349, 5349], "Ezekiel_ch_18.docx": [157, 157, 157]}
+18[gil	{"1 Chronicles_ch_7.docx": [2275]}
+unripe	{"Job_ch_15.docx": [3144], "Jeremiah_ch_31.docx": [5349, 5349], "Ezekiel_ch_18.docx": [157, 157]}
+unripe	{"Job_ch_15.docx": [3144], "Jeremiah_ch_31.docx": [5349], "Ezekiel_ch_18.docx": [157]}

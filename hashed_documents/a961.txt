@@ -1,0 +1,4 @@
+
+foremo	{"Daniel_ch_10.docx": [2021], "Micah_ch_4.docx": [1841, 1841, 1841], "Mark_ch_6.docx": [2941, 2941], "1 Timothy_ch_1.docx": [2157, 2157]}
+foremo	{"Daniel_ch_10.docx": [2021], "Micah_ch_4.docx": [1841, 1841], "Mark_ch_6.docx": [2941], "1 Timothy_ch_1.docx": [2157]}
+foremo	{"Daniel_ch_10.docx": [2021], "Micah_ch_4.docx": [1841], "Mark_ch_6.docx": [2941], "1 Timothy_ch_1.docx": [2157]}

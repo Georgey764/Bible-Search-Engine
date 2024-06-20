@@ -1,0 +1,5 @@
+
+tree!	{"2 Samuel_ch_18.docx": [1713, 2405, 2405, 2405], "Isaiah_ch_56.docx": [597, 597, 597]}
+deleti	{"Job_ch_42.docx": [3461]}
+tree!	{"2 Samuel_ch_18.docx": [1713, 2405, 2405], "Isaiah_ch_56.docx": [597, 597]}
+tree!	{"2 Samuel_ch_18.docx": [1713, 2405], "Isaiah_ch_56.docx": [597]}

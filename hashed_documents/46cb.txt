@@ -1,0 +1,4 @@
+
+lifts	{"1 Samuel_ch_2.docx": [1088], "2 Samuel_ch_22.docx": [3312, 4589, 4631, 3312, 4589, 4631, 3312, 4589, 4631], "Ezekiel_ch_30.docx": [3939, 3939, 3939], "John_ch_1.docx": [2967, 2967]}
+lifts	{"1 Samuel_ch_2.docx": [1088], "2 Samuel_ch_22.docx": [3312, 4589, 4631, 3312, 4589, 4631], "Ezekiel_ch_30.docx": [3939, 3939], "John_ch_1.docx": [2967]}
+lifts	{"1 Samuel_ch_2.docx": [1088], "2 Samuel_ch_22.docx": [3312, 4589, 4631], "Ezekiel_ch_30.docx": [3939], "John_ch_1.docx": [2967]}

@@ -1,0 +1,4 @@
+
+godly	{"Genesis_ch_20.docx": [1882], "Exodus_ch_35.docx": [3274, 3274, 3274], "Isaiah_ch_26.docx": [626, 626, 626], "2 Corinthians_ch_7.docx": [1529, 1607, 1776, 1529, 1607, 1776], "2 Corinthians_ch_11.docx": [29, 29], "2 Timothy_ch_3.docx": [764, 783, 764, 783], "1 Peter_ch_2.docx": [2768, 2768], "1 Peter_ch_3.docx": [2079, 2079]}
+godly	{"Genesis_ch_20.docx": [1882], "Exodus_ch_35.docx": [3274, 3274], "Isaiah_ch_26.docx": [626, 626], "2 Corinthians_ch_7.docx": [1529, 1607, 1776], "2 Corinthians_ch_11.docx": [29], "2 Timothy_ch_3.docx": [764, 783], "1 Peter_ch_2.docx": [2768], "1 Peter_ch_3.docx": [2079]}
+godly	{"Genesis_ch_20.docx": [1882], "Exodus_ch_35.docx": [3274], "Isaiah_ch_26.docx": [626], "2 Corinthians_ch_7.docx": [1529, 1607, 1776], "2 Corinthians_ch_11.docx": [29], "2 Timothy_ch_3.docx": [764, 783], "1 Peter_ch_2.docx": [2768], "1 Peter_ch_3.docx": [2079]}

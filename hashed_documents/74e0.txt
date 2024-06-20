@@ -1,0 +1,4 @@
+
+collar	{"Exodus_ch_39.docx": [2863], "Judges_ch_8.docx": [4982, 4982, 4982], "1 Chronicles_ch_18.docx": [759, 759, 759], "Job_ch_31.docx": [2037, 2037, 2037], "Jeremiah_ch_27.docx": [408, 408, 408]}
+collar	{"Exodus_ch_39.docx": [2863], "Judges_ch_8.docx": [4982, 4982], "1 Chronicles_ch_18.docx": [759, 759], "Job_ch_31.docx": [2037, 2037], "Jeremiah_ch_27.docx": [408, 408]}
+collar	{"Exodus_ch_39.docx": [2863], "Judges_ch_8.docx": [4982], "1 Chronicles_ch_18.docx": [759], "Job_ch_31.docx": [2037], "Jeremiah_ch_27.docx": [408]}

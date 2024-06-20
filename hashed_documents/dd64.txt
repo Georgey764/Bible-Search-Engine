@@ -1,0 +1,4 @@
+
+saws	{"1 Chronicles_ch_20.docx": [622], "Amos_ch_1.docx": [3581, 3581, 3581]}
+saws	{"1 Chronicles_ch_20.docx": [622], "Amos_ch_1.docx": [3581, 3581]}
+saws	{"1 Chronicles_ch_20.docx": [622], "Amos_ch_1.docx": [3581]}

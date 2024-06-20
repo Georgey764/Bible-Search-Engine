@@ -1,0 +1,4 @@
+
+heate	{"Ezekiel_ch_2.docx": [803], "Hosea_ch_7.docx": [692, 1168, 692, 1168, 692, 1168], "Acts_ch_23.docx": [1275, 1578, 1275, 1578]}
+heate	{"Ezekiel_ch_2.docx": [803], "Hosea_ch_7.docx": [692, 1168, 692, 1168], "Acts_ch_23.docx": [1275, 1578]}
+heate	{"Ezekiel_ch_2.docx": [803], "Hosea_ch_7.docx": [692, 1168], "Acts_ch_23.docx": [1275, 1578]}

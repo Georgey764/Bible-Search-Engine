@@ -1,0 +1,4 @@
+
+risked	{"2 Samuel_ch_23.docx": [2931], "1 Chronicles_ch_11.docx": [3680, 3680, 3680]}
+risked	{"2 Samuel_ch_23.docx": [2931], "1 Chronicles_ch_11.docx": [3680, 3680]}
+risked	{"2 Samuel_ch_23.docx": [2931], "1 Chronicles_ch_11.docx": [3680]}

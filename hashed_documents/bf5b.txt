@@ -1,0 +1,4 @@
+
+effect	{"Jeremiah_ch_2.docx": [1770], "1 Timothy_ch_1.docx": [932, 932]}
+effect	{"Jeremiah_ch_2.docx": [1770], "1 Timothy_ch_1.docx": [932]}
+effect	{"Jeremiah_ch_2.docx": [1770], "1 Timothy_ch_1.docx": [932]}

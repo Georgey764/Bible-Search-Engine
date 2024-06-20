@@ -1,0 +1,5 @@
+
+jemoue	{"1 Chronicles_ch_2.docx": [564]}
+45t	{"Genesis_ch_41.docx": [5699], "Numbers_ch_1.docx": [4046], "Numbers_ch_4.docx": [5754], "Numbers_ch_33.docx": [3334], "Deuteronomy_ch_4.docx": [6857], "2 Samuel_ch_22.docx": [4281], "1 Kings_ch_1.docx": [6237], "Nehemiah_ch_7.docx": [2729], "Nehemiah_ch_12.docx": [12326], "Lamentations_ch_3.docx": [3768], "Ezekiel_ch_20.docx": [8084]}
+jemoue	{"1 Chronicles_ch_2.docx": [564]}
+jemoue	{"1 Chronicles_ch_2.docx": [564]}

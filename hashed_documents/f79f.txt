@@ -1,0 +1,4 @@
+
+slime	{"Genesis_ch_14.docx": [1364], "Psalms_ch_40.docx": [180, 180, 180]}
+slime	{"Genesis_ch_14.docx": [1364], "Psalms_ch_40.docx": [180, 180]}
+slime	{"Genesis_ch_14.docx": [1364], "Psalms_ch_40.docx": [180]}

@@ -1,0 +1,4 @@
+
+shorte	{"Leviticus_ch_26.docx": [1991], "Psalms_ch_89.docx": [4287, 4287, 4287], "Proverbs_ch_10.docx": [2558, 2558, 2558], "Matthew_ch_24.docx": [2361, 2378, 2361, 2378, 2361, 2378], "Mark_ch_13.docx": [2489, 2512, 2489, 2512], "1 Corinthians_ch_7.docx": [3644, 3644]}
+shorte	{"Leviticus_ch_26.docx": [1991], "Psalms_ch_89.docx": [4287, 4287], "Proverbs_ch_10.docx": [2558, 2558], "Matthew_ch_24.docx": [2361, 2378, 2361, 2378], "Mark_ch_13.docx": [2489, 2512], "1 Corinthians_ch_7.docx": [3644]}
+shorte	{"Leviticus_ch_26.docx": [1991], "Psalms_ch_89.docx": [4287], "Proverbs_ch_10.docx": [2558], "Matthew_ch_24.docx": [2361, 2378], "Mark_ch_13.docx": [2489, 2512], "1 Corinthians_ch_7.docx": [3644]}

@@ -1,0 +1,4 @@
+
+retrie	{"1 Samuel_ch_20.docx": [6014], "Amos_ch_6.docx": [2152, 2152, 2152], "Luke_ch_17.docx": [3677, 3677]}
+retrie	{"1 Samuel_ch_20.docx": [6014], "Amos_ch_6.docx": [2152, 2152], "Luke_ch_17.docx": [3677]}
+retrie	{"1 Samuel_ch_20.docx": [6014], "Amos_ch_6.docx": [2152], "Luke_ch_17.docx": [3677]}

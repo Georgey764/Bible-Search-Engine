@@ -1,0 +1,4 @@
+
+13‘h	{"Exodus_ch_13.docx": [1830], "Leviticus_ch_15.docx": [1735], "Numbers_ch_30.docx": [1768], "Deuteronomy_ch_7.docx": [1978], "2 Samuel_ch_7.docx": [1904], "1 Kings_ch_1.docx": [1734], "1 Kings_ch_14.docx": [2249], "Ezra_ch_5.docx": [2103], "Esther_ch_5.docx": [1903], "Song of Solomon_ch_5.docx": [2212], "Jeremiah_ch_10.docx": [1630], "Jeremiah_ch_43.docx": [2077], "Ezekiel_ch_26.docx": [2274], "Ezekiel_ch_46.docx": [2634], "Matthew_ch_24.docx": [1394]}
+13‘eat	{"Leviticus_ch_10.docx": [2099]}
+9‘kno	{"Isaiah_ch_8.docx": [1286]}

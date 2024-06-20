@@ -1,0 +1,5 @@
+
+lattic	{"Exodus_ch_38.docx": [428], "1 Kings_ch_7.docx": [308, 308, 308], "2 Kings_ch_1.docx": [29, 29, 29]}
+lattic	{"Exodus_ch_38.docx": [428], "1 Kings_ch_7.docx": [308, 308], "2 Kings_ch_1.docx": [29, 29]}
+30le	{"Matthew_ch_13.docx": [3873]}
+lattic	{"Exodus_ch_38.docx": [428], "1 Kings_ch_7.docx": [308], "2 Kings_ch_1.docx": [29]}

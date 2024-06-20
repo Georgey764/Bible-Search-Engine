@@ -1,0 +1,7 @@
+
+giga	{"Genesis_ch_10.docx": [1071, 1085, 1085, 1085]}
+pyr	{"Ezekiel_ch_24.docx": [1256], "Acts_ch_20.docx": [1714, 1722, 1731, 1714, 1722, 1731]}
+giga	{"Genesis_ch_10.docx": [1071, 1085, 1085]}
+pyr	{"Ezekiel_ch_24.docx": [1256], "Acts_ch_20.docx": [1714, 1722, 1731]}
+giga	{"Genesis_ch_10.docx": [1071, 1085]}
+pyr	{"Ezekiel_ch_24.docx": [1256], "Acts_ch_20.docx": [1714, 1722, 1731]}

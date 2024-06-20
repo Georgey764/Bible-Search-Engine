@@ -1,0 +1,4 @@
+
+troug	{"Genesis_ch_24.docx": [2993], "Genesis_ch_30.docx": [4552, 5149, 4552, 5149, 4552, 5149], "Luke_ch_2.docx": [1871, 2462, 3361, 1871, 2462, 3361]}
+troug	{"Genesis_ch_24.docx": [2993], "Genesis_ch_30.docx": [4552, 5149, 4552, 5149], "Luke_ch_2.docx": [1871, 2462, 3361]}
+troug	{"Genesis_ch_24.docx": [2993], "Genesis_ch_30.docx": [4552, 5149], "Luke_ch_2.docx": [1871, 2462, 3361]}

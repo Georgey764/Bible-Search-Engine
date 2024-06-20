@@ -1,0 +1,4 @@
+
+sheban	{"Nehemiah_ch_10.docx": [217, 528, 654, 528, 654, 528, 654]}
+sheban	{"Nehemiah_ch_10.docx": [217, 528, 654, 528, 654]}
+sheban	{"Nehemiah_ch_10.docx": [217, 528, 654]}

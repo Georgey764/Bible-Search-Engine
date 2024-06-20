@@ -1,0 +1,7 @@
+
+pligh	{"Job_ch_7.docx": [1165], "Job_ch_30.docx": [2089, 2089, 2089]}
+ills	{"Psalms_ch_103.docx": [280]}
+pligh	{"Job_ch_7.docx": [1165], "Job_ch_30.docx": [2089, 2089]}
+ills	{"Psalms_ch_103.docx": [280]}
+pligh	{"Job_ch_7.docx": [1165], "Job_ch_30.docx": [2089]}
+ills	{"Psalms_ch_103.docx": [280]}

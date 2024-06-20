@@ -1,0 +1,5 @@
+
+soso	{"1 Chronicles_ch_2.docx": [3614, 3643, 3643, 3643]}
+soso	{"1 Chronicles_ch_2.docx": [3614, 3643, 3643]}
+41‘{	{"Jeremiah_ch_50.docx": [7658]}
+soso	{"1 Chronicles_ch_2.docx": [3614, 3643]}

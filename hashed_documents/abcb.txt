@@ -1,0 +1,5 @@
+
+laish	{"Judges_ch_18.docx": [3498, 5719, 5719, 5719], "1 Samuel_ch_25.docx": [6974, 6974, 6974]}
+laish	{"Judges_ch_18.docx": [3498, 5719, 5719], "1 Samuel_ch_25.docx": [6974, 6974]}
+42139	{"Ezra_ch_2.docx": [1674]}
+laish	{"Judges_ch_18.docx": [3498, 5719], "1 Samuel_ch_25.docx": [6974]}

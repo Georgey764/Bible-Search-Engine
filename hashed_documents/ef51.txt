@@ -1,0 +1,11 @@
+
+jawb	{"Judges_ch_15.docx": [2948, 3222, 3588, 3222, 3588, 3222, 3588]}
+thekoe	{"1 Chronicles_ch_2.docx": [2172], "1 Chronicles_ch_4.docx": [458, 458, 458], "2 Chronicles_ch_11.docx": [797, 797, 797], "2 Chronicles_ch_34.docx": [3879, 3879, 3879]}
+turbul	{"Nehemiah_ch_9.docx": [2676]}
+53an	{"Leviticus_ch_14.docx": [7744], "1 Samuel_ch_17.docx": [8425], "Lamentations_ch_3.docx": [4333]}
+jawb	{"Judges_ch_15.docx": [2948, 3222, 3588, 3222, 3588]}
+thekoe	{"1 Chronicles_ch_2.docx": [2172], "1 Chronicles_ch_4.docx": [458, 458], "2 Chronicles_ch_11.docx": [797, 797], "2 Chronicles_ch_34.docx": [3879, 3879]}
+turbul	{"Nehemiah_ch_9.docx": [2676]}
+jawb	{"Judges_ch_15.docx": [2948, 3222, 3588]}
+thekoe	{"1 Chronicles_ch_2.docx": [2172], "1 Chronicles_ch_4.docx": [458], "2 Chronicles_ch_11.docx": [797], "2 Chronicles_ch_34.docx": [3879]}
+turbul	{"Nehemiah_ch_9.docx": [2676]}

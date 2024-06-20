@@ -1,0 +1,4 @@
+
+mature	{"Leviticus_ch_13.docx": [1553], "Job_ch_32.docx": [1506, 1506, 1506], "1 Corinthians_ch_2.docx": [497, 497], "Philippians_ch_3.docx": [2301, 2301]}
+mature	{"Leviticus_ch_13.docx": [1553], "Job_ch_32.docx": [1506, 1506], "1 Corinthians_ch_2.docx": [497], "Philippians_ch_3.docx": [2301]}
+mature	{"Leviticus_ch_13.docx": [1553], "Job_ch_32.docx": [1506], "1 Corinthians_ch_2.docx": [497], "Philippians_ch_3.docx": [2301]}

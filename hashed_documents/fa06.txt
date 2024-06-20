@@ -1,0 +1,4 @@
+
+salem	{"Genesis_ch_14.docx": [2434], "Genesis_ch_33.docx": [2364, 2364, 2364], "Joshua_ch_10.docx": [11, 11, 11], "1 Kings_ch_2.docx": [4367, 4367, 4367], "1 Chronicles_ch_4.docx": [3028, 3028, 3028], "2 Chronicles_ch_11.docx": [2340, 2340, 2340], "Hebrews_ch_7.docx": [12, 325, 12, 325]}
+salem	{"Genesis_ch_14.docx": [2434], "Genesis_ch_33.docx": [2364, 2364], "Joshua_ch_10.docx": [11, 11], "1 Kings_ch_2.docx": [4367, 4367], "1 Chronicles_ch_4.docx": [3028, 3028], "2 Chronicles_ch_11.docx": [2340, 2340], "Hebrews_ch_7.docx": [12, 325]}
+salem	{"Genesis_ch_14.docx": [2434], "Genesis_ch_33.docx": [2364], "Joshua_ch_10.docx": [11], "1 Kings_ch_2.docx": [4367], "1 Chronicles_ch_4.docx": [3028], "2 Chronicles_ch_11.docx": [2340], "Hebrews_ch_7.docx": [12, 325]}

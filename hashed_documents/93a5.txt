@@ -1,0 +1,4 @@
+
+pela	{"Nehemiah_ch_8.docx": [1969], "Nehemiah_ch_10.docx": [566, 1069, 566, 566, 1069], "Nehemiah_ch_11.docx": [1848, 1848, 1848]}
+pela	{"Nehemiah_ch_8.docx": [1969], "Nehemiah_ch_10.docx": [566, 566, 1069], "Nehemiah_ch_11.docx": [1848, 1848]}
+pela	{"Nehemiah_ch_8.docx": [1969], "Nehemiah_ch_10.docx": [566, 1069], "Nehemiah_ch_11.docx": [1848]}

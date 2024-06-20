@@ -1,0 +1,4 @@
+
+wax	{"Psalms_ch_22.docx": [1376], "Psalms_ch_97.docx": [436, 436, 436]}
+wax	{"Psalms_ch_22.docx": [1376], "Psalms_ch_97.docx": [436, 436]}
+wax	{"Psalms_ch_22.docx": [1376], "Psalms_ch_97.docx": [436]}

@@ -1,0 +1,4 @@
+
+unhol	{"Deuteronomy_ch_22.docx": [1354], "Psalms_ch_43.docx": [70, 70, 70], "Proverbs_ch_17.docx": [2557, 2557, 2557], "Proverbs_ch_18.docx": [440, 440, 440], "Ezekiel_ch_22.docx": [1324, 1324, 1324]}
+unhol	{"Deuteronomy_ch_22.docx": [1354], "Psalms_ch_43.docx": [70, 70], "Proverbs_ch_17.docx": [2557, 2557], "Proverbs_ch_18.docx": [440, 440], "Ezekiel_ch_22.docx": [1324, 1324]}
+unhol	{"Deuteronomy_ch_22.docx": [1354], "Psalms_ch_43.docx": [70], "Proverbs_ch_17.docx": [2557], "Proverbs_ch_18.docx": [440], "Ezekiel_ch_22.docx": [1324]}

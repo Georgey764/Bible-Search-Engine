@@ -1,0 +1,5 @@
+
+smeare	{"Leviticus_ch_7.docx": [1464], "John_ch_9.docx": [1160, 1160]}
+smeare	{"Leviticus_ch_7.docx": [1464], "John_ch_9.docx": [1160]}
+25sam	{"2 Samuel_ch_23.docx": [4257]}
+smeare	{"Leviticus_ch_7.docx": [1464], "John_ch_9.docx": [1160]}

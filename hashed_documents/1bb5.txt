@@ -1,0 +1,5 @@
+
+intens	{"2 Samuel_ch_11.docx": [4117], "Acts_ch_12.docx": [781, 781], "Acts_ch_18.docx": [2148, 2167, 2187, 2148, 2167, 2187], "1 Peter_ch_1.docx": [5657, 5657]}
+8‘noti	{"Exodus_ch_32.docx": [1174]}
+intens	{"2 Samuel_ch_11.docx": [4117], "Acts_ch_12.docx": [781], "Acts_ch_18.docx": [2148, 2167, 2187], "1 Peter_ch_1.docx": [5657]}
+intens	{"2 Samuel_ch_11.docx": [4117], "Acts_ch_12.docx": [781], "Acts_ch_18.docx": [2148, 2167, 2187], "1 Peter_ch_1.docx": [5657]}

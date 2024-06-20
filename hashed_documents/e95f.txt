@@ -1,0 +1,4 @@
+
+aru	{"Genesis_ch_10.docx": [1992], "2 Samuel_ch_23.docx": [4259, 4259, 4259], "2 Kings_ch_21.docx": [3545, 3545, 3545]}
+aru	{"Genesis_ch_10.docx": [1992], "2 Samuel_ch_23.docx": [4259, 4259], "2 Kings_ch_21.docx": [3545, 3545]}
+aru	{"Genesis_ch_10.docx": [1992], "2 Samuel_ch_23.docx": [4259], "2 Kings_ch_21.docx": [3545]}

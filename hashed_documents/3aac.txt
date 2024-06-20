@@ -1,0 +1,5 @@
+
+hotte	{"Daniel_ch_3.docx": [3088, 3097, 3473, 3097, 3473, 3097, 3473]}
+27but	{"Genesis_ch_45.docx": [3783], "Exodus_ch_10.docx": [4375], "Joshua_ch_22.docx": [4240], "1 Samuel_ch_14.docx": [4398], "1 Samuel_ch_20.docx": [4226], "2 Samuel_ch_13.docx": [4182], "1 Kings_ch_12.docx": [4348], "2 Chronicles_ch_25.docx": [4813], "Psalms_ch_102.docx": [2691], "Matthew_ch_14.docx": [3278], "Matthew_ch_15.docx": [2911], "Matthew_ch_19.docx": [3388]}
+hotte	{"Daniel_ch_3.docx": [3088, 3097, 3473, 3097, 3473]}
+hotte	{"Daniel_ch_3.docx": [3088, 3097, 3473]}

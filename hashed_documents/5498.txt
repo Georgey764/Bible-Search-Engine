@@ -1,0 +1,7 @@
+
+boxes	{"1 Chronicles_ch_26.docx": [1908, 2149, 2149, 2149], "Ezekiel_ch_27.docx": [3487, 3487, 3487]}
+joke;	{"Job_ch_17.docx": [427]}
+boxes	{"1 Chronicles_ch_26.docx": [1908, 2149, 2149], "Ezekiel_ch_27.docx": [3487, 3487]}
+joke;	{"Job_ch_17.docx": [427]}
+boxes	{"1 Chronicles_ch_26.docx": [1908, 2149], "Ezekiel_ch_27.docx": [3487]}
+joke;	{"Job_ch_17.docx": [427]}

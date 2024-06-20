@@ -1,0 +1,4 @@
+
+summo	{"Numbers_ch_23.docx": [861], "1 Samuel_ch_4.docx": [664, 664, 664], "1 Samuel_ch_10.docx": [2944, 2944, 2944], "1 Samuel_ch_17.docx": [34, 34, 34], "Isaiah_ch_46.docx": [1631, 1631, 1631], "Ezekiel_ch_21.docx": [2211, 2211, 2211], "Matthew_ch_18.docx": [4149, 4149, 4149], "Luke_ch_19.docx": [1765, 1765], "Acts_ch_13.docx": [2092, 2092]}
+summo	{"Numbers_ch_23.docx": [861], "1 Samuel_ch_4.docx": [664, 664], "1 Samuel_ch_10.docx": [2944, 2944], "1 Samuel_ch_17.docx": [34, 34], "Isaiah_ch_46.docx": [1631, 1631], "Ezekiel_ch_21.docx": [2211, 2211], "Matthew_ch_18.docx": [4149, 4149], "Luke_ch_19.docx": [1765], "Acts_ch_13.docx": [2092]}
+summo	{"Numbers_ch_23.docx": [861], "1 Samuel_ch_4.docx": [664], "1 Samuel_ch_10.docx": [2944], "1 Samuel_ch_17.docx": [34], "Isaiah_ch_46.docx": [1631], "Ezekiel_ch_21.docx": [2211], "Matthew_ch_18.docx": [4149], "Luke_ch_19.docx": [1765], "Acts_ch_13.docx": [2092]}

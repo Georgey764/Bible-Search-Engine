@@ -1,0 +1,4 @@
+
+buyi	{"Genesis_ch_47.docx": [1890], "Leviticus_ch_25.docx": [4054, 4054, 4054], "Daniel_ch_2.docx": [1261, 1261, 1261], "Matthew_ch_21.docx": [1470, 1470, 1470], "Mark_ch_11.docx": [1873, 1873], "Luke_ch_17.docx": [3360, 3360], "1 Corinthians_ch_7.docx": [3894, 3894], "1 Corinthians_ch_8.docx": [975, 975]}
+buyi	{"Genesis_ch_47.docx": [1890], "Leviticus_ch_25.docx": [4054, 4054], "Daniel_ch_2.docx": [1261, 1261], "Matthew_ch_21.docx": [1470, 1470], "Mark_ch_11.docx": [1873], "Luke_ch_17.docx": [3360], "1 Corinthians_ch_7.docx": [3894], "1 Corinthians_ch_8.docx": [975]}
+buyi	{"Genesis_ch_47.docx": [1890], "Leviticus_ch_25.docx": [4054], "Daniel_ch_2.docx": [1261], "Matthew_ch_21.docx": [1470], "Mark_ch_11.docx": [1873], "Luke_ch_17.docx": [3360], "1 Corinthians_ch_7.docx": [3894], "1 Corinthians_ch_8.docx": [975]}

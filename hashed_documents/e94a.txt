@@ -1,0 +1,4 @@
+
+steere	{"Job_ch_37.docx": [981], "James_ch_3.docx": [403, 403]}
+steere	{"Job_ch_37.docx": [981], "James_ch_3.docx": [403]}
+steere	{"Job_ch_37.docx": [981], "James_ch_3.docx": [403]}

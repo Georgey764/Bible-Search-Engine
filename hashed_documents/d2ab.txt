@@ -1,0 +1,5 @@
+
+gadg	{"Numbers_ch_33.docx": [2403, 2455, 2455, 2455], "Deuteronomy_ch_10.docx": [1030, 1073, 1030, 1073, 1030, 1073]}
+gadg	{"Numbers_ch_33.docx": [2403, 2455, 2455], "Deuteronomy_ch_10.docx": [1030, 1073, 1030, 1073]}
+50thes	{"1 Chronicles_ch_2.docx": [4406], "1 Chronicles_ch_6.docx": [4070]}
+gadg	{"Numbers_ch_33.docx": [2403, 2455], "Deuteronomy_ch_10.docx": [1030, 1073]}

@@ -1,0 +1,3 @@
+
+quiri	{"Luke_ch_2.docx": [28, 40, 53, 40, 53]}
+quiri	{"Luke_ch_2.docx": [28, 40, 53]}

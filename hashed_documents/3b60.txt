@@ -1,0 +1,10 @@
+
+gerara	{"Genesis_ch_20.docx": [30, 363, 363, 363], "Genesis_ch_26.docx": [29, 818, 869, 1123, 2340, 2652, 2664, 3576, 3659, 29, 818, 869, 1123, 2340, 2652, 2664, 3576, 3659, 29, 818, 869, 1123, 2340, 2652, 2664, 3576, 3659], "1 Chronicles_ch_4.docx": [4160, 4160, 4160]}
+chamel	{"Leviticus_ch_11.docx": [3332], "Zephaniah_ch_2.docx": [4458, 4458, 4458]}
+barel	{"Joshua_ch_2.docx": [1478], "1 Peter_ch_4.docx": [2630, 2630]}
+gerara	{"Genesis_ch_20.docx": [30, 363, 363], "Genesis_ch_26.docx": [29, 818, 869, 1123, 2340, 2652, 2664, 3576, 3659, 29, 818, 869, 1123, 2340, 2652, 2664, 3576, 3659], "1 Chronicles_ch_4.docx": [4160, 4160]}
+chamel	{"Leviticus_ch_11.docx": [3332], "Zephaniah_ch_2.docx": [4458, 4458]}
+barel	{"Joshua_ch_2.docx": [1478], "1 Peter_ch_4.docx": [2630]}
+gerara	{"Genesis_ch_20.docx": [30, 363], "Genesis_ch_26.docx": [29, 818, 869, 1123, 2340, 2652, 2664, 3576, 3659], "1 Chronicles_ch_4.docx": [4160]}
+chamel	{"Leviticus_ch_11.docx": [3332], "Zephaniah_ch_2.docx": [4458]}
+barel	{"Joshua_ch_2.docx": [1478], "1 Peter_ch_4.docx": [2630]}

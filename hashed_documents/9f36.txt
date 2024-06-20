@@ -1,0 +1,3 @@
+
+470,0	{"1 Chronicles_ch_21.docx": [740]}
+17whos	{"Psalms_ch_25.docx": [1499]}

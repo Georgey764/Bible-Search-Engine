@@ -1,0 +1,4 @@
+
+ais	{"Numbers_ch_33.docx": [3675], "Joshua_ch_15.docx": [5611, 5611, 5611], "1 Chronicles_ch_2.docx": [4617, 4617, 4617], "1 Chronicles_ch_4.docx": [3679, 3679, 3679]}
+ais	{"Numbers_ch_33.docx": [3675], "Joshua_ch_15.docx": [5611, 5611], "1 Chronicles_ch_2.docx": [4617, 4617], "1 Chronicles_ch_4.docx": [3679, 3679]}
+ais	{"Numbers_ch_33.docx": [3675], "Joshua_ch_15.docx": [5611], "1 Chronicles_ch_2.docx": [4617], "1 Chronicles_ch_4.docx": [3679]}

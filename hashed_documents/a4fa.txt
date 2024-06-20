@@ -1,0 +1,5 @@
+
+coat!	{"Genesis_ch_37.docx": [4422]}
+15ca	{"Genesis_ch_10.docx": [1843], "Joshua_ch_19.docx": [1257]}
+coat!	{"Genesis_ch_37.docx": [4422]}
+coat!	{"Genesis_ch_37.docx": [4422]}

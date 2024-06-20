@@ -1,0 +1,7 @@
+
+latr	{"2 Kings_ch_10.docx": [5180], "Jeremiah_ch_37.docx": [2677, 2677, 2677]}
+sojou	{"Psalms_ch_119.docx": [1352]}
+latr	{"2 Kings_ch_10.docx": [5180], "Jeremiah_ch_37.docx": [2677, 2677]}
+sojou	{"Psalms_ch_119.docx": [1352]}
+latr	{"2 Kings_ch_10.docx": [5180], "Jeremiah_ch_37.docx": [2677]}
+sojou	{"Psalms_ch_119.docx": [1352]}

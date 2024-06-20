@@ -1,0 +1,6 @@
+
+intox	{"Habakkuk_ch_2.docx": [2445], "John_ch_2.docx": [978, 978]}
+indebt	{"Romans_ch_1.docx": [1440], "Romans_ch_15.docx": [3832, 3849, 3832, 3849], "1 Corinthians_ch_9.docx": [2447, 2447]}
+intox	{"Habakkuk_ch_2.docx": [2445], "John_ch_2.docx": [978]}
+intox	{"Habakkuk_ch_2.docx": [2445], "John_ch_2.docx": [978]}
+indebt	{"Romans_ch_1.docx": [1440], "Romans_ch_15.docx": [3832, 3849], "1 Corinthians_ch_9.docx": [2447]}

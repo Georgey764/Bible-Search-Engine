@@ -1,0 +1,4 @@
+
+chance	{"Leviticus_ch_6.docx": [347], "Job_ch_16.docx": [1098, 1098, 1098], "Jeremiah_ch_25.docx": [5885, 5885, 5885], "Acts_ch_25.docx": [5584, 5584]}
+chance	{"Leviticus_ch_6.docx": [347], "Job_ch_16.docx": [1098, 1098], "Jeremiah_ch_25.docx": [5885, 5885], "Acts_ch_25.docx": [5584]}
+chance	{"Leviticus_ch_6.docx": [347], "Job_ch_16.docx": [1098], "Jeremiah_ch_25.docx": [5885], "Acts_ch_25.docx": [5584]}

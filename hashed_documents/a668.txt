@@ -1,0 +1,4 @@
+
+esar	{"1 Chronicles_ch_2.docx": [4976], "Ezra_ch_4.docx": [337, 337, 337], "Isaiah_ch_37.docx": [6069, 6069, 6069]}
+esar	{"1 Chronicles_ch_2.docx": [4976], "Ezra_ch_4.docx": [337, 337], "Isaiah_ch_37.docx": [6069, 6069]}
+esar	{"1 Chronicles_ch_2.docx": [4976], "Ezra_ch_4.docx": [337], "Isaiah_ch_37.docx": [6069]}

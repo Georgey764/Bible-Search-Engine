@@ -1,0 +1,8 @@
+
+afford	{"Leviticus_ch_5.docx": [964, 1591, 1591, 1591], "Leviticus_ch_12.docx": [1239, 1239, 1239], "Leviticus_ch_14.docx": [3264, 3313, 4739, 5003, 3264, 3313, 4739, 5003, 3264, 3313, 4739, 5003], "Numbers_ch_6.docx": [3459, 3459, 3459], "Acts_ch_11.docx": [7906, 7906]}
+mathn	{"1 Chronicles_ch_11.docx": [6328]}
+afford	{"Leviticus_ch_5.docx": [964, 1591, 1591], "Leviticus_ch_12.docx": [1239, 1239], "Leviticus_ch_14.docx": [3264, 3313, 4739, 5003, 3264, 3313, 4739, 5003], "Numbers_ch_6.docx": [3459, 3459], "Acts_ch_11.docx": [7906]}
+32‘a	{"Leviticus_ch_8.docx": [4377], "Leviticus_ch_11.docx": [3542], "Deuteronomy_ch_4.docx": [4941], "2 Chronicles_ch_6.docx": [5283], "Nehemiah_ch_9.docx": [7019], "Ezekiel_ch_23.docx": [5251]}
+mathn	{"1 Chronicles_ch_11.docx": [6328]}
+afford	{"Leviticus_ch_5.docx": [964, 1591], "Leviticus_ch_12.docx": [1239], "Leviticus_ch_14.docx": [3264, 3313, 4739, 5003], "Numbers_ch_6.docx": [3459], "Acts_ch_11.docx": [7906]}
+mathn	{"1 Chronicles_ch_11.docx": [6328]}

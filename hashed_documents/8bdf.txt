@@ -1,0 +1,4 @@
+
+hoard	{"Proverbs_ch_11.docx": [2640], "Joel_ch_2.docx": [961, 1898, 961, 1898, 961, 1898]}
+hoard	{"Proverbs_ch_11.docx": [2640], "Joel_ch_2.docx": [961, 1898, 961, 1898]}
+hoard	{"Proverbs_ch_11.docx": [2640], "Joel_ch_2.docx": [961, 1898]}

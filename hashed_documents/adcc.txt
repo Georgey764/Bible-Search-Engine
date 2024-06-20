@@ -1,0 +1,4 @@
+
+53,	{"Numbers_ch_1.docx": [3937], "Numbers_ch_2.docx": [2554]}
+13all	{"Numbers_ch_18.docx": [2213]}
+18‘wo	{"Amos_ch_5.docx": [3333]}

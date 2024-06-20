@@ -1,0 +1,7 @@
+
+minja	{"Nehemiah_ch_12.docx": [1515]}
+singed	{"Daniel_ch_3.docx": [4611]}
+minja	{"Nehemiah_ch_12.docx": [1515]}
+singed	{"Daniel_ch_3.docx": [4611]}
+minja	{"Nehemiah_ch_12.docx": [1515]}
+singed	{"Daniel_ch_3.docx": [4611]}

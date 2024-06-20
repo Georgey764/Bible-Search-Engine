@@ -1,0 +1,5 @@
+
+shela	{"1 Chronicles_ch_1.docx": [1507, 1509, 1959, 1509, 1959, 1509, 1959], "Luke_ch_3.docx": [7093, 7093]}
+10jeho	{"Judges_ch_3.docx": [5250], "1 Samuel_ch_2.docx": [1357], "Psalms_ch_29.docx": [892], "Psalms_ch_30.docx": [943]}
+shela	{"1 Chronicles_ch_1.docx": [1507, 1509, 1959, 1509, 1959], "Luke_ch_3.docx": [7093]}
+shela	{"1 Chronicles_ch_1.docx": [1507, 1509, 1959], "Luke_ch_3.docx": [7093]}

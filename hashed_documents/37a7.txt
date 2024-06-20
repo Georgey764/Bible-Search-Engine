@@ -1,0 +1,5 @@
+
+manaha	{"1 Chronicles_ch_8.docx": [306]}
+152	{"Genesis_ch_6.docx": [1960], "Nehemiah_ch_7.docx": [2242], "Psalms_ch_119.docx": [12783]}
+manaha	{"1 Chronicles_ch_8.docx": [306]}
+manaha	{"1 Chronicles_ch_8.docx": [306]}

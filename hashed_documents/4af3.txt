@@ -1,0 +1,4 @@
+
+findi	{"Deuteronomy_ch_17.docx": [1468], "2 Samuel_ch_14.docx": [2017, 2017, 2017], "Hosea_ch_9.docx": [2071, 2071, 2071], "Acts_ch_2.docx": [12045, 12045], "Acts_ch_25.docx": [3949, 3949], "2 Corinthians_ch_6.docx": [1420, 1420], "Philippians_ch_3.docx": [322, 322]}
+findi	{"Deuteronomy_ch_17.docx": [1468], "2 Samuel_ch_14.docx": [2017, 2017], "Hosea_ch_9.docx": [2071, 2071], "Acts_ch_2.docx": [12045], "Acts_ch_25.docx": [3949], "2 Corinthians_ch_6.docx": [1420], "Philippians_ch_3.docx": [322]}
+findi	{"Deuteronomy_ch_17.docx": [1468], "2 Samuel_ch_14.docx": [2017], "Hosea_ch_9.docx": [2071], "Acts_ch_2.docx": [12045], "Acts_ch_25.docx": [3949], "2 Corinthians_ch_6.docx": [1420], "Philippians_ch_3.docx": [322]}

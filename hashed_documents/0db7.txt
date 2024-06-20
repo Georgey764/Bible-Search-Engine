@@ -1,0 +1,4 @@
+
+rhegma	{"Genesis_ch_10.docx": [927, 973, 973, 973]}
+rhegma	{"Genesis_ch_10.docx": [927, 973, 973]}
+rhegma	{"Genesis_ch_10.docx": [927, 973]}

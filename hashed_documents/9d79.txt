@@ -1,0 +1,4 @@
+
+gerso	{"Judges_ch_18.docx": [7157], "Ezra_ch_8.docx": [199, 199, 199]}
+gerso	{"Judges_ch_18.docx": [7157], "Ezra_ch_8.docx": [199, 199]}
+gerso	{"Judges_ch_18.docx": [7157], "Ezra_ch_8.docx": [199]}

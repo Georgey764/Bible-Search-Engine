@@ -1,0 +1,7 @@
+
+sidoni	{"Judges_ch_18.docx": [1104], "1 Kings_ch_5.docx": [806, 806, 806], "1 Kings_ch_11.docx": [195, 718, 4740, 195, 718, 4740, 195, 718, 4740], "1 Kings_ch_16.docx": [4830, 4830, 4830], "1 Kings_ch_17.docx": [799, 799, 799], "2 Kings_ch_23.docx": [3254, 3254, 3254], "1 Chronicles_ch_22.docx": [383, 383, 383], "Ezra_ch_3.docx": [1219, 1219, 1219]}
+colorf	{"Ezekiel_ch_26.docx": [2820]}
+sidoni	{"Judges_ch_18.docx": [1104], "1 Kings_ch_5.docx": [806, 806], "1 Kings_ch_11.docx": [195, 718, 4740, 195, 718, 4740], "1 Kings_ch_16.docx": [4830, 4830], "1 Kings_ch_17.docx": [799, 799], "2 Kings_ch_23.docx": [3254, 3254], "1 Chronicles_ch_22.docx": [383, 383], "Ezra_ch_3.docx": [1219, 1219]}
+colorf	{"Ezekiel_ch_26.docx": [2820]}
+sidoni	{"Judges_ch_18.docx": [1104], "1 Kings_ch_5.docx": [806], "1 Kings_ch_11.docx": [195, 718, 4740], "1 Kings_ch_16.docx": [4830], "1 Kings_ch_17.docx": [799], "2 Kings_ch_23.docx": [3254], "1 Chronicles_ch_22.docx": [383], "Ezra_ch_3.docx": [1219]}
+colorf	{"Ezekiel_ch_26.docx": [2820]}

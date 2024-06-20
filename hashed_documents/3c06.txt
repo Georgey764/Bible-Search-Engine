@@ -1,0 +1,7 @@
+
+ponds	{"Exodus_ch_7.docx": [2596], "Ecclesiastes_ch_2.docx": [711, 711, 711]}
+sadduc	{"Matthew_ch_3.docx": [688], "Matthew_ch_16.docx": [10, 669, 1398, 1547, 10, 669, 1398, 1547, 10, 669, 1398, 1547], "Matthew_ch_22.docx": [2685, 3859, 2685, 3859, 2685, 3859], "Mark_ch_12.docx": [2545, 2545], "Luke_ch_20.docx": [3461, 3461], "Acts_ch_4.docx": [22, 22], "Acts_ch_5.docx": [2269, 2269], "Acts_ch_23.docx": [719, 988, 995, 719, 988, 995]}
+ponds	{"Exodus_ch_7.docx": [2596], "Ecclesiastes_ch_2.docx": [711, 711]}
+sadduc	{"Matthew_ch_3.docx": [688], "Matthew_ch_16.docx": [10, 669, 1398, 1547, 10, 669, 1398, 1547], "Matthew_ch_22.docx": [2685, 3859, 2685, 3859], "Mark_ch_12.docx": [2545], "Luke_ch_20.docx": [3461], "Acts_ch_4.docx": [22], "Acts_ch_5.docx": [2269], "Acts_ch_23.docx": [719, 988, 995]}
+ponds	{"Exodus_ch_7.docx": [2596], "Ecclesiastes_ch_2.docx": [711]}
+sadduc	{"Matthew_ch_3.docx": [688], "Matthew_ch_16.docx": [10, 669, 1398, 1547], "Matthew_ch_22.docx": [2685, 3859], "Mark_ch_12.docx": [2545], "Luke_ch_20.docx": [3461], "Acts_ch_4.docx": [22], "Acts_ch_5.docx": [2269], "Acts_ch_23.docx": [719, 988, 995]}

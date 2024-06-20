@@ -1,0 +1,4 @@
+
+hotter	{"Daniel_ch_3.docx": [3088, 3097, 3473, 3097, 3473, 3097, 3473]}
+hotter	{"Daniel_ch_3.docx": [3088, 3097, 3473, 3097, 3473]}
+hotter	{"Daniel_ch_3.docx": [3088, 3097, 3473]}

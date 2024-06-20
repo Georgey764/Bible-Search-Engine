@@ -1,0 +1,5 @@
+
+hindqu	{"Leviticus_ch_9.docx": [2343], "1 Samuel_ch_9.docx": [3961, 3961, 3961]}
+hindqu	{"Leviticus_ch_9.docx": [2343], "1 Samuel_ch_9.docx": [3961, 3961]}
+9‘ba	{"Deuteronomy_ch_9.docx": [1556]}
+hindqu	{"Leviticus_ch_9.docx": [2343], "1 Samuel_ch_9.docx": [3961]}

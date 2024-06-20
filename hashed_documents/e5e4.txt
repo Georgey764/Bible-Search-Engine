@@ -1,0 +1,4 @@
+
+anthem	{"2 Chronicles_ch_5.docx": [1874], "Daniel_ch_3.docx": [683, 1046, 1458, 2254, 683, 1046, 1458, 2254, 683, 1046, 1458, 2254]}
+anthem	{"2 Chronicles_ch_5.docx": [1874], "Daniel_ch_3.docx": [683, 1046, 1458, 2254, 683, 1046, 1458, 2254]}
+anthem	{"2 Chronicles_ch_5.docx": [1874], "Daniel_ch_3.docx": [683, 1046, 1458, 2254]}

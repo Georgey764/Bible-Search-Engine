@@ -1,0 +1,4 @@
+
+keys	{"Judges_ch_3.docx": [8967], "1 Chronicles_ch_9.docx": [3953, 3953, 3953], "Matthew_ch_16.docx": [2428, 2428, 2428], "Revelation_ch_1.docx": [2779, 2779]}
+keys	{"Judges_ch_3.docx": [8967], "1 Chronicles_ch_9.docx": [3953, 3953], "Matthew_ch_16.docx": [2428, 2428], "Revelation_ch_1.docx": [2779]}
+keys	{"Judges_ch_3.docx": [8967], "1 Chronicles_ch_9.docx": [3953], "Matthew_ch_16.docx": [2428], "Revelation_ch_1.docx": [2779]}

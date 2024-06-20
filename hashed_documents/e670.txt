@@ -1,0 +1,5 @@
+
+bowel	{"1 Samuel_ch_24.docx": [286], "Proverbs_ch_26.docx": [1969, 1969, 1969], "Jeremiah_ch_51.docx": [2278, 2278, 2278], "Ezekiel_ch_31.docx": [3185, 3185, 3185]}
+bowel	{"1 Samuel_ch_24.docx": [286], "Proverbs_ch_26.docx": [1969, 1969], "Jeremiah_ch_51.docx": [2278, 2278], "Ezekiel_ch_31.docx": [3185, 3185]}
+9‘post	{"Jeremiah_ch_48.docx": [1057]}
+bowel	{"1 Samuel_ch_24.docx": [286], "Proverbs_ch_26.docx": [1969], "Jeremiah_ch_51.docx": [2278], "Ezekiel_ch_31.docx": [3185]}

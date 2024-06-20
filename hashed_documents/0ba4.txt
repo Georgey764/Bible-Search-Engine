@@ -1,0 +1,5 @@
+
+check	{"Genesis_ch_31.docx": [4499], "1 Samuel_ch_17.docx": [2321, 2321, 2321], "1 Samuel_ch_20.docx": [4640, 4640, 4640], "1 Kings_ch_18.docx": [7307, 7369, 7307, 7369, 7307, 7369], "1 Chronicles_ch_28.docx": [1894, 1894, 1894], "Proverbs_ch_16.docx": [3406, 3406, 3406], "Ecclesiastes_ch_8.docx": [702, 702, 702], "Zechariah_ch_11.docx": [2414, 2414, 2414], "Mark_ch_6.docx": [5556, 5556], "Mark_ch_15.docx": [4693, 4693]}
+check	{"Genesis_ch_31.docx": [4499], "1 Samuel_ch_17.docx": [2321, 2321], "1 Samuel_ch_20.docx": [4640, 4640], "1 Kings_ch_18.docx": [7307, 7369, 7307, 7369], "1 Chronicles_ch_28.docx": [1894, 1894], "Proverbs_ch_16.docx": [3406, 3406], "Ecclesiastes_ch_8.docx": [702, 702], "Zechariah_ch_11.docx": [2414, 2414], "Mark_ch_6.docx": [5556], "Mark_ch_15.docx": [4693]}
+6tha	{"Leviticus_ch_22.docx": [593]}
+check	{"Genesis_ch_31.docx": [4499], "1 Samuel_ch_17.docx": [2321], "1 Samuel_ch_20.docx": [4640], "1 Kings_ch_18.docx": [7307, 7369], "1 Chronicles_ch_28.docx": [1894], "Proverbs_ch_16.docx": [3406], "Ecclesiastes_ch_8.docx": [702], "Zechariah_ch_11.docx": [2414], "Mark_ch_6.docx": [5556], "Mark_ch_15.docx": [4693]}

@@ -1,0 +1,4 @@
+
+whiten	{"Psalms_ch_51.docx": [947], "Mark_ch_9.docx": [227, 227]}
+whiten	{"Psalms_ch_51.docx": [947], "Mark_ch_9.docx": [227]}
+whiten	{"Psalms_ch_51.docx": [947], "Mark_ch_9.docx": [227]}

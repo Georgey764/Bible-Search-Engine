@@ -1,0 +1,4 @@
+
+minor<	{"1 Peter_ch_1.docx": [204, 232, 261, 232, 261]}
+43fo	{"1 Kings_ch_7.docx": [5658], "Daniel_ch_2.docx": [7204]}
+minor<	{"1 Peter_ch_1.docx": [204, 232, 261]}

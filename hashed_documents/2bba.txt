@@ -1,0 +1,5 @@
+
+pharas	{"1 Chronicles_ch_14.docx": [1087, 1257, 1257, 1257]}
+pharas	{"1 Chronicles_ch_14.docx": [1087, 1257, 1257]}
+30.5m	{"2 Chronicles_ch_3.docx": [347], "Ezra_ch_6.docx": [445], "Daniel_ch_3.docx": [22]}
+pharas	{"1 Chronicles_ch_14.docx": [1087, 1257]}

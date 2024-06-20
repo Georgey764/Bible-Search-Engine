@@ -1,0 +1,2 @@
+
+40,0	{"Judges_ch_5.docx": [1195], "Judges_ch_12.docx": [1231], "2 Samuel_ch_10.docx": [2677], "1 Kings_ch_4.docx": [3032], "1 Chronicles_ch_19.docx": [2954]}

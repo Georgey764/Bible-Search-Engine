@@ -1,0 +1,4 @@
+
+mulber	{"1 Chronicles_ch_27.docx": [3846], "2 Chronicles_ch_1.docx": [2398, 2398, 2398], "Amos_ch_7.docx": [2936, 2936, 2936], "Luke_ch_17.docx": [690, 690]}
+mulber	{"1 Chronicles_ch_27.docx": [3846], "2 Chronicles_ch_1.docx": [2398, 2398], "Amos_ch_7.docx": [2936, 2936], "Luke_ch_17.docx": [690]}
+mulber	{"1 Chronicles_ch_27.docx": [3846], "2 Chronicles_ch_1.docx": [2398], "Amos_ch_7.docx": [2936], "Luke_ch_17.docx": [690]}

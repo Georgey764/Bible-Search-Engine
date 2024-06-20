@@ -1,0 +1,4 @@
+
+jana	{"Joshua_ch_15.docx": [5085], "2 Samuel_ch_5.docx": [2343, 2343]}
+jana	{"2 Samuel_ch_5.docx": [2343, 2343]}
+jana	{"Joshua_ch_15.docx": [5085], "2 Samuel_ch_5.docx": [2343]}

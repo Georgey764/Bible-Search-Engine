@@ -1,0 +1,2 @@
+
+18‘y	{"Exodus_ch_12.docx": [2758], "Exodus_ch_22.docx": [2763], "Exodus_ch_30.docx": [2161], "Exodus_ch_34.docx": [2637], "Leviticus_ch_19.docx": [2222], "Leviticus_ch_25.docx": [2552], "Numbers_ch_4.docx": [2547], "Deuteronomy_ch_5.docx": [2198], "Deuteronomy_ch_8.docx": [2522], "Deuteronomy_ch_16.docx": [2998], "Deuteronomy_ch_23.docx": [2161], "Joshua_ch_6.docx": [2019], "Job_ch_11.docx": [1871], "Psalms_ch_49.docx": [1901], "Isaiah_ch_43.docx": [2847], "Daniel_ch_3.docx": [2896], "Matthew_ch_23.docx": [2194]}

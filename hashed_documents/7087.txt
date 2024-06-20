@@ -1,0 +1,4 @@
+
+weaned	{"Genesis_ch_21.docx": [658], "1 Samuel_ch_1.docx": [3478, 3616, 3711, 3478, 3616, 3711, 3478, 3616, 3711], "Psalms_ch_131.docx": [331, 331, 331], "Isaiah_ch_28.docx": [1384, 1384, 1384], "Hosea_ch_1.docx": [1335, 1335, 1335]}
+weaned	{"Genesis_ch_21.docx": [658], "1 Samuel_ch_1.docx": [3478, 3616, 3711, 3478, 3616, 3711], "Psalms_ch_131.docx": [331, 331], "Isaiah_ch_28.docx": [1384, 1384], "Hosea_ch_1.docx": [1335, 1335]}
+weaned	{"Genesis_ch_21.docx": [658], "1 Samuel_ch_1.docx": [3478, 3616, 3711], "Psalms_ch_131.docx": [331], "Isaiah_ch_28.docx": [1384], "Hosea_ch_1.docx": [1335]}

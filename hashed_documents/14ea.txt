@@ -1,0 +1,4 @@
+
+hunchb	{"Leviticus_ch_21.docx": [2341], "1 Kings_ch_20.docx": [1740, 1740, 1740]}
+hunchb	{"Leviticus_ch_21.docx": [2341], "1 Kings_ch_20.docx": [1740, 1740]}
+hunchb	{"Leviticus_ch_21.docx": [2341], "1 Kings_ch_20.docx": [1740]}

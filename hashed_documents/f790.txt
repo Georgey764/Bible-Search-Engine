@@ -1,0 +1,2 @@
+
+18yes	{"Exodus_ch_14.docx": [3067], "Psalms_ch_136.docx": [1864], "Isaiah_ch_45.docx": [3205], "Matthew_ch_10.docx": [2021]}

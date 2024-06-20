@@ -1,0 +1,4 @@
+
+shroud	{"Exodus_ch_24.docx": [2159], "Job_ch_10.docx": [2113, 2113, 2113]}
+shroud	{"Exodus_ch_24.docx": [2159], "Job_ch_10.docx": [2113, 2113]}
+shroud	{"Exodus_ch_24.docx": [2159], "Job_ch_10.docx": [2113]}

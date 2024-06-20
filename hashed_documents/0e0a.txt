@@ -1,0 +1,4 @@
+
+bailif	{"Matthew_ch_5.docx": [2991], "Luke_ch_12.docx": [7803, 7803]}
+bailif	{"Matthew_ch_5.docx": [2991], "Luke_ch_12.docx": [7803]}
+bailif	{"Matthew_ch_5.docx": [2991], "Luke_ch_12.docx": [7803]}

@@ -1,0 +1,4 @@
+
+michm	{"1 Samuel_ch_13.docx": [134, 745, 1848, 2638, 3877, 745, 1848, 2638, 3877, 745, 1848, 2638, 3877], "1 Samuel_ch_14.docx": [629, 5014, 629, 5014, 629, 5014], "Ezra_ch_2.docx": [1187, 1187, 1187], "Nehemiah_ch_7.docx": [2177, 2177, 2177], "Isaiah_ch_10.docx": [4329, 4329, 4329]}
+michm	{"1 Samuel_ch_13.docx": [134, 745, 1848, 2638, 3877, 745, 1848, 2638, 3877], "1 Samuel_ch_14.docx": [629, 5014, 629, 5014], "Ezra_ch_2.docx": [1187, 1187], "Nehemiah_ch_7.docx": [2177, 2177], "Isaiah_ch_10.docx": [4329, 4329]}
+michm	{"1 Samuel_ch_13.docx": [134, 745, 1848, 2638, 3877], "1 Samuel_ch_14.docx": [629, 5014], "Ezra_ch_2.docx": [1187], "Nehemiah_ch_7.docx": [2177], "Isaiah_ch_10.docx": [4329]}

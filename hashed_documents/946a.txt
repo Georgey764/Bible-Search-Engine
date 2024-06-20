@@ -1,0 +1,4 @@
+
+symbo	{"Exodus_ch_28.docx": [5167], "Acts_ch_19.docx": [893, 893], "Galatians_ch_4.docx": [2757, 2762, 2873, 2757, 2762, 2873], "Hebrews_ch_9.docx": [3479, 3512, 3479, 3512], "Revelation_ch_5.docx": [753, 1041, 753, 1041], "Revelation_ch_20.docx": [2514, 2514]}
+symbo	{"Exodus_ch_28.docx": [5167], "Acts_ch_19.docx": [893], "Galatians_ch_4.docx": [2757, 2762, 2873], "Hebrews_ch_9.docx": [3479, 3512], "Revelation_ch_5.docx": [753, 1041], "Revelation_ch_20.docx": [2514]}
+symbo	{"Exodus_ch_28.docx": [5167], "Acts_ch_19.docx": [893], "Galatians_ch_4.docx": [2757, 2762, 2873], "Hebrews_ch_9.docx": [3479, 3512], "Revelation_ch_5.docx": [753, 1041], "Revelation_ch_20.docx": [2514]}

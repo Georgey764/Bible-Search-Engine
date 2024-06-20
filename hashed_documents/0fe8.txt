@@ -1,0 +1,4 @@
+
+favori	{"Proverbs_ch_5.docx": [1575], "James_ch_2.docx": [32, 456, 922, 32, 456, 922]}
+favori	{"Proverbs_ch_5.docx": [1575], "James_ch_2.docx": [32, 456, 922]}
+favori	{"Proverbs_ch_5.docx": [1575], "James_ch_2.docx": [32, 456, 922]}

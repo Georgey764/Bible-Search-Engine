@@ -1,0 +1,6 @@
+
+quarri	{"Numbers_ch_23.docx": [1883], "Judges_ch_3.docx": [7927, 9206, 9229, 9254, 7927, 9206, 9229, 9254, 7927, 9206, 9229, 9254], "1 Samuel_ch_13.docx": [983, 983, 983], "2 Chronicles_ch_2.docx": [3315, 3315, 3315], "2 Chronicles_ch_16.docx": [2252, 2252, 2252], "Nehemiah_ch_9.docx": [5313, 5313, 5313], "Job_ch_28.docx": [140, 140, 140], "Isaiah_ch_51.docx": [95, 95, 95], "Matthew_ch_27.docx": [6979, 6979]}
+quarri	{"Numbers_ch_23.docx": [1883], "Judges_ch_3.docx": [7927, 9206, 9229, 9254, 7927, 9206, 9229, 9254], "1 Samuel_ch_13.docx": [983, 983], "2 Chronicles_ch_2.docx": [3315, 3315], "2 Chronicles_ch_16.docx": [2252, 2252], "Nehemiah_ch_9.docx": [5313, 5313], "Job_ch_28.docx": [140, 140], "Isaiah_ch_51.docx": [95, 95], "Matthew_ch_27.docx": [6979]}
+75,000	{"2 Chronicles_ch_4.docx": [617]}
+8plea	{"Psalms_ch_51.docx": [978], "Psalms_ch_79.docx": [835], "Proverbs_ch_30.docx": [774]}
+quarri	{"Numbers_ch_23.docx": [1883], "Judges_ch_3.docx": [7927, 9206, 9229, 9254], "1 Samuel_ch_13.docx": [983], "2 Chronicles_ch_2.docx": [3315], "2 Chronicles_ch_16.docx": [2252], "Nehemiah_ch_9.docx": [5313], "Job_ch_28.docx": [140], "Isaiah_ch_51.docx": [95], "Matthew_ch_27.docx": [6979]}

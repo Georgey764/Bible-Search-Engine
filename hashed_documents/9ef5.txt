@@ -1,0 +1,5 @@
+
+crests	{"Psalms_ch_42.docx": [945], "Jonah_ch_2.docx": [428, 428, 428]}
+crests	{"Psalms_ch_42.docx": [945], "Jonah_ch_2.docx": [428, 428]}
+1‘dr	{"Isaiah_ch_9.docx": [6]}
+crests	{"Psalms_ch_42.docx": [945], "Jonah_ch_2.docx": [428]}

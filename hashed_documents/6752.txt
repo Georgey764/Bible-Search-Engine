@@ -1,0 +1,5 @@
+
+kason	{"2 Samuel_ch_23.docx": [2203]}
+28wel	{"Genesis_ch_9.docx": [3419], "Exodus_ch_12.docx": [4401], "Exodus_ch_34.docx": [4128], "Numbers_ch_11.docx": [4463], "Judges_ch_6.docx": [6309], "1 Samuel_ch_17.docx": [4075], "1 Samuel_ch_18.docx": [4571], "2 Samuel_ch_14.docx": [4611], "1 Kings_ch_3.docx": [4571], "2 Kings_ch_14.docx": [4320], "2 Kings_ch_23.docx": [6396], "Matthew_ch_7.docx": [3189], "Matthew_ch_8.docx": [3484], "Matthew_ch_15.docx": [3031]}
+kason	{"2 Samuel_ch_23.docx": [2203]}
+kason	{"2 Samuel_ch_23.docx": [2203]}

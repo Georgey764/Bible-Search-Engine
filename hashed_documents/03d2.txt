@@ -1,0 +1,7 @@
+
+semer	{"1 Kings_ch_16.docx": [3630, 3632, 3653, 3664, 3632, 3653, 3664, 3632, 3653, 3664], "1 Chronicles_ch_6.docx": [3625, 3625, 3625]}
+it	{"2 Chronicles_ch_9.docx": [3705]}
+semer	{"1 Kings_ch_16.docx": [3630, 3632, 3653, 3664, 3632, 3653, 3664], "1 Chronicles_ch_6.docx": [3625, 3625]}
+it	{"2 Chronicles_ch_9.docx": [3705]}
+semer	{"1 Kings_ch_16.docx": [3630, 3632, 3653, 3664], "1 Chronicles_ch_6.docx": [3625]}
+ it	{"2 Chronicles_ch_9.docx": [3705]}

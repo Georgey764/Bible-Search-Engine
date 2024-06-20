@@ -1,0 +1,3 @@
+
+40an	{"Exodus_ch_29.docx": [5305], "Numbers_ch_4.docx": [5238], "Numbers_ch_31.docx": [4331], "Numbers_ch_33.docx": [3049], "Joshua_ch_21.docx": [4983], "Judges_ch_6.docx": [10391], "2 Samuel_ch_19.docx": [6548], "1 Kings_ch_1.docx": [5617], "1 Kings_ch_18.docx": [6622], "1 Chronicles_ch_16.docx": [4189], "Job_ch_31.docx": [3594]}
+6their	{"Isaiah_ch_19.docx": [857], "Ezekiel_ch_23.docx": [801]}

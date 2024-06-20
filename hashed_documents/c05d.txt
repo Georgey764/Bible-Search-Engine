@@ -1,0 +1,5 @@
+
+sarah’	{"Genesis_ch_25.docx": [1167]}
+28then	{"Genesis_ch_1.docx": [4613], "Genesis_ch_21.docx": [3291], "Genesis_ch_24.docx": [4074], "Exodus_ch_8.docx": [4420], "Leviticus_ch_7.docx": [3867], "Numbers_ch_15.docx": [3421], "Numbers_ch_16.docx": [3888], "Numbers_ch_20.docx": [4055], "Numbers_ch_32.docx": [3669], "Judges_ch_16.docx": [5183], "2 Samuel_ch_3.docx": [4176], "2 Samuel_ch_13.docx": [4356], "1 Kings_ch_1.docx": [3928], "1 Kings_ch_9.docx": [4381], "1 Kings_ch_16.docx": [4374], "1 Kings_ch_20.docx": [4688], "2 Kings_ch_4.docx": [4288], "2 Kings_ch_6.docx": [4230], "2 Kings_ch_9.docx": [5583], "2 Kings_ch_18.docx": [4836], "1 Chronicles_ch_12.docx": [3502], "2 Chronicles_ch_25.docx": [4850], "Nehemiah_ch_12.docx": [3212], "Job_ch_36.docx": [2740], "Psalms_ch_35.docx": [2937], "Daniel_ch_3.docx": [4948], "Matthew_ch_14.docx": [3351]}
+sarah’	{"Genesis_ch_25.docx": [1167]}
+sarah’	{"Genesis_ch_25.docx": [1167]}

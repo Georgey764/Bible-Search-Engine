@@ -1,0 +1,6 @@
+
+basam	{"1 Chronicles_ch_6.docx": [4858]}
+selfi	{"Mark_ch_7.docx": [2631], "Galatians_ch_5.docx": [2488, 2488], "Titus_ch_1.docx": [976, 976]}
+basam	{"1 Chronicles_ch_6.docx": [4858]}
+basam	{"1 Chronicles_ch_6.docx": [4858]}
+selfi	{"Mark_ch_7.docx": [2631], "Galatians_ch_5.docx": [2488], "Titus_ch_1.docx": [976]}

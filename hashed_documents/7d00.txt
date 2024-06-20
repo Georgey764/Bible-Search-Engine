@@ -1,0 +1,5 @@
+
+elbows	{"Job_ch_31.docx": [2085], "Ezekiel_ch_13.docx": [3524, 3524, 3524]}
+22,70	{"Ezra_ch_8.docx": [3576]}
+elbows	{"Job_ch_31.docx": [2085], "Ezekiel_ch_13.docx": [3524, 3524]}
+elbows	{"Job_ch_31.docx": [2085], "Ezekiel_ch_13.docx": [3524]}

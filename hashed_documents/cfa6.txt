@@ -1,0 +1,7 @@
+
+weasel	{"Leviticus_ch_11.docx": [3274]}
+sush	{"Daniel_ch_8.docx": [38]}
+weasel	{"Leviticus_ch_11.docx": [3274]}
+sush	{"Daniel_ch_8.docx": [38]}
+weasel	{"Leviticus_ch_11.docx": [3274]}
+sush	{"Daniel_ch_8.docx": [38]}

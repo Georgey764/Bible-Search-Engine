@@ -1,0 +1,4 @@
+
+jekma	{"Joshua_ch_19.docx": [817], "1 Chronicles_ch_6.docx": [5763, 5763, 5763]}
+jekma	{"Joshua_ch_19.docx": [817], "1 Chronicles_ch_6.docx": [5763, 5763]}
+jekma	{"Joshua_ch_19.docx": [817], "1 Chronicles_ch_6.docx": [5763]}

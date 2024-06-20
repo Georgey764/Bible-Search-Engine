@@ -1,0 +1,4 @@
+
+shob	{"Ezra_ch_2.docx": [1683], "Nehemiah_ch_7.docx": [2742, 2742, 2742], "Nehemiah_ch_10.docx": [1172, 1172, 1172]}
+shob	{"Ezra_ch_2.docx": [1683], "Nehemiah_ch_7.docx": [2742, 2742], "Nehemiah_ch_10.docx": [1172, 1172]}
+shob	{"Ezra_ch_2.docx": [1683], "Nehemiah_ch_7.docx": [2742], "Nehemiah_ch_10.docx": [1172]}

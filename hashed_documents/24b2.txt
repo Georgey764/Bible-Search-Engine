@@ -1,0 +1,6 @@
+
+pharat	{"Judges_ch_12.docx": [2613, 2708, 2721, 2735, 2756, 2779, 2708, 2721, 2735, 2756, 2779, 2708, 2721, 2735, 2756, 2779], "1 Chronicles_ch_11.docx": [5520, 5520, 5520], "1 Chronicles_ch_27.docx": [1781, 1781, 1781]}
+functi	{"Romans_ch_12.docx": [586]}
+pharat	{"Judges_ch_12.docx": [2613, 2708, 2721, 2735, 2756, 2779, 2708, 2721, 2735, 2756, 2779], "1 Chronicles_ch_11.docx": [5520, 5520], "1 Chronicles_ch_27.docx": [1781, 1781]}
+pharat	{"Judges_ch_12.docx": [2613, 2708, 2721, 2735, 2756, 2779], "1 Chronicles_ch_11.docx": [5520], "1 Chronicles_ch_27.docx": [1781]}
+functi	{"Romans_ch_12.docx": [586]}

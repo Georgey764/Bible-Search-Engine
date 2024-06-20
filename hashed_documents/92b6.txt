@@ -1,0 +1,4 @@
+
+drips	{"Proverbs_ch_10.docx": [2882], "Song of Solomon_ch_4.docx": [1569, 1569, 1569]}
+drips	{"Proverbs_ch_10.docx": [2882], "Song of Solomon_ch_4.docx": [1569, 1569]}
+drips	{"Proverbs_ch_10.docx": [2882], "Song of Solomon_ch_4.docx": [1569]}

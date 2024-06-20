@@ -1,0 +1,7 @@
+
+alar	{"Numbers_ch_10.docx": [474, 579, 647, 711, 776, 844, 579, 647, 711, 776, 844, 579, 647, 711, 776, 844], "Judges_ch_7.docx": [4767, 4767, 4767], "Job_ch_38.docx": [1654, 2879, 1654, 2879, 1654, 2879], "Jeremiah_ch_6.docx": [144, 144, 144]}
+bloods	{"Ezekiel_ch_9.docx": [1972]}
+alar	{"Numbers_ch_10.docx": [474, 579, 647, 711, 776, 844, 579, 647, 711, 776, 844], "Judges_ch_7.docx": [4767, 4767], "Job_ch_38.docx": [1654, 2879, 1654, 2879], "Jeremiah_ch_6.docx": [144, 144]}
+bloods	{"Ezekiel_ch_9.docx": [1972]}
+alar	{"Numbers_ch_10.docx": [474, 579, 647, 711, 776, 844], "Judges_ch_7.docx": [4767], "Job_ch_38.docx": [1654, 2879], "Jeremiah_ch_6.docx": [144]}
+bloods	{"Ezekiel_ch_9.docx": [1972]}

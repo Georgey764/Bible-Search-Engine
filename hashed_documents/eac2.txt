@@ -1,0 +1,4 @@
+
+help!	{"1 Samuel_ch_13.docx": [1874], "Isaiah_ch_8.docx": [3338, 3338, 3338], "Acts_ch_21.docx": [8345, 8345]}
+help!	{"1 Samuel_ch_13.docx": [1874], "Isaiah_ch_8.docx": [3338, 3338], "Acts_ch_21.docx": [8345]}
+help!	{"1 Samuel_ch_13.docx": [1874], "Isaiah_ch_8.docx": [3338], "Acts_ch_21.docx": [8345]}

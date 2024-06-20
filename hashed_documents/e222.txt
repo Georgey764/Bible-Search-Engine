@@ -1,0 +1,7 @@
+
+man)	{"1 Kings_ch_7.docx": [1744], "2 Chronicles_ch_28.docx": [976, 976, 976]}
+spect	{"Matthew_ch_1.docx": [1668], "Luke_ch_23.docx": [5682, 5682], "1 Corinthians_ch_4.docx": [1529, 1529], "2 Corinthians_ch_2.docx": [2040, 2040], "Hebrews_ch_10.docx": [4411, 4414, 4411, 4414]}
+man)	{"1 Kings_ch_7.docx": [1744], "2 Chronicles_ch_28.docx": [976, 976]}
+spect	{"Matthew_ch_1.docx": [1668], "Luke_ch_23.docx": [5682], "1 Corinthians_ch_4.docx": [1529], "2 Corinthians_ch_2.docx": [2040], "Hebrews_ch_10.docx": [4411, 4414]}
+man)	{"1 Kings_ch_7.docx": [1744], "2 Chronicles_ch_28.docx": [976]}
+spect	{"Matthew_ch_1.docx": [1668], "Luke_ch_23.docx": [5682], "1 Corinthians_ch_4.docx": [1529], "2 Corinthians_ch_2.docx": [2040], "Hebrews_ch_10.docx": [4411, 4414]}

@@ -1,0 +1,4 @@
+
+astra	{"2 Chronicles_ch_21.docx": [1519], "Proverbs_ch_1.docx": [1020, 1020, 1020], "Proverbs_ch_7.docx": [1790, 1790, 1790], "Jeremiah_ch_50.docx": [1265, 1265, 1265], "1 John_ch_2.docx": [3672, 3672]}
+astra	{"2 Chronicles_ch_21.docx": [1519], "Proverbs_ch_1.docx": [1020, 1020], "Proverbs_ch_7.docx": [1790, 1790], "Jeremiah_ch_50.docx": [1265, 1265], "1 John_ch_2.docx": [3672]}
+astra	{"2 Chronicles_ch_21.docx": [1519], "Proverbs_ch_1.docx": [1020], "Proverbs_ch_7.docx": [1790], "Jeremiah_ch_50.docx": [1265], "1 John_ch_2.docx": [3672]}

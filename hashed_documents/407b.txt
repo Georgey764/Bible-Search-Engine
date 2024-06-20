@@ -1,0 +1,5 @@
+
+tama	{"Genesis_ch_38.docx": [551, 1140, 1300, 1386, 1840, 3315, 3704, 1140, 1300, 1386, 1840, 3315, 3704, 1140, 1300, 1386, 1840, 3315, 3704], "1 Chronicles_ch_2.docx": [357, 357, 357], "1 Chronicles_ch_3.docx": [784, 784, 784], "Nehemiah_ch_7.docx": [3206, 3206, 3206], "Matthew_ch_1.docx": [209, 209, 209]}
+tama	{"Genesis_ch_38.docx": [551, 1140, 1300, 1386, 1840, 3315, 3704, 1140, 1300, 1386, 1840, 3315, 3704], "1 Chronicles_ch_2.docx": [357, 357], "1 Chronicles_ch_3.docx": [784, 784], "Nehemiah_ch_7.docx": [3206, 3206], "Matthew_ch_1.docx": [209, 209]}
+4don’	{"Psalms_ch_53.docx": [506], "Psalms_ch_141.docx": [283], "Proverbs_ch_26.docx": [305]}
+tama	{"Genesis_ch_38.docx": [551, 1140, 1300, 1386, 1840, 3315, 3704], "1 Chronicles_ch_2.docx": [357], "1 Chronicles_ch_3.docx": [784], "Nehemiah_ch_7.docx": [3206], "Matthew_ch_1.docx": [209]}

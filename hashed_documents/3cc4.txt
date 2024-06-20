@@ -1,0 +1,4 @@
+
+mild	{"Psalms_ch_120.docx": [614], "Proverbs_ch_15.docx": [112, 112, 112], "Proverbs_ch_25.docx": [1511, 1511, 1511], "1 Corinthians_ch_4.docx": [3032, 3032], "2 Corinthians_ch_10.docx": [22, 22], "1 Peter_ch_3.docx": [373, 373]}
+mild	{"Psalms_ch_120.docx": [614], "Proverbs_ch_15.docx": [112, 112], "Proverbs_ch_25.docx": [1511, 1511], "1 Corinthians_ch_4.docx": [3032], "2 Corinthians_ch_10.docx": [22], "1 Peter_ch_3.docx": [373]}
+mild	{"Psalms_ch_120.docx": [614], "Proverbs_ch_15.docx": [112], "Proverbs_ch_25.docx": [1511], "1 Corinthians_ch_4.docx": [3032], "2 Corinthians_ch_10.docx": [22], "1 Peter_ch_3.docx": [373]}

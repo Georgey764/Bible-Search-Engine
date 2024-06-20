@@ -1,0 +1,4 @@
+
+god]	{"Proverbs_ch_20.docx": [2941], "Proverbs_ch_21.docx": [2665, 2665, 2665], "Isaiah_ch_30.docx": [5343, 5343, 5343], "Jeremiah_ch_7.docx": [545, 545, 545], "Hosea_ch_10.docx": [609, 609, 609], "Hebrews_ch_4.docx": [1748, 1748]}
+god]	{"Proverbs_ch_20.docx": [2941], "Proverbs_ch_21.docx": [2665, 2665], "Isaiah_ch_30.docx": [5343, 5343], "Jeremiah_ch_7.docx": [545, 545], "Hosea_ch_10.docx": [609, 609], "Hebrews_ch_4.docx": [1748]}
+god]	{"Proverbs_ch_20.docx": [2941], "Proverbs_ch_21.docx": [2665], "Isaiah_ch_30.docx": [5343], "Jeremiah_ch_7.docx": [545], "Hosea_ch_10.docx": [609], "Hebrews_ch_4.docx": [1748]}

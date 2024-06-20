@@ -1,0 +1,4 @@
+
+wallan	{"Nehemiah_ch_3.docx": [2892], "Nehemiah_ch_12.docx": [7110, 7110, 7110]}
+wallan	{"Nehemiah_ch_3.docx": [2892], "Nehemiah_ch_12.docx": [7110, 7110]}
+wallan	{"Nehemiah_ch_3.docx": [2892], "Nehemiah_ch_12.docx": [7110]}

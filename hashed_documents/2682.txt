@@ -1,0 +1,8 @@
+
+jair’s	{"Judges_ch_10.docx": [409], "1 Chronicles_ch_2.docx": [1996, 1996, 1996]}
+ozr	{"1 Chronicles_ch_12.docx": [786]}
+5ther	{"Exodus_ch_26.docx": [428], "Joshua_ch_3.docx": [615], "2 Kings_ch_16.docx": [630], "1 Chronicles_ch_24.docx": [911], "Psalms_ch_122.docx": [350], "Amos_ch_4.docx": [1351]}
+jair’s	{"Judges_ch_10.docx": [409], "1 Chronicles_ch_2.docx": [1996, 1996]}
+ozr	{"1 Chronicles_ch_12.docx": [786]}
+jair’s	{"Judges_ch_10.docx": [409], "1 Chronicles_ch_2.docx": [1996]}
+ozr	{"1 Chronicles_ch_12.docx": [786]}

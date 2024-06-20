@@ -1,0 +1,2 @@
+
+15when	{"1 Chronicles_ch_26.docx": [1891], "Job_ch_1.docx": [2264], "Job_ch_14.docx": [1658], "Proverbs_ch_17.docx": [1423], "Proverbs_ch_26.docx": [1284]}

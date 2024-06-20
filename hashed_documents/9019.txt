@@ -1,0 +1,4 @@
+
+fram	{"Exodus_ch_12.docx": [3497], "1 Kings_ch_7.docx": [3706, 3706, 3706]}
+fram	{"Exodus_ch_12.docx": [3497], "1 Kings_ch_7.docx": [3706, 3706]}
+fram	{"Exodus_ch_12.docx": [3497], "1 Kings_ch_7.docx": [3706]}

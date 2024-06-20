@@ -1,0 +1,7 @@
+
+seiram	{"2 Samuel_ch_3.docx": [3784]}
+coven	{"Ezekiel_ch_30.docx": [603]}
+seiram	{"2 Samuel_ch_3.docx": [3784]}
+coven	{"Ezekiel_ch_30.docx": [603]}
+seiram	{"2 Samuel_ch_3.docx": [3784]}
+coven	{"Ezekiel_ch_30.docx": [603]}

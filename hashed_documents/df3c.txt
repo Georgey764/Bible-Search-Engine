@@ -1,0 +1,4 @@
+
+chorrh	{"Genesis_ch_14.docx": [588], "Genesis_ch_36.docx": [2293, 2434, 2542, 2293, 2434, 2542, 2293, 2434, 2542], "Deuteronomy_ch_2.docx": [1474, 2755, 1474, 2755, 1474, 2755]}
+chorrh	{"Genesis_ch_14.docx": [588], "Genesis_ch_36.docx": [2293, 2434, 2542, 2293, 2434, 2542], "Deuteronomy_ch_2.docx": [1474, 2755, 1474, 2755]}
+chorrh	{"Genesis_ch_14.docx": [588], "Genesis_ch_36.docx": [2293, 2434, 2542], "Deuteronomy_ch_2.docx": [1474, 2755]}

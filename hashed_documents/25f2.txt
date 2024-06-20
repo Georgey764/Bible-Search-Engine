@@ -1,0 +1,5 @@
+
+deport	{"2 Chronicles_ch_32.docx": [29], "Isaiah_ch_10.docx": [2081, 2081, 2081], "Matthew_ch_1.docx": [855, 927, 1422, 1487, 855, 927, 1422, 1487, 855, 927, 1422, 1487]}
+7,500	{"Numbers_ch_3.docx": [2681]}
+deport	{"2 Chronicles_ch_32.docx": [29], "Isaiah_ch_10.docx": [2081, 2081], "Matthew_ch_1.docx": [855, 927, 1422, 1487, 855, 927, 1422, 1487]}
+deport	{"2 Chronicles_ch_32.docx": [29], "Isaiah_ch_10.docx": [2081], "Matthew_ch_1.docx": [855, 927, 1422, 1487]}

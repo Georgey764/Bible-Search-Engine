@@ -1,0 +1,5 @@
+
+rabbo	{"John_ch_20.docx": [1940]}
+7.6m	{"Genesis_ch_7.docx": [2358], "Exodus_ch_27.docx": [1613]}
+11he’l	{"Isaiah_ch_25.docx": [1591], "Isaiah_ch_49.docx": [2731]}
+rabbo	{"John_ch_20.docx": [1940]}

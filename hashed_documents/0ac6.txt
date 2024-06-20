@@ -1,0 +1,7 @@
+
+papa	{"Judges_ch_12.docx": [1866, 1871, 1877, 2219, 1871, 1877, 2219, 1871, 1877, 2219], "Mark_ch_14.docx": [4696, 4696], "Romans_ch_8.docx": [1880, 1880], "Galatians_ch_4.docx": [601, 601]}
+his;	{"Ezekiel_ch_31.docx": [1199]}
+papa	{"Judges_ch_12.docx": [1866, 1871, 1877, 2219, 1871, 1877, 2219], "Mark_ch_14.docx": [4696], "Romans_ch_8.docx": [1880], "Galatians_ch_4.docx": [601]}
+his;	{"Ezekiel_ch_31.docx": [1199]}
+papa	{"Judges_ch_12.docx": [1866, 1871, 1877, 2219], "Mark_ch_14.docx": [4696], "Romans_ch_8.docx": [1880], "Galatians_ch_4.docx": [601]}
+his;	{"Ezekiel_ch_31.docx": [1199]}

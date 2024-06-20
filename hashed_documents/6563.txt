@@ -1,0 +1,4 @@
+
+reapin	{"Genesis_ch_45.docx": [838], "Leviticus_ch_23.docx": [1157, 1157, 1157]}
+reapin	{"Genesis_ch_45.docx": [838], "Leviticus_ch_23.docx": [1157, 1157]}
+reapin	{"Genesis_ch_45.docx": [838], "Leviticus_ch_23.docx": [1157]}

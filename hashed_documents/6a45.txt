@@ -1,0 +1,5 @@
+
+rud	{"Judges_ch_8.docx": [3193], "1 Samuel_ch_16.docx": [2143, 2143, 2143], "1 Samuel_ch_17.docx": [6376, 6376, 6376], "John_ch_9.docx": [3239, 3239], "Acts_ch_27.docx": [5384, 5384], "Romans_ch_1.docx": [3826, 3826], "Romans_ch_12.docx": [1979, 1979], "James_ch_3.docx": [411, 411]}
+rud	{"Judges_ch_8.docx": [3193], "1 Samuel_ch_16.docx": [2143, 2143], "1 Samuel_ch_17.docx": [6376, 6376], "John_ch_9.docx": [3239], "Acts_ch_27.docx": [5384], "Romans_ch_1.docx": [3826], "Romans_ch_12.docx": [1979], "James_ch_3.docx": [411]}
+23awak	{"Psalms_ch_35.docx": [2419]}
+rud	{"Judges_ch_8.docx": [3193], "1 Samuel_ch_16.docx": [2143], "1 Samuel_ch_17.docx": [6376], "John_ch_9.docx": [3239], "Acts_ch_27.docx": [5384], "Romans_ch_1.docx": [3826], "Romans_ch_12.docx": [1979], "James_ch_3.docx": [411]}

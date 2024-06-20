@@ -1,0 +1,5 @@
+
+asem	{"Numbers_ch_34.docx": [448, 594, 594, 594]}
+asem	{"Numbers_ch_34.docx": [448, 594, 594]}
+63.	{"2 Kings_ch_5.docx": [4396]}
+asem	{"Numbers_ch_34.docx": [448, 594]}

@@ -1,0 +1,4 @@
+
+remmo	{"Numbers_ch_33.docx": [1772, 1824, 1824, 1824], "Joshua_ch_19.docx": [1114, 1114, 1114], "Judges_ch_20.docx": [7370, 7388, 7427, 7467, 8374, 8392, 7370, 7388, 7427, 7467, 8374, 8392, 7370, 7388, 7427, 7467, 8374, 8392], "1 Chronicles_ch_4.docx": [3652, 3652, 3652], "1 Chronicles_ch_6.docx": [6663, 6663, 6663]}
+remmo	{"Numbers_ch_33.docx": [1772, 1824, 1824], "Joshua_ch_19.docx": [1114, 1114], "Judges_ch_20.docx": [7370, 7388, 7427, 7467, 8374, 8392, 7370, 7388, 7427, 7467, 8374, 8392], "1 Chronicles_ch_4.docx": [3652, 3652], "1 Chronicles_ch_6.docx": [6663, 6663]}
+remmo	{"Numbers_ch_33.docx": [1772, 1824], "Joshua_ch_19.docx": [1114], "Judges_ch_20.docx": [7370, 7388, 7427, 7467, 8374, 8392], "1 Chronicles_ch_4.docx": [3652], "1 Chronicles_ch_6.docx": [6663]}

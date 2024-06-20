@@ -1,0 +1,4 @@
+
+miscon	{"1 Timothy_ch_3.docx": [201], "Titus_ch_1.docx": [745, 745]}
+29both	{"Genesis_ch_11.docx": [3285]}
+miscon	{"1 Timothy_ch_3.docx": [201], "Titus_ch_1.docx": [745]}

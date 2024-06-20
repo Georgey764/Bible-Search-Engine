@@ -1,0 +1,2 @@
+
+44and	{"Genesis_ch_27.docx": [5966], "Genesis_ch_41.docx": [5557], "Exodus_ch_12.docx": [6839], "Numbers_ch_4.docx": [5589], "Numbers_ch_16.docx": [6213], "Judges_ch_20.docx": [6786], "1 Kings_ch_11.docx": [6748], "2 Kings_ch_4.docx": [7118]}

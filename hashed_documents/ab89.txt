@@ -1,0 +1,5 @@
+
+delic	{"Genesis_ch_49.docx": [2356], "Deuteronomy_ch_28.docx": [7921, 7921, 7921], "Job_ch_24.docx": [408, 408, 408], "Song of Solomon_ch_7.docx": [793, 793, 793], "Isaiah_ch_47.docx": [212, 1238, 212, 1238, 212, 1238], "Hosea_ch_9.docx": [529, 529, 529], "1 Peter_ch_3.docx": [752, 752]}
+delic	{"Genesis_ch_49.docx": [2356], "Deuteronomy_ch_28.docx": [7921, 7921], "Job_ch_24.docx": [408, 408], "Song of Solomon_ch_7.docx": [793, 793], "Isaiah_ch_47.docx": [212, 1238, 212, 1238], "Hosea_ch_9.docx": [529, 529], "1 Peter_ch_3.docx": [752]}
+5‘tak	{"Exodus_ch_35.docx": [528], "Numbers_ch_7.docx": [582]}
+delic	{"Genesis_ch_49.docx": [2356], "Deuteronomy_ch_28.docx": [7921], "Job_ch_24.docx": [408], "Song of Solomon_ch_7.docx": [793], "Isaiah_ch_47.docx": [212, 1238], "Hosea_ch_9.docx": [529], "1 Peter_ch_3.docx": [752]}

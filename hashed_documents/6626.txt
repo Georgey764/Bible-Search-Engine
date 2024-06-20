@@ -1,0 +1,4 @@
+
+saraah	{"Judges_ch_18.docx": [234, 1868, 2397, 1868, 2397, 1868, 2397]}
+saraah	{"Judges_ch_18.docx": [234, 1868, 2397, 1868, 2397]}
+saraah	{"Judges_ch_18.docx": [234, 1868, 2397]}

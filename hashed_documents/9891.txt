@@ -1,0 +1,4 @@
+
+camel’	{"Genesis_ch_31.docx": [4485], "Matthew_ch_3.docx": [368, 368, 368], "Mark_ch_1.docx": [614, 614]}
+camel’	{"Genesis_ch_31.docx": [4485], "Matthew_ch_3.docx": [368, 368], "Mark_ch_1.docx": [614]}
+camel’	{"Genesis_ch_31.docx": [4485], "Matthew_ch_3.docx": [368], "Mark_ch_1.docx": [614]}

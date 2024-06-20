@@ -1,0 +1,7 @@
+
+aim	{"Numbers_ch_13.docx": [1819], "Joshua_ch_19.docx": [1646, 1646, 1646], "1 Chronicles_ch_9.docx": [2567, 2567, 2567], "2 Chronicles_ch_3.docx": [662, 662, 662], "Psalms_ch_64.docx": [394, 394, 394]}
+mighte	{"1 Chronicles_ch_11.docx": [3869]}
+aim	{"Numbers_ch_13.docx": [1819], "Joshua_ch_19.docx": [1646, 1646], "1 Chronicles_ch_9.docx": [2567, 2567], "2 Chronicles_ch_3.docx": [662, 662], "Psalms_ch_64.docx": [394, 394]}
+mighte	{"1 Chronicles_ch_11.docx": [3869]}
+aim	{"Numbers_ch_13.docx": [1819], "Joshua_ch_19.docx": [1646], "1 Chronicles_ch_9.docx": [2567], "2 Chronicles_ch_3.docx": [662], "Psalms_ch_64.docx": [394]}
+mighte	{"1 Chronicles_ch_11.docx": [3869]}

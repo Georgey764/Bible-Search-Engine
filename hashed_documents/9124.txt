@@ -1,0 +1,4 @@
+
+jerahm	{"1 Samuel_ch_27.docx": [1460], "1 Samuel_ch_30.docx": [4442, 4442, 4442], "Jeremiah_ch_36.docx": [4064, 4064, 4064]}
+jerahm	{"1 Samuel_ch_27.docx": [1460], "1 Samuel_ch_30.docx": [4442, 4442], "Jeremiah_ch_36.docx": [4064, 4064]}
+jerahm	{"1 Samuel_ch_27.docx": [1460], "1 Samuel_ch_30.docx": [4442], "Jeremiah_ch_36.docx": [4064]}

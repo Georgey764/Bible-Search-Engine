@@ -1,0 +1,4 @@
+
+zosa	{"Esther_ch_5.docx": [1449, 2018, 2018, 2018], "Esther_ch_6.docx": [2053, 2053, 2053]}
+zosa	{"Esther_ch_5.docx": [1449, 2018, 2018], "Esther_ch_6.docx": [2053, 2053]}
+zosa	{"Esther_ch_5.docx": [1449, 2018], "Esther_ch_6.docx": [2053]}

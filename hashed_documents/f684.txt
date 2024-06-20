@@ -1,0 +1,5 @@
+
+naggi	{"Judges_ch_16.docx": [2848], "Proverbs_ch_27.docx": [1370, 1370, 1370]}
+naggi	{"Judges_ch_16.docx": [2848], "Proverbs_ch_27.docx": [1370, 1370]}
+14dani	{"Daniel_ch_2.docx": [2184]}
+naggi	{"Judges_ch_16.docx": [2848], "Proverbs_ch_27.docx": [1370]}

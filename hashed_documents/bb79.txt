@@ -1,0 +1,4 @@
+
+soug	{"2 Samuel_ch_16.docx": [3440], "Psalms_ch_119.docx": [6656, 6656, 6656], "Ecclesiastes_ch_7.docx": [2772, 2772, 2772], "Isaiah_ch_3.docx": [1544, 1544, 1544], "Isaiah_ch_30.docx": [298, 366, 298, 366, 298, 366], "Ezekiel_ch_25.docx": [1896, 1896, 1896], "1 Thessalonians_ch_2.docx": [587, 587]}
+soug	{"2 Samuel_ch_16.docx": [3440], "Psalms_ch_119.docx": [6656, 6656], "Ecclesiastes_ch_7.docx": [2772, 2772], "Isaiah_ch_3.docx": [1544, 1544], "Isaiah_ch_30.docx": [298, 366, 298, 366], "Ezekiel_ch_25.docx": [1896, 1896], "1 Thessalonians_ch_2.docx": [587]}
+soug	{"2 Samuel_ch_16.docx": [3440], "Psalms_ch_119.docx": [6656], "Ecclesiastes_ch_7.docx": [2772], "Isaiah_ch_3.docx": [1544], "Isaiah_ch_30.docx": [298, 366], "Ezekiel_ch_25.docx": [1896], "1 Thessalonians_ch_2.docx": [587]}

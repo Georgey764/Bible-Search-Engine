@@ -1,0 +1,10 @@
+
+jetu	{"Genesis_ch_25.docx": [1483]}
+thail	{"2 Samuel_ch_3.docx": [1619]}
+brento	{"Ezekiel_ch_41.docx": [1624]}
+jetu	{"Genesis_ch_25.docx": [1483]}
+thail	{"2 Samuel_ch_3.docx": [1619]}
+brento	{"Ezekiel_ch_41.docx": [1624]}
+jetu	{"Genesis_ch_25.docx": [1483]}
+thail	{"2 Samuel_ch_3.docx": [1619]}
+brento	{"Ezekiel_ch_41.docx": [1624]}

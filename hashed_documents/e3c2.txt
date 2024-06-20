@@ -1,0 +1,4 @@
+
+agreei	{"Deuteronomy_ch_26.docx": [2857], "Judges_ch_8.docx": [6764, 6764, 6764], "Acts_ch_2.docx": [9577, 9577]}
+agreei	{"Deuteronomy_ch_26.docx": [2857], "Judges_ch_8.docx": [6764, 6764], "Acts_ch_2.docx": [9577]}
+agreei	{"Deuteronomy_ch_26.docx": [2857], "Judges_ch_8.docx": [6764], "Acts_ch_2.docx": [9577]}

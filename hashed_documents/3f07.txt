@@ -1,0 +1,4 @@
+
+oppor	{"Matthew_ch_26.docx": [1508], "Mark_ch_14.docx": [1540, 1540], "Luke_ch_9.docx": [1117, 1117], "Luke_ch_22.docx": [419, 419], "Acts_ch_11.docx": [2933, 2933], "1 Corinthians_ch_7.docx": [2581, 2581], "2 Corinthians_ch_2.docx": [1448, 1448], "Hebrews_ch_4.docx": [992, 992]}
+oppor	{"Matthew_ch_26.docx": [1508], "Mark_ch_14.docx": [1540], "Luke_ch_9.docx": [1117], "Luke_ch_22.docx": [419], "Acts_ch_11.docx": [2933], "1 Corinthians_ch_7.docx": [2581], "2 Corinthians_ch_2.docx": [1448], "Hebrews_ch_4.docx": [992]}
+oppor	{"Matthew_ch_26.docx": [1508], "Mark_ch_14.docx": [1540], "Luke_ch_9.docx": [1117], "Luke_ch_22.docx": [419], "Acts_ch_11.docx": [2933], "1 Corinthians_ch_7.docx": [2581], "2 Corinthians_ch_2.docx": [1448], "Hebrews_ch_4.docx": [992]}

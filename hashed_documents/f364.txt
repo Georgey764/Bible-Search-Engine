@@ -1,0 +1,4 @@
+
+ovens	{"Exodus_ch_8.docx": [394], "Leviticus_ch_11.docx": [4065, 4065, 4065], "Jeremiah_ch_10.docx": [1925, 1925, 1925], "Hosea_ch_7.docx": [1170, 1170, 1170]}
+ovens	{"Exodus_ch_8.docx": [394], "Leviticus_ch_11.docx": [4065, 4065], "Jeremiah_ch_10.docx": [1925, 1925], "Hosea_ch_7.docx": [1170, 1170]}
+ovens	{"Exodus_ch_8.docx": [394], "Leviticus_ch_11.docx": [4065], "Jeremiah_ch_10.docx": [1925], "Hosea_ch_7.docx": [1170]}

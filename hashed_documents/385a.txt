@@ -1,0 +1,6 @@
+
+phrase	{"Psalms_ch_136.docx": [48, 80, 80, 80], "Romans_ch_13.docx": [1463, 1463]}
+crispu	{"Acts_ch_18.docx": [3057, 3077, 3098, 3077, 3098], "1 Corinthians_ch_1.docx": [1786, 1786]}
+phrase	{"Psalms_ch_136.docx": [48, 80, 80], "Romans_ch_13.docx": [1463]}
+phrase	{"Psalms_ch_136.docx": [48, 80], "Romans_ch_13.docx": [1463]}
+crispu	{"Acts_ch_18.docx": [3057, 3077, 3098], "1 Corinthians_ch_1.docx": [1786]}

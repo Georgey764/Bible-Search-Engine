@@ -1,0 +1,5 @@
+
+bale	{"1 Chronicles_ch_8.docx": [45]}
+32‘an	{"Leviticus_ch_11.docx": [3542], "2 Chronicles_ch_6.docx": [5283], "Nehemiah_ch_9.docx": [7019], "Ezekiel_ch_23.docx": [5251]}
+bale	{"1 Chronicles_ch_8.docx": [45]}
+ bale	{"1 Chronicles_ch_8.docx": [45]}

@@ -1,0 +1,5 @@
+
+denn	{"Genesis_ch_36.docx": [3380], "1 Chronicles_ch_1.docx": [3638, 3638, 3638]}
+denn	{"Genesis_ch_36.docx": [3380], "1 Chronicles_ch_1.docx": [3638, 3638]}
+29‘lo	{"Exodus_ch_16.docx": [4469]}
+denn	{"Genesis_ch_36.docx": [3380], "1 Chronicles_ch_1.docx": [3638]}

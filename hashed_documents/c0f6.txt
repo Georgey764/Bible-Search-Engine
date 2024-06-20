@@ -1,0 +1,5 @@
+
+dashed	{"Isaiah_ch_13.docx": [2325], "Isaiah_ch_21.docx": [991, 991, 991], "Hosea_ch_10.docx": [3748, 3748, 3748], "Hosea_ch_13.docx": [2532, 2532, 2532]}
+3sh	{"Nehemiah_ch_12.docx": [191], "Psalms_ch_27.docx": [378], "Psalms_ch_123.docx": [321]}
+dashed	{"Isaiah_ch_13.docx": [2325], "Isaiah_ch_21.docx": [991, 991], "Hosea_ch_10.docx": [3748, 3748], "Hosea_ch_13.docx": [2532, 2532]}
+dashed	{"Isaiah_ch_13.docx": [2325], "Isaiah_ch_21.docx": [991], "Hosea_ch_10.docx": [3748], "Hosea_ch_13.docx": [2532]}

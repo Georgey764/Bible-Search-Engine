@@ -1,0 +1,4 @@
+
+edan	{"1 Chronicles_ch_23.docx": [822, 850, 850, 850]}
+edan	{"1 Chronicles_ch_23.docx": [822, 850, 850]}
+edan	{"1 Chronicles_ch_23.docx": [822, 850]}

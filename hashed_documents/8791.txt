@@ -1,0 +1,7 @@
+
+issaar	{"Numbers_ch_3.docx": [2507, 3221, 3221, 3221], "1 Chronicles_ch_6.docx": [119, 1241, 119, 1241, 119, 1241]}
+peth	{"Nehemiah_ch_9.docx": [1018], "Nehemiah_ch_11.docx": [4071, 4071]}
+issaar	{"Numbers_ch_3.docx": [2507, 3221, 3221], "1 Chronicles_ch_6.docx": [119, 1241, 119, 1241]}
+peth	{"Nehemiah_ch_9.docx": [1018], "Nehemiah_ch_11.docx": [4071]}
+issaar	{"Numbers_ch_3.docx": [2507, 3221], "1 Chronicles_ch_6.docx": [119, 1241]}
+peth	{"Nehemiah_ch_9.docx": [1018], "Nehemiah_ch_11.docx": [4071]}

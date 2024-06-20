@@ -1,0 +1,4 @@
+
+did;	{"Genesis_ch_39.docx": [336], "Numbers_ch_5.docx": [392, 392, 392], "Numbers_ch_17.docx": [1594, 1594, 1594], "Micah_ch_2.docx": [1249, 1249, 1249]}
+did;	{"Genesis_ch_39.docx": [336], "Numbers_ch_5.docx": [392, 392], "Numbers_ch_17.docx": [1594, 1594], "Micah_ch_2.docx": [1249, 1249]}
+did;	{"Genesis_ch_39.docx": [336], "Numbers_ch_5.docx": [392], "Numbers_ch_17.docx": [1594], "Micah_ch_2.docx": [1249]}

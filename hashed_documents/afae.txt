@@ -1,0 +1,4 @@
+
+prices	{"Amos_ch_5.docx": [2396]}
+prices	{"Amos_ch_5.docx": [2396]}
+prices	{"Amos_ch_5.docx": [2396]}

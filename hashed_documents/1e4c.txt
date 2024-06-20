@@ -1,0 +1,4 @@
+
+beats	{"Exodus_ch_21.docx": [1914], "Numbers_ch_35.docx": [2650, 2650, 2650], "Isaiah_ch_60.docx": [633, 633, 633]}
+beats	{"Exodus_ch_21.docx": [1914], "Numbers_ch_35.docx": [2650, 2650], "Isaiah_ch_60.docx": [633, 633]}
+beats	{"Exodus_ch_21.docx": [1914], "Numbers_ch_35.docx": [2650], "Isaiah_ch_60.docx": [633]}

@@ -1,0 +1,4 @@
+
+winnin	{"Judges_ch_20.docx": [5554], "2 Samuel_ch_15.docx": [704, 704, 704], "1 Chronicles_ch_18.docx": [1156, 1156, 1156], "Psalms_ch_56.docx": [275, 275, 275], "1 Corinthians_ch_7.docx": [4110, 4122, 4364, 4110, 4122, 4364]}
+winnin	{"Judges_ch_20.docx": [5554], "2 Samuel_ch_15.docx": [704, 704], "1 Chronicles_ch_18.docx": [1156, 1156], "Psalms_ch_56.docx": [275, 275], "1 Corinthians_ch_7.docx": [4110, 4122, 4364]}
+winnin	{"Judges_ch_20.docx": [5554], "2 Samuel_ch_15.docx": [704], "1 Chronicles_ch_18.docx": [1156], "Psalms_ch_56.docx": [275], "1 Corinthians_ch_7.docx": [4110, 4122, 4364]}

@@ -1,0 +1,4 @@
+
+tarath	{"Numbers_ch_33.docx": [2170, 2211, 2211, 2211]}
+tarath	{"Numbers_ch_33.docx": [2170, 2211, 2211]}
+tarath	{"Numbers_ch_33.docx": [2170, 2211]}

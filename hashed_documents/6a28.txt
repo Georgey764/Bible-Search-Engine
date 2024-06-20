@@ -1,0 +1,5 @@
+
+leisu	{"Judges_ch_18.docx": [1027, 1052, 1078, 1052, 1078, 1052, 1078], "Acts_ch_17.docx": [4383, 4383]}
+18‘but	{"Genesis_ch_39.docx": [2521], "Numbers_ch_8.docx": [2308], "1 Kings_ch_1.docx": [2447], "Nehemiah_ch_9.docx": [4041], "Isaiah_ch_57.docx": [2933], "Jeremiah_ch_38.docx": [3172], "Jeremiah_ch_50.docx": [3337], "Ezekiel_ch_18.docx": [2647], "Matthew_ch_25.docx": [1768]}
+leisu	{"Judges_ch_18.docx": [1027, 1052, 1078, 1052, 1078], "Acts_ch_17.docx": [4383]}
+leisu	{"Judges_ch_18.docx": [1027, 1052, 1078], "Acts_ch_17.docx": [4383]}

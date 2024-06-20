@@ -1,0 +1,4 @@
+
+assume	{"Proverbs_ch_28.docx": [2249], "Acts_ch_7.docx": [3340, 3340], "James_ch_4.docx": [2189, 2189], "Revelation_ch_11.docx": [2689, 2689]}
+assume	{"Proverbs_ch_28.docx": [2249], "Acts_ch_7.docx": [3340], "James_ch_4.docx": [2189], "Revelation_ch_11.docx": [2689]}
+assume	{"Proverbs_ch_28.docx": [2249], "Acts_ch_7.docx": [3340], "James_ch_4.docx": [2189], "Revelation_ch_11.docx": [2689]}

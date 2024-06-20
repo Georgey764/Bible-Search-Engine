@@ -1,0 +1,5 @@
+
+trap;	{"2 Samuel_ch_3.docx": [3951]}
+11‘cov	{"Exodus_ch_25.docx": [1301]}
+trap;	{"2 Samuel_ch_3.docx": [3951]}
+trap;	{"2 Samuel_ch_3.docx": [3951]}

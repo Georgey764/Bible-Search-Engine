@@ -1,0 +1,4 @@
+
+panth	{"Hosea_ch_5.docx": [2256], "Hosea_ch_13.docx": [855, 855, 855]}
+panth	{"Hosea_ch_5.docx": [2256], "Hosea_ch_13.docx": [855, 855]}
+panth	{"Hosea_ch_5.docx": [2256], "Hosea_ch_13.docx": [855]}

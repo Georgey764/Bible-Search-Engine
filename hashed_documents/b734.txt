@@ -1,0 +1,5 @@
+
+trees!	{"Exodus_ch_10.docx": [2136], "Song of Solomon_ch_5.docx": [122, 122, 122], "Ezekiel_ch_21.docx": [1543, 1543, 1543]}
+trees!	{"Exodus_ch_10.docx": [2136], "Song of Solomon_ch_5.docx": [122, 122], "Ezekiel_ch_21.docx": [1543, 1543]}
+23‘thu	{"Zechariah_ch_8.docx": [3889]}
+trees!	{"Exodus_ch_10.docx": [2136], "Song of Solomon_ch_5.docx": [122], "Ezekiel_ch_21.docx": [1543]}

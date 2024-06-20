@@ -1,0 +1,4 @@
+
+nette	{"Luke_ch_5.docx": [769]}
+28fo	{"Genesis_ch_35.docx": [3497], "2 Samuel_ch_15.docx": [4333], "1 Chronicles_ch_23.docx": [2795], "Psalms_ch_22.docx": [2942], "Psalms_ch_37.docx": [2583], "Psalms_ch_106.docx": [2626], "Ezekiel_ch_20.docx": [4735]}
+nette	{"Luke_ch_5.docx": [769]}

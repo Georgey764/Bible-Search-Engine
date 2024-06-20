@@ -1,0 +1,4 @@
+
+lands;	{"Genesis_ch_42.docx": [608], "Psalms_ch_148.docx": [1223, 1223, 1223], "Jeremiah_ch_10.docx": [896, 896, 896], "Ezekiel_ch_20.docx": [2657, 2657, 2657]}
+lands;	{"Genesis_ch_42.docx": [608], "Psalms_ch_148.docx": [1223, 1223], "Jeremiah_ch_10.docx": [896, 896], "Ezekiel_ch_20.docx": [2657, 2657]}
+lands;	{"Genesis_ch_42.docx": [608], "Psalms_ch_148.docx": [1223], "Jeremiah_ch_10.docx": [896], "Ezekiel_ch_20.docx": [2657]}

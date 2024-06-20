@@ -1,0 +1,4 @@
+
+magpi	{"Nehemiah_ch_10.docx": [992]}
+7‘in	{"Exodus_ch_15.docx": [779], "Isaiah_ch_17.docx": [916], "Ezekiel_ch_19.docx": [717]}
+magpi	{"Nehemiah_ch_10.docx": [992]}

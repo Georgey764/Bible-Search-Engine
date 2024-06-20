@@ -1,0 +1,7 @@
+
+gilal	{"Nehemiah_ch_12.docx": [4910]}
+senses	{"Psalms_ch_73.docx": [1729], "Daniel_ch_4.docx": [6541, 7119, 6541, 7119, 6541, 7119], "Luke_ch_15.docx": [1987, 1987], "Acts_ch_12.docx": [1778, 1778], "2 Timothy_ch_2.docx": [3630, 3630], "Hebrews_ch_5.docx": [1692, 1692]}
+gilal	{"Nehemiah_ch_12.docx": [4910]}
+senses	{"Psalms_ch_73.docx": [1729], "Daniel_ch_4.docx": [6541, 7119, 6541, 7119], "Luke_ch_15.docx": [1987], "Acts_ch_12.docx": [1778], "2 Timothy_ch_2.docx": [3630], "Hebrews_ch_5.docx": [1692]}
+gilal	{"Nehemiah_ch_12.docx": [4910]}
+senses	{"Psalms_ch_73.docx": [1729], "Daniel_ch_4.docx": [6541, 7119], "Luke_ch_15.docx": [1987], "Acts_ch_12.docx": [1778], "2 Timothy_ch_2.docx": [3630], "Hebrews_ch_5.docx": [1692]}

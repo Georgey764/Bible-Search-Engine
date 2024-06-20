@@ -1,0 +1,8 @@
+
+cuc	{"Numbers_ch_11.docx": [644], "Isaiah_ch_1.docx": [1380, 1380, 1380]}
+noum	{"1 Chronicles_ch_7.docx": [3281]}
+cuc	{"Numbers_ch_11.docx": [644], "Isaiah_ch_1.docx": [1380, 1380]}
+4‘rath	{"Deuteronomy_ch_13.docx": [441], "Matthew_ch_23.docx": [334]}
+noum	{"1 Chronicles_ch_7.docx": [3281]}
+cuc	{"Numbers_ch_11.docx": [644], "Isaiah_ch_1.docx": [1380]}
+noum	{"1 Chronicles_ch_7.docx": [3281]}

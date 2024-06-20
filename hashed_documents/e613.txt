@@ -1,0 +1,6 @@
+
+sene	{"1 Samuel_ch_14.docx": [622]}
+supern	{"Luke_ch_1.docx": [2719], "2 Corinthians_ch_12.docx": [78, 78]}
+sene	{"1 Samuel_ch_14.docx": [622]}
+sene	{"1 Samuel_ch_14.docx": [622]}
+supern	{"Luke_ch_1.docx": [2719], "2 Corinthians_ch_12.docx": [78]}

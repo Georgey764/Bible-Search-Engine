@@ -1,0 +1,7 @@
+
+horne	{"Exodus_ch_23.docx": [3840], "Deuteronomy_ch_7.docx": [3193, 3193, 3193], "Proverbs_ch_23.docx": [2978, 2978, 2978], "Revelation_ch_9.docx": [1702, 1702]}
+witte	{"Proverbs_ch_22.docx": [2930]}
+horne	{"Exodus_ch_23.docx": [3840], "Deuteronomy_ch_7.docx": [3193, 3193], "Proverbs_ch_23.docx": [2978, 2978], "Revelation_ch_9.docx": [1702]}
+witte	{"Proverbs_ch_22.docx": [2930]}
+horne	{"Exodus_ch_23.docx": [3840], "Deuteronomy_ch_7.docx": [3193], "Proverbs_ch_23.docx": [2978], "Revelation_ch_9.docx": [1702]}
+witte	{"Proverbs_ch_22.docx": [2930]}

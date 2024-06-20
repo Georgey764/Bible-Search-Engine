@@ -1,0 +1,8 @@
+
+prair	{"Jeremiah_ch_14.docx": [534]}
+defili	{"Ezekiel_ch_9.docx": [1556]}
+19sinc	{"Isaiah_ch_38.docx": [2673], "Ezekiel_ch_39.docx": [3359]}
+prair	{"Jeremiah_ch_14.docx": [534]}
+defili	{"Ezekiel_ch_9.docx": [1556]}
+prair	{"Jeremiah_ch_14.docx": [534]}
+defili	{"Ezekiel_ch_9.docx": [1556]}

@@ -1,0 +1,4 @@
+
+gladly	{"Job_ch_6.docx": [1093], "Mark_ch_6.docx": [2686, 2686], "2 Corinthians_ch_11.docx": [1017, 1017], "2 Corinthians_ch_12.docx": [1293, 1293], "1 Peter_ch_4.docx": [2779, 2779]}
+gladly	{"Job_ch_6.docx": [1093], "Mark_ch_6.docx": [2686], "2 Corinthians_ch_11.docx": [1017], "2 Corinthians_ch_12.docx": [1293], "1 Peter_ch_4.docx": [2779]}
+gladly	{"Job_ch_6.docx": [1093], "Mark_ch_6.docx": [2686], "2 Corinthians_ch_11.docx": [1017], "2 Corinthians_ch_12.docx": [1293], "1 Peter_ch_4.docx": [2779]}

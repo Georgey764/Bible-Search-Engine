@@ -1,0 +1,4 @@
+
+eut	{"Acts_ch_20.docx": [2746]}
+10jesh	{"Nehemiah_ch_12.docx": [706]}
+eut	{"Acts_ch_20.docx": [2746]}

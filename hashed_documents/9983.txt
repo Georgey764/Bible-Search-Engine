@@ -1,0 +1,4 @@
+
+aretas	{"2 Corinthians_ch_11.docx": [4566]}
+47i	{"Deuteronomy_ch_28.docx": [6325], "Matthew_ch_24.docx": [5324]}
+aretas	{"2 Corinthians_ch_11.docx": [4566]}

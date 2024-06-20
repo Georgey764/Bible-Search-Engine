@@ -1,0 +1,7 @@
+
+boaz’s	{"Ruth_ch_2.docx": [333, 3981, 3981, 3981]}
+ventil	{"Jeremiah_ch_22.docx": [2432]}
+boaz’s	{"Ruth_ch_2.docx": [333, 3981, 3981]}
+ventil	{"Jeremiah_ch_22.docx": [2432]}
+boaz’s	{"Ruth_ch_2.docx": [333, 3981]}
+ventil	{"Jeremiah_ch_22.docx": [2432]}

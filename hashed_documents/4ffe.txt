@@ -1,0 +1,4 @@
+
+phras	{"Psalms_ch_136.docx": [48, 80, 80, 80], "Romans_ch_13.docx": [1463, 1463]}
+phras	{"Psalms_ch_136.docx": [48, 80, 80], "Romans_ch_13.docx": [1463]}
+phras	{"Psalms_ch_136.docx": [48, 80], "Romans_ch_13.docx": [1463]}

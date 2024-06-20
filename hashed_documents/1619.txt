@@ -1,0 +1,4 @@
+
+women;	{"Genesis_ch_4.docx": [2318], "Ruth_ch_1.docx": [367, 367, 367], "Song of Solomon_ch_6.docx": [61, 61, 61], "Jeremiah_ch_9.docx": [3531, 3531, 3531]}
+women;	{"Genesis_ch_4.docx": [2318], "Ruth_ch_1.docx": [367, 367], "Song of Solomon_ch_6.docx": [61, 61], "Jeremiah_ch_9.docx": [3531, 3531]}
+women;	{"Genesis_ch_4.docx": [2318], "Ruth_ch_1.docx": [367], "Song of Solomon_ch_6.docx": [61], "Jeremiah_ch_9.docx": [3531]}

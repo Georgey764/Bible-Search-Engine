@@ -1,0 +1,4 @@
+
+initia	{"Ezra_ch_7.docx": [1570], "2 Corinthians_ch_8.docx": [882, 882]}
+initia	{"Ezra_ch_7.docx": [1570], "2 Corinthians_ch_8.docx": [882]}
+initia	{"Ezra_ch_7.docx": [1570], "2 Corinthians_ch_8.docx": [882]}

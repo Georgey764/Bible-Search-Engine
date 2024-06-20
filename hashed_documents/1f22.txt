@@ -1,0 +1,5 @@
+
+brides	{"Jeremiah_ch_7.docx": [5940], "Jeremiah_ch_16.docx": [1531, 1531, 1531], "Jeremiah_ch_25.docx": [1751, 1751, 1751], "Jeremiah_ch_33.docx": [1857, 1857, 1857], "Hosea_ch_4.docx": [2156, 2156, 2156], "Joel_ch_2.docx": [2887, 2887, 2887], "Matthew_ch_10.docx": [4470, 4470, 4470], "Revelation_ch_18.docx": [4266, 4266]}
+brides	{"Jeremiah_ch_7.docx": [5940], "Jeremiah_ch_16.docx": [1531, 1531], "Jeremiah_ch_25.docx": [1751, 1751], "Jeremiah_ch_33.docx": [1857, 1857], "Hosea_ch_4.docx": [2156, 2156], "Joel_ch_2.docx": [2887, 2887], "Matthew_ch_10.docx": [4470, 4470], "Revelation_ch_18.docx": [4266]}
+19‘ap	{"Ezekiel_ch_43.docx": [3493]}
+brides	{"Jeremiah_ch_7.docx": [5940], "Jeremiah_ch_16.docx": [1531], "Jeremiah_ch_25.docx": [1751], "Jeremiah_ch_33.docx": [1857], "Hosea_ch_4.docx": [2156], "Joel_ch_2.docx": [2887], "Matthew_ch_10.docx": [4470], "Revelation_ch_18.docx": [4266]}

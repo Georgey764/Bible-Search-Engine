@@ -1,0 +1,4 @@
+
+azmot	{"2 Samuel_ch_23.docx": [4589], "1 Chronicles_ch_9.docx": [5767, 5767, 5767]}
+azmot	{"2 Samuel_ch_23.docx": [4589], "1 Chronicles_ch_9.docx": [5767, 5767]}
+azmot	{"2 Samuel_ch_23.docx": [4589], "1 Chronicles_ch_9.docx": [5767]}

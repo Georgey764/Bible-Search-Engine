@@ -1,0 +1,7 @@
+
+mood	{"Esther_ch_1.docx": [1885]}
+shorn	{"Jeremiah_ch_48.docx": [5064]}
+mood	{"Esther_ch_1.docx": [1885]}
+shorn	{"Jeremiah_ch_48.docx": [5064]}
+mood	{"Esther_ch_1.docx": [1885]}
+shorn	{"Jeremiah_ch_48.docx": [5064]}

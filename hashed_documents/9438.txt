@@ -1,0 +1,7 @@
+
+belas	{"2 Samuel_ch_13.docx": [3572]}
+semr	{"1 Chronicles_ch_4.docx": [4062]}
+belas	{"2 Samuel_ch_13.docx": [3572]}
+semr	{"1 Chronicles_ch_4.docx": [4062]}
+belas	{"2 Samuel_ch_13.docx": [3572]}
+semr	{"1 Chronicles_ch_4.docx": [4062]}

@@ -1,0 +1,5 @@
+
+year!	{"Exodus_ch_34.docx": [3544], "1 Kings_ch_20.docx": [3680, 3680, 3680]}
+year!	{"Exodus_ch_34.docx": [3544], "1 Kings_ch_20.docx": [3680, 3680]}
+20‘whe	{"Job_ch_40.docx": [3332]}
+year!	{"Exodus_ch_34.docx": [3544], "1 Kings_ch_20.docx": [3680]}

@@ -1,0 +1,4 @@
+
+halv	{"Genesis_ch_15.docx": [1240, 1244, 1256, 1244, 1256, 1244, 1256], "1 Kings_ch_3.docx": [4053, 4053, 4053], "Jeremiah_ch_34.docx": [3581, 3581, 3581]}
+halv	{"Genesis_ch_15.docx": [1240, 1244, 1256, 1244, 1256], "1 Kings_ch_3.docx": [4053, 4053], "Jeremiah_ch_34.docx": [3581, 3581]}
+halv	{"Genesis_ch_15.docx": [1240, 1244, 1256], "1 Kings_ch_3.docx": [4053], "Jeremiah_ch_34.docx": [3581]}

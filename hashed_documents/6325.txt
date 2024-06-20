@@ -1,0 +1,6 @@
+
+catchi	{"Genesis_ch_31.docx": [2787], "Psalms_ch_90.docx": [970, 970, 970], "Jeremiah_ch_41.docx": [1921, 1921, 1921], "Amos_ch_3.docx": [642, 642, 642], "Luke_ch_5.docx": [1369, 1369]}
+envyin	{"Galatians_ch_5.docx": [2528, 3083, 3083]}
+catchi	{"Genesis_ch_31.docx": [2787], "Psalms_ch_90.docx": [970, 970], "Jeremiah_ch_41.docx": [1921, 1921], "Amos_ch_3.docx": [642, 642], "Luke_ch_5.docx": [1369]}
+catchi	{"Genesis_ch_31.docx": [2787], "Psalms_ch_90.docx": [970], "Jeremiah_ch_41.docx": [1921], "Amos_ch_3.docx": [642], "Luke_ch_5.docx": [1369]}
+envyin	{"Galatians_ch_5.docx": [2528, 3083]}

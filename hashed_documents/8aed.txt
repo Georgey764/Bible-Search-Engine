@@ -1,0 +1,4 @@
+
+spilli	{"Deuteronomy_ch_19.docx": [1438], "Matthew_ch_9.docx": [2271, 2271, 2271], "Matthew_ch_23.docx": [3856, 3856, 3856], "Luke_ch_5.docx": [6619, 6619]}
+spilli	{"Deuteronomy_ch_19.docx": [1438], "Matthew_ch_9.docx": [2271, 2271], "Matthew_ch_23.docx": [3856, 3856], "Luke_ch_5.docx": [6619]}
+spilli	{"Deuteronomy_ch_19.docx": [1438], "Matthew_ch_9.docx": [2271], "Matthew_ch_23.docx": [3856], "Luke_ch_5.docx": [6619]}

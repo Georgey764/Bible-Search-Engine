@@ -1,0 +1,4 @@
+
+kab	{"2 Samuel_ch_23.docx": [3391], "1 Chronicles_ch_11.docx": [4244, 4244, 4244]}
+kab	{"2 Samuel_ch_23.docx": [3391], "1 Chronicles_ch_11.docx": [4244, 4244]}
+kab	{"2 Samuel_ch_23.docx": [3391], "1 Chronicles_ch_11.docx": [4244]}

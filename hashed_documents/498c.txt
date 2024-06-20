@@ -1,0 +1,4 @@
+
+ahava	{"Ezra_ch_8.docx": [2666, 4356, 4356, 4356]}
+ahava	{"Ezra_ch_8.docx": [2666, 4356, 4356]}
+ahava	{"Ezra_ch_8.docx": [2666, 4356]}

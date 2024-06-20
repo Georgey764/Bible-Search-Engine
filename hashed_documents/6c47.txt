@@ -1,0 +1,2 @@
+
+2‘yo	{"Exodus_ch_23.docx": [133], "Exodus_ch_27.docx": [175], "Exodus_ch_28.docx": [169], "Exodus_ch_35.docx": [170], "Leviticus_ch_12.docx": [63], "Leviticus_ch_20.docx": [61], "Leviticus_ch_26.docx": [183], "Deuteronomy_ch_12.docx": [245], "Deuteronomy_ch_16.docx": [182], "Song of Solomon_ch_4.docx": [234], "Song of Solomon_ch_7.docx": [191], "Isaiah_ch_30.docx": [217], "Jeremiah_ch_23.docx": [204], "Jeremiah_ch_30.docx": [121], "Ezekiel_ch_19.docx": [97], "Matthew_ch_26.docx": [106]}

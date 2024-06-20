@@ -1,0 +1,2 @@
+
+13o	{"1 Chronicles_ch_16.docx": [1449], "1 Chronicles_ch_24.docx": [1634], "2 Chronicles_ch_8.docx": [1530], "Job_ch_26.docx": [1141], "Psalms_ch_21.docx": [1139], "Psalms_ch_77.docx": [1226], "Psalms_ch_79.docx": [1406], "Psalms_ch_88.docx": [1357], "Psalms_ch_108.docx": [1225], "Psalms_ch_135.docx": [1028]}

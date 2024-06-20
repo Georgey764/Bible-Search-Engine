@@ -1,0 +1,4 @@
+
+gestur	{"2 Kings_ch_3.docx": [444], "Luke_ch_1.docx": [2722, 2722], "Acts_ch_13.docx": [3551, 3551]}
+gestur	{"2 Kings_ch_3.docx": [444], "Luke_ch_1.docx": [2722], "Acts_ch_13.docx": [3551]}
+gestur	{"2 Kings_ch_3.docx": [444], "Luke_ch_1.docx": [2722], "Acts_ch_13.docx": [3551]}

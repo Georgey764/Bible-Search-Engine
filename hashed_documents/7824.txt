@@ -1,0 +1,3 @@
+
+philo	{"Acts_ch_17.docx": [3682], "Colossians_ch_2.docx": [1576, 1576], "Titus_ch_1.docx": [1624, 1624]}
+philo	{"Acts_ch_17.docx": [3682], "Colossians_ch_2.docx": [1576], "Titus_ch_1.docx": [1624]}

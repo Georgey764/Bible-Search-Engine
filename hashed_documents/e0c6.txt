@@ -1,0 +1,5 @@
+
+pairs	{"Genesis_ch_6.docx": [2554], "Genesis_ch_7.docx": [74, 90, 333, 343, 1020, 1771, 74, 90, 333, 343, 1020, 1771, 74, 90, 333, 343, 1020, 1771], "Matthew_ch_10.docx": [1049, 1049, 1049], "Luke_ch_9.docx": [266, 266], "Luke_ch_10.docx": [20, 1940, 20, 1940], "Luke_ch_14.docx": [2348, 2348]}
+pairs	{"Genesis_ch_6.docx": [2554], "Genesis_ch_7.docx": [74, 90, 333, 343, 1020, 1771, 74, 90, 333, 343, 1020, 1771], "Matthew_ch_10.docx": [1049, 1049], "Luke_ch_9.docx": [266], "Luke_ch_10.docx": [20, 1940], "Luke_ch_14.docx": [2348]}
+421	{"Ezra_ch_2.docx": [1674]}
+pairs	{"Genesis_ch_6.docx": [2554], "Genesis_ch_7.docx": [74, 90, 333, 343, 1020, 1771], "Matthew_ch_10.docx": [1049], "Luke_ch_9.docx": [266], "Luke_ch_10.docx": [20, 1940], "Luke_ch_14.docx": [2348]}

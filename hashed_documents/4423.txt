@@ -1,0 +1,4 @@
+
+asothi	{"2 Samuel_ch_23.docx": [4352], "1 Chronicles_ch_11.docx": [5344, 5344, 5344]}
+asothi	{"2 Samuel_ch_23.docx": [4352], "1 Chronicles_ch_11.docx": [5344, 5344]}
+asothi	{"2 Samuel_ch_23.docx": [4352], "1 Chronicles_ch_11.docx": [5344]}

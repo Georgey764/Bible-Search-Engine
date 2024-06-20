@@ -1,0 +1,7 @@
+
+buzite	{"Job_ch_32.docx": [171, 659, 659, 659]}
+anni	{"Jeremiah_ch_22.docx": [1239]}
+buzite	{"Job_ch_32.docx": [171, 659, 659]}
+anni	{"Jeremiah_ch_22.docx": [1239]}
+buzite	{"Job_ch_32.docx": [171, 659]}
+anni	{"Jeremiah_ch_22.docx": [1239]}

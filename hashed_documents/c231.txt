@@ -1,0 +1,4 @@
+
+sani	{"Deuteronomy_ch_3.docx": [1036, 1042, 1042, 1042]}
+sani	{"Deuteronomy_ch_3.docx": [1036, 1042, 1042]}
+sani	{"Deuteronomy_ch_3.docx": [1036, 1042]}

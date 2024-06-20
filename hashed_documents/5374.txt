@@ -1,0 +1,5 @@
+
+fetch	{"Deuteronomy_ch_30.docx": [2095]}
+fetch	{"Deuteronomy_ch_30.docx": [2095]}
+20sud	{"Judges_ch_13.docx": [3284]}
+fetch	{"Deuteronomy_ch_30.docx": [2095]}

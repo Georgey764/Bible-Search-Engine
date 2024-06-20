@@ -1,0 +1,4 @@
+
+rebels	{"Numbers_ch_5.docx": [1477], "Numbers_ch_20.docx": [1456, 1456, 1456], "Mark_ch_15.docx": [580, 580]}
+rebels	{"Numbers_ch_5.docx": [1477], "Numbers_ch_20.docx": [1456, 1456], "Mark_ch_15.docx": [580]}
+rebels	{"Numbers_ch_5.docx": [1477], "Numbers_ch_20.docx": [1456], "Mark_ch_15.docx": [580]}

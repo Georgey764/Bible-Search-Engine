@@ -1,0 +1,4 @@
+
+phale	{"Genesis_ch_10.docx": [2689], "Genesis_ch_11.docx": [2104, 2111, 2272, 2104, 2111, 2104, 2111, 2272], "Numbers_ch_16.docx": [79, 79, 79], "1 Chronicles_ch_2.docx": [3125, 4217, 3125, 4217, 3125, 4217], "1 Chronicles_ch_3.docx": [1881, 1881, 1881]}
+phale	{"Genesis_ch_10.docx": [2689], "Genesis_ch_11.docx": [2104, 2111, 2104, 2111, 2272], "Numbers_ch_16.docx": [79, 79], "1 Chronicles_ch_2.docx": [3125, 4217, 3125, 4217], "1 Chronicles_ch_3.docx": [1881, 1881]}
+phale	{"Genesis_ch_10.docx": [2689], "Genesis_ch_11.docx": [2104, 2111, 2272], "Numbers_ch_16.docx": [79], "1 Chronicles_ch_2.docx": [3125, 4217], "1 Chronicles_ch_3.docx": [1881]}

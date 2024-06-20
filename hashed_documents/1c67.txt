@@ -1,0 +1,9 @@
+
+review	{"Numbers_ch_4.docx": [6161], "Numbers_ch_14.docx": [4304, 4304, 4304]}
+masu	{"Numbers_ch_33.docx": [2310, 2349, 2349, 2349]}
+kush’	{"1 Chronicles_ch_1.docx": [493]}
+review	{"Numbers_ch_4.docx": [6161], "Numbers_ch_14.docx": [4304, 4304]}
+masu	{"Numbers_ch_33.docx": [2310, 2349, 2349]}
+review	{"Numbers_ch_4.docx": [6161], "Numbers_ch_14.docx": [4304]}
+masu	{"Numbers_ch_33.docx": [2310, 2349]}
+kush’	{"1 Chronicles_ch_1.docx": [493]}

@@ -1,0 +1,5 @@
+
+nagg	{"Judges_ch_16.docx": [2848], "Proverbs_ch_27.docx": [1370, 1370, 1370], "Luke_ch_3.docx": [6391, 6391]}
+31‘i’	{"Leviticus_ch_26.docx": [3989], "Job_ch_31.docx": [2826]}
+nagg	{"Judges_ch_16.docx": [2848], "Proverbs_ch_27.docx": [1370, 1370], "Luke_ch_3.docx": [6391]}
+nagg	{"Judges_ch_16.docx": [2848], "Proverbs_ch_27.docx": [1370], "Luke_ch_3.docx": [6391]}

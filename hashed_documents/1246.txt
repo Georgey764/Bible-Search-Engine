@@ -1,0 +1,4 @@
+
+delica	{"Deuteronomy_ch_28.docx": [7921], "Isaiah_ch_47.docx": [212, 1238, 212, 1238, 212, 1238], "1 Peter_ch_3.docx": [752, 752]}
+delica	{"Deuteronomy_ch_28.docx": [7921], "Isaiah_ch_47.docx": [212, 1238, 212, 1238], "1 Peter_ch_3.docx": [752]}
+delica	{"Deuteronomy_ch_28.docx": [7921], "Isaiah_ch_47.docx": [212, 1238], "1 Peter_ch_3.docx": [752]}

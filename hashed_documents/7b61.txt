@@ -1,0 +1,5 @@
+
+acra	{"Numbers_ch_34.docx": [426], "Joshua_ch_15.docx": [336, 336, 336]}
+acra	{"Numbers_ch_34.docx": [426], "Joshua_ch_15.docx": [336, 336]}
+16‘it	{"Job_ch_28.docx": [1419], "Lamentations_ch_1.docx": [3842], "Zephaniah_ch_1.docx": [2826]}
+acra	{"Numbers_ch_34.docx": [426], "Joshua_ch_15.docx": [336]}

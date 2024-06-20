@@ -1,0 +1,4 @@
+
+aus	{"Numbers_ch_13.docx": [620, 1134, 1134, 1134], "Job_ch_1.docx": [18, 18, 18], "Job_ch_32.docx": [177, 177, 177], "Micah_ch_4.docx": [1805, 1805, 1805]}
+aus	{"Numbers_ch_13.docx": [620, 1134, 1134], "Job_ch_1.docx": [18, 18], "Job_ch_32.docx": [177, 177], "Micah_ch_4.docx": [1805, 1805]}
+aus	{"Numbers_ch_13.docx": [620, 1134], "Job_ch_1.docx": [18], "Job_ch_32.docx": [177], "Micah_ch_4.docx": [1805]}

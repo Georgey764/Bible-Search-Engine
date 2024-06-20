@@ -1,0 +1,4 @@
+
+admir	{"2 Samuel_ch_14.docx": [4134], "2 Kings_ch_5.docx": [29, 29, 29], "Isaiah_ch_61.docx": [1337, 1337, 1337], "Matthew_ch_24.docx": [20, 20, 20], "Revelation_ch_13.docx": [423, 423]}
+admir	{"2 Samuel_ch_14.docx": [4134], "2 Kings_ch_5.docx": [29, 29], "Isaiah_ch_61.docx": [1337, 1337], "Matthew_ch_24.docx": [20, 20], "Revelation_ch_13.docx": [423]}
+admir	{"2 Samuel_ch_14.docx": [4134], "2 Kings_ch_5.docx": [29], "Isaiah_ch_61.docx": [1337], "Matthew_ch_24.docx": [20], "Revelation_ch_13.docx": [423]}

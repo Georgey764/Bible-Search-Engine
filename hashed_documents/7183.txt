@@ -1,0 +1,4 @@
+
+sheets	{"Exodus_ch_39.docx": [340], "Proverbs_ch_7.docx": [1441, 1441, 1441]}
+sheets	{"Exodus_ch_39.docx": [340], "Proverbs_ch_7.docx": [1441, 1441]}
+sheets	{"Exodus_ch_39.docx": [340], "Proverbs_ch_7.docx": [1441]}

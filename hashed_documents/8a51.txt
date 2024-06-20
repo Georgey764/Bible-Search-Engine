@@ -1,0 +1,4 @@
+
+simply	{"2 Kings_ch_13.docx": [3462], "Job_ch_40.docx": [1486, 1486, 1486], "Psalms_ch_150.docx": [785], "Acts_ch_25.docx": [5888, 5888], "Romans_ch_12.docx": [876, 876], "Hebrews_ch_11.docx": [3901, 3929, 3901, 3929]}
+simply	{"2 Kings_ch_13.docx": [3462], "Job_ch_40.docx": [1486, 1486], "Acts_ch_25.docx": [5888], "Romans_ch_12.docx": [876], "Hebrews_ch_11.docx": [3901, 3929]}
+simply	{"2 Kings_ch_13.docx": [3462], "Job_ch_40.docx": [1486], "Acts_ch_25.docx": [5888], "Romans_ch_12.docx": [876], "Hebrews_ch_11.docx": [3901, 3929]}

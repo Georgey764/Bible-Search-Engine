@@ -1,0 +1,4 @@
+
+azeni	{"Numbers_ch_26.docx": [2697, 2702, 2702]}
+azeni	{"Numbers_ch_26.docx": [2702, 2702]}
+azeni	{"Numbers_ch_26.docx": [2697, 2702]}

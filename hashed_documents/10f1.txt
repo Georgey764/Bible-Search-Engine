@@ -1,0 +1,4 @@
+
+prime	{"1 Kings_ch_18.docx": [204, 835, 835, 835], "1 Timothy_ch_1.docx": [2330, 2330]}
+prime	{"1 Kings_ch_18.docx": [204, 835, 835], "1 Timothy_ch_1.docx": [2330]}
+prime	{"1 Kings_ch_18.docx": [204, 835], "1 Timothy_ch_1.docx": [2330]}

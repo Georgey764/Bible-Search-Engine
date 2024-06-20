@@ -1,0 +1,4 @@
+
+leans	{"Psalms_ch_75.docx": [856], "Psalms_ch_116.docx": [107, 107, 107], "Proverbs_ch_7.docx": [572, 572, 572]}
+leans	{"Psalms_ch_75.docx": [856], "Psalms_ch_116.docx": [107, 107], "Proverbs_ch_7.docx": [572, 572]}
+leans	{"Psalms_ch_75.docx": [856], "Psalms_ch_116.docx": [107], "Proverbs_ch_7.docx": [572]}

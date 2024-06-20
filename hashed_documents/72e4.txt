@@ -1,0 +1,4 @@
+
+mit	{"Genesis_ch_46.docx": [3407], "Ezra_ch_1.docx": [1217, 1217, 1217], "Ezra_ch_4.docx": [989, 989, 989]}
+mit	{"Genesis_ch_46.docx": [3407], "Ezra_ch_1.docx": [1217, 1217], "Ezra_ch_4.docx": [989, 989]}
+mit	{"Genesis_ch_46.docx": [3407], "Ezra_ch_1.docx": [1217], "Ezra_ch_4.docx": [989]}

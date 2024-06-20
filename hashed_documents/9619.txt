@@ -1,0 +1,4 @@
+
+renewe	{"Judges_ch_15.docx": [3601], "Psalms_ch_23.docx": [120, 120, 120], "Lamentations_ch_3.docx": [1827, 1827, 1827], "2 Corinthians_ch_4.docx": [2620, 2620], "2 Corinthians_ch_5.docx": [2719, 2719]}
+renewe	{"Judges_ch_15.docx": [3601], "Psalms_ch_23.docx": [120, 120], "Lamentations_ch_3.docx": [1827, 1827], "2 Corinthians_ch_4.docx": [2620], "2 Corinthians_ch_5.docx": [2719]}
+renewe	{"Judges_ch_15.docx": [3601], "Psalms_ch_23.docx": [120], "Lamentations_ch_3.docx": [1827], "2 Corinthians_ch_4.docx": [2620], "2 Corinthians_ch_5.docx": [2719]}

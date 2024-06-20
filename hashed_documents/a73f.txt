@@ -1,0 +1,4 @@
+
+zera	{"1 Chronicles_ch_2.docx": [362, 576, 576, 576], "Ezra_ch_7.docx": [337, 337, 337], "Nehemiah_ch_11.docx": [4079, 4079, 4079], "Matthew_ch_1.docx": [207, 207, 207]}
+zera	{"1 Chronicles_ch_2.docx": [362, 576, 576], "Ezra_ch_7.docx": [337, 337], "Nehemiah_ch_11.docx": [4079, 4079], "Matthew_ch_1.docx": [207, 207]}
+zera	{"1 Chronicles_ch_2.docx": [362, 576], "Ezra_ch_7.docx": [337], "Nehemiah_ch_11.docx": [4079], "Matthew_ch_1.docx": [207]}

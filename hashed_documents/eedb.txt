@@ -1,0 +1,7 @@
+
+gaip	{"1 Chronicles_ch_1.docx": [2613], "1 Chronicles_ch_2.docx": [4065, 4228, 4065, 4228, 4065, 4228]}
+poke	{"Zechariah_ch_12.docx": [586]}
+gaip	{"1 Chronicles_ch_1.docx": [2613], "1 Chronicles_ch_2.docx": [4065, 4228, 4065, 4228]}
+poke	{"Zechariah_ch_12.docx": [586]}
+gaip	{"1 Chronicles_ch_1.docx": [2613], "1 Chronicles_ch_2.docx": [4065, 4228]}
+poke	{"Zechariah_ch_12.docx": [586]}

@@ -1,0 +1,7 @@
+
+jaa	{"1 Chronicles_ch_7.docx": [2412], "Ezra_ch_2.docx": [2259, 2259, 2259], "Nehemiah_ch_7.docx": [3358, 3358], "Jeremiah_ch_35.docx": [296, 296, 296], "Ezekiel_ch_8.docx": [1872, 1872, 1872], "Ezekiel_ch_11.docx": [42, 42, 42]}
+bailh	{"1 Chronicles_ch_27.docx": [3852]}
+jaa	{"1 Chronicles_ch_7.docx": [2412], "Ezra_ch_2.docx": [2259, 2259], "Jeremiah_ch_35.docx": [296, 296], "Ezekiel_ch_8.docx": [1872, 1872], "Ezekiel_ch_11.docx": [42, 42], "Nehemiah_ch_7.docx": [3358]}
+bailh	{"1 Chronicles_ch_27.docx": [3852]}
+jaa	{"1 Chronicles_ch_7.docx": [2412], "Ezra_ch_2.docx": [2259], "Nehemiah_ch_7.docx": [3358], "Jeremiah_ch_35.docx": [296], "Ezekiel_ch_8.docx": [1872], "Ezekiel_ch_11.docx": [42]}
+bailh	{"1 Chronicles_ch_27.docx": [3852]}

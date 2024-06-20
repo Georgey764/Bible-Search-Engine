@@ -1,0 +1,6 @@
+
+easie	{"Job_ch_24.docx": [1371], "Matthew_ch_9.docx": [505, 505, 505], "Matthew_ch_11.docx": [2604, 2604, 2604], "Matthew_ch_19.docx": [2936, 2936, 2936], "Mark_ch_2.docx": [990, 990], "Mark_ch_10.docx": [2769, 2769], "Luke_ch_5.docx": [4578, 4578], "Luke_ch_10.docx": [1256, 1398, 1256, 1398], "Luke_ch_16.docx": [2578, 2578], "Luke_ch_18.docx": [3134, 3134], "Romans_ch_11.docx": [3680, 3680]}
+sampso	{"Hebrews_ch_11.docx": [6180]}
+easie	{"Job_ch_24.docx": [1371], "Matthew_ch_9.docx": [505, 505], "Matthew_ch_11.docx": [2604, 2604], "Matthew_ch_19.docx": [2936, 2936], "Mark_ch_2.docx": [990], "Mark_ch_10.docx": [2769], "Luke_ch_5.docx": [4578], "Luke_ch_10.docx": [1256, 1398], "Luke_ch_16.docx": [2578], "Luke_ch_18.docx": [3134], "Romans_ch_11.docx": [3680]}
+easie	{"Job_ch_24.docx": [1371], "Matthew_ch_9.docx": [505], "Matthew_ch_11.docx": [2604], "Matthew_ch_19.docx": [2936], "Mark_ch_2.docx": [990], "Mark_ch_10.docx": [2769], "Luke_ch_5.docx": [4578], "Luke_ch_10.docx": [1256, 1398], "Luke_ch_16.docx": [2578], "Luke_ch_18.docx": [3134], "Romans_ch_11.docx": [3680]}
+sampso	{"Hebrews_ch_11.docx": [6180]}

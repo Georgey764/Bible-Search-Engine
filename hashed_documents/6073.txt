@@ -1,0 +1,4 @@
+
+titans	{"2 Samuel_ch_5.docx": [2447, 3280, 3280, 3280]}
+titans	{"2 Samuel_ch_5.docx": [2447, 3280, 3280]}
+titans	{"2 Samuel_ch_5.docx": [2447, 3280]}

@@ -1,0 +1,4 @@
+
+blotte	{"Genesis_ch_7.docx": [2802, 2825, 2825, 2825], "Numbers_ch_27.docx": [429, 429, 429], "Deuteronomy_ch_25.docx": [786, 786, 786]}
+blotte	{"Genesis_ch_7.docx": [2802, 2825, 2825], "Numbers_ch_27.docx": [429, 429], "Deuteronomy_ch_25.docx": [786, 786]}
+blotte	{"Genesis_ch_7.docx": [2802, 2825], "Numbers_ch_27.docx": [429], "Deuteronomy_ch_25.docx": [786]}

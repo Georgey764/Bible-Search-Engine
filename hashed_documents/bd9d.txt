@@ -1,0 +1,7 @@
+
+hittin	{"Numbers_ch_22.docx": [3318], "1 Samuel_ch_17.docx": [7554, 7554, 7554], "2 Kings_ch_9.docx": [4851, 4851, 4851], "2 Chronicles_ch_18.docx": [5269, 5269, 5269], "Matthew_ch_26.docx": [8422, 8422], "Matthew_ch_27.docx": [3657, 3657], "Mark_ch_5.docx": [282, 282], "Mark_ch_14.docx": [8304, 8304], "Mark_ch_15.docx": [1860, 1860]}
+susha	{"Daniel_ch_8.docx": [38]}
+hittin	{"Numbers_ch_22.docx": [3318], "1 Samuel_ch_17.docx": [7554, 7554], "2 Kings_ch_9.docx": [4851, 4851], "2 Chronicles_ch_18.docx": [5269, 5269], "Matthew_ch_26.docx": [8422], "Matthew_ch_27.docx": [3657], "Mark_ch_5.docx": [282], "Mark_ch_14.docx": [8304], "Mark_ch_15.docx": [1860]}
+susha	{"Daniel_ch_8.docx": [38]}
+hittin	{"Numbers_ch_22.docx": [3318], "1 Samuel_ch_17.docx": [7554], "2 Kings_ch_9.docx": [4851], "2 Chronicles_ch_18.docx": [5269], "Matthew_ch_26.docx": [8422], "Matthew_ch_27.docx": [3657], "Mark_ch_5.docx": [282], "Mark_ch_14.docx": [8304], "Mark_ch_15.docx": [1860]}
+susha	{"Daniel_ch_8.docx": [38]}

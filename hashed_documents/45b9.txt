@@ -1,0 +1,5 @@
+
+rison	{"Genesis_ch_36.docx": [2420, 3000, 3186, 3186, 3000, 3186]}
+rison	{"Genesis_ch_36.docx": [2420, 3186, 3000, 3186]}
+38mose	{"Numbers_ch_3.docx": [4452]}
+rison	{"Genesis_ch_36.docx": [2420, 3000, 3186]}

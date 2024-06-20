@@ -1,0 +1,6 @@
+
+lids	{"Numbers_ch_19.docx": [1986], "Proverbs_ch_4.docx": [2357, 2357, 2357], "Matthew_ch_13.docx": [1732, 1732, 1732]}
+18mo	{"Leviticus_ch_8.docx": [2118]}
+lids	{"Numbers_ch_19.docx": [1986], "Proverbs_ch_4.docx": [2357, 2357], "Matthew_ch_13.docx": [1732, 1732]}
+21wer	{"1 Chronicles_ch_26.docx": [2536]}
+lids	{"Numbers_ch_19.docx": [1986], "Proverbs_ch_4.docx": [2357], "Matthew_ch_13.docx": [1732]}

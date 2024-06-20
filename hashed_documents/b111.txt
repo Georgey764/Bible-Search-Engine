@@ -1,0 +1,5 @@
+
+calneh	{"Isaiah_ch_10.docx": [1095], "Ezekiel_ch_27.docx": [3334, 3334, 3334]}
+calneh	{"Isaiah_ch_10.docx": [1095], "Ezekiel_ch_27.docx": [3334, 3334]}
+55‘isn	{"Matthew_ch_13.docx": [7397]}
+calneh	{"Isaiah_ch_10.docx": [1095], "Ezekiel_ch_27.docx": [3334]}

@@ -1,0 +1,4 @@
+
+bethak	{"2 Kings_ch_10.docx": [2325, 2670, 2670, 2670]}
+bethak	{"2 Kings_ch_10.docx": [2325, 2670, 2670]}
+bethak	{"2 Kings_ch_10.docx": [2325, 2670]}

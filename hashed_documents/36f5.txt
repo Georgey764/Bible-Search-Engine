@@ -1,0 +1,4 @@
+
+exter	{"Deuteronomy_ch_28.docx": [2590], "1 Kings_ch_6.docx": [1246, 1246, 1246], "2 Corinthians_ch_11.docx": [4071, 4071]}
+exter	{"Deuteronomy_ch_28.docx": [2590], "1 Kings_ch_6.docx": [1246, 1246], "2 Corinthians_ch_11.docx": [4071]}
+exter	{"Deuteronomy_ch_28.docx": [2590], "1 Kings_ch_6.docx": [1246], "2 Corinthians_ch_11.docx": [4071]}

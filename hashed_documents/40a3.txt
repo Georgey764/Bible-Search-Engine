@@ -1,0 +1,5 @@
+
+crimin	{"Judges_ch_19.docx": [3637], "Judges_ch_20.docx": [1723, 1723, 1723], "2 Samuel_ch_16.docx": [1210, 1210, 1210], "2 Samuel_ch_20.docx": [19, 19, 19], "1 Kings_ch_21.docx": [1513, 1513, 1513], "Matthew_ch_27.docx": [1722, 1722], "Luke_ch_23.docx": [3815, 3846, 4658, 3815, 3846, 4658], "Acts_ch_25.docx": [4135, 4135], "2 Timothy_ch_2.docx": [751, 751], "1 Peter_ch_2.docx": [2033, 2033], "1 Peter_ch_4.docx": [2186, 2186]}
+crimin	{"Judges_ch_19.docx": [3637], "Judges_ch_20.docx": [1723, 1723], "2 Samuel_ch_16.docx": [1210, 1210], "2 Samuel_ch_20.docx": [19, 19], "1 Kings_ch_21.docx": [1513, 1513], "Matthew_ch_27.docx": [1722], "Luke_ch_23.docx": [3815, 3846, 4658], "Acts_ch_25.docx": [4135], "2 Timothy_ch_2.docx": [751], "1 Peter_ch_2.docx": [2033], "1 Peter_ch_4.docx": [2186]}
+27son	{"Proverbs_ch_19.docx": [2587]}
+crimin	{"Judges_ch_19.docx": [3637], "Judges_ch_20.docx": [1723], "2 Samuel_ch_16.docx": [1210], "2 Samuel_ch_20.docx": [19], "1 Kings_ch_21.docx": [1513], "Matthew_ch_27.docx": [1722], "Luke_ch_23.docx": [3815, 3846, 4658], "Acts_ch_25.docx": [4135], "2 Timothy_ch_2.docx": [751], "1 Peter_ch_2.docx": [2033], "1 Peter_ch_4.docx": [2186]}

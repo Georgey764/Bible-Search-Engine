@@ -1,0 +1,4 @@
+
+arari	{"1 Chronicles_ch_11.docx": [5688, 5729, 6389, 5729, 6389, 5729, 6389]}
+arari	{"1 Chronicles_ch_11.docx": [5688, 5729, 6389, 5729, 6389]}
+arari	{"1 Chronicles_ch_11.docx": [5688, 5729, 6389]}

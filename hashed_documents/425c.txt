@@ -1,0 +1,3 @@
+
+stoop	{"John_ch_8.docx": [512, 829, 829], "John_ch_20.docx": [1198, 1198]}
+stoop	{"John_ch_8.docx": [512, 829], "John_ch_20.docx": [1198]}

@@ -1,0 +1,5 @@
+
+baldad	{"Job_ch_2.docx": [1645], "Job_ch_8.docx": [5, 5, 5], "Job_ch_18.docx": [5, 5, 5], "Job_ch_25.docx": [5, 5, 5], "Job_ch_42.docx": [1214, 1221, 1229, 1241, 1254]}
+18to	{"Genesis_ch_1.docx": [2652], "Genesis_ch_23.docx": [2046], "Genesis_ch_45.docx": [2494], "2 Samuel_ch_19.docx": [3103], "Psalms_ch_68.docx": [1969], "Psalms_ch_116.docx": [1425], "Proverbs_ch_21.docx": [1757], "Ecclesiastes_ch_1.docx": [2227], "Isaiah_ch_63.docx": [2799]}
+baldad	{"Job_ch_2.docx": [1645], "Job_ch_8.docx": [5, 5], "Job_ch_18.docx": [5, 5], "Job_ch_25.docx": [5, 5]}
+baldad	{"Job_ch_2.docx": [1645], "Job_ch_8.docx": [5], "Job_ch_18.docx": [5], "Job_ch_25.docx": [5]}

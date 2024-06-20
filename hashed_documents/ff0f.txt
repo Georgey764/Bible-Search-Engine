@@ -1,0 +1,7 @@
+
+elioe	{"1 Chronicles_ch_7.docx": [1110], "Nehemiah_ch_12.docx": [11645, 11645, 11645]}
+jasu	{"Isaiah_ch_7.docx": [492]}
+elioe	{"1 Chronicles_ch_7.docx": [1110], "Nehemiah_ch_12.docx": [11645, 11645]}
+jasu	{"Isaiah_ch_7.docx": [492]}
+elioe	{"1 Chronicles_ch_7.docx": [1110], "Nehemiah_ch_12.docx": [11645]}
+jasu	{"Isaiah_ch_7.docx": [492]}

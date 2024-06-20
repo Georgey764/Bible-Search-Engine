@@ -1,0 +1,4 @@
+
+fab	{"2 Kings_ch_12.docx": [1842], "1 Timothy_ch_4.docx": [805, 805]}
+fab	{"2 Kings_ch_12.docx": [1842], "1 Timothy_ch_4.docx": [805]}
+fab	{"2 Kings_ch_12.docx": [1842], "1 Timothy_ch_4.docx": [805]}

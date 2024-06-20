@@ -1,0 +1,7 @@
+
+maiden	{"Genesis_ch_24.docx": [4077]}
+injure	{"Exodus_ch_5.docx": [2338], "Exodus_ch_21.docx": [2888, 2888, 2888], "2 Samuel_ch_1.docx": [562, 562, 562], "2 Kings_ch_1.docx": [42, 42, 42], "Ezekiel_ch_7.docx": [1452, 1452, 1452], "Ezekiel_ch_25.docx": [1433, 1433, 1433], "Matthew_ch_15.docx": [3207, 3207, 3207], "Luke_ch_10.docx": [4058, 4058], "Acts_ch_19.docx": [3377, 3377]}
+maiden	{"Genesis_ch_24.docx": [4077]}
+injure	{"Exodus_ch_5.docx": [2338], "Exodus_ch_21.docx": [2888, 2888], "2 Samuel_ch_1.docx": [562, 562], "2 Kings_ch_1.docx": [42, 42], "Ezekiel_ch_7.docx": [1452, 1452], "Ezekiel_ch_25.docx": [1433, 1433], "Matthew_ch_15.docx": [3207, 3207], "Luke_ch_10.docx": [4058], "Acts_ch_19.docx": [3377]}
+maiden	{"Genesis_ch_24.docx": [4077]}
+injure	{"Exodus_ch_5.docx": [2338], "Exodus_ch_21.docx": [2888], "2 Samuel_ch_1.docx": [562], "2 Kings_ch_1.docx": [42], "Ezekiel_ch_7.docx": [1452], "Ezekiel_ch_25.docx": [1433], "Matthew_ch_15.docx": [3207], "Luke_ch_10.docx": [4058], "Acts_ch_19.docx": [3377]}

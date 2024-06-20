@@ -1,0 +1,3 @@
+
+smy	{"Revelation_ch_1.docx": [1897], "Revelation_ch_2.docx": [1138, 1138]}
+smy	{"Revelation_ch_1.docx": [1897], "Revelation_ch_2.docx": [1138]}

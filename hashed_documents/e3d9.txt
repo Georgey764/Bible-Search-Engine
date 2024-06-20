@@ -1,0 +1,5 @@
+
+eni	{"Proverbs_ch_1.docx": [232, 571, 571, 571]}
+25dem	{"2 Kings_ch_3.docx": [3724]}
+eni	{"Proverbs_ch_1.docx": [232, 571, 571]}
+eni	{"Proverbs_ch_1.docx": [232, 571]}

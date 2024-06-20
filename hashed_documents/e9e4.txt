@@ -1,0 +1,4 @@
+
+bliste	{"Exodus_ch_9.docx": [976, 1222, 1305, 1455, 1222, 1305, 1455, 1222, 1305, 1455], "Revelation_ch_7.docx": [2326, 2326]}
+bliste	{"Exodus_ch_9.docx": [976, 1222, 1305, 1455, 1222, 1305, 1455], "Revelation_ch_7.docx": [2326]}
+bliste	{"Exodus_ch_9.docx": [976, 1222, 1305, 1455], "Revelation_ch_7.docx": [2326]}

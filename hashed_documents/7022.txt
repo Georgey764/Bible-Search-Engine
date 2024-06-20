@@ -1,0 +1,4 @@
+
+gateh	{"2 Kings_ch_10.docx": [1670], "1 Chronicles_ch_26.docx": [1618, 1618, 1618], "2 Chronicles_ch_3.docx": [668, 668, 668], "2 Chronicles_ch_12.docx": [1470, 1470, 1470], "2 Chronicles_ch_27.docx": [388, 388, 388], "Ezekiel_ch_33.docx": [5813, 5813, 5813], "Matthew_ch_26.docx": [8859, 8859]}
+gateh	{"2 Kings_ch_10.docx": [1670], "1 Chronicles_ch_26.docx": [1618, 1618], "2 Chronicles_ch_3.docx": [668, 668], "2 Chronicles_ch_12.docx": [1470, 1470], "2 Chronicles_ch_27.docx": [388, 388], "Ezekiel_ch_33.docx": [5813, 5813], "Matthew_ch_26.docx": [8859]}
+gateh	{"2 Kings_ch_10.docx": [1670], "1 Chronicles_ch_26.docx": [1618], "2 Chronicles_ch_3.docx": [668], "2 Chronicles_ch_12.docx": [1470], "2 Chronicles_ch_27.docx": [388], "Ezekiel_ch_33.docx": [5813], "Matthew_ch_26.docx": [8859]}

@@ -1,0 +1,4 @@
+
+jao	{"1 Chronicles_ch_7.docx": [1378], "2 Chronicles_ch_11.docx": [2196, 2196, 2196]}
+jao	{"1 Chronicles_ch_7.docx": [1378], "2 Chronicles_ch_11.docx": [2196, 2196]}
+jao	{"1 Chronicles_ch_7.docx": [1378], "2 Chronicles_ch_11.docx": [2196]}

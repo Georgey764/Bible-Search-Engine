@@ -1,0 +1,4 @@
+
+axes	{"1 Samuel_ch_13.docx": [3415], "1 Kings_ch_6.docx": [934, 934, 934], "1 Chronicles_ch_20.docx": [624, 624, 624], "Psalms_ch_74.docx": [620, 620, 620], "Jeremiah_ch_46.docx": [3672, 3672, 3672], "Ezekiel_ch_9.docx": [164, 1085, 1444, 164, 1085, 1444, 164, 1085, 1444], "Revelation_ch_20.docx": [509, 509]}
+axes	{"1 Samuel_ch_13.docx": [3415], "1 Kings_ch_6.docx": [934, 934], "1 Chronicles_ch_20.docx": [624, 624], "Psalms_ch_74.docx": [620, 620], "Jeremiah_ch_46.docx": [3672, 3672], "Ezekiel_ch_9.docx": [164, 1085, 1444, 164, 1085, 1444], "Revelation_ch_20.docx": [509]}
+axes	{"1 Samuel_ch_13.docx": [3415], "1 Kings_ch_6.docx": [934], "1 Chronicles_ch_20.docx": [624], "Psalms_ch_74.docx": [620], "Jeremiah_ch_46.docx": [3672], "Ezekiel_ch_9.docx": [164, 1085, 1444], "Revelation_ch_20.docx": [509]}

@@ -1,0 +1,4 @@
+
+fall;	{"Psalms_ch_46.docx": [436], "Isaiah_ch_24.docx": [3612, 3612, 3612]}
+fall;	{"Psalms_ch_46.docx": [436], "Isaiah_ch_24.docx": [3612, 3612]}
+fall;	{"Psalms_ch_46.docx": [436], "Isaiah_ch_24.docx": [3612]}

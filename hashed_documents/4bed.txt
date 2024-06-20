@@ -1,0 +1,4 @@
+
+gaddi	{"Numbers_ch_13.docx": [743, 808, 808, 808], "2 Kings_ch_15.docx": [1768, 2331, 1768, 2331, 1768, 2331]}
+gaddi	{"Numbers_ch_13.docx": [743, 808, 808], "2 Kings_ch_15.docx": [1768, 2331, 1768, 2331]}
+gaddi	{"Numbers_ch_13.docx": [743, 808], "2 Kings_ch_15.docx": [1768, 2331]}

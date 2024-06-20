@@ -1,0 +1,10 @@
+
+surie	{"Numbers_ch_3.docx": [4120]}
+antic	{"Job_ch_2.docx": [1973]}
+losse	{"Job_ch_42.docx": [3828], "Acts_ch_27.docx": [1274]}
+surie	{"Numbers_ch_3.docx": [4120]}
+33lik	{"Deuteronomy_ch_32.docx": [4871]}
+antic	{"Job_ch_2.docx": [1973]}
+surie	{"Numbers_ch_3.docx": [4120]}
+antic	{"Job_ch_2.docx": [1973]}
+losse	{"Acts_ch_27.docx": [1274]}

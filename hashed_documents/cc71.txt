@@ -1,0 +1,5 @@
+
+likes	{"Genesis_ch_27.docx": [1003], "Deuteronomy_ch_21.docx": [2602, 2602, 2602], "Proverbs_ch_25.docx": [2412, 2412, 2412]}
+likes	{"Genesis_ch_27.docx": [1003], "Deuteronomy_ch_21.docx": [2602, 2602], "Proverbs_ch_25.docx": [2412, 2412]}
+38they	{"Psalms_ch_106.docx": [3390]}
+likes	{"Genesis_ch_27.docx": [1003], "Deuteronomy_ch_21.docx": [2602], "Proverbs_ch_25.docx": [2412]}

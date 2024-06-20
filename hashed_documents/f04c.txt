@@ -1,0 +1,2 @@
+
+4in	{"2 Chronicles_ch_27.docx": [407], "Psalms_ch_22.docx": [439], "Psalms_ch_95.docx": [268], "Psalms_ch_124.docx": [209], "Jeremiah_ch_47.docx": [606], "Ezekiel_ch_8.docx": [719], "Zechariah_ch_10.docx": [760]}

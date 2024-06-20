@@ -1,0 +1,4 @@
+
+undefi	{"2 Samuel_ch_22.docx": [2095, 2473, 2473, 2473]}
+undefi	{"2 Samuel_ch_22.docx": [2095, 2473, 2473]}
+undefi	{"2 Samuel_ch_22.docx": [2095, 2473]}

@@ -1,0 +1,6 @@
+
+checks	{"1 Chronicles_ch_28.docx": [1894]}
+checks	{"1 Chronicles_ch_28.docx": [1894]}
+9kg	{"Ezra_ch_8.docx": [3695]}
+41:9	{"Job_ch_40.docx": [2500]}
+checks	{"1 Chronicles_ch_28.docx": [1894]}

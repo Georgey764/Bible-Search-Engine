@@ -1,0 +1,7 @@
+
+jeche	{"2 Kings_ch_15.docx": [52], "1 Chronicles_ch_2.docx": [3673, 3704, 3673, 3704, 3673, 3704], "2 Chronicles_ch_26.docx": [221, 221, 221]}
+chotha	{"1 Chronicles_ch_7.docx": [3993]}
+jeche	{"2 Kings_ch_15.docx": [52], "1 Chronicles_ch_2.docx": [3673, 3704, 3673, 3704], "2 Chronicles_ch_26.docx": [221, 221]}
+chotha	{"1 Chronicles_ch_7.docx": [3993]}
+jeche	{"2 Kings_ch_15.docx": [52], "1 Chronicles_ch_2.docx": [3673, 3704], "2 Chronicles_ch_26.docx": [221]}
+chotha	{"1 Chronicles_ch_7.docx": [3993]}

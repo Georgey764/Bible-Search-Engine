@@ -1,0 +1,3 @@
+
+30n	{"2 Kings_ch_10.docx": [5593], "Job_ch_15.docx": [2850], "Psalms_ch_78.docx": [2968], "Proverbs_ch_3.docx": [2916]}
+39r	{"Psalms_ch_119.docx": [3035]}

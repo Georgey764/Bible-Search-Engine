@@ -1,0 +1,3 @@
+
+studen	{"Luke_ch_14.docx": [240], "2 Timothy_ch_3.docx": [1041, 1041]}
+studen	{"Luke_ch_14.docx": [240], "2 Timothy_ch_3.docx": [1041]}

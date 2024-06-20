@@ -1,0 +1,4 @@
+
+betho	{"Joshua_ch_16.docx": [241, 514, 514, 514], "Joshua_ch_18.docx": [1965, 2094, 2219, 1965, 2094, 2219, 1965, 2094, 2219], "Joshua_ch_19.docx": [1997, 1997, 1997], "Joshua_ch_21.docx": [2757, 2757], "1 Chronicles_ch_6.docx": [5791, 5791, 5791], "1 Chronicles_ch_7.docx": [3042, 3042, 3042], "2 Chronicles_ch_25.docx": [2044, 2044, 2044]}
+betho	{"Joshua_ch_16.docx": [241, 514, 514], "Joshua_ch_18.docx": [1965, 2094, 2219, 1965, 2094, 2219], "Joshua_ch_19.docx": [1997, 1997], "1 Chronicles_ch_6.docx": [5791, 5791], "1 Chronicles_ch_7.docx": [3042, 3042], "2 Chronicles_ch_25.docx": [2044, 2044], "Joshua_ch_21.docx": [2757]}
+betho	{"Joshua_ch_16.docx": [241, 514], "Joshua_ch_18.docx": [1965, 2094, 2219], "Joshua_ch_19.docx": [1997], "Joshua_ch_21.docx": [2757], "1 Chronicles_ch_6.docx": [5791], "1 Chronicles_ch_7.docx": [3042], "2 Chronicles_ch_25.docx": [2044]}

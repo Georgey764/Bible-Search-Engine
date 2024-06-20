@@ -1,0 +1,5 @@
+
+free-	{"Leviticus_ch_22.docx": [2909], "Leviticus_ch_23.docx": [5389, 5389, 5389], "Numbers_ch_15.docx": [231, 231, 231], "Numbers_ch_29.docx": [4962, 4962, 4962], "Ezra_ch_3.docx": [865, 865, 865]}
+free-	{"Leviticus_ch_22.docx": [2909], "Leviticus_ch_23.docx": [5389, 5389], "Numbers_ch_15.docx": [231, 231], "Numbers_ch_29.docx": [4962, 4962], "Ezra_ch_3.docx": [865, 865]}
+30si	{"2 Samuel_ch_2.docx": [4178]}
+free-	{"Leviticus_ch_22.docx": [2909], "Leviticus_ch_23.docx": [5389], "Numbers_ch_15.docx": [231], "Numbers_ch_29.docx": [4962], "Ezra_ch_3.docx": [865]}

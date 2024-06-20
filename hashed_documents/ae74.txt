@@ -1,0 +1,5 @@
+
+gethre	{"Joshua_ch_19.docx": [3506], "1 Chronicles_ch_6.docx": [5848, 5848, 5848]}
+gethre	{"Joshua_ch_19.docx": [3506], "1 Chronicles_ch_6.docx": [5848, 5848]}
+38we	{"Judges_ch_6.docx": [10082], "1 Samuel_ch_17.docx": [5639], "1 Kings_ch_18.docx": [6325], "2 Kings_ch_4.docx": [5744]}
+gethre	{"Joshua_ch_19.docx": [3506], "1 Chronicles_ch_6.docx": [5848]}

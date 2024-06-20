@@ -1,0 +1,4 @@
+
+fondl	{"Proverbs_ch_7.docx": [1118], "2 Timothy_ch_1.docx": [527, 527]}
+fondl	{"Proverbs_ch_7.docx": [1118], "2 Timothy_ch_1.docx": [527]}
+fondl	{"Proverbs_ch_7.docx": [1118], "2 Timothy_ch_1.docx": [527]}

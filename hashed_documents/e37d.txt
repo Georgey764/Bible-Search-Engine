@@ -1,0 +1,4 @@
+
+consol	{"Job_ch_42.docx": [2215], "Jeremiah_ch_16.docx": [1096], "Jeremiah_ch_30.docx": [2116, 2116, 2116], "Lamentations_ch_1.docx": [4191, 4191, 4191], "Hosea_ch_13.docx": [2085, 2085, 2085], "Micah_ch_1.docx": [4162, 4162, 4162], "John_ch_11.docx": [1970, 3572, 1970, 3572], "Philippians_ch_2.docx": [17, 17], "1 Thessalonians_ch_2.docx": [1428, 1428]}
+consol	{"Jeremiah_ch_16.docx": [1096], "Jeremiah_ch_30.docx": [2116, 2116], "Lamentations_ch_1.docx": [4191, 4191], "Hosea_ch_13.docx": [2085, 2085], "Micah_ch_1.docx": [4162, 4162], "John_ch_11.docx": [1970, 3572], "Philippians_ch_2.docx": [17], "1 Thessalonians_ch_2.docx": [1428]}
+consol	{"Jeremiah_ch_16.docx": [1096], "Jeremiah_ch_30.docx": [2116], "Lamentations_ch_1.docx": [4191], "Hosea_ch_13.docx": [2085], "Micah_ch_1.docx": [4162], "John_ch_11.docx": [1970, 3572], "Philippians_ch_2.docx": [17], "1 Thessalonians_ch_2.docx": [1428]}

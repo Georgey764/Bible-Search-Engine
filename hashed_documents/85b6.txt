@@ -1,0 +1,4 @@
+
+gaber	{"Numbers_ch_33.docx": [2565, 2607, 2607, 2607], "Deuteronomy_ch_2.docx": [1033, 1033, 1033], "1 Kings_ch_4.docx": [1396, 1964, 1396, 1396, 1964]}
+gaber	{"Numbers_ch_33.docx": [2565, 2607, 2607], "Deuteronomy_ch_2.docx": [1033, 1033], "1 Kings_ch_4.docx": [1396, 1396, 1964]}
+gaber	{"Numbers_ch_33.docx": [2565, 2607], "Deuteronomy_ch_2.docx": [1033], "1 Kings_ch_4.docx": [1396, 1964]}

@@ -1,0 +1,5 @@
+
+kainit	{"Genesis_ch_15.docx": [2524], "1 Samuel_ch_15.docx": [782, 985, 782, 985, 782, 985]}
+kainit	{"Genesis_ch_15.docx": [2524], "1 Samuel_ch_15.docx": [782, 985, 782, 985]}
+20‘li	{"Isaiah_ch_14.docx": [3200]}
+kainit	{"Genesis_ch_15.docx": [2524], "1 Samuel_ch_15.docx": [782, 985]}

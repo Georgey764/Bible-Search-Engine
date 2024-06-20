@@ -1,0 +1,4 @@
+
+zip	{"1 Samuel_ch_23.docx": [2088, 2292, 2809, 3529, 2292, 2809, 3529, 2292, 2809, 3529], "1 Samuel_ch_26.docx": [8, 177, 8, 177, 8, 177], "1 Chronicles_ch_2.docx": [3848, 3848, 3848], "1 Chronicles_ch_4.docx": [1744, 1744, 1744], "2 Chronicles_ch_11.docx": [870, 870, 870], "Psalms_ch_54.docx": [56, 56, 56]}
+zip	{"1 Samuel_ch_23.docx": [2088, 2292, 2809, 3529, 2292, 2809, 3529], "1 Samuel_ch_26.docx": [8, 177, 8, 177], "1 Chronicles_ch_2.docx": [3848, 3848], "1 Chronicles_ch_4.docx": [1744, 1744], "2 Chronicles_ch_11.docx": [870, 870], "Psalms_ch_54.docx": [56, 56]}
+zip	{"1 Samuel_ch_23.docx": [2088, 2292, 2809, 3529], "1 Samuel_ch_26.docx": [8, 177], "1 Chronicles_ch_2.docx": [3848], "1 Chronicles_ch_4.docx": [1744], "2 Chronicles_ch_11.docx": [870], "Psalms_ch_54.docx": [56]}

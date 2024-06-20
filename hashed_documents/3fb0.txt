@@ -1,0 +1,4 @@
+
+attest	{"Esther_ch_9.docx": [3837], "1 Timothy_ch_5.docx": [1096, 1096]}
+attest	{"Esther_ch_9.docx": [3837], "1 Timothy_ch_5.docx": [1096]}
+attest	{"Esther_ch_9.docx": [3837], "1 Timothy_ch_5.docx": [1096]}

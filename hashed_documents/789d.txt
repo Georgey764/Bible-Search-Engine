@@ -1,0 +1,4 @@
+
+tame	{"Daniel_ch_2.docx": [6760, 6767, 6767, 6767], "James_ch_3.docx": [920, 924, 930, 920, 924, 930]}
+tame	{"Daniel_ch_2.docx": [6760, 6767, 6767], "James_ch_3.docx": [920, 924, 930]}
+tame	{"Daniel_ch_2.docx": [6760, 6767], "James_ch_3.docx": [920, 924, 930]}

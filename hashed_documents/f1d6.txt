@@ -1,0 +1,4 @@
+
+snorti	{"Isaiah_ch_10.docx": [4544], "Jeremiah_ch_8.docx": [1292, 3102, 1292, 3102, 1292, 3102], "Jeremiah_ch_13.docx": [4394, 4394, 4394]}
+snorti	{"Isaiah_ch_10.docx": [4544], "Jeremiah_ch_8.docx": [1292, 3102, 1292, 3102], "Jeremiah_ch_13.docx": [4394, 4394]}
+snorti	{"Isaiah_ch_10.docx": [4544], "Jeremiah_ch_8.docx": [1292, 3102], "Jeremiah_ch_13.docx": [4394]}

@@ -1,0 +1,4 @@
+
+theco	{"Joshua_ch_15.docx": [6158], "2 Samuel_ch_14.docx": [24, 375, 1316, 24, 375, 1316, 24, 375, 1316], "2 Chronicles_ch_20.docx": [3204, 3204, 3204]}
+theco	{"Joshua_ch_15.docx": [6158], "2 Samuel_ch_14.docx": [24, 375, 1316, 24, 375, 1316], "2 Chronicles_ch_20.docx": [3204, 3204]}
+theco	{"Joshua_ch_15.docx": [6158], "2 Samuel_ch_14.docx": [24, 375, 1316], "2 Chronicles_ch_20.docx": [3204]}

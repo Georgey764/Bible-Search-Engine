@@ -1,0 +1,4 @@
+
+conse	{"Exodus_ch_22.docx": [2531], "Leviticus_ch_7.docx": [5168, 5168, 5168], "Leviticus_ch_8.docx": [3243, 3243, 3243], "Deuteronomy_ch_20.docx": [673, 696, 673, 696, 673, 696], "2 Samuel_ch_21.docx": [9, 9, 9], "2 Chronicles_ch_18.docx": [329, 329, 329]}
+conse	{"Exodus_ch_22.docx": [2531], "Leviticus_ch_7.docx": [5168, 5168], "Leviticus_ch_8.docx": [3243, 3243], "Deuteronomy_ch_20.docx": [673, 696, 673, 696], "2 Samuel_ch_21.docx": [9, 9], "2 Chronicles_ch_18.docx": [329, 329]}
+conse	{"Exodus_ch_22.docx": [2531], "Leviticus_ch_7.docx": [5168], "Leviticus_ch_8.docx": [3243], "Deuteronomy_ch_20.docx": [673, 696], "2 Samuel_ch_21.docx": [9], "2 Chronicles_ch_18.docx": [329]}

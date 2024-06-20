@@ -1,0 +1,5 @@
+
+sosom	{"1 Chronicles_ch_2.docx": [3614, 3643, 3643, 3643]}
+sosom	{"1 Chronicles_ch_2.docx": [3614, 3643, 3643]}
+3‘are	{"Ezekiel_ch_28.docx": [389]}
+sosom	{"1 Chronicles_ch_2.docx": [3614, 3643]}

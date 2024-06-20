@@ -1,0 +1,4 @@
+
+calf!	{"Exodus_ch_32.docx": [3599], "Luke_ch_15.docx": [4086, 4086]}
+calf!	{"Exodus_ch_32.docx": [3599], "Luke_ch_15.docx": [4086]}
+calf!	{"Exodus_ch_32.docx": [3599], "Luke_ch_15.docx": [4086]}

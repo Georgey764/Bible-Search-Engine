@@ -1,0 +1,4 @@
+
+salla	{"Nehemiah_ch_11.docx": [1427], "Nehemiah_ch_12.docx": [1786, 1786, 1786]}
+salla	{"Nehemiah_ch_11.docx": [1427], "Nehemiah_ch_12.docx": [1786, 1786]}
+salla	{"Nehemiah_ch_11.docx": [1427], "Nehemiah_ch_12.docx": [1786]}

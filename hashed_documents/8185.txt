@@ -1,0 +1,7 @@
+
+jasa	{"Judges_ch_11.docx": [4187], "1 Chronicles_ch_2.docx": [1595, 1595, 1595], "1 Chronicles_ch_6.docx": [6875, 6875, 6875], "Nehemiah_ch_3.docx": [2286, 2301, 2286, 2301, 2286, 2301]}
+malec	{"1 Chronicles_ch_7.docx": [2282]}
+jasa	{"Judges_ch_11.docx": [4187], "1 Chronicles_ch_2.docx": [1595, 1595], "1 Chronicles_ch_6.docx": [6875, 6875], "Nehemiah_ch_3.docx": [2286, 2301, 2286, 2301]}
+malec	{"1 Chronicles_ch_7.docx": [2282]}
+jasa	{"Judges_ch_11.docx": [4187], "1 Chronicles_ch_2.docx": [1595], "1 Chronicles_ch_6.docx": [6875], "Nehemiah_ch_3.docx": [2286, 2301]}
+malec	{"1 Chronicles_ch_7.docx": [2282]}

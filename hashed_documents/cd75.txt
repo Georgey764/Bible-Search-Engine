@@ -1,0 +1,4 @@
+
+locki	{"1 Samuel_ch_6.docx": [1914], "Luke_ch_3.docx": [5631, 5631]}
+locki	{"1 Samuel_ch_6.docx": [1914], "Luke_ch_3.docx": [5631]}
+locki	{"1 Samuel_ch_6.docx": [1914], "Luke_ch_3.docx": [5631]}

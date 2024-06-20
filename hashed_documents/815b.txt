@@ -1,0 +1,4 @@
+
+attr	{"Genesis_ch_2.docx": [1152], "Genesis_ch_29.docx": [3848, 3848, 3848], "Genesis_ch_39.docx": [1027, 1027, 1027], "Judges_ch_14.docx": [1084, 1084, 1084], "Acts_ch_20.docx": [9169, 9169], "1 Corinthians_ch_12.docx": [2462, 2465, 2462, 2465]}
+attr	{"Genesis_ch_2.docx": [1152], "Genesis_ch_29.docx": [3848, 3848], "Genesis_ch_39.docx": [1027, 1027], "Judges_ch_14.docx": [1084, 1084], "Acts_ch_20.docx": [9169], "1 Corinthians_ch_12.docx": [2462, 2465]}
+attr	{"Genesis_ch_2.docx": [1152], "Genesis_ch_29.docx": [3848], "Genesis_ch_39.docx": [1027], "Judges_ch_14.docx": [1084], "Acts_ch_20.docx": [9169], "1 Corinthians_ch_12.docx": [2462, 2465]}

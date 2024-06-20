@@ -1,0 +1,4 @@
+
+ashta	{"Genesis_ch_14.docx": [565], "Judges_ch_10.docx": [919, 919, 919]}
+ashta	{"Genesis_ch_14.docx": [565], "Judges_ch_10.docx": [919, 919]}
+ashta	{"Genesis_ch_14.docx": [565], "Judges_ch_10.docx": [919]}

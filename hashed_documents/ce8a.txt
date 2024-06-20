@@ -1,0 +1,4 @@
+
+recko	{"2 Chronicles_ch_23.docx": [17], "Hosea_ch_1.docx": [1978, 1978, 1978], "2 Corinthians_ch_10.docx": [276, 276]}
+recko	{"2 Chronicles_ch_23.docx": [17], "Hosea_ch_1.docx": [1978, 1978], "2 Corinthians_ch_10.docx": [276]}
+recko	{"2 Chronicles_ch_23.docx": [17], "Hosea_ch_1.docx": [1978], "2 Corinthians_ch_10.docx": [276]}

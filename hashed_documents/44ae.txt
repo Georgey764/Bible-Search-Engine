@@ -1,0 +1,6 @@
+
+lute	{"Genesis_ch_4.docx": [2355], "1 Samuel_ch_10.docx": [1096, 1096, 1096], "1 Kings_ch_10.docx": [1732, 1732, 1732], "Psalms_ch_33.docx": [152, 152, 152], "Psalms_ch_92.docx": [206, 206, 206], "Psalms_ch_108.docx": [114, 114, 114], "Psalms_ch_149.docx": [243, 243, 243], "Psalms_ch_150.docx": [256], "Isaiah_ch_5.docx": [1969, 1969, 1969]}
+lute	{"Genesis_ch_4.docx": [2355], "1 Samuel_ch_10.docx": [1096, 1096], "1 Kings_ch_10.docx": [1732, 1732], "Psalms_ch_33.docx": [152, 152], "Psalms_ch_92.docx": [206, 206], "Psalms_ch_108.docx": [114, 114], "Psalms_ch_149.docx": [243, 243], "Isaiah_ch_5.docx": [1969, 1969]}
+4,100l	{"1 Kings_ch_7.docx": [3602]}
+18in	{"Proverbs_ch_16.docx": [1914], "Isaiah_ch_19.docx": [2412], "Isaiah_ch_59.docx": [2697]}
+lute	{"Genesis_ch_4.docx": [2355], "1 Samuel_ch_10.docx": [1096], "1 Kings_ch_10.docx": [1732], "Psalms_ch_33.docx": [152], "Psalms_ch_92.docx": [206], "Psalms_ch_108.docx": [114], "Psalms_ch_149.docx": [243], "Isaiah_ch_5.docx": [1969]}

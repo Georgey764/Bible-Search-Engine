@@ -1,0 +1,4 @@
+
+plight	{"Job_ch_7.docx": [1165], "Job_ch_30.docx": [2089, 2089, 2089]}
+plight	{"Job_ch_7.docx": [1165], "Job_ch_30.docx": [2089, 2089]}
+plight	{"Job_ch_7.docx": [1165], "Job_ch_30.docx": [2089]}

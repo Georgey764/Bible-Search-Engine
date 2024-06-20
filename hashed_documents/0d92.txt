@@ -1,0 +1,4 @@
+
+pis	{"Deuteronomy_ch_4.docx": [7228], "Acts_ch_13.docx": [3233, 3233]}
+pis	{"Deuteronomy_ch_4.docx": [7228], "Acts_ch_13.docx": [3233]}
+pis	{"Deuteronomy_ch_4.docx": [7228], "Acts_ch_13.docx": [3233]}

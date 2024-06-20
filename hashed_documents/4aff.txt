@@ -1,0 +1,5 @@
+
+petep	{"Genesis_ch_41.docx": [5723, 6583, 6583, 6583], "Genesis_ch_46.docx": [2287, 2287, 2287]}
+petep	{"Genesis_ch_41.docx": [5723, 6583, 6583], "Genesis_ch_46.docx": [2287, 2287]}
+18‘he	{"Job_ch_12.docx": [1671], "Job_ch_22.docx": [1589], "Isaiah_ch_44.docx": [2920]}
+petep	{"Genesis_ch_41.docx": [5723, 6583], "Genesis_ch_46.docx": [2287]}

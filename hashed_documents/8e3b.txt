@@ -1,0 +1,4 @@
+
+deeds;	{"Job_ch_20.docx": [2760], "Lamentations_ch_1.docx": [3381, 3381, 3381], "Zephaniah_ch_1.docx": [499, 499, 499]}
+deeds;	{"Job_ch_20.docx": [2760], "Lamentations_ch_1.docx": [3381, 3381], "Zephaniah_ch_1.docx": [499, 499]}
+deeds;	{"Job_ch_20.docx": [2760], "Lamentations_ch_1.docx": [3381], "Zephaniah_ch_1.docx": [499]}

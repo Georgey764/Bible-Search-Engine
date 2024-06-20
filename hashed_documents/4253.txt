@@ -1,0 +1,4 @@
+
+supper	{"Ruth_ch_2.docx": [2415], "Daniel_ch_1.docx": [2446, 2446, 2446], "Daniel_ch_6.docx": [2978, 2978, 2978], "Luke_ch_14.docx": [1366, 1956, 3159, 1366, 1956, 3159], "Luke_ch_17.docx": [1065, 1065], "Luke_ch_20.docx": [5306, 5306], "Luke_ch_22.docx": [1988, 1988], "John_ch_12.docx": [50, 50], "John_ch_13.docx": [223, 223], "Revelation_ch_19.docx": [2915, 2915]}
+supper	{"Ruth_ch_2.docx": [2415], "Daniel_ch_1.docx": [2446, 2446], "Daniel_ch_6.docx": [2978, 2978], "Luke_ch_14.docx": [1366, 1956, 3159], "Luke_ch_17.docx": [1065], "Luke_ch_20.docx": [5306], "Luke_ch_22.docx": [1988], "John_ch_12.docx": [50], "John_ch_13.docx": [223], "Revelation_ch_19.docx": [2915]}
+supper	{"Ruth_ch_2.docx": [2415], "Daniel_ch_1.docx": [2446], "Daniel_ch_6.docx": [2978], "Luke_ch_14.docx": [1366, 1956, 3159], "Luke_ch_17.docx": [1065], "Luke_ch_20.docx": [5306], "Luke_ch_22.docx": [1988], "John_ch_12.docx": [50], "John_ch_13.docx": [223], "Revelation_ch_19.docx": [2915]}

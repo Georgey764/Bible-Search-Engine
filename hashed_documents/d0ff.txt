@@ -1,0 +1,5 @@
+
+mero	{"Judges_ch_5.docx": [3325], "1 Samuel_ch_14.docx": [8134, 8134, 8134], "Nehemiah_ch_3.docx": [2648, 2648, 2648], "Isaiah_ch_39.docx": [8, 8, 8], "Jeremiah_ch_50.docx": [399, 399, 399]}
+mero	{"Judges_ch_5.docx": [3325], "1 Samuel_ch_14.docx": [8134, 8134], "Nehemiah_ch_3.docx": [2648, 2648], "Isaiah_ch_39.docx": [8, 8], "Jeremiah_ch_50.docx": [399, 399]}
+81hes	{"1 Chronicles_ch_6.docx": [7063]}
+mero	{"Judges_ch_5.docx": [3325], "1 Samuel_ch_14.docx": [8134], "Nehemiah_ch_3.docx": [2648], "Isaiah_ch_39.docx": [8], "Jeremiah_ch_50.docx": [399]}

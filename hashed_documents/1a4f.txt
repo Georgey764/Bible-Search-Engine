@@ -1,0 +1,4 @@
+
+sleep!	{"Genesis_ch_31.docx": [5463], "Ruth_ch_3.docx": [450, 450, 450], "1 Samuel_ch_3.docx": [671, 886, 671, 886, 671, 886]}
+sleep!	{"Genesis_ch_31.docx": [5463], "Ruth_ch_3.docx": [450, 450], "1 Samuel_ch_3.docx": [671, 886, 671, 886]}
+sleep!	{"Genesis_ch_31.docx": [5463], "Ruth_ch_3.docx": [450], "1 Samuel_ch_3.docx": [671, 886]}

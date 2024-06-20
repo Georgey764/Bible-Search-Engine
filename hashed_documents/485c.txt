@@ -1,0 +1,4 @@
+
+pent	{"Deuteronomy_ch_16.docx": [1436], "Acts_ch_2.docx": [13, 13], "Acts_ch_20.docx": [5522, 5522]}
+pent	{"Deuteronomy_ch_16.docx": [1436], "Acts_ch_2.docx": [13], "Acts_ch_20.docx": [5522]}
+pent	{"Deuteronomy_ch_16.docx": [1436], "Acts_ch_2.docx": [13], "Acts_ch_20.docx": [5522]}

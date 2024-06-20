@@ -1,0 +1,4 @@
+
+cooked	{"Leviticus_ch_6.docx": [2783], "Judges_ch_6.docx": [4084, 4084, 4084], "1 Kings_ch_19.docx": [3845, 3845, 3845]}
+cooked	{"Leviticus_ch_6.docx": [2783], "Judges_ch_6.docx": [4084, 4084], "1 Kings_ch_19.docx": [3845, 3845]}
+cooked	{"Leviticus_ch_6.docx": [2783], "Judges_ch_6.docx": [4084], "1 Kings_ch_19.docx": [3845]}

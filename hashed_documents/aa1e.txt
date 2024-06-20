@@ -1,0 +1,6 @@
+
+tubs	{"2 Samuel_ch_8.docx": [1256], "2 Chronicles_ch_4.docx": [1878, 1878, 1878]}
+23jus	{"Numbers_ch_18.docx": [3857], "Deuteronomy_ch_12.docx": [4212], "Job_ch_6.docx": [2342]}
+tubs	{"2 Samuel_ch_8.docx": [1256], "2 Chronicles_ch_4.docx": [1878, 1878]}
+16‘fro	{"Ezekiel_ch_28.docx": [2394], "Ezekiel_ch_31.docx": [3021]}
+tubs	{"2 Samuel_ch_8.docx": [1256], "2 Chronicles_ch_4.docx": [1878]}

@@ -1,0 +1,4 @@
+
+herbs	{"Exodus_ch_12.docx": [1007], "Numbers_ch_9.docx": [1348, 1348, 1348]}
+herbs	{"Exodus_ch_12.docx": [1007], "Numbers_ch_9.docx": [1348, 1348]}
+herbs	{"Exodus_ch_12.docx": [1007], "Numbers_ch_9.docx": [1348]}

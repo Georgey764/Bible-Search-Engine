@@ -1,0 +1,4 @@
+
+samp	{"Genesis_ch_45.docx": [3197], "Hebrews_ch_11.docx": [6180, 6180]}
+samp	{"Genesis_ch_45.docx": [3197], "Hebrews_ch_11.docx": [6180]}
+samp	{"Genesis_ch_45.docx": [3197], "Hebrews_ch_11.docx": [6180]}

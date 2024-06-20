@@ -1,0 +1,7 @@
+
+blamel	{"Job_ch_1.docx": [91, 1279, 1279, 1279], "Job_ch_2.docx": [375, 375, 375], "Job_ch_9.docx": [1823, 1823, 1823], "Job_ch_11.docx": [399, 399, 399], "Job_ch_22.docx": [1759, 1759, 1759], "Job_ch_33.docx": [731, 731, 731], "Psalms_ch_18.docx": [2544, 2544, 2544], "Psalms_ch_84.docx": [1268, 1268, 1268], "Philippians_ch_1.docx": [1001, 1001], "Philippians_ch_2.docx": [1704, 1704], "Philippians_ch_3.docx": [921, 921], "1 Timothy_ch_5.docx": [767, 767], "Titus_ch_1.docx": [908, 908], "Titus_ch_2.docx": [677, 677]}
+untend	{"Hosea_ch_10.docx": [818]}
+blamel	{"Job_ch_1.docx": [91, 1279, 1279], "Job_ch_2.docx": [375, 375], "Job_ch_9.docx": [1823, 1823], "Job_ch_11.docx": [399, 399], "Job_ch_22.docx": [1759, 1759], "Job_ch_33.docx": [731, 731], "Psalms_ch_18.docx": [2544, 2544], "Psalms_ch_84.docx": [1268, 1268], "Philippians_ch_1.docx": [1001], "Philippians_ch_2.docx": [1704], "Philippians_ch_3.docx": [921], "1 Timothy_ch_5.docx": [767], "Titus_ch_1.docx": [908], "Titus_ch_2.docx": [677]}
+untend	{"Hosea_ch_10.docx": [818]}
+blamel	{"Job_ch_1.docx": [91, 1279], "Job_ch_2.docx": [375], "Job_ch_9.docx": [1823], "Job_ch_11.docx": [399], "Job_ch_22.docx": [1759], "Job_ch_33.docx": [731], "Psalms_ch_18.docx": [2544], "Psalms_ch_84.docx": [1268], "Philippians_ch_1.docx": [1001], "Philippians_ch_2.docx": [1704], "Philippians_ch_3.docx": [921], "1 Timothy_ch_5.docx": [767], "Titus_ch_1.docx": [908], "Titus_ch_2.docx": [677]}
+untend	{"Hosea_ch_10.docx": [818]}

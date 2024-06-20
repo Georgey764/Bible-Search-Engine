@@ -1,0 +1,4 @@
+
+shebna	{"Isaiah_ch_36.docx": [405, 1802, 3646, 1802, 3646, 1802, 3646], "Isaiah_ch_37.docx": [34, 34, 34]}
+shebna	{"Isaiah_ch_36.docx": [405, 1802, 3646, 1802, 3646], "Isaiah_ch_37.docx": [34, 34]}
+shebna	{"Isaiah_ch_36.docx": [405, 1802, 3646], "Isaiah_ch_37.docx": [34]}

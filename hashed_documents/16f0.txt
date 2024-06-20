@@ -1,0 +1,4 @@
+
+crue	{"Genesis_ch_49.docx": [834], "Jeremiah_ch_50.docx": [6157, 6157, 6157], "Matthew_ch_27.docx": [5133, 5133]}
+crue	{"Genesis_ch_49.docx": [834], "Jeremiah_ch_50.docx": [6157, 6157], "Matthew_ch_27.docx": [5133]}
+crue	{"Genesis_ch_49.docx": [834], "Jeremiah_ch_50.docx": [6157], "Matthew_ch_27.docx": [5133]}

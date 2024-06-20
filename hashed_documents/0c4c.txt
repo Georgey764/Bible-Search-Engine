@@ -1,0 +1,5 @@
+
+kana	{"1 Chronicles_ch_2.docx": [1999]}
+17‘i’l	{"Numbers_ch_24.docx": [2215], "Ezekiel_ch_5.docx": [3260]}
+kana	{"1 Chronicles_ch_2.docx": [1999]}
+kana	{"1 Chronicles_ch_2.docx": [1999]}

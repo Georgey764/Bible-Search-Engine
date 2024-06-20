@@ -1,0 +1,4 @@
+
+demet	{"Acts_ch_19.docx": [6632, 11636, 11636]}
+24thaa	{"1 Chronicles_ch_6.docx": [1685]}
+demet	{"Acts_ch_19.docx": [6632, 11636]}

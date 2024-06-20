@@ -1,0 +1,3 @@
+
+36then	{"Genesis_ch_27.docx": [4618], "Genesis_ch_30.docx": [4246], "Genesis_ch_42.docx": [4740], "Numbers_ch_10.docx": [4230], "Numbers_ch_14.docx": [5222], "Numbers_ch_33.docx": [2603], "Joshua_ch_21.docx": [4325], "2 Samuel_ch_13.docx": [5755], "1 Kings_ch_1.docx": [5006], "1 Kings_ch_2.docx": [6771], "1 Kings_ch_18.docx": [5894], "Jeremiah_ch_32.docx": [6279], "Matthew_ch_13.docx": [4956], "Matthew_ch_15.docx": [4157]}
+157	{"Numbers_ch_2.docx": [2589], "Psalms_ch_119.docx": [13221]}

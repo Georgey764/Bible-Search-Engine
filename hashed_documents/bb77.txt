@@ -1,0 +1,4 @@
+
+10	{"1 Chronicles_ch_12.docx": [1273], "2 Chronicles_ch_29.docx": [5899]}
+10	{"1 Chronicles_ch_12.docx": [1273], "2 Chronicles_ch_29.docx": [5899]}
+ 10	{"1 Chronicles_ch_12.docx": [1273]}

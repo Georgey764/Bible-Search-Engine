@@ -1,0 +1,4 @@
+
+autu	{"Jeremiah_ch_40.docx": [2237, 2572, 2572, 2572], "Jeremiah_ch_48.docx": [4243, 4243, 4243]}
+autu	{"Jeremiah_ch_40.docx": [2237, 2572, 2572], "Jeremiah_ch_48.docx": [4243, 4243]}
+autu	{"Jeremiah_ch_40.docx": [2237, 2572], "Jeremiah_ch_48.docx": [4243]}

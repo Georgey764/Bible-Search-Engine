@@ -1,0 +1,4 @@
+
+abner!	{"1 Samuel_ch_26.docx": [2171], "2 Samuel_ch_3.docx": [4707, 4707, 4707]}
+abner!	{"1 Samuel_ch_26.docx": [2171], "2 Samuel_ch_3.docx": [4707, 4707]}
+abner!	{"1 Samuel_ch_26.docx": [2171], "2 Samuel_ch_3.docx": [4707]}

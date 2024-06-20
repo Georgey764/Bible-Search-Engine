@@ -1,0 +1,4 @@
+
+maga	{"Joshua_ch_15.docx": [4823, 6066, 6066], "1 Samuel_ch_14.docx": [238, 238, 238], "Matthew_ch_15.docx": [4587, 4587, 4587]}
+maga	{"Joshua_ch_15.docx": [4823, 6066], "1 Samuel_ch_14.docx": [238, 238], "Matthew_ch_15.docx": [4587, 4587]}
+maga	{"Joshua_ch_15.docx": [4823, 6066], "1 Samuel_ch_14.docx": [238], "Matthew_ch_15.docx": [4587]}

@@ -1,0 +1,4 @@
+
+watere	{"Genesis_ch_2.docx": [829], "Genesis_ch_24.docx": [7094, 7094, 7094], "Genesis_ch_29.docx": [1278, 1278, 1278], "Exodus_ch_2.docx": [2455, 2813, 2455, 2813, 2455, 2813], "Deuteronomy_ch_11.docx": [1385, 1385, 1385], "Judges_ch_1.docx": [2667, 2667, 2667], "Proverbs_ch_11.docx": [2606, 2606, 2606], "1 Corinthians_ch_3.docx": [723, 723]}
+watere	{"Genesis_ch_2.docx": [829], "Genesis_ch_24.docx": [7094, 7094], "Genesis_ch_29.docx": [1278, 1278], "Exodus_ch_2.docx": [2455, 2813, 2455, 2813], "Deuteronomy_ch_11.docx": [1385, 1385], "Judges_ch_1.docx": [2667, 2667], "Proverbs_ch_11.docx": [2606, 2606], "1 Corinthians_ch_3.docx": [723]}
+watere	{"Genesis_ch_2.docx": [829], "Genesis_ch_24.docx": [7094], "Genesis_ch_29.docx": [1278], "Exodus_ch_2.docx": [2455, 2813], "Deuteronomy_ch_11.docx": [1385], "Judges_ch_1.docx": [2667], "Proverbs_ch_11.docx": [2606], "1 Corinthians_ch_3.docx": [723]}

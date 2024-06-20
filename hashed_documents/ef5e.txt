@@ -1,0 +1,4 @@
+
+curi	{"Matthew_ch_4.docx": [2803], "Matthew_ch_9.docx": [4692, 4692, 4692], "Luke_ch_9.docx": [579, 579]}
+curi	{"Matthew_ch_4.docx": [2803], "Matthew_ch_9.docx": [4692, 4692], "Luke_ch_9.docx": [579]}
+curi	{"Matthew_ch_4.docx": [2803], "Matthew_ch_9.docx": [4692], "Luke_ch_9.docx": [579]}

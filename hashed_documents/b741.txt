@@ -1,0 +1,4 @@
+
+quo	{"Exodus_ch_5.docx": [1129, 1912, 2121, 2652, 2771, 1912, 2121, 2652, 2771, 1912, 2121, 2652, 2771], "Romans_ch_9.docx": [2453, 2453], "2 Corinthians_ch_6.docx": [2478, 2478], "Ephesians_ch_5.docx": [1597, 1597], "Titus_ch_1.docx": [1621, 1621], "Hebrews_ch_4.docx": [1211, 1211]}
+quo	{"Exodus_ch_5.docx": [1129, 1912, 2121, 2652, 2771, 1912, 2121, 2652, 2771], "Romans_ch_9.docx": [2453], "2 Corinthians_ch_6.docx": [2478], "Ephesians_ch_5.docx": [1597], "Titus_ch_1.docx": [1621], "Hebrews_ch_4.docx": [1211]}
+quo	{"Exodus_ch_5.docx": [1129, 1912, 2121, 2652, 2771], "Romans_ch_9.docx": [2453], "2 Corinthians_ch_6.docx": [2478], "Ephesians_ch_5.docx": [1597], "Titus_ch_1.docx": [1621], "Hebrews_ch_4.docx": [1211]}

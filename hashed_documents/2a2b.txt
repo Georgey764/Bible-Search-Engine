@@ -1,0 +1,4 @@
+
+ezio	{"2 Chronicles_ch_8.docx": [2527], "2 Chronicles_ch_20.docx": [5995, 5995, 5995]}
+ezio	{"2 Chronicles_ch_8.docx": [2527], "2 Chronicles_ch_20.docx": [5995, 5995]}
+ezio	{"2 Chronicles_ch_8.docx": [2527], "2 Chronicles_ch_20.docx": [5995]}

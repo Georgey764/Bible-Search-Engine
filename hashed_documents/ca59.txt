@@ -1,0 +1,4 @@
+
+passag	{"Nehemiah_ch_2.docx": [1250], "Ezekiel_ch_41.docx": [1319, 1319, 1319]}
+passag	{"Nehemiah_ch_2.docx": [1250], "Ezekiel_ch_41.docx": [1319, 1319]}
+passag	{"Nehemiah_ch_2.docx": [1250], "Ezekiel_ch_41.docx": [1319]}

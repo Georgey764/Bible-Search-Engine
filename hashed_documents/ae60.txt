@@ -1,0 +1,4 @@
+
+weeks	{"Exodus_ch_34.docx": [3292], "Leviticus_ch_23.docx": [1999, 1999, 1999], "Leviticus_ch_25.docx": [997, 997, 997], "Deuteronomy_ch_16.docx": [1415, 1435, 2798, 1415, 1435, 2798, 1415, 1435, 2798], "1 Chronicles_ch_9.docx": [3478, 3478, 3478], "2 Chronicles_ch_8.docx": [1812, 1812, 1812], "Daniel_ch_10.docx": [254, 277, 254, 277, 254, 277]}
+weeks	{"Exodus_ch_34.docx": [3292], "Leviticus_ch_23.docx": [1999, 1999], "Leviticus_ch_25.docx": [997, 997], "Deuteronomy_ch_16.docx": [1415, 1435, 2798, 1415, 1435, 2798], "1 Chronicles_ch_9.docx": [3478, 3478], "2 Chronicles_ch_8.docx": [1812, 1812], "Daniel_ch_10.docx": [254, 277, 254, 277]}
+weeks	{"Exodus_ch_34.docx": [3292], "Leviticus_ch_23.docx": [1999], "Leviticus_ch_25.docx": [997], "Deuteronomy_ch_16.docx": [1415, 1435, 2798], "1 Chronicles_ch_9.docx": [3478], "2 Chronicles_ch_8.docx": [1812], "Daniel_ch_10.docx": [254, 277]}

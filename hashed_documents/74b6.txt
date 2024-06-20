@@ -1,0 +1,4 @@
+
+reded	{"Ezra_ch_6.docx": [3118, 3274, 3274, 3274], "Nehemiah_ch_12.docx": [2808, 2808, 2808], "John_ch_10.docx": [2343, 2343]}
+reded	{"Ezra_ch_6.docx": [3118, 3274, 3274], "Nehemiah_ch_12.docx": [2808, 2808], "John_ch_10.docx": [2343]}
+reded	{"Ezra_ch_6.docx": [3118, 3274], "Nehemiah_ch_12.docx": [2808], "John_ch_10.docx": [2343]}

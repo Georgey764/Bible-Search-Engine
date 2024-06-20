@@ -1,0 +1,7 @@
+
+tides	{"Psalms_ch_93.docx": [438]}
+diblat	{"Jeremiah_ch_48.docx": [2888]}
+tides	{"Psalms_ch_93.docx": [438]}
+diblat	{"Jeremiah_ch_48.docx": [2888]}
+tides	{"Psalms_ch_93.docx": [438]}
+diblat	{"Jeremiah_ch_48.docx": [2888]}

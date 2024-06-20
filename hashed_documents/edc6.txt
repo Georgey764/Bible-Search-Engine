@@ -1,0 +1,4 @@
+
+bend	{"2 Samuel_ch_22.docx": [3822], "2 Kings_ch_5.docx": [3378, 3378, 3378], "Nehemiah_ch_3.docx": [11332, 11332, 11332], "Isaiah_ch_45.docx": [4590, 4590, 4590], "Isaiah_ch_58.docx": [1040, 1040, 1040], "Mark_ch_1.docx": [830, 830], "John_ch_20.docx": [395, 395], "Ephesians_ch_3.docx": [1686, 1686], "Philippians_ch_2.docx": [1041, 1041]}
+bend	{"2 Samuel_ch_22.docx": [3822], "2 Kings_ch_5.docx": [3378, 3378], "Nehemiah_ch_3.docx": [11332, 11332], "Isaiah_ch_45.docx": [4590, 4590], "Isaiah_ch_58.docx": [1040, 1040], "Mark_ch_1.docx": [830], "John_ch_20.docx": [395], "Ephesians_ch_3.docx": [1686], "Philippians_ch_2.docx": [1041]}
+bend	{"2 Samuel_ch_22.docx": [3822], "2 Kings_ch_5.docx": [3378], "Nehemiah_ch_3.docx": [11332], "Isaiah_ch_45.docx": [4590], "Isaiah_ch_58.docx": [1040], "Mark_ch_1.docx": [830], "John_ch_20.docx": [395], "Ephesians_ch_3.docx": [1686], "Philippians_ch_2.docx": [1041]}

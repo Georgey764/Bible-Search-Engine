@@ -1,0 +1,4 @@
+
+jahaz	{"Isaiah_ch_15.docx": [611], "Jeremiah_ch_48.docx": [2813, 4497, 2813, 4497, 2813, 4497]}
+jahaz	{"Isaiah_ch_15.docx": [611], "Jeremiah_ch_48.docx": [2813, 4497, 2813, 4497]}
+jahaz	{"Isaiah_ch_15.docx": [611], "Jeremiah_ch_48.docx": [2813, 4497]}

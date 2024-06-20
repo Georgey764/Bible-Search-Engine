@@ -1,0 +1,4 @@
+
+euma	{"Joshua_ch_15.docx": [5775]}
+36all	{"1 Kings_ch_7.docx": [4748], "2 Kings_ch_15.docx": [5330]}
+euma	{"Joshua_ch_15.docx": [5775]}

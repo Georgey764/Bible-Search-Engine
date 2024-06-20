@@ -1,0 +1,6 @@
+
+blur	{"Proverbs_ch_12.docx": [2235]}
+robes;	{"Revelation_ch_3.docx": [3117]}
+blur	{"Proverbs_ch_12.docx": [2235]}
+blur	{"Proverbs_ch_12.docx": [2235]}
+robes;	{"Revelation_ch_3.docx": [3117]}

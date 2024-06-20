@@ -1,0 +1,7 @@
+
+unnu	{"1 Chronicles_ch_22.docx": [376], "Job_ch_5.docx": [795, 795, 795], "Job_ch_34.docx": [2335, 2335, 2335], "Psalms_ch_40.docx": [699, 699, 699], "Proverbs_ch_7.docx": [2352, 2352, 2352], "Song of Solomon_ch_6.docx": [1153, 1153, 1153]}
+twelve	{"Matthew_ch_10.docx": [9, 202, 599, 202, 599, 202, 599], "Matthew_ch_11.docx": [11, 11, 11], "Mark_ch_8.docx": [2484, 2484], "Luke_ch_8.docx": [20, 20], "John_ch_20.docx": [2977, 2977], "Acts_ch_26.docx": [1252, 1252], "1 Corinthians_ch_15.docx": [269, 269]}
+unnu	{"1 Chronicles_ch_22.docx": [376], "Job_ch_5.docx": [795, 795], "Job_ch_34.docx": [2335, 2335], "Psalms_ch_40.docx": [699, 699], "Proverbs_ch_7.docx": [2352, 2352], "Song of Solomon_ch_6.docx": [1153, 1153]}
+twelve	{"Matthew_ch_10.docx": [9, 202, 599, 202, 599], "Matthew_ch_11.docx": [11, 11], "Mark_ch_8.docx": [2484], "Luke_ch_8.docx": [20], "John_ch_20.docx": [2977], "Acts_ch_26.docx": [1252], "1 Corinthians_ch_15.docx": [269]}
+unnu	{"1 Chronicles_ch_22.docx": [376], "Job_ch_5.docx": [795], "Job_ch_34.docx": [2335], "Psalms_ch_40.docx": [699], "Proverbs_ch_7.docx": [2352], "Song of Solomon_ch_6.docx": [1153]}
+twelve	{"Matthew_ch_10.docx": [9, 202, 599], "Matthew_ch_11.docx": [11], "Mark_ch_8.docx": [2484], "Luke_ch_8.docx": [20], "John_ch_20.docx": [2977], "Acts_ch_26.docx": [1252], "1 Corinthians_ch_15.docx": [269]}

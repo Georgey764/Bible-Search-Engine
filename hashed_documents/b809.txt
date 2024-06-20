@@ -1,0 +1,4 @@
+
+dumbf	{"Genesis_ch_42.docx": [3655], "1 Kings_ch_20.docx": [7809, 7809, 7809], "Matthew_ch_13.docx": [7302, 7302, 7302]}
+dumbf	{"Genesis_ch_42.docx": [3655], "1 Kings_ch_20.docx": [7809, 7809], "Matthew_ch_13.docx": [7302, 7302]}
+dumbf	{"Genesis_ch_42.docx": [3655], "1 Kings_ch_20.docx": [7809], "Matthew_ch_13.docx": [7302]}

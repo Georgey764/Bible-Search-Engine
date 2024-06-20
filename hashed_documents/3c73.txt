@@ -1,0 +1,4 @@
+
+regr	{"Proverbs_ch_11.docx": [194], "Isaiah_ch_45.docx": [3158, 3158, 3158], "Ezekiel_ch_16.docx": [6943, 6943, 6943], "Matthew_ch_27.docx": [231, 231], "2 Corinthians_ch_7.docx": [1257, 1321, 1620, 1257, 1321, 1620]}
+regr	{"Proverbs_ch_11.docx": [194], "Isaiah_ch_45.docx": [3158, 3158], "Ezekiel_ch_16.docx": [6943, 6943], "Matthew_ch_27.docx": [231], "2 Corinthians_ch_7.docx": [1257, 1321, 1620]}
+regr	{"Proverbs_ch_11.docx": [194], "Isaiah_ch_45.docx": [3158], "Ezekiel_ch_16.docx": [6943], "Matthew_ch_27.docx": [231], "2 Corinthians_ch_7.docx": [1257, 1321, 1620]}

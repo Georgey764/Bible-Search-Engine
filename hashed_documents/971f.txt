@@ -1,0 +1,8 @@
+
+obie	{"Judges_ch_6.docx": [2386]}
+ache	{"Job_ch_14.docx": [2386], "Job_ch_16.docx": [513, 513, 513], "Jeremiah_ch_4.docx": [3399, 3399, 3399]}
+obie	{"Judges_ch_6.docx": [2386]}
+ache	{"Job_ch_14.docx": [2386], "Job_ch_16.docx": [513, 513], "Jeremiah_ch_4.docx": [3399, 3399]}
+3ma	{"Psalms_ch_20.docx": [234], "Psalms_ch_41.docx": [294], "Psalms_ch_67.docx": [248], "Psalms_ch_70.docx": [277], "Psalms_ch_72.docx": [198], "Psalms_ch_111.docx": [212], "Psalms_ch_118.docx": [200], "Psalms_ch_134.docx": [312], "Proverbs_ch_3.docx": [229], "Isaiah_ch_2.docx": [283]}
+obie	{"Judges_ch_6.docx": [2386]}
+ache	{"Job_ch_14.docx": [2386], "Job_ch_16.docx": [513], "Jeremiah_ch_4.docx": [3399]}

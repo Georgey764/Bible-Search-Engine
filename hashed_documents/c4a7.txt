@@ -1,0 +1,4 @@
+
+rebuke	{"Psalms_ch_141.docx": [432], "Ezekiel_ch_25.docx": [2910, 2910, 2910], "2 Corinthians_ch_2.docx": [601, 601]}
+rebuke	{"Psalms_ch_141.docx": [432], "Ezekiel_ch_25.docx": [2910, 2910], "2 Corinthians_ch_2.docx": [601]}
+rebuke	{"Psalms_ch_141.docx": [432], "Ezekiel_ch_25.docx": [2910], "2 Corinthians_ch_2.docx": [601]}

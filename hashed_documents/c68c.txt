@@ -1,0 +1,7 @@
+
+laught	{"Genesis_ch_17.docx": [2740], "Genesis_ch_21.docx": [53, 442, 53, 442, 53, 442], "Job_ch_8.docx": [1889, 1889, 1889], "Ecclesiastes_ch_2.docx": [165, 165, 165], "Ecclesiastes_ch_7.docx": [329, 660, 329, 660, 329, 660], "Ecclesiastes_ch_10.docx": [2072, 2072, 2072], "Jeremiah_ch_20.docx": [1269, 1269, 1269], "Lamentations_ch_3.docx": [1060, 1060, 1060], "Amos_ch_7.docx": [1459, 1459, 1459], "Micah_ch_1.docx": [3824, 3824, 3824], "James_ch_4.docx": [1221, 1221]}
+wary	{"Isaiah_ch_10.docx": [4628]}
+laught	{"Genesis_ch_17.docx": [2740], "Genesis_ch_21.docx": [53, 442, 53, 442], "Job_ch_8.docx": [1889, 1889], "Ecclesiastes_ch_2.docx": [165, 165], "Ecclesiastes_ch_7.docx": [329, 660, 329, 660], "Ecclesiastes_ch_10.docx": [2072, 2072], "Jeremiah_ch_20.docx": [1269, 1269], "Lamentations_ch_3.docx": [1060, 1060], "Amos_ch_7.docx": [1459, 1459], "Micah_ch_1.docx": [3824, 3824], "James_ch_4.docx": [1221]}
+wary	{"Isaiah_ch_10.docx": [4628]}
+laught	{"Genesis_ch_17.docx": [2740], "Genesis_ch_21.docx": [53, 442], "Job_ch_8.docx": [1889], "Ecclesiastes_ch_2.docx": [165], "Ecclesiastes_ch_7.docx": [329, 660], "Ecclesiastes_ch_10.docx": [2072], "Jeremiah_ch_20.docx": [1269], "Lamentations_ch_3.docx": [1060], "Amos_ch_7.docx": [1459], "Micah_ch_1.docx": [3824], "James_ch_4.docx": [1221]}
+wary	{"Isaiah_ch_10.docx": [4628]}

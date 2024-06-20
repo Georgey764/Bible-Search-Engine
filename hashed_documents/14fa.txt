@@ -1,0 +1,2 @@
+
+5‘then	{"Leviticus_ch_7.docx": [542], "Leviticus_ch_16.docx": [759], "Leviticus_ch_24.docx": [490], "Leviticus_ch_26.docx": [507], "Deuteronomy_ch_13.docx": [552], "Joshua_ch_8.docx": [592], "Judges_ch_20.docx": [562], "2 Chronicles_ch_35.docx": [907], "Isaiah_ch_16.docx": [691], "Isaiah_ch_27.docx": [561], "Isaiah_ch_29.docx": [609], "Daniel_ch_11.docx": [839], "Zechariah_ch_9.docx": [618], "Malachi_ch_3.docx": [985]}

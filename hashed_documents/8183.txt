@@ -1,0 +1,31 @@
+
+haras	{"Deuteronomy_ch_25.docx": [2274], "Joshua_ch_19.docx": [3753, 3753, 3753], "Judges_ch_2.docx": [1001, 1001, 1001], "1 Chronicles_ch_4.docx": [1541, 1541, 1541], "Luke_ch_3.docx": [4761, 4761]}
+th	{"1 Chronicles_ch_3.docx": [1356]}
+th	{"1 Chronicles_ch_4.docx": [2627]}
+th	{"1 Chronicles_ch_4.docx": [3461]}
+th	{"1 Chronicles_ch_7.docx": [3596]}
+th	{"1 Chronicles_ch_9.docx": [661]}
+th	{"1 Chronicles_ch_9.docx": [1579]}
+th	{"1 Chronicles_ch_9.docx": [1747]}
+th	{"1 Chronicles_ch_9.docx": [4315]}
+th	{"1 Chronicles_ch_26.docx": [1799]}
+haras	{"Deuteronomy_ch_25.docx": [2274], "Joshua_ch_19.docx": [3753, 3753], "Judges_ch_2.docx": [1001, 1001], "1 Chronicles_ch_4.docx": [1541, 1541], "Luke_ch_3.docx": [4761]}
+th	{"1 Chronicles_ch_3.docx": [1356]}
+th	{"1 Chronicles_ch_4.docx": [2627]}
+th	{"1 Chronicles_ch_4.docx": [3461]}
+th	{"1 Chronicles_ch_7.docx": [3596]}
+th	{"1 Chronicles_ch_9.docx": [661]}
+th	{"1 Chronicles_ch_9.docx": [1579]}
+th	{"1 Chronicles_ch_9.docx": [1747]}
+th	{"1 Chronicles_ch_9.docx": [4315]}
+th	{"1 Chronicles_ch_26.docx": [1799]}
+haras	{"Deuteronomy_ch_25.docx": [2274], "Joshua_ch_19.docx": [3753], "Judges_ch_2.docx": [1001], "1 Chronicles_ch_4.docx": [1541], "Luke_ch_3.docx": [4761]}
+th	{"1 Chronicles_ch_3.docx": [1356]}
+th	{"1 Chronicles_ch_4.docx": [2627]}
+th	{"1 Chronicles_ch_4.docx": [3461]}
+th	{"1 Chronicles_ch_7.docx": [3596]}
+th	{"1 Chronicles_ch_9.docx": [661]}
+th	{"1 Chronicles_ch_9.docx": [1579]}
+th	{"1 Chronicles_ch_9.docx": [1747]}
+th	{"1 Chronicles_ch_9.docx": [4315]}
+th	{"1 Chronicles_ch_26.docx": [1799]}

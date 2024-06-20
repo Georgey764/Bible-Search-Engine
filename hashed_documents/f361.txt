@@ -1,0 +1,13 @@
+
+dum	{"Genesis_ch_25.docx": [1438], "Genesis_ch_42.docx": [3655, 3655, 3655], "1 Kings_ch_20.docx": [7809, 7809, 7809], "Isaiah_ch_44.docx": [1789, 1789, 1789], "Isaiah_ch_56.docx": [1817, 1817, 1817], "Matthew_ch_5.docx": [3551, 3587, 3551, 3587, 3551, 3587], "Matthew_ch_13.docx": [7302, 7302, 7302], "Matthew_ch_18.docx": [1159, 1159, 1159], "Matthew_ch_23.docx": [1734, 4186, 1734, 4186, 1734, 4186], "Mark_ch_7.docx": [4102, 4788, 4102, 4788], "Mark_ch_9.docx": [5931, 6221, 6464, 5931, 6221, 6464], "1 Corinthians_ch_12.docx": [35, 35], "James_ch_3.docx": [782, 782]}
+az	{"1 Chronicles_ch_9.docx": [1335], "2 Chronicles_ch_21.docx": [213]}
+az	{"2 Chronicles_ch_21.docx": [249]}
+az	{"2 Chronicles_ch_23.docx": [289]}
+dum	{"Genesis_ch_25.docx": [1438], "Genesis_ch_42.docx": [3655, 3655], "1 Kings_ch_20.docx": [7809, 7809], "Isaiah_ch_44.docx": [1789, 1789], "Isaiah_ch_56.docx": [1817, 1817], "Matthew_ch_5.docx": [3551, 3587, 3551, 3587], "Matthew_ch_13.docx": [7302, 7302], "Matthew_ch_18.docx": [1159, 1159], "Matthew_ch_23.docx": [1734, 4186, 1734, 4186], "Mark_ch_7.docx": [4102, 4788], "Mark_ch_9.docx": [5931, 6221, 6464], "1 Corinthians_ch_12.docx": [35], "James_ch_3.docx": [782]}
+az	{"1 Chronicles_ch_9.docx": [1335], "2 Chronicles_ch_21.docx": [213]}
+az	{"2 Chronicles_ch_21.docx": [249]}
+az	{"2 Chronicles_ch_23.docx": [289]}
+dum	{"Genesis_ch_25.docx": [1438], "Genesis_ch_42.docx": [3655], "1 Kings_ch_20.docx": [7809], "Isaiah_ch_44.docx": [1789], "Isaiah_ch_56.docx": [1817], "Matthew_ch_5.docx": [3551, 3587], "Matthew_ch_13.docx": [7302], "Matthew_ch_18.docx": [1159], "Matthew_ch_23.docx": [1734, 4186], "Mark_ch_7.docx": [4102, 4788], "Mark_ch_9.docx": [5931, 6221, 6464], "1 Corinthians_ch_12.docx": [35], "James_ch_3.docx": [782]}
+az	{"1 Chronicles_ch_9.docx": [1335], "2 Chronicles_ch_21.docx": [213]}
+az	{"2 Chronicles_ch_21.docx": [249]}
+az	{"2 Chronicles_ch_23.docx": [289]}

@@ -1,0 +1,4 @@
+
+firep	{"Jeremiah_ch_36.docx": [3679, 3707, 3707, 3707]}
+firep	{"Jeremiah_ch_36.docx": [3679, 3707, 3707]}
+firep	{"Jeremiah_ch_36.docx": [3679, 3707]}

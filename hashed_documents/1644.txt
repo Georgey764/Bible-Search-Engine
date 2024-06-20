@@ -1,0 +1,4 @@
+
+fewer	{"Leviticus_ch_25.docx": [2345], "2 Kings_ch_14.docx": [4177, 4177, 4177], "Proverbs_ch_17.docx": [1388, 1388, 1388], "Hosea_ch_4.docx": [410, 410, 410], "Romans_ch_5.docx": [769, 769]}
+fewer	{"Leviticus_ch_25.docx": [2345], "2 Kings_ch_14.docx": [4177, 4177], "Proverbs_ch_17.docx": [1388, 1388], "Hosea_ch_4.docx": [410, 410], "Romans_ch_5.docx": [769]}
+fewer	{"Leviticus_ch_25.docx": [2345], "2 Kings_ch_14.docx": [4177], "Proverbs_ch_17.docx": [1388], "Hosea_ch_4.docx": [410], "Romans_ch_5.docx": [769]}

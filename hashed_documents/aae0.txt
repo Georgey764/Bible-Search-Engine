@@ -1,0 +1,2 @@
+
+28they	{"Genesis_ch_34.docx": [3501], "Exodus_ch_35.docx": [2915], "Numbers_ch_18.docx": [4726], "1 Kings_ch_4.docx": [3178], "1 Chronicles_ch_7.docx": [3325], "1 Chronicles_ch_9.docx": [3965], "Psalms_ch_78.docx": [2813]}

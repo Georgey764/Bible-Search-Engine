@@ -1,0 +1,5 @@
+
+elsew	{"Psalms_ch_84.docx": [1021], "Proverbs_ch_20.docx": [27, 27, 27]}
+elsew	{"Psalms_ch_84.docx": [1021], "Proverbs_ch_20.docx": [27, 27]}
+39ye	{"Matthew_ch_24.docx": [4397], "Matthew_ch_25.docx": [4452]}
+elsew	{"Psalms_ch_84.docx": [1021], "Proverbs_ch_20.docx": [27]}

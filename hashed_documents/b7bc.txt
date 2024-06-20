@@ -1,0 +1,4 @@
+
+menstr	{"Leviticus_ch_12.docx": [156], "Leviticus_ch_15.docx": [2635, 4624, 2635, 4624, 2635, 4624], "Leviticus_ch_18.docx": [2333, 2333, 2333], "Leviticus_ch_20.docx": [2608, 2608, 2608], "Isaiah_ch_30.docx": [4038, 4038, 4038], "Isaiah_ch_64.docx": [748, 748, 748], "Ezekiel_ch_18.docx": [766, 766, 766]}
+menstr	{"Leviticus_ch_12.docx": [156], "Leviticus_ch_15.docx": [2635, 4624, 2635, 4624], "Leviticus_ch_18.docx": [2333, 2333], "Leviticus_ch_20.docx": [2608, 2608], "Isaiah_ch_30.docx": [4038, 4038], "Isaiah_ch_64.docx": [748, 748], "Ezekiel_ch_18.docx": [766, 766]}
+menstr	{"Leviticus_ch_12.docx": [156], "Leviticus_ch_15.docx": [2635, 4624], "Leviticus_ch_18.docx": [2333], "Leviticus_ch_20.docx": [2608], "Isaiah_ch_30.docx": [4038], "Isaiah_ch_64.docx": [748], "Ezekiel_ch_18.docx": [766]}

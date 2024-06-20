@@ -1,0 +1,7 @@
+
+unash	{"Genesis_ch_3.docx": [19], "2 Timothy_ch_1.docx": [1526, 1526]}
+shooti	{"2 Samuel_ch_11.docx": [3921]}
+unash	{"Genesis_ch_3.docx": [19], "2 Timothy_ch_1.docx": [1526]}
+shooti	{"2 Samuel_ch_11.docx": [3921]}
+unash	{"Genesis_ch_3.docx": [19], "2 Timothy_ch_1.docx": [1526]}
+shooti	{"2 Samuel_ch_11.docx": [3921]}

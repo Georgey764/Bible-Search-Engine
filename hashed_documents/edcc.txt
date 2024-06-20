@@ -1,0 +1,4 @@
+
+downca	{"Nehemiah_ch_2.docx": [228], "Psalms_ch_42.docx": [1199, 1199, 1199], "Proverbs_ch_15.docx": [1367, 1367, 1367]}
+downca	{"Nehemiah_ch_2.docx": [228], "Psalms_ch_42.docx": [1199, 1199], "Proverbs_ch_15.docx": [1367, 1367]}
+downca	{"Nehemiah_ch_2.docx": [228], "Psalms_ch_42.docx": [1199], "Proverbs_ch_15.docx": [1367]}

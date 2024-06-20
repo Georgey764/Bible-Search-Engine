@@ -1,0 +1,4 @@
+
+mowe	{"Psalms_ch_102.docx": [399], "Jeremiah_ch_9.docx": [3997, 3997, 3997], "Hosea_ch_6.docx": [731, 731, 731]}
+mowe	{"Psalms_ch_102.docx": [399], "Jeremiah_ch_9.docx": [3997, 3997], "Hosea_ch_6.docx": [731, 731]}
+mowe	{"Psalms_ch_102.docx": [399], "Jeremiah_ch_9.docx": [3997], "Hosea_ch_6.docx": [731]}

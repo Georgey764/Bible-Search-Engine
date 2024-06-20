@@ -1,0 +1,5 @@
+
+21:	{"Joshua_ch_21.docx": [526]}
+5[b	{"Psalms_ch_12.docx": [472]}
+10-str	{"Psalms_ch_92.docx": [208]}
+24‘eve	{"Daniel_ch_8.docx": [3548]}

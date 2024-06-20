@@ -1,0 +1,4 @@
+
+seals	{"Exodus_ch_39.docx": [1589], "Revelation_ch_5.docx": [36, 266, 608, 1414, 36, 266, 608, 1414], "Revelation_ch_6.docx": [17, 17]}
+seals	{"Exodus_ch_39.docx": [1589], "Revelation_ch_5.docx": [36, 266, 608, 1414], "Revelation_ch_6.docx": [17]}
+seals	{"Exodus_ch_39.docx": [1589], "Revelation_ch_5.docx": [36, 266, 608, 1414], "Revelation_ch_6.docx": [17]}

@@ -1,0 +1,4 @@
+
+dawns	{"1 Samuel_ch_14.docx": [5777], "Isaiah_ch_9.docx": [1992, 1992, 1992], "2 Peter_ch_1.docx": [2987, 2987]}
+dawns	{"1 Samuel_ch_14.docx": [5777], "Isaiah_ch_9.docx": [1992, 1992], "2 Peter_ch_1.docx": [2987]}
+dawns	{"1 Samuel_ch_14.docx": [5777], "Isaiah_ch_9.docx": [1992], "2 Peter_ch_1.docx": [2987]}

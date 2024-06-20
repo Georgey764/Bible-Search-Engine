@@ -1,0 +1,7 @@
+
+gezow	{"1 Chronicles_ch_2.docx": [4131]}
+readin	{"Nehemiah_ch_8.docx": [3213], "Jeremiah_ch_51.docx": [10540, 10540, 10540], "Acts_ch_8.docx": [6140, 6364, 6445, 6639, 6140, 6364, 6445, 6639], "Acts_ch_13.docx": [3248, 3248], "Acts_ch_15.docx": [6457, 6464, 6472, 6457, 6464, 6472], "1 Timothy_ch_4.docx": [1546, 1546]}
+gezow	{"1 Chronicles_ch_2.docx": [4131]}
+readin	{"Nehemiah_ch_8.docx": [3213], "Jeremiah_ch_51.docx": [10540, 10540], "Acts_ch_8.docx": [6140, 6364, 6445, 6639], "Acts_ch_13.docx": [3248], "Acts_ch_15.docx": [6457, 6464, 6472], "1 Timothy_ch_4.docx": [1546]}
+gezow	{"1 Chronicles_ch_2.docx": [4131]}
+readin	{"Nehemiah_ch_8.docx": [3213], "Jeremiah_ch_51.docx": [10540], "Acts_ch_8.docx": [6140, 6364, 6445, 6639], "Acts_ch_13.docx": [3248], "Acts_ch_15.docx": [6457, 6464, 6472], "1 Timothy_ch_4.docx": [1546]}

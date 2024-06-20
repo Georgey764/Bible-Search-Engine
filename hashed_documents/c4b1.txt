@@ -1,0 +1,4 @@
+
+madnes	{"Job_ch_5.docx": [90], "Ecclesiastes_ch_9.docx": [800, 800, 800], "Hosea_ch_9.docx": [1801, 1801, 1801]}
+madnes	{"Job_ch_5.docx": [90], "Ecclesiastes_ch_9.docx": [800, 800], "Hosea_ch_9.docx": [1801, 1801]}
+madnes	{"Job_ch_5.docx": [90], "Ecclesiastes_ch_9.docx": [800], "Hosea_ch_9.docx": [1801]}

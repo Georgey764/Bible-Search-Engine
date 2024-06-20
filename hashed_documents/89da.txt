@@ -1,0 +1,7 @@
+
+eliso	{"2 Samuel_ch_5.docx": [2171]}
+drags	{"Isaiah_ch_28.docx": [366]}
+eliso	{"2 Samuel_ch_5.docx": [2171]}
+drags	{"Isaiah_ch_28.docx": [366]}
+eliso	{"2 Samuel_ch_5.docx": [2171]}
+drags	{"Isaiah_ch_28.docx": [366]}

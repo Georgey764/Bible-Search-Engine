@@ -1,0 +1,5 @@
+
+sabath	{"Genesis_ch_10.docx": [915, 943, 943, 943], "Numbers_ch_34.docx": [2321, 2321, 2321], "1 Chronicles_ch_1.docx": [535, 535, 535], "1 Chronicles_ch_4.docx": [709, 709, 709]}
+sabath	{"Genesis_ch_10.docx": [915, 943, 943], "Numbers_ch_34.docx": [2321, 2321], "1 Chronicles_ch_1.docx": [535, 535], "1 Chronicles_ch_4.docx": [709, 709]}
+37befo	{"Jeremiah_ch_49.docx": [6458]}
+sabath	{"Genesis_ch_10.docx": [915, 943], "Numbers_ch_34.docx": [2321], "1 Chronicles_ch_1.docx": [535], "1 Chronicles_ch_4.docx": [709]}

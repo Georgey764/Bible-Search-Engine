@@ -1,0 +1,4 @@
+
+city<	{"Nehemiah_ch_11.docx": [2770], "Luke_ch_2.docx": [2440, 2440], "Hebrews_ch_11.docx": [2932, 2932]}
+city<	{"Nehemiah_ch_11.docx": [2770], "Luke_ch_2.docx": [2440], "Hebrews_ch_11.docx": [2932]}
+city<	{"Nehemiah_ch_11.docx": [2770], "Luke_ch_2.docx": [2440], "Hebrews_ch_11.docx": [2932]}

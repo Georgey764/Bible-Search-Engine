@@ -1,0 +1,4 @@
+
+brim	{"Isaiah_ch_1.docx": [2456], "Ezekiel_ch_7.docx": [3983, 3983, 3983], "John_ch_2.docx": [582, 582], "1 Thessalonians_ch_2.docx": [2403, 2403]}
+brim	{"Isaiah_ch_1.docx": [2456], "Ezekiel_ch_7.docx": [3983, 3983], "John_ch_2.docx": [582], "1 Thessalonians_ch_2.docx": [2403]}
+brim	{"Isaiah_ch_1.docx": [2456], "Ezekiel_ch_7.docx": [3983], "John_ch_2.docx": [582], "1 Thessalonians_ch_2.docx": [2403]}

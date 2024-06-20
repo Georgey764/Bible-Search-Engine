@@ -1,0 +1,7 @@
+
+eliat	{"1 Chronicles_ch_25.docx": [746, 2718, 2718, 2718]}
+drown	{"Psalms_ch_52.docx": [469], "Psalms_ch_69.docx": [147, 147, 147], "Psalms_ch_124.docx": [215, 215, 215], "Ezekiel_ch_28.docx": [1055, 1055, 1055], "Matthew_ch_8.docx": [4166, 4166, 4166], "Mark_ch_5.docx": [1273, 1273], "Luke_ch_8.docx": [3455, 4983, 3455, 4983], "Hebrews_ch_11.docx": [5754, 5754], "Revelation_ch_12.docx": [2390, 2390]}
+eliat	{"1 Chronicles_ch_25.docx": [746, 2718, 2718]}
+drown	{"Psalms_ch_52.docx": [469], "Psalms_ch_69.docx": [147, 147], "Psalms_ch_124.docx": [215, 215], "Ezekiel_ch_28.docx": [1055, 1055], "Matthew_ch_8.docx": [4166, 4166], "Mark_ch_5.docx": [1273], "Luke_ch_8.docx": [3455, 4983], "Hebrews_ch_11.docx": [5754], "Revelation_ch_12.docx": [2390]}
+eliat	{"1 Chronicles_ch_25.docx": [746, 2718]}
+drown	{"Psalms_ch_52.docx": [469], "Psalms_ch_69.docx": [147], "Psalms_ch_124.docx": [215], "Ezekiel_ch_28.docx": [1055], "Matthew_ch_8.docx": [4166], "Mark_ch_5.docx": [1273], "Luke_ch_8.docx": [3455, 4983], "Hebrews_ch_11.docx": [5754], "Revelation_ch_12.docx": [2390]}

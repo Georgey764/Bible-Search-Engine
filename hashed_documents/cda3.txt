@@ -1,0 +1,5 @@
+
+unwi	{"Numbers_ch_15.docx": [3611], "Deuteronomy_ch_23.docx": [2830, 2830, 2830], "Jeremiah_ch_6.docx": [1691, 1691, 1691], "Matthew_ch_23.docx": [347, 347, 347], "Luke_ch_11.docx": [5950, 5950], "Luke_ch_14.docx": [3453, 4234, 3453, 4234], "Romans_ch_10.docx": [181, 181]}
+unwi	{"Numbers_ch_15.docx": [3611], "Deuteronomy_ch_23.docx": [2830, 2830], "Jeremiah_ch_6.docx": [1691, 1691], "Matthew_ch_23.docx": [347, 347], "Luke_ch_11.docx": [5950], "Luke_ch_14.docx": [3453, 4234], "Romans_ch_10.docx": [181]}
+4‘no	{"Deuteronomy_ch_9.docx": [630], "Joshua_ch_18.docx": [420], "Joshua_ch_23.docx": [434], "Judges_ch_13.docx": [570], "Job_ch_11.docx": [298], "Job_ch_16.docx": [243], "Job_ch_23.docx": [302], "Lamentations_ch_4.docx": [546], "Ezekiel_ch_29.docx": [473], "Hosea_ch_7.docx": [637]}
+unwi	{"Numbers_ch_15.docx": [3611], "Deuteronomy_ch_23.docx": [2830], "Jeremiah_ch_6.docx": [1691], "Matthew_ch_23.docx": [347], "Luke_ch_11.docx": [5950], "Luke_ch_14.docx": [3453, 4234], "Romans_ch_10.docx": [181]}

@@ -1,0 +1,5 @@
+
+tools	{"Exodus_ch_20.docx": [2883], "Exodus_ch_35.docx": [2424, 2424, 2424], "Exodus_ch_39.docx": [4827, 4827, 4827], "1 Samuel_ch_13.docx": [3414, 3414, 3414], "1 Kings_ch_6.docx": [938, 938, 938], "1 Chronicles_ch_20.docx": [627, 627, 627], "Isaiah_ch_44.docx": [1914, 1914, 1914], "Isaiah_ch_54.docx": [2465, 2465, 2465], "Ezekiel_ch_27.docx": [2895, 2895, 2895], "Zechariah_ch_11.docx": [2784, 2830, 2784, 2830, 2784, 2830]}
+tools	{"Exodus_ch_20.docx": [2883], "Exodus_ch_35.docx": [2424, 2424], "Exodus_ch_39.docx": [4827, 4827], "1 Samuel_ch_13.docx": [3414, 3414], "1 Kings_ch_6.docx": [938, 938], "1 Chronicles_ch_20.docx": [627, 627], "Isaiah_ch_44.docx": [1914, 1914], "Isaiah_ch_54.docx": [2465, 2465], "Ezekiel_ch_27.docx": [2895, 2895], "Zechariah_ch_11.docx": [2784, 2830, 2784, 2830]}
+4‘com	{"Joshua_ch_10.docx": [555]}
+tools	{"Exodus_ch_20.docx": [2883], "Exodus_ch_35.docx": [2424], "Exodus_ch_39.docx": [4827], "1 Samuel_ch_13.docx": [3414], "1 Kings_ch_6.docx": [938], "1 Chronicles_ch_20.docx": [627], "Isaiah_ch_44.docx": [1914], "Isaiah_ch_54.docx": [2465], "Ezekiel_ch_27.docx": [2895], "Zechariah_ch_11.docx": [2784, 2830]}

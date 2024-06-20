@@ -1,0 +1,4 @@
+
+thola	{"Genesis_ch_46.docx": [1568], "Numbers_ch_26.docx": [2059, 2064, 2059, 2064, 2059, 2064], "Joshua_ch_15.docx": [2273, 2273, 2273], "Judges_ch_10.docx": [10, 10, 10], "1 Chronicles_ch_7.docx": [56, 103, 251, 56, 103, 251, 56, 103, 251]}
+thola	{"Genesis_ch_46.docx": [1568], "Numbers_ch_26.docx": [2059, 2064, 2059, 2064], "Joshua_ch_15.docx": [2273, 2273], "Judges_ch_10.docx": [10, 10], "1 Chronicles_ch_7.docx": [56, 103, 251, 56, 103, 251]}
+thola	{"Genesis_ch_46.docx": [1568], "Numbers_ch_26.docx": [2059, 2064], "Joshua_ch_15.docx": [2273], "Judges_ch_10.docx": [10], "1 Chronicles_ch_7.docx": [56, 103, 251]}

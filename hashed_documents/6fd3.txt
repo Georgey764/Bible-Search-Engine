@@ -1,0 +1,7 @@
+
+aki	{"Joshua_ch_15.docx": [5119]}
+pisid	{"Acts_ch_13.docx": [3233]}
+aki	{"Joshua_ch_15.docx": [5119]}
+5‘lyd	{"Ezekiel_ch_30.docx": [510]}
+aki	{"Joshua_ch_15.docx": [5119]}
+pisid	{"Acts_ch_13.docx": [3233]}

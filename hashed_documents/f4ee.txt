@@ -1,0 +1,2 @@
+
+19bu	{"Genesis_ch_17.docx": [2697], "Genesis_ch_48.docx": [2819], "Deuteronomy_ch_2.docx": [2298], "Joshua_ch_10.docx": [7302], "Judges_ch_1.docx": [6548], "1 Samuel_ch_6.docx": [3635], "1 Samuel_ch_19.docx": [2907], "1 Samuel_ch_23.docx": [2804], "2 Samuel_ch_15.docx": [2768], "Nehemiah_ch_2.docx": [4991], "Job_ch_12.docx": [1766], "Psalms_ch_49.docx": [1991], "Psalms_ch_105.docx": [1507], "Ezekiel_ch_33.docx": [3698], "Matthew_ch_8.docx": [2425], "Matthew_ch_10.docx": [2041], "Matthew_ch_11.docx": [1999]}

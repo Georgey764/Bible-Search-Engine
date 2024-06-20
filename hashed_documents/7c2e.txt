@@ -1,0 +1,3 @@
+
+2beca	{"Genesis_ch_12.docx": [71], "Psalms_ch_10.docx": [103], "Psalms_ch_46.docx": [160]}
+49‘i’l	{"Ezekiel_ch_23.docx": [8076]}

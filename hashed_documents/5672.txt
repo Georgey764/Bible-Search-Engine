@@ -1,0 +1,3 @@
+
+2si	{"Deuteronomy_ch_14.docx": [23], "1 Chronicles_ch_24.docx": [266], "Psalms_ch_21.docx": [126], "Psalms_ch_42.docx": [167], "Psalms_ch_43.docx": [132], "Psalms_ch_76.docx": [167], "Psalms_ch_81.docx": [182], "Psalms_ch_105.docx": [108], "Micah_ch_3.docx": [180]}
+2‘f	{"Joshua_ch_13.docx": [176], "1 Samuel_ch_15.docx": [167], "Psalms_ch_120.docx": [167], "Isaiah_ch_41.docx": [224], "Isaiah_ch_65.docx": [179], "Lamentations_ch_4.docx": [169], "Amos_ch_1.docx": [2835], "Amos_ch_4.docx": [481], "Matthew_ch_7.docx": [68]}

@@ -1,0 +1,4 @@
+
+irons	{"Psalms_ch_107.docx": [848], "Mark_ch_5.docx": [245, 257, 245, 257], "Luke_ch_8.docx": [4423, 4423], "1 Timothy_ch_4.docx": [47, 47]}
+irons	{"Psalms_ch_107.docx": [848], "Mark_ch_5.docx": [245, 257], "Luke_ch_8.docx": [4423], "1 Timothy_ch_4.docx": [47]}
+irons	{"Psalms_ch_107.docx": [848], "Mark_ch_5.docx": [245, 257], "Luke_ch_8.docx": [4423], "1 Timothy_ch_4.docx": [47]}

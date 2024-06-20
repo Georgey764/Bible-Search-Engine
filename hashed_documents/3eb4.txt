@@ -1,0 +1,6 @@
+
+ jaso	{"1 Chronicles_ch_4.docx": [3990]}
+puzzl	{"John_ch_4.docx": [3682]}
+ jaso	{"1 Chronicles_ch_4.docx": [3990]}
+ jaso	{"1 Chronicles_ch_4.docx": [3990]}
+puzzl	{"John_ch_4.docx": [3682]}

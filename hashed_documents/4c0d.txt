@@ -1,0 +1,4 @@
+
+dayt	{"Genesis_ch_1.docx": [674], "Deuteronomy_ch_28.docx": [3739, 3739, 3739], "Amos_ch_8.docx": [1459, 1459, 1459], "Micah_ch_2.docx": [120, 120, 120], "Nahum_ch_2.docx": [1138, 1138, 1138], "Luke_ch_21.docx": [4532, 4532], "Romans_ch_13.docx": [2020, 2020], "1 Corinthians_ch_3.docx": [1452, 1452]}
+dayt	{"Genesis_ch_1.docx": [674], "Deuteronomy_ch_28.docx": [3739, 3739], "Amos_ch_8.docx": [1459, 1459], "Micah_ch_2.docx": [120, 120], "Nahum_ch_2.docx": [1138, 1138], "Luke_ch_21.docx": [4532], "Romans_ch_13.docx": [2020], "1 Corinthians_ch_3.docx": [1452]}
+dayt	{"Genesis_ch_1.docx": [674], "Deuteronomy_ch_28.docx": [3739], "Amos_ch_8.docx": [1459], "Micah_ch_2.docx": [120], "Nahum_ch_2.docx": [1138], "Luke_ch_21.docx": [4532], "Romans_ch_13.docx": [2020], "1 Corinthians_ch_3.docx": [1452]}

@@ -1,0 +1,7 @@
+
+zero	{"1 Samuel_ch_9.docx": [19]}
+un-	{"Matthew_ch_9.docx": [2103]}
+zero	{"1 Samuel_ch_9.docx": [19]}
+un-	{"Matthew_ch_9.docx": [2103]}
+zero	{"1 Samuel_ch_9.docx": [19]}
+un-	{"Matthew_ch_9.docx": [2103]}

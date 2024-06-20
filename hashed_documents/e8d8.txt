@@ -1,0 +1,5 @@
+
+listed	{"1 Chronicles_ch_7.docx": [556, 982, 1206, 1475, 982, 1206, 1475, 982, 1206, 1475], "1 Chronicles_ch_11.docx": [4707, 4707, 4707], "Nehemiah_ch_7.docx": [747, 747, 747]}
+listed	{"1 Chronicles_ch_7.docx": [556, 982, 1206, 1475, 982, 1206, 1475], "1 Chronicles_ch_11.docx": [4707, 4707], "Nehemiah_ch_7.docx": [747, 747]}
+12‘wor	{"Ecclesiastes_ch_10.docx": [1221]}
+listed	{"1 Chronicles_ch_7.docx": [556, 982, 1206, 1475], "1 Chronicles_ch_11.docx": [4707], "Nehemiah_ch_7.docx": [747]}

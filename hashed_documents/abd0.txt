@@ -1,0 +1,6 @@
+
+sept	{"1 Samuel_ch_17.docx": [1530, 8681, 8681, 8681], "1 Samuel_ch_18.docx": [19, 19, 19], "1 Chronicles_ch_1.docx": [693, 1338, 693, 1338, 693, 1338], "Job_ch_42.docx": [3444, 4311], "Psalms_ch_51.docx": [2030, 2030, 2030], "Psalms_ch_150.docx": [959, 981], "Proverbs_ch_20.docx": [10, 1991, 2702, 10, 1991, 2702, 10, 1991, 2702], "Jeremiah_ch_27.docx": [53, 53, 53], "Ezekiel_ch_41.docx": [1625, 1625, 1625]}
+35sop	{"Numbers_ch_32.docx": [4943]}
+sept	{"1 Samuel_ch_17.docx": [1530, 8681, 8681], "1 Samuel_ch_18.docx": [19, 19], "1 Chronicles_ch_1.docx": [693, 1338, 693, 1338], "Psalms_ch_51.docx": [2030, 2030], "Proverbs_ch_20.docx": [10, 1991, 2702, 10, 1991, 2702], "Jeremiah_ch_27.docx": [53, 53], "Ezekiel_ch_41.docx": [1625, 1625]}
+45b	{"Psalms_ch_119.docx": [3551]}
+sept	{"1 Samuel_ch_17.docx": [1530, 8681], "1 Samuel_ch_18.docx": [19], "1 Chronicles_ch_1.docx": [693, 1338], "Psalms_ch_51.docx": [2030], "Proverbs_ch_20.docx": [10, 1991, 2702], "Jeremiah_ch_27.docx": [53], "Ezekiel_ch_41.docx": [1625]}

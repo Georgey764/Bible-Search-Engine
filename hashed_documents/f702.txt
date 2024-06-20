@@ -1,0 +1,8 @@
+
+achiel	{"1 Kings_ch_16.docx": [5272]}
+angeli	{"Job_ch_1.docx": [953], "Job_ch_2.docx": [10, 10, 10], "Job_ch_33.docx": [2053, 2053, 2053], "Job_ch_40.docx": [970, 3283, 970, 3283, 970, 3283], "Job_ch_41.docx": [3016, 3016, 3016], "Galatians_ch_3.docx": [3046, 3046], "Galatians_ch_4.docx": [1611, 1611], "2 Thessalonians_ch_1.docx": [1138, 1138], "Hebrews_ch_1.docx": [920, 999, 920, 999], "Hebrews_ch_2.docx": [677, 956, 1411, 677, 956, 1411], "Hebrews_ch_11.docx": [5521, 5521]}
+achiel	{"1 Kings_ch_16.docx": [5272]}
+angeli	{"Job_ch_1.docx": [953], "Job_ch_2.docx": [10, 10], "Job_ch_33.docx": [2053, 2053], "Job_ch_40.docx": [970, 3283, 970, 3283], "Job_ch_41.docx": [3016, 3016], "Galatians_ch_3.docx": [3046], "Galatians_ch_4.docx": [1611], "2 Thessalonians_ch_1.docx": [1138], "Hebrews_ch_1.docx": [920, 999], "Hebrews_ch_2.docx": [677, 956, 1411], "Hebrews_ch_11.docx": [5521]}
+8‘ri	{"Proverbs_ch_8.docx": [604]}
+achiel	{"1 Kings_ch_16.docx": [5272]}
+angeli	{"Job_ch_1.docx": [953], "Job_ch_2.docx": [10], "Job_ch_33.docx": [2053], "Job_ch_40.docx": [970, 3283], "Job_ch_41.docx": [3016], "Galatians_ch_3.docx": [3046], "Galatians_ch_4.docx": [1611], "2 Thessalonians_ch_1.docx": [1138], "Hebrews_ch_1.docx": [920, 999], "Hebrews_ch_2.docx": [677, 956, 1411], "Hebrews_ch_11.docx": [5521]}

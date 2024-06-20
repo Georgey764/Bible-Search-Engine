@@ -1,0 +1,5 @@
+
+lech	{"Judges_ch_15.docx": [1637, 3621, 3621, 3621], "1 Chronicles_ch_4.docx": [2489, 2489, 2489]}
+30c	{"Genesis_ch_36.docx": [3147], "Numbers_ch_4.docx": [3929]}
+lech	{"Judges_ch_15.docx": [1637, 3621, 3621], "1 Chronicles_ch_4.docx": [2489, 2489]}
+lech	{"Judges_ch_15.docx": [1637, 3621], "1 Chronicles_ch_4.docx": [2489]}

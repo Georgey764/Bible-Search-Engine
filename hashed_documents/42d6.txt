@@ -1,0 +1,11 @@
+
+jaun	{"Leviticus_ch_26.docx": [1981], "2 Chronicles_ch_6.docx": [4529, 4529, 4529], "Jeremiah_ch_30.docx": [840, 840, 840], "Amos_ch_4.docx": [2138, 2138, 2138]}
+high-m	{"Proverbs_ch_21.docx": [358], "Ecclesiastes_ch_7.docx": [941, 941, 941], "2 Corinthians_ch_10.docx": [635, 635]}
+mary’s	{"Mark_ch_6.docx": [401], "Luke_ch_1.docx": [4953, 4953], "Luke_ch_2.docx": [3942, 3942]}
+lysan	{"Luke_ch_3.docx": [303, 353, 404, 353, 404]}
+jaun	{"Leviticus_ch_26.docx": [1981], "2 Chronicles_ch_6.docx": [4529, 4529], "Jeremiah_ch_30.docx": [840, 840], "Amos_ch_4.docx": [2138, 2138]}
+high-m	{"Proverbs_ch_21.docx": [358], "Ecclesiastes_ch_7.docx": [941, 941], "2 Corinthians_ch_10.docx": [635]}
+jaun	{"Leviticus_ch_26.docx": [1981], "2 Chronicles_ch_6.docx": [4529], "Jeremiah_ch_30.docx": [840], "Amos_ch_4.docx": [2138]}
+high-m	{"Proverbs_ch_21.docx": [358], "Ecclesiastes_ch_7.docx": [941], "2 Corinthians_ch_10.docx": [635]}
+mary’s	{"Mark_ch_6.docx": [401], "Luke_ch_1.docx": [4953], "Luke_ch_2.docx": [3942]}
+lysan	{"Luke_ch_3.docx": [303, 353, 404]}

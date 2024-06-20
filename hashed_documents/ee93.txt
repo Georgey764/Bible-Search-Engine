@@ -1,0 +1,5 @@
+
+sabi	{"Numbers_ch_13.docx": [1006], "2 Kings_ch_12.docx": [40, 40, 40], "2 Chronicles_ch_24.docx": [27, 27, 27], "Nehemiah_ch_11.docx": [3794, 3794, 3794]}
+sabi	{"Numbers_ch_13.docx": [1006], "2 Kings_ch_12.docx": [40, 40], "2 Chronicles_ch_24.docx": [27, 27], "Nehemiah_ch_11.docx": [3794, 3794]}
+19‘at	{"Daniel_ch_11.docx": [3645]}
+sabi	{"Numbers_ch_13.docx": [1006], "2 Kings_ch_12.docx": [40], "2 Chronicles_ch_24.docx": [27], "Nehemiah_ch_11.docx": [3794]}

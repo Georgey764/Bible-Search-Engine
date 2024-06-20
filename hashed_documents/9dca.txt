@@ -1,0 +1,9 @@
+
+be;	{"Numbers_ch_33.docx": [4315], "Deuteronomy_ch_31.docx": [4606, 4606, 4606], "Job_ch_23.docx": [694, 694, 694], "Isaiah_ch_14.docx": [4006, 4006, 4006], "Ezekiel_ch_26.docx": [3879, 3879, 3879]}
+spanke	{"Jeremiah_ch_2.docx": [5184]}
+be;	{"Numbers_ch_33.docx": [4315], "Deuteronomy_ch_31.docx": [4606, 4606], "Job_ch_23.docx": [694, 694], "Isaiah_ch_14.docx": [4006, 4006], "Ezekiel_ch_26.docx": [3879, 3879]}
+33ja	{"1 Chronicles_ch_7.docx": [4029]}
+4he’s	{"Psalms_ch_103.docx": [313], "Psalms_ch_111.docx": [312], "Psalms_ch_147.docx": [292]}
+spanke	{"Jeremiah_ch_2.docx": [5184]}
+be;	{"Numbers_ch_33.docx": [4315], "Deuteronomy_ch_31.docx": [4606], "Job_ch_23.docx": [694], "Isaiah_ch_14.docx": [4006], "Ezekiel_ch_26.docx": [3879]}
+spanke	{"Jeremiah_ch_2.docx": [5184]}

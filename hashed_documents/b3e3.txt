@@ -1,0 +1,3 @@
+
+153	{"Genesis_ch_32.docx": [1904], "2 Chronicles_ch_2.docx": [3297], "Psalms_ch_119.docx": [12882]}
+3‘wi	{"Job_ch_41.docx": [193], "Isaiah_ch_24.docx": [430], "Isaiah_ch_50.docx": [858]}

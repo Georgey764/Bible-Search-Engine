@@ -1,0 +1,6 @@
+
+jassib	{"Joshua_ch_17.docx": [1110]}
+matc	{"Luke_ch_5.docx": [6479]}
+jassib	{"Joshua_ch_17.docx": [1110]}
+jassib	{"Joshua_ch_17.docx": [1110]}
+matc	{"Luke_ch_5.docx": [6479]}

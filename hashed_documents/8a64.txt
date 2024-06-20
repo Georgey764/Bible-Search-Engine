@@ -1,0 +1,7 @@
+
+slowi	{"2 Samuel_ch_2.docx": [2540]}
+yet!	{"1 Kings_ch_18.docx": [4497], "Romans_ch_14.docx": [2254, 2254]}
+slowi	{"2 Samuel_ch_2.docx": [2540]}
+yet!	{"1 Kings_ch_18.docx": [4497], "Romans_ch_14.docx": [2254]}
+slowi	{"2 Samuel_ch_2.docx": [2540]}
+yet!	{"1 Kings_ch_18.docx": [4497], "Romans_ch_14.docx": [2254]}

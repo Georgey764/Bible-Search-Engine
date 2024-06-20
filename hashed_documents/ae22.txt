@@ -1,0 +1,4 @@
+
+suppos	{"Exodus_ch_10.docx": [4238], "1 Samuel_ch_3.docx": [41, 41, 41], "1 Samuel_ch_20.docx": [888, 888, 888], "Esther_ch_9.docx": [931, 931, 931], "Ezekiel_ch_11.docx": [55, 55, 55], "Mark_ch_9.docx": [1509, 1509], "Acts_ch_21.docx": [6844, 6844], "Romans_ch_7.docx": [1602, 1602], "Hebrews_ch_11.docx": [3633, 3633]}
+suppos	{"Exodus_ch_10.docx": [4238], "1 Samuel_ch_3.docx": [41, 41], "1 Samuel_ch_20.docx": [888, 888], "Esther_ch_9.docx": [931, 931], "Ezekiel_ch_11.docx": [55, 55], "Mark_ch_9.docx": [1509], "Acts_ch_21.docx": [6844], "Romans_ch_7.docx": [1602], "Hebrews_ch_11.docx": [3633]}
+suppos	{"Exodus_ch_10.docx": [4238], "1 Samuel_ch_3.docx": [41], "1 Samuel_ch_20.docx": [888], "Esther_ch_9.docx": [931], "Ezekiel_ch_11.docx": [55], "Mark_ch_9.docx": [1509], "Acts_ch_21.docx": [6844], "Romans_ch_7.docx": [1602], "Hebrews_ch_11.docx": [3633]}

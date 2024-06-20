@@ -1,0 +1,5 @@
+
+stain	{"Psalms_ch_68.docx": [2627], "Isaiah_ch_63.docx": [63, 63, 63], "James_ch_1.docx": [3234, 3234]}
+stain	{"Psalms_ch_68.docx": [2627], "Isaiah_ch_63.docx": [63, 63], "James_ch_1.docx": [3234]}
+161w	{"Psalms_ch_119.docx": [13635]}
+stain	{"Psalms_ch_68.docx": [2627], "Isaiah_ch_63.docx": [63], "James_ch_1.docx": [3234]}

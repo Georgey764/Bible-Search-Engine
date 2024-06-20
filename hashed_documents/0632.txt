@@ -1,0 +1,2 @@
+
+41‘t	{"Leviticus_ch_14.docx": [6178], "Leviticus_ch_23.docx": [6024], "Leviticus_ch_25.docx": [5855], "Deuteronomy_ch_32.docx": [5954], "Jeremiah_ch_32.docx": [7122], "Jeremiah_ch_51.docx": [6796], "Daniel_ch_2.docx": [7024], "Matthew_ch_10.docx": [5189], "Matthew_ch_12.docx": [4989], "Matthew_ch_25.docx": [4780]}

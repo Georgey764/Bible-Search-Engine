@@ -1,0 +1,7 @@
+
+halve	{"Genesis_ch_15.docx": [1240, 1244, 1256, 1244, 1256, 1244, 1256], "1 Kings_ch_3.docx": [4053, 4053, 4053], "Jeremiah_ch_34.docx": [3581, 3581, 3581]}
+ridde	{"Numbers_ch_22.docx": [4214], "2 Kings_ch_19.docx": [3911, 3911, 3911], "Jeremiah_ch_12.docx": [852, 852, 852], "Mark_ch_11.docx": [202, 202], "Luke_ch_19.docx": [3635, 3635]}
+halve	{"Genesis_ch_15.docx": [1240, 1244, 1256, 1244, 1256], "1 Kings_ch_3.docx": [4053, 4053], "Jeremiah_ch_34.docx": [3581, 3581]}
+ridde	{"Numbers_ch_22.docx": [4214], "2 Kings_ch_19.docx": [3911, 3911], "Jeremiah_ch_12.docx": [852, 852], "Mark_ch_11.docx": [202], "Luke_ch_19.docx": [3635]}
+halve	{"Genesis_ch_15.docx": [1240, 1244, 1256], "1 Kings_ch_3.docx": [4053], "Jeremiah_ch_34.docx": [3581]}
+ridde	{"Numbers_ch_22.docx": [4214], "2 Kings_ch_19.docx": [3911], "Jeremiah_ch_12.docx": [852], "Mark_ch_11.docx": [202], "Luke_ch_19.docx": [3635]}

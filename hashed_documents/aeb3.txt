@@ -1,0 +1,4 @@
+
+braids	{"Judges_ch_16.docx": [2558], "Song of Solomon_ch_7.docx": [705, 705, 705], "Revelation_ch_15.docx": [935, 935]}
+braids	{"Judges_ch_16.docx": [2558], "Song of Solomon_ch_7.docx": [705, 705], "Revelation_ch_15.docx": [935]}
+braids	{"Judges_ch_16.docx": [2558], "Song of Solomon_ch_7.docx": [705], "Revelation_ch_15.docx": [935]}

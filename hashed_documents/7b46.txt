@@ -1,0 +1,4 @@
+
+owls	{"Leviticus_ch_11.docx": [1815], "Deuteronomy_ch_14.docx": [1361, 1361, 1361], "1 Samuel_ch_26.docx": [3349, 3349, 3349]}
+owls	{"Leviticus_ch_11.docx": [1815], "Deuteronomy_ch_14.docx": [1361, 1361], "1 Samuel_ch_26.docx": [3349, 3349]}
+owls	{"Leviticus_ch_11.docx": [1815], "Deuteronomy_ch_14.docx": [1361], "1 Samuel_ch_26.docx": [3349]}

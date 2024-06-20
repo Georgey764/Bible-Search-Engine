@@ -1,0 +1,7 @@
+
+outli	{"Exodus_ch_21.docx": [8]}
+forged	{"1 Kings_ch_21.docx": [1265], "Isaiah_ch_41.docx": [1056, 1056, 1056], "Jeremiah_ch_15.docx": [3917, 3917, 3917]}
+outli	{"Exodus_ch_21.docx": [8]}
+forged	{"1 Kings_ch_21.docx": [1265], "Isaiah_ch_41.docx": [1056, 1056], "Jeremiah_ch_15.docx": [3917, 3917]}
+outli	{"Exodus_ch_21.docx": [8]}
+forged	{"1 Kings_ch_21.docx": [1265], "Isaiah_ch_41.docx": [1056], "Jeremiah_ch_15.docx": [3917]}

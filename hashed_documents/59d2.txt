@@ -1,0 +1,5 @@
+
+sorcer	{"Exodus_ch_22.docx": [2770], "Isaiah_ch_47.docx": [1674, 1674, 1674], "Daniel_ch_1.docx": [2813, 2813, 2813], "Daniel_ch_2.docx": [43, 4554, 43, 4554, 43, 4554], "Daniel_ch_4.docx": [454, 454, 454], "Acts_ch_13.docx": [1945, 2108, 1945, 2108], "Revelation_ch_18.docx": [4393, 4393]}
+sorcer	{"Exodus_ch_22.docx": [2770], "Isaiah_ch_47.docx": [1674, 1674], "Daniel_ch_1.docx": [2813, 2813], "Daniel_ch_2.docx": [43, 4554, 43, 4554], "Daniel_ch_4.docx": [454, 454], "Acts_ch_13.docx": [1945, 2108], "Revelation_ch_18.docx": [4393]}
+54,400	{"Numbers_ch_1.docx": [2586], "Numbers_ch_2.docx": [637]}
+sorcer	{"Exodus_ch_22.docx": [2770], "Isaiah_ch_47.docx": [1674], "Daniel_ch_1.docx": [2813], "Daniel_ch_2.docx": [43, 4554], "Daniel_ch_4.docx": [454], "Acts_ch_13.docx": [1945, 2108], "Revelation_ch_18.docx": [4393]}

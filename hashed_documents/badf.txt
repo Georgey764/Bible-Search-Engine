@@ -1,0 +1,4 @@
+
+ebal	{"Deuteronomy_ch_11.docx": [4116], "Deuteronomy_ch_27.docx": [697, 1781, 697, 1781, 697, 1781], "Joshua_ch_8.docx": [3579, 4315, 3579, 4315, 3579, 4315], "1 Chronicles_ch_1.docx": [1832, 1832]}
+ebal	{"Deuteronomy_ch_11.docx": [4116], "Deuteronomy_ch_27.docx": [697, 1781, 697, 1781], "Joshua_ch_8.docx": [3579, 4315, 3579, 4315], "1 Chronicles_ch_1.docx": [1832]}
+ebal	{"Deuteronomy_ch_11.docx": [4116], "Deuteronomy_ch_27.docx": [697, 1781], "Joshua_ch_8.docx": [3579, 4315], "1 Chronicles_ch_1.docx": [1832]}

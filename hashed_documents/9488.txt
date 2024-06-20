@@ -1,0 +1,4 @@
+
+ruddy	{"1 Samuel_ch_16.docx": [2143], "1 Samuel_ch_17.docx": [6376, 6376, 6376]}
+ruddy	{"1 Samuel_ch_16.docx": [2143], "1 Samuel_ch_17.docx": [6376, 6376]}
+ruddy	{"1 Samuel_ch_16.docx": [2143], "1 Samuel_ch_17.docx": [6376]}

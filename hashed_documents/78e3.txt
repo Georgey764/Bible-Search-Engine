@@ -1,0 +1,7 @@
+
+asena	{"Genesis_ch_41.docx": [5719, 6579, 6579, 6579], "Genesis_ch_46.docx": [2283, 2283, 2283]}
+cain’s	{"Hebrews_ch_11.docx": [556]}
+asena	{"Genesis_ch_41.docx": [5719, 6579, 6579], "Genesis_ch_46.docx": [2283, 2283]}
+8ham’s	{"1 Chronicles_ch_1.docx": [431]}
+asena	{"Genesis_ch_41.docx": [5719, 6579], "Genesis_ch_46.docx": [2283]}
+cain’s	{"Hebrews_ch_11.docx": [556]}

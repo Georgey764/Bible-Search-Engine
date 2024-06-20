@@ -1,0 +1,7 @@
+
+zarit	{"1 Kings_ch_4.docx": [3498]}
+unfu	{"Psalms_ch_21.docx": [1028], "Isaiah_ch_33.docx": [3702, 3702, 3702], "Isaiah_ch_56.docx": [1921, 1921, 1921]}
+zarit	{"1 Kings_ch_4.docx": [3498]}
+unfu	{"Psalms_ch_21.docx": [1028], "Isaiah_ch_33.docx": [3702, 3702], "Isaiah_ch_56.docx": [1921, 1921]}
+zarit	{"1 Kings_ch_4.docx": [3498]}
+unfu	{"Psalms_ch_21.docx": [1028], "Isaiah_ch_33.docx": [3702], "Isaiah_ch_56.docx": [1921]}

@@ -1,0 +1,4 @@
+
+beltes	{"Daniel_ch_1.docx": [881], "Daniel_ch_2.docx": [4337, 4337, 4337], "Daniel_ch_4.docx": [894, 1048, 3007, 3434, 3507, 894, 1048, 3007, 3434, 3507, 894, 1048, 3007, 3434, 3507], "Daniel_ch_5.docx": [2207, 2207, 2207], "Daniel_ch_10.docx": [33, 33, 33]}
+beltes	{"Daniel_ch_1.docx": [881], "Daniel_ch_2.docx": [4337, 4337], "Daniel_ch_4.docx": [894, 1048, 3007, 3434, 3507, 894, 1048, 3007, 3434, 3507], "Daniel_ch_5.docx": [2207, 2207], "Daniel_ch_10.docx": [33, 33]}
+beltes	{"Daniel_ch_1.docx": [881], "Daniel_ch_2.docx": [4337], "Daniel_ch_4.docx": [894, 1048, 3007, 3434, 3507], "Daniel_ch_5.docx": [2207], "Daniel_ch_10.docx": [33]}

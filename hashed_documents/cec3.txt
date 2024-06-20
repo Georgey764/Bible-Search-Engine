@@ -1,0 +1,4 @@
+
+fixed	{"Exodus_ch_13.docx": [2490], "Job_ch_41.docx": [2116, 2116, 2116], "Proverbs_ch_16.docx": [3060, 3060, 3060], "Isaiah_ch_48.docx": [2269, 2269, 2269]}
+fixed	{"Exodus_ch_13.docx": [2490], "Job_ch_41.docx": [2116, 2116], "Proverbs_ch_16.docx": [3060, 3060], "Isaiah_ch_48.docx": [2269, 2269]}
+fixed	{"Exodus_ch_13.docx": [2490], "Job_ch_41.docx": [2116], "Proverbs_ch_16.docx": [3060], "Isaiah_ch_48.docx": [2269]}

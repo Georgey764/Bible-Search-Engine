@@ -1,0 +1,4 @@
+
+refere	{"Esther_ch_9.docx": [2708], "Psalms_ch_60.docx": [137, 137, 137], "Acts_ch_4.docx": [1372, 1372], "Romans_ch_10.docx": [722, 975, 722, 975], "Romans_ch_11.docx": [1153, 1153], "Philippians_ch_2.docx": [1721, 1721], "1 Timothy_ch_5.docx": [2450, 2450], "Hebrews_ch_1.docx": [1016, 1016], "James_ch_4.docx": [738, 738]}
+refere	{"Esther_ch_9.docx": [2708], "Psalms_ch_60.docx": [137, 137], "Acts_ch_4.docx": [1372], "Romans_ch_10.docx": [722, 975], "Romans_ch_11.docx": [1153], "Philippians_ch_2.docx": [1721], "1 Timothy_ch_5.docx": [2450], "Hebrews_ch_1.docx": [1016], "James_ch_4.docx": [738]}
+refere	{"Esther_ch_9.docx": [2708], "Psalms_ch_60.docx": [137], "Acts_ch_4.docx": [1372], "Romans_ch_10.docx": [722, 975], "Romans_ch_11.docx": [1153], "Philippians_ch_2.docx": [1721], "1 Timothy_ch_5.docx": [2450], "Hebrews_ch_1.docx": [1016], "James_ch_4.docx": [738]}

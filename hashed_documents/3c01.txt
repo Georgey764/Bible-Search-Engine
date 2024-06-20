@@ -1,0 +1,8 @@
+
+deta	{"Exodus_ch_21.docx": [10], "Exodus_ch_25.docx": [10, 10, 10], "2 Samuel_ch_8.docx": [705, 2067, 705, 2067, 705, 2067], "2 Samuel_ch_11.docx": [2652, 2652, 2652], "2 Chronicles_ch_32.docx": [38, 38, 38], "Esther_ch_4.docx": [889, 889, 889], "Ezekiel_ch_12.docx": [2766, 2766, 2766], "Ezekiel_ch_41.docx": [18, 18, 18], "Acts_ch_8.docx": [6887, 6887], "Acts_ch_21.docx": [5993, 5993]}
+arori	{"1 Chronicles_ch_11.docx": [5225]}
+deta	{"Exodus_ch_21.docx": [10], "Exodus_ch_25.docx": [10, 10], "2 Samuel_ch_8.docx": [705, 2067, 705, 2067], "2 Samuel_ch_11.docx": [2652, 2652], "2 Chronicles_ch_32.docx": [38, 38], "Esther_ch_4.docx": [889, 889], "Ezekiel_ch_12.docx": [2766, 2766], "Ezekiel_ch_41.docx": [18, 18], "Acts_ch_8.docx": [6887], "Acts_ch_21.docx": [5993]}
+arori	{"1 Chronicles_ch_11.docx": [5225]}
+15spa	{"Proverbs_ch_29.docx": [1321]}
+deta	{"Exodus_ch_21.docx": [10], "Exodus_ch_25.docx": [10], "2 Samuel_ch_8.docx": [705, 2067], "2 Samuel_ch_11.docx": [2652], "2 Chronicles_ch_32.docx": [38], "Esther_ch_4.docx": [889], "Ezekiel_ch_12.docx": [2766], "Ezekiel_ch_41.docx": [18], "Acts_ch_8.docx": [6887], "Acts_ch_21.docx": [5993]}
+arori	{"1 Chronicles_ch_11.docx": [5225]}

@@ -1,0 +1,5 @@
+
+sarmo	{"Genesis_ch_10.docx": [2959]}
+sarmo	{"Genesis_ch_10.docx": [2959]}
+52w	{"Numbers_ch_33.docx": [3911], "Judges_ch_9.docx": [9409]}
+sarmo	{"Genesis_ch_10.docx": [2959]}

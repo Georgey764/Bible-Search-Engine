@@ -1,0 +1,7 @@
+
+somani	{"1 Kings_ch_1.docx": [287, 2135, 2135, 2135], "1 Kings_ch_2.docx": [2695, 3298, 2695, 3298, 2695, 3298], "2 Kings_ch_4.docx": [1937, 3840, 5517, 1937, 3840, 5517, 1937, 3840, 5517]}
+dimin	{"Jeremiah_ch_30.docx": [3481]}
+somani	{"1 Kings_ch_1.docx": [287, 2135, 2135], "1 Kings_ch_2.docx": [2695, 3298, 2695, 3298], "2 Kings_ch_4.docx": [1937, 3840, 5517, 1937, 3840, 5517]}
+dimin	{"Jeremiah_ch_30.docx": [3481]}
+somani	{"1 Kings_ch_1.docx": [287, 2135], "1 Kings_ch_2.docx": [2695, 3298], "2 Kings_ch_4.docx": [1937, 3840, 5517]}
+dimin	{"Jeremiah_ch_30.docx": [3481]}

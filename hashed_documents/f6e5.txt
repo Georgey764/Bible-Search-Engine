@@ -1,0 +1,4 @@
+
+curl	{"Song of Solomon_ch_5.docx": [699, 2054, 2054, 2054]}
+curl	{"Song of Solomon_ch_5.docx": [699, 2054, 2054]}
+curl	{"Song of Solomon_ch_5.docx": [699, 2054]}

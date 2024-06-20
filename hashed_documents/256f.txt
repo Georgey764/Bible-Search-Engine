@@ -1,0 +1,7 @@
+
+leha	{"Genesis_ch_10.docx": [1643], "1 Chronicles_ch_1.docx": [980, 980, 980]}
+obed-	{"2 Samuel_ch_6.docx": [1376, 1599, 1688, 1599, 1688, 1599, 1688]}
+leha	{"Genesis_ch_10.docx": [1643], "1 Chronicles_ch_1.docx": [980, 980]}
+obed-	{"2 Samuel_ch_6.docx": [1376, 1599, 1688, 1599, 1688]}
+leha	{"Genesis_ch_10.docx": [1643], "1 Chronicles_ch_1.docx": [980]}
+obed-	{"2 Samuel_ch_6.docx": [1376, 1599, 1688]}

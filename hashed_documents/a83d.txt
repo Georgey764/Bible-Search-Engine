@@ -1,0 +1,4 @@
+
+feasti	{"Esther_ch_8.docx": [2557], "Proverbs_ch_17.docx": [67, 67, 67], "Amos_ch_6.docx": [1779, 1779, 1779]}
+feasti	{"Esther_ch_8.docx": [2557], "Proverbs_ch_17.docx": [67, 67], "Amos_ch_6.docx": [1779, 1779]}
+feasti	{"Esther_ch_8.docx": [2557], "Proverbs_ch_17.docx": [67], "Amos_ch_6.docx": [1779]}

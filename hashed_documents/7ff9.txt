@@ -1,0 +1,5 @@
+
+injury	{"Genesis_ch_26.docx": [2680, 2684, 2684, 2684], "Exodus_ch_21.docx": [3123, 3123, 3123]}
+injury	{"Genesis_ch_26.docx": [2680, 2684, 2684], "Exodus_ch_21.docx": [3123, 3123]}
+18if	{"Deuteronomy_ch_13.docx": [2706], "Ezekiel_ch_14.docx": [3074]}
+injury	{"Genesis_ch_26.docx": [2680, 2684], "Exodus_ch_21.docx": [3123]}

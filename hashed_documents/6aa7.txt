@@ -1,0 +1,6 @@
+
+{‘look	{"Numbers_ch_23.docx": [1212]}
+{‘look	{"Numbers_ch_23.docx": [1212]}
+30mord	{"Esther_ch_9.docx": [3834]}
+8i’ve	{"Psalms_ch_38.docx": [607], "Psalms_ch_69.docx": [1026]}
+{‘look	{"Numbers_ch_23.docx": [1212]}

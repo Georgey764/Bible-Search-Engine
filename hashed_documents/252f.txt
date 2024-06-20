@@ -1,0 +1,5 @@
+
+ginnet	{"Nehemiah_ch_10.docx": [292], "Nehemiah_ch_12.docx": [243, 1411, 243, 1411, 243, 1411]}
+44,5	{"Numbers_ch_26.docx": [2841]}
+ginnet	{"Nehemiah_ch_10.docx": [292], "Nehemiah_ch_12.docx": [243, 1411, 243, 1411]}
+ginnet	{"Nehemiah_ch_10.docx": [292], "Nehemiah_ch_12.docx": [243, 1411]}

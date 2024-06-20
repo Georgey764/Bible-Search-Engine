@@ -1,0 +1,6 @@
+
+jona	{"1 Chronicles_ch_11.docx": [5683]}
+stared	{"Acts_ch_3.docx": [330], "Acts_ch_7.docx": [8091, 8091], "Acts_ch_10.docx": [439, 439], "Acts_ch_11.docx": [962, 962], "1 John_ch_1.docx": [82, 82], "Revelation_ch_12.docx": [1823, 1823]}
+jona	{"1 Chronicles_ch_11.docx": [5683]}
+jona	{"1 Chronicles_ch_11.docx": [5683]}
+stared	{"Acts_ch_3.docx": [330], "Acts_ch_7.docx": [8091], "Acts_ch_10.docx": [439], "Acts_ch_11.docx": [962], "1 John_ch_1.docx": [82], "Revelation_ch_12.docx": [1823]}

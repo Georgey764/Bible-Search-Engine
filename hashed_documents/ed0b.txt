@@ -1,0 +1,4 @@
+
+arad	{"Genesis_ch_10.docx": [2053], "Genesis_ch_36.docx": [3964, 3964, 3964], "Genesis_ch_46.docx": [2741, 2741, 2741], "Numbers_ch_21.docx": [10, 10, 10], "Numbers_ch_33.docx": [3054, 3054, 3054], "Numbers_ch_34.docx": [444, 444, 444], "Joshua_ch_13.docx": [26664, 26664, 26664]}
+arad	{"Genesis_ch_10.docx": [2053], "Genesis_ch_36.docx": [3964, 3964], "Genesis_ch_46.docx": [2741, 2741], "Numbers_ch_21.docx": [10, 10], "Numbers_ch_33.docx": [3054, 3054], "Numbers_ch_34.docx": [444, 444], "Joshua_ch_13.docx": [26664, 26664]}
+arad	{"Genesis_ch_10.docx": [2053], "Genesis_ch_36.docx": [3964], "Genesis_ch_46.docx": [2741], "Numbers_ch_21.docx": [10], "Numbers_ch_33.docx": [3054], "Numbers_ch_34.docx": [444], "Joshua_ch_13.docx": [26664]}

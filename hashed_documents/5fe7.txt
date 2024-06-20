@@ -1,0 +1,4 @@
+
+perce	{"Psalms_ch_82.docx": [383], "Proverbs_ch_1.docx": [396, 712, 396, 712, 396, 712], "Proverbs_ch_2.docx": [302, 870, 302, 870, 302, 870], "Proverbs_ch_3.docx": [1827, 1827, 1827], "Proverbs_ch_5.docx": [133, 133, 133], "Proverbs_ch_10.docx": [1299, 1299, 1299], "Proverbs_ch_18.docx": [1226, 1226, 1226], "Jeremiah_ch_9.docx": [4295, 4295, 4295]}
+perce	{"Psalms_ch_82.docx": [383], "Proverbs_ch_1.docx": [396, 712, 396, 712], "Proverbs_ch_2.docx": [302, 870, 302, 870], "Proverbs_ch_3.docx": [1827, 1827], "Proverbs_ch_5.docx": [133, 133], "Proverbs_ch_10.docx": [1299, 1299], "Proverbs_ch_18.docx": [1226, 1226], "Jeremiah_ch_9.docx": [4295, 4295]}
+perce	{"Psalms_ch_82.docx": [383], "Proverbs_ch_1.docx": [396, 712], "Proverbs_ch_2.docx": [302, 870], "Proverbs_ch_3.docx": [1827], "Proverbs_ch_5.docx": [133], "Proverbs_ch_10.docx": [1299], "Proverbs_ch_18.docx": [1226], "Jeremiah_ch_9.docx": [4295]}

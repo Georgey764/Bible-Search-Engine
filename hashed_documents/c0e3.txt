@@ -1,0 +1,9 @@
+
+posted	{"1 Chronicles_ch_26.docx": [2155], "Nehemiah_ch_4.docx": [1398, 1925, 3574, 1398, 1925, 3574, 1398, 1925, 3574], "Ezekiel_ch_16.docx": [3825, 3825, 3825], "Acts_ch_5.docx": [3313, 3313], "Acts_ch_12.docx": [884, 884], "2 Corinthians_ch_11.docx": [4567, 4567]}
+empty;	{"Ezekiel_ch_6.docx": [737]}
+stake]	{"Ephesians_ch_2.docx": [2102, 2120, 2120], "Philippians_ch_3.docx": [2624, 2624], "Colossians_ch_1.docx": [2568, 2593, 2568, 2593]}
+posted	{"1 Chronicles_ch_26.docx": [2155], "Nehemiah_ch_4.docx": [1398, 1925, 3574, 1398, 1925, 3574], "Ezekiel_ch_16.docx": [3825, 3825], "Acts_ch_5.docx": [3313], "Acts_ch_12.docx": [884], "2 Corinthians_ch_11.docx": [4567]}
+empty;	{"Ezekiel_ch_6.docx": [737]}
+posted	{"1 Chronicles_ch_26.docx": [2155], "Nehemiah_ch_4.docx": [1398, 1925, 3574], "Ezekiel_ch_16.docx": [3825], "Acts_ch_5.docx": [3313], "Acts_ch_12.docx": [884], "2 Corinthians_ch_11.docx": [4567]}
+empty;	{"Ezekiel_ch_6.docx": [737]}
+stake]	{"Ephesians_ch_2.docx": [2102, 2120], "Philippians_ch_3.docx": [2624], "Colossians_ch_1.docx": [2568, 2593]}

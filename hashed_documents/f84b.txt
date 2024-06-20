@@ -1,0 +1,4 @@
+
+pours	{"Leviticus_ch_7.docx": [1702], "Psalms_ch_45.docx": [781, 781, 781], "Psalms_ch_73.docx": [538, 538, 538], "Amos_ch_5.docx": [1706, 1706, 1706], "Romans_ch_5.docx": [506, 506]}
+pours	{"Leviticus_ch_7.docx": [1702], "Psalms_ch_45.docx": [781, 781], "Psalms_ch_73.docx": [538, 538], "Amos_ch_5.docx": [1706, 1706], "Romans_ch_5.docx": [506]}
+pours	{"Leviticus_ch_7.docx": [1702], "Psalms_ch_45.docx": [781], "Psalms_ch_73.docx": [538], "Amos_ch_5.docx": [1706], "Romans_ch_5.docx": [506]}

@@ -1,0 +1,4 @@
+
+greeti	{"Matthew_ch_10.docx": [1306], "Matthew_ch_27.docx": [3553, 3553], "Mark_ch_9.docx": [1815, 1815], "Mark_ch_15.docx": [1589, 1589], "Luke_ch_1.docx": [3617, 4954, 5127, 3617, 4954, 5127], "Luke_ch_11.docx": [5934, 5934]}
+greeti	{"Matthew_ch_10.docx": [1306], "Matthew_ch_27.docx": [3553], "Mark_ch_9.docx": [1815], "Mark_ch_15.docx": [1589], "Luke_ch_1.docx": [3617, 4954, 5127], "Luke_ch_11.docx": [5934]}
+greeti	{"Matthew_ch_10.docx": [1306], "Matthew_ch_27.docx": [3553], "Mark_ch_9.docx": [1815], "Mark_ch_15.docx": [1589], "Luke_ch_1.docx": [3617, 4954, 5127], "Luke_ch_11.docx": [5934]}

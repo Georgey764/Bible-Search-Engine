@@ -1,0 +1,2 @@
+
+8pleas	{"Psalms_ch_51.docx": [978], "Psalms_ch_79.docx": [835], "Proverbs_ch_30.docx": [774]}

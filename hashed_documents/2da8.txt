@@ -1,0 +1,2 @@
+
+24‘b	{"Genesis_ch_2.docx": [3238], "Genesis_ch_49.docx": [2804], "Leviticus_ch_13.docx": [3294], "Leviticus_ch_15.docx": [3238], "Leviticus_ch_19.docx": [3350], "Judges_ch_5.docx": [3492], "1 Samuel_ch_12.docx": [3982], "2 Kings_ch_18.docx": [3999], "Isaiah_ch_1.docx": [3803], "Isaiah_ch_65.docx": [4158], "Jeremiah_ch_7.docx": [3858], "Jeremiah_ch_30.docx": [4121], "Ezekiel_ch_30.docx": [3578]}

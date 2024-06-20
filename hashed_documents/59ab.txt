@@ -1,0 +1,5 @@
+
+penie	{"Genesis_ch_32.docx": [3989, 4135, 4135, 4135]}
+600t	{"Genesis_ch_7.docx": [1339]}
+penie	{"Genesis_ch_32.docx": [3989, 4135, 4135]}
+penie	{"Genesis_ch_32.docx": [3989, 4135]}

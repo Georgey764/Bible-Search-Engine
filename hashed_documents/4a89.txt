@@ -1,0 +1,4 @@
+
+mayb	{"1 Kings_ch_18.docx": [4482], "1 Chronicles_ch_1.docx": [724, 724, 724]}
+mayb	{"1 Kings_ch_18.docx": [4482], "1 Chronicles_ch_1.docx": [724, 724]}
+mayb	{"1 Kings_ch_18.docx": [4482], "1 Chronicles_ch_1.docx": [724]}

@@ -1,0 +1,4 @@
+
+lyd	{"Genesis_ch_10.docx": [1549, 1550, 1550, 1550], "Jeremiah_ch_46.docx": [1277, 1277, 1277], "Ezekiel_ch_27.docx": [1222, 1222, 1222], "Ezekiel_ch_30.docx": [510, 510], "Acts_ch_9.docx": [6458, 6464, 6471, 6458, 6464, 6471], "Acts_ch_16.docx": [4898, 4904, 4911, 4898, 4904, 4911]}
+lyd	{"Genesis_ch_10.docx": [1549, 1550, 1550], "Jeremiah_ch_46.docx": [1277, 1277], "Ezekiel_ch_27.docx": [1222, 1222], "Ezekiel_ch_30.docx": [510], "Acts_ch_9.docx": [6458, 6464, 6471], "Acts_ch_16.docx": [4898, 4904, 4911]}
+lyd	{"Genesis_ch_10.docx": [1549, 1550], "Jeremiah_ch_46.docx": [1277], "Ezekiel_ch_27.docx": [1222], "Ezekiel_ch_30.docx": [510], "Acts_ch_9.docx": [6458, 6464, 6471], "Acts_ch_16.docx": [4898, 4904, 4911]}

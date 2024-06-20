@@ -1,0 +1,7 @@
+
+zebra	{"Job_ch_39.docx": [406], "Jeremiah_ch_48.docx": [706, 706, 706], "Daniel_ch_5.docx": [3861, 3861, 3861]}
+11‘be	{"Job_ch_15.docx": [934], "Jeremiah_ch_30.docx": [1671], "Joel_ch_2.docx": [1841]}
+zebra	{"Job_ch_39.docx": [406], "Jeremiah_ch_48.docx": [706, 706], "Daniel_ch_5.docx": [3861, 3861]}
+78may	{"Psalms_ch_119.docx": [6376]}
+9:1-2	{"Matthew_ch_4.docx": [2031]}
+zebra	{"Job_ch_39.docx": [406], "Jeremiah_ch_48.docx": [706], "Daniel_ch_5.docx": [3861]}

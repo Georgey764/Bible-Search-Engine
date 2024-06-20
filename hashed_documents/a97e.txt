@@ -1,0 +1,4 @@
+
+home!	{"Judges_ch_19.docx": [3973], "1 Kings_ch_1.docx": [7631, 7631, 7631], "1 Kings_ch_14.docx": [2155, 2155, 2155], "Jeremiah_ch_50.docx": [3114, 3114, 3114], "Matthew_ch_9.docx": [816, 816, 816], "Luke_ch_5.docx": [4832, 4832], "Acts_ch_17.docx": [1419, 1419]}
+home!	{"Judges_ch_19.docx": [3973], "1 Kings_ch_1.docx": [7631, 7631], "1 Kings_ch_14.docx": [2155, 2155], "Jeremiah_ch_50.docx": [3114, 3114], "Matthew_ch_9.docx": [816, 816], "Luke_ch_5.docx": [4832], "Acts_ch_17.docx": [1419]}
+home!	{"Judges_ch_19.docx": [3973], "1 Kings_ch_1.docx": [7631], "1 Kings_ch_14.docx": [2155], "Jeremiah_ch_50.docx": [3114], "Matthew_ch_9.docx": [816], "Luke_ch_5.docx": [4832], "Acts_ch_17.docx": [1419]}

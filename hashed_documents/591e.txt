@@ -1,0 +1,4 @@
+
+arem	{"Joshua_ch_20.docx": [1392], "Judges_ch_9.docx": [7781, 7781, 7781]}
+arem	{"Joshua_ch_20.docx": [1392], "Judges_ch_9.docx": [7781, 7781]}
+arem	{"Joshua_ch_20.docx": [1392], "Judges_ch_9.docx": [7781]}

@@ -1,0 +1,4 @@
+
+hardw	{"Proverbs_ch_13.docx": [439], "Proverbs_ch_16.docx": [2662, 2662, 2662], "2 Timothy_ch_2.docx": [387, 387]}
+hardw	{"Proverbs_ch_13.docx": [439], "Proverbs_ch_16.docx": [2662, 2662], "2 Timothy_ch_2.docx": [387]}
+hardw	{"Proverbs_ch_13.docx": [439], "Proverbs_ch_16.docx": [2662], "2 Timothy_ch_2.docx": [387]}

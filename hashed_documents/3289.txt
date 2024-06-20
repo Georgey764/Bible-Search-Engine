@@ -1,0 +1,4 @@
+
+sath	{"Numbers_ch_13.docx": [940], "Judges_ch_3.docx": [5271, 5298, 5327, 5271, 5298, 5327, 5271, 5298, 5327]}
+sath	{"Numbers_ch_13.docx": [940], "Judges_ch_3.docx": [5271, 5298, 5327, 5271, 5298, 5327]}
+sath	{"Numbers_ch_13.docx": [940], "Judges_ch_3.docx": [5271, 5298, 5327]}

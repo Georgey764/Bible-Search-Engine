@@ -1,0 +1,4 @@
+
+evacua	{"Jeremiah_ch_9.docx": [1923]}
+46[	{"Numbers_ch_1.docx": [4067], "Deuteronomy_ch_32.docx": [6950]}
+evacua	{"Jeremiah_ch_9.docx": [1923]}

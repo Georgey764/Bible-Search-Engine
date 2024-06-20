@@ -1,0 +1,5 @@
+
+ita	{"Joshua_ch_15.docx": [5908], "Acts_ch_10.docx": [20, 20], "Acts_ch_18.docx": [428, 458, 489, 428, 458, 489], "Acts_ch_27.docx": [17, 645, 17, 645]}
+ita	{"Joshua_ch_15.docx": [5908], "Acts_ch_10.docx": [20], "Acts_ch_18.docx": [428, 458, 489], "Acts_ch_27.docx": [17, 645]}
+45‘his	{"Daniel_ch_11.docx": [8141]}
+ita	{"Joshua_ch_15.docx": [5908], "Acts_ch_10.docx": [20], "Acts_ch_18.docx": [428, 458, 489], "Acts_ch_27.docx": [17, 645]}

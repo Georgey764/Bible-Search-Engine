@@ -1,0 +1,2 @@
+
+19‘h	{"Exodus_ch_3.docx": [3409], "Exodus_ch_9.docx": [2621], "Leviticus_ch_4.docx": [2624], "Leviticus_ch_5.docx": [3110], "Numbers_ch_22.docx": [2685], "Deuteronomy_ch_3.docx": [2794], "Joshua_ch_2.docx": [2682], "1 Samuel_ch_15.docx": [2769], "2 Samuel_ch_22.docx": [1888], "1 Kings_ch_1.docx": [2559], "2 Chronicles_ch_7.docx": [3280], "Nehemiah_ch_9.docx": [4176], "Job_ch_7.docx": [1883], "Job_ch_40.docx": [3218], "Jeremiah_ch_26.docx": [3344], "Jeremiah_ch_44.docx": [3923]}

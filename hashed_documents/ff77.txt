@@ -1,0 +1,7 @@
+
+mound;	{"Ezekiel_ch_23.docx": [3995]}
+justu	{"Acts_ch_1.docx": [4858], "Acts_ch_18.docx": [3031, 3045, 3031, 3045]}
+75c	{"Exodus_ch_25.docx": [1247, 1760, 2773], "Exodus_ch_26.docx": [1702]}
+mound;	{"Ezekiel_ch_23.docx": [3995]}
+mound;	{"Ezekiel_ch_23.docx": [3995]}
+justu	{"Acts_ch_1.docx": [4858], "Acts_ch_18.docx": [3031, 3045]}

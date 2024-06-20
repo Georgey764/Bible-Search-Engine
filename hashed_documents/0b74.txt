@@ -1,0 +1,4 @@
+
+bolte	{"2 Samuel_ch_6.docx": [749], "1 Chronicles_ch_13.docx": [1382, 1382, 1382], "Job_ch_38.docx": [914, 914, 914]}
+bolte	{"2 Samuel_ch_6.docx": [749], "1 Chronicles_ch_13.docx": [1382, 1382], "Job_ch_38.docx": [914, 914]}
+bolte	{"2 Samuel_ch_6.docx": [749], "1 Chronicles_ch_13.docx": [1382], "Job_ch_38.docx": [914]}

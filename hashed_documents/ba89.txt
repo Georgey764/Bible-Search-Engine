@@ -1,0 +1,4 @@
+
+amoz	{"2 Chronicles_ch_26.docx": [3827], "2 Chronicles_ch_32.docx": [3973, 6186, 3973, 6186, 3973, 6186], "Isaiah_ch_1.docx": [12, 12, 12], "Isaiah_ch_2.docx": [14, 14, 14], "Isaiah_ch_13.docx": [12, 12, 12], "Isaiah_ch_20.docx": [40, 40, 40], "Isaiah_ch_37.docx": [55, 3248, 55, 3248, 55, 3248], "Isaiah_ch_38.docx": [25, 25, 25]}
+amoz	{"2 Chronicles_ch_26.docx": [3827], "2 Chronicles_ch_32.docx": [3973, 6186, 3973, 6186], "Isaiah_ch_1.docx": [12, 12], "Isaiah_ch_2.docx": [14, 14], "Isaiah_ch_13.docx": [12, 12], "Isaiah_ch_20.docx": [40, 40], "Isaiah_ch_37.docx": [55, 3248, 55, 3248], "Isaiah_ch_38.docx": [25, 25]}
+amoz	{"2 Chronicles_ch_26.docx": [3827], "2 Chronicles_ch_32.docx": [3973, 6186], "Isaiah_ch_1.docx": [12], "Isaiah_ch_2.docx": [14], "Isaiah_ch_13.docx": [12], "Isaiah_ch_20.docx": [40], "Isaiah_ch_37.docx": [55, 3248], "Isaiah_ch_38.docx": [25]}

@@ -1,0 +1,4 @@
+
+eliona	{"1 Chronicles_ch_3.docx": [2127, 2167, 2167], "1 Chronicles_ch_8.docx": [1355, 1355], "1 Chronicles_ch_26.docx": [329, 329, 329]}
+eliona	{"1 Chronicles_ch_3.docx": [2127, 2167], "1 Chronicles_ch_26.docx": [329, 329], "1 Chronicles_ch_8.docx": [1355]}
+eliona	{"1 Chronicles_ch_3.docx": [2127, 2167], "1 Chronicles_ch_8.docx": [1355], "1 Chronicles_ch_26.docx": [329]}

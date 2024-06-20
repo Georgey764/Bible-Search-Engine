@@ -1,0 +1,4 @@
+
+chasl	{"Numbers_ch_34.docx": [2095], "Joshua_ch_15.docx": [1419, 1419, 1419]}
+chasl	{"Numbers_ch_34.docx": [2095], "Joshua_ch_15.docx": [1419, 1419]}
+chasl	{"Numbers_ch_34.docx": [2095], "Joshua_ch_15.docx": [1419]}

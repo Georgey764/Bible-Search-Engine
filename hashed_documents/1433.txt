@@ -1,0 +1,5 @@
+
+diggin	{"Genesis_ch_26.docx": [4512], "Ecclesiastes_ch_10.docx": [767, 767, 767], "Ezekiel_ch_39.docx": [2631, 2631, 2631]}
+diggin	{"Genesis_ch_26.docx": [4512], "Ecclesiastes_ch_10.docx": [767, 767], "Ezekiel_ch_39.docx": [2631, 2631]}
+14davi	{"1 Samuel_ch_26.docx": [2076], "2 Samuel_ch_15.docx": [1768]}
+diggin	{"Genesis_ch_26.docx": [4512], "Ecclesiastes_ch_10.docx": [767], "Ezekiel_ch_39.docx": [2631]}

@@ -1,0 +1,5 @@
+
+sank	{"Exodus_ch_14.docx": [4296], "Exodus_ch_15.docx": [587, 1317, 2436, 587, 1317, 2436, 587, 1317, 2436], "Numbers_ch_21.docx": [2480, 2480, 2480]}
+sank	{"Exodus_ch_14.docx": [4296], "Exodus_ch_15.docx": [587, 1317, 2436, 587, 1317, 2436], "Numbers_ch_21.docx": [2480, 2480]}
+6eve	{"Psalms_ch_138.docx": [691]}
+sank	{"Exodus_ch_14.docx": [4296], "Exodus_ch_15.docx": [587, 1317, 2436], "Numbers_ch_21.docx": [2480]}

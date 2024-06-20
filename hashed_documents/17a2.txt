@@ -1,0 +1,2 @@
+
+27‘th	{"Leviticus_ch_13.docx": [3758], "Numbers_ch_2.docx": [2341], "Numbers_ch_4.docx": [3561], "Numbers_ch_18.docx": [4708], "Numbers_ch_29.docx": [3535], "Deuteronomy_ch_4.docx": [4184], "Deuteronomy_ch_11.docx": [3745], "Isaiah_ch_1.docx": [4375], "Jeremiah_ch_23.docx": [4795], "Ezekiel_ch_7.docx": [4599], "Ezekiel_ch_34.docx": [4525], "Ezekiel_ch_43.docx": [4909], "Daniel_ch_7.docx": [5027], "Matthew_ch_13.docx": [3472]}

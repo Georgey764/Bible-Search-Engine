@@ -1,0 +1,4 @@
+
+apartm	{"Song of Solomon_ch_1.docx": [515], "Jeremiah_ch_36.docx": [1295, 1295, 1295]}
+apartm	{"Song of Solomon_ch_1.docx": [515], "Jeremiah_ch_36.docx": [1295, 1295]}
+apartm	{"Song of Solomon_ch_1.docx": [515], "Jeremiah_ch_36.docx": [1295]}

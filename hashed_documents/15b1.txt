@@ -1,0 +1,7 @@
+
+equall	{"Leviticus_ch_7.docx": [1156]}
+pavem	{"2 Chronicles_ch_7.docx": [241], "John_ch_19.docx": [1671, 1671]}
+equall	{"Leviticus_ch_7.docx": [1156]}
+pavem	{"2 Chronicles_ch_7.docx": [241], "John_ch_19.docx": [1671]}
+equall	{"Leviticus_ch_7.docx": [1156]}
+pavem	{"2 Chronicles_ch_7.docx": [241], "John_ch_19.docx": [1671]}

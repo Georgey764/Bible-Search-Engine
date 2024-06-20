@@ -1,0 +1,5 @@
+
+rival	{"Ecclesiastes_ch_4.docx": [558], "Philippians_ch_1.docx": [1740, 1740]}
+33‘n	{"Genesis_ch_44.docx": [4392], "1 Kings_ch_2.docx": [5898], "Job_ch_41.docx": [2957]}
+rival	{"Ecclesiastes_ch_4.docx": [558], "Philippians_ch_1.docx": [1740]}
+rival	{"Ecclesiastes_ch_4.docx": [558], "Philippians_ch_1.docx": [1740]}

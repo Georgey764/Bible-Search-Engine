@@ -1,0 +1,4 @@
+
+perple	{"Isaiah_ch_24.docx": [3033], "Jeremiah_ch_8.docx": [3948, 3948, 3948]}
+perple	{"Isaiah_ch_24.docx": [3033], "Jeremiah_ch_8.docx": [3948, 3948]}
+perple	{"Isaiah_ch_24.docx": [3033], "Jeremiah_ch_8.docx": [3948]}

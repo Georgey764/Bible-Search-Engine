@@ -1,0 +1,4 @@
+
+geddor	{"Joshua_ch_15.docx": [4952]}
+19‘w	{"Judges_ch_19.docx": [3316], "Job_ch_33.docx": [1685], "Job_ch_39.docx": [1692], "Ecclesiastes_ch_7.docx": [2094], "Isaiah_ch_36.docx": [3257], "Daniel_ch_4.docx": [3315], "Matthew_ch_13.docx": [2366]}
+geddor	{"Joshua_ch_15.docx": [4952]}

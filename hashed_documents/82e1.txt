@@ -1,0 +1,4 @@
+
+lagged	{"Judges_ch_8.docx": [502], "1 Corinthians_ch_1.docx": [864, 864]}
+lagged	{"Judges_ch_8.docx": [502], "1 Corinthians_ch_1.docx": [864]}
+lagged	{"Judges_ch_8.docx": [502], "1 Corinthians_ch_1.docx": [864]}

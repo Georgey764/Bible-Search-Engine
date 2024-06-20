@@ -1,0 +1,4 @@
+
+parte	{"Genesis_ch_13.docx": [1229], "Joshua_ch_3.docx": [5583, 5583, 5583], "2 Samuel_ch_1.docx": [3207, 3254, 3207, 3254, 3207, 3254], "1 Kings_ch_18.docx": [823, 823, 823], "2 Kings_ch_2.docx": [861, 861, 861], "Job_ch_37.docx": [1990, 1990, 1990], "Isaiah_ch_51.docx": [1913, 1913, 1913], "Jeremiah_ch_4.docx": [3744, 3744, 3744]}
+parte	{"Genesis_ch_13.docx": [1229], "Joshua_ch_3.docx": [5583, 5583], "2 Samuel_ch_1.docx": [3207, 3254, 3207, 3254], "1 Kings_ch_18.docx": [823, 823], "2 Kings_ch_2.docx": [861, 861], "Job_ch_37.docx": [1990, 1990], "Isaiah_ch_51.docx": [1913, 1913], "Jeremiah_ch_4.docx": [3744, 3744]}
+parte	{"Genesis_ch_13.docx": [1229], "Joshua_ch_3.docx": [5583], "2 Samuel_ch_1.docx": [3207, 3254], "1 Kings_ch_18.docx": [823], "2 Kings_ch_2.docx": [861], "Job_ch_37.docx": [1990], "Isaiah_ch_51.docx": [1913], "Jeremiah_ch_4.docx": [3744]}

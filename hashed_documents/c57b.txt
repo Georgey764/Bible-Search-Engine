@@ -1,0 +1,4 @@
+
+nua	{"Numbers_ch_26.docx": [3880], "Numbers_ch_27.docx": [195, 195, 195], "Joshua_ch_17.docx": [535, 535, 535]}
+nua	{"Numbers_ch_26.docx": [3880], "Numbers_ch_27.docx": [195, 195], "Joshua_ch_17.docx": [535, 535]}
+nua	{"Numbers_ch_26.docx": [3880], "Numbers_ch_27.docx": [195], "Joshua_ch_17.docx": [535]}

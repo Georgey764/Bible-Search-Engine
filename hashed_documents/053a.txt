@@ -1,0 +1,7 @@
+
+traine	{"2 Kings_ch_12.docx": [254], "1 Chronicles_ch_5.docx": [2233, 2233, 2233], "Song of Solomon_ch_3.docx": [1282, 1282, 1282], "Luke_ch_7.docx": [4160, 4160], "Luke_ch_11.docx": [6143, 6304, 7192, 6143, 6304, 7192], "Acts_ch_7.docx": [2909, 2909], "Hebrews_ch_5.docx": [1690, 1690], "2 Peter_ch_2.docx": [2371, 2371]}
+table’	{"Malachi_ch_1.docx": [1269]}
+traine	{"2 Kings_ch_12.docx": [254], "1 Chronicles_ch_5.docx": [2233, 2233], "Song of Solomon_ch_3.docx": [1282, 1282], "Luke_ch_7.docx": [4160], "Luke_ch_11.docx": [6143, 6304, 7192], "Acts_ch_7.docx": [2909], "Hebrews_ch_5.docx": [1690], "2 Peter_ch_2.docx": [2371]}
+table’	{"Malachi_ch_1.docx": [1269]}
+traine	{"2 Kings_ch_12.docx": [254], "1 Chronicles_ch_5.docx": [2233], "Song of Solomon_ch_3.docx": [1282], "Luke_ch_7.docx": [4160], "Luke_ch_11.docx": [6143, 6304, 7192], "Acts_ch_7.docx": [2909], "Hebrews_ch_5.docx": [1690], "2 Peter_ch_2.docx": [2371]}
+table’	{"Malachi_ch_1.docx": [1269]}

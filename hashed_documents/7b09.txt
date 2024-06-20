@@ -1,0 +1,3 @@
+
+61t	{"Genesis_ch_24.docx": [9099], "1 Chronicles_ch_6.docx": [5069], "Nehemiah_ch_7.docx": [3557], "Psalms_ch_78.docx": [5916], "Ezekiel_ch_16.docx": [10049]}
+36jeh	{"Deuteronomy_ch_28.docx": [4911], "2 Kings_ch_23.docx": [7924]}

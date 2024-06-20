@@ -1,0 +1,4 @@
+
+baetha	{"Numbers_ch_32.docx": [4975], "Joshua_ch_15.docx": [5750, 5750, 5750]}
+baetha	{"Numbers_ch_32.docx": [4975], "Joshua_ch_15.docx": [5750, 5750]}
+baetha	{"Numbers_ch_32.docx": [4975], "Joshua_ch_15.docx": [5750]}

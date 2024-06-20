@@ -1,0 +1,4 @@
+
+illumi	{"Numbers_ch_8.docx": [80, 221, 221, 221], "Job_ch_37.docx": [1947, 1947, 1947], "Proverbs_ch_4.docx": [1733, 1733, 1733], "Ephesians_ch_5.docx": [1312, 1312], "2 Peter_ch_1.docx": [2980, 2980]}
+illumi	{"Numbers_ch_8.docx": [80, 221, 221], "Job_ch_37.docx": [1947, 1947], "Proverbs_ch_4.docx": [1733, 1733], "Ephesians_ch_5.docx": [1312], "2 Peter_ch_1.docx": [2980]}
+illumi	{"Numbers_ch_8.docx": [80, 221], "Job_ch_37.docx": [1947], "Proverbs_ch_4.docx": [1733], "Ephesians_ch_5.docx": [1312], "2 Peter_ch_1.docx": [2980]}

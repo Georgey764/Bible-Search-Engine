@@ -1,0 +1,5 @@
+
+suffoc	{"2 Kings_ch_8.docx": [2904], "2 Corinthians_ch_4.docx": [1125, 1136, 1125, 1136]}
+30‘yes	{"1 Samuel_ch_25.docx": [4606], "Isaiah_ch_30.docx": [5389]}
+suffoc	{"2 Kings_ch_8.docx": [2904], "2 Corinthians_ch_4.docx": [1125, 1136]}
+suffoc	{"2 Kings_ch_8.docx": [2904], "2 Corinthians_ch_4.docx": [1125, 1136]}

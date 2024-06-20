@@ -1,0 +1,2 @@
+
+1‘list	{"Deuteronomy_ch_9.docx": [6], "Deuteronomy_ch_32.docx": [6], "Job_ch_33.docx": [6], "Isaiah_ch_51.docx": [6]}

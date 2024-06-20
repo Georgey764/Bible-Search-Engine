@@ -1,0 +1,4 @@
+
+toug	{"2 Samuel_ch_11.docx": [2276], "1 Chronicles_ch_21.docx": [1821, 1821, 1821], "Job_ch_20.docx": [1729, 1729, 1729], "John_ch_6.docx": [7479, 7479], "Titus_ch_1.docx": [1741, 1741]}
+toug	{"2 Samuel_ch_11.docx": [2276], "1 Chronicles_ch_21.docx": [1821, 1821], "Job_ch_20.docx": [1729, 1729], "John_ch_6.docx": [7479], "Titus_ch_1.docx": [1741]}
+toug	{"2 Samuel_ch_11.docx": [2276], "1 Chronicles_ch_21.docx": [1821], "Job_ch_20.docx": [1729], "John_ch_6.docx": [7479], "Titus_ch_1.docx": [1741]}

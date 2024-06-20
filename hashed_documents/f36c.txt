@@ -1,0 +1,4 @@
+
+pointi	{"1 Samuel_ch_19.docx": [513], "Matthew_ch_24.docx": [19, 19, 19]}
+pointi	{"1 Samuel_ch_19.docx": [513], "Matthew_ch_24.docx": [19, 19]}
+pointi	{"1 Samuel_ch_19.docx": [513], "Matthew_ch_24.docx": [19]}

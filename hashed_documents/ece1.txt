@@ -1,0 +1,4 @@
+
+hiss	{"Jeremiah_ch_18.docx": [2160], "Jeremiah_ch_19.docx": [1556, 1556, 1556], "Jeremiah_ch_25.docx": [1597, 2984, 1597, 2984, 1597, 2984], "Jeremiah_ch_29.docx": [2722, 2722, 2722], "Jeremiah_ch_46.docx": [3588, 3588, 3588]}
+hiss	{"Jeremiah_ch_18.docx": [2160], "Jeremiah_ch_19.docx": [1556, 1556], "Jeremiah_ch_25.docx": [1597, 2984, 1597, 2984], "Jeremiah_ch_29.docx": [2722, 2722], "Jeremiah_ch_46.docx": [3588, 3588]}
+hiss	{"Jeremiah_ch_18.docx": [2160], "Jeremiah_ch_19.docx": [1556], "Jeremiah_ch_25.docx": [1597, 2984], "Jeremiah_ch_29.docx": [2722], "Jeremiah_ch_46.docx": [3588]}

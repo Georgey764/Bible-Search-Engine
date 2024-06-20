@@ -1,0 +1,7 @@
+
+nets	{"Psalms_ch_141.docx": [969], "Ecclesiastes_ch_7.docx": [2956, 2956, 2956], "Isaiah_ch_19.docx": [1164, 1164, 1164], "Ezekiel_ch_19.docx": [950, 950, 950], "Ezekiel_ch_26.docx": [745, 745, 745], "Ezekiel_ch_47.docx": [1656, 1656, 1656], "Matthew_ch_4.docx": [2190, 2425, 2521, 2190, 2425, 2521, 2190, 2425, 2521], "Mark_ch_1.docx": [1798, 2020, 2107, 1798, 2020, 2107], "Luke_ch_5.docx": [218, 570, 720, 778, 218, 570, 720, 778]}
+incon	{"Isaiah_ch_3.docx": [1629], "Daniel_ch_5.docx": [924, 924, 924]}
+nets	{"Psalms_ch_141.docx": [969], "Ecclesiastes_ch_7.docx": [2956, 2956], "Isaiah_ch_19.docx": [1164, 1164], "Ezekiel_ch_19.docx": [950, 950], "Ezekiel_ch_26.docx": [745, 745], "Ezekiel_ch_47.docx": [1656, 1656], "Matthew_ch_4.docx": [2190, 2425, 2521, 2190, 2425, 2521], "Mark_ch_1.docx": [1798, 2020, 2107], "Luke_ch_5.docx": [218, 570, 720, 778]}
+incon	{"Isaiah_ch_3.docx": [1629], "Daniel_ch_5.docx": [924, 924]}
+nets	{"Psalms_ch_141.docx": [969], "Ecclesiastes_ch_7.docx": [2956], "Isaiah_ch_19.docx": [1164], "Ezekiel_ch_19.docx": [950], "Ezekiel_ch_26.docx": [745], "Ezekiel_ch_47.docx": [1656], "Matthew_ch_4.docx": [2190, 2425, 2521], "Mark_ch_1.docx": [1798, 2020, 2107], "Luke_ch_5.docx": [218, 570, 720, 778]}
+incon	{"Isaiah_ch_3.docx": [1629], "Daniel_ch_5.docx": [924]}

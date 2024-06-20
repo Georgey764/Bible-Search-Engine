@@ -1,0 +1,4 @@
+
+korah’	{"Exodus_ch_6.docx": [3019, 3078, 3078], "Numbers_ch_26.docx": [1294, 1294, 1294]}
+korah’	{"Exodus_ch_6.docx": [3078, 3078], "Numbers_ch_26.docx": [1294, 1294]}
+korah’	{"Exodus_ch_6.docx": [3019, 3078], "Numbers_ch_26.docx": [1294]}

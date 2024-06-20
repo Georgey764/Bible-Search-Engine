@@ -1,0 +1,4 @@
+
+chopp	{"Psalms_ch_129.docx": [411], "Jeremiah_ch_11.docx": [3052, 3052, 3052], "Jeremiah_ch_46.docx": [2326, 3705, 2326, 3705, 2326, 3705]}
+chopp	{"Psalms_ch_129.docx": [411], "Jeremiah_ch_11.docx": [3052, 3052], "Jeremiah_ch_46.docx": [2326, 3705, 2326, 3705]}
+chopp	{"Psalms_ch_129.docx": [411], "Jeremiah_ch_11.docx": [3052], "Jeremiah_ch_46.docx": [2326, 3705]}

@@ -1,0 +1,3 @@
+
+housek	{"1 Corinthians_ch_4.docx": [24, 33, 33]}
+housek	{"1 Corinthians_ch_4.docx": [24, 33]}

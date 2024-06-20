@@ -1,0 +1,6 @@
+
+darts	{"Numbers_ch_33.docx": [4606], "Joshua_ch_23.docx": [1602, 1602, 1602], "Job_ch_16.docx": [917, 917, 917]}
+35s	{"Exodus_ch_32.docx": [5227], "Leviticus_ch_7.docx": [4779], "Numbers_ch_21.docx": [4940], "Numbers_ch_32.docx": [4943], "Deuteronomy_ch_32.docx": [5043], "Joshua_ch_21.docx": [4278], "Judges_ch_1.docx": [18747], "1 Samuel_ch_20.docx": [5605], "2 Kings_ch_23.docx": [7713], "1 Chronicles_ch_6.docx": [2762], "Psalms_ch_89.docx": [3358], "Proverbs_ch_3.docx": [3378], "Jeremiah_ch_51.docx": [5956], "Matthew_ch_15.docx": [4147]}
+darts	{"Numbers_ch_33.docx": [4606], "Joshua_ch_23.docx": [1602, 1602], "Job_ch_16.docx": [917, 917]}
+6‘m	{"Deuteronomy_ch_33.docx": [628], "Nehemiah_ch_1.docx": [840], "Jeremiah_ch_28.docx": [753]}
+darts	{"Numbers_ch_33.docx": [4606], "Joshua_ch_23.docx": [1602], "Job_ch_16.docx": [917]}

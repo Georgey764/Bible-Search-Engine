@@ -1,0 +1,4 @@
+
+areas	{"Genesis_ch_36.docx": [4164, 4447, 4447, 4447], "Numbers_ch_32.docx": [296, 296, 296], "1 Kings_ch_16.docx": [644, 4211, 644, 4211, 644, 4211], "2 Kings_ch_23.docx": [3533, 3533, 3533], "Esther_ch_9.docx": [937, 937, 937], "Matthew_ch_15.docx": [2212, 2212, 2212], "Luke_ch_6.docx": [2076, 2076], "Acts_ch_18.docx": [6806, 6823, 6841, 6861, 6882, 6806, 6823, 6841, 6861, 6882]}
+areas	{"Genesis_ch_36.docx": [4164, 4447, 4447], "Numbers_ch_32.docx": [296, 296], "1 Kings_ch_16.docx": [644, 4211, 644, 4211], "2 Kings_ch_23.docx": [3533, 3533], "Esther_ch_9.docx": [937, 937], "Matthew_ch_15.docx": [2212, 2212], "Luke_ch_6.docx": [2076], "Acts_ch_18.docx": [6806, 6823, 6841, 6861, 6882]}
+areas	{"Genesis_ch_36.docx": [4164, 4447], "Numbers_ch_32.docx": [296], "1 Kings_ch_16.docx": [644, 4211], "2 Kings_ch_23.docx": [3533], "Esther_ch_9.docx": [937], "Matthew_ch_15.docx": [2212], "Luke_ch_6.docx": [2076], "Acts_ch_18.docx": [6806, 6823, 6841, 6861, 6882]}

@@ -1,0 +1,8 @@
+
+warts	{"Leviticus_ch_22.docx": [3206]}
+crushi	{"Daniel_ch_7.docx": [1098], "Acts_ch_21.docx": [4249, 4271, 4294, 4249, 4271, 4294], "2 Thessalonians_ch_1.docx": [1111, 1111], "Revelation_ch_19.docx": [2521, 2521]}
+58‘but	{"Leviticus_ch_13.docx": [8189]}
+warts	{"Leviticus_ch_22.docx": [3206]}
+crushi	{"Daniel_ch_7.docx": [1098], "Acts_ch_21.docx": [4249, 4271, 4294], "2 Thessalonians_ch_1.docx": [1111], "Revelation_ch_19.docx": [2521]}
+warts	{"Leviticus_ch_22.docx": [3206]}
+crushi	{"Daniel_ch_7.docx": [1098], "Acts_ch_21.docx": [4249, 4271, 4294], "2 Thessalonians_ch_1.docx": [1111], "Revelation_ch_19.docx": [2521]}

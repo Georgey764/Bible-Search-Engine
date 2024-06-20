@@ -1,0 +1,7 @@
+
+ouri	{"1 Chronicles_ch_2.docx": [1697, 1699, 1699, 1699], "1 Chronicles_ch_5.docx": [1729, 1729, 1729], "1 Chronicles_ch_7.docx": [904, 904, 904], "1 Chronicles_ch_15.docx": [596, 1078, 1078, 596, 1078], "2 Chronicles_ch_13.docx": [40, 40, 40], "2 Corinthians_ch_4.docx": [1970, 1970]}
+noch	{"1 Chronicles_ch_4.docx": [2134]}
+ouri	{"1 Chronicles_ch_2.docx": [1697, 1699, 1699], "1 Chronicles_ch_5.docx": [1729, 1729], "1 Chronicles_ch_7.docx": [904, 904], "1 Chronicles_ch_15.docx": [1078, 596, 1078], "2 Chronicles_ch_13.docx": [40, 40], "2 Corinthians_ch_4.docx": [1970]}
+noch	{"1 Chronicles_ch_4.docx": [2134]}
+ouri	{"1 Chronicles_ch_2.docx": [1697, 1699], "1 Chronicles_ch_5.docx": [1729], "1 Chronicles_ch_7.docx": [904], "1 Chronicles_ch_15.docx": [596, 1078], "2 Chronicles_ch_13.docx": [40], "2 Corinthians_ch_4.docx": [1970]}
+noch	{"1 Chronicles_ch_4.docx": [2134]}

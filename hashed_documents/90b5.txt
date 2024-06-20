@@ -1,0 +1,4 @@
+
+egla	{"Numbers_ch_26.docx": [3888], "Numbers_ch_27.docx": [203, 203, 203], "Joshua_ch_17.docx": [543, 543, 543], "Isaiah_ch_15.docx": [1300, 1300, 1300]}
+egla	{"Numbers_ch_26.docx": [3888], "Numbers_ch_27.docx": [203, 203], "Joshua_ch_17.docx": [543, 543], "Isaiah_ch_15.docx": [1300, 1300]}
+egla	{"Numbers_ch_26.docx": [3888], "Numbers_ch_27.docx": [203], "Joshua_ch_17.docx": [543], "Isaiah_ch_15.docx": [1300]}

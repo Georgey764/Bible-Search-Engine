@@ -1,0 +1,4 @@
+
+anxie	{"Deuteronomy_ch_28.docx": [3732], "Jeremiah_ch_15.docx": [1770, 1770, 1770], "2 Corinthians_ch_11.docx": [4076, 4076]}
+anxie	{"Deuteronomy_ch_28.docx": [3732], "Jeremiah_ch_15.docx": [1770, 1770], "2 Corinthians_ch_11.docx": [4076]}
+anxie	{"Deuteronomy_ch_28.docx": [3732], "Jeremiah_ch_15.docx": [1770], "2 Corinthians_ch_11.docx": [4076]}

@@ -1,0 +1,4 @@
+
+sota	{"Ezra_ch_2.docx": [2182], "Nehemiah_ch_7.docx": [3317, 3317, 3317]}
+sota	{"Ezra_ch_2.docx": [2182], "Nehemiah_ch_7.docx": [3317, 3317]}
+sota	{"Ezra_ch_2.docx": [2182], "Nehemiah_ch_7.docx": [3317]}

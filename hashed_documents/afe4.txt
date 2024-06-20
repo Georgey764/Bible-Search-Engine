@@ -1,0 +1,4 @@
+
+earsho	{"Luke_ch_7.docx": [13, 30, 48, 30, 48], "Acts_ch_16.docx": [6925, 6925]}
+43‘but	{"Matthew_ch_13.docx": [5781]}
+earsho	{"Luke_ch_7.docx": [13, 30, 48], "Acts_ch_16.docx": [6925]}

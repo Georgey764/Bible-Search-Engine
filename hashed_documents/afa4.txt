@@ -1,0 +1,7 @@
+
+ravens	{"Leviticus_ch_11.docx": [1862, 1916, 1916], "Deuteronomy_ch_14.docx": [1485, 1485, 1485], "Luke_ch_12.docx": [3048, 3048]}
+diamo	{"Job_ch_28.docx": [1506]}
+ravens	{"Leviticus_ch_11.docx": [1916, 1916], "Deuteronomy_ch_14.docx": [1485, 1485], "Luke_ch_12.docx": [3048]}
+diamo	{"Job_ch_28.docx": [1506]}
+ravens	{"Leviticus_ch_11.docx": [1862, 1916], "Deuteronomy_ch_14.docx": [1485], "Luke_ch_12.docx": [3048]}
+diamo	{"Job_ch_28.docx": [1506]}

@@ -1,0 +1,9 @@
+
+korit	{"1 Chronicles_ch_9.docx": [2615, 4477, 4477, 4477], "1 Chronicles_ch_12.docx": [821, 821, 821]}
+benini	{"Nehemiah_ch_10.docx": [687]}
+damari	{"Acts_ch_17.docx": [6679]}
+korit	{"1 Chronicles_ch_9.docx": [2615, 4477, 4477], "1 Chronicles_ch_12.docx": [821, 821]}
+benini	{"Nehemiah_ch_10.docx": [687]}
+korit	{"1 Chronicles_ch_9.docx": [2615, 4477], "1 Chronicles_ch_12.docx": [821]}
+benini	{"Nehemiah_ch_10.docx": [687]}
+damari	{"Acts_ch_17.docx": [6679]}

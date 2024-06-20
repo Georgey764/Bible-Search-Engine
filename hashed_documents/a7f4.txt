@@ -1,0 +1,2 @@
+
+45an	{"Genesis_ch_27.docx": [5976], "Deuteronomy_ch_32.docx": [6946], "1 Samuel_ch_17.docx": [6779], "1 Kings_ch_7.docx": [5689], "1 Chronicles_ch_2.docx": [3950], "Psalms_ch_78.docx": [4395], "Ezekiel_ch_16.docx": [7183]}

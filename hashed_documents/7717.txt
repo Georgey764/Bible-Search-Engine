@@ -1,0 +1,4 @@
+
+pardon	{"Exodus_ch_10.docx": [2993], "Deuteronomy_ch_29.docx": [2666, 2666, 2666]}
+pardon	{"Exodus_ch_10.docx": [2993], "Deuteronomy_ch_29.docx": [2666, 2666]}
+pardon	{"Exodus_ch_10.docx": [2993], "Deuteronomy_ch_29.docx": [2666]}

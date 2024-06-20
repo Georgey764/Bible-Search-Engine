@@ -1,0 +1,8 @@
+
+asom	{"Genesis_ch_36.docx": [3528, 3611, 3611, 3611], "Joshua_ch_12.docx": [14272, 14272, 14272], "Joshua_ch_15.docx": [4366, 4366, 4366], "1 Chronicles_ch_1.docx": [3767, 3851, 3767, 3851, 3767, 3851], "1 Chronicles_ch_2.docx": [1257, 2414, 2414, 1257, 2414]}
+adrie	{"1 Samuel_ch_18.docx": [2998]}
+asom	{"Genesis_ch_36.docx": [3528, 3611, 3611], "Joshua_ch_12.docx": [14272, 14272], "Joshua_ch_15.docx": [4366, 4366], "1 Chronicles_ch_1.docx": [3767, 3851, 3767, 3851], "1 Chronicles_ch_2.docx": [2414, 1257, 2414]}
+adrie	{"1 Samuel_ch_18.docx": [2998]}
+19sa	{"1 Chronicles_ch_9.docx": [2596]}
+asom	{"Genesis_ch_36.docx": [3528, 3611], "Joshua_ch_12.docx": [14272], "Joshua_ch_15.docx": [4366], "1 Chronicles_ch_1.docx": [3767, 3851], "1 Chronicles_ch_2.docx": [1257, 2414]}
+adrie	{"1 Samuel_ch_18.docx": [2998]}

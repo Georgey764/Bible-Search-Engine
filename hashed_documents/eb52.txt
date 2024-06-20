@@ -1,0 +1,4 @@
+
+choke	{"Matthew_ch_13.docx": [661, 2831, 2831, 2831], "Mark_ch_4.docx": [708, 1952, 708, 1952], "Luke_ch_8.docx": [927, 1898, 927, 1898]}
+choke	{"Matthew_ch_13.docx": [661, 2831, 2831], "Mark_ch_4.docx": [708, 1952], "Luke_ch_8.docx": [927, 1898]}
+choke	{"Matthew_ch_13.docx": [661, 2831], "Mark_ch_4.docx": [708, 1952], "Luke_ch_8.docx": [927, 1898]}

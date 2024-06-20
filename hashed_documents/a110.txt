@@ -1,0 +1,6 @@
+
+stoope	{"John_ch_8.docx": [512, 829, 829], "John_ch_20.docx": [1198, 1198]}
+50‘so	{"Numbers_ch_31.docx": [5188], "Jeremiah_ch_51.docx": [8259]}
+11joi	{"Nehemiah_ch_12.docx": [795]}
+14‘by	{"Malachi_ch_3.docx": [2891]}
+stoope	{"John_ch_8.docx": [512, 829], "John_ch_20.docx": [1198]}

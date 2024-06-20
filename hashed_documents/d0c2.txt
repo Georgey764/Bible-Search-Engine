@@ -1,0 +1,7 @@
+
+arm!	{"Deuteronomy_ch_6.docx": [2851], "2 Kings_ch_17.docx": [6669, 6669, 6669], "Isaiah_ch_51.docx": [1727, 1727, 1727]}
+arm!	{"Deuteronomy_ch_6.docx": [2851], "2 Kings_ch_17.docx": [6669, 6669], "Isaiah_ch_51.docx": [1727, 1727]}
+11p	{"Deuteronomy_ch_8.docx": [1395]}
+6haven	{"Job_ch_22.docx": [441]}
+3‘ins	{"Isaiah_ch_61.docx": [585]}
+arm!	{"Deuteronomy_ch_6.docx": [2851], "2 Kings_ch_17.docx": [6669], "Isaiah_ch_51.docx": [1727]}

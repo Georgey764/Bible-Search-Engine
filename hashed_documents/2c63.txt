@@ -1,0 +1,4 @@
+
+envel	{"Jeremiah_ch_14.docx": [174], "Hebrews_ch_5.docx": [59, 59]}
+envel	{"Jeremiah_ch_14.docx": [174], "Hebrews_ch_5.docx": [59]}
+envel	{"Jeremiah_ch_14.docx": [174], "Hebrews_ch_5.docx": [59]}

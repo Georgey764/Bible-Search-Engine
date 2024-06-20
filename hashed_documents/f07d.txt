@@ -1,0 +1,7 @@
+
+backsi	{"Exodus_ch_26.docx": [2104], "1 Samuel_ch_5.docx": [438, 1069, 1666, 2246, 438, 1069, 1666, 2246, 438, 1069, 1666, 2246], "2 Chronicles_ch_4.docx": [341, 341, 341], "Ezekiel_ch_2.docx": [1425, 1425, 1425], "Ezekiel_ch_8.docx": [2589, 2589, 2589]}
+commen	{"Esther_ch_2.docx": [4273], "Psalms_ch_45.docx": [221, 221, 221], "Proverbs_ch_10.docx": [666, 666, 666], "Daniel_ch_11.docx": [9, 9, 9], "Hosea_ch_8.docx": [1703, 1703, 1703], "Micah_ch_6.docx": [1386, 1386, 1386], "1 Corinthians_ch_4.docx": [618, 618]}
+backsi	{"Exodus_ch_26.docx": [2104], "1 Samuel_ch_5.docx": [438, 1069, 1666, 2246, 438, 1069, 1666, 2246], "2 Chronicles_ch_4.docx": [341, 341], "Ezekiel_ch_2.docx": [1425, 1425], "Ezekiel_ch_8.docx": [2589, 2589]}
+commen	{"Esther_ch_2.docx": [4273], "Psalms_ch_45.docx": [221, 221], "Proverbs_ch_10.docx": [666, 666], "Daniel_ch_11.docx": [9, 9], "Hosea_ch_8.docx": [1703, 1703], "Micah_ch_6.docx": [1386, 1386], "1 Corinthians_ch_4.docx": [618]}
+backsi	{"Exodus_ch_26.docx": [2104], "1 Samuel_ch_5.docx": [438, 1069, 1666, 2246], "2 Chronicles_ch_4.docx": [341], "Ezekiel_ch_2.docx": [1425], "Ezekiel_ch_8.docx": [2589]}
+commen	{"Esther_ch_2.docx": [4273], "Psalms_ch_45.docx": [221], "Proverbs_ch_10.docx": [666], "Daniel_ch_11.docx": [9], "Hosea_ch_8.docx": [1703], "Micah_ch_6.docx": [1386], "1 Corinthians_ch_4.docx": [618]}

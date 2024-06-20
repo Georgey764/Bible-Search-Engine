@@ -1,0 +1,5 @@
+
+ready;	{"Judges_ch_7.docx": [2594], "Ezekiel_ch_38.docx": [1076, 1076, 1076], "Matthew_ch_24.docx": [5185, 5185, 5185]}
+ready;	{"Judges_ch_7.docx": [2594], "Ezekiel_ch_38.docx": [1076, 1076], "Matthew_ch_24.docx": [5185, 5185]}
+24here	{"1 Chronicles_ch_5.docx": [3064]}
+ready;	{"Judges_ch_7.docx": [2594], "Ezekiel_ch_38.docx": [1076], "Matthew_ch_24.docx": [5185]}

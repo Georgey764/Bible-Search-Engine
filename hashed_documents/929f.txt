@@ -1,0 +1,3 @@
+
+piety	{"2 Peter_ch_1.docx": [1100, 1133, 1133]}
+piety	{"2 Peter_ch_1.docx": [1100, 1133]}

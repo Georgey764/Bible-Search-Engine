@@ -1,0 +1,7 @@
+
+saby	{"Genesis_ch_14.docx": [2417]}
+withst	{"Psalms_ch_147.docx": [1558], "Nahum_ch_1.docx": [1527, 1527, 1527]}
+saby	{"Genesis_ch_14.docx": [2417]}
+withst	{"Psalms_ch_147.docx": [1558], "Nahum_ch_1.docx": [1527, 1527]}
+saby	{"Genesis_ch_14.docx": [2417]}
+withst	{"Psalms_ch_147.docx": [1558], "Nahum_ch_1.docx": [1527]}

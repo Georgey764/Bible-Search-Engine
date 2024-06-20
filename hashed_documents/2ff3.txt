@@ -1,0 +1,3 @@
+
+arist	{"Acts_ch_19.docx": [8878, 8892, 8907, 8892, 8907], "Acts_ch_20.docx": [1871, 1871], "Acts_ch_27.docx": [222, 222]}
+arist	{"Acts_ch_19.docx": [8878, 8892, 8907], "Acts_ch_20.docx": [1871], "Acts_ch_27.docx": [222]}

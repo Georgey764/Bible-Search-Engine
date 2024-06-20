@@ -1,0 +1,4 @@
+
+jerous	{"2 Kings_ch_15.docx": [4850], "2 Chronicles_ch_27.docx": [27, 27, 27]}
+jerous	{"2 Kings_ch_15.docx": [4850], "2 Chronicles_ch_27.docx": [27, 27]}
+jerous	{"2 Kings_ch_15.docx": [4850], "2 Chronicles_ch_27.docx": [27]}

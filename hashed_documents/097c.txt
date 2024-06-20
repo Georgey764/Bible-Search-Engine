@@ -1,0 +1,7 @@
+
+moths!	{"Job_ch_13.docx": [2548], "Isaiah_ch_50.docx": [1893, 1893, 1893]}
+tyre!	{"Ezekiel_ch_28.docx": [102]}
+moths!	{"Job_ch_13.docx": [2548], "Isaiah_ch_50.docx": [1893, 1893]}
+tyre!	{"Ezekiel_ch_28.docx": [102]}
+moths!	{"Job_ch_13.docx": [2548], "Isaiah_ch_50.docx": [1893]}
+tyre!	{"Ezekiel_ch_28.docx": [102]}

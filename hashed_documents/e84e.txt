@@ -1,0 +1,4 @@
+
+seph	{"2 Kings_ch_17.docx": [4296, 5740, 5740, 5740], "2 Kings_ch_18.docx": [5810, 5810, 5810], "2 Kings_ch_19.docx": [2129, 2129, 2129], "1 Chronicles_ch_8.docx": [260, 260, 260], "1 Chronicles_ch_27.docx": [3771, 3771, 3771], "Isaiah_ch_37.docx": [1935, 1935, 1935]}
+seph	{"2 Kings_ch_17.docx": [4296, 5740, 5740], "2 Kings_ch_18.docx": [5810, 5810], "2 Kings_ch_19.docx": [2129, 2129], "1 Chronicles_ch_8.docx": [260, 260], "1 Chronicles_ch_27.docx": [3771, 3771], "Isaiah_ch_37.docx": [1935, 1935]}
+seph	{"2 Kings_ch_17.docx": [4296, 5740], "2 Kings_ch_18.docx": [5810], "2 Kings_ch_19.docx": [2129], "1 Chronicles_ch_8.docx": [260], "1 Chronicles_ch_27.docx": [3771], "Isaiah_ch_37.docx": [1935]}

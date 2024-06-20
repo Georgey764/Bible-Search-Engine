@@ -1,0 +1,5 @@
+
+engli	{"Job_ch_42.docx": [3456], "Ezekiel_ch_41.docx": [521], "John_ch_1.docx": [4596, 4596]}
+16eli	{"2 Samuel_ch_5.docx": [2206]}
+engli	{"Ezekiel_ch_41.docx": [521], "John_ch_1.docx": [4596]}
+engli	{"Ezekiel_ch_41.docx": [521], "John_ch_1.docx": [4596]}

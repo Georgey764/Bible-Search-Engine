@@ -1,0 +1,2 @@
+
+24‘so	{"Exodus_ch_32.docx": [3517], "Numbers_ch_32.docx": [3207], "Deuteronomy_ch_2.docx": [3229], "2 Samuel_ch_7.docx": [3536], "1 Kings_ch_20.docx": [4041], "Isaiah_ch_45.docx": [4584], "Jeremiah_ch_13.docx": [4034], "Ezekiel_ch_7.docx": [4138], "Ezekiel_ch_17.docx": [4493], "Daniel_ch_5.docx": [4881], "Matthew_ch_11.docx": [2907]}

@@ -1,0 +1,4 @@
+
+sevent	{"Genesis_ch_2.docx": [153, 220, 220, 220], "1 Kings_ch_18.docx": [7375, 7375, 7375], "Job_ch_5.docx": [1725, 1725, 1725], "Matthew_ch_18.docx": [3026, 3026, 3026], "Hebrews_ch_4.docx": [724, 914, 724, 914]}
+sevent	{"Genesis_ch_2.docx": [153, 220, 220], "1 Kings_ch_18.docx": [7375, 7375], "Job_ch_5.docx": [1725, 1725], "Matthew_ch_18.docx": [3026, 3026], "Hebrews_ch_4.docx": [724, 914]}
+sevent	{"Genesis_ch_2.docx": [153, 220], "1 Kings_ch_18.docx": [7375], "Job_ch_5.docx": [1725], "Matthew_ch_18.docx": [3026], "Hebrews_ch_4.docx": [724, 914]}

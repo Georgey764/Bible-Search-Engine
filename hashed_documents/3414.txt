@@ -1,0 +1,4 @@
+
+weavin	{"Exodus_ch_38.docx": [2606], "Leviticus_ch_13.docx": [6714, 7124, 7328, 7488, 7776, 8058, 8193, 8342, 6714, 7124, 7328, 7488, 7776, 8058, 8193, 8342, 6714, 7124, 7328, 7488, 7776, 8058, 8193, 8342], "1 Samuel_ch_17.docx": [763, 763, 763], "2 Samuel_ch_21.docx": [3706, 3706, 3706], "1 Chronicles_ch_11.docx": [4481, 4481, 4481], "1 Chronicles_ch_20.docx": [1041, 1041, 1041]}
+weavin	{"Exodus_ch_38.docx": [2606], "Leviticus_ch_13.docx": [6714, 7124, 7328, 7488, 7776, 8058, 8193, 8342, 6714, 7124, 7328, 7488, 7776, 8058, 8193, 8342], "1 Samuel_ch_17.docx": [763, 763], "2 Samuel_ch_21.docx": [3706, 3706], "1 Chronicles_ch_11.docx": [4481, 4481], "1 Chronicles_ch_20.docx": [1041, 1041]}
+weavin	{"Exodus_ch_38.docx": [2606], "Leviticus_ch_13.docx": [6714, 7124, 7328, 7488, 7776, 8058, 8193, 8342], "1 Samuel_ch_17.docx": [763], "2 Samuel_ch_21.docx": [3706], "1 Chronicles_ch_11.docx": [4481], "1 Chronicles_ch_20.docx": [1041]}

@@ -1,0 +1,3 @@
+
+24you	{"Deuteronomy_ch_5.docx": [2812], "Deuteronomy_ch_12.docx": [4238], "Deuteronomy_ch_22.docx": [3189], "Psalms_ch_73.docx": [2054]}
+5‘ble	{"Matthew_ch_5.docx": [313]}

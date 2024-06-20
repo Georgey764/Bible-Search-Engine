@@ -1,0 +1,4 @@
+
+joys	{"Psalms_ch_137.docx": [614], "Isaiah_ch_14.docx": [1735, 1735, 1735]}
+joys	{"Psalms_ch_137.docx": [614], "Isaiah_ch_14.docx": [1735, 1735]}
+joys	{"Psalms_ch_137.docx": [614], "Isaiah_ch_14.docx": [1735]}

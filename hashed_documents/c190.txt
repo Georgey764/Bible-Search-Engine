@@ -1,0 +1,4 @@
+
+women!	{"Genesis_ch_31.docx": [4685], "2 Kings_ch_8.docx": [2423, 2423, 2423], "2 Kings_ch_15.docx": [2154, 2154, 2154], "Ecclesiastes_ch_7.docx": [3389, 3389, 3389]}
+women!	{"Genesis_ch_31.docx": [4685], "2 Kings_ch_8.docx": [2423, 2423], "2 Kings_ch_15.docx": [2154, 2154], "Ecclesiastes_ch_7.docx": [3389, 3389]}
+women!	{"Genesis_ch_31.docx": [4685], "2 Kings_ch_8.docx": [2423], "2 Kings_ch_15.docx": [2154], "Ecclesiastes_ch_7.docx": [3389]}

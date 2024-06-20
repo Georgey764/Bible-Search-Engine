@@ -1,0 +1,4 @@
+
+self-c	{"Exodus_ch_12.docx": [2917], "Acts_ch_24.docx": [4292, 4292], "1 Corinthians_ch_7.docx": [830, 4919, 830, 4919], "Galatians_ch_5.docx": [2865, 2865], "Titus_ch_1.docx": [1070, 1070], "2 Peter_ch_1.docx": [1025, 1066, 1025, 1066]}
+self-c	{"Exodus_ch_12.docx": [2917], "Acts_ch_24.docx": [4292], "1 Corinthians_ch_7.docx": [830, 4919], "Galatians_ch_5.docx": [2865], "Titus_ch_1.docx": [1070], "2 Peter_ch_1.docx": [1025, 1066]}
+self-c	{"Exodus_ch_12.docx": [2917], "Acts_ch_24.docx": [4292], "1 Corinthians_ch_7.docx": [830, 4919], "Galatians_ch_5.docx": [2865], "Titus_ch_1.docx": [1070], "2 Peter_ch_1.docx": [1025, 1066]}

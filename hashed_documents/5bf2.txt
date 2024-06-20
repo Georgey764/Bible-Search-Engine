@@ -1,0 +1,4 @@
+
+unheal	{"Isaiah_ch_1.docx": [956], "1 Corinthians_ch_11.docx": [3677, 3677]}
+unheal	{"Isaiah_ch_1.docx": [956], "1 Corinthians_ch_11.docx": [3677]}
+unheal	{"Isaiah_ch_1.docx": [956], "1 Corinthians_ch_11.docx": [3677]}

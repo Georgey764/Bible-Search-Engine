@@ -1,0 +1,4 @@
+
+maz	{"Genesis_ch_36.docx": [4384], "1 Chronicles_ch_1.docx": [3052, 3052, 3052], "Job_ch_38.docx": [2995, 2995, 2995]}
+maz	{"Genesis_ch_36.docx": [4384], "1 Chronicles_ch_1.docx": [3052, 3052], "Job_ch_38.docx": [2995, 2995]}
+maz	{"Genesis_ch_36.docx": [4384], "1 Chronicles_ch_1.docx": [3052], "Job_ch_38.docx": [2995]}

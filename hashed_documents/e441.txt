@@ -1,0 +1,4 @@
+
+swif	{"2 Samuel_ch_1.docx": [3287], "Ecclesiastes_ch_9.docx": [2423, 2423, 2423], "Isaiah_ch_8.docx": [484, 484, 484], "Isaiah_ch_16.docx": [931, 931, 931], "Isaiah_ch_19.docx": [60, 60, 60], "Isaiah_ch_51.docx": [822, 822, 822], "Jeremiah_ch_8.docx": [3050, 3050, 3050], "Malachi_ch_3.docx": [1081, 1081, 1081], "2 Peter_ch_2.docx": [35, 35]}
+swif	{"2 Samuel_ch_1.docx": [3287], "Ecclesiastes_ch_9.docx": [2423, 2423], "Isaiah_ch_8.docx": [484, 484], "Isaiah_ch_16.docx": [931, 931], "Isaiah_ch_19.docx": [60, 60], "Isaiah_ch_51.docx": [822, 822], "Jeremiah_ch_8.docx": [3050, 3050], "Malachi_ch_3.docx": [1081, 1081], "2 Peter_ch_2.docx": [35]}
+swif	{"2 Samuel_ch_1.docx": [3287], "Ecclesiastes_ch_9.docx": [2423], "Isaiah_ch_8.docx": [484], "Isaiah_ch_16.docx": [931], "Isaiah_ch_19.docx": [60], "Isaiah_ch_51.docx": [822], "Jeremiah_ch_8.docx": [3050], "Malachi_ch_3.docx": [1081], "2 Peter_ch_2.docx": [35]}

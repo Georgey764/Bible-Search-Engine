@@ -1,0 +1,4 @@
+
+lobe	{"Exodus_ch_6.docx": [2333], "Leviticus_ch_7.docx": [477, 4128, 477, 4128, 477, 4128], "Numbers_ch_3.docx": [2432, 2662, 2432, 2662, 2432, 2662], "Numbers_ch_26.docx": [6020, 6020, 6020], "1 Chronicles_ch_6.docx": [1179, 1388, 2062, 2071, 1179, 1388, 2062, 2071, 1179, 1388, 2062, 2071]}
+lobe	{"Exodus_ch_6.docx": [2333], "Leviticus_ch_7.docx": [477, 4128, 477, 4128], "Numbers_ch_3.docx": [2432, 2662, 2432, 2662], "Numbers_ch_26.docx": [6020, 6020], "1 Chronicles_ch_6.docx": [1179, 1388, 2062, 2071, 1179, 1388, 2062, 2071]}
+lobe	{"Exodus_ch_6.docx": [2333], "Leviticus_ch_7.docx": [477, 4128], "Numbers_ch_3.docx": [2432, 2662], "Numbers_ch_26.docx": [6020], "1 Chronicles_ch_6.docx": [1179, 1388, 2062, 2071]}

@@ -1,0 +1,5 @@
+
+strugg	{"Genesis_ch_30.docx": [964], "2 Samuel_ch_1.docx": [420, 420, 420], "Philippians_ch_1.docx": [4052, 4060, 4052, 4060], "Colossians_ch_1.docx": [4375, 4375], "Colossians_ch_2.docx": [12, 32, 53, 12, 32, 53], "1 Timothy_ch_4.docx": [1098, 1098]}
+strugg	{"Genesis_ch_30.docx": [964], "2 Samuel_ch_1.docx": [420, 420], "Philippians_ch_1.docx": [4052, 4060], "Colossians_ch_1.docx": [4375], "Colossians_ch_2.docx": [12, 32, 53], "1 Timothy_ch_4.docx": [1098]}
+24ai	{"Joshua_ch_21.docx": [2916]}
+strugg	{"Genesis_ch_30.docx": [964], "2 Samuel_ch_1.docx": [420], "Philippians_ch_1.docx": [4052, 4060], "Colossians_ch_1.docx": [4375], "Colossians_ch_2.docx": [12, 32, 53], "1 Timothy_ch_4.docx": [1098]}

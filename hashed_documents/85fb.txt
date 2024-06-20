@@ -1,0 +1,5 @@
+
+affo	{"Leviticus_ch_5.docx": [964, 1591, 1591, 1591], "Leviticus_ch_12.docx": [1239, 1239, 1239], "Leviticus_ch_14.docx": [3264, 3313, 4739, 5003, 3264, 3313, 4739, 5003, 3264, 3313, 4739, 5003], "Numbers_ch_6.docx": [3459, 3459, 3459], "Acts_ch_11.docx": [7906, 7906]}
+affo	{"Leviticus_ch_5.docx": [964, 1591, 1591], "Leviticus_ch_12.docx": [1239, 1239], "Leviticus_ch_14.docx": [3264, 3313, 4739, 5003, 3264, 3313, 4739, 5003], "Numbers_ch_6.docx": [3459, 3459], "Acts_ch_11.docx": [7906]}
+142th	{"Psalms_ch_119.docx": [11906]}
+affo	{"Leviticus_ch_5.docx": [964, 1591], "Leviticus_ch_12.docx": [1239], "Leviticus_ch_14.docx": [3264, 3313, 4739, 5003], "Numbers_ch_6.docx": [3459], "Acts_ch_11.docx": [7906]}

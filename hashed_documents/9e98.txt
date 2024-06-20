@@ -1,0 +1,5 @@
+
+faring	{"1 Thessalonians_ch_3.docx": [536]}
+10[	{"Genesis_ch_41.docx": [1125], "Numbers_ch_1.docx": [935], "Numbers_ch_7.docx": [1197], "Psalms_ch_25.docx": [894], "Psalms_ch_46.docx": [915], "Song of Solomon_ch_5.docx": [1906], "Jeremiah_ch_12.docx": [1603], "Jeremiah_ch_42.docx": [1379], "Hosea_ch_7.docx": [1635], "Hosea_ch_9.docx": [1993], "Hosea_ch_11.docx": [1620]}
+8davi	{"1 Samuel_ch_24.docx": [1136]}
+faring	{"1 Thessalonians_ch_3.docx": [536]}

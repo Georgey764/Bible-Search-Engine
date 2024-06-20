@@ -1,0 +1,4 @@
+
+gemst	{"Genesis_ch_2.docx": [1617], "Exodus_ch_35.docx": [901, 1352, 2789, 3491, 901, 1352, 2789, 3491, 901, 1352, 2789, 3491]}
+gemst	{"Genesis_ch_2.docx": [1617], "Exodus_ch_35.docx": [901, 1352, 2789, 3491, 901, 1352, 2789, 3491]}
+gemst	{"Genesis_ch_2.docx": [1617], "Exodus_ch_35.docx": [901, 1352, 2789, 3491]}

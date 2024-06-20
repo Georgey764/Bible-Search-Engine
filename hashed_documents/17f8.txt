@@ -1,0 +1,4 @@
+
+sabij	{"2 Kings_ch_12.docx": [40], "2 Chronicles_ch_24.docx": [27, 27, 27], "Nehemiah_ch_11.docx": [3794, 3794, 3794]}
+sabij	{"2 Kings_ch_12.docx": [40], "2 Chronicles_ch_24.docx": [27, 27], "Nehemiah_ch_11.docx": [3794, 3794]}
+sabij	{"2 Kings_ch_12.docx": [40], "2 Chronicles_ch_24.docx": [27], "Nehemiah_ch_11.docx": [3794]}

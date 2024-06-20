@@ -1,0 +1,4 @@
+
+funera	{"2 Samuel_ch_3.docx": [4718, 5207, 5207, 5207], "2 Kings_ch_13.docx": [3445, 3445, 3445], "2 Chronicles_ch_16.docx": [2280, 2280, 2280], "2 Chronicles_ch_21.docx": [3014, 3014, 3014], "Ecclesiastes_ch_7.docx": [143, 429, 143, 429, 143, 429], "Jeremiah_ch_16.docx": [697, 697, 697], "Ezekiel_ch_24.docx": [1255, 1255, 1255], "Nahum_ch_1.docx": [2812, 2812, 2812]}
+funera	{"2 Samuel_ch_3.docx": [4718, 5207, 5207], "2 Kings_ch_13.docx": [3445, 3445], "2 Chronicles_ch_16.docx": [2280, 2280], "2 Chronicles_ch_21.docx": [3014, 3014], "Ecclesiastes_ch_7.docx": [143, 429, 143, 429], "Jeremiah_ch_16.docx": [697, 697], "Ezekiel_ch_24.docx": [1255, 1255], "Nahum_ch_1.docx": [2812, 2812]}
+funera	{"2 Samuel_ch_3.docx": [4718, 5207], "2 Kings_ch_13.docx": [3445], "2 Chronicles_ch_16.docx": [2280], "2 Chronicles_ch_21.docx": [3014], "Ecclesiastes_ch_7.docx": [143, 429], "Jeremiah_ch_16.docx": [697], "Ezekiel_ch_24.docx": [1255], "Nahum_ch_1.docx": [2812]}

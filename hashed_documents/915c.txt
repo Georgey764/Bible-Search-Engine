@@ -1,0 +1,4 @@
+
+advo	{"John_ch_14.docx": [1793, 3029, 3029], "John_ch_15.docx": [3241, 3241], "John_ch_16.docx": [628, 628], "1 John_ch_2.docx": [126, 126]}
+1don	{"Psalms_ch_115.docx": [31], "Proverbs_ch_27.docx": [4]}
+advo	{"John_ch_14.docx": [1793, 3029], "John_ch_15.docx": [3241], "John_ch_16.docx": [628], "1 John_ch_2.docx": [126]}

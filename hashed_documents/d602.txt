@@ -1,0 +1,4 @@
+
+empire	{"2 Chronicles_ch_32.docx": [36], "Jeremiah_ch_29.docx": [425, 425, 425], "Jeremiah_ch_40.docx": [47, 47, 47], "Daniel_ch_3.docx": [5573, 5573, 5573]}
+empire	{"2 Chronicles_ch_32.docx": [36], "Jeremiah_ch_29.docx": [425, 425], "Jeremiah_ch_40.docx": [47, 47], "Daniel_ch_3.docx": [5573, 5573]}
+empire	{"2 Chronicles_ch_32.docx": [36], "Jeremiah_ch_29.docx": [425], "Jeremiah_ch_40.docx": [47], "Daniel_ch_3.docx": [5573]}

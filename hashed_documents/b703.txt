@@ -1,0 +1,4 @@
+
+jeda	{"Ezra_ch_2.docx": [1409], "Nehemiah_ch_3.docx": [3516, 3516, 3516], "Nehemiah_ch_7.docx": [2414, 2414, 2414], "Nehemiah_ch_11.docx": [1577, 1577, 1577], "Nehemiah_ch_12.docx": [329, 379, 1738, 1934, 329, 379, 1738, 1934, 329, 379, 1738, 1934]}
+jeda	{"Ezra_ch_2.docx": [1409], "Nehemiah_ch_3.docx": [3516, 3516], "Nehemiah_ch_7.docx": [2414, 2414], "Nehemiah_ch_11.docx": [1577, 1577], "Nehemiah_ch_12.docx": [329, 379, 1738, 1934, 329, 379, 1738, 1934]}
+jeda	{"Ezra_ch_2.docx": [1409], "Nehemiah_ch_3.docx": [3516], "Nehemiah_ch_7.docx": [2414], "Nehemiah_ch_11.docx": [1577], "Nehemiah_ch_12.docx": [329, 379, 1738, 1934]}

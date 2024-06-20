@@ -1,0 +1,7 @@
+
+suffic	{"2 Chronicles_ch_30.docx": [283], "Ephesians_ch_3.docx": [1754, 1754]}
+barte	{"Proverbs_ch_20.docx": [2071], "Isaiah_ch_48.docx": [1852, 1852, 1852]}
+suffic	{"2 Chronicles_ch_30.docx": [283], "Ephesians_ch_3.docx": [1754]}
+barte	{"Proverbs_ch_20.docx": [2071], "Isaiah_ch_48.docx": [1852, 1852]}
+suffic	{"2 Chronicles_ch_30.docx": [283], "Ephesians_ch_3.docx": [1754]}
+barte	{"Proverbs_ch_20.docx": [2071], "Isaiah_ch_48.docx": [1852]}

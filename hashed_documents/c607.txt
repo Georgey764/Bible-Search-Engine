@@ -1,0 +1,4 @@
+
+cross-	{"Deuteronomy_ch_22.docx": [1349], "Matthew_ch_15.docx": [3175, 3175, 3175]}
+cross-	{"Deuteronomy_ch_22.docx": [1349], "Matthew_ch_15.docx": [3175, 3175]}
+cross-	{"Deuteronomy_ch_22.docx": [1349], "Matthew_ch_15.docx": [3175]}

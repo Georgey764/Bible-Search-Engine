@@ -1,0 +1,4 @@
+
+chise	{"1 Kings_ch_7.docx": [1128], "Job_ch_28.docx": [826, 826, 826], "Job_ch_40.docx": [3336, 3336, 3336], "Psalms_ch_74.docx": [622, 622, 622], "Psalms_ch_114.docx": [733, 733, 733]}
+chise	{"1 Kings_ch_7.docx": [1128], "Job_ch_28.docx": [826, 826], "Job_ch_40.docx": [3336, 3336], "Psalms_ch_74.docx": [622, 622], "Psalms_ch_114.docx": [733, 733]}
+chise	{"1 Kings_ch_7.docx": [1128], "Job_ch_28.docx": [826], "Job_ch_40.docx": [3336], "Psalms_ch_74.docx": [622], "Psalms_ch_114.docx": [733]}

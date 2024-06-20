@@ -1,0 +1,7 @@
+
+edey	{"2 Kings_ch_22.docx": [35]}
+10not	{"Exodus_ch_12.docx": [1126], "Psalms_ch_91.docx": [894], "Zechariah_ch_7.docx": [1388]}
+35sinc	{"Leviticus_ch_7.docx": [4779]}
+15re	{"Deuteronomy_ch_5.docx": [1717]}
+edey	{"2 Kings_ch_22.docx": [35]}
+edey	{"2 Kings_ch_22.docx": [35]}

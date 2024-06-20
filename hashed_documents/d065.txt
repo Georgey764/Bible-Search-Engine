@@ -1,0 +1,7 @@
+
+gei	{"Joshua_ch_12.docx": [14520]}
+empir	{"2 Chronicles_ch_32.docx": [36], "Jeremiah_ch_29.docx": [425, 425, 425], "Jeremiah_ch_40.docx": [47, 47, 47], "Daniel_ch_3.docx": [5573, 5573, 5573]}
+gei	{"Joshua_ch_12.docx": [14520]}
+empir	{"2 Chronicles_ch_32.docx": [36], "Jeremiah_ch_29.docx": [425, 425], "Jeremiah_ch_40.docx": [47, 47], "Daniel_ch_3.docx": [5573, 5573]}
+gei	{"Joshua_ch_12.docx": [14520]}
+empir	{"2 Chronicles_ch_32.docx": [36], "Jeremiah_ch_29.docx": [425], "Jeremiah_ch_40.docx": [47], "Daniel_ch_3.docx": [5573]}

@@ -1,0 +1,4 @@
+
+adonik	{"Ezra_ch_2.docx": [810], "Ezra_ch_8.docx": [1341, 1341, 1341], "Nehemiah_ch_7.docx": [1650, 1650, 1650]}
+adonik	{"Ezra_ch_2.docx": [810], "Ezra_ch_8.docx": [1341, 1341], "Nehemiah_ch_7.docx": [1650, 1650]}
+adonik	{"Ezra_ch_2.docx": [810], "Ezra_ch_8.docx": [1341], "Nehemiah_ch_7.docx": [1650]}

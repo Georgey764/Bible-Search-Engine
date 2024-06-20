@@ -1,0 +1,4 @@
+
+snif	{"Genesis_ch_27.docx": [3263], "Malachi_ch_1.docx": [2789, 2789, 2789]}
+snif	{"Genesis_ch_27.docx": [3263], "Malachi_ch_1.docx": [2789, 2789]}
+snif	{"Genesis_ch_27.docx": [3263], "Malachi_ch_1.docx": [2789]}

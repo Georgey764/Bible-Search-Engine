@@ -1,0 +1,5 @@
+
+obst	{"Psalms_ch_140.docx": [554], "Psalms_ch_141.docx": [925, 925, 925], "Romans_ch_11.docx": [1121, 1121]}
+6when	{"Job_ch_21.docx": [366], "Psalms_ch_39.docx": [655]}
+obst	{"Psalms_ch_140.docx": [554], "Psalms_ch_141.docx": [925, 925], "Romans_ch_11.docx": [1121]}
+obst	{"Psalms_ch_140.docx": [554], "Psalms_ch_141.docx": [925], "Romans_ch_11.docx": [1121]}

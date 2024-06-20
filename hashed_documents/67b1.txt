@@ -1,0 +1,2 @@
+
+12‘i	{"Exodus_ch_16.docx": [1893], "Exodus_ch_21.docx": [1517], "Exodus_ch_30.docx": [1313], "Leviticus_ch_7.docx": [1426], "Leviticus_ch_26.docx": [1392], "Deuteronomy_ch_32.docx": [1566], "Nehemiah_ch_6.docx": [1875], "Psalms_ch_50.docx": [1085], "Ecclesiastes_ch_3.docx": [1048], "Isaiah_ch_27.docx": [1928], "Isaiah_ch_30.docx": [1857], "Isaiah_ch_43.docx": [2026], "Isaiah_ch_45.docx": [2062], "Isaiah_ch_51.docx": [2396], "Jeremiah_ch_42.docx": [1890], "Ezekiel_ch_16.docx": [1815], "Ezekiel_ch_29.docx": [2016], "Daniel_ch_4.docx": [1568]}

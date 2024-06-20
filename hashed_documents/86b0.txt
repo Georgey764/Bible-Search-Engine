@@ -1,0 +1,4 @@
+
+crav	{"Psalms_ch_20.docx": [328], "Psalms_ch_51.docx": [654, 654, 654], "Psalms_ch_78.docx": [1850, 1850, 1850], "Proverbs_ch_1.docx": [2223, 2223, 2223], "Proverbs_ch_10.docx": [2237, 2237, 2237], "Romans_ch_13.docx": [2202, 2202], "Ephesians_ch_2.docx": [355, 355], "1 Peter_ch_2.docx": [1570, 1570]}
+crav	{"Psalms_ch_20.docx": [328], "Psalms_ch_51.docx": [654, 654], "Psalms_ch_78.docx": [1850, 1850], "Proverbs_ch_1.docx": [2223, 2223], "Proverbs_ch_10.docx": [2237, 2237], "Romans_ch_13.docx": [2202], "Ephesians_ch_2.docx": [355], "1 Peter_ch_2.docx": [1570]}
+crav	{"Psalms_ch_20.docx": [328], "Psalms_ch_51.docx": [654], "Psalms_ch_78.docx": [1850], "Proverbs_ch_1.docx": [2223], "Proverbs_ch_10.docx": [2237], "Romans_ch_13.docx": [2202], "Ephesians_ch_2.docx": [355], "1 Peter_ch_2.docx": [1570]}

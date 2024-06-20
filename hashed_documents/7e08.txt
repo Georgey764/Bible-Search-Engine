@@ -1,0 +1,4 @@
+
+pleade	{"Genesis_ch_39.docx": [1594], "Lamentations_ch_3.docx": [4800, 4800, 4800], "Luke_ch_22.docx": [3397, 3397], "Hebrews_ch_5.docx": [886, 886]}
+pleade	{"Genesis_ch_39.docx": [1594], "Lamentations_ch_3.docx": [4800, 4800], "Luke_ch_22.docx": [3397], "Hebrews_ch_5.docx": [886]}
+pleade	{"Genesis_ch_39.docx": [1594], "Lamentations_ch_3.docx": [4800], "Luke_ch_22.docx": [3397], "Hebrews_ch_5.docx": [886]}

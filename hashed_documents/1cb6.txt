@@ -1,0 +1,4 @@
+
+boukij	{"1 Chronicles_ch_25.docx": [659, 1822, 1822, 1822]}
+boukij	{"1 Chronicles_ch_25.docx": [659, 1822, 1822]}
+boukij	{"1 Chronicles_ch_25.docx": [659, 1822]}

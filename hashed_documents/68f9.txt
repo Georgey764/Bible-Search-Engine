@@ -1,0 +1,7 @@
+
+outfi	{"Leviticus_ch_10.docx": [748], "Ezra_ch_2.docx": [3399, 3399, 3399], "Nehemiah_ch_7.docx": [4775, 4775, 4775]}
+gog	{"Ezekiel_ch_38.docx": [86, 2746, 3333, 3549, 2746, 3333, 3549, 2746, 3333, 3549], "Ezekiel_ch_39.docx": [40, 129, 1883, 2001, 2055, 2677, 40, 129, 1883, 2001, 2055, 2677, 40, 129, 1883, 2001, 2055, 2677], "Amos_ch_7.docx": [29, 29, 29], "Revelation_ch_20.docx": [1254, 1254]}
+outfi	{"Leviticus_ch_10.docx": [748], "Ezra_ch_2.docx": [3399, 3399], "Nehemiah_ch_7.docx": [4775, 4775]}
+gog	{"Ezekiel_ch_38.docx": [86, 2746, 3333, 3549, 2746, 3333, 3549], "Ezekiel_ch_39.docx": [40, 129, 1883, 2001, 2055, 2677, 40, 129, 1883, 2001, 2055, 2677], "Amos_ch_7.docx": [29, 29], "Revelation_ch_20.docx": [1254]}
+outfi	{"Leviticus_ch_10.docx": [748], "Ezra_ch_2.docx": [3399], "Nehemiah_ch_7.docx": [4775]}
+gog	{"Ezekiel_ch_38.docx": [86, 2746, 3333, 3549], "Ezekiel_ch_39.docx": [40, 129, 1883, 2001, 2055, 2677], "Amos_ch_7.docx": [29], "Revelation_ch_20.docx": [1254]}

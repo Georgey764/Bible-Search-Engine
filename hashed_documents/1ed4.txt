@@ -1,0 +1,4 @@
+
+gazed	{"Numbers_ch_24.docx": [212], "2 Kings_ch_3.docx": [3325, 3325, 3325], "Ecclesiastes_ch_4.docx": [1839, 1839, 1839], "John_ch_1.docx": [1098, 1098]}
+gazed	{"Numbers_ch_24.docx": [212], "2 Kings_ch_3.docx": [3325, 3325], "Ecclesiastes_ch_4.docx": [1839, 1839], "John_ch_1.docx": [1098]}
+gazed	{"Numbers_ch_24.docx": [212], "2 Kings_ch_3.docx": [3325], "Ecclesiastes_ch_4.docx": [1839], "John_ch_1.docx": [1098]}

@@ -1,0 +1,7 @@
+
+surren	{"Joshua_ch_9.docx": [11684], "Judges_ch_20.docx": [1719, 1719, 1719], "1 Samuel_ch_11.docx": [346, 346, 346], "2 Samuel_ch_10.docx": [2809, 2809, 2809], "2 Kings_ch_24.docx": [1612, 1612, 1612], "Jeremiah_ch_38.docx": [60, 2969, 3178, 3639, 60, 2969, 3178, 3639, 60, 2969, 3178, 3639], "Jeremiah_ch_51.docx": [5452, 5452, 5452], "Ephesians_ch_4.docx": [2737, 2737]}
+lew	{"Judges_ch_20.docx": [763], "Galatians_ch_5.docx": [2373, 2373], "2 Peter_ch_2.docx": [1099, 1099]}
+surren	{"Joshua_ch_9.docx": [11684], "Judges_ch_20.docx": [1719, 1719], "1 Samuel_ch_11.docx": [346, 346], "2 Samuel_ch_10.docx": [2809, 2809], "2 Kings_ch_24.docx": [1612, 1612], "Jeremiah_ch_38.docx": [60, 2969, 3178, 3639, 60, 2969, 3178, 3639], "Jeremiah_ch_51.docx": [5452, 5452], "Ephesians_ch_4.docx": [2737]}
+lew	{"Judges_ch_20.docx": [763], "Galatians_ch_5.docx": [2373], "2 Peter_ch_2.docx": [1099]}
+surren	{"Joshua_ch_9.docx": [11684], "Judges_ch_20.docx": [1719], "1 Samuel_ch_11.docx": [346], "2 Samuel_ch_10.docx": [2809], "2 Kings_ch_24.docx": [1612], "Jeremiah_ch_38.docx": [60, 2969, 3178, 3639], "Jeremiah_ch_51.docx": [5452], "Ephesians_ch_4.docx": [2737]}
+lew	{"Judges_ch_20.docx": [763], "Galatians_ch_5.docx": [2373], "2 Peter_ch_2.docx": [1099]}

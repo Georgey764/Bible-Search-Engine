@@ -1,0 +1,7 @@
+
+treesm	{"Judges_ch_1.docx": [2904]}
+poolan	{"Nehemiah_ch_3.docx": [7821], "John_ch_5.docx": [339, 339]}
+treesm	{"Judges_ch_1.docx": [2904]}
+poolan	{"Nehemiah_ch_3.docx": [7821], "John_ch_5.docx": [339]}
+treesm	{"Judges_ch_1.docx": [2904]}
+poolan	{"Nehemiah_ch_3.docx": [7821], "John_ch_5.docx": [339]}

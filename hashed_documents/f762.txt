@@ -1,0 +1,4 @@
+
+lighte	{"Exodus_ch_18.docx": [3685], "Leviticus_ch_13.docx": [2512, 2512, 2512], "1 Kings_ch_12.docx": [445, 1196, 1394, 445, 1196, 1394, 445, 1196, 1394], "Job_ch_39.docx": [1029, 1029, 1029], "Isaiah_ch_60.docx": [67, 67, 67], "Jeremiah_ch_4.docx": [2486, 2486, 2486], "Jonah_ch_1.docx": [520, 520, 520], "Acts_ch_27.docx": [2554, 5046, 2554, 5046]}
+lighte	{"Exodus_ch_18.docx": [3685], "Leviticus_ch_13.docx": [2512, 2512], "1 Kings_ch_12.docx": [445, 1196, 1394, 445, 1196, 1394], "Job_ch_39.docx": [1029, 1029], "Isaiah_ch_60.docx": [67, 67], "Jeremiah_ch_4.docx": [2486, 2486], "Jonah_ch_1.docx": [520, 520], "Acts_ch_27.docx": [2554, 5046]}
+lighte	{"Exodus_ch_18.docx": [3685], "Leviticus_ch_13.docx": [2512], "1 Kings_ch_12.docx": [445, 1196, 1394], "Job_ch_39.docx": [1029], "Isaiah_ch_60.docx": [67], "Jeremiah_ch_4.docx": [2486], "Jonah_ch_1.docx": [520], "Acts_ch_27.docx": [2554, 5046]}

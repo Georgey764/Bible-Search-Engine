@@ -1,0 +1,4 @@
+
+man);	{"1 Kings_ch_7.docx": [1744], "2 Chronicles_ch_28.docx": [976, 976, 976]}
+man);	{"1 Kings_ch_7.docx": [1744], "2 Chronicles_ch_28.docx": [976, 976]}
+man);	{"1 Kings_ch_7.docx": [1744], "2 Chronicles_ch_28.docx": [976]}

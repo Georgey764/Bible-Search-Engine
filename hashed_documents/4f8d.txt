@@ -1,0 +1,4 @@
+
+sami	{"Joshua_ch_15.docx": [5512], "Judges_ch_10.docx": [29, 49, 29, 49, 29, 49], "1 Chronicles_ch_4.docx": [4065, 4065, 4065], "1 Chronicles_ch_9.docx": [2292, 2292, 2292]}
+sami	{"Joshua_ch_15.docx": [5512], "Judges_ch_10.docx": [29, 49, 29, 49], "1 Chronicles_ch_4.docx": [4065, 4065], "1 Chronicles_ch_9.docx": [2292, 2292]}
+sami	{"Joshua_ch_15.docx": [5512], "Judges_ch_10.docx": [29, 49], "1 Chronicles_ch_4.docx": [4065], "1 Chronicles_ch_9.docx": [2292]}

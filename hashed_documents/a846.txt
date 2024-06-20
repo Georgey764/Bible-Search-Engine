@@ -1,0 +1,5 @@
+
+honor!	{"1 Samuel_ch_18.docx": [3795], "Isaiah_ch_22.docx": [2605, 2605, 2605]}
+31al	{"Judges_ch_1.docx": [13727], "Judges_ch_18.docx": [7339], "1 Kings_ch_15.docx": [4603], "2 Kings_ch_15.docx": [4666], "Proverbs_ch_21.docx": [2993]}
+honor!	{"1 Samuel_ch_18.docx": [3795], "Isaiah_ch_22.docx": [2605, 2605]}
+honor!	{"1 Samuel_ch_18.docx": [3795], "Isaiah_ch_22.docx": [2605]}

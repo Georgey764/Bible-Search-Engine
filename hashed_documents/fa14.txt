@@ -1,0 +1,7 @@
+
+balit	{"Numbers_ch_26.docx": [4381]}
+stari	{"Daniel_ch_2.docx": [5678], "Luke_ch_4.docx": [2723, 2723], "Acts_ch_1.docx": [2040, 2040], "Acts_ch_3.docx": [1370, 1370]}
+balit	{"Numbers_ch_26.docx": [4381]}
+stari	{"Daniel_ch_2.docx": [5678], "Luke_ch_4.docx": [2723], "Acts_ch_1.docx": [2040], "Acts_ch_3.docx": [1370]}
+balit	{"Numbers_ch_26.docx": [4381]}
+stari	{"Daniel_ch_2.docx": [5678], "Luke_ch_4.docx": [2723], "Acts_ch_1.docx": [2040], "Acts_ch_3.docx": [1370]}

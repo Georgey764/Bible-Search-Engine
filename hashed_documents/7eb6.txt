@@ -1,0 +1,5 @@
+
+brus	{"Isaiah_ch_55.docx": [2191], "Lamentations_ch_2.docx": [1483, 1483, 1483], "Ezekiel_ch_23.docx": [2198, 2198, 2198]}
+brus	{"Isaiah_ch_55.docx": [2191], "Lamentations_ch_2.docx": [1483, 1483], "Ezekiel_ch_23.docx": [2198, 2198]}
+24abou	{"Jeremiah_ch_6.docx": [4284]}
+brus	{"Isaiah_ch_55.docx": [2191], "Lamentations_ch_2.docx": [1483], "Ezekiel_ch_23.docx": [2198]}

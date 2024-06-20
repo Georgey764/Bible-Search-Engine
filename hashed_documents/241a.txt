@@ -1,0 +1,4 @@
+
+zat	{"Ezra_ch_2.docx": [705], "Nehemiah_ch_7.docx": [1476, 1476, 1476], "Nehemiah_ch_10.docx": [799, 799, 799]}
+zat	{"Ezra_ch_2.docx": [705], "Nehemiah_ch_7.docx": [1476, 1476], "Nehemiah_ch_10.docx": [799, 799]}
+zat	{"Ezra_ch_2.docx": [705], "Nehemiah_ch_7.docx": [1476], "Nehemiah_ch_10.docx": [799]}

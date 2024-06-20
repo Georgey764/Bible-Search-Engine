@@ -1,0 +1,9 @@
+
+eroc	{"Joshua_ch_16.docx": [509]}
+ashpen	{"Daniel_ch_1.docx": [395]}
+richly	{"Colossians_ch_3.docx": [1934], "2 Peter_ch_1.docx": [1713, 1713], "Revelation_ch_18.docx": [2905, 2905]}
+eroc	{"Joshua_ch_16.docx": [509]}
+ashpen	{"Daniel_ch_1.docx": [395]}
+eroc	{"Joshua_ch_16.docx": [509]}
+ashpen	{"Daniel_ch_1.docx": [395]}
+richly	{"Colossians_ch_3.docx": [1934], "2 Peter_ch_1.docx": [1713], "Revelation_ch_18.docx": [2905]}

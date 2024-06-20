@@ -1,0 +1,2 @@
+
+31‘a	{"Exodus_ch_26.docx": [2929], "Exodus_ch_28.docx": [4030], "Leviticus_ch_11.docx": [3390], "Leviticus_ch_23.docx": [4294], "Numbers_ch_2.docx": [2586], "Numbers_ch_35.docx": [4125], "1 Kings_ch_8.docx": [4697], "Ezekiel_ch_44.docx": [5876], "Matthew_ch_12.docx": [3569], "Matthew_ch_22.docx": [3554]}

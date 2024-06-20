@@ -1,0 +1,4 @@
+
+narro	{"Numbers_ch_22.docx": [3645], "1 Samuel_ch_23.docx": [2084, 2898, 4368, 2084, 2898, 4368, 2084, 2898, 4368], "1 Samuel_ch_24.docx": [3312, 3312, 3312], "Proverbs_ch_23.docx": [2327, 2327, 2327], "Zechariah_ch_10.docx": [1972, 1972, 1972], "Matthew_ch_7.docx": [1552, 1706, 1552, 1706, 1552, 1706], "Luke_ch_13.docx": [3096, 3096]}
+narro	{"Numbers_ch_22.docx": [3645], "1 Samuel_ch_23.docx": [2084, 2898, 4368, 2084, 2898, 4368], "1 Samuel_ch_24.docx": [3312, 3312], "Proverbs_ch_23.docx": [2327, 2327], "Zechariah_ch_10.docx": [1972, 1972], "Matthew_ch_7.docx": [1552, 1706, 1552, 1706], "Luke_ch_13.docx": [3096]}
+narro	{"Numbers_ch_22.docx": [3645], "1 Samuel_ch_23.docx": [2084, 2898, 4368], "1 Samuel_ch_24.docx": [3312], "Proverbs_ch_23.docx": [2327], "Zechariah_ch_10.docx": [1972], "Matthew_ch_7.docx": [1552, 1706], "Luke_ch_13.docx": [3096]}

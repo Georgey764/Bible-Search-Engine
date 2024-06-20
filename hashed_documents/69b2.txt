@@ -1,0 +1,4 @@
+
+colt	{"Genesis_ch_32.docx": [1918], "Matthew_ch_21.docx": [178, 601, 733, 178, 601, 733, 178, 601, 733], "Mark_ch_11.docx": [194, 458, 487, 711, 194, 458, 487, 711], "Luke_ch_19.docx": [3627, 3878, 4041, 3627, 3878, 4041], "John_ch_12.docx": [2192, 2192]}
+colt	{"Genesis_ch_32.docx": [1918], "Matthew_ch_21.docx": [178, 601, 733, 178, 601, 733], "Mark_ch_11.docx": [194, 458, 487, 711], "Luke_ch_19.docx": [3627, 3878, 4041], "John_ch_12.docx": [2192]}
+colt	{"Genesis_ch_32.docx": [1918], "Matthew_ch_21.docx": [178, 601, 733], "Mark_ch_11.docx": [194, 458, 487, 711], "Luke_ch_19.docx": [3627, 3878, 4041], "John_ch_12.docx": [2192]}

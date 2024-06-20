@@ -1,0 +1,4 @@
+
+cobr	{"Psalms_ch_91.docx": [1152], "Isaiah_ch_11.docx": [1057, 1057, 1057], "Isaiah_ch_59.docx": [766, 766, 766]}
+cobr	{"Psalms_ch_91.docx": [1152], "Isaiah_ch_11.docx": [1057, 1057], "Isaiah_ch_59.docx": [766, 766]}
+cobr	{"Psalms_ch_91.docx": [1152], "Isaiah_ch_11.docx": [1057], "Isaiah_ch_59.docx": [766]}

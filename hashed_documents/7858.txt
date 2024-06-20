@@ -1,0 +1,8 @@
+
+hevi	{"Genesis_ch_10.docx": [1974], "Genesis_ch_15.docx": [2686, 2686, 2686]}
+gesee	{"1 Chronicles_ch_4.docx": [1718]}
+hevi	{"Genesis_ch_10.docx": [1974], "Genesis_ch_15.docx": [2686, 2686]}
+11‘who	{"Numbers_ch_19.docx": [1450]}
+gesee	{"1 Chronicles_ch_4.docx": [1718]}
+hevi	{"Genesis_ch_10.docx": [1974], "Genesis_ch_15.docx": [2686]}
+gesee	{"1 Chronicles_ch_4.docx": [1718]}

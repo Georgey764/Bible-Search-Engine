@@ -1,0 +1,4 @@
+
+falco	{"Deuteronomy_ch_14.docx": [1280]}
+6whi	{"1 Samuel_ch_30.docx": [562], "Job_ch_12.docx": [448]}
+falco	{"Deuteronomy_ch_14.docx": [1280]}

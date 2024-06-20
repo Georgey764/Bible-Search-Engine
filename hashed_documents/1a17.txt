@@ -1,0 +1,4 @@
+
+nowhe	{"Joshua_ch_8.docx": [2086], "Job_ch_3.docx": [2194, 2194, 2194], "Psalms_ch_142.docx": [452, 452, 452], "Isaiah_ch_28.docx": [321, 321, 321], "Isaiah_ch_59.docx": [2399, 2399, 2399], "Mark_ch_6.docx": [5148, 5148], "Luke_ch_9.docx": [7980, 7980], "John_ch_12.docx": [2803, 2803]}
+nowhe	{"Joshua_ch_8.docx": [2086], "Job_ch_3.docx": [2194, 2194], "Psalms_ch_142.docx": [452, 452], "Isaiah_ch_28.docx": [321, 321], "Isaiah_ch_59.docx": [2399, 2399], "Mark_ch_6.docx": [5148], "Luke_ch_9.docx": [7980], "John_ch_12.docx": [2803]}
+nowhe	{"Joshua_ch_8.docx": [2086], "Job_ch_3.docx": [2194], "Psalms_ch_142.docx": [452], "Isaiah_ch_28.docx": [321], "Isaiah_ch_59.docx": [2399], "Mark_ch_6.docx": [5148], "Luke_ch_9.docx": [7980], "John_ch_12.docx": [2803]}

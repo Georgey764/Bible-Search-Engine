@@ -1,0 +1,4 @@
+
+fear!	{"Psalms_ch_14.docx": [861], "Psalms_ch_22.docx": [2271, 2271, 2271], "Psalms_ch_119.docx": [3000, 3000, 3000], "Luke_ch_12.docx": [770, 770], "1 Peter_ch_1.docx": [4819, 4819]}
+fear!	{"Psalms_ch_14.docx": [861], "Psalms_ch_22.docx": [2271, 2271], "Psalms_ch_119.docx": [3000, 3000], "Luke_ch_12.docx": [770], "1 Peter_ch_1.docx": [4819]}
+fear!	{"Psalms_ch_14.docx": [861], "Psalms_ch_22.docx": [2271], "Psalms_ch_119.docx": [3000], "Luke_ch_12.docx": [770], "1 Peter_ch_1.docx": [4819]}

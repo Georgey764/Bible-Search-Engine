@@ -1,0 +1,8 @@
+
+repti	{"Job_ch_40.docx": [1765]}
+satura	{"Psalms_ch_65.docx": [1149]}
+33‘no	{"Genesis_ch_44.docx": [4392], "1 Kings_ch_2.docx": [5898], "Job_ch_41.docx": [2957]}
+repti	{"Job_ch_40.docx": [1765]}
+satura	{"Psalms_ch_65.docx": [1149]}
+repti	{"Job_ch_40.docx": [1765]}
+satura	{"Psalms_ch_65.docx": [1149]}

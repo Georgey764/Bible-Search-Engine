@@ -1,0 +1,7 @@
+
+carth	{"Isaiah_ch_23.docx": [46, 641, 1116, 1605, 641, 1116, 1605, 641, 1116, 1605], "Ezekiel_ch_27.docx": [1582, 2303, 1582, 2303, 1582, 2303], "Ezekiel_ch_38.docx": [2377, 2377, 2377]}
+lets	{"Amos_ch_3.docx": [968], "Matthew_ch_5.docx": [5577, 5577, 5577]}
+carth	{"Isaiah_ch_23.docx": [46, 641, 1116, 1605, 641, 1116, 1605], "Ezekiel_ch_27.docx": [1582, 2303, 1582, 2303], "Ezekiel_ch_38.docx": [2377, 2377]}
+lets	{"Amos_ch_3.docx": [968], "Matthew_ch_5.docx": [5577, 5577]}
+carth	{"Isaiah_ch_23.docx": [46, 641, 1116, 1605], "Ezekiel_ch_27.docx": [1582, 2303], "Ezekiel_ch_38.docx": [2377]}
+lets	{"Amos_ch_3.docx": [968], "Matthew_ch_5.docx": [5577]}

@@ -1,0 +1,7 @@
+
+cleave	{"Job_ch_41.docx": [1452, 2040, 2040, 2040]}
+oath;	{"Matthew_ch_5.docx": [4204]}
+cleave	{"Job_ch_41.docx": [1452, 2040, 2040]}
+oath;	{"Matthew_ch_5.docx": [4204]}
+cleave	{"Job_ch_41.docx": [1452, 2040]}
+oath;	{"Matthew_ch_5.docx": [4204]}

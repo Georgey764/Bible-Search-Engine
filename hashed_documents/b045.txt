@@ -1,0 +1,4 @@
+
+motiv	{"Ezekiel_ch_3.docx": [2022], "Romans_ch_14.docx": [20, 20], "Galatians_ch_5.docx": [720, 720], "Philippians_ch_1.docx": [1837, 3573, 1837, 3573], "Philippians_ch_2.docx": [1377, 1392, 1377, 1392]}
+motiv	{"Ezekiel_ch_3.docx": [2022], "Romans_ch_14.docx": [20], "Galatians_ch_5.docx": [720], "Philippians_ch_1.docx": [1837, 3573], "Philippians_ch_2.docx": [1377, 1392]}
+motiv	{"Ezekiel_ch_3.docx": [2022], "Romans_ch_14.docx": [20], "Galatians_ch_5.docx": [720], "Philippians_ch_1.docx": [1837, 3573], "Philippians_ch_2.docx": [1377, 1392]}

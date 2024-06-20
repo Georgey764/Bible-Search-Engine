@@ -1,0 +1,3 @@
+
+11j	{"Deuteronomy_ch_28.docx": [1253], "1 Samuel_ch_12.docx": [1824], "1 Chronicles_ch_3.docx": [994], "1 Chronicles_ch_23.docx": [1118], "1 Chronicles_ch_24.docx": [1531], "Nehemiah_ch_12.docx": [795], "Psalms_ch_29.docx": [974], "Psalms_ch_94.docx": [934], "Proverbs_ch_22.docx": [1168], "Lamentations_ch_4.docx": [1651], "Matthew_ch_1.docx": [847]}
+10‘e	{"Job_ch_20.docx": [839], "Ecclesiastes_ch_2.docx": [1303], "Zechariah_ch_9.docx": [2226]}

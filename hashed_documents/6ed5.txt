@@ -1,0 +1,4 @@
+
+aloe	{"Song of Solomon_ch_4.docx": [2080], "John_ch_19.docx": [5478, 5478]}
+aloe	{"Song of Solomon_ch_4.docx": [2080], "John_ch_19.docx": [5478]}
+aloe	{"Song of Solomon_ch_4.docx": [2080], "John_ch_19.docx": [5478]}

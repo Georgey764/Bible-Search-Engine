@@ -1,0 +1,4 @@
+
+sides!	{"Numbers_ch_33.docx": [4609], "1 Samuel_ch_17.docx": [1379, 1379, 1379], "Luke_ch_19.docx": [5054, 5054]}
+sides!	{"Numbers_ch_33.docx": [4609], "1 Samuel_ch_17.docx": [1379, 1379], "Luke_ch_19.docx": [5054]}
+sides!	{"Numbers_ch_33.docx": [4609], "1 Samuel_ch_17.docx": [1379], "Luke_ch_19.docx": [5054]}

@@ -1,0 +1,5 @@
+
+carcas	{"Numbers_ch_19.docx": [1553], "Judges_ch_14.docx": [1217, 1217, 1217], "Esther_ch_1.docx": [1897, 1897, 1897], "Matthew_ch_24.docx": [3002, 3002, 3002], "Luke_ch_17.docx": [4453, 4453], "Hebrews_ch_3.docx": [2171, 2171]}
+carcas	{"Numbers_ch_19.docx": [1553], "Judges_ch_14.docx": [1217, 1217], "Esther_ch_1.docx": [1897, 1897], "Matthew_ch_24.docx": [3002, 3002], "Luke_ch_17.docx": [4453], "Hebrews_ch_3.docx": [2171]}
+247	{"Numbers_ch_28.docx": [2963], "Daniel_ch_9.docx": [4352]}
+carcas	{"Numbers_ch_19.docx": [1553], "Judges_ch_14.docx": [1217], "Esther_ch_1.docx": [1897], "Matthew_ch_24.docx": [3002], "Luke_ch_17.docx": [4453], "Hebrews_ch_3.docx": [2171]}

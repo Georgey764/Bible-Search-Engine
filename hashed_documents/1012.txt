@@ -1,0 +1,5 @@
+
+moab;	{"Exodus_ch_15.docx": [1854], "Numbers_ch_21.docx": [4081, 4081, 4081]}
+moab;	{"Exodus_ch_15.docx": [1854], "Numbers_ch_21.docx": [4081, 4081]}
+5‘thes	{"Numbers_ch_1.docx": [587]}
+moab;	{"Exodus_ch_15.docx": [1854], "Numbers_ch_21.docx": [4081]}

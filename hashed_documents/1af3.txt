@@ -1,0 +1,4 @@
+
+sabe	{"2 Samuel_ch_20.docx": [24], "1 Chronicles_ch_2.docx": [4301, 4301, 4301], "2 Chronicles_ch_24.docx": [4617, 4617, 4617], "Isaiah_ch_45.docx": [2479, 2479, 2479]}
+sabe	{"2 Samuel_ch_20.docx": [24], "1 Chronicles_ch_2.docx": [4301, 4301], "2 Chronicles_ch_24.docx": [4617, 4617], "Isaiah_ch_45.docx": [2479, 2479]}
+sabe	{"2 Samuel_ch_20.docx": [24], "1 Chronicles_ch_2.docx": [4301], "2 Chronicles_ch_24.docx": [4617], "Isaiah_ch_45.docx": [2479]}

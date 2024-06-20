@@ -1,0 +1,4 @@
+
+her;	{"Genesis_ch_38.docx": [3150], "Ruth_ch_1.docx": [2040, 2040, 2040], "Ruth_ch_3.docx": [2092, 2092, 2092], "2 Chronicles_ch_9.docx": [286, 286, 286], "Proverbs_ch_3.docx": [1329, 1329, 1329], "Jeremiah_ch_19.docx": [3073, 3073, 3073], "Jeremiah_ch_51.docx": [1596, 1596, 1596], "Zechariah_ch_12.docx": [501, 501, 501]}
+her;	{"Genesis_ch_38.docx": [3150], "Ruth_ch_1.docx": [2040, 2040], "Ruth_ch_3.docx": [2092, 2092], "2 Chronicles_ch_9.docx": [286, 286], "Proverbs_ch_3.docx": [1329, 1329], "Jeremiah_ch_19.docx": [3073, 3073], "Jeremiah_ch_51.docx": [1596, 1596], "Zechariah_ch_12.docx": [501, 501]}
+her;	{"Genesis_ch_38.docx": [3150], "Ruth_ch_1.docx": [2040], "Ruth_ch_3.docx": [2092], "2 Chronicles_ch_9.docx": [286], "Proverbs_ch_3.docx": [1329], "Jeremiah_ch_19.docx": [3073], "Jeremiah_ch_51.docx": [1596], "Zechariah_ch_12.docx": [501]}

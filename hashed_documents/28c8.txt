@@ -1,0 +1,7 @@
+
+obv	{"Judges_ch_6.docx": [3185], "Job_ch_42.docx": [3827], "Galatians_ch_3.docx": [1403, 1403], "Hebrews_ch_7.docx": [2239, 2239]}
+sojo	{"Psalms_ch_119.docx": [1352]}
+obv	{"Judges_ch_6.docx": [3185], "Galatians_ch_3.docx": [1403], "Hebrews_ch_7.docx": [2239]}
+sojo	{"Psalms_ch_119.docx": [1352]}
+obv	{"Judges_ch_6.docx": [3185], "Galatians_ch_3.docx": [1403], "Hebrews_ch_7.docx": [2239]}
+sojo	{"Psalms_ch_119.docx": [1352]}

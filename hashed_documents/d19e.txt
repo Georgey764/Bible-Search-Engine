@@ -1,0 +1,7 @@
+
+nabaio	{"Genesis_ch_25.docx": [1348], "Genesis_ch_36.docx": [281, 281, 281]}
+chann	{"Joshua_ch_15.docx": [5648]}
+nabaio	{"Genesis_ch_25.docx": [1348], "Genesis_ch_36.docx": [281, 281]}
+chann	{"Joshua_ch_15.docx": [5648]}
+nabaio	{"Genesis_ch_25.docx": [1348], "Genesis_ch_36.docx": [281]}
+chann	{"Joshua_ch_15.docx": [5648]}

@@ -1,0 +1,4 @@
+
+warde	{"Genesis_ch_39.docx": [2864, 2868, 3116, 2868, 3116, 2868, 3116], "Genesis_ch_40.docx": [60, 60, 60]}
+warde	{"Genesis_ch_39.docx": [2864, 2868, 3116, 2868, 3116], "Genesis_ch_40.docx": [60, 60]}
+warde	{"Genesis_ch_39.docx": [2864, 2868, 3116], "Genesis_ch_40.docx": [60]}

@@ -1,0 +1,7 @@
+
+house!	{"Genesis_ch_34.docx": [4088], "Genesis_ch_39.docx": [1297, 1901, 2177, 1297, 1901, 2177, 1297, 1901, 2177], "1 Samuel_ch_22.docx": [2188, 2188, 2188], "2 Kings_ch_15.docx": [495, 495, 495], "Proverbs_ch_24.docx": [2642, 2642, 2642], "Micah_ch_3.docx": [94, 94, 94], "Habakkuk_ch_2.docx": [1805, 1805, 1805], "Matthew_ch_5.docx": [1460, 1460, 1460], "Acts_ch_16.docx": [5307, 5307], "1 Corinthians_ch_3.docx": [926, 926], "Hebrews_ch_3.docx": [564, 564]}
+suckle	{"Leviticus_ch_22.docx": [3865]}
+house!	{"Genesis_ch_34.docx": [4088], "Genesis_ch_39.docx": [1297, 1901, 2177, 1297, 1901, 2177], "1 Samuel_ch_22.docx": [2188, 2188], "2 Kings_ch_15.docx": [495, 495], "Proverbs_ch_24.docx": [2642, 2642], "Micah_ch_3.docx": [94, 94], "Habakkuk_ch_2.docx": [1805, 1805], "Matthew_ch_5.docx": [1460, 1460], "Acts_ch_16.docx": [5307], "1 Corinthians_ch_3.docx": [926], "Hebrews_ch_3.docx": [564]}
+suckle	{"Leviticus_ch_22.docx": [3865]}
+house!	{"Genesis_ch_34.docx": [4088], "Genesis_ch_39.docx": [1297, 1901, 2177], "1 Samuel_ch_22.docx": [2188], "2 Kings_ch_15.docx": [495], "Proverbs_ch_24.docx": [2642], "Micah_ch_3.docx": [94], "Habakkuk_ch_2.docx": [1805], "Matthew_ch_5.docx": [1460], "Acts_ch_16.docx": [5307], "1 Corinthians_ch_3.docx": [926], "Hebrews_ch_3.docx": [564]}
+suckle	{"Leviticus_ch_22.docx": [3865]}

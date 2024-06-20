@@ -1,0 +1,6 @@
+
+inco	{"Isaiah_ch_3.docx": [1629], "Jeremiah_ch_27.docx": [35, 35, 35], "Daniel_ch_5.docx": [924, 924, 924], "Acts_ch_16.docx": [5979, 5979], "Romans_ch_1.docx": [2716, 2716], "Romans_ch_2.docx": [949, 949], "1 Corinthians_ch_15.docx": [5989, 6183, 6377, 5989, 6183, 6377], "1 Timothy_ch_1.docx": [2519, 2519], "1 Peter_ch_1.docx": [2576, 2576]}
+lysa	{"Luke_ch_3.docx": [303, 353, 404, 353, 404]}
+inco	{"Isaiah_ch_3.docx": [1629], "Jeremiah_ch_27.docx": [35, 35], "Daniel_ch_5.docx": [924, 924], "Acts_ch_16.docx": [5979], "Romans_ch_1.docx": [2716], "Romans_ch_2.docx": [949], "1 Corinthians_ch_15.docx": [5989, 6183, 6377], "1 Timothy_ch_1.docx": [2519], "1 Peter_ch_1.docx": [2576]}
+inco	{"Isaiah_ch_3.docx": [1629], "Jeremiah_ch_27.docx": [35], "Daniel_ch_5.docx": [924], "Acts_ch_16.docx": [5979], "Romans_ch_1.docx": [2716], "Romans_ch_2.docx": [949], "1 Corinthians_ch_15.docx": [5989, 6183, 6377], "1 Timothy_ch_1.docx": [2519], "1 Peter_ch_1.docx": [2576]}
+lysa	{"Luke_ch_3.docx": [303, 353, 404]}

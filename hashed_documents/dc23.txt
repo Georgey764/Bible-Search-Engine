@@ -1,0 +1,4 @@
+
+hakuph	{"Ezra_ch_2.docx": [2050], "Nehemiah_ch_7.docx": [3109, 3109, 3109]}
+hakuph	{"Ezra_ch_2.docx": [2050], "Nehemiah_ch_7.docx": [3109, 3109]}
+hakuph	{"Ezra_ch_2.docx": [2050], "Nehemiah_ch_7.docx": [3109]}

@@ -1,0 +1,4 @@
+
+quenc	{"Nehemiah_ch_9.docx": [3314, 4240, 4240, 4240], "Psalms_ch_69.docx": [2334, 2334, 2334], "Lamentations_ch_4.docx": [612, 612, 612], "Amos_ch_5.docx": [1341, 1341, 1341], "Mark_ch_9.docx": [5949, 6231, 5949, 6231]}
+quenc	{"Nehemiah_ch_9.docx": [3314, 4240, 4240], "Psalms_ch_69.docx": [2334, 2334], "Lamentations_ch_4.docx": [612, 612], "Amos_ch_5.docx": [1341, 1341], "Mark_ch_9.docx": [5949, 6231]}
+quenc	{"Nehemiah_ch_9.docx": [3314, 4240], "Psalms_ch_69.docx": [2334], "Lamentations_ch_4.docx": [612], "Amos_ch_5.docx": [1341], "Mark_ch_9.docx": [5949, 6231]}

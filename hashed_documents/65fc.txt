@@ -1,0 +1,4 @@
+
+dishes	{"Exodus_ch_25.docx": [3174], "Numbers_ch_4.docx": [646, 646, 646], "2 Samuel_ch_17.docx": [4532, 4532, 4532], "1 Kings_ch_10.docx": [3189, 3189, 3189], "Matthew_ch_23.docx": [3124, 3280, 3124, 3280, 3124, 3280], "Luke_ch_11.docx": [5347, 5347]}
+dishes	{"Exodus_ch_25.docx": [3174], "Numbers_ch_4.docx": [646, 646], "2 Samuel_ch_17.docx": [4532, 4532], "1 Kings_ch_10.docx": [3189, 3189], "Matthew_ch_23.docx": [3124, 3280, 3124, 3280], "Luke_ch_11.docx": [5347]}
+dishes	{"Exodus_ch_25.docx": [3174], "Numbers_ch_4.docx": [646], "2 Samuel_ch_17.docx": [4532], "1 Kings_ch_10.docx": [3189], "Matthew_ch_23.docx": [3124, 3280], "Luke_ch_11.docx": [5347]}

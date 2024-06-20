@@ -1,0 +1,4 @@
+
+cling	{"Job_ch_27.docx": [432], "Psalms_ch_25.docx": [204, 204, 204], "Song of Solomon_ch_7.docx": [1047, 1047, 1047], "John_ch_20.docx": [2007, 2007]}
+cling	{"Job_ch_27.docx": [432], "Psalms_ch_25.docx": [204, 204], "Song of Solomon_ch_7.docx": [1047, 1047], "John_ch_20.docx": [2007]}
+cling	{"Job_ch_27.docx": [432], "Psalms_ch_25.docx": [204], "Song of Solomon_ch_7.docx": [1047], "John_ch_20.docx": [2007]}

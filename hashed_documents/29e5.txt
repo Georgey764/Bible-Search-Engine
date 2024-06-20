@@ -1,0 +1,5 @@
+
+abelma	{"1 Kings_ch_15.docx": [2716], "1 Kings_ch_19.docx": [2989, 2989, 2989]}
+47‘	{"Genesis_ch_24.docx": [7135], "Exodus_ch_12.docx": [7118], "Leviticus_ch_13.docx": [6661], "Leviticus_ch_25.docx": [6655], "Deuteronomy_ch_32.docx": [7133], "1 Kings_ch_8.docx": [7530], "Jeremiah_ch_51.docx": [7833], "Ezekiel_ch_20.docx": [8324], "Ezekiel_ch_23.docx": [7759], "Matthew_ch_5.docx": [5807], "Matthew_ch_13.docx": [6318]}
+abelma	{"1 Kings_ch_15.docx": [2716], "1 Kings_ch_19.docx": [2989, 2989]}
+abelma	{"1 Kings_ch_15.docx": [2716], "1 Kings_ch_19.docx": [2989]}

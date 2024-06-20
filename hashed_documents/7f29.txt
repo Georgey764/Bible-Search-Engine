@@ -1,0 +1,4 @@
+
+hamor’	{"Genesis_ch_34.docx": [461], "Acts_ch_7.docx": [2206, 2206]}
+hamor’	{"Genesis_ch_34.docx": [461], "Acts_ch_7.docx": [2206]}
+hamor’	{"Genesis_ch_34.docx": [461], "Acts_ch_7.docx": [2206]}

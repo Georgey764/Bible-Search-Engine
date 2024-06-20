@@ -1,0 +1,4 @@
+
+dala	{"Joshua_ch_15.docx": [4838], "1 Chronicles_ch_3.docx": [2250, 2250], "1 Chronicles_ch_24.docx": [1883, 1883], "Nehemiah_ch_6.docx": [1490, 1490, 1490], "Nehemiah_ch_7.docx": [3743, 3743, 3743], "Jeremiah_ch_36.docx": [2128, 4040, 2128, 4040, 2128, 4040]}
+dala	{"1 Chronicles_ch_3.docx": [2250, 2250], "Nehemiah_ch_6.docx": [1490, 1490], "Nehemiah_ch_7.docx": [3743, 3743], "Jeremiah_ch_36.docx": [2128, 4040, 2128, 4040], "1 Chronicles_ch_24.docx": [1883]}
+dala	{"Joshua_ch_15.docx": [4838], "1 Chronicles_ch_3.docx": [2250], "1 Chronicles_ch_24.docx": [1883], "Nehemiah_ch_6.docx": [1490], "Nehemiah_ch_7.docx": [3743], "Jeremiah_ch_36.docx": [2128, 4040]}

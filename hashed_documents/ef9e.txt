@@ -1,0 +1,4 @@
+
+41‘	{"Genesis_ch_31.docx": [5611], "Exodus_ch_28.docx": [5273], "Exodus_ch_29.docx": [5561], "Leviticus_ch_11.docx": [4862], "Leviticus_ch_14.docx": [6178], "Leviticus_ch_23.docx": [6024], "Leviticus_ch_25.docx": [5855], "Deuteronomy_ch_1.docx": [5827], "Deuteronomy_ch_32.docx": [5954], "1 Kings_ch_8.docx": [6648], "2 Chronicles_ch_6.docx": [6960], "Job_ch_38.docx": [3824], "Jeremiah_ch_32.docx": [7122], "Jeremiah_ch_50.docx": [7658], "Jeremiah_ch_51.docx": [6796], "Ezekiel_ch_20.docx": [7347], "Ezekiel_ch_23.docx": [6754], "Daniel_ch_2.docx": [7024], "Daniel_ch_11.docx": [7528], "Matthew_ch_5.docx": [5109], "Matthew_ch_10.docx": [5189], "Matthew_ch_12.docx": [4989], "Matthew_ch_25.docx": [4780]}
+15mea	{"1 Samuel_ch_17.docx": [2048], "2 Samuel_ch_21.docx": [3026], "1 Kings_ch_5.docx": [2267]}
+4‘from	{"Job_ch_17.docx": [245]}

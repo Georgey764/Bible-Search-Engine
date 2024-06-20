@@ -1,0 +1,4 @@
+
+dies;	{"Leviticus_ch_24.docx": [2316], "Numbers_ch_35.docx": [2657, 2657, 2657]}
+dies;	{"Leviticus_ch_24.docx": [2316], "Numbers_ch_35.docx": [2657, 2657]}
+dies;	{"Leviticus_ch_24.docx": [2316], "Numbers_ch_35.docx": [2657]}

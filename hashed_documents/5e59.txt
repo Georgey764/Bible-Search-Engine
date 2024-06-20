@@ -1,0 +1,6 @@
+
+forcin	{"Exodus_ch_1.docx": [1281], "Leviticus_ch_25.docx": [6560, 6560, 6560], "2 Kings_ch_17.docx": [301, 301, 301], "2 Chronicles_ch_32.docx": [4009, 4009, 4009], "Galatians_ch_2.docx": [2206, 2206]}
+later!	{"Galatians_ch_1.docx": [2295]}
+forcin	{"Exodus_ch_1.docx": [1281], "Leviticus_ch_25.docx": [6560, 6560], "2 Kings_ch_17.docx": [301, 301], "2 Chronicles_ch_32.docx": [4009, 4009], "Galatians_ch_2.docx": [2206]}
+forcin	{"Exodus_ch_1.docx": [1281], "Leviticus_ch_25.docx": [6560], "2 Kings_ch_17.docx": [301], "2 Chronicles_ch_32.docx": [4009], "Galatians_ch_2.docx": [2206]}
+later!	{"Galatians_ch_1.docx": [2295]}

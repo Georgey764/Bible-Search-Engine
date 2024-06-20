@@ -1,0 +1,7 @@
+
+esch	{"Genesis_ch_14.docx": [1750, 3395, 3395, 3395]}
+imra	{"1 Chronicles_ch_7.docx": [4333]}
+esch	{"Genesis_ch_14.docx": [1750, 3395, 3395]}
+imra	{"1 Chronicles_ch_7.docx": [4333]}
+esch	{"Genesis_ch_14.docx": [1750, 3395]}
+imra	{"1 Chronicles_ch_7.docx": [4333]}

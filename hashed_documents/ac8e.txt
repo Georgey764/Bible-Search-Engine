@@ -1,0 +1,7 @@
+
+crowne	{"Psalms_ch_5.docx": [1396], "Psalms_ch_8.docx": [574, 574, 574], "Psalms_ch_103.docx": [360, 360, 360], "Hebrews_ch_2.docx": [1026, 1431, 1026, 1431]}
+discar	{"Ecclesiastes_ch_3.docx": [518], "Ezekiel_ch_18.docx": [5019, 5019, 5019], "Micah_ch_4.docx": [1393, 1393, 1393]}
+crowne	{"Psalms_ch_5.docx": [1396], "Psalms_ch_8.docx": [574, 574], "Psalms_ch_103.docx": [360, 360], "Hebrews_ch_2.docx": [1026, 1431]}
+discar	{"Ecclesiastes_ch_3.docx": [518], "Ezekiel_ch_18.docx": [5019, 5019], "Micah_ch_4.docx": [1393, 1393]}
+crowne	{"Psalms_ch_5.docx": [1396], "Psalms_ch_8.docx": [574], "Psalms_ch_103.docx": [360], "Hebrews_ch_2.docx": [1026, 1431]}
+discar	{"Ecclesiastes_ch_3.docx": [518], "Ezekiel_ch_18.docx": [5019], "Micah_ch_4.docx": [1393]}

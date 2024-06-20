@@ -1,0 +1,4 @@
+
+run!	{"2 Samuel_ch_18.docx": [3932]}
+run!	{"2 Samuel_ch_18.docx": [3932]}
+run!	{"2 Samuel_ch_18.docx": [3932]}

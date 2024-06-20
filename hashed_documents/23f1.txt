@@ -1,0 +1,6 @@
+
+rottin	{"Leviticus_ch_5.docx": [283], "Joshua_ch_9.docx": [5714, 5714, 5714], "2 Kings_ch_9.docx": [7064, 7064, 7064], "Job_ch_7.docx": [547, 547, 547], "Job_ch_24.docx": [2219, 2219, 2219], "Job_ch_41.docx": [2416, 2416, 2416], "Isaiah_ch_5.docx": [3979, 3979, 3979], "Jeremiah_ch_15.docx": [914, 914, 914], "Jeremiah_ch_16.docx": [3177, 3177, 3177], "Jeremiah_ch_34.docx": [3869, 3869, 3869], "Ezekiel_ch_44.docx": [5882, 5882, 5882], "Joel_ch_2.docx": [3740, 3740, 3740]}
+rottin	{"Leviticus_ch_5.docx": [283], "Joshua_ch_9.docx": [5714, 5714], "2 Kings_ch_9.docx": [7064, 7064], "Job_ch_7.docx": [547, 547], "Job_ch_24.docx": [2219, 2219], "Job_ch_41.docx": [2416, 2416], "Isaiah_ch_5.docx": [3979, 3979], "Jeremiah_ch_15.docx": [914, 914], "Jeremiah_ch_16.docx": [3177, 3177], "Jeremiah_ch_34.docx": [3869, 3869], "Ezekiel_ch_44.docx": [5882, 5882], "Joel_ch_2.docx": [3740, 3740]}
+16dav	{"1 Chronicles_ch_11.docx": [2925], "1 Chronicles_ch_15.docx": [1804]}
+1,017	{"Nehemiah_ch_7.docx": [2557]}
+rottin	{"Leviticus_ch_5.docx": [283], "Joshua_ch_9.docx": [5714], "2 Kings_ch_9.docx": [7064], "Job_ch_7.docx": [547], "Job_ch_24.docx": [2219], "Job_ch_41.docx": [2416], "Isaiah_ch_5.docx": [3979], "Jeremiah_ch_15.docx": [914], "Jeremiah_ch_16.docx": [3177], "Jeremiah_ch_34.docx": [3869], "Ezekiel_ch_44.docx": [5882], "Joel_ch_2.docx": [3740]}

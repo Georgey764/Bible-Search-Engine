@@ -1,0 +1,5 @@
+
+unusu	{"Leviticus_ch_15.docx": [3933], "Judges_ch_13.docx": [3108, 3108, 3108], "2 Kings_ch_20.docx": [1454, 1454, 1454], "Matthew_ch_4.docx": [903, 903, 903], "Matthew_ch_8.docx": [3516, 3516, 3516], "Acts_ch_19.docx": [1874, 1874], "1 Peter_ch_4.docx": [1700, 1700], "Revelation_ch_16.docx": [3166, 3166]}
+unusu	{"Leviticus_ch_15.docx": [3933], "Judges_ch_13.docx": [3108, 3108], "2 Kings_ch_20.docx": [1454, 1454], "Matthew_ch_4.docx": [903, 903], "Matthew_ch_8.docx": [3516, 3516], "Acts_ch_19.docx": [1874], "1 Peter_ch_4.docx": [1700], "Revelation_ch_16.docx": [3166]}
+23<s	{"Joshua_ch_15.docx": [3974]}
+unusu	{"Leviticus_ch_15.docx": [3933], "Judges_ch_13.docx": [3108], "2 Kings_ch_20.docx": [1454], "Matthew_ch_4.docx": [903], "Matthew_ch_8.docx": [3516], "Acts_ch_19.docx": [1874], "1 Peter_ch_4.docx": [1700], "Revelation_ch_16.docx": [3166]}

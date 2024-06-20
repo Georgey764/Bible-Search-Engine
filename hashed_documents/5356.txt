@@ -1,0 +1,2 @@
+
+44the	{"Leviticus_ch_14.docx": [6440], "Numbers_ch_3.docx": [5396], "Deuteronomy_ch_1.docx": [6273], "Deuteronomy_ch_4.docx": [6785], "Deuteronomy_ch_28.docx": [5902], "1 Samuel_ch_14.docx": [7168], "1 Samuel_ch_17.docx": [6626], "1 Kings_ch_2.docx": [7885], "1 Kings_ch_7.docx": [5679], "1 Chronicles_ch_6.docx": [3392], "Nehemiah_ch_7.docx": [2673], "Psalms_ch_18.docx": [4221], "Psalms_ch_105.docx": [3639]}

@@ -1,0 +1,4 @@
+
+kush	{"Genesis_ch_2.docx": [1797], "Genesis_ch_10.docx": [754, 843, 1058, 754, 843, 754, 843, 1058], "1 Chronicles_ch_1.docx": [451, 493, 617, 451, 617, 451, 493, 617]}
+kush	{"Genesis_ch_2.docx": [1797], "Genesis_ch_10.docx": [754, 843, 754, 843, 1058], "1 Chronicles_ch_1.docx": [451, 617, 451, 493, 617]}
+kush	{"Genesis_ch_2.docx": [1797], "Genesis_ch_10.docx": [754, 843, 1058], "1 Chronicles_ch_1.docx": [451, 493, 617]}

@@ -1,0 +1,4 @@
+
+tiglat	{"2 Kings_ch_15.docx": [2617, 4198, 4198, 4198], "2 Kings_ch_16.docx": [957, 1497, 957, 1497, 957, 1497], "1 Chronicles_ch_5.docx": [731, 839, 3448, 731, 839, 3448, 731, 839, 3448], "2 Chronicles_ch_28.docx": [3522, 3522, 3522]}
+tiglat	{"2 Kings_ch_15.docx": [2617, 4198, 4198], "2 Kings_ch_16.docx": [957, 1497, 957, 1497], "1 Chronicles_ch_5.docx": [731, 839, 3448, 731, 839, 3448], "2 Chronicles_ch_28.docx": [3522, 3522]}
+tiglat	{"2 Kings_ch_15.docx": [2617, 4198], "2 Kings_ch_16.docx": [957, 1497], "1 Chronicles_ch_5.docx": [731, 839, 3448], "2 Chronicles_ch_28.docx": [3522]}

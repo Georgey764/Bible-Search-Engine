@@ -1,0 +1,7 @@
+
+oldest	{"1 Samuel_ch_17.docx": [1528, 1797, 8679, 1797, 8679, 1797, 8679], "1 Samuel_ch_18.docx": [17, 17, 17], "Proverbs_ch_20.docx": [8, 8, 8], "John_ch_8.docx": [854, 854]}
+debat	{"1 Corinthians_ch_1.docx": [2543]}
+4‘inst	{"Genesis_ch_24.docx": [440]}
+oldest	{"1 Samuel_ch_17.docx": [1528, 1797, 8679, 1797, 8679], "1 Samuel_ch_18.docx": [17, 17], "Proverbs_ch_20.docx": [8, 8], "John_ch_8.docx": [854]}
+oldest	{"1 Samuel_ch_17.docx": [1528, 1797, 8679], "1 Samuel_ch_18.docx": [17], "Proverbs_ch_20.docx": [8], "John_ch_8.docx": [854]}
+debat	{"1 Corinthians_ch_1.docx": [2543]}

@@ -1,0 +1,7 @@
+
+lyres	{"2 Samuel_ch_6.docx": [529]}
+wall<	{"Nehemiah_ch_3.docx": [2924, 9920, 9943, 9972, 9920, 9943, 9972, 9920, 9943, 9972], "Nehemiah_ch_12.docx": [7154, 7154, 7154]}
+lyres	{"2 Samuel_ch_6.docx": [529]}
+wall<	{"Nehemiah_ch_3.docx": [2924, 9920, 9943, 9972, 9920, 9943, 9972], "Nehemiah_ch_12.docx": [7154, 7154]}
+lyres	{"2 Samuel_ch_6.docx": [529]}
+wall<	{"Nehemiah_ch_3.docx": [2924, 9920, 9943, 9972], "Nehemiah_ch_12.docx": [7154]}

@@ -1,0 +1,5 @@
+
+rad	{"Exodus_ch_34.docx": [4416, 5197, 5197, 5197], "1 Chronicles_ch_4.docx": [107, 107, 107], "Psalms_ch_18.docx": [1280, 1280, 1280], "Psalms_ch_19.docx": [914, 914, 914], "Lamentations_ch_4.docx": [1090, 1090, 1090]}
+11‘g	{"Exodus_ch_6.docx": [1403], "Joshua_ch_1.docx": [1479], "Matthew_ch_6.docx": [1564]}
+rad	{"Exodus_ch_34.docx": [4416, 5197, 5197], "1 Chronicles_ch_4.docx": [107, 107], "Psalms_ch_18.docx": [1280, 1280], "Psalms_ch_19.docx": [914, 914], "Lamentations_ch_4.docx": [1090, 1090]}
+rad	{"Exodus_ch_34.docx": [4416, 5197], "1 Chronicles_ch_4.docx": [107], "Psalms_ch_18.docx": [1280], "Psalms_ch_19.docx": [914], "Lamentations_ch_4.docx": [1090]}

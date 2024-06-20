@@ -1,0 +1,4 @@
+
+thanke	{"Judges_ch_7.docx": [3704], "Romans_ch_14.docx": [905, 1014, 905, 1014]}
+thanke	{"Judges_ch_7.docx": [3704], "Romans_ch_14.docx": [905, 1014]}
+thanke	{"Judges_ch_7.docx": [3704], "Romans_ch_14.docx": [905, 1014]}

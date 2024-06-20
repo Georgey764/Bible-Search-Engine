@@ -1,0 +1,4 @@
+
+lesse	{"Genesis_ch_1.docx": [2505], "2 Kings_ch_23.docx": [765, 765, 765], "Job_ch_5.docx": [304, 304, 304], "Job_ch_13.docx": [2088, 2088, 2088], "Proverbs_ch_30.docx": [2548, 2548, 2548], "Hebrews_ch_7.docx": [1160, 1160]}
+lesse	{"Genesis_ch_1.docx": [2505], "2 Kings_ch_23.docx": [765, 765], "Job_ch_5.docx": [304, 304], "Job_ch_13.docx": [2088, 2088], "Proverbs_ch_30.docx": [2548, 2548], "Hebrews_ch_7.docx": [1160]}
+lesse	{"Genesis_ch_1.docx": [2505], "2 Kings_ch_23.docx": [765], "Job_ch_5.docx": [304], "Job_ch_13.docx": [2088], "Proverbs_ch_30.docx": [2548], "Hebrews_ch_7.docx": [1160]}

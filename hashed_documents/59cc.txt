@@ -1,0 +1,7 @@
+
+phada	{"Numbers_ch_1.docx": [951], "Numbers_ch_7.docx": [6317, 6962, 6317, 6962, 6317, 6962], "Numbers_ch_10.docx": [2567, 2567, 2567], "Numbers_ch_34.docx": [2574, 2574, 2574], "2 Kings_ch_23.docx": [7953, 7953, 7953], "1 Chronicles_ch_3.docx": [2216, 2216, 2216]}
+pre-	{"Ephesians_ch_1.docx": [542, 545, 545]}
+phada	{"Numbers_ch_1.docx": [951], "Numbers_ch_7.docx": [6317, 6962, 6317, 6962], "Numbers_ch_10.docx": [2567, 2567], "Numbers_ch_34.docx": [2574, 2574], "2 Kings_ch_23.docx": [7953, 7953], "1 Chronicles_ch_3.docx": [2216, 2216]}
+20[i	{"1 Chronicles_ch_27.docx": [2616]}
+phada	{"Numbers_ch_1.docx": [951], "Numbers_ch_7.docx": [6317, 6962], "Numbers_ch_10.docx": [2567], "Numbers_ch_34.docx": [2574], "2 Kings_ch_23.docx": [7953], "1 Chronicles_ch_3.docx": [2216]}
+pre-	{"Ephesians_ch_1.docx": [542, 545]}

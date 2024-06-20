@@ -1,0 +1,5 @@
+
+peres	{"Daniel_ch_5.docx": [5053, 5257, 5257]}
+24‘now	{"Exodus_ch_12.docx": [3952], "Deuteronomy_ch_14.docx": [2326], "Ezekiel_ch_24.docx": [3568], "Matthew_ch_7.docx": [2767]}
+peres	{"Daniel_ch_5.docx": [5053, 5257]}
+peres	{"Daniel_ch_5.docx": [5053, 5257]}

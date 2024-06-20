@@ -1,0 +1,5 @@
+
+besem	{"Joshua_ch_19.docx": [2742]}
+4‘i	{"Genesis_ch_23.docx": [290], "Genesis_ch_24.docx": [440], "Genesis_ch_26.docx": [524], "Genesis_ch_46.docx": [434], "Exodus_ch_9.docx": [400], "Exodus_ch_15.docx": [431], "Deuteronomy_ch_30.docx": [538], "1 Kings_ch_2.docx": [456], "2 Kings_ch_7.docx": [693], "Ezra_ch_6.docx": [512], "Job_ch_19.docx": [253], "Ecclesiastes_ch_4.docx": [498], "Ecclesiastes_ch_10.docx": [344], "Isaiah_ch_15.docx": [536], "Isaiah_ch_43.docx": [603], "Isaiah_ch_48.docx": [758], "Isaiah_ch_57.docx": [437], "Jeremiah_ch_11.docx": [472], "Ezekiel_ch_18.docx": [321], "Ezekiel_ch_21.docx": [463], "Ezekiel_ch_32.docx": [640], "Daniel_ch_4.docx": [380], "Micah_ch_2.docx": [622]}
+besem	{"Joshua_ch_19.docx": [2742]}
+besem	{"Joshua_ch_19.docx": [2742]}

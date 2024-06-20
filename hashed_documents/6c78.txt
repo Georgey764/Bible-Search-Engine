@@ -1,0 +1,2 @@
+
+13as	{"1 Samuel_ch_2.docx": [2239], "1 Samuel_ch_9.docx": [1873], "2 Samuel_ch_22.docx": [1318], "2 Chronicles_ch_12.docx": [1659], "2 Chronicles_ch_31.docx": [2255], "Psalms_ch_65.docx": [1512], "Psalms_ch_103.docx": [1074]}

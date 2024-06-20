@@ -1,0 +1,4 @@
+
+patt	{"Exodus_ch_26.docx": [27], "Numbers_ch_8.docx": [382, 382, 382], "John_ch_13.docx": [1806, 1806], "Acts_ch_7.docx": [6641, 6641], "Hebrews_ch_8.docx": [442, 773, 442, 773]}
+patt	{"Exodus_ch_26.docx": [27], "Numbers_ch_8.docx": [382, 382], "John_ch_13.docx": [1806], "Acts_ch_7.docx": [6641], "Hebrews_ch_8.docx": [442, 773]}
+patt	{"Exodus_ch_26.docx": [27], "Numbers_ch_8.docx": [382], "John_ch_13.docx": [1806], "Acts_ch_7.docx": [6641], "Hebrews_ch_8.docx": [442, 773]}

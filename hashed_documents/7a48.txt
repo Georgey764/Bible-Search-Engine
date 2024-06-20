@@ -1,0 +1,4 @@
+
+vint	{"Jeremiah_ch_25.docx": [5042], "Hosea_ch_10.docx": [3074, 3285, 3074, 3285, 3074, 3285]}
+vint	{"Jeremiah_ch_25.docx": [5042], "Hosea_ch_10.docx": [3074, 3285, 3074, 3285]}
+vint	{"Jeremiah_ch_25.docx": [5042], "Hosea_ch_10.docx": [3074, 3285]}

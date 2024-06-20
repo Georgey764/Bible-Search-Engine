@@ -1,0 +1,4 @@
+
+–th	{"2 Kings_ch_19.docx": [517], "Mark_ch_7.docx": [1335, 1335], "John_ch_17.docx": [213, 213], "Acts_ch_24.docx": [533, 544, 556, 533, 544, 556], "1 Corinthians_ch_8.docx": [402, 402]}
+–th	{"2 Kings_ch_19.docx": [517], "Mark_ch_7.docx": [1335], "John_ch_17.docx": [213], "Acts_ch_24.docx": [533, 544, 556], "1 Corinthians_ch_8.docx": [402]}
+–th	{"2 Kings_ch_19.docx": [517], "Mark_ch_7.docx": [1335], "John_ch_17.docx": [213], "Acts_ch_24.docx": [533, 544, 556], "1 Corinthians_ch_8.docx": [402]}

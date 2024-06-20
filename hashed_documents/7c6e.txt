@@ -1,0 +1,4 @@
+
+birthd	{"Genesis_ch_40.docx": [2463], "Matthew_ch_14.docx": [593, 593, 593], "Mark_ch_6.docx": [2930, 2930]}
+birthd	{"Genesis_ch_40.docx": [2463], "Matthew_ch_14.docx": [593, 593], "Mark_ch_6.docx": [2930]}
+birthd	{"Genesis_ch_40.docx": [2463], "Matthew_ch_14.docx": [593], "Mark_ch_6.docx": [2930]}

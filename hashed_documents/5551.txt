@@ -1,0 +1,4 @@
+
+adve	{"Exodus_ch_9.docx": [2165], "Matthew_ch_5.docx": [2969, 2969, 2969], "Colossians_ch_1.docx": [4061, 4061]}
+adve	{"Exodus_ch_9.docx": [2165], "Matthew_ch_5.docx": [2969, 2969], "Colossians_ch_1.docx": [4061]}
+adve	{"Exodus_ch_9.docx": [2165], "Matthew_ch_5.docx": [2969], "Colossians_ch_1.docx": [4061]}

@@ -1,0 +1,7 @@
+
+ram-o	{"Leviticus_ch_7.docx": [125]}
+ench	{"Numbers_ch_23.docx": [3057], "Isaiah_ch_47.docx": [1676, 2230, 1676, 2230, 1676, 2230]}
+ram-o	{"Leviticus_ch_7.docx": [125]}
+ench	{"Numbers_ch_23.docx": [3057], "Isaiah_ch_47.docx": [1676, 2230, 1676, 2230]}
+ram-o	{"Leviticus_ch_7.docx": [125]}
+ench	{"Numbers_ch_23.docx": [3057], "Isaiah_ch_47.docx": [1676, 2230]}

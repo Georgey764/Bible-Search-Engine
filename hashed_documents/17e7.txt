@@ -1,0 +1,4 @@
+
+pich	{"Genesis_ch_21.docx": [2630, 3630, 3630, 3630]}
+pich	{"Genesis_ch_21.docx": [2630, 3630, 3630]}
+pich	{"Genesis_ch_21.docx": [2630, 3630]}

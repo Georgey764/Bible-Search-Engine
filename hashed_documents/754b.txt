@@ -1,0 +1,3 @@
+
+augu	{"Luke_ch_2.docx": [9], "Acts_ch_25.docx": [6349, 7777, 6349, 7777], "Acts_ch_27.docx": [38, 38]}
+augu	{"Luke_ch_2.docx": [9], "Acts_ch_25.docx": [6349, 7777], "Acts_ch_27.docx": [38]}

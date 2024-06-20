@@ -1,0 +1,7 @@
+
+swel	{"Numbers_ch_5.docx": [3287, 3368, 4079, 3368, 4079, 3368, 4079], "Job_ch_30.docx": [2911, 2911, 2911], "Proverbs_ch_10.docx": [452, 452, 452], "Jeremiah_ch_17.docx": [1310, 1310, 1310], "Jeremiah_ch_36.docx": [5321, 5321, 5321], "Jonah_ch_1.docx": [482, 1782, 1874, 482, 1782, 1874, 482, 1782, 1874]}
+downh	{"Psalms_ch_43.docx": [206]}
+swel	{"Numbers_ch_5.docx": [3287, 3368, 4079, 3368, 4079], "Job_ch_30.docx": [2911, 2911], "Proverbs_ch_10.docx": [452, 452], "Jeremiah_ch_17.docx": [1310, 1310], "Jeremiah_ch_36.docx": [5321, 5321], "Jonah_ch_1.docx": [482, 1782, 1874, 482, 1782, 1874]}
+downh	{"Psalms_ch_43.docx": [206]}
+swel	{"Numbers_ch_5.docx": [3287, 3368, 4079], "Job_ch_30.docx": [2911], "Proverbs_ch_10.docx": [452], "Jeremiah_ch_17.docx": [1310], "Jeremiah_ch_36.docx": [5321], "Jonah_ch_1.docx": [482, 1782, 1874]}
+downh	{"Psalms_ch_43.docx": [206]}

@@ -1,0 +1,7 @@
+
+washer	{"Isaiah_ch_7.docx": [513], "Isaiah_ch_36.docx": [73, 73, 73]}
+intoxi	{"Habakkuk_ch_2.docx": [2445], "John_ch_2.docx": [978, 978]}
+washer	{"Isaiah_ch_7.docx": [513], "Isaiah_ch_36.docx": [73, 73]}
+intoxi	{"Habakkuk_ch_2.docx": [2445], "John_ch_2.docx": [978]}
+washer	{"Isaiah_ch_7.docx": [513], "Isaiah_ch_36.docx": [73]}
+intoxi	{"Habakkuk_ch_2.docx": [2445], "John_ch_2.docx": [978]}

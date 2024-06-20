@@ -1,0 +1,5 @@
+
+riso	{"Genesis_ch_36.docx": [2420, 3000, 3186, 3186, 3000, 3186]}
+riso	{"Genesis_ch_36.docx": [2420, 3186, 3000, 3186]}
+39on	{"Exodus_ch_29.docx": [5295]}
+riso	{"Genesis_ch_36.docx": [2420, 3000, 3186]}

@@ -1,0 +1,4 @@
+
+sky;	{"Exodus_ch_20.docx": [2503], "Job_ch_18.docx": [1608, 1608, 1608], "Psalms_ch_107.docx": [2228, 2228, 2228], "Isaiah_ch_14.docx": [2095, 2095, 2095]}
+sky;	{"Exodus_ch_20.docx": [2503], "Job_ch_18.docx": [1608, 1608], "Psalms_ch_107.docx": [2228, 2228], "Isaiah_ch_14.docx": [2095, 2095]}
+sky;	{"Exodus_ch_20.docx": [2503], "Job_ch_18.docx": [1608], "Psalms_ch_107.docx": [2228], "Isaiah_ch_14.docx": [2095]}

@@ -1,0 +1,7 @@
+
+exele	{"Joshua_ch_19.docx": [1973]}
+melz	{"Daniel_ch_1.docx": [1820, 2441, 2441, 2441]}
+exele	{"Joshua_ch_19.docx": [1973]}
+melz	{"Daniel_ch_1.docx": [1820, 2441, 2441]}
+exele	{"Joshua_ch_19.docx": [1973]}
+melz	{"Daniel_ch_1.docx": [1820, 2441]}

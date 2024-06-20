@@ -1,0 +1,4 @@
+
+bail	{"1 Chronicles_ch_27.docx": [3852], "Matthew_ch_5.docx": [2991, 2991, 2991], "Luke_ch_12.docx": [7803, 7803], "Acts_ch_17.docx": [1652, 1652]}
+bail	{"1 Chronicles_ch_27.docx": [3852], "Matthew_ch_5.docx": [2991, 2991], "Luke_ch_12.docx": [7803], "Acts_ch_17.docx": [1652]}
+bail	{"1 Chronicles_ch_27.docx": [3852], "Matthew_ch_5.docx": [2991], "Luke_ch_12.docx": [7803], "Acts_ch_17.docx": [1652]}

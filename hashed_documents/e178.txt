@@ -1,0 +1,4 @@
+
+expen	{"2 Chronicles_ch_16.docx": [2273], "Ezra_ch_6.docx": [605, 1355, 605, 1355, 605, 1355], "Proverbs_ch_3.docx": [1280, 1280, 1280], "Matthew_ch_26.docx": [547, 547, 547], "Mark_ch_14.docx": [308, 308], "John_ch_12.docx": [384, 384], "1 Corinthians_ch_9.docx": [505, 505], "1 Thessalonians_ch_2.docx": [1130, 1130], "1 Timothy_ch_2.docx": [981, 981]}
+expen	{"2 Chronicles_ch_16.docx": [2273], "Ezra_ch_6.docx": [605, 1355, 605, 1355], "Proverbs_ch_3.docx": [1280, 1280], "Matthew_ch_26.docx": [547, 547], "Mark_ch_14.docx": [308], "John_ch_12.docx": [384], "1 Corinthians_ch_9.docx": [505], "1 Thessalonians_ch_2.docx": [1130], "1 Timothy_ch_2.docx": [981]}
+expen	{"2 Chronicles_ch_16.docx": [2273], "Ezra_ch_6.docx": [605, 1355], "Proverbs_ch_3.docx": [1280], "Matthew_ch_26.docx": [547], "Mark_ch_14.docx": [308], "John_ch_12.docx": [384], "1 Corinthians_ch_9.docx": [505], "1 Thessalonians_ch_2.docx": [1130], "1 Timothy_ch_2.docx": [981]}

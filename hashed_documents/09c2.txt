@@ -1,0 +1,5 @@
+
+curr	{"Psalms_ch_45.docx": [1932], "Ezekiel_ch_12.docx": [4180, 4180, 4180], "John_ch_2.docx": [1472, 1504, 1472, 1504], "Romans_ch_8.docx": [2319, 2319], "1 Peter_ch_1.docx": [2991, 2991], "1 Peter_ch_3.docx": [2863, 2863]}
+20or	{"1 Chronicles_ch_2.docx": [1694], "Job_ch_31.docx": [1765]}
+curr	{"Psalms_ch_45.docx": [1932], "Ezekiel_ch_12.docx": [4180, 4180], "John_ch_2.docx": [1472, 1504], "Romans_ch_8.docx": [2319], "1 Peter_ch_1.docx": [2991], "1 Peter_ch_3.docx": [2863]}
+curr	{"Psalms_ch_45.docx": [1932], "Ezekiel_ch_12.docx": [4180], "John_ch_2.docx": [1472, 1504], "Romans_ch_8.docx": [2319], "1 Peter_ch_1.docx": [2991], "1 Peter_ch_3.docx": [2863]}

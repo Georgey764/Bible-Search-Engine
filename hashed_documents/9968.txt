@@ -1,0 +1,4 @@
+
+kedma	{"Genesis_ch_25.docx": [1509], "1 Chronicles_ch_1.docx": [2393, 2393, 2393]}
+kedma	{"Genesis_ch_25.docx": [1509], "1 Chronicles_ch_1.docx": [2393, 2393]}
+kedma	{"Genesis_ch_25.docx": [1509], "1 Chronicles_ch_1.docx": [2393]}

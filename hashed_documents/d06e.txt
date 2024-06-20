@@ -1,0 +1,5 @@
+
+starva	{"Jeremiah_ch_14.docx": [2632], "Jeremiah_ch_16.docx": [540, 540, 540], "Lamentations_ch_4.docx": [1401, 1401, 1401]}
+4be	{"Deuteronomy_ch_20.docx": [465], "Deuteronomy_ch_23.docx": [178], "1 Kings_ch_4.docx": [289], "Psalms_ch_62.docx": [448], "Psalms_ch_108.docx": [269], "Proverbs_ch_25.docx": [259], "Jeremiah_ch_20.docx": [406]}
+starva	{"Jeremiah_ch_14.docx": [2632], "Jeremiah_ch_16.docx": [540, 540], "Lamentations_ch_4.docx": [1401, 1401]}
+starva	{"Jeremiah_ch_14.docx": [2632], "Jeremiah_ch_16.docx": [540], "Lamentations_ch_4.docx": [1401]}

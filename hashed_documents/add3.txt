@@ -1,0 +1,7 @@
+
+amarph	{"Genesis_ch_14.docx": [10, 1085, 1085, 1085]}
+braide	{"Judges_ch_16.docx": [2395], "Ezekiel_ch_16.docx": [1641, 2037, 1641, 2037, 1641, 2037], "Matthew_ch_27.docx": [3282, 3282], "Mark_ch_15.docx": [1575, 1575], "John_ch_19.docx": [20, 20]}
+amarph	{"Genesis_ch_14.docx": [10, 1085, 1085]}
+braide	{"Judges_ch_16.docx": [2395], "Ezekiel_ch_16.docx": [1641, 2037, 1641, 2037], "Matthew_ch_27.docx": [3282], "Mark_ch_15.docx": [1575], "John_ch_19.docx": [20]}
+amarph	{"Genesis_ch_14.docx": [10, 1085]}
+braide	{"Judges_ch_16.docx": [2395], "Ezekiel_ch_16.docx": [1641, 2037], "Matthew_ch_27.docx": [3282], "Mark_ch_15.docx": [1575], "John_ch_19.docx": [20]}

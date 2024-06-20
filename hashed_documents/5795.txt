@@ -1,0 +1,5 @@
+
+proli	{"Psalms_ch_144.docx": [1431]}
+6ma	{"Genesis_ch_49.docx": [551], "Psalms_ch_4.docx": [560], "Psalms_ch_35.docx": [455], "Psalms_ch_59.docx": [769], "Psalms_ch_72.docx": [494], "Psalms_ch_128.docx": [560], "Psalms_ch_137.docx": [535], "Proverbs_ch_19.docx": [326]}
+proli	{"Psalms_ch_144.docx": [1431]}
+proli	{"Psalms_ch_144.docx": [1431]}

@@ -1,0 +1,5 @@
+
+demon-	{"Matthew_ch_4.docx": [2993], "Matthew_ch_8.docx": [1966, 3502, 4323, 1966, 3502, 4323, 1966, 3502, 4323], "Matthew_ch_12.docx": [2388, 2388, 2388], "Mark_ch_1.docx": [3662, 3662], "Mark_ch_5.docx": [1786, 1786], "Luke_ch_8.docx": [5438, 5438]}
+13moab	{"Jeremiah_ch_48.docx": [1823]}
+demon-	{"Matthew_ch_4.docx": [2993], "Matthew_ch_8.docx": [1966, 3502, 4323, 1966, 3502, 4323], "Matthew_ch_12.docx": [2388, 2388], "Mark_ch_1.docx": [3662], "Mark_ch_5.docx": [1786], "Luke_ch_8.docx": [5438]}
+demon-	{"Matthew_ch_4.docx": [2993], "Matthew_ch_8.docx": [1966, 3502, 4323], "Matthew_ch_12.docx": [2388], "Mark_ch_1.docx": [3662], "Mark_ch_5.docx": [1786], "Luke_ch_8.docx": [5438]}

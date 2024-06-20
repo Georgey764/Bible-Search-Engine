@@ -1,0 +1,4 @@
+
+gadeon	{"Numbers_ch_1.docx": [1060], "Numbers_ch_7.docx": [7013, 7654, 7013, 7654, 7013, 7654], "Numbers_ch_10.docx": [2584, 2584, 2584]}
+gadeon	{"Numbers_ch_1.docx": [1060], "Numbers_ch_7.docx": [7013, 7654, 7013, 7654], "Numbers_ch_10.docx": [2584, 2584]}
+gadeon	{"Numbers_ch_1.docx": [1060], "Numbers_ch_7.docx": [7013, 7654], "Numbers_ch_10.docx": [2584]}

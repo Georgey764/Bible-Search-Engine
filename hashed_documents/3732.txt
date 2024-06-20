@@ -1,0 +1,4 @@
+
+souph	{"1 Chronicles_ch_6.docx": [1800, 1808, 2764, 1808, 2764, 1808, 2764]}
+souph	{"1 Chronicles_ch_6.docx": [1800, 1808, 2764, 1808, 2764]}
+souph	{"1 Chronicles_ch_6.docx": [1800, 1808, 2764]}

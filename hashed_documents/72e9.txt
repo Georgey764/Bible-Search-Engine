@@ -1,0 +1,4 @@
+
+gently	{"Acts_ch_27.docx": [1770], "1 Thessalonians_ch_2.docx": [875, 875]}
+18‘lis	{"Isaiah_ch_42.docx": [2762]}
+gently	{"Acts_ch_27.docx": [1770], "1 Thessalonians_ch_2.docx": [875]}

@@ -1,0 +1,8 @@
+
+rhoobo	{"Genesis_ch_36.docx": [3820]}
+nisa	{"Nehemiah_ch_2.docx": [11], "Esther_ch_8.docx": [1343, 1343, 1343]}
+rhoobo	{"Genesis_ch_36.docx": [3820]}
+27.2	{"Exodus_ch_37.docx": [2328], "Exodus_ch_38.docx": [3504], "1 Chronicles_ch_20.docx": [262]}
+nisa	{"Nehemiah_ch_2.docx": [11], "Esther_ch_8.docx": [1343, 1343]}
+rhoobo	{"Genesis_ch_36.docx": [3820]}
+nisa	{"Nehemiah_ch_2.docx": [11], "Esther_ch_8.docx": [1343]}

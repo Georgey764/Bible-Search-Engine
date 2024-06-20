@@ -1,0 +1,5 @@
+
+gabri	{"Daniel_ch_8.docx": [2500], "Daniel_ch_9.docx": [3731, 3731, 3731], "Luke_ch_1.docx": [2414, 3263, 2414, 3263]}
+30‘thi	{"Genesis_ch_42.docx": [3891], "Isaiah_ch_37.docx": [4864]}
+gabri	{"Daniel_ch_8.docx": [2500], "Daniel_ch_9.docx": [3731, 3731], "Luke_ch_1.docx": [2414, 3263]}
+gabri	{"Daniel_ch_8.docx": [2500], "Daniel_ch_9.docx": [3731], "Luke_ch_1.docx": [2414, 3263]}

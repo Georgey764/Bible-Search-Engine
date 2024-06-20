@@ -1,0 +1,4 @@
+
+plotte	{"Genesis_ch_49.docx": [2715], "2 Samuel_ch_2.docx": [2318, 2318, 2318], "1 Kings_ch_5.docx": [454, 454, 454], "1 Kings_ch_16.docx": [1255, 1255, 1255], "2 Kings_ch_10.docx": [1761, 1761, 1761], "2 Kings_ch_14.docx": [3142, 3142, 3142], "2 Kings_ch_21.docx": [3999, 4101, 3999, 4101, 3999, 4101], "Psalms_ch_35.docx": [2169, 2169, 2169]}
+plotte	{"Genesis_ch_49.docx": [2715], "2 Samuel_ch_2.docx": [2318, 2318], "1 Kings_ch_5.docx": [454, 454], "1 Kings_ch_16.docx": [1255, 1255], "2 Kings_ch_10.docx": [1761, 1761], "2 Kings_ch_14.docx": [3142, 3142], "2 Kings_ch_21.docx": [3999, 4101, 3999, 4101], "Psalms_ch_35.docx": [2169, 2169]}
+plotte	{"Genesis_ch_49.docx": [2715], "2 Samuel_ch_2.docx": [2318], "1 Kings_ch_5.docx": [454], "1 Kings_ch_16.docx": [1255], "2 Kings_ch_10.docx": [1761], "2 Kings_ch_14.docx": [3142], "2 Kings_ch_21.docx": [3999, 4101], "Psalms_ch_35.docx": [2169]}

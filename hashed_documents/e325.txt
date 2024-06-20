@@ -1,0 +1,7 @@
+
+flight	{"Leviticus_ch_19.docx": [3572], "Proverbs_ch_30.docx": [2056, 2056, 2056], "Jeremiah_ch_25.docx": [5887, 5887, 5887], "Amos_ch_2.docx": [3603, 3603, 3603]}
+bugs	{"Amos_ch_4.docx": [2288]}
+flight	{"Leviticus_ch_19.docx": [3572], "Proverbs_ch_30.docx": [2056, 2056], "Jeremiah_ch_25.docx": [5887, 5887], "Amos_ch_2.docx": [3603, 3603]}
+bugs	{"Amos_ch_4.docx": [2288]}
+flight	{"Leviticus_ch_19.docx": [3572], "Proverbs_ch_30.docx": [2056], "Jeremiah_ch_25.docx": [5887], "Amos_ch_2.docx": [3603]}
+bugs	{"Amos_ch_4.docx": [2288]}

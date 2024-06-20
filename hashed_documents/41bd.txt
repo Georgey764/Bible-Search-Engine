@@ -1,0 +1,4 @@
+
+groans	{"Lamentations_ch_1.docx": [2058], "Ezekiel_ch_26.docx": [2677, 2677, 2677]}
+groans	{"Lamentations_ch_1.docx": [2058], "Ezekiel_ch_26.docx": [2677, 2677]}
+groans	{"Lamentations_ch_1.docx": [2058], "Ezekiel_ch_26.docx": [2677]}

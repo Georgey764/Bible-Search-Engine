@@ -1,0 +1,8 @@
+
+achin	{"Genesis_ch_34.docx": [3186], "Genesis_ch_46.docx": [1254, 1254, 1254], "1 Kings_ch_4.docx": [1577, 1577], "1 Chronicles_ch_3.docx": [94, 94, 94]}
+damp	{"Jeremiah_ch_48.docx": [2337]}
+4but	{"Genesis_ch_9.docx": [407], "Exodus_ch_5.docx": [626], "Exodus_ch_7.docx": [297], "Joshua_ch_2.docx": [558], "Joshua_ch_3.docx": [414], "Ruth_ch_3.docx": [427], "1 Samuel_ch_12.docx": [657], "1 Samuel_ch_21.docx": [418], "2 Samuel_ch_7.docx": [394], "1 Kings_ch_15.docx": [426], "2 Kings_ch_11.docx": [512], "1 Chronicles_ch_24.docx": [621], "2 Chronicles_ch_1.docx": [186], "2 Chronicles_ch_2.docx": [363], "2 Chronicles_ch_15.docx": [422], "2 Chronicles_ch_21.docx": [460], "2 Chronicles_ch_25.docx": [276], "Ezra_ch_4.docx": [677], "Job_ch_12.docx": [162], "Psalms_ch_1.docx": [338], "Psalms_ch_2.docx": [570], "Psalms_ch_10.docx": [391], "Psalms_ch_54.docx": [455], "Psalms_ch_60.docx": [713], "Psalms_ch_70.docx": [357], "Psalms_ch_75.docx": [390], "Psalms_ch_93.docx": [345], "Psalms_ch_116.docx": [327], "Psalms_ch_129.docx": [371], "Psalms_ch_130.docx": [302], "Psalms_ch_137.docx": [382], "Proverbs_ch_5.docx": [307], "Isaiah_ch_19.docx": [621], "Isaiah_ch_33.docx": [532], "Isaiah_ch_53.docx": [546], "Jonah_ch_1.docx": [470], "Matthew_ch_9.docx": [434]}
+achin	{"Genesis_ch_34.docx": [3186], "Genesis_ch_46.docx": [1254, 1254], "1 Chronicles_ch_3.docx": [94, 94], "1 Kings_ch_4.docx": [1577]}
+damp	{"Jeremiah_ch_48.docx": [2337]}
+achin	{"Genesis_ch_34.docx": [3186], "Genesis_ch_46.docx": [1254], "1 Kings_ch_4.docx": [1577], "1 Chronicles_ch_3.docx": [94]}
+damp	{"Jeremiah_ch_48.docx": [2337]}

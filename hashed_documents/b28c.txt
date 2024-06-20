@@ -1,0 +1,7 @@
+
+jat	{"1 Samuel_ch_30.docx": [4376], "1 Chronicles_ch_24.docx": [2444, 2444, 2444]}
+thumim	{"Ezra_ch_2.docx": [2989]}
+jat	{"1 Samuel_ch_30.docx": [4376], "1 Chronicles_ch_24.docx": [2444, 2444]}
+thumim	{"Ezra_ch_2.docx": [2989]}
+jat	{"1 Samuel_ch_30.docx": [4376], "1 Chronicles_ch_24.docx": [2444]}
+thumim	{"Ezra_ch_2.docx": [2989]}

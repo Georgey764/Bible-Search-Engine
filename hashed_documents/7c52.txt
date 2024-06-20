@@ -1,0 +1,5 @@
+
+fitte	{"Exodus_ch_26.docx": [2703], "Isaiah_ch_41.docx": [2495, 2495, 2495], "Ephesians_ch_2.docx": [2869, 2869]}
+fitte	{"Exodus_ch_26.docx": [2703], "Isaiah_ch_41.docx": [2495, 2495], "Ephesians_ch_2.docx": [2869]}
+1you	{"Psalms_ch_33.docx": [36], "Psalms_ch_89.docx": [67]}
+fitte	{"Exodus_ch_26.docx": [2703], "Isaiah_ch_41.docx": [2495], "Ephesians_ch_2.docx": [2869]}

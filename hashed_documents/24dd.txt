@@ -1,0 +1,4 @@
+
+sharo	{"1 Chronicles_ch_5.docx": [2021], "1 Chronicles_ch_27.docx": [4024, 4028, 4024, 4028, 4024, 4028], "Isaiah_ch_33.docx": [1370, 1370, 1370]}
+sharo	{"1 Chronicles_ch_5.docx": [2021], "1 Chronicles_ch_27.docx": [4024, 4028, 4024, 4028], "Isaiah_ch_33.docx": [1370, 1370]}
+sharo	{"1 Chronicles_ch_5.docx": [2021], "1 Chronicles_ch_27.docx": [4024, 4028], "Isaiah_ch_33.docx": [1370]}

@@ -1,0 +1,5 @@
+
+reaj	{"Ezra_ch_2.docx": [1767], "Nehemiah_ch_7.docx": [2850, 2850]}
+reaj	{"Ezra_ch_2.docx": [1767], "Nehemiah_ch_7.docx": [2850]}
+3jus	{"Psalms_ch_15.docx": [211]}
+reaj	{"Ezra_ch_2.docx": [1767], "Nehemiah_ch_7.docx": [2850]}

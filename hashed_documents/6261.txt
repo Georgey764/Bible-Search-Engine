@@ -1,0 +1,8 @@
+
+rheu	{"Genesis_ch_22.docx": [3468]}
+musin	{"Psalms_ch_52.docx": [47]}
+rheu	{"Genesis_ch_22.docx": [3468]}
+9‘d	{"Numbers_ch_14.docx": [1069], "Ecclesiastes_ch_7.docx": [973], "Matthew_ch_16.docx": [1136]}
+musin	{"Psalms_ch_52.docx": [47]}
+rheu	{"Genesis_ch_22.docx": [3468]}
+musin	{"Psalms_ch_52.docx": [47]}

@@ -1,0 +1,5 @@
+
+samer	{"1 Chronicles_ch_7.docx": [3983, 4088, 4088], "1 Chronicles_ch_11.docx": [6438, 6438, 6438], "1 Chronicles_ch_24.docx": [2602, 2602, 2602]}
+38fo	{"Leviticus_ch_25.docx": [5391]}
+samer	{"1 Chronicles_ch_7.docx": [3983, 4088], "1 Chronicles_ch_11.docx": [6438, 6438], "1 Chronicles_ch_24.docx": [2602, 2602]}
+samer	{"1 Chronicles_ch_7.docx": [3983, 4088], "1 Chronicles_ch_11.docx": [6438], "1 Chronicles_ch_24.docx": [2602]}

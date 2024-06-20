@@ -1,0 +1,3 @@
+
+46t	{"Genesis_ch_27.docx": [6321], "Exodus_ch_29.docx": [6188], "Leviticus_ch_11.docx": [5606], "Leviticus_ch_26.docx": [6462], "Numbers_ch_26.docx": [4748], "Joshua_ch_19.docx": [3525], "1 Kings_ch_2.docx": [8211], "1 Kings_ch_18.docx": [7803], "Nehemiah_ch_7.docx": [2832], "Matthew_ch_24.docx": [5310]}
+15‘[pl	{"Job_ch_7.docx": [1511]}

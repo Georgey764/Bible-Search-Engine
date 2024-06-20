@@ -1,0 +1,4 @@
+
+knif	{"Genesis_ch_22.docx": [865, 1559, 1559, 1559], "Deuteronomy_ch_21.docx": [13, 13, 13], "Ezekiel_ch_5.docx": [416, 416, 416]}
+knif	{"Genesis_ch_22.docx": [865, 1559, 1559], "Deuteronomy_ch_21.docx": [13, 13], "Ezekiel_ch_5.docx": [416, 416]}
+knif	{"Genesis_ch_22.docx": [865, 1559], "Deuteronomy_ch_21.docx": [13], "Ezekiel_ch_5.docx": [416]}

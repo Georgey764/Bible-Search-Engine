@@ -1,0 +1,4 @@
+
+speak!	{"1 Samuel_ch_15.docx": [2439], "Job_ch_33.docx": [3418, 3418, 3418], "Isaiah_ch_32.docx": [527, 527, 527], "Habakkuk_ch_2.docx": [3272, 3272, 3272], "Mark_ch_7.docx": [4789, 4789]}
+speak!	{"1 Samuel_ch_15.docx": [2439], "Job_ch_33.docx": [3418, 3418], "Isaiah_ch_32.docx": [527, 527], "Habakkuk_ch_2.docx": [3272, 3272], "Mark_ch_7.docx": [4789]}
+speak!	{"1 Samuel_ch_15.docx": [2439], "Job_ch_33.docx": [3418], "Isaiah_ch_32.docx": [527], "Habakkuk_ch_2.docx": [3272], "Mark_ch_7.docx": [4789]}

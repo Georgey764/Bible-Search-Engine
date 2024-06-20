@@ -1,0 +1,6 @@
+
+freew	{"Deuteronomy_ch_12.docx": [930, 1736, 1736, 1736]}
+18en	{"Genesis_ch_4.docx": [2192]}
+freew	{"Deuteronomy_ch_12.docx": [930, 1736, 1736]}
+21it’s	{"Psalms_ch_104.docx": [2118]}
+freew	{"Deuteronomy_ch_12.docx": [930, 1736]}

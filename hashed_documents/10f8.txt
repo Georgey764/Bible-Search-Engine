@@ -1,0 +1,3 @@
+
+37,	{"1 Chronicles_ch_12.docx": [4371]}
+22u	{"Proverbs_ch_5.docx": [1902], "Proverbs_ch_16.docx": [2281]}

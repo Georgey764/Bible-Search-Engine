@@ -1,0 +1,4 @@
+
+stork	{"Leviticus_ch_11.docx": [1918], "Deuteronomy_ch_14.docx": [1414, 1414, 1414], "Job_ch_39.docx": [1201, 1201, 1201], "Jeremiah_ch_8.docx": [1342, 1342, 1342]}
+stork	{"Leviticus_ch_11.docx": [1918], "Deuteronomy_ch_14.docx": [1414, 1414], "Job_ch_39.docx": [1201, 1201], "Jeremiah_ch_8.docx": [1342, 1342]}
+stork	{"Leviticus_ch_11.docx": [1918], "Deuteronomy_ch_14.docx": [1414], "Job_ch_39.docx": [1201], "Jeremiah_ch_8.docx": [1342]}

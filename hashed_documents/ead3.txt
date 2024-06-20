@@ -1,0 +1,6 @@
+
+bege	{"Joshua_ch_19.docx": [3453]}
+17afte	{"Exodus_ch_37.docx": [1737]}
+bege	{"Joshua_ch_19.docx": [3453]}
+24[‘je	{"Jeremiah_ch_33.docx": [4188]}
+bege	{"Joshua_ch_19.docx": [3453]}

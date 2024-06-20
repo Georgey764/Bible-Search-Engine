@@ -1,0 +1,5 @@
+
+leani	{"2 Samuel_ch_1.docx": [814], "2 Kings_ch_18.docx": [3359, 3359, 3359], "1 Chronicles_ch_15.docx": [4177, 4177, 4177], "Proverbs_ch_3.docx": [1649, 1649, 1649], "Hebrews_ch_11.docx": [4377, 4377]}
+leani	{"2 Samuel_ch_1.docx": [814], "2 Kings_ch_18.docx": [3359, 3359], "1 Chronicles_ch_15.docx": [4177, 4177], "Proverbs_ch_3.docx": [1649, 1649], "Hebrews_ch_11.docx": [4377]}
+3pleas	{"Psalms_ch_74.docx": [291], "Psalms_ch_82.docx": [201]}
+leani	{"2 Samuel_ch_1.docx": [814], "2 Kings_ch_18.docx": [3359], "1 Chronicles_ch_15.docx": [4177], "Proverbs_ch_3.docx": [1649], "Hebrews_ch_11.docx": [4377]}

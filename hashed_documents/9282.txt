@@ -1,0 +1,4 @@
+
+need!	{"Judges_ch_18.docx": [2331], "Ruth_ch_2.docx": [3716, 3716, 3716]}
+need!	{"Judges_ch_18.docx": [2331], "Ruth_ch_2.docx": [3716, 3716]}
+need!	{"Judges_ch_18.docx": [2331], "Ruth_ch_2.docx": [3716]}

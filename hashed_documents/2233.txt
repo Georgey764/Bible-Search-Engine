@@ -1,0 +1,4 @@
+
+recla	{"Proverbs_ch_20.docx": [2333], "Jeremiah_ch_34.docx": [2962, 2962, 2962]}
+recla	{"Proverbs_ch_20.docx": [2333], "Jeremiah_ch_34.docx": [2962, 2962]}
+recla	{"Proverbs_ch_20.docx": [2333], "Jeremiah_ch_34.docx": [2962]}

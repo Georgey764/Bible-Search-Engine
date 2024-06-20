@@ -1,0 +1,4 @@
+
+asna	{"Ezra_ch_2.docx": [1999], "Ezra_ch_4.docx": [1485, 1485]}
+asna	{"Ezra_ch_4.docx": [1485, 1485]}
+asna	{"Ezra_ch_2.docx": [1999], "Ezra_ch_4.docx": [1485]}

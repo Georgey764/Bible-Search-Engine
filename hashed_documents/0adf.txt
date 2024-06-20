@@ -1,0 +1,4 @@
+
+talen	{"Exodus_ch_31.docx": [553], "Revelation_ch_16.docx": [2983, 2983]}
+talen	{"Exodus_ch_31.docx": [553], "Revelation_ch_16.docx": [2983]}
+talen	{"Exodus_ch_31.docx": [553], "Revelation_ch_16.docx": [2983]}

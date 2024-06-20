@@ -1,0 +1,4 @@
+
+shoa	{"Ezekiel_ch_23.docx": [3647], "Acts_ch_27.docx": [2354, 5401, 2354, 5401]}
+shoa	{"Ezekiel_ch_23.docx": [3647], "Acts_ch_27.docx": [2354, 5401]}
+shoa	{"Ezekiel_ch_23.docx": [3647], "Acts_ch_27.docx": [2354, 5401]}

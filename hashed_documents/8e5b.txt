@@ -1,0 +1,5 @@
+
+mischi	{"Proverbs_ch_19.docx": [2316], "Proverbs_ch_22.docx": [1027, 1027, 1027], "Proverbs_ch_29.docx": [720, 720, 720]}
+mischi	{"Proverbs_ch_19.docx": [2316], "Proverbs_ch_22.docx": [1027, 1027], "Proverbs_ch_29.docx": [720, 720]}
+44‘je	{"Matthew_ch_22.docx": [4695]}
+mischi	{"Proverbs_ch_19.docx": [2316], "Proverbs_ch_22.docx": [1027], "Proverbs_ch_29.docx": [720]}

@@ -1,0 +1,5 @@
+
+aphars	{"Ezra_ch_4.docx": [1455, 1457, 1457, 1457], "Ezra_ch_5.docx": [931, 931, 931], "Ezra_ch_6.docx": [980, 980, 980]}
+aphars	{"Ezra_ch_4.docx": [1455, 1457, 1457], "Ezra_ch_5.docx": [931, 931], "Ezra_ch_6.docx": [980, 980]}
+16i’	{"Job_ch_13.docx": [1302], "Psalms_ch_71.docx": [1480], "Psalms_ch_91.docx": [1436], "Psalms_ch_119.docx": [1136], "Ezekiel_ch_22.docx": [2393]}
+aphars	{"Ezra_ch_4.docx": [1455, 1457], "Ezra_ch_5.docx": [931], "Ezra_ch_6.docx": [980]}

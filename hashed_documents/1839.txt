@@ -1,0 +1,4 @@
+
+shalma	{"Ezra_ch_2.docx": [1763], "Nehemiah_ch_7.docx": [2846, 2846, 2846], "Hosea_ch_10.docx": [3666, 3666, 3666]}
+shalma	{"Ezra_ch_2.docx": [1763], "Nehemiah_ch_7.docx": [2846, 2846], "Hosea_ch_10.docx": [3666, 3666]}
+shalma	{"Ezra_ch_2.docx": [1763], "Nehemiah_ch_7.docx": [2846], "Hosea_ch_10.docx": [3666]}

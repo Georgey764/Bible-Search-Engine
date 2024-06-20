@@ -1,0 +1,2 @@
+
+17y	{"Deuteronomy_ch_15.docx": [2324], "Deuteronomy_ch_28.docx": [2304], "Job_ch_10.docx": [1639], "Job_ch_16.docx": [1650], "Job_ch_22.docx": [1482], "Psalms_ch_44.docx": [1655], "Psalms_ch_74.docx": [1658], "Psalms_ch_89.docx": [1671], "Ecclesiastes_ch_9.docx": [3013], "Jeremiah_ch_29.docx": [2149], "Amos_ch_5.docx": [3218]}

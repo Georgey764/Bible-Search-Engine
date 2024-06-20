@@ -1,0 +1,4 @@
+
+debts	{"Deuteronomy_ch_15.docx": [13, 100, 123, 290, 100, 123, 290, 100, 123, 290], "Nehemiah_ch_10.docx": [2062, 2062, 2062], "Job_ch_24.docx": [906, 906, 906], "Job_ch_31.docx": [3376, 3376, 3376], "Matthew_ch_6.docx": [1609, 1609, 1609], "Luke_ch_16.docx": [615, 615]}
+debts	{"Deuteronomy_ch_15.docx": [13, 100, 123, 290, 100, 123, 290], "Nehemiah_ch_10.docx": [2062, 2062], "Job_ch_24.docx": [906, 906], "Job_ch_31.docx": [3376, 3376], "Matthew_ch_6.docx": [1609, 1609], "Luke_ch_16.docx": [615]}
+debts	{"Deuteronomy_ch_15.docx": [13, 100, 123, 290], "Nehemiah_ch_10.docx": [2062], "Job_ch_24.docx": [906], "Job_ch_31.docx": [3376], "Matthew_ch_6.docx": [1609], "Luke_ch_16.docx": [615]}

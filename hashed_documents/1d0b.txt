@@ -1,0 +1,5 @@
+
+everaf	{"Jeremiah_ch_3.docx": [3156], "Ezekiel_ch_28.docx": [4344, 4344, 4344]}
+49han	{"Nehemiah_ch_7.docx": [2847]}
+everaf	{"Jeremiah_ch_3.docx": [3156], "Ezekiel_ch_28.docx": [4344, 4344]}
+everaf	{"Jeremiah_ch_3.docx": [3156], "Ezekiel_ch_28.docx": [4344]}

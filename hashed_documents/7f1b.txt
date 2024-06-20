@@ -1,0 +1,4 @@
+
+asaija	{"1 Chronicles_ch_6.docx": [2187], "1 Chronicles_ch_9.docx": [685, 685, 685], "1 Chronicles_ch_15.docx": [1079, 1079, 1079]}
+asaija	{"1 Chronicles_ch_6.docx": [2187], "1 Chronicles_ch_9.docx": [685, 685], "1 Chronicles_ch_15.docx": [1079, 1079]}
+asaija	{"1 Chronicles_ch_6.docx": [2187], "1 Chronicles_ch_9.docx": [685], "1 Chronicles_ch_15.docx": [1079]}

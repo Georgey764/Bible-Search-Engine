@@ -1,0 +1,7 @@
+
+achalg	{"Numbers_ch_21.docx": [1637]}
+events	{"2 Chronicles_ch_29.docx": [4450], "Mark_ch_6.docx": [7214, 7214], "Hebrews_ch_11.docx": [4288, 4288]}
+achalg	{"Numbers_ch_21.docx": [1637]}
+events	{"2 Chronicles_ch_29.docx": [4450], "Mark_ch_6.docx": [7214], "Hebrews_ch_11.docx": [4288]}
+achalg	{"Numbers_ch_21.docx": [1637]}
+events	{"2 Chronicles_ch_29.docx": [4450], "Mark_ch_6.docx": [7214], "Hebrews_ch_11.docx": [4288]}

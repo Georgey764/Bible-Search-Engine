@@ -1,0 +1,4 @@
+
+racet	{"Genesis_ch_48.docx": [972, 1153, 1153, 1153]}
+racet	{"Genesis_ch_48.docx": [972, 1153, 1153]}
+racet	{"Genesis_ch_48.docx": [972, 1153]}

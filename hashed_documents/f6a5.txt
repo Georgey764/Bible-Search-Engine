@@ -1,0 +1,8 @@
+
+crutch	{"2 Samuel_ch_3.docx": [4373]}
+arbit	{"Luke_ch_12.docx": [1778]}
+overb	{"Luke_ch_21.docx": [4074], "Acts_ch_27.docx": [2569, 2569]}
+crutch	{"2 Samuel_ch_3.docx": [4373]}
+crutch	{"2 Samuel_ch_3.docx": [4373]}
+arbit	{"Luke_ch_12.docx": [1778]}
+overb	{"Luke_ch_21.docx": [4074], "Acts_ch_27.docx": [2569]}

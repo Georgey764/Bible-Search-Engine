@@ -1,0 +1,4 @@
+
+wrists	{"1 Samuel_ch_5.docx": [656], "Ezekiel_ch_16.docx": [1732, 1732, 1732]}
+wrists	{"1 Samuel_ch_5.docx": [656], "Ezekiel_ch_16.docx": [1732, 1732]}
+wrists	{"1 Samuel_ch_5.docx": [656], "Ezekiel_ch_16.docx": [1732]}

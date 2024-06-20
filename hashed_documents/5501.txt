@@ -1,0 +1,3 @@
+
+lectur	{"Acts_ch_12.docx": [4748], "Acts_ch_19.docx": [1496, 1496]}
+lectur	{"Acts_ch_12.docx": [4748], "Acts_ch_19.docx": [1496]}

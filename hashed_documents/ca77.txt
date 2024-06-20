@@ -1,0 +1,7 @@
+
+surfac	{"Genesis_ch_2.docx": [832], "Exodus_ch_16.docx": [2196, 2196, 2196], "Leviticus_ch_14.docx": [5742, 5742, 5742], "1 Samuel_ch_16.docx": [1302, 1302, 1302], "2 Kings_ch_6.docx": [700, 700, 700], "John_ch_7.docx": [3057, 3057]}
+zambri	{"Numbers_ch_25.docx": [1836], "Joshua_ch_7.docx": [31, 3540, 31, 3540, 31, 3540], "1 Chronicles_ch_2.docx": [600, 600, 600], "1 Chronicles_ch_8.docx": [2428, 2436, 2428, 2436, 2428, 2436], "1 Chronicles_ch_9.docx": [5782, 5790, 5782, 5790, 5782, 5790], "2 Chronicles_ch_29.docx": [2106, 2106, 2106]}
+surfac	{"Genesis_ch_2.docx": [832], "Exodus_ch_16.docx": [2196, 2196], "Leviticus_ch_14.docx": [5742, 5742], "1 Samuel_ch_16.docx": [1302, 1302], "2 Kings_ch_6.docx": [700, 700], "John_ch_7.docx": [3057]}
+zambri	{"Numbers_ch_25.docx": [1836], "Joshua_ch_7.docx": [31, 3540, 31, 3540], "1 Chronicles_ch_2.docx": [600, 600], "1 Chronicles_ch_8.docx": [2428, 2436, 2428, 2436], "1 Chronicles_ch_9.docx": [5782, 5790, 5782, 5790], "2 Chronicles_ch_29.docx": [2106, 2106]}
+surfac	{"Genesis_ch_2.docx": [832], "Exodus_ch_16.docx": [2196], "Leviticus_ch_14.docx": [5742], "1 Samuel_ch_16.docx": [1302], "2 Kings_ch_6.docx": [700], "John_ch_7.docx": [3057]}
+zambri	{"Numbers_ch_25.docx": [1836], "Joshua_ch_7.docx": [31, 3540], "1 Chronicles_ch_2.docx": [600], "1 Chronicles_ch_8.docx": [2428, 2436], "1 Chronicles_ch_9.docx": [5782, 5790], "2 Chronicles_ch_29.docx": [2106]}

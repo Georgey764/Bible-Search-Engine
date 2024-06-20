@@ -1,0 +1,4 @@
+
+akk	{"Ezra_ch_2.docx": [1680, 1761, 1761, 1761], "Nehemiah_ch_7.docx": [2739, 2739, 2739], "Nehemiah_ch_8.docx": [1869, 1869, 1869], "Nehemiah_ch_11.docx": [2951, 2951, 2951], "Nehemiah_ch_12.docx": [2737, 2737, 2737]}
+akk	{"Ezra_ch_2.docx": [1680, 1761, 1761], "Nehemiah_ch_7.docx": [2739, 2739], "Nehemiah_ch_8.docx": [1869, 1869], "Nehemiah_ch_11.docx": [2951, 2951], "Nehemiah_ch_12.docx": [2737, 2737]}
+akk	{"Ezra_ch_2.docx": [1680, 1761], "Nehemiah_ch_7.docx": [2739], "Nehemiah_ch_8.docx": [1869], "Nehemiah_ch_11.docx": [2951], "Nehemiah_ch_12.docx": [2737]}

@@ -1,0 +1,5 @@
+
+renow	{"1 Chronicles_ch_7.docx": [254, 532, 532, 532], "1 Chronicles_ch_22.docx": [705, 705, 705], "Ezekiel_ch_39.docx": [1887, 1887, 1887]}
+34me	{"2 Samuel_ch_13.docx": [5358]}
+renow	{"1 Chronicles_ch_7.docx": [254, 532, 532], "1 Chronicles_ch_22.docx": [705, 705], "Ezekiel_ch_39.docx": [1887, 1887]}
+renow	{"1 Chronicles_ch_7.docx": [254, 532], "1 Chronicles_ch_22.docx": [705], "Ezekiel_ch_39.docx": [1887]}

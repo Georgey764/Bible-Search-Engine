@@ -1,0 +1,2 @@
+
+24m	{"Leviticus_ch_26.docx": [2971], "Numbers_ch_14.docx": [3505], "Psalms_ch_78.docx": [2461], "Psalms_ch_89.docx": [2343], "Psalms_ch_109.docx": [2071], "Matthew_ch_14.docx": [2862]}

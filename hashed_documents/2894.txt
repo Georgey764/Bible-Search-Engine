@@ -1,0 +1,4 @@
+
+sheme	{"1 Kings_ch_4.docx": [1895], "1 Chronicles_ch_15.docx": [833, 1081, 833, 1081]}
+sheme	{"1 Chronicles_ch_15.docx": [1081, 833, 1081]}
+sheme	{"1 Kings_ch_4.docx": [1895], "1 Chronicles_ch_15.docx": [833, 1081]}

@@ -1,0 +1,6 @@
+
+campai	{"2 Kings_ch_9.docx": [2842]}
+puffed	{"1 Corinthians_ch_4.docx": [986, 2648, 2677, 2648, 2677]}
+campai	{"2 Kings_ch_9.docx": [2842]}
+campai	{"2 Kings_ch_9.docx": [2842]}
+puffed	{"1 Corinthians_ch_4.docx": [986, 2648, 2677]}

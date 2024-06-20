@@ -1,0 +1,4 @@
+
+empty!	{"Leviticus_ch_26.docx": [4343], "Isaiah_ch_44.docx": [4849, 4849, 4849]}
+empty!	{"Leviticus_ch_26.docx": [4343], "Isaiah_ch_44.docx": [4849, 4849]}
+empty!	{"Leviticus_ch_26.docx": [4343], "Isaiah_ch_44.docx": [4849]}

@@ -1,0 +1,4 @@
+
+upsets	{"Psalms_ch_104.docx": [2908], "Psalms_ch_107.docx": [2339, 2339, 2339], "Romans_ch_14.docx": [2244, 2244]}
+upsets	{"Psalms_ch_104.docx": [2908], "Psalms_ch_107.docx": [2339, 2339], "Romans_ch_14.docx": [2244]}
+upsets	{"Psalms_ch_104.docx": [2908], "Psalms_ch_107.docx": [2339], "Romans_ch_14.docx": [2244]}

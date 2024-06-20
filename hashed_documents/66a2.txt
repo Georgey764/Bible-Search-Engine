@@ -1,0 +1,4 @@
+
+altar;	{"Leviticus_ch_9.docx": [1181], "Leviticus_ch_10.docx": [1942, 1942, 1942], "Numbers_ch_16.docx": [5282, 5282, 5282], "Psalms_ch_84.docx": [373, 373, 373]}
+altar;	{"Leviticus_ch_9.docx": [1181], "Leviticus_ch_10.docx": [1942, 1942], "Numbers_ch_16.docx": [5282, 5282], "Psalms_ch_84.docx": [373, 373]}
+altar;	{"Leviticus_ch_9.docx": [1181], "Leviticus_ch_10.docx": [1942], "Numbers_ch_16.docx": [5282], "Psalms_ch_84.docx": [373]}

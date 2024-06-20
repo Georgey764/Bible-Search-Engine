@@ -1,0 +1,4 @@
+
+moze	{"Genesis_ch_36.docx": [1460, 1973, 1973, 1973]}
+moze	{"Genesis_ch_36.docx": [1460, 1973, 1973]}
+moze	{"Genesis_ch_36.docx": [1460, 1973]}

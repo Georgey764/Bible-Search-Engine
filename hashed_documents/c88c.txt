@@ -1,0 +1,4 @@
+
+oversi	{"Deuteronomy_ch_25.docx": [1820, 1831, 1831, 1831]}
+oversi	{"Deuteronomy_ch_25.docx": [1820, 1831, 1831]}
+oversi	{"Deuteronomy_ch_25.docx": [1820, 1831]}

@@ -1,0 +1,5 @@
+
+device	{"Psalms_ch_33.docx": [810], "Isaiah_ch_41.docx": [2444, 2444, 2444]}
+601st	{"Genesis_ch_8.docx": [1566]}
+device	{"Psalms_ch_33.docx": [810], "Isaiah_ch_41.docx": [2444, 2444]}
+device	{"Psalms_ch_33.docx": [810], "Isaiah_ch_41.docx": [2444]}

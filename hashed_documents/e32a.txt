@@ -1,0 +1,7 @@
+
+jeop	{"1 Kings_ch_1.docx": [2882]}
+namo	{"1 Chronicles_ch_4.docx": [2972]}
+jeop	{"1 Kings_ch_1.docx": [2882]}
+namo	{"1 Chronicles_ch_4.docx": [2972]}
+jeop	{"1 Kings_ch_1.docx": [2882]}
+namo	{"1 Chronicles_ch_4.docx": [2972]}

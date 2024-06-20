@@ -1,0 +1,5 @@
+
+hits	{"Exodus_ch_21.docx": [2173, 2478, 2717, 2478, 2717, 2478, 2717], "Numbers_ch_35.docx": [2117, 2915, 2117, 2915, 2117, 2915], "Deuteronomy_ch_19.docx": [687, 687, 687]}
+hits	{"Exodus_ch_21.docx": [2173, 2478, 2717, 2478, 2717], "Numbers_ch_35.docx": [2117, 2915, 2117, 2915], "Deuteronomy_ch_19.docx": [687, 687]}
+20sin	{"Psalms_ch_78.docx": [1982], "Isaiah_ch_36.docx": [3283]}
+hits	{"Exodus_ch_21.docx": [2173, 2478, 2717], "Numbers_ch_35.docx": [2117, 2915], "Deuteronomy_ch_19.docx": [687]}

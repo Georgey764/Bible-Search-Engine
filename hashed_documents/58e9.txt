@@ -1,0 +1,8 @@
+
+threat	{"Genesis_ch_27.docx": [5894], "Numbers_ch_23.docx": [2551, 2551, 2551], "Psalms_ch_55.docx": [1197, 1197, 1197], "Lamentations_ch_2.docx": [1386, 1386, 1386], "Ezekiel_ch_20.docx": [1516, 2336, 3701, 1516, 2336, 3701, 1516, 2336, 3701], "Acts_ch_4.docx": [2299, 2771, 3921, 2299, 2771, 3921], "Acts_ch_9.docx": [12, 12], "1 Peter_ch_2.docx": [3368, 3368]}
+geshem	{"Nehemiah_ch_6.docx": [783]}
+threat	{"Genesis_ch_27.docx": [5894], "Numbers_ch_23.docx": [2551, 2551], "Psalms_ch_55.docx": [1197, 1197], "Lamentations_ch_2.docx": [1386, 1386], "Ezekiel_ch_20.docx": [1516, 2336, 3701, 1516, 2336, 3701], "Acts_ch_4.docx": [2299, 2771, 3921], "Acts_ch_9.docx": [12], "1 Peter_ch_2.docx": [3368]}
+45.7m	{"Exodus_ch_38.docx": [1070, 1241], "1 Kings_ch_7.docx": [163]}
+geshem	{"Nehemiah_ch_6.docx": [783]}
+threat	{"Genesis_ch_27.docx": [5894], "Numbers_ch_23.docx": [2551], "Psalms_ch_55.docx": [1197], "Lamentations_ch_2.docx": [1386], "Ezekiel_ch_20.docx": [1516, 2336, 3701], "Acts_ch_4.docx": [2299, 2771, 3921], "Acts_ch_9.docx": [12], "1 Peter_ch_2.docx": [3368]}
+geshem	{"Nehemiah_ch_6.docx": [783]}

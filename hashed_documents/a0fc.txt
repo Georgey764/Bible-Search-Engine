@@ -1,0 +1,4 @@
+
+traps	{"Leviticus_ch_19.docx": [1595], "Psalms_ch_35.docx": [762, 762, 762], "Psalms_ch_124.docx": [479, 479, 479], "Proverbs_ch_1.docx": [1698, 1698, 1698], "Mark_ch_9.docx": [5907, 5907]}
+traps	{"Leviticus_ch_19.docx": [1595], "Psalms_ch_35.docx": [762, 762], "Psalms_ch_124.docx": [479, 479], "Proverbs_ch_1.docx": [1698, 1698], "Mark_ch_9.docx": [5907]}
+traps	{"Leviticus_ch_19.docx": [1595], "Psalms_ch_35.docx": [762], "Psalms_ch_124.docx": [479], "Proverbs_ch_1.docx": [1698], "Mark_ch_9.docx": [5907]}

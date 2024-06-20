@@ -1,0 +1,4 @@
+
+manual	{"Numbers_ch_29.docx": [30, 4469, 4469, 4469]}
+manual	{"Numbers_ch_29.docx": [30, 4469, 4469]}
+manual	{"Numbers_ch_29.docx": [30, 4469]}

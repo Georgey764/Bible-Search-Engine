@@ -1,0 +1,5 @@
+
+seated	{"1 Samuel_ch_20.docx": [3851], "1 Kings_ch_1.docx": [6484, 6484, 6484], "2 Kings_ch_11.docx": [3196, 3196, 3196], "1 Chronicles_ch_28.docx": [1059, 1059, 1059], "Esther_ch_3.docx": [24, 24, 24], "Jeremiah_ch_35.docx": [327, 327, 327], "Daniel_ch_7.docx": [1613, 1613, 1613], "John_ch_19.docx": [1662, 1662], "Ephesians_ch_1.docx": [2713, 2713], "Ephesians_ch_2.docx": [628, 628]}
+17‘al	{"Exodus_ch_27.docx": [2008], "Leviticus_ch_24.docx": [2281]}
+seated	{"1 Samuel_ch_20.docx": [3851], "1 Kings_ch_1.docx": [6484, 6484], "2 Kings_ch_11.docx": [3196, 3196], "1 Chronicles_ch_28.docx": [1059, 1059], "Esther_ch_3.docx": [24, 24], "Jeremiah_ch_35.docx": [327, 327], "Daniel_ch_7.docx": [1613, 1613], "John_ch_19.docx": [1662], "Ephesians_ch_1.docx": [2713], "Ephesians_ch_2.docx": [628]}
+seated	{"1 Samuel_ch_20.docx": [3851], "1 Kings_ch_1.docx": [6484], "2 Kings_ch_11.docx": [3196], "1 Chronicles_ch_28.docx": [1059], "Esther_ch_3.docx": [24], "Jeremiah_ch_35.docx": [327], "Daniel_ch_7.docx": [1613], "John_ch_19.docx": [1662], "Ephesians_ch_1.docx": [2713], "Ephesians_ch_2.docx": [628]}

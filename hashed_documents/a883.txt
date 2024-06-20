@@ -1,0 +1,5 @@
+
+memu	{"Esther_ch_1.docx": [2507, 2816, 3753, 3753, 2816, 3753]}
+memu	{"Esther_ch_1.docx": [2507, 3753, 2816, 3753]}
+2‘call	{"Jeremiah_ch_35.docx": [143]}
+memu	{"Esther_ch_1.docx": [2507, 2816, 3753]}

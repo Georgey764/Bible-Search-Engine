@@ -1,0 +1,3 @@
+
+epap	{"Philippians_ch_2.docx": [3009], "Colossians_ch_1.docx": [836, 836]}
+epap	{"Philippians_ch_2.docx": [3009], "Colossians_ch_1.docx": [836]}

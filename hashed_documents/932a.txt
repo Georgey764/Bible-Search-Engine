@@ -1,0 +1,7 @@
+
+them–	{"1 Chronicles_ch_28.docx": [1052], "Mark_ch_7.docx": [1341, 1341]}
+was;	{"2 Chronicles_ch_16.docx": [1330]}
+them–	{"1 Chronicles_ch_28.docx": [1052], "Mark_ch_7.docx": [1341]}
+was;	{"2 Chronicles_ch_16.docx": [1330]}
+them–	{"1 Chronicles_ch_28.docx": [1052], "Mark_ch_7.docx": [1341]}
+was;	{"2 Chronicles_ch_16.docx": [1330]}

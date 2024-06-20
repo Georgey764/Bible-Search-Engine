@@ -1,0 +1,5 @@
+
+agari	{"1 Chronicles_ch_11.docx": [5927], "1 Chronicles_ch_27.docx": [4342, 4342, 4342]}
+45‘h	{"Exodus_ch_12.docx": [6942], "Exodus_ch_29.docx": [6173], "Daniel_ch_11.docx": [8141]}
+agari	{"1 Chronicles_ch_11.docx": [5927], "1 Chronicles_ch_27.docx": [4342, 4342]}
+agari	{"1 Chronicles_ch_11.docx": [5927], "1 Chronicles_ch_27.docx": [4342]}

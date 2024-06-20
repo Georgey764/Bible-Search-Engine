@@ -1,0 +1,4 @@
+
+boaz’	{"Ruth_ch_2.docx": [333, 3981, 3981, 3981]}
+boaz’	{"Ruth_ch_2.docx": [333, 3981, 3981]}
+boaz’	{"Ruth_ch_2.docx": [333, 3981]}

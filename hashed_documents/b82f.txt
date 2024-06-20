@@ -1,0 +1,4 @@
+
+enlarg	{"Exodus_ch_34.docx": [3517], "Deuteronomy_ch_12.docx": [3754, 3754, 3754], "Deuteronomy_ch_19.docx": [1162, 1162, 1162], "2 Samuel_ch_22.docx": [3518, 3518, 3518]}
+enlarg	{"Exodus_ch_34.docx": [3517], "Deuteronomy_ch_12.docx": [3754, 3754], "Deuteronomy_ch_19.docx": [1162, 1162], "2 Samuel_ch_22.docx": [3518, 3518]}
+enlarg	{"Exodus_ch_34.docx": [3517], "Deuteronomy_ch_12.docx": [3754], "Deuteronomy_ch_19.docx": [1162], "2 Samuel_ch_22.docx": [3518]}

@@ -1,0 +1,3 @@
+
+bandan	{"Luke_ch_19.docx": [2402], "Acts_ch_19.docx": [2681, 2681]}
+bandan	{"Luke_ch_19.docx": [2402], "Acts_ch_19.docx": [2681]}

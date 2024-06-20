@@ -1,0 +1,5 @@
+
+aitan	{"Joshua_ch_15.docx": [6204], "1 Chronicles_ch_4.docx": [3635, 3635, 3635], "2 Chronicles_ch_11.docx": [787, 787, 787]}
+24‘yo	{"Exodus_ch_20.docx": [2603], "Deuteronomy_ch_9.docx": [3993], "1 Kings_ch_8.docx": [3530], "Isaiah_ch_43.docx": [3747]}
+aitan	{"Joshua_ch_15.docx": [6204], "1 Chronicles_ch_4.docx": [3635, 3635], "2 Chronicles_ch_11.docx": [787, 787]}
+aitan	{"Joshua_ch_15.docx": [6204], "1 Chronicles_ch_4.docx": [3635], "2 Chronicles_ch_11.docx": [787]}

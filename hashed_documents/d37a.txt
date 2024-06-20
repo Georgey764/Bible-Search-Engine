@@ -1,0 +1,4 @@
+
+kel	{"Joshua_ch_17.docx": [344], "2 Samuel_ch_23.docx": [4283, 4283, 4283], "Nehemiah_ch_8.docx": [1919, 1919, 1919], "Nehemiah_ch_10.docx": [555, 555, 555]}
+kel	{"Joshua_ch_17.docx": [344], "2 Samuel_ch_23.docx": [4283, 4283], "Nehemiah_ch_8.docx": [1919, 1919], "Nehemiah_ch_10.docx": [555, 555]}
+kel	{"Joshua_ch_17.docx": [344], "2 Samuel_ch_23.docx": [4283], "Nehemiah_ch_8.docx": [1919], "Nehemiah_ch_10.docx": [555]}

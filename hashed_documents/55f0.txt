@@ -1,0 +1,7 @@
+
+cormor	{"Leviticus_ch_11.docx": [1917], "Deuteronomy_ch_14.docx": [1427, 1427]}
+pagan	{"2 Chronicles_ch_14.docx": [191], "2 Chronicles_ch_30.docx": [2430, 2430, 2430]}
+cormor	{"Leviticus_ch_11.docx": [1917], "Deuteronomy_ch_14.docx": [1427]}
+pagan	{"2 Chronicles_ch_14.docx": [191], "2 Chronicles_ch_30.docx": [2430, 2430]}
+cormor	{"Leviticus_ch_11.docx": [1917], "Deuteronomy_ch_14.docx": [1427]}
+pagan	{"2 Chronicles_ch_14.docx": [191], "2 Chronicles_ch_30.docx": [2430]}

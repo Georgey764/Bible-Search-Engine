@@ -1,0 +1,6 @@
+
+hillt	{"1 Kings_ch_12.docx": [5039], "1 Kings_ch_13.docx": [5198, 5198, 5198]}
+8fro	{"Numbers_ch_13.docx": [613], "Joshua_ch_16.docx": [693], "Ezra_ch_8.docx": [833], "Psalms_ch_72.docx": [640], "Psalms_ch_76.docx": [674], "Proverbs_ch_5.docx": [680], "Proverbs_ch_14.docx": [675]}
+hillt	{"1 Kings_ch_12.docx": [5039], "1 Kings_ch_13.docx": [5198, 5198]}
+17[‘h	{"Daniel_ch_7.docx": [3225]}
+hillt	{"1 Kings_ch_12.docx": [5039], "1 Kings_ch_13.docx": [5198]}

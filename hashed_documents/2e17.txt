@@ -1,0 +1,7 @@
+
+jedith	{"2 Chronicles_ch_35.docx": [2944], "Nehemiah_ch_11.docx": [2523, 2523, 2523]}
+elyma	{"Acts_ch_13.docx": [2109]}
+44ese	{"1 Chronicles_ch_9.docx": [5923]}
+jedith	{"2 Chronicles_ch_35.docx": [2944], "Nehemiah_ch_11.docx": [2523, 2523]}
+jedith	{"2 Chronicles_ch_35.docx": [2944], "Nehemiah_ch_11.docx": [2523]}
+elyma	{"Acts_ch_13.docx": [2109]}

@@ -1,0 +1,4 @@
+
+tunics	{"Exodus_ch_28.docx": [5034, 5159, 5159, 5159]}
+tunics	{"Exodus_ch_28.docx": [5034, 5159, 5159]}
+tunics	{"Exodus_ch_28.docx": [5034, 5159]}

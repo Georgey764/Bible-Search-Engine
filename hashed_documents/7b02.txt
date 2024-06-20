@@ -1,0 +1,4 @@
+
+outfit	{"Leviticus_ch_10.docx": [748], "Ezra_ch_2.docx": [3399, 3399, 3399], "Nehemiah_ch_7.docx": [4775, 4775, 4775]}
+outfit	{"Leviticus_ch_10.docx": [748], "Ezra_ch_2.docx": [3399, 3399], "Nehemiah_ch_7.docx": [4775, 4775]}
+outfit	{"Leviticus_ch_10.docx": [748], "Ezra_ch_2.docx": [3399], "Nehemiah_ch_7.docx": [4775]}

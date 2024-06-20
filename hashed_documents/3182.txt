@@ -1,0 +1,11 @@
+
+gabaot	{"Joshua_ch_18.docx": [3621]}
+captor	{"Psalms_ch_137.docx": [222]}
+ailme	{"Jeremiah_ch_30.docx": [2909], "Matthew_ch_4.docx": [2991, 2991, 2991]}
+gabaot	{"Joshua_ch_18.docx": [3621]}
+captor	{"Psalms_ch_137.docx": [222]}
+9their	{"Isaiah_ch_3.docx": [1365], "Isaiah_ch_34.docx": [1289]}
+ailme	{"Jeremiah_ch_30.docx": [2909], "Matthew_ch_4.docx": [2991, 2991]}
+gabaot	{"Joshua_ch_18.docx": [3621]}
+captor	{"Psalms_ch_137.docx": [222]}
+ailme	{"Jeremiah_ch_30.docx": [2909], "Matthew_ch_4.docx": [2991]}

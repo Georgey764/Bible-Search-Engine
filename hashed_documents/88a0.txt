@@ -1,0 +1,4 @@
+
+desecr	{"2 Kings_ch_23.docx": [1959, 3273, 3273, 3273]}
+desecr	{"2 Kings_ch_23.docx": [1959, 3273, 3273]}
+desecr	{"2 Kings_ch_23.docx": [1959, 3273]}

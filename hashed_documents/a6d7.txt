@@ -1,0 +1,4 @@
+
+solve	{"Judges_ch_14.docx": [2283], "2 Samuel_ch_20.docx": [3375, 3375, 3375]}
+solve	{"Judges_ch_14.docx": [2283], "2 Samuel_ch_20.docx": [3375, 3375]}
+solve	{"Judges_ch_14.docx": [2283], "2 Samuel_ch_20.docx": [3375]}

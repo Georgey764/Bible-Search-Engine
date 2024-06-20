@@ -1,0 +1,8 @@
+
+belli	{"Leviticus_ch_11.docx": [4984], "Deuteronomy_ch_18.docx": [333, 333, 333], "Job_ch_20.docx": [2252, 2252, 2252], "Psalms_ch_17.docx": [1566, 1566, 1566], "Psalms_ch_44.docx": [2446, 2446, 2446], "Psalms_ch_147.docx": [1296, 1296, 1296], "Proverbs_ch_20.docx": [3522, 3522, 3522], "Isaiah_ch_48.docx": [3227, 3227, 3227], "Lamentations_ch_2.docx": [4503, 4503, 4503], "Ezekiel_ch_7.docx": [3193, 3193, 3193], "Hosea_ch_9.docx": [3545, 3545, 3545], "Micah_ch_6.docx": [1743, 1743, 1743], "Philippians_ch_3.docx": [2778, 2778]}
+born]!	{"Isaiah_ch_19.docx": [1608]}
+belli	{"Leviticus_ch_11.docx": [4984], "Deuteronomy_ch_18.docx": [333, 333], "Job_ch_20.docx": [2252, 2252], "Psalms_ch_17.docx": [1566, 1566], "Psalms_ch_44.docx": [2446, 2446], "Psalms_ch_147.docx": [1296, 1296], "Proverbs_ch_20.docx": [3522, 3522], "Isaiah_ch_48.docx": [3227, 3227], "Lamentations_ch_2.docx": [4503, 4503], "Ezekiel_ch_7.docx": [3193, 3193], "Hosea_ch_9.docx": [3545, 3545], "Micah_ch_6.docx": [1743, 1743], "Philippians_ch_3.docx": [2778]}
+19lip	{"Proverbs_ch_12.docx": [1812]}
+born]!	{"Isaiah_ch_19.docx": [1608]}
+belli	{"Leviticus_ch_11.docx": [4984], "Deuteronomy_ch_18.docx": [333], "Job_ch_20.docx": [2252], "Psalms_ch_17.docx": [1566], "Psalms_ch_44.docx": [2446], "Psalms_ch_147.docx": [1296], "Proverbs_ch_20.docx": [3522], "Isaiah_ch_48.docx": [3227], "Lamentations_ch_2.docx": [4503], "Ezekiel_ch_7.docx": [3193], "Hosea_ch_9.docx": [3545], "Micah_ch_6.docx": [1743], "Philippians_ch_3.docx": [2778]}
+born]!	{"Isaiah_ch_19.docx": [1608]}

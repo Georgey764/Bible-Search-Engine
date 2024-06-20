@@ -1,0 +1,4 @@
+
+formul	{"Exodus_ch_30.docx": [3130, 3873, 4524, 3873, 4524, 3873, 4524]}
+formul	{"Exodus_ch_30.docx": [3130, 3873, 4524, 3873, 4524]}
+formul	{"Exodus_ch_30.docx": [3130, 3873, 4524]}

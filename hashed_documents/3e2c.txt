@@ -1,0 +1,4 @@
+
+dedan	{"Genesis_ch_25.docx": [207, 217, 217, 217], "1 Chronicles_ch_1.docx": [608, 2550, 608, 2550, 608, 2550], "Isaiah_ch_21.docx": [1726, 1726, 1726], "Jeremiah_ch_25.docx": [3684, 3684, 3684], "Jeremiah_ch_49.docx": [1465, 1465, 1465], "Ezekiel_ch_27.docx": [2944, 2944], "Ezekiel_ch_38.docx": [2372, 2372, 2372]}
+dedan	{"Genesis_ch_25.docx": [207, 217, 217], "1 Chronicles_ch_1.docx": [608, 2550, 608, 2550], "Isaiah_ch_21.docx": [1726, 1726], "Jeremiah_ch_25.docx": [3684, 3684], "Jeremiah_ch_49.docx": [1465, 1465], "Ezekiel_ch_38.docx": [2372, 2372], "Ezekiel_ch_27.docx": [2944]}
+dedan	{"Genesis_ch_25.docx": [207, 217], "1 Chronicles_ch_1.docx": [608, 2550], "Isaiah_ch_21.docx": [1726], "Jeremiah_ch_25.docx": [3684], "Jeremiah_ch_49.docx": [1465], "Ezekiel_ch_27.docx": [2944], "Ezekiel_ch_38.docx": [2372]}

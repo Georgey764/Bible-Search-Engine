@@ -1,0 +1,6 @@
+
+westn	{"Joshua_ch_11.docx": [6979]}
+jesus,	{"Philippians_ch_3.docx": [1534, 1537, 1537]}
+westn	{"Joshua_ch_11.docx": [6979]}
+westn	{"Joshua_ch_11.docx": [6979]}
+jesus,	{"Philippians_ch_3.docx": [1534, 1537]}

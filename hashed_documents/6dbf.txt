@@ -1,0 +1,5 @@
+
+picri	{"Numbers_ch_33.docx": [905, 1057, 1057, 1057]}
+picri	{"Numbers_ch_33.docx": [905, 1057, 1057]}
+44m	{"Judges_ch_9.docx": [8213]}
+picri	{"Numbers_ch_33.docx": [905, 1057]}

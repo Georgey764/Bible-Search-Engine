@@ -1,0 +1,10 @@
+
+revolt	{"Genesis_ch_14.docx": [395], "Numbers_ch_31.docx": [1892, 1892, 1892], "Joshua_ch_22.docx": [2966, 2966, 2966], "2 Chronicles_ch_21.docx": [1406, 1482, 1406, 1482, 1406, 1482], "Nehemiah_ch_2.docx": [5211, 5211, 5211], "Isaiah_ch_30.docx": [5857, 5857, 5857], "Jeremiah_ch_3.docx": [2477, 2477, 2477], "Ezekiel_ch_17.docx": [2489, 2489, 2489], "Ezekiel_ch_20.docx": [1293, 1293, 1293], "Luke_ch_23.docx": [1572, 2109, 1572, 2109]}
+bokai	{"1 Chronicles_ch_6.docx": [358, 383, 4157, 383, 383, 4157]}
+ater	{"Ezra_ch_2.docx": [878, 1678, 1678, 1678], "Nehemiah_ch_7.docx": [1757, 2737, 1757, 2737, 1757, 2737], "Nehemiah_ch_10.docx": [887, 887]}
+revolt	{"Genesis_ch_14.docx": [395], "Numbers_ch_31.docx": [1892, 1892], "Joshua_ch_22.docx": [2966, 2966], "2 Chronicles_ch_21.docx": [1406, 1482, 1406, 1482], "Nehemiah_ch_2.docx": [5211, 5211], "Isaiah_ch_30.docx": [5857, 5857], "Jeremiah_ch_3.docx": [2477, 2477], "Ezekiel_ch_17.docx": [2489, 2489], "Ezekiel_ch_20.docx": [1293, 1293], "Luke_ch_23.docx": [1572, 2109]}
+bokai	{"1 Chronicles_ch_6.docx": [358, 383, 383, 4157]}
+ater	{"Ezra_ch_2.docx": [878, 1678, 1678], "Nehemiah_ch_7.docx": [1757, 2737, 1757, 2737], "Nehemiah_ch_10.docx": [887]}
+revolt	{"Genesis_ch_14.docx": [395], "Numbers_ch_31.docx": [1892], "Joshua_ch_22.docx": [2966], "2 Chronicles_ch_21.docx": [1406, 1482], "Nehemiah_ch_2.docx": [5211], "Isaiah_ch_30.docx": [5857], "Jeremiah_ch_3.docx": [2477], "Ezekiel_ch_17.docx": [2489], "Ezekiel_ch_20.docx": [1293], "Luke_ch_23.docx": [1572, 2109]}
+bokai	{"1 Chronicles_ch_6.docx": [358, 383, 4157]}
+ater	{"Ezra_ch_2.docx": [878, 1678], "Nehemiah_ch_7.docx": [1757, 2737], "Nehemiah_ch_10.docx": [887]}

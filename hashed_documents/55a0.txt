@@ -1,0 +1,7 @@
+
+back!	{"Genesis_ch_31.docx": [4073], "Genesis_ch_42.docx": [5010, 5010, 5010], "1 Kings_ch_2.docx": [7277, 7277, 7277], "1 Kings_ch_13.docx": [858, 858, 858], "Isaiah_ch_14.docx": [1165, 1165, 1165], "Isaiah_ch_31.docx": [1302, 1302, 1302], "Isaiah_ch_42.docx": [3455, 3455, 3455], "Isaiah_ch_44.docx": [3802, 3802, 3802], "Isaiah_ch_58.docx": [13, 13, 13], "Ezekiel_ch_34.docx": [1067, 1067, 1067], "Matthew_ch_18.docx": [3985, 3985, 3985], "Romans_ch_12.docx": [2412, 2412], "Revelation_ch_12.docx": [1031, 1031]}
+lips!	{"Psalms_ch_40.docx": [1176], "Isaiah_ch_6.docx": [705, 705, 705]}
+back!	{"Genesis_ch_31.docx": [4073], "Genesis_ch_42.docx": [5010, 5010], "1 Kings_ch_2.docx": [7277, 7277], "1 Kings_ch_13.docx": [858, 858], "Isaiah_ch_14.docx": [1165, 1165], "Isaiah_ch_31.docx": [1302, 1302], "Isaiah_ch_42.docx": [3455, 3455], "Isaiah_ch_44.docx": [3802, 3802], "Isaiah_ch_58.docx": [13, 13], "Ezekiel_ch_34.docx": [1067, 1067], "Matthew_ch_18.docx": [3985, 3985], "Romans_ch_12.docx": [2412], "Revelation_ch_12.docx": [1031]}
+lips!	{"Psalms_ch_40.docx": [1176], "Isaiah_ch_6.docx": [705, 705]}
+back!	{"Genesis_ch_31.docx": [4073], "Genesis_ch_42.docx": [5010], "1 Kings_ch_2.docx": [7277], "1 Kings_ch_13.docx": [858], "Isaiah_ch_14.docx": [1165], "Isaiah_ch_31.docx": [1302], "Isaiah_ch_42.docx": [3455], "Isaiah_ch_44.docx": [3802], "Isaiah_ch_58.docx": [13], "Ezekiel_ch_34.docx": [1067], "Matthew_ch_18.docx": [3985], "Romans_ch_12.docx": [2412], "Revelation_ch_12.docx": [1031]}
+lips!	{"Psalms_ch_40.docx": [1176], "Isaiah_ch_6.docx": [705]}

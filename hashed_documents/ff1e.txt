@@ -1,0 +1,4 @@
+
+sych	{"Numbers_ch_26.docx": [3663, 3668, 3668, 3668]}
+sych	{"Numbers_ch_26.docx": [3663, 3668, 3668]}
+sych	{"Numbers_ch_26.docx": [3663, 3668]}

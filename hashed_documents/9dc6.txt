@@ -1,0 +1,4 @@
+
+next-	{"Joshua_ch_20.docx": [271], "Ruth_ch_2.docx": [3606, 3606, 3606]}
+next-	{"Joshua_ch_20.docx": [271], "Ruth_ch_2.docx": [3606, 3606]}
+next-	{"Joshua_ch_20.docx": [271], "Ruth_ch_2.docx": [3606]}

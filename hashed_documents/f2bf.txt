@@ -1,0 +1,5 @@
+
+fette	{"Judges_ch_16.docx": [3879]}
+9it	{"Genesis_ch_35.docx": [1378], "Exodus_ch_39.docx": [1049], "Joshua_ch_5.docx": [1979], "Joshua_ch_19.docx": [472], "Judges_ch_3.docx": [5052], "1 Samuel_ch_22.docx": [1408], "2 Kings_ch_18.docx": [1241], "Ezra_ch_7.docx": [892], "Psalms_ch_22.docx": [855], "Psalms_ch_118.docx": [658], "Proverbs_ch_12.docx": [790], "Proverbs_ch_21.docx": [822], "Isaiah_ch_23.docx": [928]}
+fette	{"Judges_ch_16.docx": [3879]}
+fette	{"Judges_ch_16.docx": [3879]}

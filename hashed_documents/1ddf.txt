@@ -1,0 +1,3 @@
+
+24j	{"Genesis_ch_19.docx": [3762], "Deuteronomy_ch_28.docx": [3124], "2 Samuel_ch_3.docx": [3457], "Psalms_ch_35.docx": [2487], "Matthew_ch_9.docx": [3197]}
+29‘bu	{"Exodus_ch_21.docx": [3525], "Deuteronomy_ch_1.docx": [4251], "Deuteronomy_ch_4.docx": [4459], "Deuteronomy_ch_9.docx": [4894], "Judges_ch_5.docx": [4199], "2 Samuel_ch_3.docx": [4343], "Job_ch_9.docx": [2658]}

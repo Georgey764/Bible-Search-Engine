@@ -1,0 +1,4 @@
+
+stripe	{"Genesis_ch_30.docx": [4530], "Genesis_ch_31.docx": [1036, 1491, 1036, 1491, 1036, 1491], "Psalms_ch_38.docx": [427, 427, 427], "Isaiah_ch_53.docx": [826, 1558, 826, 1558, 826, 1558]}
+stripe	{"Genesis_ch_30.docx": [4530], "Genesis_ch_31.docx": [1036, 1491, 1036, 1491], "Psalms_ch_38.docx": [427, 427], "Isaiah_ch_53.docx": [826, 1558, 826, 1558]}
+stripe	{"Genesis_ch_30.docx": [4530], "Genesis_ch_31.docx": [1036, 1491], "Psalms_ch_38.docx": [427], "Isaiah_ch_53.docx": [826, 1558]}

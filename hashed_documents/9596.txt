@@ -1,0 +1,4 @@
+
+phasg	{"Deuteronomy_ch_3.docx": [2381], "Joshua_ch_12.docx": [1482, 1513, 1482, 1513, 1482, 1513]}
+phasg	{"Deuteronomy_ch_3.docx": [2381], "Joshua_ch_12.docx": [1482, 1513, 1482, 1513]}
+phasg	{"Deuteronomy_ch_3.docx": [2381], "Joshua_ch_12.docx": [1482, 1513]}

@@ -1,0 +1,7 @@
+
+pleasa	{"Genesis_ch_3.docx": [732], "Ezra_ch_6.docx": [1821, 1821, 1821], "Isaiah_ch_3.docx": [3289, 3289, 3289], "2 Corinthians_ch_2.docx": [2053, 2210, 2053, 2210]}
+knit	{"Exodus_ch_28.docx": [5033]}
+pleasa	{"Genesis_ch_3.docx": [732], "Ezra_ch_6.docx": [1821, 1821], "Isaiah_ch_3.docx": [3289, 3289], "2 Corinthians_ch_2.docx": [2053, 2210]}
+knit	{"Exodus_ch_28.docx": [5033]}
+pleasa	{"Genesis_ch_3.docx": [732], "Ezra_ch_6.docx": [1821], "Isaiah_ch_3.docx": [3289], "2 Corinthians_ch_2.docx": [2053, 2210]}
+knit	{"Exodus_ch_28.docx": [5033]}

@@ -1,0 +1,4 @@
+
+envo	{"2 Samuel_ch_5.docx": [1596], "2 Kings_ch_7.docx": [266, 3163, 3651, 266, 3163, 3651, 266, 3163, 3651], "2 Chronicles_ch_32.docx": [3624, 3624, 3624], "Isaiah_ch_30.docx": [516, 516, 516], "Isaiah_ch_63.docx": [1178, 1178, 1178], "Ezekiel_ch_17.docx": [2531, 2531, 2531], "Luke_ch_19.docx": [1629, 1629], "Philippians_ch_2.docx": [3018, 3018]}
+envo	{"2 Samuel_ch_5.docx": [1596], "2 Kings_ch_7.docx": [266, 3163, 3651, 266, 3163, 3651], "2 Chronicles_ch_32.docx": [3624, 3624], "Isaiah_ch_30.docx": [516, 516], "Isaiah_ch_63.docx": [1178, 1178], "Ezekiel_ch_17.docx": [2531, 2531], "Luke_ch_19.docx": [1629], "Philippians_ch_2.docx": [3018]}
+envo	{"2 Samuel_ch_5.docx": [1596], "2 Kings_ch_7.docx": [266, 3163, 3651], "2 Chronicles_ch_32.docx": [3624], "Isaiah_ch_30.docx": [516], "Isaiah_ch_63.docx": [1178], "Ezekiel_ch_17.docx": [2531], "Luke_ch_19.docx": [1629], "Philippians_ch_2.docx": [3018]}

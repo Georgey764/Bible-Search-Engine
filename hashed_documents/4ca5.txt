@@ -1,0 +1,7 @@
+
+penu	{"1 Kings_ch_12.docx": [4198]}
+vote	{"Mark_ch_14.docx": [8232], "Acts_ch_26.docx": [2367, 2367]}
+2seo	{"Joshua_ch_12.docx": [840]}
+penu	{"1 Kings_ch_12.docx": [4198]}
+penu	{"1 Kings_ch_12.docx": [4198]}
+vote	{"Mark_ch_14.docx": [8232], "Acts_ch_26.docx": [2367]}

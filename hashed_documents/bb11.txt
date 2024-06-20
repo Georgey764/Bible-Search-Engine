@@ -1,0 +1,4 @@
+
+goodb	{"Exodus_ch_18.docx": [3803], "1 Kings_ch_19.docx": [3678, 3678, 3678], "Luke_ch_9.docx": [8358, 8358], "Acts_ch_18.docx": [5129, 5147, 5166, 5828, 5129, 5147, 5166, 5828], "Acts_ch_20.docx": [22, 44, 67, 22, 44, 67], "Acts_ch_21.docx": [2218, 2218]}
+goodb	{"Exodus_ch_18.docx": [3803], "1 Kings_ch_19.docx": [3678, 3678], "Luke_ch_9.docx": [8358], "Acts_ch_18.docx": [5129, 5147, 5166, 5828], "Acts_ch_20.docx": [22, 44, 67], "Acts_ch_21.docx": [2218]}
+goodb	{"Exodus_ch_18.docx": [3803], "1 Kings_ch_19.docx": [3678], "Luke_ch_9.docx": [8358], "Acts_ch_18.docx": [5129, 5147, 5166, 5828], "Acts_ch_20.docx": [22, 44, 67], "Acts_ch_21.docx": [2218]}

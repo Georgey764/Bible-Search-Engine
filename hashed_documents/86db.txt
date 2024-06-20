@@ -1,0 +1,2 @@
+
+3howev	{"Deuteronomy_ch_25.docx": [198], "Joshua_ch_9.docx": [5525], "Judges_ch_16.docx": [168], "1 Samuel_ch_8.docx": [192], "1 Samuel_ch_23.docx": [286], "2 Samuel_ch_10.docx": [300], "2 Kings_ch_12.docx": [259], "Jonah_ch_1.docx": [212], "Matthew_ch_9.docx": [329], "Matthew_ch_19.docx": [208]}

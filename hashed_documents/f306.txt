@@ -1,0 +1,2 @@
+
+6it	{"Leviticus_ch_2.docx": [564], "Leviticus_ch_19.docx": [421], "Numbers_ch_4.docx": [369], "Ezra_ch_3.docx": [1038], "Nehemiah_ch_6.docx": [772], "Psalms_ch_122.docx": [443], "Proverbs_ch_28.docx": [451], "Isaiah_ch_4.docx": [875], "Isaiah_ch_29.docx": [834]}

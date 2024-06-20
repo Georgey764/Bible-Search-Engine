@@ -1,0 +1,5 @@
+
+regai	{"Genesis_ch_43.docx": [4337], "Judges_ch_15.docx": [3604, 3604, 3604], "1 Samuel_ch_28.docx": [3573, 3573, 3573], "2 Chronicles_ch_12.docx": [1670, 1670, 1670], "Luke_ch_4.docx": [2549, 2549], "Acts_ch_9.docx": [2994, 2994]}
+regai	{"Genesis_ch_43.docx": [4337], "Judges_ch_15.docx": [3604, 3604], "1 Samuel_ch_28.docx": [3573, 3573], "2 Chronicles_ch_12.docx": [1670, 1670], "Luke_ch_4.docx": [2549], "Acts_ch_9.docx": [2994]}
+6meanw	{"2 Samuel_ch_10.docx": [838], "1 Chronicles_ch_19.docx": [1045], "2 Chronicles_ch_7.docx": [769]}
+regai	{"Genesis_ch_43.docx": [4337], "Judges_ch_15.docx": [3604], "1 Samuel_ch_28.docx": [3573], "2 Chronicles_ch_12.docx": [1670], "Luke_ch_4.docx": [2549], "Acts_ch_9.docx": [2994]}

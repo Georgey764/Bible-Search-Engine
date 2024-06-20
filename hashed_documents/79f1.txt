@@ -1,0 +1,4 @@
+
+fiftie	{"Exodus_ch_18.docx": [2882, 3460, 3460, 3460], "Deuteronomy_ch_1.docx": [1940, 1940, 1940], "Judges_ch_7.docx": [3003, 3003, 3003], "1 Kings_ch_18.docx": [426, 1784, 426, 1784, 426, 1784]}
+fiftie	{"Exodus_ch_18.docx": [2882, 3460, 3460], "Deuteronomy_ch_1.docx": [1940, 1940], "Judges_ch_7.docx": [3003, 3003], "1 Kings_ch_18.docx": [426, 1784, 426, 1784]}
+fiftie	{"Exodus_ch_18.docx": [2882, 3460], "Deuteronomy_ch_1.docx": [1940], "Judges_ch_7.docx": [3003], "1 Kings_ch_18.docx": [426, 1784]}

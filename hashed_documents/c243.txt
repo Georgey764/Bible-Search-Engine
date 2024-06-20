@@ -1,0 +1,4 @@
+
+saphar	{"Numbers_ch_33.docx": [1977, 2016, 2016, 2016]}
+saphar	{"Numbers_ch_33.docx": [1977, 2016, 2016]}
+saphar	{"Numbers_ch_33.docx": [1977, 2016]}

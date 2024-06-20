@@ -1,0 +1,4 @@
+
+gna	{"Job_ch_30.docx": [666], "Isaiah_ch_9.docx": [3479, 3479, 3479]}
+gna	{"Job_ch_30.docx": [666], "Isaiah_ch_9.docx": [3479, 3479]}
+gna	{"Job_ch_30.docx": [666], "Isaiah_ch_9.docx": [3479]}

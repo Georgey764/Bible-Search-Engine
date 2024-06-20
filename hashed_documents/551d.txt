@@ -1,0 +1,4 @@
+
+regath	{"Ezekiel_ch_28.docx": [4023], "Micah_ch_4.docx": [1343, 1343, 1343]}
+regath	{"Ezekiel_ch_28.docx": [4023], "Micah_ch_4.docx": [1343, 1343]}
+regath	{"Ezekiel_ch_28.docx": [4023], "Micah_ch_4.docx": [1343]}

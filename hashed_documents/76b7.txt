@@ -1,0 +1,4 @@
+
+save!	{"Job_ch_40.docx": [1237], "Isaiah_ch_43.docx": [2000, 2000, 2000]}
+save!	{"Job_ch_40.docx": [1237], "Isaiah_ch_43.docx": [2000, 2000]}
+save!	{"Job_ch_40.docx": [1237], "Isaiah_ch_43.docx": [2000]}

@@ -1,0 +1,4 @@
+
+nag	{"Judges_ch_16.docx": [2848], "2 Samuel_ch_5.docx": [2322, 2322, 2322], "1 Chronicles_ch_3.docx": [691, 691], "1 Chronicles_ch_14.docx": [578, 578], "Proverbs_ch_27.docx": [1370, 1370, 1370], "Luke_ch_3.docx": [6391, 6391], "Luke_ch_18.docx": [581, 581]}
+nag	{"Judges_ch_16.docx": [2848], "2 Samuel_ch_5.docx": [2322, 2322], "Proverbs_ch_27.docx": [1370, 1370], "1 Chronicles_ch_3.docx": [691], "1 Chronicles_ch_14.docx": [578], "Luke_ch_3.docx": [6391], "Luke_ch_18.docx": [581]}
+nag	{"Judges_ch_16.docx": [2848], "2 Samuel_ch_5.docx": [2322], "1 Chronicles_ch_3.docx": [691], "1 Chronicles_ch_14.docx": [578], "Proverbs_ch_27.docx": [1370], "Luke_ch_3.docx": [6391], "Luke_ch_18.docx": [581]}

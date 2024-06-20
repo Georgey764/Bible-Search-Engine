@@ -1,0 +1,5 @@
+
+barea	{"Esther_ch_9.docx": [606]}
+34jo	{"1 Chronicles_ch_8.docx": [2213]}
+barea	{"Esther_ch_9.docx": [606]}
+barea	{"Esther_ch_9.docx": [606]}

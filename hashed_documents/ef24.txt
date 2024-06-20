@@ -1,0 +1,5 @@
+
+birth;	{"Jeremiah_ch_22.docx": [4012], "Acts_ch_3.docx": [36, 36]}
+1it’s	{"Psalms_ch_92.docx": [48], "Proverbs_ch_29.docx": [4]}
+birth;	{"Jeremiah_ch_22.docx": [4012], "Acts_ch_3.docx": [36]}
+birth;	{"Jeremiah_ch_22.docx": [4012], "Acts_ch_3.docx": [36]}

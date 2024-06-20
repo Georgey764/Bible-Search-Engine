@@ -1,0 +1,5 @@
+
+asie	{"Genesis_ch_46.docx": [2908], "Numbers_ch_26.docx": [4975, 4980, 4975, 4980, 4975, 4980], "Joshua_ch_15.docx": [5327, 5327], "1 Chronicles_ch_4.docx": [3915, 3915, 3915], "2 Chronicles_ch_17.docx": [1110, 1110, 1110]}
+asie	{"Genesis_ch_46.docx": [2908], "Numbers_ch_26.docx": [4975, 4980, 4975, 4980], "1 Chronicles_ch_4.docx": [3915, 3915], "2 Chronicles_ch_17.docx": [1110, 1110], "Joshua_ch_15.docx": [5327]}
+1‘jac	{"Isaiah_ch_42.docx": [6]}
+asie	{"Genesis_ch_46.docx": [2908], "Numbers_ch_26.docx": [4975, 4980], "Joshua_ch_15.docx": [5327], "1 Chronicles_ch_4.docx": [3915], "2 Chronicles_ch_17.docx": [1110]}

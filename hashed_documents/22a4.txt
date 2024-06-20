@@ -1,0 +1,4 @@
+
+makers	{"1 Samuel_ch_8.docx": [1642], "2 Samuel_ch_12.docx": [5124, 5124, 5124], "Proverbs_ch_20.docx": [1633, 1633, 1633], "Acts_ch_18.docx": [524, 524]}
+makers	{"1 Samuel_ch_8.docx": [1642], "2 Samuel_ch_12.docx": [5124, 5124], "Proverbs_ch_20.docx": [1633, 1633], "Acts_ch_18.docx": [524]}
+makers	{"1 Samuel_ch_8.docx": [1642], "2 Samuel_ch_12.docx": [5124], "Proverbs_ch_20.docx": [1633], "Acts_ch_18.docx": [524]}

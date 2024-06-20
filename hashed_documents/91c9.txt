@@ -1,0 +1,7 @@
+
+mannin	{"2 Chronicles_ch_32.docx": [3637]}
+lonel	{"Mark_ch_1.docx": [5039]}
+mannin	{"2 Chronicles_ch_32.docx": [3637]}
+33alth	{"Psalms_ch_107.docx": [2886]}
+mannin	{"2 Chronicles_ch_32.docx": [3637]}
+lonel	{"Mark_ch_1.docx": [5039]}

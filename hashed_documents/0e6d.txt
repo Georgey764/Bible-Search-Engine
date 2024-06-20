@@ -1,0 +1,4 @@
+
+admitt	{"1 Samuel_ch_12.docx": [1802], "Psalms_ch_32.docx": [436, 436, 436], "Psalms_ch_119.docx": [1958, 1958, 1958], "Matthew_ch_3.docx": [525, 525, 525], "John_ch_1.docx": [1768, 1775, 1768, 1775], "1 Timothy_ch_3.docx": [1858, 1858], "Hebrews_ch_11.docx": [2720, 2720], "Hebrews_ch_12.docx": [3857, 3857]}
+admitt	{"1 Samuel_ch_12.docx": [1802], "Psalms_ch_32.docx": [436, 436], "Psalms_ch_119.docx": [1958, 1958], "Matthew_ch_3.docx": [525, 525], "John_ch_1.docx": [1768, 1775], "1 Timothy_ch_3.docx": [1858], "Hebrews_ch_11.docx": [2720], "Hebrews_ch_12.docx": [3857]}
+admitt	{"1 Samuel_ch_12.docx": [1802], "Psalms_ch_32.docx": [436], "Psalms_ch_119.docx": [1958], "Matthew_ch_3.docx": [525], "John_ch_1.docx": [1768, 1775], "1 Timothy_ch_3.docx": [1858], "Hebrews_ch_11.docx": [2720], "Hebrews_ch_12.docx": [3857]}

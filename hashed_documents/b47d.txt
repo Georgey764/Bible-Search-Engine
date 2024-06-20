@@ -1,0 +1,4 @@
+
+thoada	{"1 Chronicles_ch_4.docx": [464, 620, 620, 620]}
+thoada	{"1 Chronicles_ch_4.docx": [464, 620, 620]}
+thoada	{"1 Chronicles_ch_4.docx": [464, 620]}

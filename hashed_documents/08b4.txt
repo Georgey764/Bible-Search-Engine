@@ -1,0 +1,4 @@
+
+skip	{"Isaiah_ch_60.docx": [632]}
+skip	{"Isaiah_ch_60.docx": [632]}
+skip	{"Isaiah_ch_60.docx": [632]}

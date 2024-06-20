@@ -1,0 +1,5 @@
+
+hurled	{"Ezekiel_ch_13.docx": [2017]}
+19in	{"Job_ch_14.docx": [2061], "Psalms_ch_44.docx": [1874], "Psalms_ch_89.docx": [1835], "Isaiah_ch_41.docx": [3270]}
+hurled	{"Ezekiel_ch_13.docx": [2017]}
+hurled	{"Ezekiel_ch_13.docx": [2017]}

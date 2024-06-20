@@ -1,0 +1,4 @@
+
+unfi	{"Genesis_ch_1.docx": [364], "Leviticus_ch_19.docx": [469, 469, 469], "Isaiah_ch_40.docx": [2396, 2438, 2498, 2396, 2438, 2498, 2396, 2438, 2498], "Matthew_ch_3.docx": [1253, 1253, 1253], "Matthew_ch_8.docx": [822, 822, 822], "Luke_ch_3.docx": [5213, 5213], "Luke_ch_7.docx": [867, 867], "1 Corinthians_ch_15.docx": [779, 779]}
+unfi	{"Genesis_ch_1.docx": [364], "Leviticus_ch_19.docx": [469, 469], "Isaiah_ch_40.docx": [2396, 2438, 2498, 2396, 2438, 2498], "Matthew_ch_3.docx": [1253, 1253], "Matthew_ch_8.docx": [822, 822], "Luke_ch_3.docx": [5213], "Luke_ch_7.docx": [867], "1 Corinthians_ch_15.docx": [779]}
+unfi	{"Genesis_ch_1.docx": [364], "Leviticus_ch_19.docx": [469], "Isaiah_ch_40.docx": [2396, 2438, 2498], "Matthew_ch_3.docx": [1253], "Matthew_ch_8.docx": [822], "Luke_ch_3.docx": [5213], "Luke_ch_7.docx": [867], "1 Corinthians_ch_15.docx": [779]}

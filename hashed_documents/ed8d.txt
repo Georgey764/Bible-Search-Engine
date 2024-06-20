@@ -1,0 +1,5 @@
+
+kings;	{"2 Samuel_ch_18.docx": [2974], "Revelation_ch_17.docx": [1795, 1795]}
+14als	{"Genesis_ch_7.docx": [1726], "2 Samuel_ch_23.docx": [2368], "Nehemiah_ch_5.docx": [2617], "Ezekiel_ch_1.docx": [1803]}
+kings;	{"2 Samuel_ch_18.docx": [2974], "Revelation_ch_17.docx": [1795]}
+kings;	{"2 Samuel_ch_18.docx": [2974], "Revelation_ch_17.docx": [1795]}

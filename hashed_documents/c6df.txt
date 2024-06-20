@@ -1,0 +1,4 @@
+
+inspir	{"1 Kings_ch_20.docx": [6433], "2 Chronicles_ch_32.docx": [1789, 1789, 1789], "Nehemiah_ch_7.docx": [716, 716, 716], "Psalms_ch_2.docx": [74, 74, 74], "Psalms_ch_150.docx": [776], "Hosea_ch_9.docx": [1490, 1490, 1490], "2 Timothy_ch_3.docx": [2420, 2420]}
+inspir	{"1 Kings_ch_20.docx": [6433], "2 Chronicles_ch_32.docx": [1789, 1789], "Nehemiah_ch_7.docx": [716, 716], "Psalms_ch_2.docx": [74, 74], "Hosea_ch_9.docx": [1490, 1490], "2 Timothy_ch_3.docx": [2420]}
+inspir	{"1 Kings_ch_20.docx": [6433], "2 Chronicles_ch_32.docx": [1789], "Nehemiah_ch_7.docx": [716], "Psalms_ch_2.docx": [74], "Hosea_ch_9.docx": [1490], "2 Timothy_ch_3.docx": [2420]}

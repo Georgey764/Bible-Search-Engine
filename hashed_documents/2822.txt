@@ -1,0 +1,6 @@
+
+seasho	{"Joshua_ch_11.docx": [2534], "Judges_ch_7.docx": [3037, 3037, 3037], "1 Kings_ch_2.docx": [6479, 6479, 6479], "Mark_ch_2.docx": [1551, 1551], "Mark_ch_4.docx": [14, 14], "Hebrews_ch_11.docx": [2514, 2514], "Revelation_ch_12.docx": [2785, 2785], "Revelation_ch_13.docx": [8, 8]}
+16‘fo	{"Exodus_ch_33.docx": [2440], "Deuteronomy_ch_25.docx": [2136], "Deuteronomy_ch_29.docx": [1994], "Jeremiah_ch_49.docx": [2811], "Amos_ch_5.docx": [2940], "Micah_ch_6.docx": [3043]}
+seasho	{"Joshua_ch_11.docx": [2534], "Judges_ch_7.docx": [3037, 3037], "1 Kings_ch_2.docx": [6479, 6479], "Mark_ch_2.docx": [1551], "Mark_ch_4.docx": [14], "Hebrews_ch_11.docx": [2514], "Revelation_ch_12.docx": [2785], "Revelation_ch_13.docx": [8]}
+20whic	{"Judges_ch_2.docx": [4390], "Isaiah_ch_19.docx": [2703], "Jeremiah_ch_27.docx": [3633]}
+seasho	{"Joshua_ch_11.docx": [2534], "Judges_ch_7.docx": [3037], "1 Kings_ch_2.docx": [6479], "Mark_ch_2.docx": [1551], "Mark_ch_4.docx": [14], "Hebrews_ch_11.docx": [2514], "Revelation_ch_12.docx": [2785], "Revelation_ch_13.docx": [8]}

@@ -1,0 +1,4 @@
+
+fact;	{"Genesis_ch_15.docx": [1629], "Acts_ch_26.docx": [6031, 6031]}
+fact;	{"Genesis_ch_15.docx": [1629], "Acts_ch_26.docx": [6031]}
+fact;	{"Genesis_ch_15.docx": [1629], "Acts_ch_26.docx": [6031]}

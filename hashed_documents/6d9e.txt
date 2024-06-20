@@ -1,0 +1,4 @@
+
+submis	{"Leviticus_ch_7.docx": [555, 3602, 3602, 3602], "Jeremiah_ch_23.docx": [1076, 1076, 1076], "1 Corinthians_ch_14.docx": [4593, 4593]}
+submis	{"Leviticus_ch_7.docx": [555, 3602, 3602], "Jeremiah_ch_23.docx": [1076, 1076], "1 Corinthians_ch_14.docx": [4593]}
+submis	{"Leviticus_ch_7.docx": [555, 3602], "Jeremiah_ch_23.docx": [1076], "1 Corinthians_ch_14.docx": [4593]}

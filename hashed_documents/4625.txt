@@ -1,0 +1,5 @@
+
+samaij	{"2 Samuel_ch_23.docx": [1891], "1 Chronicles_ch_8.docx": [2014, 2014], "1 Chronicles_ch_9.docx": [1960, 1960, 1960], "1 Chronicles_ch_24.docx": [926, 926, 926], "1 Chronicles_ch_26.docx": [401, 616, 728, 401, 616, 401, 616, 728], "1 Chronicles_ch_27.docx": [2486, 2486, 2486], "2 Chronicles_ch_29.docx": [2288, 2288, 2288], "2 Chronicles_ch_35.docx": [1707, 1707, 1707]}
+samaij	{"1 Chronicles_ch_8.docx": [2014, 2014], "1 Chronicles_ch_9.docx": [1960, 1960], "1 Chronicles_ch_24.docx": [926, 926], "1 Chronicles_ch_26.docx": [401, 616, 401, 616, 728], "1 Chronicles_ch_27.docx": [2486, 2486], "2 Chronicles_ch_29.docx": [2288, 2288], "2 Chronicles_ch_35.docx": [1707, 1707]}
+47ker	{"Nehemiah_ch_7.docx": [2841]}
+samaij	{"2 Samuel_ch_23.docx": [1891], "1 Chronicles_ch_8.docx": [2014], "1 Chronicles_ch_9.docx": [1960], "1 Chronicles_ch_24.docx": [926], "1 Chronicles_ch_26.docx": [401, 616, 728], "1 Chronicles_ch_27.docx": [2486], "2 Chronicles_ch_29.docx": [2288], "2 Chronicles_ch_35.docx": [1707]}

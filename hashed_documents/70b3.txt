@@ -1,0 +1,4 @@
+
+idols!	{"1 Kings_ch_11.docx": [981], "Isaiah_ch_41.docx": [5047, 5047, 5047]}
+idols!	{"1 Kings_ch_11.docx": [981], "Isaiah_ch_41.docx": [5047, 5047]}
+idols!	{"1 Kings_ch_11.docx": [981], "Isaiah_ch_41.docx": [5047]}

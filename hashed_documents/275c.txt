@@ -1,0 +1,5 @@
+
+feste	{"Job_ch_16.docx": [636], "Job_ch_19.docx": [1768, 1768, 1768], "Job_ch_33.docx": [1894, 1894, 1894], "Psalms_ch_38.docx": [431, 431, 431]}
+20j	{"Numbers_ch_26.docx": [2133], "Deuteronomy_ch_28.docx": [2557], "1 Samuel_ch_8.docx": [2345], "1 Kings_ch_14.docx": [3376], "1 Chronicles_ch_1.docx": [1715], "Ezekiel_ch_18.docx": [3041]}
+feste	{"Job_ch_16.docx": [636], "Job_ch_19.docx": [1768, 1768], "Job_ch_33.docx": [1894, 1894], "Psalms_ch_38.docx": [431, 431]}
+feste	{"Job_ch_16.docx": [636], "Job_ch_19.docx": [1768], "Job_ch_33.docx": [1894], "Psalms_ch_38.docx": [431]}

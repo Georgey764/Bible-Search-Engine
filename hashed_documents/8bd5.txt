@@ -1,0 +1,4 @@
+
+amen	{"Genesis_ch_41.docx": [14], "2 Samuel_ch_8.docx": [992, 992, 992], "1 Chronicles_ch_16.docx": [3871, 3871, 3871], "Psalms_ch_72.docx": [1941, 1941, 1941], "Psalms_ch_89.docx": [4861, 4861], "Matthew_ch_6.docx": [1831, 1831, 1831], "Romans_ch_1.docx": [3244, 3244], "Revelation_ch_3.docx": [2532, 2532]}
+amen	{"Genesis_ch_41.docx": [14], "2 Samuel_ch_8.docx": [992, 992], "1 Chronicles_ch_16.docx": [3871, 3871], "Psalms_ch_72.docx": [1941, 1941], "Matthew_ch_6.docx": [1831, 1831], "Psalms_ch_89.docx": [4861], "Romans_ch_1.docx": [3244], "Revelation_ch_3.docx": [2532]}
+amen	{"Genesis_ch_41.docx": [14], "2 Samuel_ch_8.docx": [992], "1 Chronicles_ch_16.docx": [3871], "Psalms_ch_72.docx": [1941], "Psalms_ch_89.docx": [4861], "Matthew_ch_6.docx": [1831], "Romans_ch_1.docx": [3244], "Revelation_ch_3.docx": [2532]}

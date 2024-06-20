@@ -1,0 +1,7 @@
+
+hodav	{"1 Chronicles_ch_9.docx": [901], "Ezra_ch_2.docx": [1568, 1568, 1568]}
+mephaa	{"Jeremiah_ch_48.docx": [2812]}
+hodav	{"1 Chronicles_ch_9.docx": [901], "Ezra_ch_2.docx": [1568, 1568]}
+mephaa	{"Jeremiah_ch_48.docx": [2812]}
+hodav	{"1 Chronicles_ch_9.docx": [901], "Ezra_ch_2.docx": [1568]}
+mephaa	{"Jeremiah_ch_48.docx": [2812]}

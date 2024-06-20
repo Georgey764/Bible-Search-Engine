@@ -1,0 +1,4 @@
+
+rubbed	{"Leviticus_ch_8.docx": [1556], "2 Samuel_ch_12.docx": [3373, 3373, 3373], "Ezekiel_ch_16.docx": [1511, 1511, 1511], "Daniel_ch_10.docx": [269, 269, 269]}
+rubbed	{"Leviticus_ch_8.docx": [1556], "2 Samuel_ch_12.docx": [3373, 3373], "Ezekiel_ch_16.docx": [1511, 1511], "Daniel_ch_10.docx": [269, 269]}
+rubbed	{"Leviticus_ch_8.docx": [1556], "2 Samuel_ch_12.docx": [3373], "Ezekiel_ch_16.docx": [1511], "Daniel_ch_10.docx": [269]}

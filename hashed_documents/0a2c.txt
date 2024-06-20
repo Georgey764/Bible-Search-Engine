@@ -1,0 +1,7 @@
+
+ozio	{"1 Chronicles_ch_27.docx": [2627, 3516, 3516, 3516]}
+amun	{"Jeremiah_ch_46.docx": [4055]}
+ozio	{"1 Chronicles_ch_27.docx": [2627, 3516, 3516]}
+amun	{"Jeremiah_ch_46.docx": [4055]}
+ozio	{"1 Chronicles_ch_27.docx": [2627, 3516]}
+amun	{"Jeremiah_ch_46.docx": [4055]}

@@ -1,0 +1,4 @@
+
+faithl	{"Proverbs_ch_17.docx": [688], "Matthew_ch_17.docx": [1889, 1889, 1889], "Mark_ch_9.docx": [2466, 2466], "Luke_ch_9.docx": [5685, 5685], "Titus_ch_1.docx": [1983, 1983]}
+faithl	{"Proverbs_ch_17.docx": [688], "Matthew_ch_17.docx": [1889, 1889], "Mark_ch_9.docx": [2466], "Luke_ch_9.docx": [5685], "Titus_ch_1.docx": [1983]}
+faithl	{"Proverbs_ch_17.docx": [688], "Matthew_ch_17.docx": [1889], "Mark_ch_9.docx": [2466], "Luke_ch_9.docx": [5685], "Titus_ch_1.docx": [1983]}

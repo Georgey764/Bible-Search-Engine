@@ -1,0 +1,5 @@
+
+vulner	{"1 Samuel_ch_24.docx": [2875]}
+vulner	{"1 Samuel_ch_24.docx": [2875]}
+39wh	{"Jeremiah_ch_51.docx": [6606]}
+vulner	{"1 Samuel_ch_24.docx": [2875]}

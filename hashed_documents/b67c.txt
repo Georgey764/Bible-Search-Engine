@@ -1,0 +1,4 @@
+
+miracu	{"1 Kings_ch_13.docx": [863], "Psalms_ch_31.docx": [2467, 2467, 2467], "1 Corinthians_ch_13.docx": [997, 997]}
+miracu	{"1 Kings_ch_13.docx": [863], "Psalms_ch_31.docx": [2467, 2467], "1 Corinthians_ch_13.docx": [997]}
+miracu	{"1 Kings_ch_13.docx": [863], "Psalms_ch_31.docx": [2467], "1 Corinthians_ch_13.docx": [997]}

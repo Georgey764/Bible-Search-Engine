@@ -1,0 +1,4 @@
+
+bed!	{"2 Samuel_ch_4.docx": [1795], "2 Chronicles_ch_24.docx": [4374, 4374, 4374], "Acts_ch_9.docx": [5541, 5541]}
+bed!	{"2 Samuel_ch_4.docx": [1795], "2 Chronicles_ch_24.docx": [4374, 4374], "Acts_ch_9.docx": [5541]}
+bed!	{"2 Samuel_ch_4.docx": [1795], "2 Chronicles_ch_24.docx": [4374], "Acts_ch_9.docx": [5541]}

@@ -1,0 +1,6 @@
+
+ziz	{"1 Chronicles_ch_23.docx": [1086, 1123, 1123, 1123]}
+elite	{"Acts_ch_13.docx": [8777]}
+ziz	{"1 Chronicles_ch_23.docx": [1086, 1123, 1123]}
+ziz	{"1 Chronicles_ch_23.docx": [1086, 1123]}
+elite	{"Acts_ch_13.docx": [8777]}

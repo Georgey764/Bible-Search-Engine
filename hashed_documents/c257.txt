@@ -1,0 +1,5 @@
+
+evil!	{"Genesis_ch_3.docx": [3432], "Isaiah_ch_14.docx": [3419, 3419, 3419], "Ezekiel_ch_22.docx": [985, 985, 985], "Hosea_ch_3.docx": [104, 104, 104]}
+evil!	{"Genesis_ch_3.docx": [3432], "Isaiah_ch_14.docx": [3419, 3419], "Ezekiel_ch_22.docx": [985, 985], "Hosea_ch_3.docx": [104, 104]}
+5‘are	{"Isaiah_ch_57.docx": [640]}
+evil!	{"Genesis_ch_3.docx": [3432], "Isaiah_ch_14.docx": [3419], "Ezekiel_ch_22.docx": [985], "Hosea_ch_3.docx": [104]}

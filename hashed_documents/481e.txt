@@ -1,0 +1,5 @@
+
+where’	{"Genesis_ch_38.docx": [2875], "1 Samuel_ch_4.docx": [3660, 3660, 3660], "2 Samuel_ch_16.docx": [537, 537, 537], "Job_ch_38.docx": [1784, 1784], "Jeremiah_ch_2.docx": [802, 1238, 802, 1238, 802, 1238]}
+where’	{"Genesis_ch_38.docx": [2875], "1 Samuel_ch_4.docx": [3660, 3660], "2 Samuel_ch_16.docx": [537, 537], "Jeremiah_ch_2.docx": [802, 1238, 802, 1238], "Job_ch_38.docx": [1784]}
+17‘als	{"Leviticus_ch_24.docx": [2281]}
+where’	{"Genesis_ch_38.docx": [2875], "1 Samuel_ch_4.docx": [3660], "2 Samuel_ch_16.docx": [537], "Job_ch_38.docx": [1784], "Jeremiah_ch_2.docx": [802, 1238]}

@@ -1,0 +1,4 @@
+
+bauri	{"2 Samuel_ch_16.docx": [891], "2 Samuel_ch_17.docx": [2891, 2891, 2891], "2 Samuel_ch_19.docx": [2862, 2862, 2862], "1 Kings_ch_2.docx": [1359, 1359, 1359]}
+bauri	{"2 Samuel_ch_16.docx": [891], "2 Samuel_ch_17.docx": [2891, 2891], "2 Samuel_ch_19.docx": [2862, 2862], "1 Kings_ch_2.docx": [1359, 1359]}
+bauri	{"2 Samuel_ch_16.docx": [891], "2 Samuel_ch_17.docx": [2891], "2 Samuel_ch_19.docx": [2862], "1 Kings_ch_2.docx": [1359]}

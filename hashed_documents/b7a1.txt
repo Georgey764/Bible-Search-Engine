@@ -1,0 +1,5 @@
+
+anak	{"Deuteronomy_ch_2.docx": [1451, 1466, 2724, 1466, 2724, 1466, 2724], "Judges_ch_1.docx": [1438, 6774, 6797, 1438, 6774, 6797, 1438, 6774, 6797], "Jeremiah_ch_47.docx": [885, 885, 885]}
+anak	{"Deuteronomy_ch_2.docx": [1451, 1466, 2724, 1466, 2724], "Judges_ch_1.docx": [1438, 6774, 6797, 1438, 6774, 6797], "Jeremiah_ch_47.docx": [885, 885]}
+1-yea	{"Ezekiel_ch_46.docx": [2639], "Micah_ch_6.docx": [1550]}
+anak	{"Deuteronomy_ch_2.docx": [1451, 1466, 2724], "Judges_ch_1.docx": [1438, 6774, 6797], "Jeremiah_ch_47.docx": [885]}

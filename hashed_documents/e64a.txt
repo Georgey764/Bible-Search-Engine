@@ -1,0 +1,4 @@
+
+fittin	{"Numbers_ch_3.docx": [4272], "1 Kings_ch_19.docx": [618, 618, 618], "Proverbs_ch_27.docx": [1456, 1456, 1456], "Luke_ch_13.docx": [4366, 4366], "1 Corinthians_ch_11.docx": [2192, 2192], "Hebrews_ch_2.docx": [1654, 1654]}
+fittin	{"Numbers_ch_3.docx": [4272], "1 Kings_ch_19.docx": [618, 618], "Proverbs_ch_27.docx": [1456, 1456], "Luke_ch_13.docx": [4366], "1 Corinthians_ch_11.docx": [2192], "Hebrews_ch_2.docx": [1654]}
+fittin	{"Numbers_ch_3.docx": [4272], "1 Kings_ch_19.docx": [618], "Proverbs_ch_27.docx": [1456], "Luke_ch_13.docx": [4366], "1 Corinthians_ch_11.docx": [2192], "Hebrews_ch_2.docx": [1654]}

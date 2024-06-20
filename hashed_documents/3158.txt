@@ -1,0 +1,4 @@
+
+furthe	{"Numbers_ch_18.docx": [4499], "Job_ch_32.docx": [1521, 1521, 1521], "Matthew_ch_27.docx": [809, 809], "Acts_ch_7.docx": [4465, 4465], "2 Corinthians_ch_3.docx": [264, 264], "Hebrews_ch_4.docx": [1195, 1195], "Hebrews_ch_7.docx": [445, 445], "Hebrews_ch_11.docx": [6805, 6805]}
+furthe	{"Numbers_ch_18.docx": [4499], "Job_ch_32.docx": [1521, 1521], "Matthew_ch_27.docx": [809], "Acts_ch_7.docx": [4465], "2 Corinthians_ch_3.docx": [264], "Hebrews_ch_4.docx": [1195], "Hebrews_ch_7.docx": [445], "Hebrews_ch_11.docx": [6805]}
+furthe	{"Numbers_ch_18.docx": [4499], "Job_ch_32.docx": [1521], "Matthew_ch_27.docx": [809], "Acts_ch_7.docx": [4465], "2 Corinthians_ch_3.docx": [264], "Hebrews_ch_4.docx": [1195], "Hebrews_ch_7.docx": [445], "Hebrews_ch_11.docx": [6805]}

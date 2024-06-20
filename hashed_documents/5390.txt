@@ -1,0 +1,4 @@
+
+weat	{"Isaiah_ch_4.docx": [926], "Matthew_ch_16.docx": [173, 190, 173, 190, 173, 190]}
+weat	{"Isaiah_ch_4.docx": [926], "Matthew_ch_16.docx": [173, 190, 173, 190]}
+weat	{"Isaiah_ch_4.docx": [926], "Matthew_ch_16.docx": [173, 190]}

@@ -1,0 +1,4 @@
+
+esco	{"2 Samuel_ch_19.docx": [7320], "2 Corinthians_ch_1.docx": [2871, 2871]}
+esco	{"2 Samuel_ch_19.docx": [7320], "2 Corinthians_ch_1.docx": [2871]}
+esco	{"2 Samuel_ch_19.docx": [7320], "2 Corinthians_ch_1.docx": [2871]}

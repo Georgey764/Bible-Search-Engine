@@ -1,0 +1,2 @@
+
+2thos	{"Ezra_ch_2.docx": [344], "Psalms_ch_140.docx": [158], "Proverbs_ch_11.docx": [99], "Proverbs_ch_12.docx": [112], "Proverbs_ch_14.docx": [122], "Proverbs_ch_18.docx": [108], "Isaiah_ch_18.docx": [83]}

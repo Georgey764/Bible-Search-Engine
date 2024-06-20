@@ -1,0 +1,4 @@
+
+damagi	{"Acts_ch_19.docx": [8138, 8153, 8175, 8153, 8175]}
+66alt	{"Nehemiah_ch_7.docx": [4201]}
+damagi	{"Acts_ch_19.docx": [8138, 8153, 8175]}

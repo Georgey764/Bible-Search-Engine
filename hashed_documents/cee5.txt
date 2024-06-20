@@ -1,0 +1,4 @@
+
+naasso	{"Exodus_ch_6.docx": [2875], "Numbers_ch_1.docx": [764, 764, 764], "Numbers_ch_7.docx": [1521, 2163, 1521, 2163, 1521, 2163], "Numbers_ch_10.docx": [1763, 1763, 1763]}
+naasso	{"Exodus_ch_6.docx": [2875], "Numbers_ch_1.docx": [764, 764], "Numbers_ch_7.docx": [1521, 2163, 1521, 2163], "Numbers_ch_10.docx": [1763, 1763]}
+naasso	{"Exodus_ch_6.docx": [2875], "Numbers_ch_1.docx": [764], "Numbers_ch_7.docx": [1521, 2163], "Numbers_ch_10.docx": [1763]}

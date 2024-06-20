@@ -1,0 +1,4 @@
+
+stamp	{"Ezekiel_ch_6.docx": [1670], "Ezekiel_ch_25.docx": [975, 975, 975], "Ezekiel_ch_32.docx": [379, 379, 379]}
+stamp	{"Ezekiel_ch_6.docx": [1670], "Ezekiel_ch_25.docx": [975, 975], "Ezekiel_ch_32.docx": [379, 379]}
+stamp	{"Ezekiel_ch_6.docx": [1670], "Ezekiel_ch_25.docx": [975], "Ezekiel_ch_32.docx": [379]}

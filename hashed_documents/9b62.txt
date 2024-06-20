@@ -1,0 +1,4 @@
+
+harbon	{"Esther_ch_1.docx": [1892], "Esther_ch_7.docx": [1180, 1180, 1180]}
+harbon	{"Esther_ch_1.docx": [1892], "Esther_ch_7.docx": [1180, 1180]}
+harbon	{"Esther_ch_1.docx": [1892], "Esther_ch_7.docx": [1180]}

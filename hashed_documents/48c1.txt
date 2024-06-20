@@ -1,0 +1,7 @@
+
+obvio	{"Judges_ch_6.docx": [3185], "Job_ch_42.docx": [3827], "Galatians_ch_3.docx": [1403, 1403], "Hebrews_ch_7.docx": [2239, 2239]}
+tish	{"1 Kings_ch_17.docx": [10, 12, 12, 12], "1 Kings_ch_18.docx": [4374, 4374, 4374], "1 Kings_ch_21.docx": [2396, 4401, 2396, 4401, 2396, 4401], "2 Kings_ch_1.docx": [386, 1554, 386, 1554, 386, 1554], "2 Kings_ch_9.docx": [6971, 6971, 6971]}
+obvio	{"Judges_ch_6.docx": [3185], "Galatians_ch_3.docx": [1403], "Hebrews_ch_7.docx": [2239]}
+tish	{"1 Kings_ch_17.docx": [10, 12, 12], "1 Kings_ch_18.docx": [4374, 4374], "1 Kings_ch_21.docx": [2396, 4401, 2396, 4401], "2 Kings_ch_1.docx": [386, 1554, 386, 1554], "2 Kings_ch_9.docx": [6971, 6971]}
+obvio	{"Judges_ch_6.docx": [3185], "Galatians_ch_3.docx": [1403], "Hebrews_ch_7.docx": [2239]}
+tish	{"1 Kings_ch_17.docx": [10, 12], "1 Kings_ch_18.docx": [4374], "1 Kings_ch_21.docx": [2396, 4401], "2 Kings_ch_1.docx": [386, 1554], "2 Kings_ch_9.docx": [6971]}

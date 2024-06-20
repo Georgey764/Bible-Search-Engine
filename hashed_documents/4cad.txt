@@ -1,0 +1,4 @@
+
+honey!	{"Numbers_ch_13.docx": [2810], "Deuteronomy_ch_26.docx": [1310, 1310, 1310], "Psalms_ch_81.docx": [1648, 1648, 1648]}
+honey!	{"Numbers_ch_13.docx": [2810], "Deuteronomy_ch_26.docx": [1310, 1310], "Psalms_ch_81.docx": [1648, 1648]}
+honey!	{"Numbers_ch_13.docx": [2810], "Deuteronomy_ch_26.docx": [1310], "Psalms_ch_81.docx": [1648]}

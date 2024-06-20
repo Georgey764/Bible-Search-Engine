@@ -1,0 +1,5 @@
+
+sling	{"Judges_ch_20.docx": [1905], "1 Samuel_ch_14.docx": [2151, 2151, 2151], "1 Samuel_ch_17.docx": [6051, 6051, 6051], "1 Samuel_ch_25.docx": [4482, 4482, 4482], "2 Chronicles_ch_26.docx": [2069, 2069, 2069], "Job_ch_41.docx": [2501, 2501, 2501], "Proverbs_ch_26.docx": [642, 642, 642], "Zechariah_ch_9.docx": [3292, 3292, 3292]}
+sling	{"Judges_ch_20.docx": [1905], "1 Samuel_ch_14.docx": [2151, 2151], "1 Samuel_ch_17.docx": [6051, 6051], "1 Samuel_ch_25.docx": [4482, 4482], "2 Chronicles_ch_26.docx": [2069, 2069], "Job_ch_41.docx": [2501, 2501], "Proverbs_ch_26.docx": [642, 642], "Zechariah_ch_9.docx": [3292, 3292]}
+59f	{"Lamentations_ch_3.docx": [4862]}
+sling	{"Judges_ch_20.docx": [1905], "1 Samuel_ch_14.docx": [2151], "1 Samuel_ch_17.docx": [6051], "1 Samuel_ch_25.docx": [4482], "2 Chronicles_ch_26.docx": [2069], "Job_ch_41.docx": [2501], "Proverbs_ch_26.docx": [642], "Zechariah_ch_9.docx": [3292]}

@@ -1,0 +1,2 @@
+
+11how	{"Exodus_ch_7.docx": [1336], "Numbers_ch_26.docx": [1293], "1 Kings_ch_17.docx": [1145], "2 Kings_ch_13.docx": [1596], "2 Chronicles_ch_26.docx": [1538], "2 Chronicles_ch_30.docx": [1984], "Psalms_ch_108.docx": [1046]}

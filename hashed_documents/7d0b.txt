@@ -1,0 +1,4 @@
+
+hangs	{"Proverbs_ch_23.docx": [2749], "Song of Solomon_ch_4.docx": [649, 649, 649]}
+hangs	{"Proverbs_ch_23.docx": [2749], "Song of Solomon_ch_4.docx": [649, 649]}
+hangs	{"Proverbs_ch_23.docx": [2749], "Song of Solomon_ch_4.docx": [649]}

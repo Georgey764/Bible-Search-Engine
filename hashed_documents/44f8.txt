@@ -1,0 +1,4 @@
+
+elb	{"Joshua_ch_15.docx": [4375], "Joshua_ch_19.docx": [2288, 2288], "Job_ch_31.docx": [2085, 2085], "Ezekiel_ch_13.docx": [3524, 3524, 3524]}
+elb	{"Job_ch_31.docx": [2085, 2085], "Ezekiel_ch_13.docx": [3524, 3524], "Joshua_ch_19.docx": [2288]}
+elb	{"Joshua_ch_15.docx": [4375], "Joshua_ch_19.docx": [2288], "Job_ch_31.docx": [2085], "Ezekiel_ch_13.docx": [3524]}

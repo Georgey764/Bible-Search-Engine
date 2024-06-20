@@ -1,0 +1,5 @@
+
+skills	{"Exodus_ch_36.docx": [22, 256, 462, 256, 462, 256, 462], "Proverbs_ch_3.docx": [615, 615, 615]}
+skills	{"Exodus_ch_36.docx": [22, 256, 462, 256, 462], "Proverbs_ch_3.docx": [615, 615]}
+12eli	{"1 Chronicles_ch_11.docx": [2071], "1 Chronicles_ch_24.docx": [1585]}
+skills	{"Exodus_ch_36.docx": [22, 256, 462], "Proverbs_ch_3.docx": [615]}

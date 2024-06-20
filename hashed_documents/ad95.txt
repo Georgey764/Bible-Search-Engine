@@ -1,0 +1,5 @@
+
+riva	{"Ecclesiastes_ch_4.docx": [558], "Philippians_ch_1.docx": [1740, 1740]}
+32bala	{"Genesis_ch_36.docx": [3368]}
+riva	{"Ecclesiastes_ch_4.docx": [558], "Philippians_ch_1.docx": [1740]}
+riva	{"Ecclesiastes_ch_4.docx": [558], "Philippians_ch_1.docx": [1740]}

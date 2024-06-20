@@ -1,0 +1,4 @@
+
+doorwa	{"1 Kings_ch_6.docx": [3652, 3666, 3666, 3666], "1 Kings_ch_7.docx": [344, 352, 6769, 344, 352, 6769, 344, 352, 6769], "2 Kings_ch_12.docx": [1377, 1377, 1377], "1 Chronicles_ch_22.docx": [351, 351, 351], "2 Chronicles_ch_3.docx": [671, 671, 671], "2 Chronicles_ch_4.docx": [1253, 1253, 1253], "Proverbs_ch_8.docx": [199, 199, 199]}
+doorwa	{"1 Kings_ch_6.docx": [3652, 3666, 3666], "1 Kings_ch_7.docx": [344, 352, 6769, 344, 352, 6769], "2 Kings_ch_12.docx": [1377, 1377], "1 Chronicles_ch_22.docx": [351, 351], "2 Chronicles_ch_3.docx": [671, 671], "2 Chronicles_ch_4.docx": [1253, 1253], "Proverbs_ch_8.docx": [199, 199]}
+doorwa	{"1 Kings_ch_6.docx": [3652, 3666], "1 Kings_ch_7.docx": [344, 352, 6769], "2 Kings_ch_12.docx": [1377], "1 Chronicles_ch_22.docx": [351], "2 Chronicles_ch_3.docx": [671], "2 Chronicles_ch_4.docx": [1253], "Proverbs_ch_8.docx": [199]}

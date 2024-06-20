@@ -1,0 +1,5 @@
+
+begu	{"Deuteronomy_ch_3.docx": [3511], "1 Samuel_ch_17.docx": [2785, 2785, 2785], "2 Chronicles_ch_29.docx": [6431, 6431, 6431], "Proverbs_ch_6.docx": [2670, 2670, 2670], "Jeremiah_ch_49.docx": [1381, 1381, 1381]}
+19‘g	{"Genesis_ch_49.docx": [2244], "Numbers_ch_23.docx": [2513]}
+begu	{"Deuteronomy_ch_3.docx": [3511], "1 Samuel_ch_17.docx": [2785, 2785], "2 Chronicles_ch_29.docx": [6431, 6431], "Proverbs_ch_6.docx": [2670, 2670], "Jeremiah_ch_49.docx": [1381, 1381]}
+begu	{"Deuteronomy_ch_3.docx": [3511], "1 Samuel_ch_17.docx": [2785], "2 Chronicles_ch_29.docx": [6431], "Proverbs_ch_6.docx": [2670], "Jeremiah_ch_49.docx": [1381]}

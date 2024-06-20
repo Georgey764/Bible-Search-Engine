@@ -1,0 +1,5 @@
+
+undisc	{"Jeremiah_ch_4.docx": [3953], "1 Timothy_ch_1.docx": [1268, 1268]}
+24c	{"Joshua_ch_18.docx": [3376]}
+undisc	{"Jeremiah_ch_4.docx": [3953], "1 Timothy_ch_1.docx": [1268]}
+undisc	{"Jeremiah_ch_4.docx": [3953], "1 Timothy_ch_1.docx": [1268]}

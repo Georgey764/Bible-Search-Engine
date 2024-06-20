@@ -1,0 +1,4 @@
+
+hards	{"Exodus_ch_3.docx": [919], "Deuteronomy_ch_15.docx": [2626, 2626, 2626], "Deuteronomy_ch_26.docx": [1042, 1042, 1042], "2 Timothy_ch_2.docx": [273, 273]}
+hards	{"Exodus_ch_3.docx": [919], "Deuteronomy_ch_15.docx": [2626, 2626], "Deuteronomy_ch_26.docx": [1042, 1042], "2 Timothy_ch_2.docx": [273]}
+hards	{"Exodus_ch_3.docx": [919], "Deuteronomy_ch_15.docx": [2626], "Deuteronomy_ch_26.docx": [1042], "2 Timothy_ch_2.docx": [273]}

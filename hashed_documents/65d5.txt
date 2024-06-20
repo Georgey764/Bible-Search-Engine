@@ -1,0 +1,4 @@
+
+blinde	{"Isaiah_ch_56.docx": [1780], "Jeremiah_ch_39.docx": [939, 939, 939], "Zechariah_ch_11.docx": [3387, 3387, 3387], "2 Corinthians_ch_3.docx": [1710, 1710], "2 Corinthians_ch_4.docx": [371, 371]}
+blinde	{"Isaiah_ch_56.docx": [1780], "Jeremiah_ch_39.docx": [939, 939], "Zechariah_ch_11.docx": [3387, 3387], "2 Corinthians_ch_3.docx": [1710], "2 Corinthians_ch_4.docx": [371]}
+blinde	{"Isaiah_ch_56.docx": [1780], "Jeremiah_ch_39.docx": [939], "Zechariah_ch_11.docx": [3387], "2 Corinthians_ch_3.docx": [1710], "2 Corinthians_ch_4.docx": [371]}

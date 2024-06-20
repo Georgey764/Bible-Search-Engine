@@ -1,0 +1,7 @@
+
+scree	{"Exodus_ch_26.docx": [3382]}
+greece	{"Daniel_ch_11.docx": [444, 480, 480, 480]}
+scree	{"Exodus_ch_26.docx": [3382]}
+greece	{"Daniel_ch_11.docx": [444, 480, 480]}
+scree	{"Exodus_ch_26.docx": [3382]}
+greece	{"Daniel_ch_11.docx": [444, 480]}

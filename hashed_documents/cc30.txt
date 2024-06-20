@@ -1,0 +1,4 @@
+
+shepha	{"Ezra_ch_2.docx": [578, 2302, 2302], "Ezra_ch_8.docx": [837, 837, 837], "Nehemiah_ch_7.docx": [1288, 3398, 1288, 1288, 3398], "Nehemiah_ch_11.docx": [638, 638, 638], "Jeremiah_ch_38.docx": [5, 5, 5]}
+shepha	{"Ezra_ch_2.docx": [578, 2302], "Ezra_ch_8.docx": [837, 837], "Nehemiah_ch_7.docx": [1288, 1288, 3398], "Nehemiah_ch_11.docx": [638, 638], "Jeremiah_ch_38.docx": [5, 5]}
+shepha	{"Ezra_ch_2.docx": [578, 2302], "Ezra_ch_8.docx": [837], "Nehemiah_ch_7.docx": [1288, 3398], "Nehemiah_ch_11.docx": [638], "Jeremiah_ch_38.docx": [5]}

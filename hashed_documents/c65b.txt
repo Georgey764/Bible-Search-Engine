@@ -1,0 +1,4 @@
+
+choraz	{"Matthew_ch_11.docx": [2403], "Luke_ch_10.docx": [1360, 1360]}
+choraz	{"Matthew_ch_11.docx": [2403], "Luke_ch_10.docx": [1360]}
+choraz	{"Matthew_ch_11.docx": [2403], "Luke_ch_10.docx": [1360]}

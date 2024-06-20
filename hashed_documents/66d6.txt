@@ -1,0 +1,4 @@
+
+selle	{"Numbers_ch_26.docx": [5093, 5098, 5098, 5098], "Joshua_ch_16.docx": [674, 674, 674], "2 Samuel_ch_3.docx": [2211, 2211, 2211], "2 Kings_ch_22.docx": [2367, 2367, 2367], "1 Chronicles_ch_7.docx": [4240, 4240, 4240], "2 Chronicles_ch_28.docx": [1908, 1908, 1908], "2 Chronicles_ch_34.docx": [3876, 3876, 3876]}
+selle	{"Numbers_ch_26.docx": [5093, 5098, 5098], "Joshua_ch_16.docx": [674, 674], "2 Samuel_ch_3.docx": [2211, 2211], "2 Kings_ch_22.docx": [2367, 2367], "1 Chronicles_ch_7.docx": [4240, 4240], "2 Chronicles_ch_28.docx": [1908, 1908], "2 Chronicles_ch_34.docx": [3876, 3876]}
+selle	{"Numbers_ch_26.docx": [5093, 5098], "Joshua_ch_16.docx": [674], "2 Samuel_ch_3.docx": [2211], "2 Kings_ch_22.docx": [2367], "1 Chronicles_ch_7.docx": [4240], "2 Chronicles_ch_28.docx": [1908], "2 Chronicles_ch_34.docx": [3876]}

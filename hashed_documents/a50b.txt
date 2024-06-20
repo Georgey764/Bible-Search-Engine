@@ -1,0 +1,4 @@
+
+garas	{"Mark_ch_5.docx": [20]}
+19p	{"Nehemiah_ch_5.docx": [3652], "Psalms_ch_139.docx": [1822], "Proverbs_ch_22.docx": [2019]}
+garas	{"Mark_ch_5.docx": [20]}

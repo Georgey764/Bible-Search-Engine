@@ -1,0 +1,7 @@
+
+legiti	{"Judges_ch_9.docx": [1026]}
+blazin	{"2 Kings_ch_22.docx": [2039, 2953, 2953, 2953], "Psalms_ch_119.docx": [11722, 11722, 11722], "Isaiah_ch_59.docx": [2931, 2931, 2931], "Daniel_ch_3.docx": [924, 1475, 2293, 3117, 3446, 3717, 4375, 924, 1475, 2293, 3117, 3446, 3717, 4375, 924, 1475, 2293, 3117, 3446, 3717, 4375], "Daniel_ch_7.docx": [2205, 2205, 2205], "1 Peter_ch_4.docx": [1684, 1684]}
+legiti	{"Judges_ch_9.docx": [1026]}
+blazin	{"2 Kings_ch_22.docx": [2039, 2953, 2953], "Psalms_ch_119.docx": [11722, 11722], "Isaiah_ch_59.docx": [2931, 2931], "Daniel_ch_3.docx": [924, 1475, 2293, 3117, 3446, 3717, 4375, 924, 1475, 2293, 3117, 3446, 3717, 4375], "Daniel_ch_7.docx": [2205, 2205], "1 Peter_ch_4.docx": [1684]}
+legiti	{"Judges_ch_9.docx": [1026]}
+blazin	{"2 Kings_ch_22.docx": [2039, 2953], "Psalms_ch_119.docx": [11722], "Isaiah_ch_59.docx": [2931], "Daniel_ch_3.docx": [924, 1475, 2293, 3117, 3446, 3717, 4375], "Daniel_ch_7.docx": [2205], "1 Peter_ch_4.docx": [1684]}

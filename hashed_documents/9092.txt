@@ -1,0 +1,4 @@
+
+semira	{"1 Chronicles_ch_7.docx": [2383], "1 Chronicles_ch_15.docx": [2278, 2667, 2278, 2667, 2278, 2667], "1 Chronicles_ch_16.docx": [428, 428, 428], "2 Chronicles_ch_17.docx": [1111, 1111, 1111]}
+semira	{"1 Chronicles_ch_7.docx": [2383], "1 Chronicles_ch_15.docx": [2278, 2667, 2278, 2667], "1 Chronicles_ch_16.docx": [428, 428], "2 Chronicles_ch_17.docx": [1111, 1111]}
+semira	{"1 Chronicles_ch_7.docx": [2383], "1 Chronicles_ch_15.docx": [2278, 2667], "1 Chronicles_ch_16.docx": [428], "2 Chronicles_ch_17.docx": [1111]}

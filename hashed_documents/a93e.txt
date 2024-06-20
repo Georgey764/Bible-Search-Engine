@@ -1,0 +1,4 @@
+
+nobl	{"Psalms_ch_149.docx": [703], "Ecclesiastes_ch_10.docx": [1804, 1804, 1804], "Song of Solomon_ch_6.docx": [1797, 1797, 1797], "Song of Solomon_ch_7.docx": [80, 80, 80], "Isaiah_ch_48.docx": [1758, 1758, 1758], "Luke_ch_19.docx": [1349, 1349], "John_ch_4.docx": [5979, 5979], "Acts_ch_17.docx": [2071, 2071]}
+nobl	{"Psalms_ch_149.docx": [703], "Ecclesiastes_ch_10.docx": [1804, 1804], "Song of Solomon_ch_6.docx": [1797, 1797], "Song of Solomon_ch_7.docx": [80, 80], "Isaiah_ch_48.docx": [1758, 1758], "Luke_ch_19.docx": [1349], "John_ch_4.docx": [5979], "Acts_ch_17.docx": [2071]}
+nobl	{"Psalms_ch_149.docx": [703], "Ecclesiastes_ch_10.docx": [1804], "Song of Solomon_ch_6.docx": [1797], "Song of Solomon_ch_7.docx": [80], "Isaiah_ch_48.docx": [1758], "Luke_ch_19.docx": [1349], "John_ch_4.docx": [5979], "Acts_ch_17.docx": [2071]}

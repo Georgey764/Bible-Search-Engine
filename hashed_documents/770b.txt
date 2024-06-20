@@ -1,0 +1,5 @@
+
+chame	{"Leviticus_ch_11.docx": [3332], "Zephaniah_ch_2.docx": [4458, 4458, 4458]}
+10[y	{"Genesis_ch_41.docx": [1125]}
+chame	{"Leviticus_ch_11.docx": [3332], "Zephaniah_ch_2.docx": [4458, 4458]}
+chame	{"Leviticus_ch_11.docx": [3332], "Zephaniah_ch_2.docx": [4458]}

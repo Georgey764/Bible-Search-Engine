@@ -1,0 +1,8 @@
+
+seruc	{"Genesis_ch_11.docx": [2455, 2461, 2619, 2461, 2461, 2619]}
+exaspe	{"Judges_ch_16.docx": [2858], "2 Kings_ch_2.docx": [2818, 2818, 2818]}
+seruc	{"Genesis_ch_11.docx": [2455, 2461, 2461, 2619]}
+17‘[p	{"Exodus_ch_10.docx": [2992]}
+exaspe	{"Judges_ch_16.docx": [2858], "2 Kings_ch_2.docx": [2818, 2818]}
+seruc	{"Genesis_ch_11.docx": [2455, 2461, 2619]}
+exaspe	{"Judges_ch_16.docx": [2858], "2 Kings_ch_2.docx": [2818]}

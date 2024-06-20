@@ -1,0 +1,5 @@
+
+soth	{"Joshua_ch_15.docx": [6373], "1 Chronicles_ch_7.docx": [2487, 2559, 2487, 2559, 2487, 2559]}
+52and	{"Genesis_ch_24.docx": [7964], "Deuteronomy_ch_28.docx": [7027], "1 Samuel_ch_17.docx": [8204]}
+soth	{"Joshua_ch_15.docx": [6373], "1 Chronicles_ch_7.docx": [2487, 2559, 2487, 2559]}
+soth	{"Joshua_ch_15.docx": [6373], "1 Chronicles_ch_7.docx": [2487, 2559]}

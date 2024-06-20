@@ -1,0 +1,7 @@
+
+shunn	{"Proverbs_ch_14.docx": [2880]}
+relian	{"Ezekiel_ch_5.docx": [3227], "Ezekiel_ch_14.docx": [2228, 2228, 2228]}
+shunn	{"Proverbs_ch_14.docx": [2880]}
+relian	{"Ezekiel_ch_5.docx": [3227], "Ezekiel_ch_14.docx": [2228, 2228]}
+shunn	{"Proverbs_ch_14.docx": [2880]}
+relian	{"Ezekiel_ch_5.docx": [3227], "Ezekiel_ch_14.docx": [2228]}

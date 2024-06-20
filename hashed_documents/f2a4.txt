@@ -1,0 +1,4 @@
+
+chet	{"Genesis_ch_27.docx": [6377], "Exodus_ch_3.docx": [1114, 2929, 1114, 2929, 1114, 2929], "Exodus_ch_13.docx": [456, 456, 456], "Exodus_ch_23.docx": [3183, 3852, 3183, 3852, 3183, 3852], "Exodus_ch_33.docx": [235, 235, 235], "Exodus_ch_34.docx": [1667, 1667, 1667]}
+chet	{"Genesis_ch_27.docx": [6377], "Exodus_ch_3.docx": [1114, 2929, 1114, 2929], "Exodus_ch_13.docx": [456, 456], "Exodus_ch_23.docx": [3183, 3852, 3183, 3852], "Exodus_ch_33.docx": [235, 235], "Exodus_ch_34.docx": [1667, 1667]}
+chet	{"Genesis_ch_27.docx": [6377], "Exodus_ch_3.docx": [1114, 2929], "Exodus_ch_13.docx": [456], "Exodus_ch_23.docx": [3183, 3852], "Exodus_ch_33.docx": [235], "Exodus_ch_34.docx": [1667]}

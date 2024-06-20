@@ -1,0 +1,7 @@
+
+gloo	{"2 Samuel_ch_22.docx": [1191], "Isaiah_ch_8.docx": [482, 482, 482], "Isaiah_ch_57.docx": [2889, 2889, 2889], "Isaiah_ch_60.docx": [229, 229, 229], "Ezekiel_ch_27.docx": [5106, 5106, 5106], "Joel_ch_2.docx": [223, 223, 223], "Hebrews_ch_12.docx": [3364, 3364], "2 Peter_ch_2.docx": [2822, 2822]}
+helle	{"1 Chronicles_ch_2.docx": [3555, 3584, 3584, 3584], "1 Chronicles_ch_27.docx": [1274, 1274, 1274]}
+gloo	{"2 Samuel_ch_22.docx": [1191], "Isaiah_ch_8.docx": [482, 482], "Isaiah_ch_57.docx": [2889, 2889], "Isaiah_ch_60.docx": [229, 229], "Ezekiel_ch_27.docx": [5106, 5106], "Joel_ch_2.docx": [223, 223], "Hebrews_ch_12.docx": [3364], "2 Peter_ch_2.docx": [2822]}
+helle	{"1 Chronicles_ch_2.docx": [3555, 3584, 3584], "1 Chronicles_ch_27.docx": [1274, 1274]}
+gloo	{"2 Samuel_ch_22.docx": [1191], "Isaiah_ch_8.docx": [482], "Isaiah_ch_57.docx": [2889], "Isaiah_ch_60.docx": [229], "Ezekiel_ch_27.docx": [5106], "Joel_ch_2.docx": [223], "Hebrews_ch_12.docx": [3364], "2 Peter_ch_2.docx": [2822]}
+helle	{"1 Chronicles_ch_2.docx": [3555, 3584], "1 Chronicles_ch_27.docx": [1274]}

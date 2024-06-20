@@ -1,0 +1,7 @@
+
+jeklan	{"1 Chronicles_ch_2.docx": [3945, 3946, 3946, 3946]}
+unatt	{"Job_ch_7.docx": [721], "1 Corinthians_ch_12.docx": [2457, 2457]}
+jeklan	{"1 Chronicles_ch_2.docx": [3945, 3946, 3946]}
+unatt	{"Job_ch_7.docx": [721], "1 Corinthians_ch_12.docx": [2457]}
+jeklan	{"1 Chronicles_ch_2.docx": [3945, 3946]}
+unatt	{"Job_ch_7.docx": [721], "1 Corinthians_ch_12.docx": [2457]}

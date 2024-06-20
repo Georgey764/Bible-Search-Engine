@@ -1,0 +1,4 @@
+
+numer	{"Genesis_ch_13.docx": [1824], "Deuteronomy_ch_9.docx": [235, 235, 235]}
+numer	{"Genesis_ch_13.docx": [1824], "Deuteronomy_ch_9.docx": [235, 235]}
+numer	{"Genesis_ch_13.docx": [1824], "Deuteronomy_ch_9.docx": [235]}

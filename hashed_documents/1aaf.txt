@@ -1,0 +1,7 @@
+
+wave-o	{"Numbers_ch_15.docx": [2112], "Numbers_ch_18.docx": [1971, 2875, 1971, 2875, 1971, 2875]}
+thai	{"2 Samuel_ch_3.docx": [1619], "1 Chronicles_ch_1.docx": [2352, 2879, 4498, 2352, 2879, 4498, 2352, 2879, 4498], "1 Chronicles_ch_4.docx": [566, 566, 566]}
+wave-o	{"Numbers_ch_15.docx": [2112], "Numbers_ch_18.docx": [1971, 2875, 1971, 2875]}
+thai	{"2 Samuel_ch_3.docx": [1619], "1 Chronicles_ch_1.docx": [2352, 2879, 4498, 2352, 2879, 4498], "1 Chronicles_ch_4.docx": [566, 566]}
+wave-o	{"Numbers_ch_15.docx": [2112], "Numbers_ch_18.docx": [1971, 2875]}
+thai	{"2 Samuel_ch_3.docx": [1619], "1 Chronicles_ch_1.docx": [2352, 2879, 4498], "1 Chronicles_ch_4.docx": [566]}

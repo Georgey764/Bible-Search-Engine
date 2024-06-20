@@ -1,0 +1,5 @@
+
+fades	{"2 Samuel_ch_23.docx": [580], "Hosea_ch_6.docx": [695, 695, 695], "Hosea_ch_13.docx": [397, 397, 397], "James_ch_1.docx": [898, 898]}
+fades	{"2 Samuel_ch_23.docx": [580], "Hosea_ch_6.docx": [695, 695], "Hosea_ch_13.docx": [397, 397], "James_ch_1.docx": [898]}
+22don	{"Proverbs_ch_22.docx": [2320]}
+fades	{"2 Samuel_ch_23.docx": [580], "Hosea_ch_6.docx": [695], "Hosea_ch_13.docx": [397], "James_ch_1.docx": [898]}

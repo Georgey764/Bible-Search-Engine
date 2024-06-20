@@ -1,0 +1,4 @@
+
+aie	{"Genesis_ch_36.docx": [2682], "Joshua_ch_18.docx": [3341, 3341]}
+aie	{"Genesis_ch_36.docx": [2682], "Joshua_ch_18.docx": [3341]}
+aie	{"Genesis_ch_36.docx": [2682], "Joshua_ch_18.docx": [3341]}

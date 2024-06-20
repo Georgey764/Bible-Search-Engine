@@ -1,0 +1,3 @@
+
+35‘so	{"Deuteronomy_ch_4.docx": [5442], "2 Kings_ch_18.docx": [6044], "Job_ch_31.docx": [3188]}
+7,0	{"2 Samuel_ch_8.docx": [416], "1 Kings_ch_19.docx": [3294], "1 Kings_ch_20.docx": [2542], "2 Kings_ch_24.docx": [2532], "1 Chronicles_ch_18.docx": [357], "1 Chronicles_ch_19.docx": [2960], "2 Chronicles_ch_15.docx": [1728], "2 Chronicles_ch_30.docx": [4381], "Job_ch_1.docx": [243]}

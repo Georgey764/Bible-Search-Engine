@@ -1,0 +1,5 @@
+
+cheleg	{"Numbers_ch_26.docx": [3581, 3586, 3586, 3586]}
+42bec	{"Leviticus_ch_25.docx": [5877]}
+cheleg	{"Numbers_ch_26.docx": [3581, 3586, 3586]}
+cheleg	{"Numbers_ch_26.docx": [3581, 3586]}

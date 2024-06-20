@@ -1,0 +1,4 @@
+
+kori	{"1 Chronicles_ch_9.docx": [2615, 4477, 4477, 4477], "1 Chronicles_ch_12.docx": [821, 821, 821]}
+kori	{"1 Chronicles_ch_9.docx": [2615, 4477, 4477], "1 Chronicles_ch_12.docx": [821, 821]}
+kori	{"1 Chronicles_ch_9.docx": [2615, 4477], "1 Chronicles_ch_12.docx": [821]}

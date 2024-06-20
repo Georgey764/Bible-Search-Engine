@@ -1,0 +1,5 @@
+
+meazot	{"1 Chronicles_ch_25.docx": [832, 2910, 2910, 2910]}
+meazot	{"1 Chronicles_ch_25.docx": [832, 2910, 2910]}
+5hol	{"Proverbs_ch_11.docx": [484], "Isaiah_ch_33.docx": [626]}
+meazot	{"1 Chronicles_ch_25.docx": [832, 2910]}

@@ -1,0 +1,4 @@
+
+harshl	{"Genesis_ch_42.docx": [833, 3901, 3901, 3901], "1 Samuel_ch_20.docx": [1895, 1895, 1895], "1 Kings_ch_12.docx": [1748, 1748, 1748], "Proverbs_ch_18.docx": [2253, 2253, 2253], "Ezekiel_ch_45.docx": [1680, 1680, 1680]}
+harshl	{"Genesis_ch_42.docx": [833, 3901, 3901], "1 Samuel_ch_20.docx": [1895, 1895], "1 Kings_ch_12.docx": [1748, 1748], "Proverbs_ch_18.docx": [2253, 2253], "Ezekiel_ch_45.docx": [1680, 1680]}
+harshl	{"Genesis_ch_42.docx": [833, 3901], "1 Samuel_ch_20.docx": [1895], "1 Kings_ch_12.docx": [1748], "Proverbs_ch_18.docx": [2253], "Ezekiel_ch_45.docx": [1680]}

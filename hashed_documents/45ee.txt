@@ -1,0 +1,5 @@
+
+swath	{"Romans_ch_3.docx": [1843]}
+words]	{"Revelation_ch_10.docx": [681]}
+swath	{"Romans_ch_3.docx": [1843]}
+words]	{"Revelation_ch_10.docx": [681]}

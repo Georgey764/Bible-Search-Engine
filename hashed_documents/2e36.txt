@@ -1,0 +1,4 @@
+
+out!fo	{"Romans_ch_9.docx": [3541]}
+2these	{"Numbers_ch_3.docx": [123], "1 Kings_ch_4.docx": [13], "Amos_ch_7.docx": [33], "Matthew_ch_10.docx": [196]}
+out!fo	{"Romans_ch_9.docx": [3541]}

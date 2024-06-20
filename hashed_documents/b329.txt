@@ -1,0 +1,6 @@
+
+marine	{"1 Kings_ch_9.docx": [4164]}
+7‘rat	{"Deuteronomy_ch_11.docx": [952]}
+marine	{"1 Kings_ch_9.docx": [4164]}
+4,60	{"1 Chronicles_ch_12.docx": [3479]}
+marine	{"1 Kings_ch_9.docx": [4164]}

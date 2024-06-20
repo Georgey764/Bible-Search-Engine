@@ -1,0 +1,3 @@
+
+21‘and	{"Leviticus_ch_20.docx": [3142], "Leviticus_ch_22.docx": [2883], "Leviticus_ch_24.docx": [2652], "Leviticus_ch_26.docx": [2677], "Numbers_ch_19.docx": [3095], "Deuteronomy_ch_12.docx": [3910], "Deuteronomy_ch_24.docx": [3336], "1 Chronicles_ch_17.docx": [2978], "1 Chronicles_ch_28.docx": [4239], "Isaiah_ch_49.docx": [4430], "Isaiah_ch_59.docx": [3094], "Jeremiah_ch_42.docx": [3853], "Hosea_ch_2.docx": [3542], "Matthew_ch_25.docx": [2157]}
+8[fro	{"Numbers_ch_1.docx": [817]}

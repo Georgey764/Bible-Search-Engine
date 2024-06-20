@@ -1,0 +1,6 @@
+
+shrewd	{"Proverbs_ch_8.docx": [313]}
+hoi	{"Acts_ch_27.docx": [2332, 5385, 5385]}
+shrewd	{"Proverbs_ch_8.docx": [313]}
+shrewd	{"Proverbs_ch_8.docx": [313]}
+hoi	{"Acts_ch_27.docx": [2332, 5385]}

@@ -1,0 +1,5 @@
+
+berith	{"Judges_ch_9.docx": [865, 8536, 9172, 8536, 9172, 8536, 9172]}
+berith	{"Judges_ch_9.docx": [865, 8536, 9172, 8536, 9172]}
+15sinc	{"Isaiah_ch_8.docx": [2319]}
+berith	{"Judges_ch_9.docx": [865, 8536, 9172]}

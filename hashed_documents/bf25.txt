@@ -1,0 +1,2 @@
+
+30but	{"Genesis_ch_41.docx": [3438], "Genesis_ch_47.docx": [4874], "Exodus_ch_6.docx": [3707], "Exodus_ch_23.docx": [4088], "Leviticus_ch_6.docx": [3893], "Numbers_ch_10.docx": [3479], "Numbers_ch_16.docx": [4030], "2 Kings_ch_4.docx": [4640], "1 Chronicles_ch_21.docx": [4778], "Job_ch_34.docx": [2858], "Psalms_ch_89.docx": [2916], "Matthew_ch_14.docx": [3497]}

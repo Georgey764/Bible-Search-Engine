@@ -1,0 +1,5 @@
+
+exclu	{"Deuteronomy_ch_26.docx": [2883], "1 Chronicles_ch_17.docx": [3175, 3175, 3175]}
+exclu	{"Deuteronomy_ch_26.docx": [2883], "1 Chronicles_ch_17.docx": [3175, 3175]}
+5yes	{"Psalms_ch_24.docx": [460], "Psalms_ch_128.docx": [449], "Proverbs_ch_1.docx": [441], "Amos_ch_8.docx": [617]}
+exclu	{"Deuteronomy_ch_26.docx": [2883], "1 Chronicles_ch_17.docx": [3175]}

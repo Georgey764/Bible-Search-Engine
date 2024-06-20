@@ -1,0 +1,7 @@
+
+mercy!	{"Psalms_ch_6.docx": [406], "Psalms_ch_86.docx": [1341, 1341, 1341], "Jeremiah_ch_16.docx": [2280, 2280, 2280], "Ezekiel_ch_5.docx": [2237, 2237, 2237], "Ezekiel_ch_7.docx": [434, 434, 434], "Ezekiel_ch_9.docx": [1202, 1202, 1202], "Romans_ch_1.docx": [3979, 3979], "1 Peter_ch_2.docx": [1463, 1463]}
+nard	{"Song of Solomon_ch_4.docx": [1946, 1986, 1986, 1986], "Mark_ch_14.docx": [315, 315], "John_ch_12.docx": [386, 386]}
+mercy!	{"Psalms_ch_6.docx": [406], "Psalms_ch_86.docx": [1341, 1341], "Jeremiah_ch_16.docx": [2280, 2280], "Ezekiel_ch_5.docx": [2237, 2237], "Ezekiel_ch_7.docx": [434, 434], "Ezekiel_ch_9.docx": [1202, 1202], "Romans_ch_1.docx": [3979], "1 Peter_ch_2.docx": [1463]}
+nard	{"Song of Solomon_ch_4.docx": [1946, 1986, 1986], "Mark_ch_14.docx": [315], "John_ch_12.docx": [386]}
+mercy!	{"Psalms_ch_6.docx": [406], "Psalms_ch_86.docx": [1341], "Jeremiah_ch_16.docx": [2280], "Ezekiel_ch_5.docx": [2237], "Ezekiel_ch_7.docx": [434], "Ezekiel_ch_9.docx": [1202], "Romans_ch_1.docx": [3979], "1 Peter_ch_2.docx": [1463]}
+nard	{"Song of Solomon_ch_4.docx": [1946, 1986], "Mark_ch_14.docx": [315], "John_ch_12.docx": [386]}

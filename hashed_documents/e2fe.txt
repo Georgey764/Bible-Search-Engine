@@ -1,0 +1,5 @@
+
+seke	{"Joshua_ch_15.docx": [4411]}
+kerne	{"John_ch_12.docx": [3257, 3270, 3270]}
+seke	{"Joshua_ch_15.docx": [4411]}
+kerne	{"John_ch_12.docx": [3257, 3270]}

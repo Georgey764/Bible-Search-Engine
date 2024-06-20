@@ -1,0 +1,5 @@
+
+hysso	{"Exodus_ch_12.docx": [3470], "Leviticus_ch_14.docx": [274, 516, 7310, 7496, 7739, 274, 516, 7310, 7496, 7739, 274, 516, 7310, 7496, 7739], "Numbers_ch_19.docx": [646, 2325, 646, 2325, 646, 2325], "1 Kings_ch_4.docx": [3913, 3913, 3913], "Psalms_ch_51.docx": [833, 833, 833], "Hebrews_ch_9.docx": [2905, 2905]}
+hysso	{"Exodus_ch_12.docx": [3470], "Leviticus_ch_14.docx": [274, 516, 7310, 7496, 7739, 274, 516, 7310, 7496, 7739], "Numbers_ch_19.docx": [646, 2325, 646, 2325], "1 Kings_ch_4.docx": [3913, 3913], "Psalms_ch_51.docx": [833, 833], "Hebrews_ch_9.docx": [2905]}
+13[tha	{"2 Chronicles_ch_26.docx": [1762]}
+hysso	{"Exodus_ch_12.docx": [3470], "Leviticus_ch_14.docx": [274, 516, 7310, 7496, 7739], "Numbers_ch_19.docx": [646, 2325], "1 Kings_ch_4.docx": [3913], "Psalms_ch_51.docx": [833], "Hebrews_ch_9.docx": [2905]}

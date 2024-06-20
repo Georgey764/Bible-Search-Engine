@@ -1,0 +1,3 @@
+
+motive	{"Romans_ch_14.docx": [20], "Philippians_ch_1.docx": [1837, 1837]}
+motive	{"Romans_ch_14.docx": [20], "Philippians_ch_1.docx": [1837]}

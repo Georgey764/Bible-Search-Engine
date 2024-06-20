@@ -1,0 +1,8 @@
+
+highl	{"Genesis_ch_18.docx": [2276], "Genesis_ch_22.docx": [189, 189, 189], "Genesis_ch_24.docx": [5136, 5136, 5136], "Genesis_ch_26.docx": [1805, 1805, 1805], "1 Samuel_ch_18.docx": [4786, 4786, 4786], "2 Samuel_ch_23.docx": [3128, 3128, 3128], "2 Kings_ch_5.docx": [22, 22, 22], "2 Chronicles_ch_21.docx": [3048, 3048, 3048], "2 Chronicles_ch_32.docx": [4646, 4646, 4646], "Isaiah_ch_9.docx": [2436, 2436, 2436], "Isaiah_ch_33.docx": [143, 143, 143], "Ezekiel_ch_41.docx": [17, 17, 17], "Acts_ch_5.docx": [4614, 4614]}
+grandf	{"Judges_ch_9.docx": [66], "2 Samuel_ch_9.docx": [994, 994, 994], "1 Kings_ch_15.docx": [287, 287, 287]}
+highl	{"Genesis_ch_18.docx": [2276], "Genesis_ch_22.docx": [189, 189], "Genesis_ch_24.docx": [5136, 5136], "Genesis_ch_26.docx": [1805, 1805], "1 Samuel_ch_18.docx": [4786, 4786], "2 Samuel_ch_23.docx": [3128, 3128], "2 Kings_ch_5.docx": [22, 22], "2 Chronicles_ch_21.docx": [3048, 3048], "2 Chronicles_ch_32.docx": [4646, 4646], "Isaiah_ch_9.docx": [2436, 2436], "Isaiah_ch_33.docx": [143, 143], "Ezekiel_ch_41.docx": [17, 17], "Acts_ch_5.docx": [4614]}
+grandf	{"Judges_ch_9.docx": [66], "2 Samuel_ch_9.docx": [994, 994], "1 Kings_ch_15.docx": [287, 287]}
+26,	{"1 Chronicles_ch_7.docx": [4573]}
+highl	{"Genesis_ch_18.docx": [2276], "Genesis_ch_22.docx": [189], "Genesis_ch_24.docx": [5136], "Genesis_ch_26.docx": [1805], "1 Samuel_ch_18.docx": [4786], "2 Samuel_ch_23.docx": [3128], "2 Kings_ch_5.docx": [22], "2 Chronicles_ch_21.docx": [3048], "2 Chronicles_ch_32.docx": [4646], "Isaiah_ch_9.docx": [2436], "Isaiah_ch_33.docx": [143], "Ezekiel_ch_41.docx": [17], "Acts_ch_5.docx": [4614]}
+grandf	{"Judges_ch_9.docx": [66], "2 Samuel_ch_9.docx": [994], "1 Kings_ch_15.docx": [287]}

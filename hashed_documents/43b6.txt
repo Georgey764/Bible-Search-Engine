@@ -1,0 +1,4 @@
+
+deblat	{"Numbers_ch_33.docx": [3389, 3445, 3445, 3445], "2 Kings_ch_23.docx": [7211, 7211, 7211]}
+deblat	{"Numbers_ch_33.docx": [3389, 3445, 3445], "2 Kings_ch_23.docx": [7211, 7211]}
+deblat	{"Numbers_ch_33.docx": [3389, 3445], "2 Kings_ch_23.docx": [7211]}

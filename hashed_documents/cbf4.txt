@@ -1,0 +1,7 @@
+
+calne	{"Isaiah_ch_10.docx": [1095], "Ezekiel_ch_27.docx": [3334, 3334, 3334]}
+soap	{"Jeremiah_ch_2.docx": [3591]}
+calne	{"Isaiah_ch_10.docx": [1095], "Ezekiel_ch_27.docx": [3334, 3334]}
+soap	{"Jeremiah_ch_2.docx": [3591]}
+calne	{"Isaiah_ch_10.docx": [1095], "Ezekiel_ch_27.docx": [3334]}
+soap	{"Jeremiah_ch_2.docx": [3591]}

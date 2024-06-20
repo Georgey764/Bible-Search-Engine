@@ -1,0 +1,6 @@
+
+memphi	{"Genesis_ch_10.docx": [1576], "Isaiah_ch_19.docx": [1815, 1815, 1815], "Jeremiah_ch_2.docx": [2452, 2452, 2452], "Jeremiah_ch_44.docx": [37, 37, 37], "Jeremiah_ch_46.docx": [2248, 3087, 2248, 3087, 2248, 3087], "Ezekiel_ch_30.docx": [1825, 2198, 1825, 2198, 1825, 2198]}
+out-r	{"John_ch_20.docx": [387]}
+memphi	{"Genesis_ch_10.docx": [1576], "Isaiah_ch_19.docx": [1815, 1815], "Jeremiah_ch_2.docx": [2452, 2452], "Jeremiah_ch_44.docx": [37, 37], "Jeremiah_ch_46.docx": [2248, 3087, 2248, 3087], "Ezekiel_ch_30.docx": [1825, 2198, 1825, 2198]}
+memphi	{"Genesis_ch_10.docx": [1576], "Isaiah_ch_19.docx": [1815], "Jeremiah_ch_2.docx": [2452], "Jeremiah_ch_44.docx": [37], "Jeremiah_ch_46.docx": [2248, 3087], "Ezekiel_ch_30.docx": [1825, 2198]}
+out-r	{"John_ch_20.docx": [387]}

@@ -1,0 +1,6 @@
+
+whist	{"1 Kings_ch_9.docx": [1339], "Job_ch_27.docx": [2101, 2101, 2101], "Isaiah_ch_5.docx": [4205, 4205, 4205], "Isaiah_ch_7.docx": [2528, 2528, 2528], "Jeremiah_ch_19.docx": [1653, 1653, 1653], "Jeremiah_ch_49.docx": [3183, 3183, 3183], "Jeremiah_ch_50.docx": [2563, 2563, 2563], "Lamentations_ch_2.docx": [3341, 3547, 3341, 3547, 3341, 3547], "Ezekiel_ch_27.docx": [5255, 5255, 5255], "Zephaniah_ch_2.docx": [4937, 4937, 4937]}
+whist	{"1 Kings_ch_9.docx": [1339], "Job_ch_27.docx": [2101, 2101], "Isaiah_ch_5.docx": [4205, 4205], "Isaiah_ch_7.docx": [2528, 2528], "Jeremiah_ch_19.docx": [1653, 1653], "Jeremiah_ch_49.docx": [3183, 3183], "Jeremiah_ch_50.docx": [2563, 2563], "Lamentations_ch_2.docx": [3341, 3547, 3341, 3547], "Ezekiel_ch_27.docx": [5255, 5255], "Zephaniah_ch_2.docx": [4937, 4937]}
+58j	{"1 Chronicles_ch_6.docx": [4766], "Nehemiah_ch_7.docx": [3358]}
+5that	{"2 Chronicles_ch_30.docx": [549], "Isaiah_ch_13.docx": [661]}
+whist	{"1 Kings_ch_9.docx": [1339], "Job_ch_27.docx": [2101], "Isaiah_ch_5.docx": [4205], "Isaiah_ch_7.docx": [2528], "Jeremiah_ch_19.docx": [1653], "Jeremiah_ch_49.docx": [3183], "Jeremiah_ch_50.docx": [2563], "Lamentations_ch_2.docx": [3341, 3547], "Ezekiel_ch_27.docx": [5255], "Zephaniah_ch_2.docx": [4937]}

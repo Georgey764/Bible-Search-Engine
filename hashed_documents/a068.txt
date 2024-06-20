@@ -1,0 +1,12 @@
+
+gott	{"Judges_ch_19.docx": [2773], "1 Samuel_ch_2.docx": [4074, 4074, 4074], "1 Samuel_ch_6.docx": [3646, 3646, 3646], "1 Kings_ch_18.docx": [4495, 4495, 4495], "Esther_ch_4.docx": [907, 907, 907], "Job_ch_18.docx": [212, 212, 212], "Matthew_ch_14.docx": [2871, 2871, 2871], "Luke_ch_5.docx": [211, 211], "John_ch_6.docx": [2628, 2628], "2 Corinthians_ch_12.docx": [2175, 2175], "James_ch_1.docx": [2259, 2259]}
+mayor	{"1 Kings_ch_16.docx": [1488], "2 Kings_ch_23.docx": [2158, 2158, 2158], "2 Chronicles_ch_18.docx": [4113, 4113, 4113], "2 Chronicles_ch_34.docx": [1350, 1350, 1350]}
+remeli	{"Isaiah_ch_8.docx": [855]}
+19<s	{"Joshua_ch_13.docx": [23335]}
+gott	{"Judges_ch_19.docx": [2773], "1 Samuel_ch_2.docx": [4074, 4074], "1 Samuel_ch_6.docx": [3646, 3646], "1 Kings_ch_18.docx": [4495, 4495], "Esther_ch_4.docx": [907, 907], "Job_ch_18.docx": [212, 212], "Matthew_ch_14.docx": [2871, 2871], "Luke_ch_5.docx": [211], "John_ch_6.docx": [2628], "2 Corinthians_ch_12.docx": [2175], "James_ch_1.docx": [2259]}
+mayor	{"1 Kings_ch_16.docx": [1488], "2 Kings_ch_23.docx": [2158, 2158], "2 Chronicles_ch_18.docx": [4113, 4113], "2 Chronicles_ch_34.docx": [1350, 1350]}
+remeli	{"Isaiah_ch_8.docx": [855]}
+32ev	{"Matthew_ch_13.docx": [4216]}
+gott	{"Judges_ch_19.docx": [2773], "1 Samuel_ch_2.docx": [4074], "1 Samuel_ch_6.docx": [3646], "1 Kings_ch_18.docx": [4495], "Esther_ch_4.docx": [907], "Job_ch_18.docx": [212], "Matthew_ch_14.docx": [2871], "Luke_ch_5.docx": [211], "John_ch_6.docx": [2628], "2 Corinthians_ch_12.docx": [2175], "James_ch_1.docx": [2259]}
+mayor	{"1 Kings_ch_16.docx": [1488], "2 Kings_ch_23.docx": [2158], "2 Chronicles_ch_18.docx": [4113], "2 Chronicles_ch_34.docx": [1350]}
+remeli	{"Isaiah_ch_8.docx": [855]}

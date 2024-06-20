@@ -1,0 +1,7 @@
+
+roge	{"Joshua_ch_15.docx": [950], "Joshua_ch_18.docx": [2551, 2551, 2551], "2 Samuel_ch_17.docx": [2565, 4335, 2565, 4335, 2565, 4335], "2 Samuel_ch_19.docx": [5172, 5172, 5172], "1 Kings_ch_1.docx": [1170, 1170, 1170]}
+city]!	{"2 Samuel_ch_5.docx": [980]}
+roge	{"Joshua_ch_15.docx": [950], "Joshua_ch_18.docx": [2551, 2551], "2 Samuel_ch_17.docx": [2565, 4335, 2565, 4335], "2 Samuel_ch_19.docx": [5172, 5172], "1 Kings_ch_1.docx": [1170, 1170]}
+city]!	{"2 Samuel_ch_5.docx": [980]}
+roge	{"Joshua_ch_15.docx": [950], "Joshua_ch_18.docx": [2551], "2 Samuel_ch_17.docx": [2565, 4335], "2 Samuel_ch_19.docx": [5172], "1 Kings_ch_1.docx": [1170]}
+city]!	{"2 Samuel_ch_5.docx": [980]}

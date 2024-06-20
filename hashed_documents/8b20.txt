@@ -1,0 +1,2 @@
+
+10-tri	{"1 Kings_ch_21.docx": [104], "2 Kings_ch_13.docx": [30], "2 Chronicles_ch_32.docx": [12]}

@@ -1,0 +1,10 @@
+
+enok	{"1 Chronicles_ch_1.docx": [2635]}
+baasij	{"1 Chronicles_ch_6.docx": [3195]}
+sinew	{"Job_ch_41.docx": [1412]}
+enok	{"1 Chronicles_ch_1.docx": [2635]}
+baasij	{"1 Chronicles_ch_6.docx": [3195]}
+sinew	{"Job_ch_41.docx": [1412]}
+enok	{"1 Chronicles_ch_1.docx": [2635]}
+baasij	{"1 Chronicles_ch_6.docx": [3195]}
+sinew	{"Job_ch_41.docx": [1412]}

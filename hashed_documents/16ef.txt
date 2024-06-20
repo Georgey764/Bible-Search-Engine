@@ -1,0 +1,4 @@
+
+harms	{"Leviticus_ch_24.docx": [2476], "Joshua_ch_2.docx": [2851, 2851, 2851]}
+harms	{"Leviticus_ch_24.docx": [2476], "Joshua_ch_2.docx": [2851, 2851]}
+harms	{"Leviticus_ch_24.docx": [2476], "Joshua_ch_2.docx": [2851]}

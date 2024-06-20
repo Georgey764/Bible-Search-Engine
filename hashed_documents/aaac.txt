@@ -1,0 +1,4 @@
+
+here;	{"Exodus_ch_24.docx": [1718], "1 Samuel_ch_3.docx": [1127, 1127, 1127], "2 Kings_ch_10.docx": [4850, 4850, 4850], "Isaiah_ch_34.docx": [148, 148, 148], "Jeremiah_ch_26.docx": [2377, 2377, 2377], "Jeremiah_ch_32.docx": [6648, 6648, 6648], "Luke_ch_4.docx": [1492, 1492]}
+here;	{"Exodus_ch_24.docx": [1718], "1 Samuel_ch_3.docx": [1127, 1127], "2 Kings_ch_10.docx": [4850, 4850], "Isaiah_ch_34.docx": [148, 148], "Jeremiah_ch_26.docx": [2377, 2377], "Jeremiah_ch_32.docx": [6648, 6648], "Luke_ch_4.docx": [1492]}
+here;	{"Exodus_ch_24.docx": [1718], "1 Samuel_ch_3.docx": [1127], "2 Kings_ch_10.docx": [4850], "Isaiah_ch_34.docx": [148], "Jeremiah_ch_26.docx": [2377], "Jeremiah_ch_32.docx": [6648], "Luke_ch_4.docx": [1492]}

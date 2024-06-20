@@ -1,0 +1,7 @@
+
+elimel	{"Joshua_ch_19.docx": [2018], "Ruth_ch_1.docx": [48, 351, 48, 351], "Ruth_ch_2.docx": [24, 24, 24]}
+kiln	{"Hosea_ch_7.docx": [986]}
+elimel	{"Ruth_ch_1.docx": [48, 48, 351], "Ruth_ch_2.docx": [24, 24]}
+kiln	{"Hosea_ch_7.docx": [986]}
+elimel	{"Joshua_ch_19.docx": [2018], "Ruth_ch_1.docx": [48, 351], "Ruth_ch_2.docx": [24]}
+kiln	{"Hosea_ch_7.docx": [986]}

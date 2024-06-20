@@ -1,0 +1,4 @@
+
+vol	{"Leviticus_ch_7.docx": [2138], "Ezra_ch_8.docx": [3854, 3854, 3854], "Ecclesiastes_ch_1.docx": [2267, 2267, 2267]}
+vol	{"Leviticus_ch_7.docx": [2138], "Ezra_ch_8.docx": [3854, 3854], "Ecclesiastes_ch_1.docx": [2267, 2267]}
+vol	{"Leviticus_ch_7.docx": [2138], "Ezra_ch_8.docx": [3854], "Ecclesiastes_ch_1.docx": [2267]}

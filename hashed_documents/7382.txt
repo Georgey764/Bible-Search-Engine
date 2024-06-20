@@ -1,0 +1,5 @@
+
+ero	{"Joshua_ch_15.docx": [4478], "Joshua_ch_16.docx": [509, 509, 509]}
+ero	{"Joshua_ch_15.docx": [4478], "Joshua_ch_16.docx": [509, 509]}
+27abi	{"2 Samuel_ch_23.docx": [4344]}
+ero	{"Joshua_ch_15.docx": [4478], "Joshua_ch_16.docx": [509]}

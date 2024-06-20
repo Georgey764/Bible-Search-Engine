@@ -1,0 +1,4 @@
+
+liz	{"Leviticus_ch_11.docx": [3375], "Proverbs_ch_30.docx": [2853, 2853, 2853]}
+liz	{"Leviticus_ch_11.docx": [3375], "Proverbs_ch_30.docx": [2853, 2853]}
+liz	{"Leviticus_ch_11.docx": [3375], "Proverbs_ch_30.docx": [2853]}

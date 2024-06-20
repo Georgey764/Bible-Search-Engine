@@ -1,0 +1,4 @@
+
+ bar	{"1 Chronicles_ch_12.docx": [463]}
+ bar	{"1 Chronicles_ch_12.docx": [463]}
+ bar	{"1 Chronicles_ch_12.docx": [463]}

@@ -1,0 +1,2 @@
+
+2,000	{"Judges_ch_20.docx": [7494], "1 Samuel_ch_13.docx": [127], "2 Kings_ch_18.docx": [3863], "1 Chronicles_ch_5.docx": [2768], "Nehemiah_ch_7.docx": [4609, 4770], "Isaiah_ch_36.docx": [1372]}

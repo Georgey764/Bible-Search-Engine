@@ -1,0 +1,4 @@
+
+dried;	{"Exodus_ch_16.docx": [2192], "Joel_ch_1.docx": [1697, 1697, 1697]}
+dried;	{"Exodus_ch_16.docx": [2192], "Joel_ch_1.docx": [1697, 1697]}
+dried;	{"Exodus_ch_16.docx": [2192], "Joel_ch_1.docx": [1697]}

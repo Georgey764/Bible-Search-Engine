@@ -1,0 +1,2 @@
+
+22no	{"Genesis_ch_21.docx": [2619], "Genesis_ch_35.docx": [3088], "Deuteronomy_ch_16.docx": [3441], "1 Samuel_ch_2.docx": [4071], "2 Samuel_ch_1.docx": [3000], "2 Samuel_ch_13.docx": [3316], "Isaiah_ch_65.docx": [3786]}

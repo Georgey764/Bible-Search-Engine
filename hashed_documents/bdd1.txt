@@ -1,0 +1,4 @@
+
+raw	{"Exodus_ch_12.docx": [1110], "1 Samuel_ch_14.docx": [5041, 5041, 5041]}
+raw	{"Exodus_ch_12.docx": [1110], "1 Samuel_ch_14.docx": [5041, 5041]}
+raw	{"Exodus_ch_12.docx": [1110], "1 Samuel_ch_14.docx": [5041]}

@@ -1,0 +1,7 @@
+
+lootin	{"Judges_ch_2.docx": [3773, 4141, 4141, 4141], "Isaiah_ch_8.docx": [141, 485, 141, 485, 141, 485], "Isaiah_ch_24.docx": [480, 480, 480], "Jeremiah_ch_30.docx": [2812, 2812, 2812]}
+gabaa;	{"Ezra_ch_2.docx": [1158]}
+lootin	{"Judges_ch_2.docx": [3773, 4141, 4141], "Isaiah_ch_8.docx": [141, 485, 141, 485], "Isaiah_ch_24.docx": [480, 480], "Jeremiah_ch_30.docx": [2812, 2812]}
+gabaa;	{"Ezra_ch_2.docx": [1158]}
+lootin	{"Judges_ch_2.docx": [3773, 4141], "Isaiah_ch_8.docx": [141, 485], "Isaiah_ch_24.docx": [480], "Jeremiah_ch_30.docx": [2812]}
+gabaa;	{"Ezra_ch_2.docx": [1158]}

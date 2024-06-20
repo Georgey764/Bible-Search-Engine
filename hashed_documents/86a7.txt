@@ -1,0 +1,4 @@
+
+discov	{"Job_ch_28.docx": [407], "Acts_ch_7.docx": [2726, 2726]}
+discov	{"Job_ch_28.docx": [407], "Acts_ch_7.docx": [2726]}
+discov	{"Job_ch_28.docx": [407], "Acts_ch_7.docx": [2726]}

@@ -1,0 +1,5 @@
+
+inti	{"Proverbs_ch_17.docx": [992], "Proverbs_ch_19.docx": [1036, 1036], "Proverbs_ch_20.docx": [535, 535], "Zechariah_ch_9.docx": [3156, 3156, 3156]}
+inti	{"Proverbs_ch_20.docx": [535, 535], "Zechariah_ch_9.docx": [3156, 3156], "Proverbs_ch_19.docx": [1036]}
+41kiri	{"Jeremiah_ch_48.docx": [5618]}
+inti	{"Proverbs_ch_17.docx": [992], "Proverbs_ch_19.docx": [1036], "Proverbs_ch_20.docx": [535], "Zechariah_ch_9.docx": [3156]}

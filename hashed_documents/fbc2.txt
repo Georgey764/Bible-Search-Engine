@@ -1,0 +1,8 @@
+
+abid	{"Genesis_ch_25.docx": [342], "Numbers_ch_1.docx": [1057, 1057, 1057], "Numbers_ch_2.docx": [1978, 1978, 1978], "Numbers_ch_7.docx": [7010, 7651, 7010, 7651, 7010, 7651], "Numbers_ch_10.docx": [2581, 2581, 2581], "Deuteronomy_ch_17.docx": [1699, 1699, 1699], "Proverbs_ch_20.docx": [1151, 1151, 1151]}
+warmin	{"2 Kings_ch_4.docx": [5206], "Isaiah_ch_44.docx": [2675, 2675, 2675], "Mark_ch_14.docx": [6755, 8541, 6755, 8541], "John_ch_18.docx": [2140, 2160, 3099, 2140, 2160, 3099]}
+abid	{"Genesis_ch_25.docx": [342], "Numbers_ch_1.docx": [1057, 1057], "Numbers_ch_2.docx": [1978, 1978], "Numbers_ch_7.docx": [7010, 7651, 7010, 7651], "Numbers_ch_10.docx": [2581, 2581], "Deuteronomy_ch_17.docx": [1699, 1699], "Proverbs_ch_20.docx": [1151, 1151]}
+28one	{"1 Samuel_ch_14.docx": [4570]}
+warmin	{"2 Kings_ch_4.docx": [5206], "Isaiah_ch_44.docx": [2675, 2675], "Mark_ch_14.docx": [6755, 8541], "John_ch_18.docx": [2140, 2160, 3099]}
+abid	{"Genesis_ch_25.docx": [342], "Numbers_ch_1.docx": [1057], "Numbers_ch_2.docx": [1978], "Numbers_ch_7.docx": [7010, 7651], "Numbers_ch_10.docx": [2581], "Deuteronomy_ch_17.docx": [1699], "Proverbs_ch_20.docx": [1151]}
+warmin	{"2 Kings_ch_4.docx": [5206], "Isaiah_ch_44.docx": [2675], "Mark_ch_14.docx": [6755, 8541], "John_ch_18.docx": [2140, 2160, 3099]}

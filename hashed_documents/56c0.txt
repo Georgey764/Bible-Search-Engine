@@ -1,0 +1,5 @@
+
+refra	{"Deuteronomy_ch_23.docx": [885]}
+26‘for	{"Deuteronomy_ch_5.docx": [3313], "1 Chronicles_ch_17.docx": [3960], "Ezekiel_ch_21.docx": [4502], "Ezekiel_ch_22.docx": [3877], "Ezekiel_ch_33.docx": [4870]}
+refra	{"Deuteronomy_ch_23.docx": [885]}
+refra	{"Deuteronomy_ch_23.docx": [885]}

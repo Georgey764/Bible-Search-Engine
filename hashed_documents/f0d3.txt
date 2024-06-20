@@ -1,0 +1,7 @@
+
+sosek	{"1 Chronicles_ch_8.docx": [1438]}
+ ishma	{"2 Chronicles_ch_23.docx": [263]}
+sosek	{"1 Chronicles_ch_8.docx": [1438]}
+ ishma	{"2 Chronicles_ch_23.docx": [263]}
+sosek	{"1 Chronicles_ch_8.docx": [1438]}
+ ishma	{"2 Chronicles_ch_23.docx": [263]}

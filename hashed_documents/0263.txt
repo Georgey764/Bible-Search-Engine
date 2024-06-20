@@ -1,0 +1,7 @@
+
+phthae	{"Joshua_ch_19.docx": [2081]}
+parall	{"1 Chronicles_ch_11.docx": [1591]}
+phthae	{"Joshua_ch_19.docx": [2081]}
+parall	{"1 Chronicles_ch_11.docx": [1591]}
+phthae	{"Joshua_ch_19.docx": [2081]}
+parall	{"1 Chronicles_ch_11.docx": [1591]}

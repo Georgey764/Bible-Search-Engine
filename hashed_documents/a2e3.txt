@@ -1,0 +1,4 @@
+
+reshap	{"2 Kings_ch_19.docx": [4243], "Jeremiah_ch_18.docx": [196, 541, 196, 541, 196, 541]}
+reshap	{"2 Kings_ch_19.docx": [4243], "Jeremiah_ch_18.docx": [196, 541, 196, 541]}
+reshap	{"2 Kings_ch_19.docx": [4243], "Jeremiah_ch_18.docx": [196, 541]}

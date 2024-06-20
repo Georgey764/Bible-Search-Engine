@@ -1,0 +1,4 @@
+
+golde	{"2 Kings_ch_10.docx": [5462], "1 Chronicles_ch_18.docx": [758, 758, 758], "Revelation_ch_15.docx": [1183, 1183]}
+golde	{"2 Kings_ch_10.docx": [5462], "1 Chronicles_ch_18.docx": [758, 758], "Revelation_ch_15.docx": [1183]}
+golde	{"2 Kings_ch_10.docx": [5462], "1 Chronicles_ch_18.docx": [758], "Revelation_ch_15.docx": [1183]}

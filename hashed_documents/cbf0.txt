@@ -1,0 +1,4 @@
+
+humans	{"Genesis_ch_6.docx": [799, 895, 895, 895], "Job_ch_10.docx": [370, 370, 370], "Job_ch_32.docx": [978, 2144, 978, 2144, 978, 2144], "Psalms_ch_39.docx": [1274, 1274, 1274], "Acts_ch_14.docx": [3298, 3298], "2 Corinthians_ch_11.docx": [2511, 2511], "Revelation_ch_9.docx": [986, 986]}
+humans	{"Genesis_ch_6.docx": [799, 895, 895], "Job_ch_10.docx": [370, 370], "Job_ch_32.docx": [978, 2144, 978, 2144], "Psalms_ch_39.docx": [1274, 1274], "Acts_ch_14.docx": [3298], "2 Corinthians_ch_11.docx": [2511], "Revelation_ch_9.docx": [986]}
+humans	{"Genesis_ch_6.docx": [799, 895], "Job_ch_10.docx": [370], "Job_ch_32.docx": [978, 2144], "Psalms_ch_39.docx": [1274], "Acts_ch_14.docx": [3298], "2 Corinthians_ch_11.docx": [2511], "Revelation_ch_9.docx": [986]}

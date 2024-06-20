@@ -1,0 +1,4 @@
+
+squal	{"Jeremiah_ch_48.docx": [4019]}
+squal	{"Jeremiah_ch_48.docx": [4019]}
+squal	{"Jeremiah_ch_48.docx": [4019]}

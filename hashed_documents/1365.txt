@@ -1,0 +1,4 @@
+
+susak	{"2 Samuel_ch_8.docx": [990], "1 Kings_ch_11.docx": [6238, 6238, 6238]}
+susak	{"2 Samuel_ch_8.docx": [990], "1 Kings_ch_11.docx": [6238, 6238]}
+susak	{"2 Samuel_ch_8.docx": [990], "1 Kings_ch_11.docx": [6238]}

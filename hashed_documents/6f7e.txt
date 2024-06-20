@@ -1,0 +1,4 @@
+
+troph	{"Acts_ch_20.docx": [2171, 2176, 2185, 2176, 2185], "Acts_ch_21.docx": [8791, 8805, 8820, 8791, 8805, 8820]}
+25[	{"Genesis_ch_32.docx": [3274], "Exodus_ch_16.docx": [3996], "Deuteronomy_ch_27.docx": [3835], "Joshua_ch_18.docx": [3455], "2 Samuel_ch_20.docx": [4573], "1 Kings_ch_4.docx": [2754], "1 Chronicles_ch_1.docx": [1955], "1 Chronicles_ch_7.docx": [3088], "2 Chronicles_ch_35.docx": [5783], "Nehemiah_ch_12.docx": [2578], "Jeremiah_ch_31.docx": [4745]}
+troph	{"Acts_ch_20.docx": [2171, 2176, 2185], "Acts_ch_21.docx": [8791, 8805, 8820]}

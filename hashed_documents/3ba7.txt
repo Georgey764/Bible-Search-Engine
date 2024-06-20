@@ -1,0 +1,6 @@
+
+barko	{"Ezra_ch_2.docx": [2109], "Nehemiah_ch_7.docx": [3178, 3178]}
+embrac	{"Lamentations_ch_4.docx": [850]}
+embrac	{"Lamentations_ch_4.docx": [850]}
+barko	{"Ezra_ch_2.docx": [2109], "Nehemiah_ch_7.docx": [3178]}
+embrac	{"Lamentations_ch_4.docx": [850]}

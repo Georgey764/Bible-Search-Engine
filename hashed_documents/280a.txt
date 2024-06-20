@@ -1,0 +1,5 @@
+
+kaina	{"Genesis_ch_5.docx": [693, 697, 882, 910, 697, 910, 697, 882, 910], "Genesis_ch_10.docx": [2594, 2668, 2594, 2668, 2594, 2668], "Genesis_ch_11.docx": [1557, 1565, 1743, 1557, 1565, 1743, 1557, 1565, 1743], "Judges_ch_8.docx": [1240, 1275, 3368, 1240, 1275, 3368, 1240, 1275, 3368], "1 Chronicles_ch_1.docx": [56, 56], "Luke_ch_3.docx": [7107, 7243, 7107, 7243]}
+kaina	{"Genesis_ch_5.docx": [693, 697, 910, 697, 882, 910], "Genesis_ch_10.docx": [2594, 2668, 2594, 2668], "Genesis_ch_11.docx": [1557, 1565, 1743, 1557, 1565, 1743], "Judges_ch_8.docx": [1240, 1275, 3368, 1240, 1275, 3368], "1 Chronicles_ch_1.docx": [56], "Luke_ch_3.docx": [7107, 7243]}
+37for	{"Matthew_ch_24.docx": [4196]}
+kaina	{"Genesis_ch_5.docx": [693, 697, 882, 910], "Genesis_ch_10.docx": [2594, 2668], "Genesis_ch_11.docx": [1557, 1565, 1743], "Judges_ch_8.docx": [1240, 1275, 3368], "1 Chronicles_ch_1.docx": [56], "Luke_ch_3.docx": [7107, 7243]}

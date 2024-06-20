@@ -1,0 +1,5 @@
+
+jerie	{"1 Chronicles_ch_7.docx": [148], "2 Chronicles_ch_20.docx": [2569, 2569, 2569]}
+jerie	{"1 Chronicles_ch_7.docx": [148], "2 Chronicles_ch_20.docx": [2569, 2569]}
+56‘mis	{"Jeremiah_ch_51.docx": [9198]}
+jerie	{"1 Chronicles_ch_7.docx": [148], "2 Chronicles_ch_20.docx": [2569]}

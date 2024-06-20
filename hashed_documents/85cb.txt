@@ -1,0 +1,7 @@
+
+thas	{"Genesis_ch_46.docx": [1893], "2 Samuel_ch_2.docx": [1333, 1333, 1333]}
+drunke	{"Ezekiel_ch_23.docx": [5377], "Romans_ch_13.docx": [2026, 2026]}
+thas	{"Genesis_ch_46.docx": [1893], "2 Samuel_ch_2.docx": [1333, 1333]}
+drunke	{"Ezekiel_ch_23.docx": [5377], "Romans_ch_13.docx": [2026]}
+thas	{"Genesis_ch_46.docx": [1893], "2 Samuel_ch_2.docx": [1333]}
+drunke	{"Ezekiel_ch_23.docx": [5377], "Romans_ch_13.docx": [2026]}

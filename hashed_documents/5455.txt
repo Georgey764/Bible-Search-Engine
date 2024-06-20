@@ -1,0 +1,5 @@
+
+vultu	{"Leviticus_ch_11.docx": [1751], "Deuteronomy_ch_14.docx": [1251, 1251], "Job_ch_5.docx": [616, 616, 616], "Job_ch_15.docx": [2035, 2035, 2035], "Job_ch_39.docx": [2491, 2491, 2491], "Proverbs_ch_30.docx": [1924, 1924, 1924], "Isaiah_ch_13.docx": [3152, 3152, 3152], "Micah_ch_1.docx": [5814, 5814, 5814], "Matthew_ch_24.docx": [2998, 2998, 2998], "Luke_ch_17.docx": [4449, 4449]}
+vultu	{"Deuteronomy_ch_14.docx": [1251, 1251], "Job_ch_5.docx": [616, 616], "Job_ch_15.docx": [2035, 2035], "Job_ch_39.docx": [2491, 2491], "Proverbs_ch_30.docx": [1924, 1924], "Isaiah_ch_13.docx": [3152, 3152], "Micah_ch_1.docx": [5814, 5814], "Matthew_ch_24.docx": [2998, 2998], "Luke_ch_17.docx": [4449]}
+37‘be	{"2 Chronicles_ch_20.docx": [6238]}
+vultu	{"Leviticus_ch_11.docx": [1751], "Deuteronomy_ch_14.docx": [1251], "Job_ch_5.docx": [616], "Job_ch_15.docx": [2035], "Job_ch_39.docx": [2491], "Proverbs_ch_30.docx": [1924], "Isaiah_ch_13.docx": [3152], "Micah_ch_1.docx": [5814], "Matthew_ch_24.docx": [2998], "Luke_ch_17.docx": [4449]}

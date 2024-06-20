@@ -1,0 +1,4 @@
+
+other;	{"Proverbs_ch_22.docx": [113], "Jeremiah_ch_12.docx": [2072, 2072, 2072]}
+other;	{"Proverbs_ch_22.docx": [113], "Jeremiah_ch_12.docx": [2072, 2072]}
+other;	{"Proverbs_ch_22.docx": [113], "Jeremiah_ch_12.docx": [2072]}

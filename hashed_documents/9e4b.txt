@@ -1,0 +1,7 @@
+
+jeoud	{"1 Chronicles_ch_7.docx": [4355]}
+arbi	{"Luke_ch_12.docx": [1778]}
+jeoud	{"1 Chronicles_ch_7.docx": [4355]}
+31old	{"Proverbs_ch_16.docx": [3182]}
+jeoud	{"1 Chronicles_ch_7.docx": [4355]}
+arbi	{"Luke_ch_12.docx": [1778]}

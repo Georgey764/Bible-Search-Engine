@@ -1,0 +1,2 @@
+
+47an	{"Genesis_ch_41.docx": [6119], "Numbers_ch_31.docx": [4797], "Judges_ch_9.docx": [8648], "Judges_ch_20.docx": [8341], "1 Samuel_ch_17.docx": [7272], "1 Kings_ch_1.docx": [6491], "Nehemiah_ch_12.docx": [12629], "Ezekiel_ch_16.docx": [7679]}

@@ -1,0 +1,4 @@
+
+truths	{"Psalms_ch_26.docx": [300], "Psalms_ch_89.docx": [171, 260, 587, 171, 260, 587, 171, 260, 587], "Psalms_ch_92.docx": [168, 168, 168], "Isaiah_ch_10.docx": [3197, 3197, 3197]}
+truths	{"Psalms_ch_26.docx": [300], "Psalms_ch_89.docx": [171, 260, 587, 171, 260, 587], "Psalms_ch_92.docx": [168, 168], "Isaiah_ch_10.docx": [3197, 3197]}
+truths	{"Psalms_ch_26.docx": [300], "Psalms_ch_89.docx": [171, 260, 587], "Psalms_ch_92.docx": [168], "Isaiah_ch_10.docx": [3197]}

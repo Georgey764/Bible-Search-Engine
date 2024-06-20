@@ -1,0 +1,5 @@
+
+redd	{"Leviticus_ch_13.docx": [6702]}
+redd	{"Leviticus_ch_13.docx": [6702]}
+22‘for	{"Deuteronomy_ch_32.docx": [3124], "2 Kings_ch_19.docx": [3611], "2 Chronicles_ch_6.docx": [3412], "Isaiah_ch_14.docx": [3623], "Jeremiah_ch_7.docx": [3441], "Jeremiah_ch_14.docx": [3995], "Jeremiah_ch_33.docx": [3882], "Lamentations_ch_3.docx": [1742], "Ezekiel_ch_7.docx": [3622], "Ezekiel_ch_32.docx": [3464]}
+redd	{"Leviticus_ch_13.docx": [6702]}

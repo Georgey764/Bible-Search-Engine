@@ -1,0 +1,4 @@
+
+bubbl	{"Job_ch_32.docx": [1871], "Psalms_ch_19.docx": [174, 174, 174], "John_ch_4.docx": [2180, 2180], "Romans_ch_12.docx": [1413, 1413], "James_ch_3.docx": [1376, 1376]}
+bubbl	{"Job_ch_32.docx": [1871], "Psalms_ch_19.docx": [174, 174], "John_ch_4.docx": [2180], "Romans_ch_12.docx": [1413], "James_ch_3.docx": [1376]}
+bubbl	{"Job_ch_32.docx": [1871], "Psalms_ch_19.docx": [174], "John_ch_4.docx": [2180], "Romans_ch_12.docx": [1413], "James_ch_3.docx": [1376]}

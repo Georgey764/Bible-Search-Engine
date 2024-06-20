@@ -1,0 +1,4 @@
+
+sneak	{"Deuteronomy_ch_19.docx": [1723], "Matthew_ch_26.docx": [253, 253, 253], "Luke_ch_21.docx": [4209, 4209], "2 Corinthians_ch_4.docx": [179, 179], "2 Corinthians_ch_12.docx": [2687, 2687]}
+sneak	{"Deuteronomy_ch_19.docx": [1723], "Matthew_ch_26.docx": [253, 253], "Luke_ch_21.docx": [4209], "2 Corinthians_ch_4.docx": [179], "2 Corinthians_ch_12.docx": [2687]}
+sneak	{"Deuteronomy_ch_19.docx": [1723], "Matthew_ch_26.docx": [253], "Luke_ch_21.docx": [4209], "2 Corinthians_ch_4.docx": [179], "2 Corinthians_ch_12.docx": [2687]}

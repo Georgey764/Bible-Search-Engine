@@ -1,0 +1,7 @@
+
+manna	{"Exodus_ch_16.docx": [4780, 4963, 5169, 5366, 5372, 4963, 5169, 5366, 5372, 4963, 5169, 5366, 5372], "Numbers_ch_11.docx": [664, 826, 1131, 664, 826, 1131, 664, 826, 1131], "Deuteronomy_ch_8.docx": [413, 2132, 413, 2132, 413, 2132], "Joshua_ch_5.docx": [2359, 2484, 2359, 2484, 2359, 2484], "Nehemiah_ch_9.docx": [4228, 4228, 4228], "Psalms_ch_78.docx": [2461, 2461], "John_ch_6.docx": [3891, 5919, 3891, 5919], "Hebrews_ch_9.docx": [459, 459], "Revelation_ch_2.docx": [2874, 2874]}
+owning	{"Proverbs_ch_16.docx": [3322], "Proverbs_ch_24.docx": [378, 378, 378], "2 Corinthians_ch_6.docx": [899, 899]}
+manna	{"Exodus_ch_16.docx": [4780, 4963, 5169, 5366, 5372, 4963, 5169, 5366, 5372], "Numbers_ch_11.docx": [664, 826, 1131, 664, 826, 1131], "Deuteronomy_ch_8.docx": [413, 2132, 413, 2132], "Joshua_ch_5.docx": [2359, 2484, 2359, 2484], "Nehemiah_ch_9.docx": [4228, 4228], "Psalms_ch_78.docx": [2461], "John_ch_6.docx": [3891, 5919], "Hebrews_ch_9.docx": [459], "Revelation_ch_2.docx": [2874]}
+owning	{"Proverbs_ch_16.docx": [3322], "Proverbs_ch_24.docx": [378, 378], "2 Corinthians_ch_6.docx": [899]}
+manna	{"Exodus_ch_16.docx": [4780, 4963, 5169, 5366, 5372], "Numbers_ch_11.docx": [664, 826, 1131], "Deuteronomy_ch_8.docx": [413, 2132], "Joshua_ch_5.docx": [2359, 2484], "Nehemiah_ch_9.docx": [4228], "Psalms_ch_78.docx": [2461], "John_ch_6.docx": [3891, 5919], "Hebrews_ch_9.docx": [459], "Revelation_ch_2.docx": [2874]}
+owning	{"Proverbs_ch_16.docx": [3322], "Proverbs_ch_24.docx": [378], "2 Corinthians_ch_6.docx": [899]}

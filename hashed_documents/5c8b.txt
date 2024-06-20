@@ -1,0 +1,5 @@
+
+loti	{"Ezekiel_ch_27.docx": [2571]}
+7‘how	{"Exodus_ch_11.docx": [969], "Leviticus_ch_2.docx": [857], "Leviticus_ch_13.docx": [1098], "Numbers_ch_12.docx": [788], "Deuteronomy_ch_25.docx": [907], "Deuteronomy_ch_26.docx": [1023], "Joshua_ch_18.docx": [935], "1 Kings_ch_2.docx": [1162], "2 Chronicles_ch_2.docx": [1132]}
+loti	{"Ezekiel_ch_27.docx": [2571]}
+loti	{"Ezekiel_ch_27.docx": [2571]}

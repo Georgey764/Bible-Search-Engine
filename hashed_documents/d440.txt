@@ -1,0 +1,5 @@
+
+ing	{"Exodus_ch_25.docx": [642], "Proverbs_ch_14.docx": [3210, 3210, 3210]}
+ing	{"Exodus_ch_25.docx": [642], "Proverbs_ch_14.docx": [3210, 3210]}
+12ther	{"Exodus_ch_33.docx": [1858], "Joshua_ch_11.docx": [6099], "2 Chronicles_ch_26.docx": [1755], "Ezra_ch_3.docx": [2664], "Esther_ch_4.docx": [2187], "Proverbs_ch_14.docx": [1081]}
+ing	{"Exodus_ch_25.docx": [642], "Proverbs_ch_14.docx": [3210]}

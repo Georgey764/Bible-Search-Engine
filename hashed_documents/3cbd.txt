@@ -1,0 +1,5 @@
+
+bracel	{"Genesis_ch_24.docx": [3297, 4189, 7302, 4189, 7302, 4189, 7302], "Genesis_ch_38.docx": [2443, 3562, 2443, 3562, 2443, 3562], "Exodus_ch_35.docx": [2228, 2228, 2228], "Numbers_ch_31.docx": [5205, 5205, 5205], "Isaiah_ch_3.docx": [2886, 2886, 2886], "Ezekiel_ch_16.docx": [1727, 1727, 1727], "Ezekiel_ch_23.docx": [7028, 7028, 7028]}
+bracel	{"Genesis_ch_24.docx": [3297, 4189, 7302, 4189, 7302], "Genesis_ch_38.docx": [2443, 3562, 2443, 3562], "Exodus_ch_35.docx": [2228, 2228], "Numbers_ch_31.docx": [5205, 5205], "Isaiah_ch_3.docx": [2886, 2886], "Ezekiel_ch_16.docx": [1727, 1727], "Ezekiel_ch_23.docx": [7028, 7028]}
+8af	{"Psalms_ch_18.docx": [923]}
+bracel	{"Genesis_ch_24.docx": [3297, 4189, 7302], "Genesis_ch_38.docx": [2443, 3562], "Exodus_ch_35.docx": [2228], "Numbers_ch_31.docx": [5205], "Isaiah_ch_3.docx": [2886], "Ezekiel_ch_16.docx": [1727], "Ezekiel_ch_23.docx": [7028]}

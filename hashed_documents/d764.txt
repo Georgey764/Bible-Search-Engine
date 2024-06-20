@@ -1,0 +1,6 @@
+
+bagp	{"Daniel_ch_3.docx": [680, 1043, 1455, 2251, 1043, 1455, 2251, 1043, 1455, 2251]}
+antioc	{"Acts_ch_6.docx": [625], "Acts_ch_13.docx": [3231, 9046, 3231, 9046], "Galatians_ch_2.docx": [1592, 1592], "2 Timothy_ch_3.docx": [1716, 1716]}
+bagp	{"Daniel_ch_3.docx": [680, 1043, 1455, 2251, 1043, 1455, 2251]}
+bagp	{"Daniel_ch_3.docx": [680, 1043, 1455, 2251]}
+antioc	{"Acts_ch_6.docx": [625], "Acts_ch_13.docx": [3231, 9046], "Galatians_ch_2.docx": [1592], "2 Timothy_ch_3.docx": [1716]}

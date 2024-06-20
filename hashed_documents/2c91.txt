@@ -1,0 +1,4 @@
+
+procee	{"Deuteronomy_ch_18.docx": [912], "Joshua_ch_16.docx": [216, 216, 216], "Joshua_ch_17.docx": [1103, 1103, 1103], "Joshua_ch_18.docx": [2204, 2204, 2204], "Joshua_ch_19.docx": [4263, 4263, 4263], "1 Chronicles_ch_17.docx": [2726, 2726, 2726], "Ezra_ch_5.docx": [1239, 1239, 1239], "Acts_ch_2.docx": [11843, 11843], "Acts_ch_8.docx": [7154, 7154]}
+procee	{"Deuteronomy_ch_18.docx": [912], "Joshua_ch_16.docx": [216, 216], "Joshua_ch_17.docx": [1103, 1103], "Joshua_ch_18.docx": [2204, 2204], "Joshua_ch_19.docx": [4263, 4263], "1 Chronicles_ch_17.docx": [2726, 2726], "Ezra_ch_5.docx": [1239, 1239], "Acts_ch_2.docx": [11843], "Acts_ch_8.docx": [7154]}
+procee	{"Deuteronomy_ch_18.docx": [912], "Joshua_ch_16.docx": [216], "Joshua_ch_17.docx": [1103], "Joshua_ch_18.docx": [2204], "Joshua_ch_19.docx": [4263], "1 Chronicles_ch_17.docx": [2726], "Ezra_ch_5.docx": [1239], "Acts_ch_2.docx": [11843], "Acts_ch_8.docx": [7154]}

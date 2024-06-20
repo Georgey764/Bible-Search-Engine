@@ -1,0 +1,4 @@
+
+nimri	{"Isaiah_ch_15.docx": [1033], "Jeremiah_ch_48.docx": [4654, 4654, 4654]}
+nimri	{"Isaiah_ch_15.docx": [1033], "Jeremiah_ch_48.docx": [4654, 4654]}
+nimri	{"Isaiah_ch_15.docx": [1033], "Jeremiah_ch_48.docx": [4654]}

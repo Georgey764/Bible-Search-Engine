@@ -1,0 +1,5 @@
+
+asbit	{"2 Samuel_ch_23.docx": [4753]}
+7both	{"Exodus_ch_28.docx": [738]}
+asbit	{"2 Samuel_ch_23.docx": [4753]}
+asbit	{"2 Samuel_ch_23.docx": [4753]}

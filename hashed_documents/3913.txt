@@ -1,0 +1,4 @@
+
+nerga	{"2 Kings_ch_17.docx": [5584], "Jeremiah_ch_39.docx": [445, 508, 445, 508, 445, 508]}
+nerga	{"2 Kings_ch_17.docx": [5584], "Jeremiah_ch_39.docx": [445, 508, 445, 508]}
+nerga	{"2 Kings_ch_17.docx": [5584], "Jeremiah_ch_39.docx": [445, 508]}

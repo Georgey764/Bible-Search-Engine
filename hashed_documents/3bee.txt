@@ -1,0 +1,4 @@
+
+centr	{"Deuteronomy_ch_19.docx": [68], "1 Chronicles_ch_9.docx": [4793, 4793, 4793], "2 Chronicles_ch_23.docx": [1003, 1003, 1003], "Jeremiah_ch_39.docx": [80, 80, 80]}
+centr	{"Deuteronomy_ch_19.docx": [68], "1 Chronicles_ch_9.docx": [4793, 4793], "2 Chronicles_ch_23.docx": [1003, 1003], "Jeremiah_ch_39.docx": [80, 80]}
+centr	{"Deuteronomy_ch_19.docx": [68], "1 Chronicles_ch_9.docx": [4793], "2 Chronicles_ch_23.docx": [1003], "Jeremiah_ch_39.docx": [80]}

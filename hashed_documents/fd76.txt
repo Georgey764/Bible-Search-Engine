@@ -1,0 +1,5 @@
+
+herald	{"Genesis_ch_41.docx": [5270], "Daniel_ch_3.docx": [495, 495, 495]}
+herald	{"Genesis_ch_41.docx": [5270], "Daniel_ch_3.docx": [495, 495]}
+38y	{"Leviticus_ch_26.docx": [4874], "Deuteronomy_ch_28.docx": [5287], "Psalms_ch_78.docx": [3754]}
+herald	{"Genesis_ch_41.docx": [5270], "Daniel_ch_3.docx": [495]}

@@ -1,0 +1,4 @@
+
+justif	{"Genesis_ch_30.docx": [2596], "Genesis_ch_44.docx": [2004, 2004, 2004], "Job_ch_22.docx": [489, 489, 489], "Psalms_ch_73.docx": [1077, 1077, 1077], "1 Thessalonians_ch_2.docx": [610, 610]}
+justif	{"Genesis_ch_30.docx": [2596], "Genesis_ch_44.docx": [2004, 2004], "Job_ch_22.docx": [489, 489], "Psalms_ch_73.docx": [1077, 1077], "1 Thessalonians_ch_2.docx": [610]}
+justif	{"Genesis_ch_30.docx": [2596], "Genesis_ch_44.docx": [2004], "Job_ch_22.docx": [489], "Psalms_ch_73.docx": [1077], "1 Thessalonians_ch_2.docx": [610]}

@@ -1,0 +1,7 @@
+
+agg	{"Genesis_ch_12.docx": [1007], "Genesis_ch_13.docx": [242, 242, 242], "Numbers_ch_13.docx": [2942, 2942, 2942], "1 Kings_ch_1.docx": [541, 1530, 541, 1530, 541, 1530], "1 Kings_ch_2.docx": [2081, 2081, 2081], "1 Chronicles_ch_6.docx": [2159, 2159, 2159], "Proverbs_ch_19.docx": [605, 605, 605], "Proverbs_ch_25.docx": [2323, 2323, 2323]}
+modd	{"1 Chronicles_ch_2.docx": [2781]}
+agg	{"Genesis_ch_12.docx": [1007], "Genesis_ch_13.docx": [242, 242], "Numbers_ch_13.docx": [2942, 2942], "1 Kings_ch_1.docx": [541, 1530, 541, 1530], "1 Kings_ch_2.docx": [2081, 2081], "1 Chronicles_ch_6.docx": [2159, 2159], "Proverbs_ch_19.docx": [605, 605], "Proverbs_ch_25.docx": [2323, 2323]}
+modd	{"1 Chronicles_ch_2.docx": [2781]}
+agg	{"Genesis_ch_12.docx": [1007], "Genesis_ch_13.docx": [242], "Numbers_ch_13.docx": [2942], "1 Kings_ch_1.docx": [541, 1530], "1 Kings_ch_2.docx": [2081], "1 Chronicles_ch_6.docx": [2159], "Proverbs_ch_19.docx": [605], "Proverbs_ch_25.docx": [2323]}
+modd	{"1 Chronicles_ch_2.docx": [2781]}

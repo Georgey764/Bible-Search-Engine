@@ -1,0 +1,6 @@
+
+frenz	{"Judges_ch_16.docx": [4531], "2 Kings_ch_9.docx": [4099, 4099, 4099]}
+59his	{"Numbers_ch_26.docx": [6090]}
+frenz	{"Judges_ch_16.docx": [4531], "2 Kings_ch_9.docx": [4099, 4099]}
+9‘wil	{"Ezekiel_ch_28.docx": [1132]}
+frenz	{"Judges_ch_16.docx": [4531], "2 Kings_ch_9.docx": [4099]}

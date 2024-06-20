@@ -1,0 +1,4 @@
+
+dense	{"2 Samuel_ch_18.docx": [1358], "Ezekiel_ch_31.docx": [323, 323, 323]}
+dense	{"2 Samuel_ch_18.docx": [1358], "Ezekiel_ch_31.docx": [323, 323]}
+dense	{"2 Samuel_ch_18.docx": [1358], "Ezekiel_ch_31.docx": [323]}

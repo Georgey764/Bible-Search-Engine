@@ -1,0 +1,8 @@
+
+unasha	{"Genesis_ch_3.docx": [19], "2 Timothy_ch_1.docx": [1526, 1526]}
+tax-fr	{"Matthew_ch_17.docx": [3262]}
+unasha	{"Genesis_ch_3.docx": [19], "2 Timothy_ch_1.docx": [1526]}
+82my	{"Psalms_ch_119.docx": [6728]}
+tax-fr	{"Matthew_ch_17.docx": [3262]}
+unasha	{"Genesis_ch_3.docx": [19], "2 Timothy_ch_1.docx": [1526]}
+tax-fr	{"Matthew_ch_17.docx": [3262]}

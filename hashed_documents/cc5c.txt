@@ -1,0 +1,4 @@
+
+scapeg	{"Leviticus_ch_16.docx": [1047, 1253, 1274, 1253, 1274, 1253, 1274]}
+scapeg	{"Leviticus_ch_16.docx": [1047, 1253, 1274, 1253, 1274]}
+scapeg	{"Leviticus_ch_16.docx": [1047, 1253, 1274]}

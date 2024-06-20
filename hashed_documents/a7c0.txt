@@ -1,0 +1,5 @@
+
+bible	{"1 Samuel_ch_17.docx": [8697], "Psalms_ch_150.docx": [801, 949, 993], "Ezekiel_ch_41.docx": [1614, 1614, 1614]}
+bible	{"1 Samuel_ch_17.docx": [8697], "Ezekiel_ch_41.docx": [1614, 1614]}
+66alto	{"Nehemiah_ch_7.docx": [4201]}
+bible	{"1 Samuel_ch_17.docx": [8697], "Ezekiel_ch_41.docx": [1614]}

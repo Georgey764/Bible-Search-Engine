@@ -1,0 +1,5 @@
+
+vested	{"Esther_ch_5.docx": [1473]}
+2,40	{"Exodus_ch_38.docx": [3672], "Numbers_ch_7.docx": [9987]}
+vested	{"Esther_ch_5.docx": [1473]}
+vested	{"Esther_ch_5.docx": [1473]}

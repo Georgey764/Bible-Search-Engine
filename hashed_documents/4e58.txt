@@ -1,0 +1,5 @@
+
+flags	{"Isaiah_ch_33.docx": [3747], "Jeremiah_ch_51.docx": [1981, 1981, 1981], "Ezekiel_ch_27.docx": [767, 767, 767]}
+12amaz	{"1 Chronicles_ch_3.docx": [1072]}
+flags	{"Isaiah_ch_33.docx": [3747], "Jeremiah_ch_51.docx": [1981, 1981], "Ezekiel_ch_27.docx": [767, 767]}
+flags	{"Isaiah_ch_33.docx": [3747], "Jeremiah_ch_51.docx": [1981], "Ezekiel_ch_27.docx": [767]}

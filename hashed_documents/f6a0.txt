@@ -1,0 +1,4 @@
+
+hagg	{"1 Chronicles_ch_3.docx": [308], "Ezra_ch_5.docx": [10, 10, 10], "Ezra_ch_6.docx": [2693, 2693, 2693], "Psalms_ch_138.docx": [10, 10, 10], "Psalms_ch_146.docx": [9, 9, 9], "Psalms_ch_147.docx": [9, 9, 9], "Psalms_ch_148.docx": [9, 9, 9], "Haggai_ch_1.docx": [1, 36, 450, 2143, 2441, 1, 36, 450, 2143, 2441, 1, 36, 450, 2143, 2441], "Hebrews_ch_12.docx": [4957, 4957]}
+hagg	{"1 Chronicles_ch_3.docx": [308], "Ezra_ch_5.docx": [10, 10], "Ezra_ch_6.docx": [2693, 2693], "Psalms_ch_138.docx": [10, 10], "Psalms_ch_146.docx": [9, 9], "Psalms_ch_147.docx": [9, 9], "Psalms_ch_148.docx": [9, 9], "Haggai_ch_1.docx": [1, 36, 450, 2143, 2441, 1, 36, 450, 2143, 2441], "Hebrews_ch_12.docx": [4957]}
+hagg	{"1 Chronicles_ch_3.docx": [308], "Ezra_ch_5.docx": [10], "Ezra_ch_6.docx": [2693], "Psalms_ch_138.docx": [10], "Psalms_ch_146.docx": [9], "Psalms_ch_147.docx": [9], "Psalms_ch_148.docx": [9], "Haggai_ch_1.docx": [1, 36, 450, 2143, 2441], "Hebrews_ch_12.docx": [4957]}

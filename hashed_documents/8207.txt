@@ -1,0 +1,2 @@
+
+34but	{"Genesis_ch_43.docx": [4677], "Exodus_ch_9.docx": [4684], "1 Samuel_ch_17.docx": [4935], "2 Samuel_ch_19.docx": [5506]}

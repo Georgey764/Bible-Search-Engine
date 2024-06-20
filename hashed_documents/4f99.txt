@@ -1,0 +1,4 @@
+
+steady	{"Judges_ch_16.docx": [4890], "2 Samuel_ch_6.docx": [765, 765, 765], "1 Chronicles_ch_13.docx": [1370, 1370, 1370], "Psalms_ch_93.docx": [180, 180, 180]}
+steady	{"Judges_ch_16.docx": [4890], "2 Samuel_ch_6.docx": [765, 765], "1 Chronicles_ch_13.docx": [1370, 1370], "Psalms_ch_93.docx": [180, 180]}
+steady	{"Judges_ch_16.docx": [4890], "2 Samuel_ch_6.docx": [765], "1 Chronicles_ch_13.docx": [1370], "Psalms_ch_93.docx": [180]}

@@ -1,0 +1,4 @@
+
+jau	{"Leviticus_ch_26.docx": [1981], "2 Chronicles_ch_6.docx": [4529, 4529, 4529], "Jeremiah_ch_30.docx": [840, 840, 840], "Amos_ch_4.docx": [2138, 2138, 2138]}
+jau	{"Leviticus_ch_26.docx": [1981], "2 Chronicles_ch_6.docx": [4529, 4529], "Jeremiah_ch_30.docx": [840, 840], "Amos_ch_4.docx": [2138, 2138]}
+jau	{"Leviticus_ch_26.docx": [1981], "2 Chronicles_ch_6.docx": [4529], "Jeremiah_ch_30.docx": [840], "Amos_ch_4.docx": [2138]}

@@ -1,0 +1,4 @@
+
+elisur	{"Numbers_ch_1.docx": [650], "Numbers_ch_7.docx": [3585, 4219, 3585, 4219, 3585, 4219], "Numbers_ch_10.docx": [2154, 2154, 2154]}
+elisur	{"Numbers_ch_1.docx": [650], "Numbers_ch_7.docx": [3585, 4219, 3585, 4219], "Numbers_ch_10.docx": [2154, 2154]}
+elisur	{"Numbers_ch_1.docx": [650], "Numbers_ch_7.docx": [3585, 4219], "Numbers_ch_10.docx": [2154]}

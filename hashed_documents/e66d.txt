@@ -1,0 +1,2 @@
+
+32then	{"Genesis_ch_37.docx": [4178], "Exodus_ch_16.docx": [4896], "Leviticus_ch_13.docx": [4528], "Numbers_ch_16.docx": [4477], "Joshua_ch_10.docx": [11523], "1 Samuel_ch_14.docx": [5020], "2 Samuel_ch_2.docx": [4490], "2 Samuel_ch_15.docx": [4933], "1 Kings_ch_1.docx": [4420], "1 Kings_ch_12.docx": [5156], "2 Kings_ch_4.docx": [5019], "2 Chronicles_ch_34.docx": [5919], "Psalms_ch_69.docx": [3244], "Psalms_ch_106.docx": [2970], "Jeremiah_ch_36.docx": [5684], "Matthew_ch_18.docx": [4146]}

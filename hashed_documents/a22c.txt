@@ -1,0 +1,2 @@
+
+17o	{"Deuteronomy_ch_4.docx": [2600], "1 Kings_ch_3.docx": [2933], "Psalms_ch_31.docx": [1875], "Psalms_ch_35.docx": [1700], "Psalms_ch_71.docx": [1556], "Psalms_ch_83.docx": [1295], "Proverbs_ch_4.docx": [1592], "Jeremiah_ch_39.docx": [2790]}

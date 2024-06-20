@@ -1,0 +1,5 @@
+
+ginath	{"1 Kings_ch_16.docx": [3402]}
+14si	{"1 Samuel_ch_17.docx": [1811], "Psalms_ch_37.docx": [1220], "Isaiah_ch_22.docx": [2011]}
+ginath	{"1 Kings_ch_16.docx": [3402]}
+ginath	{"1 Kings_ch_16.docx": [3402]}

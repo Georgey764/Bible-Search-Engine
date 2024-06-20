@@ -1,0 +1,5 @@
+
+angit	{"Numbers_ch_26.docx": [2632]}
+23when	{"Genesis_ch_5.docx": [1628], "Exodus_ch_8.docx": [3466], "Numbers_ch_22.docx": [3123], "Proverbs_ch_30.docx": [2462]}
+angit	{"Numbers_ch_26.docx": [2632]}
+angit	{"Numbers_ch_26.docx": [2632]}

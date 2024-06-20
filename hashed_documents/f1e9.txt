@@ -1,0 +1,7 @@
+
+tracks	{"Job_ch_13.docx": [733], "Job_ch_38.docx": [1526, 1526, 1526], "Psalms_ch_73.docx": [153, 153, 153], "Proverbs_ch_2.docx": [1312, 1312, 1312], "Proverbs_ch_4.docx": [1070, 2398, 2659, 1070, 2398, 2659, 1070, 2398, 2659], "Proverbs_ch_5.docx": [486, 556, 486, 556, 486, 556], "Proverbs_ch_30.docx": [2053, 2053, 2053], "Ezekiel_ch_43.docx": [907, 907, 907], "Hebrews_ch_12.docx": [2292, 2292], "1 Peter_ch_2.docx": [3127, 3127]}
+disast	{"Job_ch_15.docx": [2172], "Isaiah_ch_30.docx": [4719, 4719, 4719], "Isaiah_ch_53.docx": [386, 386, 386], "Jeremiah_ch_19.docx": [1658, 1658, 1658]}
+tracks	{"Job_ch_13.docx": [733], "Job_ch_38.docx": [1526, 1526], "Psalms_ch_73.docx": [153, 153], "Proverbs_ch_2.docx": [1312, 1312], "Proverbs_ch_4.docx": [1070, 2398, 2659, 1070, 2398, 2659], "Proverbs_ch_5.docx": [486, 556, 486, 556], "Proverbs_ch_30.docx": [2053, 2053], "Ezekiel_ch_43.docx": [907, 907], "Hebrews_ch_12.docx": [2292], "1 Peter_ch_2.docx": [3127]}
+disast	{"Job_ch_15.docx": [2172], "Isaiah_ch_30.docx": [4719, 4719], "Isaiah_ch_53.docx": [386, 386], "Jeremiah_ch_19.docx": [1658, 1658]}
+tracks	{"Job_ch_13.docx": [733], "Job_ch_38.docx": [1526], "Psalms_ch_73.docx": [153], "Proverbs_ch_2.docx": [1312], "Proverbs_ch_4.docx": [1070, 2398, 2659], "Proverbs_ch_5.docx": [486, 556], "Proverbs_ch_30.docx": [2053], "Ezekiel_ch_43.docx": [907], "Hebrews_ch_12.docx": [2292], "1 Peter_ch_2.docx": [3127]}
+disast	{"Job_ch_15.docx": [2172], "Isaiah_ch_30.docx": [4719], "Isaiah_ch_53.docx": [386], "Jeremiah_ch_19.docx": [1658]}

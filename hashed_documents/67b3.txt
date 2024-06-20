@@ -1,0 +1,4 @@
+
+host	{"Deuteronomy_ch_32.docx": [5379], "Luke_ch_14.docx": [870, 1108, 870, 1108]}
+host	{"Deuteronomy_ch_32.docx": [5379], "Luke_ch_14.docx": [870, 1108]}
+host	{"Deuteronomy_ch_32.docx": [5379], "Luke_ch_14.docx": [870, 1108]}

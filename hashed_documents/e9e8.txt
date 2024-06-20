@@ -1,0 +1,4 @@
+
+ararat	{"Genesis_ch_8.docx": [369], "2 Kings_ch_19.docx": [6399, 6399, 6399], "Jeremiah_ch_51.docx": [4523, 4523, 4523]}
+ararat	{"Genesis_ch_8.docx": [369], "2 Kings_ch_19.docx": [6399, 6399], "Jeremiah_ch_51.docx": [4523, 4523]}
+ararat	{"Genesis_ch_8.docx": [369], "2 Kings_ch_19.docx": [6399], "Jeremiah_ch_51.docx": [4523]}

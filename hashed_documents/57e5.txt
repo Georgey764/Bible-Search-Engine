@@ -1,0 +1,5 @@
+
+iota	{"Matthew_ch_5.docx": [1791]}
+29now	{"Genesis_ch_24.docx": [4159]}
+iota	{"Matthew_ch_5.docx": [1791]}
+iota	{"Matthew_ch_5.docx": [1791]}

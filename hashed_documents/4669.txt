@@ -1,0 +1,5 @@
+
+sting	{"Job_ch_6.docx": [378], "Job_ch_31.docx": [3716, 3716, 3716], "Hosea_ch_13.docx": [2037, 2037, 2037], "1 Corinthians_ch_15.docx": [6649, 6711, 6649, 6711], "Revelation_ch_9.docx": [495, 683, 1212, 1225, 495, 683, 1212, 1225]}
+12‘wha	{"1 Kings_ch_18.docx": [1550], "Isaiah_ch_8.docx": [1882], "Matthew_ch_18.docx": [1567]}
+sting	{"Job_ch_6.docx": [378], "Job_ch_31.docx": [3716, 3716], "Hosea_ch_13.docx": [2037, 2037], "1 Corinthians_ch_15.docx": [6649, 6711], "Revelation_ch_9.docx": [495, 683, 1212, 1225]}
+sting	{"Job_ch_6.docx": [378], "Job_ch_31.docx": [3716], "Hosea_ch_13.docx": [2037], "1 Corinthians_ch_15.docx": [6649, 6711], "Revelation_ch_9.docx": [495, 683, 1212, 1225]}

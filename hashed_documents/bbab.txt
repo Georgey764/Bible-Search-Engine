@@ -1,0 +1,4 @@
+
+ragoue	{"Exodus_ch_2.docx": [2666], "1 Chronicles_ch_1.docx": [2803, 2988, 2803, 2988, 2803, 2988], "1 Chronicles_ch_9.docx": [1095, 1095, 1095]}
+ragoue	{"Exodus_ch_2.docx": [2666], "1 Chronicles_ch_1.docx": [2803, 2988, 2803, 2988], "1 Chronicles_ch_9.docx": [1095, 1095]}
+ragoue	{"Exodus_ch_2.docx": [2666], "1 Chronicles_ch_1.docx": [2803, 2988], "1 Chronicles_ch_9.docx": [1095]}

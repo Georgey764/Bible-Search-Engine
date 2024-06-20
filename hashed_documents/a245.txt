@@ -1,0 +1,5 @@
+
+sheath	{"1 Samuel_ch_17.docx": [7984], "2 Samuel_ch_20.docx": [1585, 1585, 1585], "1 Chronicles_ch_21.docx": [4422, 4422, 4422], "Jeremiah_ch_47.docx": [1020, 1020, 1020], "Ezekiel_ch_21.docx": [382, 470, 564, 5445, 382, 470, 564, 5445, 382, 470, 564, 5445]}
+6noa	{"Genesis_ch_7.docx": [795]}
+sheath	{"1 Samuel_ch_17.docx": [7984], "2 Samuel_ch_20.docx": [1585, 1585], "1 Chronicles_ch_21.docx": [4422, 4422], "Jeremiah_ch_47.docx": [1020, 1020], "Ezekiel_ch_21.docx": [382, 470, 564, 5445, 382, 470, 564, 5445]}
+sheath	{"1 Samuel_ch_17.docx": [7984], "2 Samuel_ch_20.docx": [1585], "1 Chronicles_ch_21.docx": [4422], "Jeremiah_ch_47.docx": [1020], "Ezekiel_ch_21.docx": [382, 470, 564, 5445]}

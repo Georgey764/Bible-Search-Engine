@@ -1,0 +1,5 @@
+
+landin	{"Genesis_ch_15.docx": [1404], "Acts_ch_21.docx": [1017, 1043, 1070, 1017, 1043, 1070]}
+landin	{"Genesis_ch_15.docx": [1404], "Acts_ch_21.docx": [1017, 1043, 1070]}
+2‘don	{"Deuteronomy_ch_4.docx": [238], "Deuteronomy_ch_8.docx": [219], "Ecclesiastes_ch_5.docx": [235], "Jeremiah_ch_10.docx": [78], "Jeremiah_ch_16.docx": [69]}
+landin	{"Genesis_ch_15.docx": [1404], "Acts_ch_21.docx": [1017, 1043, 1070]}

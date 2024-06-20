@@ -1,0 +1,5 @@
+
+symoo	{"Joshua_ch_12.docx": [14295], "Joshua_ch_19.docx": [1283, 1283, 1283]}
+symoo	{"Joshua_ch_12.docx": [14295], "Joshua_ch_19.docx": [1283, 1283]}
+7thus	{"Joshua_ch_17.docx": [1085]}
+symoo	{"Joshua_ch_12.docx": [14295], "Joshua_ch_19.docx": [1283]}

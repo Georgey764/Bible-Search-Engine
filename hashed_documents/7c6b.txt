@@ -1,0 +1,7 @@
+
+asob	{"1 Chronicles_ch_3.docx": [1834], "1 Chronicles_ch_9.docx": [2042, 2042, 2042]}
+annual	{"2 Chronicles_ch_8.docx": [1554]}
+asob	{"1 Chronicles_ch_3.docx": [1834], "1 Chronicles_ch_9.docx": [2042, 2042]}
+annual	{"2 Chronicles_ch_8.docx": [1554]}
+asob	{"1 Chronicles_ch_3.docx": [1834], "1 Chronicles_ch_9.docx": [2042]}
+annual	{"2 Chronicles_ch_8.docx": [1554]}

@@ -1,0 +1,4 @@
+
+arti	{"Exodus_ch_28.docx": [1109], "Isaiah_ch_40.docx": [2660, 2660, 2660], "Acts_ch_17.docx": [5934, 5934]}
+arti	{"Exodus_ch_28.docx": [1109], "Isaiah_ch_40.docx": [2660, 2660], "Acts_ch_17.docx": [5934]}
+arti	{"Exodus_ch_28.docx": [1109], "Isaiah_ch_40.docx": [2660], "Acts_ch_17.docx": [5934]}

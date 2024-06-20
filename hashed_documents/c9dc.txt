@@ -1,0 +1,7 @@
+
+trimme	{"2 Samuel_ch_19.docx": [4033]}
+conan	{"2 Chronicles_ch_31.docx": [2237, 2495, 2495, 2495], "2 Chronicles_ch_35.docx": [1705, 1705, 1705]}
+trimme	{"2 Samuel_ch_19.docx": [4033]}
+conan	{"2 Chronicles_ch_31.docx": [2237, 2495, 2495], "2 Chronicles_ch_35.docx": [1705, 1705]}
+trimme	{"2 Samuel_ch_19.docx": [4033]}
+conan	{"2 Chronicles_ch_31.docx": [2237, 2495], "2 Chronicles_ch_35.docx": [1705]}

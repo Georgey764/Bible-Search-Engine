@@ -1,0 +1,6 @@
+
+vacati	{"Jeremiah_ch_14.docx": [1100]}
+colony	{"Acts_ch_16.docx": [3752, 3772, 3793, 3772, 3793]}
+vacati	{"Jeremiah_ch_14.docx": [1100]}
+vacati	{"Jeremiah_ch_14.docx": [1100]}
+colony	{"Acts_ch_16.docx": [3752, 3772, 3793]}

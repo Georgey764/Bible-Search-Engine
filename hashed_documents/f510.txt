@@ -1,0 +1,4 @@
+
+primar	{"Joshua_ch_10.docx": [62], "Mark_ch_12.docx": [3912, 3973, 3912, 3973], "Acts_ch_5.docx": [4224, 4224], "Hebrews_ch_2.docx": [1666, 1666]}
+primar	{"Joshua_ch_10.docx": [62], "Mark_ch_12.docx": [3912, 3973], "Acts_ch_5.docx": [4224], "Hebrews_ch_2.docx": [1666]}
+primar	{"Joshua_ch_10.docx": [62], "Mark_ch_12.docx": [3912, 3973], "Acts_ch_5.docx": [4224], "Hebrews_ch_2.docx": [1666]}

@@ -1,0 +1,7 @@
+
+triba	{"Genesis_ch_36.docx": [4158], "Exodus_ch_35.docx": [2784, 2784, 2784], "Numbers_ch_17.docx": [69, 69, 69], "Joshua_ch_18.docx": [1645, 1645, 1645], "2 Chronicles_ch_5.docx": [233, 233, 233]}
+bouki	{"1 Chronicles_ch_25.docx": [659, 1822, 1822, 1822]}
+triba	{"Genesis_ch_36.docx": [4158], "Exodus_ch_35.docx": [2784, 2784], "Numbers_ch_17.docx": [69, 69], "Joshua_ch_18.docx": [1645, 1645], "2 Chronicles_ch_5.docx": [233, 233]}
+bouki	{"1 Chronicles_ch_25.docx": [659, 1822, 1822]}
+triba	{"Genesis_ch_36.docx": [4158], "Exodus_ch_35.docx": [2784], "Numbers_ch_17.docx": [69], "Joshua_ch_18.docx": [1645], "2 Chronicles_ch_5.docx": [233]}
+bouki	{"1 Chronicles_ch_25.docx": [659, 1822]}

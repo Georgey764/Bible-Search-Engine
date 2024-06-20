@@ -1,0 +1,8 @@
+
+aegean	{"Genesis_ch_10.docx": [333]}
+gushed	{"Proverbs_ch_8.docx": [2187]}
+aegean	{"Genesis_ch_10.docx": [333]}
+23all	{"Psalms_ch_22.docx": [2176], "Ezekiel_ch_32.docx": [3609]}
+gushed	{"Proverbs_ch_8.docx": [2187]}
+aegean	{"Genesis_ch_10.docx": [333]}
+gushed	{"Proverbs_ch_8.docx": [2187]}

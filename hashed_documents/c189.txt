@@ -1,0 +1,4 @@
+
+berij	{"1 Chronicles_ch_3.docx": [2067], "1 Chronicles_ch_7.docx": [3857, 3857, 3857], "1 Chronicles_ch_8.docx": [908, 1047, 1047, 908, 1047], "1 Chronicles_ch_23.docx": [1109, 1129, 1109, 1129, 1109, 1129]}
+berij	{"1 Chronicles_ch_3.docx": [2067], "1 Chronicles_ch_7.docx": [3857, 3857], "1 Chronicles_ch_8.docx": [1047, 908, 1047], "1 Chronicles_ch_23.docx": [1109, 1129, 1109, 1129]}
+berij	{"1 Chronicles_ch_3.docx": [2067], "1 Chronicles_ch_7.docx": [3857], "1 Chronicles_ch_8.docx": [908, 1047], "1 Chronicles_ch_23.docx": [1109, 1129]}

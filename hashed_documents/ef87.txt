@@ -1,0 +1,7 @@
+
+invest	{"Deuteronomy_ch_17.docx": [570, 1463, 1463, 1463], "Deuteronomy_ch_19.docx": [2652, 2652, 2652], "Job_ch_28.docx": [1350, 1350, 1350], "Ezekiel_ch_27.docx": [274, 274, 274], "Acts_ch_7.docx": [4278, 4463, 4278, 4463]}
+jephi	{"2 Samuel_ch_5.docx": [2194], "1 Chronicles_ch_7.docx": [4440, 4440, 4440]}
+invest	{"Deuteronomy_ch_17.docx": [570, 1463, 1463], "Deuteronomy_ch_19.docx": [2652, 2652], "Job_ch_28.docx": [1350, 1350], "Ezekiel_ch_27.docx": [274, 274], "Acts_ch_7.docx": [4278, 4463]}
+jephi	{"2 Samuel_ch_5.docx": [2194], "1 Chronicles_ch_7.docx": [4440, 4440]}
+invest	{"Deuteronomy_ch_17.docx": [570, 1463], "Deuteronomy_ch_19.docx": [2652], "Job_ch_28.docx": [1350], "Ezekiel_ch_27.docx": [274], "Acts_ch_7.docx": [4278, 4463]}
+jephi	{"2 Samuel_ch_5.docx": [2194], "1 Chronicles_ch_7.docx": [4440]}

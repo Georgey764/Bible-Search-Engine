@@ -1,0 +1,5 @@
+
+bag!	{"Genesis_ch_42.docx": [3424]}
+bag!	{"Genesis_ch_42.docx": [3424]}
+2also	{"Genesis_ch_44.docx": [107], "1 Chronicles_ch_5.docx": [310]}
+bag!	{"Genesis_ch_42.docx": [3424]}

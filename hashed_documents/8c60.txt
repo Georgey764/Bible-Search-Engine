@@ -1,0 +1,4 @@
+
+prest	{"Joshua_ch_3.docx": [968], "Joshua_ch_4.docx": [2083, 2083, 2083]}
+prest	{"Joshua_ch_3.docx": [968], "Joshua_ch_4.docx": [2083, 2083]}
+prest	{"Joshua_ch_3.docx": [968], "Joshua_ch_4.docx": [2083]}

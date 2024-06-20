@@ -1,0 +1,4 @@
+
+sashes	{"Exodus_ch_29.docx": [909], "Exodus_ch_39.docx": [3421, 3421, 3421], "Leviticus_ch_8.docx": [1334, 1334, 1334], "Matthew_ch_10.docx": [1036, 1036, 1036], "Mark_ch_6.docx": [1021, 1021], "Luke_ch_12.docx": [4453, 4453]}
+sashes	{"Exodus_ch_29.docx": [909], "Exodus_ch_39.docx": [3421, 3421], "Leviticus_ch_8.docx": [1334, 1334], "Matthew_ch_10.docx": [1036, 1036], "Mark_ch_6.docx": [1021], "Luke_ch_12.docx": [4453]}
+sashes	{"Exodus_ch_29.docx": [909], "Exodus_ch_39.docx": [3421], "Leviticus_ch_8.docx": [1334], "Matthew_ch_10.docx": [1036], "Mark_ch_6.docx": [1021], "Luke_ch_12.docx": [4453]}

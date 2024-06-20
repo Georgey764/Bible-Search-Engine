@@ -1,0 +1,5 @@
+
+seraia	{"Jeremiah_ch_40.docx": [1715], "Jeremiah_ch_51.docx": [9749, 9776, 10194, 9749, 9776, 10194, 9749, 9776, 10194]}
+4where	{"Proverbs_ch_14.docx": [292]}
+seraia	{"Jeremiah_ch_40.docx": [1715], "Jeremiah_ch_51.docx": [9749, 9776, 10194, 9749, 9776, 10194]}
+seraia	{"Jeremiah_ch_40.docx": [1715], "Jeremiah_ch_51.docx": [9749, 9776, 10194]}

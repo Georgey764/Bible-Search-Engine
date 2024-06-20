@@ -1,0 +1,4 @@
+
+gosh	{"Joshua_ch_15.docx": [5621]}
+6stick	{"Proverbs_ch_4.docx": [485]}
+gosh	{"Joshua_ch_15.docx": [5621]}

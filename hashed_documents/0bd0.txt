@@ -1,0 +1,4 @@
+
+dayb	{"Exodus_ch_14.docx": [4825], "Daniel_ch_6.docx": [3304, 3304, 3304], "Acts_ch_5.docx": [2882, 2882], "Acts_ch_20.docx": [3151, 3151]}
+dayb	{"Exodus_ch_14.docx": [4825], "Daniel_ch_6.docx": [3304, 3304], "Acts_ch_5.docx": [2882], "Acts_ch_20.docx": [3151]}
+dayb	{"Exodus_ch_14.docx": [4825], "Daniel_ch_6.docx": [3304], "Acts_ch_5.docx": [2882], "Acts_ch_20.docx": [3151]}

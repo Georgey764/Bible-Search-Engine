@@ -1,0 +1,6 @@
+
+curv	{"Proverbs_ch_2.docx": [1307], "Isaiah_ch_40.docx": [3028, 3028, 3028], "Luke_ch_3.docx": [3664, 3664]}
+16-ye	{"2 Kings_ch_14.docx": [3431]}
+curv	{"Proverbs_ch_2.docx": [1307], "Isaiah_ch_40.docx": [3028, 3028], "Luke_ch_3.docx": [3664]}
+13[joe	{"Joel_ch_2.docx": [2194]}
+curv	{"Proverbs_ch_2.docx": [1307], "Isaiah_ch_40.docx": [3028], "Luke_ch_3.docx": [3664]}

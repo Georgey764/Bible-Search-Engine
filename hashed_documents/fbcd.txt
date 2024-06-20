@@ -1,0 +1,4 @@
+
+baggag	{"Genesis_ch_46.docx": [580], "Judges_ch_18.docx": [4795, 4795, 4795]}
+baggag	{"Genesis_ch_46.docx": [580], "Judges_ch_18.docx": [4795, 4795]}
+baggag	{"Genesis_ch_46.docx": [580], "Judges_ch_18.docx": [4795]}

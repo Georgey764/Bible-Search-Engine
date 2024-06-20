@@ -1,0 +1,11 @@
+
+melech	{"2 Kings_ch_23.docx": [2752]}
+joktan	{"1 Chronicles_ch_1.docx": [1607, 1715, 1906, 1906, 1715, 1906]}
+pestl	{"Proverbs_ch_23.docx": [2886]}
+melech	{"2 Kings_ch_23.docx": [2752]}
+joktan	{"1 Chronicles_ch_1.docx": [1607, 1906, 1715, 1906]}
+1he	{"2 Chronicles_ch_29.docx": [5], "Ezekiel_ch_2.docx": [4]}
+pestl	{"Proverbs_ch_23.docx": [2886]}
+melech	{"2 Kings_ch_23.docx": [2752]}
+joktan	{"1 Chronicles_ch_1.docx": [1607, 1715, 1906]}
+pestl	{"Proverbs_ch_23.docx": [2886]}

@@ -1,0 +1,4 @@
+
+fraud	{"Genesis_ch_31.docx": [5645], "Hosea_ch_4.docx": [232, 232, 232]}
+fraud	{"Genesis_ch_31.docx": [5645], "Hosea_ch_4.docx": [232, 232]}
+fraud	{"Genesis_ch_31.docx": [5645], "Hosea_ch_4.docx": [232]}

@@ -1,0 +1,4 @@
+
+subst	{"Exodus_ch_30.docx": [4211], "Jeremiah_ch_30.docx": [2281, 2281, 2281]}
+subst	{"Exodus_ch_30.docx": [4211], "Jeremiah_ch_30.docx": [2281, 2281]}
+subst	{"Exodus_ch_30.docx": [4211], "Jeremiah_ch_30.docx": [2281]}

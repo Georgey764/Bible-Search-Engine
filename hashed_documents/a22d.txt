@@ -1,0 +1,6 @@
+
+crippl	{"Leviticus_ch_21.docx": [2308], "Luke_ch_14.docx": [1607, 2759, 1607, 2759]}
+limp!	{"Mark_ch_9.docx": [2265]}
+crippl	{"Leviticus_ch_21.docx": [2308], "Luke_ch_14.docx": [1607, 2759]}
+crippl	{"Leviticus_ch_21.docx": [2308], "Luke_ch_14.docx": [1607, 2759]}
+limp!	{"Mark_ch_9.docx": [2265]}

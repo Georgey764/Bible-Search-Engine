@@ -1,0 +1,7 @@
+
+sway	{"2 Chronicles_ch_19.docx": [957], "Job_ch_31.docx": [3055, 3055, 3055], "Job_ch_40.docx": [3582, 3582, 3582], "Psalms_ch_72.docx": [1473, 1473, 1473], "Micah_ch_6.docx": [1595, 1595, 1595], "Luke_ch_20.docx": [2832, 2832]}
+necks!	{"2 Chronicles_ch_29.docx": [599]}
+sway	{"2 Chronicles_ch_19.docx": [957], "Job_ch_31.docx": [3055, 3055], "Job_ch_40.docx": [3582, 3582], "Psalms_ch_72.docx": [1473, 1473], "Micah_ch_6.docx": [1595, 1595], "Luke_ch_20.docx": [2832]}
+necks!	{"2 Chronicles_ch_29.docx": [599]}
+sway	{"2 Chronicles_ch_19.docx": [957], "Job_ch_31.docx": [3055], "Job_ch_40.docx": [3582], "Psalms_ch_72.docx": [1473], "Micah_ch_6.docx": [1595], "Luke_ch_20.docx": [2832]}
+necks!	{"2 Chronicles_ch_29.docx": [599]}

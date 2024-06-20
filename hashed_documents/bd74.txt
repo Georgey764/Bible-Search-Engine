@@ -1,0 +1,5 @@
+
+foot;	{"Leviticus_ch_11.docx": [571, 690, 690, 690]}
+foot;	{"Leviticus_ch_11.docx": [571, 690, 690]}
+12sol	{"2 Chronicles_ch_8.docx": [1511]}
+foot;	{"Leviticus_ch_11.docx": [571, 690]}

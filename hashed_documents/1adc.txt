@@ -1,0 +1,8 @@
+
+quarte	{"Leviticus_ch_1.docx": [907, 1661, 1661, 1661], "Joshua_ch_15.docx": [910, 910, 910], "1 Chronicles_ch_28.docx": [2511, 2511, 2511], "Ezekiel_ch_5.docx": [229, 372, 421, 505, 2271, 2323, 2366, 2421, 229, 372, 421, 505, 2271, 2323, 2366, 2421, 229, 372, 421, 505, 2271, 2323, 2366, 2421], "Ezekiel_ch_46.docx": [4257, 4257, 4257], "Zephaniah_ch_1.docx": [1805, 1805, 1805], "Revelation_ch_6.docx": [1279, 1279]}
+bezai	{"Ezra_ch_2.docx": [923], "Nehemiah_ch_7.docx": [1852, 1852, 1852], "Nehemiah_ch_10.docx": [946, 946, 946]}
+21‘how	{"Genesis_ch_17.docx": [3189], "Leviticus_ch_14.docx": [3256], "Matthew_ch_17.docx": [2464]}
+quarte	{"Leviticus_ch_1.docx": [907, 1661, 1661], "Joshua_ch_15.docx": [910, 910], "1 Chronicles_ch_28.docx": [2511, 2511], "Ezekiel_ch_5.docx": [229, 372, 421, 505, 2271, 2323, 2366, 2421, 229, 372, 421, 505, 2271, 2323, 2366, 2421], "Ezekiel_ch_46.docx": [4257, 4257], "Zephaniah_ch_1.docx": [1805, 1805], "Revelation_ch_6.docx": [1279]}
+bezai	{"Ezra_ch_2.docx": [923], "Nehemiah_ch_7.docx": [1852, 1852], "Nehemiah_ch_10.docx": [946, 946]}
+quarte	{"Leviticus_ch_1.docx": [907, 1661], "Joshua_ch_15.docx": [910], "1 Chronicles_ch_28.docx": [2511], "Ezekiel_ch_5.docx": [229, 372, 421, 505, 2271, 2323, 2366, 2421], "Ezekiel_ch_46.docx": [4257], "Zephaniah_ch_1.docx": [1805], "Revelation_ch_6.docx": [1279]}
+bezai	{"Ezra_ch_2.docx": [923], "Nehemiah_ch_7.docx": [1852], "Nehemiah_ch_10.docx": [946]}

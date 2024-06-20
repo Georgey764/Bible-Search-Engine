@@ -1,0 +1,7 @@
+
+rept	{"Job_ch_40.docx": [1765]}
+unfurl	{"Isaiah_ch_33.docx": [3702]}
+rept	{"Job_ch_40.docx": [1765]}
+unfurl	{"Isaiah_ch_33.docx": [3702]}
+rept	{"Job_ch_40.docx": [1765]}
+unfurl	{"Isaiah_ch_33.docx": [3702]}

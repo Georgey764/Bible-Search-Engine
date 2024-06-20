@@ -1,0 +1,4 @@
+
+fodd	{"Genesis_ch_24.docx": [3738, 4662, 4662, 4662], "Genesis_ch_43.docx": [3277, 3277, 3277]}
+fodd	{"Genesis_ch_24.docx": [3738, 4662, 4662], "Genesis_ch_43.docx": [3277, 3277]}
+fodd	{"Genesis_ch_24.docx": [3738, 4662], "Genesis_ch_43.docx": [3277]}

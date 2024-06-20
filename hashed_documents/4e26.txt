@@ -1,0 +1,5 @@
+
+belaa	{"1 Kings_ch_15.docx": [3931]}
+belaa	{"1 Kings_ch_15.docx": [3931]}
+12tho	{"Psalms_ch_38.docx": [963], "Psalms_ch_69.docx": [1359], "Proverbs_ch_13.docx": [1174], "Zechariah_ch_9.docx": [2615]}
+belaa	{"1 Kings_ch_15.docx": [3931]}

@@ -1,0 +1,4 @@
+
+nezija	{"Ezra_ch_2.docx": [2144], "Nehemiah_ch_7.docx": [3218, 3218]}
+1‘af	{"Deuteronomy_ch_2.docx": [6]}
+nezija	{"Ezra_ch_2.docx": [2144], "Nehemiah_ch_7.docx": [3218]}

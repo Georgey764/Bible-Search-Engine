@@ -1,0 +1,4 @@
+
+meets	{"Job_ch_39.docx": [1978], "Proverbs_ch_7.docx": [852, 852, 852], "Acts_ch_25.docx": [5577, 5577]}
+meets	{"Job_ch_39.docx": [1978], "Proverbs_ch_7.docx": [852, 852], "Acts_ch_25.docx": [5577]}
+meets	{"Job_ch_39.docx": [1978], "Proverbs_ch_7.docx": [852], "Acts_ch_25.docx": [5577]}

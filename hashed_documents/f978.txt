@@ -1,0 +1,7 @@
+
+emeral	{"Exodus_ch_28.docx": [1073, 2226, 2226, 2226], "Exodus_ch_35.docx": [2787, 2787, 2787], "Exodus_ch_39.docx": [701, 1346, 701, 1346, 701, 1346], "Esther_ch_1.docx": [1235, 1235, 1235], "Ezekiel_ch_28.docx": [1794, 1794, 1794], "Revelation_ch_4.docx": [401, 401], "Revelation_ch_21.docx": [3041, 3041]}
+going!	{"Judges_ch_4.docx": [2663], "Luke_ch_10.docx": [312, 312], "Hebrews_ch_11.docx": [1843, 1843]}
+emeral	{"Exodus_ch_28.docx": [1073, 2226, 2226], "Exodus_ch_35.docx": [2787, 2787], "Exodus_ch_39.docx": [701, 1346, 701, 1346], "Esther_ch_1.docx": [1235, 1235], "Ezekiel_ch_28.docx": [1794, 1794], "Revelation_ch_4.docx": [401], "Revelation_ch_21.docx": [3041]}
+going!	{"Judges_ch_4.docx": [2663], "Luke_ch_10.docx": [312], "Hebrews_ch_11.docx": [1843]}
+emeral	{"Exodus_ch_28.docx": [1073, 2226], "Exodus_ch_35.docx": [2787], "Exodus_ch_39.docx": [701, 1346], "Esther_ch_1.docx": [1235], "Ezekiel_ch_28.docx": [1794], "Revelation_ch_4.docx": [401], "Revelation_ch_21.docx": [3041]}
+going!	{"Judges_ch_4.docx": [2663], "Luke_ch_10.docx": [312], "Hebrews_ch_11.docx": [1843]}

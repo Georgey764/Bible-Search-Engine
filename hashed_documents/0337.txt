@@ -1,0 +1,7 @@
+
+occul	{"Deuteronomy_ch_18.docx": [1343, 1713, 1713, 1713], "Galatians_ch_5.docx": [2411, 2411], "Revelation_ch_9.docx": [2990, 2990]}
+recha	{"2 Samuel_ch_4.docx": [178, 760, 1514, 760, 1514, 760, 1514], "2 Kings_ch_10.docx": [2746, 4480, 2746, 4480, 2746, 4480], "1 Chronicles_ch_2.docx": [5181, 5181, 5181], "1 Chronicles_ch_4.docx": [724, 724, 724], "1 Chronicles_ch_5.docx": [661, 661, 661], "Nehemiah_ch_3.docx": [5127, 5127, 5127], "Jeremiah_ch_35.docx": [146, 319, 855, 1196, 2203, 2870, 3346, 3438, 146, 319, 855, 1196, 2203, 2870, 3346, 3438, 146, 319, 855, 1196, 2203, 2870, 3346, 3438]}
+occul	{"Deuteronomy_ch_18.docx": [1343, 1713, 1713], "Galatians_ch_5.docx": [2411], "Revelation_ch_9.docx": [2990]}
+recha	{"2 Samuel_ch_4.docx": [178, 760, 1514, 760, 1514], "2 Kings_ch_10.docx": [2746, 4480, 2746, 4480], "1 Chronicles_ch_2.docx": [5181, 5181], "1 Chronicles_ch_4.docx": [724, 724], "1 Chronicles_ch_5.docx": [661, 661], "Nehemiah_ch_3.docx": [5127, 5127], "Jeremiah_ch_35.docx": [146, 319, 855, 1196, 2203, 2870, 3346, 3438, 146, 319, 855, 1196, 2203, 2870, 3346, 3438]}
+occul	{"Deuteronomy_ch_18.docx": [1343, 1713], "Galatians_ch_5.docx": [2411], "Revelation_ch_9.docx": [2990]}
+recha	{"2 Samuel_ch_4.docx": [178, 760, 1514], "2 Kings_ch_10.docx": [2746, 4480], "1 Chronicles_ch_2.docx": [5181], "1 Chronicles_ch_4.docx": [724], "1 Chronicles_ch_5.docx": [661], "Nehemiah_ch_3.docx": [5127], "Jeremiah_ch_35.docx": [146, 319, 855, 1196, 2203, 2870, 3346, 3438]}

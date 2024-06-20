@@ -1,0 +1,4 @@
+
+phadae	{"Numbers_ch_34.docx": [2574], "2 Kings_ch_23.docx": [7953, 7953, 7953]}
+phadae	{"Numbers_ch_34.docx": [2574], "2 Kings_ch_23.docx": [7953, 7953]}
+phadae	{"Numbers_ch_34.docx": [2574], "2 Kings_ch_23.docx": [7953]}

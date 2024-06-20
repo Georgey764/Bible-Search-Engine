@@ -1,0 +1,4 @@
+
+surn	{"Acts_ch_1.docx": [4857]}
+2‘then	{"Deuteronomy_ch_30.docx": [246], "Isaiah_ch_8.docx": [205], "Isaiah_ch_17.docx": [170], "Isaiah_ch_62.docx": [184], "Micah_ch_2.docx": [197], "Micah_ch_5.docx": [277]}
+surn	{"Acts_ch_1.docx": [4857]}

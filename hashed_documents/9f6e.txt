@@ -1,0 +1,7 @@
+
+jacint	{"Exodus_ch_28.docx": [2360]}
+buni	{"1 Chronicles_ch_9.docx": [624]}
+jacint	{"Exodus_ch_28.docx": [2360]}
+buni	{"1 Chronicles_ch_9.docx": [624]}
+jacint	{"Exodus_ch_28.docx": [2360]}
+buni	{"1 Chronicles_ch_9.docx": [624]}

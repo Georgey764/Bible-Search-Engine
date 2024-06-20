@@ -1,0 +1,4 @@
+
+elas	{"1 Chronicles_ch_1.docx": [4439], "1 Chronicles_ch_8.docx": [2511, 2511, 2511], "1 Chronicles_ch_9.docx": [5866, 5866, 5866], "Jeremiah_ch_29.docx": [398, 398, 398]}
+elas	{"1 Chronicles_ch_1.docx": [4439], "1 Chronicles_ch_8.docx": [2511, 2511], "1 Chronicles_ch_9.docx": [5866, 5866], "Jeremiah_ch_29.docx": [398, 398]}
+elas	{"1 Chronicles_ch_1.docx": [4439], "1 Chronicles_ch_8.docx": [2511], "1 Chronicles_ch_9.docx": [5866], "Jeremiah_ch_29.docx": [398]}

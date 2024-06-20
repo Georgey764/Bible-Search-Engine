@@ -1,0 +1,9 @@
+
+crac	{"Exodus_ch_16.docx": [4833], "Numbers_ch_11.docx": [876, 876, 876], "1 Kings_ch_13.docx": [864, 864, 864], "Psalms_ch_60.docx": [591, 591, 591], "Proverbs_ch_26.docx": [2056, 2056, 2056], "Ecclesiastes_ch_7.docx": [610, 610, 610], "Isaiah_ch_2.docx": [2337, 2700, 2337, 2700, 2337, 2700], "Jeremiah_ch_2.docx": [2133, 2133, 2133], "Hosea_ch_6.docx": [427, 427, 427]}
+sukkia	{"2 Chronicles_ch_12.docx": [316]}
+caring	{"Romans_ch_12.docx": [1272], "Galatians_ch_5.docx": [2801, 2801], "Colossians_ch_3.docx": [1417, 1417], "Hebrews_ch_8.docx": [1483, 1483], "1 Peter_ch_3.docx": [1000, 1000]}
+crac	{"Exodus_ch_16.docx": [4833], "Numbers_ch_11.docx": [876, 876], "1 Kings_ch_13.docx": [864, 864], "Psalms_ch_60.docx": [591, 591], "Proverbs_ch_26.docx": [2056, 2056], "Ecclesiastes_ch_7.docx": [610, 610], "Isaiah_ch_2.docx": [2337, 2700, 2337, 2700], "Jeremiah_ch_2.docx": [2133, 2133], "Hosea_ch_6.docx": [427, 427]}
+sukkia	{"2 Chronicles_ch_12.docx": [316]}
+crac	{"Exodus_ch_16.docx": [4833], "Numbers_ch_11.docx": [876], "1 Kings_ch_13.docx": [864], "Psalms_ch_60.docx": [591], "Proverbs_ch_26.docx": [2056], "Ecclesiastes_ch_7.docx": [610], "Isaiah_ch_2.docx": [2337, 2700], "Jeremiah_ch_2.docx": [2133], "Hosea_ch_6.docx": [427]}
+sukkia	{"2 Chronicles_ch_12.docx": [316]}
+caring	{"Romans_ch_12.docx": [1272], "Galatians_ch_5.docx": [2801], "Colossians_ch_3.docx": [1417], "Hebrews_ch_8.docx": [1483], "1 Peter_ch_3.docx": [1000]}

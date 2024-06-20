@@ -1,0 +1,5 @@
+
+helple	{"Job_ch_29.docx": [1019], "Lamentations_ch_3.docx": [11, 11, 11]}
+helple	{"Job_ch_29.docx": [1019], "Lamentations_ch_3.docx": [11, 11]}
+4‘[g	{"Hosea_ch_13.docx": [509]}
+helple	{"Job_ch_29.docx": [1019], "Lamentations_ch_3.docx": [11]}

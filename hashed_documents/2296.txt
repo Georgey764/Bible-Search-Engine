@@ -1,0 +1,5 @@
+
+lanc	{"Nehemiah_ch_4.docx": [2619], "Job_ch_16.docx": [1199, 1199, 1199], "Job_ch_41.docx": [2299, 2299, 2299], "Ezekiel_ch_26.docx": [1434, 1434, 1434], "Ezekiel_ch_39.docx": [1491, 1491, 1491]}
+19gabe	{"1 Kings_ch_4.docx": [1964]}
+lanc	{"Nehemiah_ch_4.docx": [2619], "Job_ch_16.docx": [1199, 1199], "Job_ch_41.docx": [2299, 2299], "Ezekiel_ch_26.docx": [1434, 1434], "Ezekiel_ch_39.docx": [1491, 1491]}
+lanc	{"Nehemiah_ch_4.docx": [2619], "Job_ch_16.docx": [1199], "Job_ch_41.docx": [2299], "Ezekiel_ch_26.docx": [1434], "Ezekiel_ch_39.docx": [1491]}

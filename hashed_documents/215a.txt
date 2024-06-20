@@ -1,0 +1,8 @@
+
+targe	{"1 Samuel_ch_20.docx": [3099, 5819, 5819, 5819], "Lamentations_ch_3.docx": [974, 974, 974]}
+sharon	{"1 Chronicles_ch_5.docx": [2021], "1 Chronicles_ch_27.docx": [4024, 4028, 4024, 4028, 4024, 4028], "Isaiah_ch_33.docx": [1370, 1370, 1370]}
+targe	{"1 Samuel_ch_20.docx": [3099, 5819, 5819], "Lamentations_ch_3.docx": [974, 974]}
+sharon	{"1 Chronicles_ch_5.docx": [2021], "1 Chronicles_ch_27.docx": [4024, 4028, 4024, 4028], "Isaiah_ch_33.docx": [1370, 1370]}
+25‘to	{"Ecclesiastes_ch_7.docx": [2713]}
+targe	{"1 Samuel_ch_20.docx": [3099, 5819], "Lamentations_ch_3.docx": [974]}
+sharon	{"1 Chronicles_ch_5.docx": [2021], "1 Chronicles_ch_27.docx": [4024, 4028], "Isaiah_ch_33.docx": [1370]}

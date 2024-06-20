@@ -1,0 +1,4 @@
+
+chair	{"Leviticus_ch_15.docx": [3030, 3627, 3627, 3627], "1 Samuel_ch_4.docx": [2220, 3077, 2220, 3077, 2220, 3077], "1 Samuel_ch_20.docx": [3017, 3842, 3017, 3842, 3017, 3842], "1 Samuel_ch_28.docx": [3714, 3714, 3714], "2 Kings_ch_4.docx": [1568, 1568, 1568], "Job_ch_29.docx": [554, 554, 554], "Proverbs_ch_9.docx": [1433, 1433, 1433]}
+chair	{"Leviticus_ch_15.docx": [3030, 3627, 3627], "1 Samuel_ch_4.docx": [2220, 3077, 2220, 3077], "1 Samuel_ch_20.docx": [3017, 3842, 3017, 3842], "1 Samuel_ch_28.docx": [3714, 3714], "2 Kings_ch_4.docx": [1568, 1568], "Job_ch_29.docx": [554, 554], "Proverbs_ch_9.docx": [1433, 1433]}
+chair	{"Leviticus_ch_15.docx": [3030, 3627], "1 Samuel_ch_4.docx": [2220, 3077], "1 Samuel_ch_20.docx": [3017, 3842], "1 Samuel_ch_28.docx": [3714], "2 Kings_ch_4.docx": [1568], "Job_ch_29.docx": [554], "Proverbs_ch_9.docx": [1433]}

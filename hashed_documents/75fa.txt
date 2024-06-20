@@ -1,0 +1,5 @@
+
+libr	{"Ezra_ch_6.docx": [8], "Esther_ch_2.docx": [4259, 4259, 4259]}
+libr	{"Ezra_ch_6.docx": [8], "Esther_ch_2.docx": [4259, 4259]}
+32‘j	{"Jeremiah_ch_7.docx": [5244], "Jeremiah_ch_25.docx": [5328]}
+libr	{"Ezra_ch_6.docx": [8], "Esther_ch_2.docx": [4259]}

@@ -1,0 +1,5 @@
+
+ailom	{"Genesis_ch_36.docx": [168], "Joshua_ch_15.docx": [5158, 5158, 5158], "Joshua_ch_21.docx": [2002, 2002], "Judges_ch_12.docx": [2302, 2311, 2321, 2332, 2302, 2311, 2321, 2332, 2302, 2311, 2321, 2332], "2 Chronicles_ch_11.docx": [926, 926, 926]}
+ailom	{"Genesis_ch_36.docx": [168], "Joshua_ch_15.docx": [5158, 5158], "Judges_ch_12.docx": [2302, 2311, 2321, 2332, 2302, 2311, 2321, 2332], "2 Chronicles_ch_11.docx": [926, 926], "Joshua_ch_21.docx": [2002]}
+52gove	{"1 Chronicles_ch_1.docx": [4414]}
+ailom	{"Genesis_ch_36.docx": [168], "Joshua_ch_15.docx": [5158], "Joshua_ch_21.docx": [2002], "Judges_ch_12.docx": [2302, 2311, 2321, 2332], "2 Chronicles_ch_11.docx": [926]}

@@ -1,0 +1,7 @@
+
+namuel	{"Numbers_ch_26.docx": [914, 1368, 1373, 1368, 1373, 1368, 1373]}
+taxe	{"1 Samuel_ch_17.docx": [3653], "2 Chronicles_ch_10.docx": [2523, 2523, 2523], "Ezra_ch_4.docx": [2141, 3262, 2141, 3262, 2141, 3262], "Nehemiah_ch_5.docx": [391, 391, 391], "Matthew_ch_17.docx": [3083, 3083, 3083], "Luke_ch_20.docx": [2974, 2974], "Luke_ch_23.docx": [148, 148], "Romans_ch_13.docx": [886, 886]}
+namuel	{"Numbers_ch_26.docx": [914, 1368, 1373, 1368, 1373]}
+taxe	{"1 Samuel_ch_17.docx": [3653], "2 Chronicles_ch_10.docx": [2523, 2523], "Ezra_ch_4.docx": [2141, 3262, 2141, 3262], "Nehemiah_ch_5.docx": [391, 391], "Matthew_ch_17.docx": [3083, 3083], "Luke_ch_20.docx": [2974], "Luke_ch_23.docx": [148], "Romans_ch_13.docx": [886]}
+namuel	{"Numbers_ch_26.docx": [914, 1368, 1373]}
+taxe	{"1 Samuel_ch_17.docx": [3653], "2 Chronicles_ch_10.docx": [2523], "Ezra_ch_4.docx": [2141, 3262], "Nehemiah_ch_5.docx": [391], "Matthew_ch_17.docx": [3083], "Luke_ch_20.docx": [2974], "Luke_ch_23.docx": [148], "Romans_ch_13.docx": [886]}

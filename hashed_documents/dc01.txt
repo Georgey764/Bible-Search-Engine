@@ -1,0 +1,4 @@
+
+bawle	{"Genesis_ch_21.docx": [1885], "Numbers_ch_11.docx": [2658, 3144, 2658, 3144, 2658, 3144], "Deuteronomy_ch_1.docx": [6480, 6480, 6480], "Revelation_ch_18.docx": [3384, 3384]}
+bawle	{"Genesis_ch_21.docx": [1885], "Numbers_ch_11.docx": [2658, 3144, 2658, 3144], "Deuteronomy_ch_1.docx": [6480, 6480], "Revelation_ch_18.docx": [3384]}
+bawle	{"Genesis_ch_21.docx": [1885], "Numbers_ch_11.docx": [2658, 3144], "Deuteronomy_ch_1.docx": [6480], "Revelation_ch_18.docx": [3384]}

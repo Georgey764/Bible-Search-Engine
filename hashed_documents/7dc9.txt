@@ -1,0 +1,4 @@
+
+seru	{"Genesis_ch_11.docx": [2455, 2461, 2619, 2461, 2461, 2619], "1 Chronicles_ch_1.docx": [2074, 2074, 2074], "Luke_ch_3.docx": [7041, 7041]}
+seru	{"Genesis_ch_11.docx": [2455, 2461, 2461, 2619], "1 Chronicles_ch_1.docx": [2074, 2074], "Luke_ch_3.docx": [7041]}
+seru	{"Genesis_ch_11.docx": [2455, 2461, 2619], "1 Chronicles_ch_1.docx": [2074], "Luke_ch_3.docx": [7041]}

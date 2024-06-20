@@ -1,0 +1,4 @@
+
+floodg	{"Genesis_ch_7.docx": [1363], "Genesis_ch_8.docx": [50, 50, 50]}
+floodg	{"Genesis_ch_7.docx": [1363], "Genesis_ch_8.docx": [50, 50]}
+floodg	{"Genesis_ch_7.docx": [1363], "Genesis_ch_8.docx": [50]}

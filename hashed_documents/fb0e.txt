@@ -1,0 +1,2 @@
+
+27‘h	{"Numbers_ch_14.docx": [3992], "1 Kings_ch_1.docx": [3797], "1 Kings_ch_8.docx": [4009], "Job_ch_28.docx": [2445], "Daniel_ch_6.docx": [4880], "Daniel_ch_9.docx": [5403]}

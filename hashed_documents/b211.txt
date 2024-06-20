@@ -1,0 +1,4 @@
+
+maro	{"1 Chronicles_ch_4.docx": [1891, 2110, 2110, 2110]}
+maro	{"1 Chronicles_ch_4.docx": [1891, 2110, 2110]}
+maro	{"1 Chronicles_ch_4.docx": [1891, 2110]}

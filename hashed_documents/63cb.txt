@@ -1,0 +1,4 @@
+
+gethit	{"2 Samuel_ch_15.docx": [2593, 2774, 3410, 2774, 3410, 2774, 3410], "2 Samuel_ch_18.docx": [303, 303, 303]}
+gethit	{"2 Samuel_ch_15.docx": [2593, 2774, 3410, 2774, 3410], "2 Samuel_ch_18.docx": [303, 303]}
+gethit	{"2 Samuel_ch_15.docx": [2593, 2774, 3410], "2 Samuel_ch_18.docx": [303]}

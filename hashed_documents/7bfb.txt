@@ -1,0 +1,4 @@
+
+abat	{"Genesis_ch_8.docx": [684], "2 Samuel_ch_13.docx": [5974, 5974, 5974]}
+abat	{"Genesis_ch_8.docx": [684], "2 Samuel_ch_13.docx": [5974, 5974]}
+abat	{"Genesis_ch_8.docx": [684], "2 Samuel_ch_13.docx": [5974]}

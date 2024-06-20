@@ -1,0 +1,4 @@
+
+jeroha	{"1 Chronicles_ch_8.docx": [1614], "1 Chronicles_ch_12.docx": [828, 828, 828], "Nehemiah_ch_11.docx": [1845, 1845, 1845]}
+jeroha	{"1 Chronicles_ch_8.docx": [1614], "1 Chronicles_ch_12.docx": [828, 828], "Nehemiah_ch_11.docx": [1845, 1845]}
+jeroha	{"1 Chronicles_ch_8.docx": [1614], "1 Chronicles_ch_12.docx": [828], "Nehemiah_ch_11.docx": [1845]}

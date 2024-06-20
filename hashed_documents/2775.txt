@@ -1,0 +1,6 @@
+
+renn	{"Joshua_ch_15.docx": [5543]}
+besa	{"Joshua_ch_18.docx": [3330], "Ezra_ch_2.docx": [1988, 1988, 1988], "Nehemiah_ch_7.docx": [3022, 3022, 3022]}
+besa	{"Joshua_ch_18.docx": [3330], "Ezra_ch_2.docx": [1988, 1988], "Nehemiah_ch_7.docx": [3022, 3022]}
+renn	{"Joshua_ch_15.docx": [5543]}
+besa	{"Joshua_ch_18.docx": [3330], "Ezra_ch_2.docx": [1988], "Nehemiah_ch_7.docx": [3022]}

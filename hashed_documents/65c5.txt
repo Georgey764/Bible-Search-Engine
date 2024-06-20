@@ -1,0 +1,5 @@
+
+death;	{"Job_ch_5.docx": [1783], "Job_ch_15.docx": [3244, 3244, 3244], "Proverbs_ch_16.docx": [1344, 1344, 1344], "Proverbs_ch_21.docx": [2745, 2745, 2745], "Ecclesiastes_ch_3.docx": [98, 98, 98], "Acts_ch_25.docx": [7770, 7770]}
+40next	{"1 Kings_ch_7.docx": [5293]}
+death;	{"Job_ch_5.docx": [1783], "Job_ch_15.docx": [3244, 3244], "Proverbs_ch_16.docx": [1344, 1344], "Proverbs_ch_21.docx": [2745, 2745], "Ecclesiastes_ch_3.docx": [98, 98], "Acts_ch_25.docx": [7770]}
+death;	{"Job_ch_5.docx": [1783], "Job_ch_15.docx": [3244], "Proverbs_ch_16.docx": [1344], "Proverbs_ch_21.docx": [2745], "Ecclesiastes_ch_3.docx": [98], "Acts_ch_25.docx": [7770]}

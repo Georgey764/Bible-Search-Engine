@@ -1,0 +1,4 @@
+
+incin	{"Leviticus_ch_7.docx": [2339, 2644, 2644, 2644], "2 Kings_ch_23.docx": [1231, 2721, 3699, 4913, 1231, 2721, 3699, 4913, 1231, 2721, 3699, 4913], "2 Chronicles_ch_15.docx": [2393, 2393, 2393], "2 Chronicles_ch_34.docx": [748, 748, 748]}
+incin	{"Leviticus_ch_7.docx": [2339, 2644, 2644], "2 Kings_ch_23.docx": [1231, 2721, 3699, 4913, 1231, 2721, 3699, 4913], "2 Chronicles_ch_15.docx": [2393, 2393], "2 Chronicles_ch_34.docx": [748, 748]}
+incin	{"Leviticus_ch_7.docx": [2339, 2644], "2 Kings_ch_23.docx": [1231, 2721, 3699, 4913], "2 Chronicles_ch_15.docx": [2393], "2 Chronicles_ch_34.docx": [748]}

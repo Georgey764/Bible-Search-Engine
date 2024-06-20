@@ -1,0 +1,4 @@
+
+slay!	{"Ezekiel_ch_21.docx": [1465, 2573, 2573, 2573]}
+slay!	{"Ezekiel_ch_21.docx": [1465, 2573, 2573]}
+slay!	{"Ezekiel_ch_21.docx": [1465, 2573]}

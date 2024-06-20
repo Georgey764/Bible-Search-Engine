@@ -1,0 +1,7 @@
+
+infe	{"Exodus_ch_23.docx": [3624], "Leviticus_ch_14.docx": [5992, 5992, 5992], "1 Kings_ch_8.docx": [5880, 5880, 5880], "2 Kings_ch_20.docx": [10, 10, 10], "2 Chronicles_ch_6.docx": [4795, 4795, 4795], "Daniel_ch_2.docx": [6719, 6719, 6719], "John_ch_2.docx": [980, 980], "2 Corinthians_ch_11.docx": [758, 773, 758, 773]}
+hair;	{"Leviticus_ch_13.docx": [4518, 5757, 5757, 5757]}
+infe	{"Exodus_ch_23.docx": [3624], "Leviticus_ch_14.docx": [5992, 5992], "1 Kings_ch_8.docx": [5880, 5880], "2 Kings_ch_20.docx": [10, 10], "2 Chronicles_ch_6.docx": [4795, 4795], "Daniel_ch_2.docx": [6719, 6719], "John_ch_2.docx": [980], "2 Corinthians_ch_11.docx": [758, 773]}
+hair;	{"Leviticus_ch_13.docx": [4518, 5757, 5757]}
+infe	{"Exodus_ch_23.docx": [3624], "Leviticus_ch_14.docx": [5992], "1 Kings_ch_8.docx": [5880], "2 Kings_ch_20.docx": [10], "2 Chronicles_ch_6.docx": [4795], "Daniel_ch_2.docx": [6719], "John_ch_2.docx": [980], "2 Corinthians_ch_11.docx": [758, 773]}
+hair;	{"Leviticus_ch_13.docx": [4518, 5757]}

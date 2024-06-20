@@ -1,0 +1,4 @@
+
+reces	{"2 Chronicles_ch_7.docx": [1452], "Ezekiel_ch_43.docx": [2559, 2559, 2559]}
+reces	{"2 Chronicles_ch_7.docx": [1452], "Ezekiel_ch_43.docx": [2559, 2559]}
+reces	{"2 Chronicles_ch_7.docx": [1452], "Ezekiel_ch_43.docx": [2559]}

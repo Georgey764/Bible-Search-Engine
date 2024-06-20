@@ -1,0 +1,8 @@
+
+medan	{"1 Chronicles_ch_1.docx": [2515]}
+thil	{"1 Chronicles_ch_4.docx": [2344]}
+medan	{"1 Chronicles_ch_1.docx": [2515]}
+thil	{"1 Chronicles_ch_4.docx": [2344]}
+1thr	{"Psalms_ch_34.docx": [139]}
+medan	{"1 Chronicles_ch_1.docx": [2515]}
+thil	{"1 Chronicles_ch_4.docx": [2344]}

@@ -1,0 +1,4 @@
+
+unferm	{"Leviticus_ch_7.docx": [1440, 1659, 1659, 1659], "Ezekiel_ch_45.docx": [4115, 4115, 4115], "1 Corinthians_ch_5.docx": [841, 875, 841, 875]}
+unferm	{"Leviticus_ch_7.docx": [1440, 1659, 1659], "Ezekiel_ch_45.docx": [4115, 4115], "1 Corinthians_ch_5.docx": [841, 875]}
+unferm	{"Leviticus_ch_7.docx": [1440, 1659], "Ezekiel_ch_45.docx": [4115], "1 Corinthians_ch_5.docx": [841, 875]}

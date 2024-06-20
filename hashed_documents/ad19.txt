@@ -1,0 +1,7 @@
+
+homela	{"Numbers_ch_35.docx": [3724], "Ezekiel_ch_20.docx": [6532, 6532, 6532]}
+engine	{"2 Chronicles_ch_26.docx": [2094]}
+homela	{"Numbers_ch_35.docx": [3724], "Ezekiel_ch_20.docx": [6532, 6532]}
+engine	{"2 Chronicles_ch_26.docx": [2094]}
+homela	{"Numbers_ch_35.docx": [3724], "Ezekiel_ch_20.docx": [6532]}
+engine	{"2 Chronicles_ch_26.docx": [2094]}

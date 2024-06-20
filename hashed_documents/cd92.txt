@@ -1,0 +1,3 @@
+
+crisp	{"Acts_ch_18.docx": [3057, 3077, 3098, 3077, 3098], "1 Corinthians_ch_1.docx": [1786, 1786]}
+crisp	{"Acts_ch_18.docx": [3057, 3077, 3098], "1 Corinthians_ch_1.docx": [1786]}

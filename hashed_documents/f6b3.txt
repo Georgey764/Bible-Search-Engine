@@ -1,0 +1,6 @@
+
+obed	{"1 Chronicles_ch_8.docx": [823], "1 Chronicles_ch_11.docx": [6607]}
+22they	{"Numbers_ch_13.docx": [1820], "Joshua_ch_19.docx": [1674], "1 Chronicles_ch_12.docx": [2897], "Isaiah_ch_24.docx": [3459]}
+obed	{"1 Chronicles_ch_8.docx": [823], "1 Chronicles_ch_11.docx": [6607]}
+1‘don’	{"Matthew_ch_7.docx": [6]}
+obed	{"1 Chronicles_ch_8.docx": [823], "1 Chronicles_ch_11.docx": [6607]}

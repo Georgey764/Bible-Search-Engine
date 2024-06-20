@@ -1,0 +1,4 @@
+
+face-t	{"Numbers_ch_14.docx": [1910], "2 Kings_ch_14.docx": [1285, 1285, 1285], "2 Chronicles_ch_13.docx": [799, 799, 799], "2 Chronicles_ch_25.docx": [3027, 3027, 3027], "Acts_ch_25.docx": [5580, 5580]}
+face-t	{"Numbers_ch_14.docx": [1910], "2 Kings_ch_14.docx": [1285, 1285], "2 Chronicles_ch_13.docx": [799, 799], "2 Chronicles_ch_25.docx": [3027, 3027], "Acts_ch_25.docx": [5580]}
+face-t	{"Numbers_ch_14.docx": [1910], "2 Kings_ch_14.docx": [1285], "2 Chronicles_ch_13.docx": [799], "2 Chronicles_ch_25.docx": [3027], "Acts_ch_25.docx": [5580]}

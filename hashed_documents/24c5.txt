@@ -1,0 +1,8 @@
+
+are;	{"Isaiah_ch_33.docx": [2222], "Luke_ch_4.docx": [4930, 4930]}
+yew	{"Jeremiah_ch_46.docx": [2323], "Nahum_ch_1.docx": [2128, 2128, 2128]}
+26,000	{"1 Chronicles_ch_7.docx": [4573]}
+are;	{"Isaiah_ch_33.docx": [2222], "Luke_ch_4.docx": [4930]}
+yew	{"Jeremiah_ch_46.docx": [2323], "Nahum_ch_1.docx": [2128, 2128]}
+are;	{"Isaiah_ch_33.docx": [2222], "Luke_ch_4.docx": [4930]}
+yew	{"Jeremiah_ch_46.docx": [2323], "Nahum_ch_1.docx": [2128]}

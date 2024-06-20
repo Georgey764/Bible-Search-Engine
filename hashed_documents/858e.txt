@@ -1,0 +1,3 @@
+
+richl	{"Colossians_ch_3.docx": [1934], "2 Peter_ch_1.docx": [1713, 1713], "Revelation_ch_18.docx": [2905, 2905]}
+richl	{"Colossians_ch_3.docx": [1934], "2 Peter_ch_1.docx": [1713], "Revelation_ch_18.docx": [2905]}

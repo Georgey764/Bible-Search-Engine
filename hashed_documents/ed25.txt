@@ -1,0 +1,5 @@
+
+salab	{"2 Samuel_ch_23.docx": [4619], "1 Kings_ch_4.docx": [931, 931, 931]}
+39one	{"Exodus_ch_29.docx": [5295]}
+salab	{"2 Samuel_ch_23.docx": [4619], "1 Kings_ch_4.docx": [931, 931]}
+salab	{"2 Samuel_ch_23.docx": [4619], "1 Kings_ch_4.docx": [931]}

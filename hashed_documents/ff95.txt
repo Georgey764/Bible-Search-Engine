@@ -1,0 +1,4 @@
+
+whispe	{"2 Samuel_ch_12.docx": [3197], "Psalms_ch_41.docx": [697, 697, 697], "Ecclesiastes_ch_10.docx": [1126, 1126, 1126], "Matthew_ch_10.docx": [3487, 3487, 3487], "Luke_ch_12.docx": [438, 438], "2 Corinthians_ch_12.docx": [3378, 3378]}
+whispe	{"2 Samuel_ch_12.docx": [3197], "Psalms_ch_41.docx": [697, 697], "Ecclesiastes_ch_10.docx": [1126, 1126], "Matthew_ch_10.docx": [3487, 3487], "Luke_ch_12.docx": [438], "2 Corinthians_ch_12.docx": [3378]}
+whispe	{"2 Samuel_ch_12.docx": [3197], "Psalms_ch_41.docx": [697], "Ecclesiastes_ch_10.docx": [1126], "Matthew_ch_10.docx": [3487], "Luke_ch_12.docx": [438], "2 Corinthians_ch_12.docx": [3378]}

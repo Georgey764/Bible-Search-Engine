@@ -1,0 +1,4 @@
+
+painte	{"Jeremiah_ch_22.docx": [2471], "Ezekiel_ch_8.docx": [1681, 1681, 1681], "Ezekiel_ch_23.docx": [2118, 6703, 2118, 6703, 2118, 6703]}
+painte	{"Jeremiah_ch_22.docx": [2471], "Ezekiel_ch_8.docx": [1681, 1681], "Ezekiel_ch_23.docx": [2118, 6703, 2118, 6703]}
+painte	{"Jeremiah_ch_22.docx": [2471], "Ezekiel_ch_8.docx": [1681], "Ezekiel_ch_23.docx": [2118, 6703]}

@@ -1,0 +1,4 @@
+
+tranc	{"Genesis_ch_2.docx": [2873], "Genesis_ch_15.docx": [1508, 1508, 1508], "Acts_ch_10.docx": [1052, 1052], "Acts_ch_11.docx": [645, 645], "Acts_ch_22.docx": [4142, 4142]}
+tranc	{"Genesis_ch_2.docx": [2873], "Genesis_ch_15.docx": [1508, 1508], "Acts_ch_10.docx": [1052], "Acts_ch_11.docx": [645], "Acts_ch_22.docx": [4142]}
+tranc	{"Genesis_ch_2.docx": [2873], "Genesis_ch_15.docx": [1508], "Acts_ch_10.docx": [1052], "Acts_ch_11.docx": [645], "Acts_ch_22.docx": [4142]}

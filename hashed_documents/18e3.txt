@@ -1,0 +1,6 @@
+
+elioh	{"1 Chronicles_ch_15.docx": [2303]}
+20o	{"1 Chronicles_ch_2.docx": [1694], "Job_ch_31.docx": [1765], "Psalms_ch_73.docx": [1712], "Psalms_ch_135.docx": [1624], "Proverbs_ch_4.docx": [1863], "Proverbs_ch_6.docx": [2021]}
+elioh	{"1 Chronicles_ch_15.docx": [2303]}
+1‘sinc	{"Job_ch_10.docx": [6], "Daniel_ch_11.docx": [189]}
+elioh	{"1 Chronicles_ch_15.docx": [2303]}

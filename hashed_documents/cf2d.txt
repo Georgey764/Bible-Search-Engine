@@ -1,0 +1,4 @@
+
+anchus	{"1 Kings_ch_2.docx": [7244, 7270, 7270, 7270]}
+anchus	{"1 Kings_ch_2.docx": [7244, 7270, 7270]}
+anchus	{"1 Kings_ch_2.docx": [7244, 7270]}

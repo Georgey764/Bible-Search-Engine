@@ -1,0 +1,4 @@
+
+forete	{"Genesis_ch_44.docx": [612], "Deuteronomy_ch_13.docx": [22, 35, 22, 35, 22, 35], "2 Kings_ch_23.docx": [4343, 4343, 4343], "Ecclesiastes_ch_8.docx": [614, 614, 614], "Amos_ch_2.docx": [3474, 3474, 3474]}
+forete	{"Genesis_ch_44.docx": [612], "Deuteronomy_ch_13.docx": [22, 35, 22, 35], "2 Kings_ch_23.docx": [4343, 4343], "Ecclesiastes_ch_8.docx": [614, 614], "Amos_ch_2.docx": [3474, 3474]}
+forete	{"Genesis_ch_44.docx": [612], "Deuteronomy_ch_13.docx": [22, 35], "2 Kings_ch_23.docx": [4343], "Ecclesiastes_ch_8.docx": [614], "Amos_ch_2.docx": [3474]}

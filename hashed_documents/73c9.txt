@@ -1,0 +1,9 @@
+
+regma	{"Joshua_ch_15.docx": [3886], "1 Chronicles_ch_1.docx": [547, 573, 547, 573, 547, 573]}
+plots	{"2 Samuel_ch_19.docx": [3775], "2 Kings_ch_15.docx": [1987, 1987, 1987], "Psalms_ch_33.docx": [812, 812, 812], "Hosea_ch_7.docx": [2937, 2937, 2937], "Acts_ch_20.docx": [7040, 7040]}
+10[yo	{"Genesis_ch_41.docx": [1125]}
+regma	{"Joshua_ch_15.docx": [3886], "1 Chronicles_ch_1.docx": [547, 573, 547, 573]}
+7it’s	{"1 Samuel_ch_2.docx": [954], "Proverbs_ch_16.docx": [720], "Proverbs_ch_25.docx": [502]}
+plots	{"2 Samuel_ch_19.docx": [3775], "2 Kings_ch_15.docx": [1987, 1987], "Psalms_ch_33.docx": [812, 812], "Hosea_ch_7.docx": [2937, 2937], "Acts_ch_20.docx": [7040]}
+regma	{"Joshua_ch_15.docx": [3886], "1 Chronicles_ch_1.docx": [547, 573]}
+plots	{"2 Samuel_ch_19.docx": [3775], "2 Kings_ch_15.docx": [1987], "Psalms_ch_33.docx": [812], "Hosea_ch_7.docx": [2937], "Acts_ch_20.docx": [7040]}

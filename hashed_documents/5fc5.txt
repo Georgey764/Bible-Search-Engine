@@ -1,0 +1,4 @@
+
+oils	{"Ruth_ch_3.docx": [218], "2 Kings_ch_20.docx": [1883, 1883, 1883], "1 Chronicles_ch_9.docx": [4381, 4381, 4381], "Esther_ch_2.docx": [2438, 2438, 2438], "Song of Solomon_ch_1.docx": [1689, 1689, 1689], "Song of Solomon_ch_2.docx": [490, 490, 490]}
+oils	{"Ruth_ch_3.docx": [218], "2 Kings_ch_20.docx": [1883, 1883], "1 Chronicles_ch_9.docx": [4381, 4381], "Esther_ch_2.docx": [2438, 2438], "Song of Solomon_ch_1.docx": [1689, 1689], "Song of Solomon_ch_2.docx": [490, 490]}
+oils	{"Ruth_ch_3.docx": [218], "2 Kings_ch_20.docx": [1883], "1 Chronicles_ch_9.docx": [4381], "Esther_ch_2.docx": [2438], "Song of Solomon_ch_1.docx": [1689], "Song of Solomon_ch_2.docx": [490]}

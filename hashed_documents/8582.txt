@@ -1,0 +1,5 @@
+
+confis	{"Genesis_ch_43.docx": [2404], "Ezra_ch_6.docx": [628, 628, 628], "Hebrews_ch_10.docx": [4751, 4751]}
+confis	{"Genesis_ch_43.docx": [2404], "Ezra_ch_6.docx": [628, 628], "Hebrews_ch_10.docx": [4751]}
+8‘[th	{"Exodus_ch_27.docx": [762], "Leviticus_ch_4.docx": [1066], "Numbers_ch_3.docx": [882], "Micah_ch_2.docx": [1342]}
+confis	{"Genesis_ch_43.docx": [2404], "Ezra_ch_6.docx": [628], "Hebrews_ch_10.docx": [4751]}

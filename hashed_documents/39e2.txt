@@ -1,0 +1,2 @@
+
+40the	{"Genesis_ch_30.docx": [5027], "Genesis_ch_36.docx": [4152], "Exodus_ch_39.docx": [4707], "Leviticus_ch_14.docx": [5986], "Numbers_ch_3.docx": [4825], "Numbers_ch_14.docx": [5657], "Numbers_ch_22.docx": [5582], "Joshua_ch_10.docx": [13269], "Joshua_ch_19.docx": [3265], "1 Samuel_ch_14.docx": [6475], "1 Samuel_ch_20.docx": [6224], "1 Chronicles_ch_7.docx": [4531], "1 Chronicles_ch_8.docx": [2808], "1 Chronicles_ch_9.docx": [5555], "Ezra_ch_2.docx": [1523], "Nehemiah_ch_7.docx": [2479], "Psalms_ch_78.docx": [3960]}

@@ -1,0 +1,4 @@
+
+ento	{"Judges_ch_8.docx": [6273, 6299, 6326, 6299, 6326, 6299, 6326], "1 Samuel_ch_25.docx": [19, 19, 19], "1 Kings_ch_2.docx": [1789, 1789, 1789], "Jeremiah_ch_16.docx": [414, 414, 414], "Jeremiah_ch_20.docx": [1155, 1155, 1155]}
+ento	{"Judges_ch_8.docx": [6273, 6299, 6326, 6299, 6326], "1 Samuel_ch_25.docx": [19, 19], "1 Kings_ch_2.docx": [1789, 1789], "Jeremiah_ch_16.docx": [414, 414], "Jeremiah_ch_20.docx": [1155, 1155]}
+ento	{"Judges_ch_8.docx": [6273, 6299, 6326], "1 Samuel_ch_25.docx": [19], "1 Kings_ch_2.docx": [1789], "Jeremiah_ch_16.docx": [414], "Jeremiah_ch_20.docx": [1155]}

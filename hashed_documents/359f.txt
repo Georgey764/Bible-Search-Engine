@@ -1,0 +1,2 @@
+
+4‘now	{"Deuteronomy_ch_9.docx": [630], "Joshua_ch_18.docx": [420], "Joshua_ch_23.docx": [434], "Judges_ch_13.docx": [570], "Job_ch_11.docx": [298], "Job_ch_16.docx": [243], "Job_ch_23.docx": [302], "Lamentations_ch_4.docx": [546], "Ezekiel_ch_29.docx": [473], "Hosea_ch_7.docx": [637]}

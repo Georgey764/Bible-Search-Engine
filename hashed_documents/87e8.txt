@@ -1,0 +1,4 @@
+
+divini	{"Acts_ch_16.docx": [5418], "Colossians_ch_2.docx": [1756, 1756]}
+26i’m	{"Job_ch_3.docx": [2454], "Job_ch_30.docx": [2541]}
+divini	{"Acts_ch_16.docx": [5418], "Colossians_ch_2.docx": [1756]}

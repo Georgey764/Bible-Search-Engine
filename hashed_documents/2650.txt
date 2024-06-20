@@ -1,0 +1,7 @@
+
+myrtle	{"Nehemiah_ch_8.docx": [3720], "Isaiah_ch_41.docx": [3336, 3336, 3336], "Isaiah_ch_55.docx": [2244, 2244, 2244]}
+gullib	{"Proverbs_ch_14.docx": [1268]}
+myrtle	{"Nehemiah_ch_8.docx": [3720], "Isaiah_ch_41.docx": [3336, 3336], "Isaiah_ch_55.docx": [2244, 2244]}
+gullib	{"Proverbs_ch_14.docx": [1268]}
+myrtle	{"Nehemiah_ch_8.docx": [3720], "Isaiah_ch_41.docx": [3336], "Isaiah_ch_55.docx": [2244]}
+gullib	{"Proverbs_ch_14.docx": [1268]}

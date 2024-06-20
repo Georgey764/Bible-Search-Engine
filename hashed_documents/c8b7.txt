@@ -1,0 +1,5 @@
+
+erred	{"Numbers_ch_5.docx": [612], "Isaiah_ch_44.docx": [3296, 3296, 3296]}
+erred	{"Numbers_ch_5.docx": [612], "Isaiah_ch_44.docx": [3296, 3296]}
+9‘{	{"Isaiah_ch_50.docx": [1754], "Ezekiel_ch_36.docx": [1764]}
+erred	{"Numbers_ch_5.docx": [612], "Isaiah_ch_44.docx": [3296]}

@@ -1,0 +1,4 @@
+
+imagi	{"Genesis_ch_8.docx": [2749], "Numbers_ch_15.docx": [4979, 4979, 4979], "Job_ch_34.docx": [1025, 1025, 1025], "Jeremiah_ch_46.docx": [3807, 3807, 3807], "Colossians_ch_2.docx": [3105, 3105]}
+imagi	{"Genesis_ch_8.docx": [2749], "Numbers_ch_15.docx": [4979, 4979], "Job_ch_34.docx": [1025, 1025], "Jeremiah_ch_46.docx": [3807, 3807], "Colossians_ch_2.docx": [3105]}
+imagi	{"Genesis_ch_8.docx": [2749], "Numbers_ch_15.docx": [4979], "Job_ch_34.docx": [1025], "Jeremiah_ch_46.docx": [3807], "Colossians_ch_2.docx": [3105]}

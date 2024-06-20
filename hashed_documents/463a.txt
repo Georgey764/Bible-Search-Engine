@@ -1,0 +1,3 @@
+
+theop	{"Luke_ch_1.docx": [73], "Acts_ch_1.docx": [5, 5]}
+theop	{"Luke_ch_1.docx": [73], "Acts_ch_1.docx": [5]}

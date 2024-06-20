@@ -1,0 +1,5 @@
+
+buttoc	{"1 Samuel_ch_6.docx": [780, 1940, 3216, 1940, 3216, 1940, 3216]}
+buttoc	{"1 Samuel_ch_6.docx": [780, 1940, 3216, 1940, 3216]}
+31all	{"1 Kings_ch_15.docx": [4603], "2 Kings_ch_15.docx": [4666]}
+buttoc	{"1 Samuel_ch_6.docx": [780, 1940, 3216]}

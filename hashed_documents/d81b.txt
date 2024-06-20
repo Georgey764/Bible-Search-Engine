@@ -1,0 +1,6 @@
+
+enca	{"Numbers_ch_9.docx": [2363], "Ezekiel_ch_43.docx": [949, 949, 949], "Revelation_ch_13.docx": [824, 824]}
+uneven	{"2 Corinthians_ch_6.docx": [1613]}
+enca	{"Numbers_ch_9.docx": [2363], "Ezekiel_ch_43.docx": [949, 949], "Revelation_ch_13.docx": [824]}
+enca	{"Numbers_ch_9.docx": [2363], "Ezekiel_ch_43.docx": [949], "Revelation_ch_13.docx": [824]}
+uneven	{"2 Corinthians_ch_6.docx": [1613]}

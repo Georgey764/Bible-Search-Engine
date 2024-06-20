@@ -1,0 +1,4 @@
+
+aci	{"2 Samuel_ch_23.docx": [4711], "1 Kings_ch_4.docx": [506, 506]}
+aci	{"2 Samuel_ch_23.docx": [4711], "1 Kings_ch_4.docx": [506]}
+aci	{"2 Samuel_ch_23.docx": [4711], "1 Kings_ch_4.docx": [506]}

@@ -1,0 +1,4 @@
+
+kariat	{"Numbers_ch_32.docx": [5124], "Joshua_ch_15.docx": [6343, 6343, 6343], "Joshua_ch_18.docx": [2223, 2223, 2223]}
+kariat	{"Numbers_ch_32.docx": [5124], "Joshua_ch_15.docx": [6343, 6343], "Joshua_ch_18.docx": [2223, 2223]}
+kariat	{"Numbers_ch_32.docx": [5124], "Joshua_ch_15.docx": [6343], "Joshua_ch_18.docx": [2223]}

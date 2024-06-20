@@ -1,0 +1,10 @@
+
+cunni	{"Genesis_ch_34.docx": [1581], "Jeremiah_ch_48.docx": [3453, 3453, 3453], "1 Corinthians_ch_3.docx": [2363, 2363], "2 Corinthians_ch_11.docx": [286, 286], "Ephesians_ch_4.docx": [1549, 1576, 1549, 1576]}
+soi	{"Ezekiel_ch_17.docx": [1232], "Matthew_ch_13.docx": [426, 711, 3003, 426, 711, 3003, 426, 711, 3003], "Mark_ch_4.docx": [541, 789, 2163, 541, 789, 2163], "Luke_ch_8.docx": [967, 2096, 967, 2096], "Luke_ch_14.docx": [4447, 4447]}
+horn;	{"Ezekiel_ch_33.docx": [410]}
+cunni	{"Genesis_ch_34.docx": [1581], "Jeremiah_ch_48.docx": [3453, 3453], "1 Corinthians_ch_3.docx": [2363], "2 Corinthians_ch_11.docx": [286], "Ephesians_ch_4.docx": [1549, 1576]}
+soi	{"Ezekiel_ch_17.docx": [1232], "Matthew_ch_13.docx": [426, 711, 3003, 426, 711, 3003], "Mark_ch_4.docx": [541, 789, 2163], "Luke_ch_8.docx": [967, 2096], "Luke_ch_14.docx": [4447]}
+horn;	{"Ezekiel_ch_33.docx": [410]}
+cunni	{"Genesis_ch_34.docx": [1581], "Jeremiah_ch_48.docx": [3453], "1 Corinthians_ch_3.docx": [2363], "2 Corinthians_ch_11.docx": [286], "Ephesians_ch_4.docx": [1549, 1576]}
+soi	{"Ezekiel_ch_17.docx": [1232], "Matthew_ch_13.docx": [426, 711, 3003], "Mark_ch_4.docx": [541, 789, 2163], "Luke_ch_8.docx": [967, 2096], "Luke_ch_14.docx": [4447]}
+horn;	{"Ezekiel_ch_33.docx": [410]}

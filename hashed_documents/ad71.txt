@@ -1,0 +1,4 @@
+
+bad!	{"Psalms_ch_36.docx": [467], "Psalms_ch_97.docx": [945, 945, 945], "Proverbs_ch_20.docx": [2076, 2076, 2076], "Jeremiah_ch_30.docx": [2333, 2333, 2333], "Jeremiah_ch_42.docx": [831, 831, 831], "Jeremiah_ch_44.docx": [3378, 3378, 3378], "Micah_ch_2.docx": [1618, 1618, 1618]}
+bad!	{"Psalms_ch_36.docx": [467], "Psalms_ch_97.docx": [945, 945], "Proverbs_ch_20.docx": [2076, 2076], "Jeremiah_ch_30.docx": [2333, 2333], "Jeremiah_ch_42.docx": [831, 831], "Jeremiah_ch_44.docx": [3378, 3378], "Micah_ch_2.docx": [1618, 1618]}
+bad!	{"Psalms_ch_36.docx": [467], "Psalms_ch_97.docx": [945], "Proverbs_ch_20.docx": [2076], "Jeremiah_ch_30.docx": [2333], "Jeremiah_ch_42.docx": [831], "Jeremiah_ch_44.docx": [3378], "Micah_ch_2.docx": [1618]}

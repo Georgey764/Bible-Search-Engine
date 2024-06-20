@@ -1,0 +1,7 @@
+
+jonn	{"2 Samuel_ch_1.docx": [3618]}
+means!	{"Ezekiel_ch_20.docx": [8892], "Daniel_ch_2.docx": [363, 363, 363], "Daniel_ch_4.docx": [3109, 3109, 3109], "Daniel_ch_5.docx": [2824, 2824, 2824]}
+jonn	{"2 Samuel_ch_1.docx": [3618]}
+means!	{"Ezekiel_ch_20.docx": [8892], "Daniel_ch_2.docx": [363, 363], "Daniel_ch_4.docx": [3109, 3109], "Daniel_ch_5.docx": [2824, 2824]}
+jonn	{"2 Samuel_ch_1.docx": [3618]}
+means!	{"Ezekiel_ch_20.docx": [8892], "Daniel_ch_2.docx": [363], "Daniel_ch_4.docx": [3109], "Daniel_ch_5.docx": [2824]}

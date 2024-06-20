@@ -1,0 +1,5 @@
+
+adama	{"Genesis_ch_10.docx": [2149], "Genesis_ch_14.docx": [277, 1052, 277, 1052, 277, 1052], "Deuteronomy_ch_29.docx": [3229, 3229, 3229], "Isaiah_ch_15.docx": [1524, 1524, 1524]}
+adama	{"Genesis_ch_10.docx": [2149], "Genesis_ch_14.docx": [277, 1052, 277, 1052], "Deuteronomy_ch_29.docx": [3229, 3229], "Isaiah_ch_15.docx": [1524, 1524]}
+33sin	{"2 Samuel_ch_22.docx": [3156]}
+adama	{"Genesis_ch_10.docx": [2149], "Genesis_ch_14.docx": [277, 1052], "Deuteronomy_ch_29.docx": [3229], "Isaiah_ch_15.docx": [1524]}

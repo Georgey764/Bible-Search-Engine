@@ -1,0 +1,4 @@
+
+harme	{"Numbers_ch_16.docx": [2185], "Job_ch_24.docx": [2556, 2556, 2556], "Job_ch_41.docx": [2303, 2303, 2303], "Proverbs_ch_10.docx": [2468, 2468, 2468], "Ecclesiastes_ch_10.docx": [924, 924, 924], "Daniel_ch_6.docx": [3916, 3916, 3916], "Luke_ch_21.docx": [2024, 2024], "Revelation_ch_2.docx": [1852, 1852]}
+harme	{"Numbers_ch_16.docx": [2185], "Job_ch_24.docx": [2556, 2556], "Job_ch_41.docx": [2303, 2303], "Proverbs_ch_10.docx": [2468, 2468], "Ecclesiastes_ch_10.docx": [924, 924], "Daniel_ch_6.docx": [3916, 3916], "Luke_ch_21.docx": [2024], "Revelation_ch_2.docx": [1852]}
+harme	{"Numbers_ch_16.docx": [2185], "Job_ch_24.docx": [2556], "Job_ch_41.docx": [2303], "Proverbs_ch_10.docx": [2468], "Ecclesiastes_ch_10.docx": [924], "Daniel_ch_6.docx": [3916], "Luke_ch_21.docx": [2024], "Revelation_ch_2.docx": [1852]}

@@ -1,0 +1,4 @@
+
+gus	{"Numbers_ch_20.docx": [1545], "Proverbs_ch_3.docx": [937, 937, 937], "Proverbs_ch_8.docx": [2187, 2187, 2187]}
+gus	{"Numbers_ch_20.docx": [1545], "Proverbs_ch_3.docx": [937, 937], "Proverbs_ch_8.docx": [2187, 2187]}
+gus	{"Numbers_ch_20.docx": [1545], "Proverbs_ch_3.docx": [937], "Proverbs_ch_8.docx": [2187]}

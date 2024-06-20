@@ -1,0 +1,4 @@
+
+rudder	{"Acts_ch_27.docx": [5384], "James_ch_3.docx": [411, 411]}
+9i’ve	{"Psalms_ch_122.docx": [695]}
+rudder	{"Acts_ch_27.docx": [5384], "James_ch_3.docx": [411]}

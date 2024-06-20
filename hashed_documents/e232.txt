@@ -1,0 +1,4 @@
+
+oboth	{"Numbers_ch_21.docx": [1564, 1633, 1633, 1633], "Numbers_ch_33.docx": [3228, 3272, 3228, 3272, 3228, 3272]}
+oboth	{"Numbers_ch_21.docx": [1564, 1633, 1633], "Numbers_ch_33.docx": [3228, 3272, 3228, 3272]}
+oboth	{"Numbers_ch_21.docx": [1564, 1633], "Numbers_ch_33.docx": [3228, 3272]}

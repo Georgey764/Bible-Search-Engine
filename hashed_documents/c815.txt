@@ -1,0 +1,5 @@
+
+wondr	{"Psalms_ch_40.docx": [564], "Psalms_ch_78.docx": [389, 389, 389], "Psalms_ch_119.docx": [1319, 10750, 1319, 1319, 10750], "Psalms_ch_136.docx": [671, 671, 671], "Daniel_ch_8.docx": [3624, 3624, 3624]}
+65and	{"Genesis_ch_24.docx": [9558]}
+wondr	{"Psalms_ch_40.docx": [564], "Psalms_ch_78.docx": [389, 389], "Psalms_ch_119.docx": [1319, 1319, 10750], "Psalms_ch_136.docx": [671, 671], "Daniel_ch_8.docx": [3624, 3624]}
+wondr	{"Psalms_ch_40.docx": [564], "Psalms_ch_78.docx": [389], "Psalms_ch_119.docx": [1319, 10750], "Psalms_ch_136.docx": [671], "Daniel_ch_8.docx": [3624]}

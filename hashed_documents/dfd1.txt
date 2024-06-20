@@ -1,0 +1,6 @@
+
+mac	{"1 Chronicles_ch_12.docx": [1440]}
+39w	{"Numbers_ch_1.docx": [3463], "Numbers_ch_14.docx": [5541], "1 Samuel_ch_25.docx": [6197], "2 Samuel_ch_19.docx": [6391], "Jeremiah_ch_51.docx": [6606], "Matthew_ch_15.docx": [4569]}
+mac	{"1 Chronicles_ch_12.docx": [1440]}
+20fri	{"Proverbs_ch_14.docx": [1709]}
+ mac	{"1 Chronicles_ch_12.docx": [1440]}

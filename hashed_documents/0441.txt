@@ -1,0 +1,7 @@
+
+artist	{"Exodus_ch_28.docx": [1109], "Isaiah_ch_40.docx": [2660, 2660, 2660], "Acts_ch_17.docx": [5934, 5934]}
+40n	{"Exodus_ch_12.docx": [6340], "1 Kings_ch_7.docx": [5293]}
+artist	{"Exodus_ch_28.docx": [1109], "Isaiah_ch_40.docx": [2660, 2660], "Acts_ch_17.docx": [5934]}
+37oph	{"Numbers_ch_26.docx": [3780]}
+4wha	{"Deuteronomy_ch_11.docx": [474], "Isaiah_ch_5.docx": [541]}
+artist	{"Exodus_ch_28.docx": [1109], "Isaiah_ch_40.docx": [2660], "Acts_ch_17.docx": [5934]}

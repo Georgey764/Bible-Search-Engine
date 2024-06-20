@@ -1,0 +1,4 @@
+
+luhith	{"Isaiah_ch_15.docx": [907], "Jeremiah_ch_48.docx": [530, 530, 530]}
+luhith	{"Isaiah_ch_15.docx": [907], "Jeremiah_ch_48.docx": [530, 530]}
+luhith	{"Isaiah_ch_15.docx": [907], "Jeremiah_ch_48.docx": [530]}

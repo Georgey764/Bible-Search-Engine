@@ -1,0 +1,5 @@
+
+rubbis	{"Nehemiah_ch_4.docx": [507]}
+33he	{"Leviticus_ch_4.docx": [4674], "Leviticus_ch_16.docx": [5552], "Judges_ch_11.docx": [6929], "1 Kings_ch_4.docx": [3904], "1 Kings_ch_18.docx": [5390], "2 Kings_ch_15.docx": [4828], "Psalms_ch_18.docx": [3178]}
+rubbis	{"Nehemiah_ch_4.docx": [507]}
+rubbis	{"Nehemiah_ch_4.docx": [507]}

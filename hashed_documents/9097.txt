@@ -1,0 +1,7 @@
+
+lungs	{"2 Chronicles_ch_18.docx": [5279]}
+pelai	{"Nehemiah_ch_8.docx": [1969], "Nehemiah_ch_10.docx": [566, 566, 566]}
+lungs	{"2 Chronicles_ch_18.docx": [5279]}
+pelai	{"Nehemiah_ch_8.docx": [1969], "Nehemiah_ch_10.docx": [566, 566]}
+lungs	{"2 Chronicles_ch_18.docx": [5279]}
+pelai	{"Nehemiah_ch_8.docx": [1969], "Nehemiah_ch_10.docx": [566]}

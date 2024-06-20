@@ -1,0 +1,6 @@
+
+tempta	{"Deuteronomy_ch_9.docx": [3678], "Deuteronomy_ch_33.docx": [1000, 1000, 1000], "Matthew_ch_6.docx": [1682, 1682, 1682], "Luke_ch_11.docx": [574, 574], "1 Corinthians_ch_10.docx": [1292, 1466, 1292, 1466]}
+crowin	{"Mark_ch_13.docx": [4259]}
+tempta	{"Deuteronomy_ch_9.docx": [3678], "Deuteronomy_ch_33.docx": [1000, 1000], "Matthew_ch_6.docx": [1682, 1682], "Luke_ch_11.docx": [574], "1 Corinthians_ch_10.docx": [1292, 1466]}
+tempta	{"Deuteronomy_ch_9.docx": [3678], "Deuteronomy_ch_33.docx": [1000], "Matthew_ch_6.docx": [1682], "Luke_ch_11.docx": [574], "1 Corinthians_ch_10.docx": [1292, 1466]}
+crowin	{"Mark_ch_13.docx": [4259]}

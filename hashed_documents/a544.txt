@@ -1,0 +1,4 @@
+
+magdo	{"Exodus_ch_14.docx": [69, 98, 128, 98, 128, 98, 128], "Numbers_ch_33.docx": [773, 773, 773]}
+magdo	{"Exodus_ch_14.docx": [69, 98, 128, 98, 128], "Numbers_ch_33.docx": [773, 773]}
+magdo	{"Exodus_ch_14.docx": [69, 98, 128], "Numbers_ch_33.docx": [773]}

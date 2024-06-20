@@ -1,0 +1,4 @@
+
+right!	{"Psalms_ch_53.docx": [222], "Ezekiel_ch_18.docx": [4069, 4069, 4069]}
+right!	{"Psalms_ch_53.docx": [222], "Ezekiel_ch_18.docx": [4069, 4069]}
+right!	{"Psalms_ch_53.docx": [222], "Ezekiel_ch_18.docx": [4069]}

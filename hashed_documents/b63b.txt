@@ -1,0 +1,4 @@
+
+josij	{"1 Chronicles_ch_25.docx": [1948], "1 Chronicles_ch_26.docx": [3080, 3080, 3080]}
+josij	{"1 Chronicles_ch_25.docx": [1948], "1 Chronicles_ch_26.docx": [3080, 3080]}
+josij	{"1 Chronicles_ch_25.docx": [1948], "1 Chronicles_ch_26.docx": [3080]}

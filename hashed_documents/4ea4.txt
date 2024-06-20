@@ -1,0 +1,2 @@
+
+2that	{"2 Chronicles_ch_8.docx": [23], "Nehemiah_ch_1.docx": [93], "Job_ch_32.docx": [164], "Isaiah_ch_20.docx": [32], "Daniel_ch_9.docx": [22], "Haggai_ch_1.docx": [211]}

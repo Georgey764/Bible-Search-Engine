@@ -1,0 +1,4 @@
+
+basins	{"Exodus_ch_37.docx": [1789, 1938, 1971, 1938, 1971, 1938, 1971], "2 Chronicles_ch_4.docx": [1893, 1893, 1893], "Zechariah_ch_9.docx": [3391, 3391, 3391]}
+basins	{"Exodus_ch_37.docx": [1789, 1938, 1971, 1938, 1971], "2 Chronicles_ch_4.docx": [1893, 1893], "Zechariah_ch_9.docx": [3391, 3391]}
+basins	{"Exodus_ch_37.docx": [1789, 1938, 1971], "2 Chronicles_ch_4.docx": [1893], "Zechariah_ch_9.docx": [3391]}

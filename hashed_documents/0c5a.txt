@@ -1,0 +1,6 @@
+
+ibaa	{"1 Chronicles_ch_14.docx": [543]}
+night;	{"Job_ch_7.docx": [499], "Psalms_ch_91.docx": [457, 457, 457], "Amos_ch_5.docx": [1619, 1619, 1619]}
+night;	{"Job_ch_7.docx": [499], "Psalms_ch_91.docx": [457, 457], "Amos_ch_5.docx": [1619, 1619]}
+ibaa	{"1 Chronicles_ch_14.docx": [543]}
+night;	{"Job_ch_7.docx": [499], "Psalms_ch_91.docx": [457], "Amos_ch_5.docx": [1619]}

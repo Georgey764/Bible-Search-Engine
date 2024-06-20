@@ -1,0 +1,7 @@
+
+player	{"1 Chronicles_ch_16.docx": [4559], "Matthew_ch_9.docx": [3192, 3192, 3192], "Revelation_ch_18.docx": [3990, 3990]}
+samaat	{"2 Chronicles_ch_24.docx": [4620]}
+player	{"1 Chronicles_ch_16.docx": [4559], "Matthew_ch_9.docx": [3192, 3192], "Revelation_ch_18.docx": [3990]}
+samaat	{"2 Chronicles_ch_24.docx": [4620]}
+player	{"1 Chronicles_ch_16.docx": [4559], "Matthew_ch_9.docx": [3192], "Revelation_ch_18.docx": [3990]}
+samaat	{"2 Chronicles_ch_24.docx": [4620]}

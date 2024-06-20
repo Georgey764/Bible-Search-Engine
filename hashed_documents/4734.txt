@@ -1,0 +1,5 @@
+
+digs	{"Exodus_ch_21.docx": [4044], "Proverbs_ch_26.docx": [2436, 2436, 2436]}
+digs	{"Exodus_ch_21.docx": [4044], "Proverbs_ch_26.docx": [2436, 2436]}
+273	{"Numbers_ch_3.docx": [5633]}
+digs	{"Exodus_ch_21.docx": [4044], "Proverbs_ch_26.docx": [2436]}

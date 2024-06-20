@@ -1,0 +1,5 @@
+
+enno	{"Joshua_ch_15.docx": [1159, 1182, 1182, 1182]}
+enno	{"Joshua_ch_15.docx": [1159, 1182, 1182]}
+470	{"1 Chronicles_ch_21.docx": [740]}
+enno	{"Joshua_ch_15.docx": [1159, 1182]}

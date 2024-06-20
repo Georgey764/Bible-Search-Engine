@@ -1,0 +1,4 @@
+
+barge	{"1 Kings_ch_5.docx": [1280], "2 Chronicles_ch_2.docx": [3048, 3048, 3048]}
+barge	{"1 Kings_ch_5.docx": [1280], "2 Chronicles_ch_2.docx": [3048, 3048]}
+barge	{"1 Kings_ch_5.docx": [1280], "2 Chronicles_ch_2.docx": [3048]}

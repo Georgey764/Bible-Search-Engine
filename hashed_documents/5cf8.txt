@@ -1,0 +1,7 @@
+
+mous	{"1 Chronicles_ch_6.docx": [3661], "1 Chronicles_ch_23.docx": [2184, 2322, 2184, 2322, 2184, 2322], "1 Chronicles_ch_24.docx": [2924, 2924, 2924]}
+46son	{"1 Chronicles_ch_6.docx": [3546]}
+mous	{"1 Chronicles_ch_6.docx": [3661], "1 Chronicles_ch_23.docx": [2184, 2322, 2184, 2322], "1 Chronicles_ch_24.docx": [2924, 2924]}
+24ple	{"Psalms_ch_69.docx": [2559]}
+22‘why	{"Jeremiah_ch_5.docx": [3779]}
+mous	{"1 Chronicles_ch_6.docx": [3661], "1 Chronicles_ch_23.docx": [2184, 2322], "1 Chronicles_ch_24.docx": [2924]}

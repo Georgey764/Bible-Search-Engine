@@ -1,0 +1,4 @@
+
+tigr	{"Genesis_ch_2.docx": [1864], "Daniel_ch_10.docx": [446, 446, 446]}
+tigr	{"Genesis_ch_2.docx": [1864], "Daniel_ch_10.docx": [446, 446]}
+tigr	{"Genesis_ch_2.docx": [1864], "Daniel_ch_10.docx": [446]}

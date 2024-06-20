@@ -1,0 +1,4 @@
+
+owes	{"Leviticus_ch_6.docx": [520], "Deuteronomy_ch_15.docx": [104, 104, 104], "Deuteronomy_ch_24.docx": [1507, 1532, 1507, 1532, 1507, 1532]}
+owes	{"Leviticus_ch_6.docx": [520], "Deuteronomy_ch_15.docx": [104, 104], "Deuteronomy_ch_24.docx": [1507, 1532, 1507, 1532]}
+owes	{"Leviticus_ch_6.docx": [520], "Deuteronomy_ch_15.docx": [104], "Deuteronomy_ch_24.docx": [1507, 1532]}

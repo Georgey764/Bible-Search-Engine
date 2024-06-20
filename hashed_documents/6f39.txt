@@ -1,0 +1,4 @@
+
+infirm	{"Matthew_ch_4.docx": [2809], "Matthew_ch_8.docx": [2214, 2214, 2214], "Matthew_ch_9.docx": [4698, 4698, 4698], "Matthew_ch_10.docx": [36, 36, 36], "Luke_ch_4.docx": [5864, 5864]}
+infirm	{"Matthew_ch_4.docx": [2809], "Matthew_ch_8.docx": [2214, 2214], "Matthew_ch_9.docx": [4698, 4698], "Matthew_ch_10.docx": [36, 36], "Luke_ch_4.docx": [5864]}
+infirm	{"Matthew_ch_4.docx": [2809], "Matthew_ch_8.docx": [2214], "Matthew_ch_9.docx": [4698], "Matthew_ch_10.docx": [36], "Luke_ch_4.docx": [5864]}

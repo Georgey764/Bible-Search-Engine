@@ -1,0 +1,4 @@
+
+leve	{"Genesis_ch_8.docx": [346, 524, 524, 524], "1 Chronicles_ch_12.docx": [1607, 1607, 1607], "Isaiah_ch_28.docx": [3856, 3856, 3856], "Isaiah_ch_45.docx": [302, 302, 302], "Luke_ch_3.docx": [3608, 3608], "Luke_ch_6.docx": [2053, 2053], "Romans_ch_11.docx": [1449, 1449], "Titus_ch_1.docx": [1067, 1067], "Titus_ch_2.docx": [97, 389, 598, 97, 389, 598]}
+leve	{"Genesis_ch_8.docx": [346, 524, 524], "1 Chronicles_ch_12.docx": [1607, 1607], "Isaiah_ch_28.docx": [3856, 3856], "Isaiah_ch_45.docx": [302, 302], "Luke_ch_3.docx": [3608], "Luke_ch_6.docx": [2053], "Romans_ch_11.docx": [1449], "Titus_ch_1.docx": [1067], "Titus_ch_2.docx": [97, 389, 598]}
+leve	{"Genesis_ch_8.docx": [346, 524], "1 Chronicles_ch_12.docx": [1607], "Isaiah_ch_28.docx": [3856], "Isaiah_ch_45.docx": [302], "Luke_ch_3.docx": [3608], "Luke_ch_6.docx": [2053], "Romans_ch_11.docx": [1449], "Titus_ch_1.docx": [1067], "Titus_ch_2.docx": [97, 389, 598]}

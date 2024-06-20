@@ -1,0 +1,4 @@
+
+bows!	{"Isaiah_ch_44.docx": [2521], "Jeremiah_ch_50.docx": [5299, 5299, 5299]}
+bows!	{"Isaiah_ch_44.docx": [2521], "Jeremiah_ch_50.docx": [5299, 5299]}
+bows!	{"Isaiah_ch_44.docx": [2521], "Jeremiah_ch_50.docx": [5299]}

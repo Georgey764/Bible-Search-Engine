@@ -1,0 +1,7 @@
+
+bib	{"1 Samuel_ch_17.docx": [8697], "Psalms_ch_150.docx": [801, 949, 993], "Ezekiel_ch_41.docx": [1614, 1614, 1614]}
+tiar	{"Jeremiah_ch_2.docx": [5714]}
+bib	{"1 Samuel_ch_17.docx": [8697], "Ezekiel_ch_41.docx": [1614, 1614]}
+tiar	{"Jeremiah_ch_2.docx": [5714]}
+bib	{"1 Samuel_ch_17.docx": [8697], "Ezekiel_ch_41.docx": [1614]}
+tiar	{"Jeremiah_ch_2.docx": [5714]}

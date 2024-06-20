@@ -1,0 +1,4 @@
+
+done;	{"Leviticus_ch_4.docx": [1681], "1 Samuel_ch_12.docx": [3401, 3401, 3401], "Isaiah_ch_33.docx": [1819, 1819, 1819]}
+done;	{"Leviticus_ch_4.docx": [1681], "1 Samuel_ch_12.docx": [3401, 3401], "Isaiah_ch_33.docx": [1819, 1819]}
+done;	{"Leviticus_ch_4.docx": [1681], "1 Samuel_ch_12.docx": [3401], "Isaiah_ch_33.docx": [1819]}

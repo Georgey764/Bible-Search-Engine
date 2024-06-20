@@ -1,0 +1,8 @@
+
+pillar	{"Genesis_ch_28.docx": [2700, 3172, 3172, 3172], "Genesis_ch_31.docx": [1523, 6502, 6944, 7483, 7493, 7506, 1523, 6502, 6944, 7483, 7493, 7506, 1523, 6502, 6944, 7483, 7493, 7506], "Genesis_ch_35.docx": [1938, 2740, 2750, 1938, 2740, 2750, 1938, 2740, 2750], "Leviticus_ch_26.docx": [25, 25, 25], "1 Samuel_ch_15.docx": [1788, 1788, 1788], "Isaiah_ch_13.docx": [702, 702, 702], "Galatians_ch_2.docx": [1064, 1064], "1 Timothy_ch_3.docx": [1649, 1649], "Revelation_ch_3.docx": [2098, 2098]}
+there]	{"Exodus_ch_33.docx": [3211], "James_ch_2.docx": [397, 397]}
+pillar	{"Genesis_ch_28.docx": [2700, 3172, 3172], "Genesis_ch_31.docx": [1523, 6502, 6944, 7483, 7493, 7506, 1523, 6502, 6944, 7483, 7493, 7506], "Genesis_ch_35.docx": [1938, 2740, 2750, 1938, 2740, 2750], "Leviticus_ch_26.docx": [25, 25], "1 Samuel_ch_15.docx": [1788, 1788], "Isaiah_ch_13.docx": [702, 702], "Galatians_ch_2.docx": [1064], "1 Timothy_ch_3.docx": [1649], "Revelation_ch_3.docx": [2098]}
+there]	{"Exodus_ch_33.docx": [3211], "James_ch_2.docx": [397]}
+42:1	{"Ezekiel_ch_41.docx": [38], "Matthew_ch_12.docx": [2369]}
+pillar	{"Genesis_ch_28.docx": [2700, 3172], "Genesis_ch_31.docx": [1523, 6502, 6944, 7483, 7493, 7506], "Genesis_ch_35.docx": [1938, 2740, 2750], "Leviticus_ch_26.docx": [25], "1 Samuel_ch_15.docx": [1788], "Isaiah_ch_13.docx": [702], "Galatians_ch_2.docx": [1064], "1 Timothy_ch_3.docx": [1649], "Revelation_ch_3.docx": [2098]}
+there]	{"Exodus_ch_33.docx": [3211], "James_ch_2.docx": [397]}

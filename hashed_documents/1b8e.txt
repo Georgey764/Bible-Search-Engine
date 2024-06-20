@@ -1,0 +1,5 @@
+
+alab	{"2 Kings_ch_21.docx": [2508], "Matthew_ch_26.docx": [548, 548, 548], "Mark_ch_14.docx": [309, 321, 309, 321], "Luke_ch_7.docx": [5195, 5195]}
+alab	{"2 Kings_ch_21.docx": [2508], "Matthew_ch_26.docx": [548, 548], "Mark_ch_14.docx": [309, 321], "Luke_ch_7.docx": [5195]}
+18‘m	{"Job_ch_18.docx": [1507], "Jeremiah_ch_26.docx": [2995]}
+alab	{"2 Kings_ch_21.docx": [2508], "Matthew_ch_26.docx": [548], "Mark_ch_14.docx": [309, 321], "Luke_ch_7.docx": [5195]}

@@ -1,0 +1,4 @@
+
+lodgi	{"Job_ch_19.docx": [296], "Proverbs_ch_15.docx": [3310, 3310, 3310]}
+lodgi	{"Job_ch_19.docx": [296], "Proverbs_ch_15.docx": [3310, 3310]}
+lodgi	{"Job_ch_19.docx": [296], "Proverbs_ch_15.docx": [3310]}

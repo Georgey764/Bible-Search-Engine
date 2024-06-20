@@ -1,0 +1,4 @@
+
+commis	{"2 Chronicles_ch_23.docx": [3538], "Job_ch_32.docx": [1449, 1449, 1449], "Psalms_ch_78.docx": [4794, 4794, 4794], "Acts_ch_19.docx": [8938, 8960, 8984, 8938, 8960, 8984], "Acts_ch_26.docx": [2737, 2737], "Romans_ch_1.docx": [88, 88]}
+commis	{"2 Chronicles_ch_23.docx": [3538], "Job_ch_32.docx": [1449, 1449], "Psalms_ch_78.docx": [4794, 4794], "Acts_ch_19.docx": [8938, 8960, 8984], "Acts_ch_26.docx": [2737], "Romans_ch_1.docx": [88]}
+commis	{"2 Chronicles_ch_23.docx": [3538], "Job_ch_32.docx": [1449], "Psalms_ch_78.docx": [4794], "Acts_ch_19.docx": [8938, 8960, 8984], "Acts_ch_26.docx": [2737], "Romans_ch_1.docx": [88]}

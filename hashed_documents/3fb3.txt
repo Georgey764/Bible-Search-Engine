@@ -1,0 +1,4 @@
+
+plainl	{"2 Chronicles_ch_20.docx": [133], "Jeremiah_ch_31.docx": [3495, 3495, 3495], "Jeremiah_ch_35.docx": [2428, 2428, 2428], "Daniel_ch_7.docx": [2951, 2951, 2951], "Mark_ch_8.docx": [3944, 3944], "John_ch_11.docx": [1514, 1514]}
+plainl	{"2 Chronicles_ch_20.docx": [133], "Jeremiah_ch_31.docx": [3495, 3495], "Jeremiah_ch_35.docx": [2428, 2428], "Daniel_ch_7.docx": [2951, 2951], "Mark_ch_8.docx": [3944], "John_ch_11.docx": [1514]}
+plainl	{"2 Chronicles_ch_20.docx": [133], "Jeremiah_ch_31.docx": [3495], "Jeremiah_ch_35.docx": [2428], "Daniel_ch_7.docx": [2951], "Mark_ch_8.docx": [3944], "John_ch_11.docx": [1514]}

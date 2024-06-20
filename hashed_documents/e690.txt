@@ -1,0 +1,6 @@
+
+craved	{"Psalms_ch_51.docx": [654], "Psalms_ch_78.docx": [1850, 1850, 1850]}
+of;	{"Luke_ch_18.docx": [3811]}
+craved	{"Psalms_ch_51.docx": [654], "Psalms_ch_78.docx": [1850, 1850]}
+craved	{"Psalms_ch_51.docx": [654], "Psalms_ch_78.docx": [1850]}
+of;	{"Luke_ch_18.docx": [3811]}

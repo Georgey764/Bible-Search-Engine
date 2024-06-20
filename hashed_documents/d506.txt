@@ -1,0 +1,4 @@
+
+baeo	{"Joshua_ch_15.docx": [731], "Joshua_ch_18.docx": [2758, 2758, 2758]}
+baeo	{"Joshua_ch_15.docx": [731], "Joshua_ch_18.docx": [2758, 2758]}
+baeo	{"Joshua_ch_15.docx": [731], "Joshua_ch_18.docx": [2758]}

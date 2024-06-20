@@ -1,0 +1,4 @@
+
+girl!	{"Song of Solomon_ch_6.docx": [1847], "Luke_ch_1.docx": [4670, 4670]}
+girl!	{"Song of Solomon_ch_6.docx": [1847], "Luke_ch_1.docx": [4670]}
+girl!	{"Song of Solomon_ch_6.docx": [1847], "Luke_ch_1.docx": [4670]}

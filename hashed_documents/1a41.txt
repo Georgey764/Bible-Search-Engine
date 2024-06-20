@@ -1,0 +1,6 @@
+
+foot-	{"Exodus_ch_27.docx": [1832]}
+trappi	{"Exodus_ch_33.docx": [853], "2 Chronicles_ch_23.docx": [1999, 1999, 1999]}
+trappi	{"Exodus_ch_33.docx": [853], "2 Chronicles_ch_23.docx": [1999, 1999]}
+foot-	{"Exodus_ch_27.docx": [1832]}
+trappi	{"Exodus_ch_33.docx": [853], "2 Chronicles_ch_23.docx": [1999]}

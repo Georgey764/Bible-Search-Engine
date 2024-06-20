@@ -1,0 +1,6 @@
+
+masa	{"1 Chronicles_ch_9.docx": [3035, 5792, 5794, 5792, 5794, 5792, 5794], "1 Chronicles_ch_15.docx": [2710, 2710, 2710]}
+carele	{"1 Timothy_ch_4.docx": [1636]}
+masa	{"1 Chronicles_ch_9.docx": [3035, 5792, 5794, 5792, 5794], "1 Chronicles_ch_15.docx": [2710, 2710]}
+masa	{"1 Chronicles_ch_9.docx": [3035, 5792, 5794], "1 Chronicles_ch_15.docx": [2710]}
+carele	{"1 Timothy_ch_4.docx": [1636]}

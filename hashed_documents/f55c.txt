@@ -1,0 +1,5 @@
+
+sponge	{"Matthew_ch_27.docx": [5490], "Mark_ch_15.docx": [3882, 3882], "John_ch_19.docx": [3984, 3984]}
+3{look	{"Exodus_ch_9.docx": [184], "Psalms_ch_59.docx": [372], "Psalms_ch_127.docx": [396]}
+3bl	{"Psalms_ch_81.docx": [251], "Psalms_ch_106.docx": [182]}
+sponge	{"Matthew_ch_27.docx": [5490], "Mark_ch_15.docx": [3882], "John_ch_19.docx": [3984]}

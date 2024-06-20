@@ -1,0 +1,4 @@
+
+hatita	{"Ezra_ch_2.docx": [1681], "Nehemiah_ch_7.docx": [2740, 2740, 2740]}
+hatita	{"Ezra_ch_2.docx": [1681], "Nehemiah_ch_7.docx": [2740, 2740]}
+hatita	{"Ezra_ch_2.docx": [1681], "Nehemiah_ch_7.docx": [2740]}

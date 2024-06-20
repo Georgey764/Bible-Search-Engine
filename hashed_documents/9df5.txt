@@ -1,0 +1,7 @@
+
+tith	{"Deuteronomy_ch_12.docx": [1719, 3133, 3133, 3133], "Deuteronomy_ch_14.docx": [2005, 2033, 2998, 2005, 2033, 2998, 2005, 2033, 2998], "Deuteronomy_ch_26.docx": [1787, 1796, 1787, 1796, 1787, 1796], "2 Chronicles_ch_24.docx": [1461, 1461, 1461], "Nehemiah_ch_10.docx": [3536, 3536, 3536], "Nehemiah_ch_12.docx": [12116, 12116, 12116], "Amos_ch_4.docx": [1305, 1305, 1305], "Luke_ch_11.docx": [5695, 5695], "Hebrews_ch_7.docx": [47, 686, 809, 836, 1249, 1440, 1446, 47, 686, 809, 836, 1249, 1440, 1446]}
+onwa	{"Joshua_ch_3.docx": [765], "Acts_ch_3.docx": [3048, 3048]}
+tith	{"Deuteronomy_ch_12.docx": [1719, 3133, 3133], "Deuteronomy_ch_14.docx": [2005, 2033, 2998, 2005, 2033, 2998], "Deuteronomy_ch_26.docx": [1787, 1796, 1787, 1796], "2 Chronicles_ch_24.docx": [1461, 1461], "Nehemiah_ch_10.docx": [3536, 3536], "Nehemiah_ch_12.docx": [12116, 12116], "Amos_ch_4.docx": [1305, 1305], "Luke_ch_11.docx": [5695], "Hebrews_ch_7.docx": [47, 686, 809, 836, 1249, 1440, 1446]}
+onwa	{"Joshua_ch_3.docx": [765], "Acts_ch_3.docx": [3048]}
+tith	{"Deuteronomy_ch_12.docx": [1719, 3133], "Deuteronomy_ch_14.docx": [2005, 2033, 2998], "Deuteronomy_ch_26.docx": [1787, 1796], "2 Chronicles_ch_24.docx": [1461], "Nehemiah_ch_10.docx": [3536], "Nehemiah_ch_12.docx": [12116], "Amos_ch_4.docx": [1305], "Luke_ch_11.docx": [5695], "Hebrews_ch_7.docx": [47, 686, 809, 836, 1249, 1440, 1446]}
+onwa	{"Joshua_ch_3.docx": [765], "Acts_ch_3.docx": [3048]}

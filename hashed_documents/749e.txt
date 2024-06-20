@@ -1,0 +1,5 @@
+
+belsha	{"Daniel_ch_5.docx": [8, 178, 1417, 4341, 5343, 5512, 178, 1417, 4341, 5343, 5512, 178, 1417, 4341, 5343, 5512], "Daniel_ch_7.docx": [14, 14, 14], "Daniel_ch_8.docx": [15, 15, 15]}
+3as	{"Esther_ch_3.docx": [214], "Psalms_ch_55.docx": [279], "Psalms_ch_92.docx": [201], "Proverbs_ch_17.docx": [205], "Proverbs_ch_25.docx": [191], "Jeremiah_ch_41.docx": [79]}
+belsha	{"Daniel_ch_5.docx": [8, 178, 1417, 4341, 5343, 5512, 178, 1417, 4341, 5343, 5512], "Daniel_ch_7.docx": [14, 14], "Daniel_ch_8.docx": [15, 15]}
+belsha	{"Daniel_ch_5.docx": [8, 178, 1417, 4341, 5343, 5512], "Daniel_ch_7.docx": [14], "Daniel_ch_8.docx": [15]}

@@ -1,0 +1,5 @@
+
+enqu	{"Numbers_ch_23.docx": [364], "1 Chronicles_ch_18.docx": [1147, 1147, 1147]}
+enqu	{"Numbers_ch_23.docx": [364], "1 Chronicles_ch_18.docx": [1147, 1147]}
+34‘ac	{"1 Chronicles_ch_16.docx": [3539]}
+enqu	{"Numbers_ch_23.docx": [364], "1 Chronicles_ch_18.docx": [1147]}

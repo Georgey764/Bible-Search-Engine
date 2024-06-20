@@ -1,0 +1,4 @@
+
+lender	{"Proverbs_ch_29.docx": [1167], "Isaiah_ch_24.docx": [352, 352, 352], "Luke_ch_7.docx": [5911, 5911]}
+lender	{"Proverbs_ch_29.docx": [1167], "Isaiah_ch_24.docx": [352, 352], "Luke_ch_7.docx": [5911]}
+lender	{"Proverbs_ch_29.docx": [1167], "Isaiah_ch_24.docx": [352], "Luke_ch_7.docx": [5911]}

@@ -1,0 +1,4 @@
+
+depres	{"Numbers_ch_14.docx": [5559], "1 Samuel_ch_1.docx": [859, 2501, 859, 2501, 859, 2501], "2 Samuel_ch_6.docx": [1038, 1038, 1038], "Psalms_ch_119.docx": [4207, 4207, 4207], "Isaiah_ch_25.docx": [506, 506, 506]}
+depres	{"Numbers_ch_14.docx": [5559], "1 Samuel_ch_1.docx": [859, 2501, 859, 2501], "2 Samuel_ch_6.docx": [1038, 1038], "Psalms_ch_119.docx": [4207, 4207], "Isaiah_ch_25.docx": [506, 506]}
+depres	{"Numbers_ch_14.docx": [5559], "1 Samuel_ch_1.docx": [859, 2501], "2 Samuel_ch_6.docx": [1038], "Psalms_ch_119.docx": [4207], "Isaiah_ch_25.docx": [506]}

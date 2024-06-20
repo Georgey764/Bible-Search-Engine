@@ -1,0 +1,7 @@
+
+lotion	{"Ezekiel_ch_27.docx": [2571]}
+imitat	{"1 Corinthians_ch_4.docx": [2177], "1 Corinthians_ch_11.docx": [9, 13, 9, 13], "Ephesians_ch_5.docx": [5, 5], "1 Thessalonians_ch_2.docx": [1908, 1908]}
+13phar	{"Genesis_ch_46.docx": [1493]}
+lotion	{"Ezekiel_ch_27.docx": [2571]}
+lotion	{"Ezekiel_ch_27.docx": [2571]}
+imitat	{"1 Corinthians_ch_4.docx": [2177], "1 Corinthians_ch_11.docx": [9, 13], "Ephesians_ch_5.docx": [5], "1 Thessalonians_ch_2.docx": [1908]}

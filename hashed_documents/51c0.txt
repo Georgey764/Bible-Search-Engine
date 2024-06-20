@@ -1,0 +1,4 @@
+
+viewpo	{"Genesis_ch_1.docx": [53], "2 Corinthians_ch_8.docx": [2885, 2885]}
+viewpo	{"Genesis_ch_1.docx": [53], "2 Corinthians_ch_8.docx": [2885]}
+viewpo	{"Genesis_ch_1.docx": [53], "2 Corinthians_ch_8.docx": [2885]}

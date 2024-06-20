@@ -1,0 +1,7 @@
+
+tophet	{"2 Kings_ch_23.docx": [2532], "Jeremiah_ch_7.docx": [5028, 5379, 5510, 5028, 5379, 5510, 5028, 5379, 5510]}
+sibra	{"Ezekiel_ch_47.docx": [2814]}
+tophet	{"2 Kings_ch_23.docx": [2532], "Jeremiah_ch_7.docx": [5028, 5379, 5510, 5028, 5379, 5510]}
+sibra	{"Ezekiel_ch_47.docx": [2814]}
+tophet	{"2 Kings_ch_23.docx": [2532], "Jeremiah_ch_7.docx": [5028, 5379, 5510]}
+sibra	{"Ezekiel_ch_47.docx": [2814]}

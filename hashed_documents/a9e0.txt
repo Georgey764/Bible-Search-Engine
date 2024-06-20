@@ -1,0 +1,2 @@
+
+33‘h	{"Genesis_ch_42.docx": [4194], "Deuteronomy_ch_4.docx": [5092], "Jeremiah_ch_7.docx": [5594], "Lamentations_ch_3.docx": [2668], "Ezekiel_ch_27.docx": [4761], "Matthew_ch_25.docx": [3846]}

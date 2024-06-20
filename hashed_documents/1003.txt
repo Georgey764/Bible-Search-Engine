@@ -1,0 +1,4 @@
+
+heard!	{"Daniel_ch_10.docx": [1840], "Luke_ch_1.docx": [1485, 1485], "John_ch_3.docx": [3770, 3770], "Acts_ch_4.docx": [2617, 2617]}
+heard!	{"Daniel_ch_10.docx": [1840], "Luke_ch_1.docx": [1485], "John_ch_3.docx": [3770], "Acts_ch_4.docx": [2617]}
+heard!	{"Daniel_ch_10.docx": [1840], "Luke_ch_1.docx": [1485], "John_ch_3.docx": [3770], "Acts_ch_4.docx": [2617]}

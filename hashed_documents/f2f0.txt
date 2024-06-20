@@ -1,0 +1,4 @@
+
+wrec	{"2 Chronicles_ch_24.docx": [973], "Psalms_ch_48.docx": [596, 596, 596]}
+wrec	{"2 Chronicles_ch_24.docx": [973], "Psalms_ch_48.docx": [596, 596]}
+wrec	{"2 Chronicles_ch_24.docx": [973], "Psalms_ch_48.docx": [596]}

@@ -1,0 +1,5 @@
+
+asube	{"Numbers_ch_26.docx": [4411, 4416, 4416, 4416]}
+36afte	{"Genesis_ch_36.docx": [3752]}
+asube	{"Numbers_ch_26.docx": [4411, 4416, 4416]}
+asube	{"Numbers_ch_26.docx": [4411, 4416]}

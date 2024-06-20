@@ -1,0 +1,7 @@
+
+filli	{"Genesis_ch_26.docx": [1851], "2 Kings_ch_4.docx": [786, 786, 786], "2 Chronicles_ch_5.docx": [2439, 2439, 2439], "2 Chronicles_ch_7.docx": [232, 232, 232], "Psalms_ch_127.docx": [556, 556, 556], "Jeremiah_ch_16.docx": [3227, 3227, 3227], "Zephaniah_ch_1.docx": [1554, 1554, 1554], "John_ch_12.docx": [398, 398]}
+negevn	{"Joshua_ch_11.docx": [6856]}
+filli	{"Genesis_ch_26.docx": [1851], "2 Kings_ch_4.docx": [786, 786], "2 Chronicles_ch_5.docx": [2439, 2439], "2 Chronicles_ch_7.docx": [232, 232], "Psalms_ch_127.docx": [556, 556], "Jeremiah_ch_16.docx": [3227, 3227], "Zephaniah_ch_1.docx": [1554, 1554], "John_ch_12.docx": [398]}
+negevn	{"Joshua_ch_11.docx": [6856]}
+filli	{"Genesis_ch_26.docx": [1851], "2 Kings_ch_4.docx": [786], "2 Chronicles_ch_5.docx": [2439], "2 Chronicles_ch_7.docx": [232], "Psalms_ch_127.docx": [556], "Jeremiah_ch_16.docx": [3227], "Zephaniah_ch_1.docx": [1554], "John_ch_12.docx": [398]}
+negevn	{"Joshua_ch_11.docx": [6856]}

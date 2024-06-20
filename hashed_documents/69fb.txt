@@ -1,0 +1,4 @@
+
+inform	{"1 Kings_ch_15.docx": [3212], "Ezra_ch_4.docx": [1913, 2697, 1913, 2697, 1913, 2697], "Ezra_ch_5.docx": [1495, 1495, 1495], "Psalms_ch_45.docx": [229, 229, 229], "Acts_ch_25.docx": [5130, 5130]}
+inform	{"1 Kings_ch_15.docx": [3212], "Ezra_ch_4.docx": [1913, 2697, 1913, 2697], "Ezra_ch_5.docx": [1495, 1495], "Psalms_ch_45.docx": [229, 229], "Acts_ch_25.docx": [5130]}
+inform	{"1 Kings_ch_15.docx": [3212], "Ezra_ch_4.docx": [1913, 2697], "Ezra_ch_5.docx": [1495], "Psalms_ch_45.docx": [229], "Acts_ch_25.docx": [5130]}

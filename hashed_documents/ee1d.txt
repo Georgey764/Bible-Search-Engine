@@ -1,0 +1,5 @@
+
+shevn	{"Isaiah_ch_22.docx": [2208, 3735, 3735, 3735]}
+54ther	{"1 Samuel_ch_17.docx": [8537]}
+shevn	{"Isaiah_ch_22.docx": [2208, 3735, 3735]}
+shevn	{"Isaiah_ch_22.docx": [2208, 3735]}

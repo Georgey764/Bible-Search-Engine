@@ -1,0 +1,5 @@
+
+pupp	{"Matthew_ch_15.docx": [2848, 2935, 2935, 2935], "Mark_ch_7.docx": [3541, 3663, 3541, 3663]}
+10pr	{"Isaiah_ch_28.docx": [1460]}
+pupp	{"Matthew_ch_15.docx": [2848, 2935, 2935], "Mark_ch_7.docx": [3541, 3663]}
+pupp	{"Matthew_ch_15.docx": [2848, 2935], "Mark_ch_7.docx": [3541, 3663]}

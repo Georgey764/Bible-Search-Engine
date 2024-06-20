@@ -1,0 +1,4 @@
+
+jari	{"Joshua_ch_15.docx": [1397, 1415, 5917, 1415, 1415, 5917], "Joshua_ch_17.docx": [1353, 1353, 1353], "2 Samuel_ch_20.docx": [4658, 4658, 4658], "1 Chronicles_ch_4.docx": [727, 727, 727], "1 Chronicles_ch_12.docx": [694, 694, 694], "1 Chronicles_ch_24.docx": [2973, 2973, 2973], "Ezra_ch_8.docx": [1808, 1808, 1808]}
+jari	{"Joshua_ch_15.docx": [1397, 1415, 1415, 5917], "Joshua_ch_17.docx": [1353, 1353], "2 Samuel_ch_20.docx": [4658, 4658], "1 Chronicles_ch_4.docx": [727, 727], "1 Chronicles_ch_12.docx": [694, 694], "1 Chronicles_ch_24.docx": [2973, 2973], "Ezra_ch_8.docx": [1808, 1808]}
+jari	{"Joshua_ch_15.docx": [1397, 1415, 5917], "Joshua_ch_17.docx": [1353], "2 Samuel_ch_20.docx": [4658], "1 Chronicles_ch_4.docx": [727], "1 Chronicles_ch_12.docx": [694], "1 Chronicles_ch_24.docx": [2973], "Ezra_ch_8.docx": [1808]}

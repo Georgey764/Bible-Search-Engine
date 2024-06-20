@@ -1,0 +1,4 @@
+
+enigma	{"Proverbs_ch_1.docx": [232, 571, 571, 571]}
+enigma	{"Proverbs_ch_1.docx": [232, 571, 571]}
+enigma	{"Proverbs_ch_1.docx": [232, 571]}

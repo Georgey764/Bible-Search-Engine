@@ -1,0 +1,8 @@
+
+roaste	{"Exodus_ch_12.docx": [1116], "Leviticus_ch_2.docx": [1850, 1850, 1850], "Leviticus_ch_23.docx": [1776, 1776, 1776], "1 Samuel_ch_2.docx": [2998, 2998, 2998], "1 Samuel_ch_25.docx": [2633, 2633, 2633], "2 Chronicles_ch_35.docx": [2424, 2424, 2424], "Job_ch_28.docx": [520, 520, 520], "Isaiah_ch_44.docx": [3138, 3138, 3138]}
+horde	{"Ezekiel_ch_39.docx": [2004]}
+roaste	{"Exodus_ch_12.docx": [1116], "Leviticus_ch_2.docx": [1850, 1850], "Leviticus_ch_23.docx": [1776, 1776], "1 Samuel_ch_2.docx": [2998, 2998], "1 Samuel_ch_25.docx": [2633, 2633], "2 Chronicles_ch_35.docx": [2424, 2424], "Job_ch_28.docx": [520, 520], "Isaiah_ch_44.docx": [3138, 3138]}
+2alth	{"2 Chronicles_ch_25.docx": [179], "Psalms_ch_127.docx": [248], "Song of Solomon_ch_5.docx": [475]}
+horde	{"Ezekiel_ch_39.docx": [2004]}
+roaste	{"Exodus_ch_12.docx": [1116], "Leviticus_ch_2.docx": [1850], "Leviticus_ch_23.docx": [1776], "1 Samuel_ch_2.docx": [2998], "1 Samuel_ch_25.docx": [2633], "2 Chronicles_ch_35.docx": [2424], "Job_ch_28.docx": [520], "Isaiah_ch_44.docx": [3138]}
+horde	{"Ezekiel_ch_39.docx": [2004]}

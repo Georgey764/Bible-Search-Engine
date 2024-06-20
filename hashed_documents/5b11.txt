@@ -1,0 +1,4 @@
+
+sobak	{"2 Samuel_ch_10.docx": [2183, 2689, 2689, 2689], "1 Chronicles_ch_1.docx": [2525, 2525, 2525]}
+sobak	{"2 Samuel_ch_10.docx": [2183, 2689, 2689], "1 Chronicles_ch_1.docx": [2525, 2525]}
+sobak	{"2 Samuel_ch_10.docx": [2183, 2689], "1 Chronicles_ch_1.docx": [2525]}

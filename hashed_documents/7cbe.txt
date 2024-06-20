@@ -1,0 +1,4 @@
+
+arpa	{"1 Chronicles_ch_1.docx": [1502], "Jeremiah_ch_49.docx": [4292, 4292], "Luke_ch_3.docx": [7123, 7123]}
+arpa	{"Jeremiah_ch_49.docx": [4292, 4292], "Luke_ch_3.docx": [7123]}
+arpa	{"1 Chronicles_ch_1.docx": [1502], "Jeremiah_ch_49.docx": [4292], "Luke_ch_3.docx": [7123]}

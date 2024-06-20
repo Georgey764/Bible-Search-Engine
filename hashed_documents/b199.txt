@@ -1,0 +1,4 @@
+
+aweso	{"2 Samuel_ch_22.docx": [4821], "Job_ch_13.docx": [924, 924, 924], "Psalms_ch_106.docx": [2002, 2002, 2002], "Ezekiel_ch_1.docx": [2081, 2081, 2081], "Amos_ch_1.docx": [6441, 6441, 6441]}
+aweso	{"2 Samuel_ch_22.docx": [4821], "Job_ch_13.docx": [924, 924], "Psalms_ch_106.docx": [2002, 2002], "Ezekiel_ch_1.docx": [2081, 2081], "Amos_ch_1.docx": [6441, 6441]}
+aweso	{"2 Samuel_ch_22.docx": [4821], "Job_ch_13.docx": [924], "Psalms_ch_106.docx": [2002], "Ezekiel_ch_1.docx": [2081], "Amos_ch_1.docx": [6441]}

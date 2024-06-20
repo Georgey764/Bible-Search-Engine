@@ -1,0 +1,5 @@
+
+shis	{"2 Chronicles_ch_12.docx": [185, 654, 1191, 1462, 654, 1191, 1462, 654, 1191, 1462], "Jeremiah_ch_25.docx": [4118, 4118, 4118]}
+shis	{"2 Chronicles_ch_12.docx": [185, 654, 1191, 1462, 654, 1191, 1462], "Jeremiah_ch_25.docx": [4118, 4118]}
+2‘hea	{"Micah_ch_1.docx": [1318]}
+shis	{"2 Chronicles_ch_12.docx": [185, 654, 1191, 1462], "Jeremiah_ch_25.docx": [4118]}

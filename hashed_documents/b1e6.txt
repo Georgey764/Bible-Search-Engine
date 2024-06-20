@@ -1,0 +1,7 @@
+
+recru	{"1 Samuel_ch_14.docx": [8466], "2 Samuel_ch_15.docx": [16, 16, 16], "2 Chronicles_ch_32.docx": [794, 794, 794]}
+amja	{"1 Chronicles_ch_4.docx": [3095]}
+24it	{"Genesis_ch_32.docx": [3252], "Deuteronomy_ch_31.docx": [4226], "1 Chronicles_ch_2.docx": [2146], "Proverbs_ch_25.docx": [2360], "Ecclesiastes_ch_7.docx": [2637], "Ezekiel_ch_39.docx": [4260]}
+recru	{"1 Samuel_ch_14.docx": [8466], "2 Samuel_ch_15.docx": [16, 16], "2 Chronicles_ch_32.docx": [794, 794]}
+recru	{"1 Samuel_ch_14.docx": [8466], "2 Samuel_ch_15.docx": [16], "2 Chronicles_ch_32.docx": [794]}
+amja	{"1 Chronicles_ch_4.docx": [3095]}

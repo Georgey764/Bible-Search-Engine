@@ -1,0 +1,6 @@
+
+–wh	{"Genesis_ch_17.docx": [2535], "John_ch_6.docx": [3444, 3444], "Acts_ch_3.docx": [1954, 1954], "Romans_ch_7.docx": [1953, 1982, 1953, 1982], "Ephesians_ch_3.docx": [968, 968], "Hebrews_ch_7.docx": [829, 829], "Hebrews_ch_11.docx": [7206, 7222, 7206, 7222]}
+jailb	{"Acts_ch_12.docx": [2722]}
+–wh	{"Genesis_ch_17.docx": [2535], "John_ch_6.docx": [3444], "Acts_ch_3.docx": [1954], "Romans_ch_7.docx": [1953, 1982], "Ephesians_ch_3.docx": [968], "Hebrews_ch_7.docx": [829], "Hebrews_ch_11.docx": [7206, 7222]}
+–wh	{"Genesis_ch_17.docx": [2535], "John_ch_6.docx": [3444], "Acts_ch_3.docx": [1954], "Romans_ch_7.docx": [1953, 1982], "Ephesians_ch_3.docx": [968], "Hebrews_ch_7.docx": [829], "Hebrews_ch_11.docx": [7206, 7222]}
+jailb	{"Acts_ch_12.docx": [2722]}

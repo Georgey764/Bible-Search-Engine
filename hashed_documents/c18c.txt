@@ -1,0 +1,7 @@
+
+latte	{"Ezra_ch_8.docx": [1343], "2 Corinthians_ch_2.docx": [2228, 2228]}
+kanda	{"Acts_ch_8.docx": [5936]}
+15hezi	{"1 Chronicles_ch_24.docx": [1731]}
+latte	{"Ezra_ch_8.docx": [1343], "2 Corinthians_ch_2.docx": [2228]}
+latte	{"Ezra_ch_8.docx": [1343], "2 Corinthians_ch_2.docx": [2228]}
+kanda	{"Acts_ch_8.docx": [5936]}

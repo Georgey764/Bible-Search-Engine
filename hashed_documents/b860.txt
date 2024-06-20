@@ -1,0 +1,4 @@
+
+jug	{"Genesis_ch_24.docx": [2297, 2330, 2990, 2330, 2990, 2330, 2990], "Ruth_ch_2.docx": [1353, 1353, 1353], "1 Samuel_ch_25.docx": [2628, 2628, 2628]}
+jug	{"Genesis_ch_24.docx": [2297, 2330, 2990, 2330, 2990], "Ruth_ch_2.docx": [1353, 1353], "1 Samuel_ch_25.docx": [2628, 2628]}
+jug	{"Genesis_ch_24.docx": [2297, 2330, 2990], "Ruth_ch_2.docx": [1353], "1 Samuel_ch_25.docx": [2628]}

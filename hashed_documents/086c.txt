@@ -1,0 +1,4 @@
+
+unful	{"Psalms_ch_21.docx": [1028], "Isaiah_ch_56.docx": [1921, 1921, 1921]}
+unful	{"Psalms_ch_21.docx": [1028], "Isaiah_ch_56.docx": [1921, 1921]}
+unful	{"Psalms_ch_21.docx": [1028], "Isaiah_ch_56.docx": [1921]}

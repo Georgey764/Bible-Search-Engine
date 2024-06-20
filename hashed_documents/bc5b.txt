@@ -1,0 +1,4 @@
+
+lot’s	{"Genesis_ch_13.docx": [501], "Genesis_ch_19.docx": [4055, 4055, 4055], "Luke_ch_17.docx": [3352, 3700, 3352, 3700]}
+lot’s	{"Genesis_ch_13.docx": [501], "Genesis_ch_19.docx": [4055, 4055], "Luke_ch_17.docx": [3352, 3700]}
+lot’s	{"Genesis_ch_13.docx": [501], "Genesis_ch_19.docx": [4055], "Luke_ch_17.docx": [3352, 3700]}

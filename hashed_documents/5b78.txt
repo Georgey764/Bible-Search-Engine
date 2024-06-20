@@ -1,0 +1,7 @@
+
+shesh	{"Ezra_ch_5.docx": [2423, 2667, 2667, 2667], "Jeremiah_ch_51.docx": [6797, 6797, 6797]}
+tirhak	{"Isaiah_ch_37.docx": [1249]}
+shesh	{"Ezra_ch_5.docx": [2423, 2667, 2667], "Jeremiah_ch_51.docx": [6797, 6797]}
+tirhak	{"Isaiah_ch_37.docx": [1249]}
+shesh	{"Ezra_ch_5.docx": [2423, 2667], "Jeremiah_ch_51.docx": [6797]}
+tirhak	{"Isaiah_ch_37.docx": [1249]}

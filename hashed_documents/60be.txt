@@ -1,0 +1,4 @@
+
+prim	{"Joshua_ch_10.docx": [62], "1 Kings_ch_18.docx": [204, 835, 204, 835, 204, 835], "Mark_ch_12.docx": [3912, 3973, 3912, 3973], "Acts_ch_5.docx": [4224, 4224], "1 Timothy_ch_1.docx": [2330, 2330], "Hebrews_ch_2.docx": [1666, 1666]}
+prim	{"Joshua_ch_10.docx": [62], "1 Kings_ch_18.docx": [204, 835, 204, 835], "Mark_ch_12.docx": [3912, 3973], "Acts_ch_5.docx": [4224], "1 Timothy_ch_1.docx": [2330], "Hebrews_ch_2.docx": [1666]}
+prim	{"Joshua_ch_10.docx": [62], "1 Kings_ch_18.docx": [204, 835], "Mark_ch_12.docx": [3912, 3973], "Acts_ch_5.docx": [4224], "1 Timothy_ch_1.docx": [2330], "Hebrews_ch_2.docx": [1666]}

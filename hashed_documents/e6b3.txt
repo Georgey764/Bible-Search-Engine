@@ -1,0 +1,4 @@
+
+wine!	{"Jeremiah_ch_13.docx": [1733], "Acts_ch_2.docx": [7211, 7211]}
+wine!	{"Jeremiah_ch_13.docx": [1733], "Acts_ch_2.docx": [7211]}
+wine!	{"Jeremiah_ch_13.docx": [1733], "Acts_ch_2.docx": [7211]}

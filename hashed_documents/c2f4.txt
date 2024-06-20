@@ -1,0 +1,4 @@
+
+spide	{"Job_ch_8.docx": [1233], "Job_ch_27.docx": [1643, 1643, 1643], "Psalms_ch_39.docx": [1230, 1230, 1230], "Psalms_ch_90.docx": [966, 966, 966], "Isaiah_ch_59.docx": [681, 681, 681]}
+spide	{"Job_ch_8.docx": [1233], "Job_ch_27.docx": [1643, 1643], "Psalms_ch_39.docx": [1230, 1230], "Psalms_ch_90.docx": [966, 966], "Isaiah_ch_59.docx": [681, 681]}
+spide	{"Job_ch_8.docx": [1233], "Job_ch_27.docx": [1643], "Psalms_ch_39.docx": [1230], "Psalms_ch_90.docx": [966], "Isaiah_ch_59.docx": [681]}

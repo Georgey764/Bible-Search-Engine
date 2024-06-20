@@ -1,0 +1,3 @@
+
+32howe	{"Genesis_ch_26.docx": [4494], "Exodus_ch_8.docx": [4948], "Exodus_ch_9.docx": [4356]}
+3sai	{"Zechariah_ch_8.docx": [172]}

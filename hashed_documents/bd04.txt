@@ -1,0 +1,4 @@
+
+tales	{"1 Samuel_ch_18.docx": [30], "1 Timothy_ch_4.docx": [808, 808]}
+tales	{"1 Samuel_ch_18.docx": [30], "1 Timothy_ch_4.docx": [808]}
+tales	{"1 Samuel_ch_18.docx": [30], "1 Timothy_ch_4.docx": [808]}

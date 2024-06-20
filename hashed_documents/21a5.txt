@@ -1,0 +1,3 @@
+
+6god	{"1 Chronicles_ch_25.docx": [939]}
+21even	{"Jeremiah_ch_10.docx": [2656]}

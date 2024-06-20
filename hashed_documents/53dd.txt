@@ -1,0 +1,6 @@
+
+flutte	{"Judges_ch_5.docx": [2423], "Proverbs_ch_7.docx": [908, 908, 908], "Nahum_ch_2.docx": [1533, 1533, 1533]}
+flutte	{"Judges_ch_5.docx": [2423], "Proverbs_ch_7.docx": [908, 908], "Nahum_ch_2.docx": [1533, 1533]}
+19‘br	{"Ecclesiastes_ch_10.docx": [2064]}
+37yo	{"Jeremiah_ch_2.docx": [6596]}
+flutte	{"Judges_ch_5.docx": [2423], "Proverbs_ch_7.docx": [908], "Nahum_ch_2.docx": [1533]}

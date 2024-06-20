@@ -1,0 +1,4 @@
+
+repurc	{"Leviticus_ch_25.docx": [3210], "Psalms_ch_130.docx": [619, 619, 619]}
+repurc	{"Leviticus_ch_25.docx": [3210], "Psalms_ch_130.docx": [619, 619]}
+repurc	{"Leviticus_ch_25.docx": [3210], "Psalms_ch_130.docx": [619]}

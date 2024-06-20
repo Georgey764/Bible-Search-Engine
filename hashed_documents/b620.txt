@@ -1,0 +1,4 @@
+
+jared	{"Genesis_ch_5.docx": [1093, 1097, 1280, 1308, 1097, 1308, 1097, 1280, 1308], "1 Chronicles_ch_1.docx": [83, 83, 83], "1 Chronicles_ch_4.docx": [1999, 1999, 1999], "Luke_ch_3.docx": [7212, 7212]}
+jared	{"Genesis_ch_5.docx": [1093, 1097, 1308, 1097, 1280, 1308], "1 Chronicles_ch_1.docx": [83, 83], "1 Chronicles_ch_4.docx": [1999, 1999], "Luke_ch_3.docx": [7212]}
+jared	{"Genesis_ch_5.docx": [1093, 1097, 1280, 1308], "1 Chronicles_ch_1.docx": [83], "1 Chronicles_ch_4.docx": [1999], "Luke_ch_3.docx": [7212]}

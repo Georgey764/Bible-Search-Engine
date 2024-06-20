@@ -1,0 +1,4 @@
+
+latt	{"Exodus_ch_38.docx": [428], "1 Kings_ch_7.docx": [308, 308, 308], "2 Kings_ch_1.docx": [29, 29, 29], "Ezra_ch_8.docx": [1343, 1343, 1343], "2 Corinthians_ch_2.docx": [2228, 2228]}
+latt	{"Exodus_ch_38.docx": [428], "1 Kings_ch_7.docx": [308, 308], "2 Kings_ch_1.docx": [29, 29], "Ezra_ch_8.docx": [1343, 1343], "2 Corinthians_ch_2.docx": [2228]}
+latt	{"Exodus_ch_38.docx": [428], "1 Kings_ch_7.docx": [308], "2 Kings_ch_1.docx": [29], "Ezra_ch_8.docx": [1343], "2 Corinthians_ch_2.docx": [2228]}

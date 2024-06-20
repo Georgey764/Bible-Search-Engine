@@ -1,0 +1,6 @@
+
+blood;	{"Genesis_ch_37.docx": [2817], "Ezekiel_ch_33.docx": [4792, 4792, 4792]}
+41wel	{"Genesis_ch_27.docx": [5543], "1 Samuel_ch_17.docx": [6232], "1 Kings_ch_1.docx": [5753], "1 Kings_ch_18.docx": [6817]}
+blood;	{"Genesis_ch_37.docx": [2817], "Ezekiel_ch_33.docx": [4792, 4792]}
+17she	{"Genesis_ch_39.docx": [2319], "1 Chronicles_ch_1.docx": [1456]}
+blood;	{"Genesis_ch_37.docx": [2817], "Ezekiel_ch_33.docx": [4792]}

@@ -1,0 +1,4 @@
+
+migdol	{"Jeremiah_ch_46.docx": [2211], "Ezekiel_ch_29.docx": [1801, 1801, 1801], "Ezekiel_ch_30.docx": [745, 745, 745]}
+migdol	{"Jeremiah_ch_46.docx": [2211], "Ezekiel_ch_29.docx": [1801, 1801], "Ezekiel_ch_30.docx": [745, 745]}
+migdol	{"Jeremiah_ch_46.docx": [2211], "Ezekiel_ch_29.docx": [1801], "Ezekiel_ch_30.docx": [745]}

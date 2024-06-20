@@ -1,0 +1,4 @@
+
+aromat	{"1 Chronicles_ch_9.docx": [4354], "2 Chronicles_ch_9.docx": [45, 1411, 1416, 45, 1411, 1416, 45, 1411, 1416], "2 Chronicles_ch_16.docx": [2271, 2271, 2271], "2 Chronicles_ch_32.docx": [5277, 5277, 5277]}
+aromat	{"1 Chronicles_ch_9.docx": [4354], "2 Chronicles_ch_9.docx": [45, 1411, 1416, 45, 1411, 1416], "2 Chronicles_ch_16.docx": [2271, 2271], "2 Chronicles_ch_32.docx": [5277, 5277]}
+aromat	{"1 Chronicles_ch_9.docx": [4354], "2 Chronicles_ch_9.docx": [45, 1411, 1416], "2 Chronicles_ch_16.docx": [2271], "2 Chronicles_ch_32.docx": [5277]}

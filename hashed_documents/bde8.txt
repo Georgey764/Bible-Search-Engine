@@ -1,0 +1,5 @@
+
+humbly	{"Ezekiel_ch_29.docx": [2541], "Acts_ch_20.docx": [7020, 7020], "Romans_ch_12.docx": [1779, 1779], "Philippians_ch_2.docx": [410, 410], "James_ch_1.docx": [2267, 2267]}
+21ge	{"Numbers_ch_3.docx": [2659]}
+humbly	{"Ezekiel_ch_29.docx": [2541], "Acts_ch_20.docx": [7020], "Romans_ch_12.docx": [1779], "Philippians_ch_2.docx": [410], "James_ch_1.docx": [2267]}
+humbly	{"Ezekiel_ch_29.docx": [2541], "Acts_ch_20.docx": [7020], "Romans_ch_12.docx": [1779], "Philippians_ch_2.docx": [410], "James_ch_1.docx": [2267]}

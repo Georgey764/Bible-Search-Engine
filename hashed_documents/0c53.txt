@@ -1,0 +1,4 @@
+
+galeme	{"1 Chronicles_ch_6.docx": [4958], "1 Chronicles_ch_9.docx": [5754, 5754, 5754]}
+galeme	{"1 Chronicles_ch_6.docx": [4958], "1 Chronicles_ch_9.docx": [5754, 5754]}
+galeme	{"1 Chronicles_ch_6.docx": [4958], "1 Chronicles_ch_9.docx": [5754]}

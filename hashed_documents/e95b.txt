@@ -1,0 +1,3 @@
+
+20‘an	{"Genesis_ch_14.docx": [2846], "Exodus_ch_22.docx": [2871], "Leviticus_ch_13.docx": [2646], "Leviticus_ch_18.docx": [2442], "Numbers_ch_19.docx": [2860], "Deuteronomy_ch_24.docx": [3100], "Joshua_ch_2.docx": [2848], "1 Samuel_ch_9.docx": [3172], "1 Samuel_ch_24.docx": [3030], "Isaiah_ch_49.docx": [4268], "Ezekiel_ch_13.docx": [3942], "Ezekiel_ch_45.docx": [3853]}
+22whe	{"1 Kings_ch_13.docx": [3384], "2 Chronicles_ch_29.docx": [3728], "Proverbs_ch_30.docx": [2385]}

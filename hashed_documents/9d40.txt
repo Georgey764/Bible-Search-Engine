@@ -1,0 +1,4 @@
+
+elm	{"Genesis_ch_10.docx": [2936], "1 Chronicles_ch_7.docx": [1178, 1178, 1178], "Luke_ch_3.docx": [6596, 6596]}
+elm	{"Genesis_ch_10.docx": [2936], "1 Chronicles_ch_7.docx": [1178, 1178], "Luke_ch_3.docx": [6596]}
+elm	{"Genesis_ch_10.docx": [2936], "1 Chronicles_ch_7.docx": [1178], "Luke_ch_3.docx": [6596]}

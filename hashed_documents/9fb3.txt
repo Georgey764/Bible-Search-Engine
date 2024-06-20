@@ -1,0 +1,2 @@
+
+15‘now	{"Deuteronomy_ch_12.docx": [2821], "Deuteronomy_ch_20.docx": [2192], "2 Samuel_ch_14.docx": [2383], "2 Chronicles_ch_32.docx": [3033], "Job_ch_40.docx": [2849], "Jeremiah_ch_11.docx": [2752], "Lamentations_ch_2.docx": [3291], "Daniel_ch_9.docx": [2440], "Joel_ch_2.docx": [2571]}

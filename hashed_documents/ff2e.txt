@@ -1,0 +1,8 @@
+
+sanio	{"Deuteronomy_ch_3.docx": [1036]}
+abag	{"Esther_ch_1.docx": [1894]}
+9both	{"Exodus_ch_37.docx": [804]}
+sanio	{"Deuteronomy_ch_3.docx": [1036]}
+abag	{"Esther_ch_1.docx": [1894]}
+sanio	{"Deuteronomy_ch_3.docx": [1036]}
+abag	{"Esther_ch_1.docx": [1894]}

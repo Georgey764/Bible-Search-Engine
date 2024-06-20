@@ -1,0 +1,5 @@
+
+sheep;	{"Ezekiel_ch_43.docx": [4439], "Zechariah_ch_11.docx": [3220, 3220, 3220]}
+62me	{"Genesis_ch_24.docx": [9251]}
+sheep;	{"Ezekiel_ch_43.docx": [4439], "Zechariah_ch_11.docx": [3220, 3220]}
+sheep;	{"Ezekiel_ch_43.docx": [4439], "Zechariah_ch_11.docx": [3220]}

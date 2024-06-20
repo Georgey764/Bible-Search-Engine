@@ -1,0 +1,6 @@
+
+jedi	{"1 Chronicles_ch_4.docx": [4015]}
+achai	{"2 Corinthians_ch_1.docx": [69], "2 Corinthians_ch_9.docx": [99, 99], "2 Corinthians_ch_11.docx": [1474, 1474], "1 Thessalonians_ch_1.docx": [745, 942, 745, 942]}
+jedi	{"1 Chronicles_ch_4.docx": [4015]}
+jedi	{"1 Chronicles_ch_4.docx": [4015]}
+achai	{"2 Corinthians_ch_1.docx": [69], "2 Corinthians_ch_9.docx": [99], "2 Corinthians_ch_11.docx": [1474], "1 Thessalonians_ch_1.docx": [745, 942]}

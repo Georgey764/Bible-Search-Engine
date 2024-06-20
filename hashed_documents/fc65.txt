@@ -1,0 +1,5 @@
+
+shem’s	{"Genesis_ch_9.docx": [3231], "1 Chronicles_ch_1.docx": [1331, 1456, 1331, 1331, 1456]}
+shem’s	{"Genesis_ch_9.docx": [3231], "1 Chronicles_ch_1.docx": [1331, 1331, 1456]}
+3te	{"Joshua_ch_3.docx": [204], "Psalms_ch_66.docx": [178], "Proverbs_ch_21.docx": [267], "Jeremiah_ch_42.docx": [272], "Ezekiel_ch_17.docx": [158], "Ezekiel_ch_21.docx": [282], "Ezekiel_ch_25.docx": [187], "Ezekiel_ch_29.docx": [273], "Ezekiel_ch_35.docx": [175], "Ezekiel_ch_38.docx": [230]}
+shem’s	{"Genesis_ch_9.docx": [3231], "1 Chronicles_ch_1.docx": [1331, 1456]}

@@ -1,0 +1,4 @@
+
+saphon	{"Genesis_ch_46.docx": [1861], "Numbers_ch_26.docx": [2587, 2592, 2587, 2592, 2587, 2592]}
+saphon	{"Genesis_ch_46.docx": [1861], "Numbers_ch_26.docx": [2587, 2592, 2587, 2592]}
+saphon	{"Genesis_ch_46.docx": [1861], "Numbers_ch_26.docx": [2587, 2592]}

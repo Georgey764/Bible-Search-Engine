@@ -1,0 +1,2 @@
+
+1,2	{"2 Chronicles_ch_12.docx": [306], "Ezra_ch_2.docx": [682, 785, 1276, 1479], "Nehemiah_ch_7.docx": [1443, 2520]}

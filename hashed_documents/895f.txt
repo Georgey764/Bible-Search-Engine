@@ -1,0 +1,7 @@
+
+madne	{"Job_ch_5.docx": [90], "Ecclesiastes_ch_9.docx": [800, 800, 800], "Hosea_ch_9.docx": [1801, 1801, 1801]}
+becko	{"Proverbs_ch_6.docx": [1313], "Proverbs_ch_18.docx": [532, 532, 532], "Isaiah_ch_3.docx": [2554, 2554, 2554]}
+madne	{"Job_ch_5.docx": [90], "Ecclesiastes_ch_9.docx": [800, 800], "Hosea_ch_9.docx": [1801, 1801]}
+becko	{"Proverbs_ch_6.docx": [1313], "Proverbs_ch_18.docx": [532, 532], "Isaiah_ch_3.docx": [2554, 2554]}
+madne	{"Job_ch_5.docx": [90], "Ecclesiastes_ch_9.docx": [800], "Hosea_ch_9.docx": [1801]}
+becko	{"Proverbs_ch_6.docx": [1313], "Proverbs_ch_18.docx": [532], "Isaiah_ch_3.docx": [2554]}

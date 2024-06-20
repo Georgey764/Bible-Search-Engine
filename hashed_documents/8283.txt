@@ -1,0 +1,4 @@
+
+ratio	{"Ezekiel_ch_4.docx": [2625, 2661, 2661, 2661]}
+ratio	{"Ezekiel_ch_4.docx": [2625, 2661, 2661]}
+ratio	{"Ezekiel_ch_4.docx": [2625, 2661]}

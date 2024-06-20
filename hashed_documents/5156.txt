@@ -1,0 +1,5 @@
+
+membr	{"Leviticus_ch_3.docx": [637, 1475, 2092, 1475, 2092, 1475, 2092], "Leviticus_ch_4.docx": [1258, 1258, 1258], "Leviticus_ch_9.docx": [2360, 2360, 2360], "Joshua_ch_15.docx": [4672, 4672, 4672]}
+24n	{"Genesis_ch_11.docx": [2796], "Genesis_ch_46.docx": [2882], "Proverbs_ch_7.docx": [2142]}
+membr	{"Leviticus_ch_3.docx": [637, 1475, 2092, 1475, 2092], "Leviticus_ch_4.docx": [1258, 1258], "Leviticus_ch_9.docx": [2360, 2360], "Joshua_ch_15.docx": [4672, 4672]}
+membr	{"Leviticus_ch_3.docx": [637, 1475, 2092], "Leviticus_ch_4.docx": [1258], "Leviticus_ch_9.docx": [2360], "Joshua_ch_15.docx": [4672]}

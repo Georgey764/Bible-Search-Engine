@@ -1,0 +1,4 @@
+
+beare	{"Joshua_ch_9.docx": [10924, 11890, 12106, 11890, 12106, 11890, 12106], "Judges_ch_9.docx": [9639, 9639, 9639], "2 Samuel_ch_23.docx": [4986, 4986, 4986]}
+beare	{"Joshua_ch_9.docx": [10924, 11890, 12106, 11890, 12106], "Judges_ch_9.docx": [9639, 9639], "2 Samuel_ch_23.docx": [4986, 4986]}
+beare	{"Joshua_ch_9.docx": [10924, 11890, 12106], "Judges_ch_9.docx": [9639], "2 Samuel_ch_23.docx": [4986]}

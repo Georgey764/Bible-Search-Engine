@@ -1,0 +1,4 @@
+
+waging	{"Exodus_ch_17.docx": [2391], "Psalms_ch_35.docx": [100, 100, 100], "Jeremiah_ch_34.docx": [47, 47, 47], "James_ch_4.docx": [282, 282]}
+waging	{"Exodus_ch_17.docx": [2391], "Psalms_ch_35.docx": [100, 100], "Jeremiah_ch_34.docx": [47, 47], "James_ch_4.docx": [282]}
+waging	{"Exodus_ch_17.docx": [2391], "Psalms_ch_35.docx": [100], "Jeremiah_ch_34.docx": [47], "James_ch_4.docx": [282]}

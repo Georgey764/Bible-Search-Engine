@@ -1,0 +1,8 @@
+
+thorg	{"Genesis_ch_10.docx": [463]}
+sift	{"2 Samuel_ch_4.docx": [790], "Job_ch_28.docx": [445, 445, 445], "Daniel_ch_2.docx": [7794, 7794, 7794], "Luke_ch_22.docx": [3391, 3391]}
+thorg	{"Genesis_ch_10.docx": [463]}
+sift	{"2 Samuel_ch_4.docx": [790], "Job_ch_28.docx": [445, 445], "Daniel_ch_2.docx": [7794, 7794], "Luke_ch_22.docx": [3391]}
+7‘[h	{"Lamentations_ch_2.docx": [1442]}
+thorg	{"Genesis_ch_10.docx": [463]}
+sift	{"2 Samuel_ch_4.docx": [790], "Job_ch_28.docx": [445], "Daniel_ch_2.docx": [7794], "Luke_ch_22.docx": [3391]}

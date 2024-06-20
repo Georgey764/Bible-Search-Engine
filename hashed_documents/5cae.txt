@@ -1,0 +1,5 @@
+
+born!	{"Proverbs_ch_17.docx": [1793], "Matthew_ch_26.docx": [2532, 2532], "Mark_ch_14.docx": [2806, 2806], "John_ch_8.docx": [7372, 7372]}
+11davi	{"1 Kings_ch_2.docx": [1795]}
+born!	{"Proverbs_ch_17.docx": [1793], "Matthew_ch_26.docx": [2532], "Mark_ch_14.docx": [2806], "John_ch_8.docx": [7372]}
+born!	{"Proverbs_ch_17.docx": [1793], "Matthew_ch_26.docx": [2532], "Mark_ch_14.docx": [2806], "John_ch_8.docx": [7372]}

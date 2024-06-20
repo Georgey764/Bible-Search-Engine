@@ -1,0 +1,8 @@
+
+smart	{"1 Samuel_ch_2.docx": [1440, 1445, 1445, 1445], "1 Samuel_ch_25.docx": [365, 365, 365], "Proverbs_ch_3.docx": [1199, 1199, 1199], "Proverbs_ch_9.docx": [468, 468, 468], "Proverbs_ch_10.docx": [2145, 2145, 2145], "Proverbs_ch_15.docx": [6, 6, 6], "Proverbs_ch_16.docx": [3318, 3318, 3318], "Proverbs_ch_17.docx": [112, 2137, 2797, 112, 2137, 2797, 112, 2137, 2797], "Proverbs_ch_18.docx": [1224, 1224, 1224], "Proverbs_ch_24.docx": [374, 374, 374], "Hosea_ch_13.docx": [1820, 1820, 1820], "Matthew_ch_11.docx": [3135, 3135, 3135]}
+rur	{"1 Samuel_ch_27.docx": [689]}
+1‘once	{"Deuteronomy_ch_26.docx": [6]}
+smart	{"1 Samuel_ch_2.docx": [1440, 1445, 1445], "1 Samuel_ch_25.docx": [365, 365], "Proverbs_ch_3.docx": [1199, 1199], "Proverbs_ch_9.docx": [468, 468], "Proverbs_ch_10.docx": [2145, 2145], "Proverbs_ch_15.docx": [6, 6], "Proverbs_ch_16.docx": [3318, 3318], "Proverbs_ch_17.docx": [112, 2137, 2797, 112, 2137, 2797], "Proverbs_ch_18.docx": [1224, 1224], "Proverbs_ch_24.docx": [374, 374], "Hosea_ch_13.docx": [1820, 1820], "Matthew_ch_11.docx": [3135, 3135]}
+rur	{"1 Samuel_ch_27.docx": [689]}
+smart	{"1 Samuel_ch_2.docx": [1440, 1445], "1 Samuel_ch_25.docx": [365], "Proverbs_ch_3.docx": [1199], "Proverbs_ch_9.docx": [468], "Proverbs_ch_10.docx": [2145], "Proverbs_ch_15.docx": [6], "Proverbs_ch_16.docx": [3318], "Proverbs_ch_17.docx": [112, 2137, 2797], "Proverbs_ch_18.docx": [1224], "Proverbs_ch_24.docx": [374], "Hosea_ch_13.docx": [1820], "Matthew_ch_11.docx": [3135]}
+rur	{"1 Samuel_ch_27.docx": [689]}

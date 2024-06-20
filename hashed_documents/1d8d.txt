@@ -1,0 +1,4 @@
+
+coria	{"Exodus_ch_16.docx": [2211, 4828, 4828, 4828], "Numbers_ch_11.docx": [829, 829, 829]}
+coria	{"Exodus_ch_16.docx": [2211, 4828, 4828], "Numbers_ch_11.docx": [829, 829]}
+coria	{"Exodus_ch_16.docx": [2211, 4828], "Numbers_ch_11.docx": [829]}

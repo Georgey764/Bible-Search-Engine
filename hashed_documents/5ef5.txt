@@ -1,0 +1,11 @@
+
+jem	{"1 Chronicles_ch_7.docx": [3784]}
+neriah	{"Jeremiah_ch_32.docx": [1895, 2645, 2645, 2645], "Jeremiah_ch_36.docx": [552, 1199, 2390, 2594, 5697, 552, 1199, 2390, 2594, 5697, 552, 1199, 2390, 2594, 5697], "Jeremiah_ch_45.docx": [17, 17, 17], "Jeremiah_ch_51.docx": [9752, 9752, 9752]}
+uz!	{"Lamentations_ch_4.docx": [3570]}
+8.2kg)	{"1 Samuel_ch_17.docx": [772]}
+jem	{"1 Chronicles_ch_7.docx": [3784]}
+neriah	{"Jeremiah_ch_32.docx": [1895, 2645, 2645], "Jeremiah_ch_36.docx": [552, 1199, 2390, 2594, 5697, 552, 1199, 2390, 2594, 5697], "Jeremiah_ch_45.docx": [17, 17], "Jeremiah_ch_51.docx": [9752, 9752]}
+uz!	{"Lamentations_ch_4.docx": [3570]}
+jem	{"1 Chronicles_ch_7.docx": [3784]}
+neriah	{"Jeremiah_ch_32.docx": [1895, 2645], "Jeremiah_ch_36.docx": [552, 1199, 2390, 2594, 5697], "Jeremiah_ch_45.docx": [17], "Jeremiah_ch_51.docx": [9752]}
+uz!	{"Lamentations_ch_4.docx": [3570]}

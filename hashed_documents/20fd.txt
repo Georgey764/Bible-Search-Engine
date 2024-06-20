@@ -1,0 +1,4 @@
+
+theoph	{"Luke_ch_1.docx": [73], "Acts_ch_1.docx": [5, 5]}
+12‘tak	{"Jeremiah_ch_39.docx": [1932]}
+theoph	{"Luke_ch_1.docx": [73], "Acts_ch_1.docx": [5]}

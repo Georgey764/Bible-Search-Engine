@@ -1,0 +1,4 @@
+
+campg	{"Genesis_ch_32.docx": [218, 262, 262, 262]}
+campg	{"Genesis_ch_32.docx": [218, 262, 262]}
+campg	{"Genesis_ch_32.docx": [218, 262]}

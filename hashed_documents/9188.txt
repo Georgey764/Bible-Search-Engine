@@ -1,0 +1,9 @@
+
+wholeh	{"1 Samuel_ch_12.docx": [3515], "1 Kings_ch_2.docx": [565, 565, 565], "1 Chronicles_ch_12.docx": [4241, 4241, 4241], "2 Chronicles_ch_6.docx": [1920, 1920, 1920], "2 Chronicles_ch_25.docx": [191, 191, 191], "2 Chronicles_ch_35.docx": [4228, 4228, 4228], "Psalms_ch_9.docx": [89, 89, 89], "Psalms_ch_32.docx": [1282, 1282, 1282], "Psalms_ch_119.docx": [618, 618, 618], "Proverbs_ch_3.docx": [451, 451], "Jeremiah_ch_29.docx": [2012, 2012, 2012], "Lamentations_ch_3.docx": [2041, 2041, 2041], "Ezekiel_ch_23.docx": [1052, 1052, 1052], "Colossians_ch_3.docx": [2845, 2845]}
+hashb	{"Nehemiah_ch_8.docx": [1448]}
+24ko	{"Exodus_ch_6.docx": [3019]}
+wholeh	{"1 Samuel_ch_12.docx": [3515], "1 Kings_ch_2.docx": [565, 565], "1 Chronicles_ch_12.docx": [4241, 4241], "2 Chronicles_ch_6.docx": [1920, 1920], "2 Chronicles_ch_25.docx": [191, 191], "2 Chronicles_ch_35.docx": [4228, 4228], "Psalms_ch_9.docx": [89, 89], "Psalms_ch_32.docx": [1282, 1282], "Psalms_ch_119.docx": [618, 618], "Jeremiah_ch_29.docx": [2012, 2012], "Lamentations_ch_3.docx": [2041, 2041], "Ezekiel_ch_23.docx": [1052, 1052], "Proverbs_ch_3.docx": [451], "Colossians_ch_3.docx": [2845]}
+16mic	{"1 Chronicles_ch_8.docx": [1142]}
+hashb	{"Nehemiah_ch_8.docx": [1448]}
+wholeh	{"1 Samuel_ch_12.docx": [3515], "1 Kings_ch_2.docx": [565], "1 Chronicles_ch_12.docx": [4241], "2 Chronicles_ch_6.docx": [1920], "2 Chronicles_ch_25.docx": [191], "2 Chronicles_ch_35.docx": [4228], "Psalms_ch_9.docx": [89], "Psalms_ch_32.docx": [1282], "Psalms_ch_119.docx": [618], "Proverbs_ch_3.docx": [451], "Jeremiah_ch_29.docx": [2012], "Lamentations_ch_3.docx": [2041], "Ezekiel_ch_23.docx": [1052], "Colossians_ch_3.docx": [2845]}
+hashb	{"Nehemiah_ch_8.docx": [1448]}

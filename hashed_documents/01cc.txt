@@ -1,0 +1,4 @@
+
+barga	{"Job_ch_37.docx": [395], "Proverbs_ch_6.docx": [3614, 3614, 3614], "Isaiah_ch_43.docx": [535, 535, 535], "Micah_ch_2.docx": [857, 857, 857]}
+barga	{"Job_ch_37.docx": [395], "Proverbs_ch_6.docx": [3614, 3614], "Isaiah_ch_43.docx": [535, 535], "Micah_ch_2.docx": [857, 857]}
+barga	{"Job_ch_37.docx": [395], "Proverbs_ch_6.docx": [3614], "Isaiah_ch_43.docx": [535], "Micah_ch_2.docx": [857]}

@@ -1,0 +1,4 @@
+
+snorin	{"Jonah_ch_1.docx": [775, 916, 916, 916]}
+snorin	{"Jonah_ch_1.docx": [775, 916, 916]}
+snorin	{"Jonah_ch_1.docx": [775, 916]}

@@ -1,0 +1,4 @@
+
+counti	{"Numbers_ch_4.docx": [4794], "Deuteronomy_ch_16.docx": [1412, 1412], "2 Chronicles_ch_31.docx": [2979, 2979, 2979], "Acts_ch_21.docx": [7536, 7536]}
+counti	{"Deuteronomy_ch_16.docx": [1412, 1412], "2 Chronicles_ch_31.docx": [2979, 2979], "Acts_ch_21.docx": [7536]}
+counti	{"Numbers_ch_4.docx": [4794], "Deuteronomy_ch_16.docx": [1412], "2 Chronicles_ch_31.docx": [2979], "Acts_ch_21.docx": [7536]}

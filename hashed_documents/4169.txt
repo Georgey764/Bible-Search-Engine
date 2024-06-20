@@ -1,0 +1,4 @@
+
+herde	{"Genesis_ch_4.docx": [236, 2344, 2344, 2344], "Genesis_ch_32.docx": [2320, 2320, 2320], "Amos_ch_7.docx": [2926, 2926, 2926], "Luke_ch_8.docx": [5092, 5092]}
+herde	{"Genesis_ch_4.docx": [236, 2344, 2344], "Genesis_ch_32.docx": [2320, 2320], "Amos_ch_7.docx": [2926, 2926], "Luke_ch_8.docx": [5092]}
+herde	{"Genesis_ch_4.docx": [236, 2344], "Genesis_ch_32.docx": [2320], "Amos_ch_7.docx": [2926], "Luke_ch_8.docx": [5092]}

@@ -1,0 +1,4 @@
+
+chlo	{"1 Corinthians_ch_1.docx": [1420]}
+16chi	{"Genesis_ch_36.docx": [1728]}
+chlo	{"1 Corinthians_ch_1.docx": [1420]}

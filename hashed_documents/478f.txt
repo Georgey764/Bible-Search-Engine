@@ -1,0 +1,7 @@
+
+task	{"Exodus_ch_3.docx": [934], "Exodus_ch_5.docx": [1491, 1783, 1491, 1783, 1491, 1783], "1 Kings_ch_12.docx": [459, 459, 459], "Ezekiel_ch_44.docx": [2912, 2912, 2912], "Revelation_ch_3.docx": [310, 310]}
+ellan	{"2 Kings_ch_24.docx": [1194]}
+task	{"Exodus_ch_3.docx": [934], "Exodus_ch_5.docx": [1491, 1783, 1491, 1783], "1 Kings_ch_12.docx": [459, 459], "Ezekiel_ch_44.docx": [2912, 2912], "Revelation_ch_3.docx": [310]}
+ellan	{"2 Kings_ch_24.docx": [1194]}
+task	{"Exodus_ch_3.docx": [934], "Exodus_ch_5.docx": [1491, 1783], "1 Kings_ch_12.docx": [459], "Ezekiel_ch_44.docx": [2912], "Revelation_ch_3.docx": [310]}
+ellan	{"2 Kings_ch_24.docx": [1194]}

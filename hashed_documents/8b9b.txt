@@ -1,0 +1,4 @@
+
+chilio	{"Ruth_ch_1.docx": [62, 574, 574, 574]}
+chilio	{"Ruth_ch_1.docx": [62, 574, 574]}
+chilio	{"Ruth_ch_1.docx": [62, 574]}

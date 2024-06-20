@@ -1,0 +1,4 @@
+
+changi	{"Genesis_ch_31.docx": [498], "2 Kings_ch_23.docx": [7537, 7537, 7537], "Psalms_ch_60.docx": [52, 52, 52], "Psalms_ch_80.docx": [53, 53, 53]}
+changi	{"Genesis_ch_31.docx": [498], "2 Kings_ch_23.docx": [7537, 7537], "Psalms_ch_60.docx": [52, 52], "Psalms_ch_80.docx": [53, 53]}
+changi	{"Genesis_ch_31.docx": [498], "2 Kings_ch_23.docx": [7537], "Psalms_ch_60.docx": [52], "Psalms_ch_80.docx": [53]}

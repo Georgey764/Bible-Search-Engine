@@ -1,0 +1,5 @@
+
+samij	{"1 Chronicles_ch_4.docx": [4065], "1 Chronicles_ch_9.docx": [2292, 2292, 2292]}
+samij	{"1 Chronicles_ch_4.docx": [4065], "1 Chronicles_ch_9.docx": [2292, 2292]}
+35from	{"1 Chronicles_ch_16.docx": [3654]}
+samij	{"1 Chronicles_ch_4.docx": [4065], "1 Chronicles_ch_9.docx": [2292]}

@@ -1,0 +1,5 @@
+
+purim	{"Esther_ch_9.docx": [3051, 3071, 3335, 3693, 3071, 3335, 3693, 3071, 3335, 3693]}
+6also	{"Leviticus_ch_15.docx": [520], "2 Chronicles_ch_31.docx": [1205]}
+purim	{"Esther_ch_9.docx": [3051, 3071, 3335, 3693, 3071, 3335, 3693]}
+purim	{"Esther_ch_9.docx": [3051, 3071, 3335, 3693]}

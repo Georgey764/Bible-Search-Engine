@@ -1,0 +1,7 @@
+
+peace-	{"Leviticus_ch_3.docx": [861], "Leviticus_ch_4.docx": [5089, 5089, 5089], "Leviticus_ch_9.docx": [2240, 2240, 2240], "Leviticus_ch_10.docx": [2377, 2377, 2377], "Leviticus_ch_17.docx": [295, 295, 295], "Leviticus_ch_19.docx": [412, 412, 412], "Numbers_ch_6.docx": [2773, 2773, 2773], "Numbers_ch_7.docx": [2108, 2799, 3485, 4164, 4847, 5529, 6214, 6904, 7596, 8282, 8970, 9656, 2108, 2799, 3485, 4164, 4847, 5529, 6214, 6904, 7596, 8282, 8970, 9656, 2108, 2799, 3485, 4164, 4847, 5529, 6214, 6904, 7596, 8282, 8970, 9656], "1 Kings_ch_8.docx": [10369, 10369, 10369]}
+phid	{"Joshua_ch_10.docx": [398]}
+peace-	{"Leviticus_ch_3.docx": [861], "Leviticus_ch_4.docx": [5089, 5089], "Leviticus_ch_9.docx": [2240, 2240], "Leviticus_ch_10.docx": [2377, 2377], "Leviticus_ch_17.docx": [295, 295], "Leviticus_ch_19.docx": [412, 412], "Numbers_ch_6.docx": [2773, 2773], "Numbers_ch_7.docx": [2108, 2799, 3485, 4164, 4847, 5529, 6214, 6904, 7596, 8282, 8970, 9656, 2108, 2799, 3485, 4164, 4847, 5529, 6214, 6904, 7596, 8282, 8970, 9656], "1 Kings_ch_8.docx": [10369, 10369]}
+phid	{"Joshua_ch_10.docx": [398]}
+peace-	{"Leviticus_ch_3.docx": [861], "Leviticus_ch_4.docx": [5089], "Leviticus_ch_9.docx": [2240], "Leviticus_ch_10.docx": [2377], "Leviticus_ch_17.docx": [295], "Leviticus_ch_19.docx": [412], "Numbers_ch_6.docx": [2773], "Numbers_ch_7.docx": [2108, 2799, 3485, 4164, 4847, 5529, 6214, 6904, 7596, 8282, 8970, 9656], "1 Kings_ch_8.docx": [10369]}
+phid	{"Joshua_ch_10.docx": [398]}

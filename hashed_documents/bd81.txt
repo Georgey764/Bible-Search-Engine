@@ -1,0 +1,4 @@
+
+hattil	{"Ezra_ch_2.docx": [2320], "Nehemiah_ch_7.docx": [3418, 3418, 3418]}
+hattil	{"Ezra_ch_2.docx": [2320], "Nehemiah_ch_7.docx": [3418, 3418]}
+hattil	{"Ezra_ch_2.docx": [2320], "Nehemiah_ch_7.docx": [3418]}

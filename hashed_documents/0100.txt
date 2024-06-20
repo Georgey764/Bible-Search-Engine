@@ -1,0 +1,4 @@
+
+choru	{"1 Chronicles_ch_6.docx": [2216], "1 Chronicles_ch_25.docx": [1231, 1231, 1231]}
+choru	{"1 Chronicles_ch_6.docx": [2216], "1 Chronicles_ch_25.docx": [1231, 1231]}
+choru	{"1 Chronicles_ch_6.docx": [2216], "1 Chronicles_ch_25.docx": [1231]}

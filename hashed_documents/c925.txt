@@ -1,0 +1,4 @@
+
+phad	{"Numbers_ch_1.docx": [951], "Numbers_ch_7.docx": [6317, 6962, 6317, 6962, 6317, 6962], "Numbers_ch_10.docx": [2567, 2567, 2567], "Numbers_ch_34.docx": [2574, 2574, 2574], "2 Kings_ch_23.docx": [7953, 7953, 7953], "1 Chronicles_ch_3.docx": [1544, 2216, 1544, 2216, 1544, 2216], "1 Chronicles_ch_27.docx": [2693, 2693, 2693]}
+phad	{"Numbers_ch_1.docx": [951], "Numbers_ch_7.docx": [6317, 6962, 6317, 6962], "Numbers_ch_10.docx": [2567, 2567], "Numbers_ch_34.docx": [2574, 2574], "2 Kings_ch_23.docx": [7953, 7953], "1 Chronicles_ch_3.docx": [1544, 2216, 1544, 2216], "1 Chronicles_ch_27.docx": [2693, 2693]}
+phad	{"Numbers_ch_1.docx": [951], "Numbers_ch_7.docx": [6317, 6962], "Numbers_ch_10.docx": [2567], "Numbers_ch_34.docx": [2574], "2 Kings_ch_23.docx": [7953], "1 Chronicles_ch_3.docx": [1544, 2216], "1 Chronicles_ch_27.docx": [2693]}

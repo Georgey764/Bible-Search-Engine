@@ -1,0 +1,4 @@
+
+shovel	{"Matthew_ch_3.docx": [1402], "Luke_ch_3.docx": [5307, 5307]}
+shovel	{"Matthew_ch_3.docx": [1402], "Luke_ch_3.docx": [5307]}
+shovel	{"Matthew_ch_3.docx": [1402], "Luke_ch_3.docx": [5307]}

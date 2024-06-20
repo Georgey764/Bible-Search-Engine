@@ -1,0 +1,4 @@
+
+feedi	{"1 Samuel_ch_21.docx": [968], "Song of Solomon_ch_4.docx": [788, 788, 788], "Ezekiel_ch_3.docx": [338, 338, 338], "Ezekiel_ch_34.docx": [230, 270, 230, 270, 230, 270], "Matthew_ch_8.docx": [3881, 3881, 3881], "Mark_ch_5.docx": [1024, 1024], "Luke_ch_8.docx": [4795, 4795], "Luke_ch_15.docx": [1900, 1900]}
+feedi	{"1 Samuel_ch_21.docx": [968], "Song of Solomon_ch_4.docx": [788, 788], "Ezekiel_ch_3.docx": [338, 338], "Ezekiel_ch_34.docx": [230, 270, 230, 270], "Matthew_ch_8.docx": [3881, 3881], "Mark_ch_5.docx": [1024], "Luke_ch_8.docx": [4795], "Luke_ch_15.docx": [1900]}
+feedi	{"1 Samuel_ch_21.docx": [968], "Song of Solomon_ch_4.docx": [788], "Ezekiel_ch_3.docx": [338], "Ezekiel_ch_34.docx": [230, 270], "Matthew_ch_8.docx": [3881], "Mark_ch_5.docx": [1024], "Luke_ch_8.docx": [4795], "Luke_ch_15.docx": [1900]}

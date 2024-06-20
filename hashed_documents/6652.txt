@@ -1,0 +1,7 @@
+
+assaul	{"Deuteronomy_ch_22.docx": [3921], "Proverbs_ch_1.docx": [2847, 2847, 2847], "1 Corinthians_ch_8.docx": [1588, 1588]}
+knows!	{"Revelation_ch_7.docx": [2078]}
+assaul	{"Deuteronomy_ch_22.docx": [3921], "Proverbs_ch_1.docx": [2847, 2847], "1 Corinthians_ch_8.docx": [1588]}
+17‘it’	{"Jeremiah_ch_34.docx": [3103]}
+assaul	{"Deuteronomy_ch_22.docx": [3921], "Proverbs_ch_1.docx": [2847], "1 Corinthians_ch_8.docx": [1588]}
+knows!	{"Revelation_ch_7.docx": [2078]}

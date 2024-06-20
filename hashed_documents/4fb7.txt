@@ -1,0 +1,4 @@
+
+arsena	{"Numbers_ch_34.docx": [983, 1072, 1072, 1072]}
+arsena	{"Numbers_ch_34.docx": [983, 1072, 1072]}
+arsena	{"Numbers_ch_34.docx": [983, 1072]}

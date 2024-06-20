@@ -1,0 +1,4 @@
+
+poorn	{"Psalms_ch_31.docx": [1158], "Proverbs_ch_24.docx": [3243, 3243, 3243]}
+poorn	{"Psalms_ch_31.docx": [1158], "Proverbs_ch_24.docx": [3243, 3243]}
+poorn	{"Psalms_ch_31.docx": [1158], "Proverbs_ch_24.docx": [3243]}

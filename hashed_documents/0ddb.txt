@@ -1,0 +1,4 @@
+
+statur	{"2 Chronicles_ch_17.docx": [1556], "Job_ch_40.docx": [878, 878, 878], "Isaiah_ch_35.docx": [317, 317, 317], "Ephesians_ch_4.docx": [1179, 1179]}
+statur	{"2 Chronicles_ch_17.docx": [1556], "Job_ch_40.docx": [878, 878], "Isaiah_ch_35.docx": [317, 317], "Ephesians_ch_4.docx": [1179]}
+statur	{"2 Chronicles_ch_17.docx": [1556], "Job_ch_40.docx": [878], "Isaiah_ch_35.docx": [317], "Ephesians_ch_4.docx": [1179]}

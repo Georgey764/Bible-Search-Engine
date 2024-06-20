@@ -1,0 +1,4 @@
+
+heavi	{"Psalms_ch_73.docx": [1416], "Ecclesiastes_ch_9.docx": [2552, 2552, 2552], "Mark_ch_12.docx": [5688, 5688], "Luke_ch_20.docx": [5572, 5572]}
+heavi	{"Psalms_ch_73.docx": [1416], "Ecclesiastes_ch_9.docx": [2552, 2552], "Mark_ch_12.docx": [5688], "Luke_ch_20.docx": [5572]}
+heavi	{"Psalms_ch_73.docx": [1416], "Ecclesiastes_ch_9.docx": [2552], "Mark_ch_12.docx": [5688], "Luke_ch_20.docx": [5572]}

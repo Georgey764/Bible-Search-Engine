@@ -1,0 +1,5 @@
+
+ell	{"Genesis_ch_14.docx": [20, 1094, 1094, 1094], "Judges_ch_12.docx": [2611, 2706, 2719, 2733, 2754, 2777, 2611, 2706, 2719, 2733, 2754, 2777, 2611, 2706, 2719, 2733, 2754, 2777], "2 Samuel_ch_23.docx": [4407, 4407], "2 Kings_ch_24.docx": [1194, 1194, 1194], "1 Chronicles_ch_1.docx": [2659, 2659, 2659], "1 Chronicles_ch_11.docx": [6545, 6545, 6545]}
+ell	{"Genesis_ch_14.docx": [20, 1094, 1094], "Judges_ch_12.docx": [2611, 2706, 2719, 2733, 2754, 2777, 2611, 2706, 2719, 2733, 2754, 2777], "2 Kings_ch_24.docx": [1194, 1194], "1 Chronicles_ch_1.docx": [2659, 2659], "1 Chronicles_ch_11.docx": [6545, 6545], "2 Samuel_ch_23.docx": [4407]}
+2yes	{"Job_ch_10.docx": [108], "Psalms_ch_96.docx": [81], "Psalms_ch_100.docx": [79], "Ecclesiastes_ch_11.docx": [107], "Hosea_ch_6.docx": [247]}
+ell	{"Genesis_ch_14.docx": [20, 1094], "Judges_ch_12.docx": [2611, 2706, 2719, 2733, 2754, 2777], "2 Samuel_ch_23.docx": [4407], "2 Kings_ch_24.docx": [1194], "1 Chronicles_ch_1.docx": [2659], "1 Chronicles_ch_11.docx": [6545]}

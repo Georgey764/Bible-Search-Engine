@@ -1,0 +1,4 @@
+
+spear!	{"1 Samuel_ch_19.docx": [1533], "2 Samuel_ch_23.docx": [3610, 3610, 3610], "Job_ch_34.docx": [411, 411, 411]}
+spear!	{"1 Samuel_ch_19.docx": [1533], "2 Samuel_ch_23.docx": [3610, 3610], "Job_ch_34.docx": [411, 411]}
+spear!	{"1 Samuel_ch_19.docx": [1533], "2 Samuel_ch_23.docx": [3610], "Job_ch_34.docx": [411]}

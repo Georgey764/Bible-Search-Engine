@@ -1,0 +1,4 @@
+
+jekt	{"Genesis_ch_10.docx": [2704, 2915, 3088, 3088, 2915, 3088]}
+jekt	{"Genesis_ch_10.docx": [2704, 3088, 2915, 3088]}
+jekt	{"Genesis_ch_10.docx": [2704, 2915, 3088]}

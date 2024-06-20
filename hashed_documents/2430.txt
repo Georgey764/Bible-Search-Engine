@@ -1,0 +1,8 @@
+
+loaded	{"Genesis_ch_37.docx": [3281], "Genesis_ch_42.docx": [3190, 3190, 3190], "Genesis_ch_43.docx": [1809, 1809, 1809], "Genesis_ch_44.docx": [1615, 1615, 1615], "1 Samuel_ch_16.docx": [3436, 3436, 3436], "1 Samuel_ch_25.docx": [2657, 2657, 2657], "1 Chronicles_ch_12.docx": [5116, 5116, 5116], "Amos_ch_2.docx": [3565, 3565, 3565], "2 Timothy_ch_3.docx": [1026, 1026]}
+huge!	{"Numbers_ch_13.docx": [3664]}
+loaded	{"Genesis_ch_37.docx": [3281], "Genesis_ch_42.docx": [3190, 3190], "Genesis_ch_43.docx": [1809, 1809], "Genesis_ch_44.docx": [1615, 1615], "1 Samuel_ch_16.docx": [3436, 3436], "1 Samuel_ch_25.docx": [2657, 2657], "1 Chronicles_ch_12.docx": [5116, 5116], "Amos_ch_2.docx": [3565, 3565], "2 Timothy_ch_3.docx": [1026]}
+huge!	{"Numbers_ch_13.docx": [3664]}
+1‘acc	{"Hosea_ch_13.docx": [6]}
+loaded	{"Genesis_ch_37.docx": [3281], "Genesis_ch_42.docx": [3190], "Genesis_ch_43.docx": [1809], "Genesis_ch_44.docx": [1615], "1 Samuel_ch_16.docx": [3436], "1 Samuel_ch_25.docx": [2657], "1 Chronicles_ch_12.docx": [5116], "Amos_ch_2.docx": [3565], "2 Timothy_ch_3.docx": [1026]}
+huge!	{"Numbers_ch_13.docx": [3664]}

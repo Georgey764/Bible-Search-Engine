@@ -1,0 +1,4 @@
+
+indig	{"Deuteronomy_ch_29.docx": [4201], "Job_ch_32.docx": [192, 192, 192], "Ecclesiastes_ch_7.docx": [324, 324], "Jeremiah_ch_15.docx": [3279, 3279, 3279], "2 Corinthians_ch_7.docx": [1793, 1793]}
+indig	{"Deuteronomy_ch_29.docx": [4201], "Job_ch_32.docx": [192, 192], "Jeremiah_ch_15.docx": [3279, 3279], "Ecclesiastes_ch_7.docx": [324], "2 Corinthians_ch_7.docx": [1793]}
+indig	{"Deuteronomy_ch_29.docx": [4201], "Job_ch_32.docx": [192], "Ecclesiastes_ch_7.docx": [324], "Jeremiah_ch_15.docx": [3279], "2 Corinthians_ch_7.docx": [1793]}

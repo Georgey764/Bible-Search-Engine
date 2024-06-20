@@ -1,0 +1,4 @@
+
+sous	{"1 Chronicles_ch_18.docx": [2160], "Ezra_ch_4.docx": [1460, 1460, 1460]}
+sous	{"1 Chronicles_ch_18.docx": [2160], "Ezra_ch_4.docx": [1460, 1460]}
+sous	{"1 Chronicles_ch_18.docx": [2160], "Ezra_ch_4.docx": [1460]}

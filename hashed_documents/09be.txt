@@ -1,0 +1,5 @@
+
+enthr	{"Esther_ch_1.docx": [143, 158, 174, 158, 174, 158, 174]}
+12‘now	{"Exodus_ch_4.docx": [1837], "Isaiah_ch_47.docx": [2225], "Jeremiah_ch_9.docx": [2107], "Jeremiah_ch_46.docx": [1806], "Daniel_ch_3.docx": [1686], "Joel_ch_2.docx": [2071]}
+enthr	{"Esther_ch_1.docx": [143, 158, 174, 158, 174]}
+enthr	{"Esther_ch_1.docx": [143, 158, 174]}

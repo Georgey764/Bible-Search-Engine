@@ -1,0 +1,4 @@
+
+peli	{"Leviticus_ch_11.docx": [1920], "Deuteronomy_ch_14.docx": [1498, 1498], "Psalms_ch_102.docx": [553, 553, 553]}
+peli	{"Leviticus_ch_11.docx": [1920], "Psalms_ch_102.docx": [553, 553], "Deuteronomy_ch_14.docx": [1498]}
+peli	{"Leviticus_ch_11.docx": [1920], "Deuteronomy_ch_14.docx": [1498], "Psalms_ch_102.docx": [553]}

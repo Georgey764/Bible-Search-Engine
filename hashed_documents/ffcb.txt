@@ -1,0 +1,8 @@
+
+delinq	{"1 Samuel_ch_1.docx": [2495]}
+ esers	{"1 Chronicles_ch_4.docx": [3423]}
+delinq	{"1 Samuel_ch_1.docx": [2495]}
+ esers	{"1 Chronicles_ch_4.docx": [3423]}
+13i’v	{"Psalms_ch_31.docx": [1471]}
+delinq	{"1 Samuel_ch_1.docx": [2495]}
+ esers	{"1 Chronicles_ch_4.docx": [3423]}

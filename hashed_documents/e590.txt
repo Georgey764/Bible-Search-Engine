@@ -1,0 +1,5 @@
+
+stop!	{"Numbers_ch_11.docx": [4563], "2 Samuel_ch_2.docx": [3172, 3172, 3172], "Psalms_ch_94.docx": [717, 717, 717], "Amos_ch_7.docx": [905, 905, 905]}
+12‘d	{"Exodus_ch_32.docx": [1708], "Job_ch_38.docx": [1069], "Ezekiel_ch_43.docx": [2339]}
+stop!	{"Numbers_ch_11.docx": [4563], "2 Samuel_ch_2.docx": [3172, 3172], "Psalms_ch_94.docx": [717, 717], "Amos_ch_7.docx": [905, 905]}
+stop!	{"Numbers_ch_11.docx": [4563], "2 Samuel_ch_2.docx": [3172], "Psalms_ch_94.docx": [717], "Amos_ch_7.docx": [905]}

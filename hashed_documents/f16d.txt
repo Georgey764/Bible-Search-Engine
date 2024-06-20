@@ -1,0 +1,5 @@
+
+transg	{"Job_ch_36.docx": [781], "Mark_ch_15.docx": [2771, 2771]}
+5why	{"Genesis_ch_44.docx": [589], "Psalms_ch_43.docx": [424], "Isaiah_ch_1.docx": [774]}
+transg	{"Job_ch_36.docx": [781], "Mark_ch_15.docx": [2771]}
+transg	{"Job_ch_36.docx": [781], "Mark_ch_15.docx": [2771]}

@@ -1,0 +1,5 @@
+
+magd	{"Exodus_ch_14.docx": [69, 98, 128, 98, 128, 98, 128], "Numbers_ch_33.docx": [773, 773, 773], "Matthew_ch_27.docx": [6516, 7167, 6516, 7167], "Mark_ch_15.docx": [4378, 5302, 4378, 5302], "Luke_ch_8.docx": [214, 214], "John_ch_19.docx": [3486, 3486], "John_ch_20.docx": [15, 1127, 2192, 15, 1127, 2192]}
+magd	{"Exodus_ch_14.docx": [69, 98, 128, 98, 128], "Numbers_ch_33.docx": [773, 773], "Matthew_ch_27.docx": [6516, 7167], "Mark_ch_15.docx": [4378, 5302], "Luke_ch_8.docx": [214], "John_ch_19.docx": [3486], "John_ch_20.docx": [15, 1127, 2192]}
+29y	{"Exodus_ch_14.docx": [5171]}
+magd	{"Exodus_ch_14.docx": [69, 98, 128], "Numbers_ch_33.docx": [773], "Matthew_ch_27.docx": [6516, 7167], "Mark_ch_15.docx": [4378, 5302], "Luke_ch_8.docx": [214], "John_ch_19.docx": [3486], "John_ch_20.docx": [15, 1127, 2192]}

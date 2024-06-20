@@ -1,0 +1,4 @@
+
+longin	{"Psalms_ch_63.docx": [167], "Luke_ch_15.docx": [1861, 1861], "2 Corinthians_ch_7.docx": [962, 962], "2 Corinthians_ch_9.docx": [2193, 2193], "Philippians_ch_2.docx": [3030, 3030], "1 Thessalonians_ch_3.docx": [787, 794, 787, 794]}
+longin	{"Psalms_ch_63.docx": [167], "Luke_ch_15.docx": [1861], "2 Corinthians_ch_7.docx": [962], "2 Corinthians_ch_9.docx": [2193], "Philippians_ch_2.docx": [3030], "1 Thessalonians_ch_3.docx": [787, 794]}
+longin	{"Psalms_ch_63.docx": [167], "Luke_ch_15.docx": [1861], "2 Corinthians_ch_7.docx": [962], "2 Corinthians_ch_9.docx": [2193], "Philippians_ch_2.docx": [3030], "1 Thessalonians_ch_3.docx": [787, 794]}

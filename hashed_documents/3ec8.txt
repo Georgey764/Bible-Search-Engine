@@ -1,0 +1,3 @@
+
+annas	{"Luke_ch_3.docx": [417], "John_ch_18.docx": [1403, 3005, 1403, 3005], "Acts_ch_4.docx": [516, 516]}
+annas	{"Luke_ch_3.docx": [417], "John_ch_18.docx": [1403, 3005], "Acts_ch_4.docx": [516]}

@@ -1,0 +1,5 @@
+
+closin	{"Jeremiah_ch_33.docx": [777]}
+27al	{"Genesis_ch_17.docx": [3779], "Deuteronomy_ch_14.docx": [2784], "2 Chronicles_ch_35.docx": [6022]}
+closin	{"Jeremiah_ch_33.docx": [777]}
+closin	{"Jeremiah_ch_33.docx": [777]}

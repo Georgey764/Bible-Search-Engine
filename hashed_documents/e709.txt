@@ -1,0 +1,4 @@
+
+severe	{"1 Kings_ch_18.docx": [192], "Jeremiah_ch_15.docx": [3369, 3369, 3369], "Galatians_ch_4.docx": [1340, 1340]}
+severe	{"1 Kings_ch_18.docx": [192], "Jeremiah_ch_15.docx": [3369, 3369], "Galatians_ch_4.docx": [1340]}
+severe	{"1 Kings_ch_18.docx": [192], "Jeremiah_ch_15.docx": [3369], "Galatians_ch_4.docx": [1340]}

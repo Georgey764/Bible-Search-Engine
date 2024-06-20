@@ -1,0 +1,10 @@
+
+kic	{"Deuteronomy_ch_32.docx": [2063], "Job_ch_30.docx": [1285, 1285, 1285], "Psalms_ch_36.docx": [1109, 1109, 1109], "Acts_ch_9.docx": [1018, 1018], "Acts_ch_26.docx": [3192, 3192]}
+moats	{"2 Kings_ch_19.docx": [4111], "Jeremiah_ch_51.docx": [5353, 5353, 5353]}
+bushes	{"Nehemiah_ch_8.docx": [3726], "Psalms_ch_118.docx": [971, 971, 971], "Song of Solomon_ch_2.docx": [124, 124, 124], "Isaiah_ch_5.docx": [416, 647, 953, 416, 647, 953, 416, 647, 953], "Isaiah_ch_7.docx": [3295, 3571, 3295, 3571, 3295, 3571], "Isaiah_ch_33.docx": [1734, 1734, 1734], "Isaiah_ch_57.docx": [691, 691, 691], "Jeremiah_ch_4.docx": [560, 560, 560], "Luke_ch_6.docx": [5838, 5838]}
+kic	{"Deuteronomy_ch_32.docx": [2063], "Job_ch_30.docx": [1285, 1285], "Psalms_ch_36.docx": [1109, 1109], "Acts_ch_9.docx": [1018], "Acts_ch_26.docx": [3192]}
+moats	{"2 Kings_ch_19.docx": [4111], "Jeremiah_ch_51.docx": [5353, 5353]}
+bushes	{"Nehemiah_ch_8.docx": [3726], "Psalms_ch_118.docx": [971, 971], "Song of Solomon_ch_2.docx": [124, 124], "Isaiah_ch_5.docx": [416, 647, 953, 416, 647, 953], "Isaiah_ch_7.docx": [3295, 3571, 3295, 3571], "Isaiah_ch_33.docx": [1734, 1734], "Isaiah_ch_57.docx": [691, 691], "Jeremiah_ch_4.docx": [560, 560], "Luke_ch_6.docx": [5838]}
+kic	{"Deuteronomy_ch_32.docx": [2063], "Job_ch_30.docx": [1285], "Psalms_ch_36.docx": [1109], "Acts_ch_9.docx": [1018], "Acts_ch_26.docx": [3192]}
+moats	{"2 Kings_ch_19.docx": [4111], "Jeremiah_ch_51.docx": [5353]}
+bushes	{"Nehemiah_ch_8.docx": [3726], "Psalms_ch_118.docx": [971], "Song of Solomon_ch_2.docx": [124], "Isaiah_ch_5.docx": [416, 647, 953], "Isaiah_ch_7.docx": [3295, 3571], "Isaiah_ch_33.docx": [1734], "Isaiah_ch_57.docx": [691], "Jeremiah_ch_4.docx": [560], "Luke_ch_6.docx": [5838]}

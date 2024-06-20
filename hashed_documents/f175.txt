@@ -1,0 +1,4 @@
+
+kick	{"Deuteronomy_ch_32.docx": [2063], "Job_ch_30.docx": [1285, 1285, 1285], "Psalms_ch_36.docx": [1109, 1109, 1109], "Acts_ch_9.docx": [1018, 1018], "Acts_ch_26.docx": [3192, 3192]}
+kick	{"Deuteronomy_ch_32.docx": [2063], "Job_ch_30.docx": [1285, 1285], "Psalms_ch_36.docx": [1109, 1109], "Acts_ch_9.docx": [1018], "Acts_ch_26.docx": [3192]}
+kick	{"Deuteronomy_ch_32.docx": [2063], "Job_ch_30.docx": [1285], "Psalms_ch_36.docx": [1109], "Acts_ch_9.docx": [1018], "Acts_ch_26.docx": [3192]}

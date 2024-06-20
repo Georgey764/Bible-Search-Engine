@@ -1,0 +1,6 @@
+
+fasten	{"Genesis_ch_28.docx": [1639], "Exodus_ch_25.docx": [2912, 2912, 2912], "Exodus_ch_28.docx": [746, 1663, 4767, 746, 1663, 4767, 746, 1663, 4767], "Exodus_ch_39.docx": [1857, 2439, 1857, 2439, 1857, 2439], "1 Kings_ch_7.docx": [3977, 6460, 3977, 6460, 3977, 6460], "Esther_ch_1.docx": [1042, 1042, 1042], "Proverbs_ch_6.docx": [2109, 2109]}
+fasten	{"Genesis_ch_28.docx": [1639], "Exodus_ch_25.docx": [2912, 2912], "Exodus_ch_28.docx": [746, 1663, 4767, 746, 1663, 4767], "Exodus_ch_39.docx": [1857, 2439, 1857, 2439], "1 Kings_ch_7.docx": [3977, 6460, 3977, 6460], "Esther_ch_1.docx": [1042, 1042], "Proverbs_ch_6.docx": [2109]}
+2‘tak	{"Numbers_ch_1.docx": [217], "Numbers_ch_4.docx": [70], "Numbers_ch_26.docx": [115]}
+40thro	{"Jeremiah_ch_23.docx": [6990]}
+fasten	{"Genesis_ch_28.docx": [1639], "Exodus_ch_25.docx": [2912], "Exodus_ch_28.docx": [746, 1663, 4767], "Exodus_ch_39.docx": [1857, 2439], "1 Kings_ch_7.docx": [3977, 6460], "Esther_ch_1.docx": [1042], "Proverbs_ch_6.docx": [2109]}

@@ -1,0 +1,2 @@
+
+12,0	{"Numbers_ch_31.docx": [506], "Joshua_ch_8.docx": [2673], "2 Samuel_ch_10.docx": [870], "2 Samuel_ch_17.docx": [58], "1 Kings_ch_4.docx": [3039], "1 Kings_ch_10.docx": [3960], "2 Chronicles_ch_1.docx": [2150], "2 Chronicles_ch_9.docx": [3801], "Psalms_ch_60.docx": [129, 151]}

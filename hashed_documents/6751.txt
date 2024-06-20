@@ -1,0 +1,4 @@
+
+pall	{"1 Chronicles_ch_5.docx": [510], "1 Chronicles_ch_27.docx": [1276, 1276, 1276], "Luke_ch_7.docx": [1996, 1996]}
+pall	{"1 Chronicles_ch_5.docx": [510], "1 Chronicles_ch_27.docx": [1276, 1276], "Luke_ch_7.docx": [1996]}
+pall	{"1 Chronicles_ch_5.docx": [510], "1 Chronicles_ch_27.docx": [1276], "Luke_ch_7.docx": [1996]}

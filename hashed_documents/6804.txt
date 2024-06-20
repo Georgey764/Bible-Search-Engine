@@ -1,0 +1,4 @@
+
+steril	{"Genesis_ch_11.docx": [3365], "Genesis_ch_25.docx": [2163, 2163, 2163], "Deuteronomy_ch_7.docx": [2279, 2279, 2279], "1 Samuel_ch_2.docx": [778, 778, 778], "Isaiah_ch_54.docx": [13, 13, 13], "Luke_ch_1.docx": [4468, 4468], "Galatians_ch_4.docx": [3139, 3139]}
+steril	{"Genesis_ch_11.docx": [3365], "Genesis_ch_25.docx": [2163, 2163], "Deuteronomy_ch_7.docx": [2279, 2279], "1 Samuel_ch_2.docx": [778, 778], "Isaiah_ch_54.docx": [13, 13], "Luke_ch_1.docx": [4468], "Galatians_ch_4.docx": [3139]}
+steril	{"Genesis_ch_11.docx": [3365], "Genesis_ch_25.docx": [2163], "Deuteronomy_ch_7.docx": [2279], "1 Samuel_ch_2.docx": [778], "Isaiah_ch_54.docx": [13], "Luke_ch_1.docx": [4468], "Galatians_ch_4.docx": [3139]}

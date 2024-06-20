@@ -1,0 +1,4 @@
+
+ridicu	{"Genesis_ch_38.docx": [3158], "2 Chronicles_ch_30.docx": [1835, 1835, 1835], "Proverbs_ch_11.docx": [242, 242, 242], "Proverbs_ch_29.docx": [888, 888, 888], "Daniel_ch_9.docx": [2911, 2911, 2911], "Daniel_ch_11.docx": [3573, 3573, 3573], "Micah_ch_3.docx": [1224, 1224, 1224]}
+ridicu	{"Genesis_ch_38.docx": [3158], "2 Chronicles_ch_30.docx": [1835, 1835], "Proverbs_ch_11.docx": [242, 242], "Proverbs_ch_29.docx": [888, 888], "Daniel_ch_9.docx": [2911, 2911], "Daniel_ch_11.docx": [3573, 3573], "Micah_ch_3.docx": [1224, 1224]}
+ridicu	{"Genesis_ch_38.docx": [3158], "2 Chronicles_ch_30.docx": [1835], "Proverbs_ch_11.docx": [242], "Proverbs_ch_29.docx": [888], "Daniel_ch_9.docx": [2911], "Daniel_ch_11.docx": [3573], "Micah_ch_3.docx": [1224]}

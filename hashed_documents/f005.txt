@@ -1,0 +1,2 @@
+
+14he	{"Deuteronomy_ch_11.docx": [1789], "Judges_ch_8.docx": [2913], "Judges_ch_12.docx": [2683], "1 Kings_ch_5.docx": [1879], "2 Kings_ch_14.docx": [2316], "2 Kings_ch_23.docx": [3516], "1 Chronicles_ch_11.docx": [2599], "2 Chronicles_ch_2.docx": [2720], "Job_ch_22.docx": [1210], "Psalms_ch_145.docx": [1361], "Psalms_ch_147.docx": [1239], "Proverbs_ch_6.docx": [1413], "Ezekiel_ch_26.docx": [2369]}

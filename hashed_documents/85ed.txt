@@ -1,0 +1,7 @@
+
+glow	{"Exodus_ch_34.docx": [4397], "Job_ch_37.docx": [2027, 2027, 2027], "Mark_ch_9.docx": [214, 214], "Luke_ch_9.docx": [4051, 4051], "Revelation_ch_1.docx": [2521, 2521], "Revelation_ch_18.docx": [27, 27]}
+moolam	{"Joshua_ch_19.docx": [2722]}
+glow	{"Exodus_ch_34.docx": [4397], "Job_ch_37.docx": [2027, 2027], "Mark_ch_9.docx": [214], "Luke_ch_9.docx": [4051], "Revelation_ch_1.docx": [2521], "Revelation_ch_18.docx": [27]}
+moolam	{"Joshua_ch_19.docx": [2722]}
+glow	{"Exodus_ch_34.docx": [4397], "Job_ch_37.docx": [2027], "Mark_ch_9.docx": [214], "Luke_ch_9.docx": [4051], "Revelation_ch_1.docx": [2521], "Revelation_ch_18.docx": [27]}
+moolam	{"Joshua_ch_19.docx": [2722]}

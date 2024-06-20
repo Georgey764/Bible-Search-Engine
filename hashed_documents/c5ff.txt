@@ -1,0 +1,5 @@
+
+appa	{"Proverbs_ch_14.docx": [351], "Proverbs_ch_16.docx": [208, 208, 208], "Proverbs_ch_25.docx": [1364, 1364, 1364], "Joel_ch_2.docx": [5521, 5521, 5521]}
+1in	{"Genesis_ch_1.docx": [299], "2 Kings_ch_3.docx": [5], "1 Chronicles_ch_19.docx": [5], "Ezra_ch_1.docx": [4], "Psalms_ch_20.docx": [60], "Psalms_ch_31.docx": [86], "Psalms_ch_71.docx": [125], "Psalms_ch_76.docx": [91], "Psalms_ch_120.docx": [89], "Isaiah_ch_4.docx": [4], "Isaiah_ch_26.docx": [4], "Haggai_ch_1.docx": [4]}
+appa	{"Proverbs_ch_14.docx": [351], "Proverbs_ch_16.docx": [208, 208], "Proverbs_ch_25.docx": [1364, 1364], "Joel_ch_2.docx": [5521, 5521]}
+appa	{"Proverbs_ch_14.docx": [351], "Proverbs_ch_16.docx": [208], "Proverbs_ch_25.docx": [1364], "Joel_ch_2.docx": [5521]}

@@ -1,0 +1,5 @@
+
+jadon	{"Nehemiah_ch_3.docx": [2646]}
+jadon	{"Nehemiah_ch_3.docx": [2646]}
+25‘but	{"Isaiah_ch_7.docx": [3475], "Isaiah_ch_41.docx": [4346], "Jeremiah_ch_5.docx": [4573], "Ezekiel_ch_18.docx": [4032]}
+jadon	{"Nehemiah_ch_3.docx": [2646]}

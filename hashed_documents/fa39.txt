@@ -1,0 +1,9 @@
+
+taskma	{"Exodus_ch_5.docx": [1491, 1783, 1783, 1783], "1 Kings_ch_12.docx": [459, 459, 459]}
+–whose	{"Hebrews_ch_7.docx": [829]}
+taskma	{"Exodus_ch_5.docx": [1491, 1783, 1783], "1 Kings_ch_12.docx": [459, 459]}
+7ram’	{"Exodus_ch_35.docx": [825]}
+9each	{"Exodus_ch_36.docx": [1461]}
+30‘yet	{"Matthew_ch_19.docx": [3889]}
+taskma	{"Exodus_ch_5.docx": [1491, 1783], "1 Kings_ch_12.docx": [459]}
+–whose	{"Hebrews_ch_7.docx": [829]}

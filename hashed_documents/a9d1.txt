@@ -1,0 +1,5 @@
+
+rebir	{"Matthew_ch_19.docx": [3524]}
+18‘for	{"Genesis_ch_18.docx": [2269], "Numbers_ch_24.docx": [2454], "Numbers_ch_25.docx": [2351], "Isaiah_ch_7.docx": [2522], "Isaiah_ch_51.docx": [3461], "Jeremiah_ch_44.docx": [3735], "Jeremiah_ch_49.docx": [3228], "Ezekiel_ch_3.docx": [2606]}
+rebir	{"Matthew_ch_19.docx": [3524]}
+rebir	{"Matthew_ch_19.docx": [3524]}

@@ -1,0 +1,4 @@
+
+innerm	{"1 Kings_ch_6.docx": [3145, 3391, 3409, 3391, 3409, 3391, 3409], "1 Kings_ch_7.docx": [6776, 6776, 6776], "Acts_ch_16.docx": [6712, 6712]}
+innerm	{"1 Kings_ch_6.docx": [3145, 3391, 3409, 3391, 3409], "1 Kings_ch_7.docx": [6776, 6776], "Acts_ch_16.docx": [6712]}
+innerm	{"1 Kings_ch_6.docx": [3145, 3391, 3409], "1 Kings_ch_7.docx": [6776], "Acts_ch_16.docx": [6712]}

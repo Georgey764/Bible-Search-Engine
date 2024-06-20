@@ -1,0 +1,4 @@
+
+cessp	{"Psalms_ch_7.docx": [1533], "Psalms_ch_57.docx": [977, 977, 977], "Psalms_ch_113.docx": [532, 532, 532], "Proverbs_ch_22.docx": [1447, 1447, 1447], "Ecclesiastes_ch_10.docx": [769, 769, 769], "Isaiah_ch_47.docx": [2059, 2059, 2059]}
+cessp	{"Psalms_ch_7.docx": [1533], "Psalms_ch_57.docx": [977, 977], "Psalms_ch_113.docx": [532, 532], "Proverbs_ch_22.docx": [1447, 1447], "Ecclesiastes_ch_10.docx": [769, 769], "Isaiah_ch_47.docx": [2059, 2059]}
+cessp	{"Psalms_ch_7.docx": [1533], "Psalms_ch_57.docx": [977], "Psalms_ch_113.docx": [532], "Proverbs_ch_22.docx": [1447], "Ecclesiastes_ch_10.docx": [769], "Isaiah_ch_47.docx": [2059]}

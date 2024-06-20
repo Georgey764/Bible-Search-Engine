@@ -1,0 +1,4 @@
+
+death’	{"Psalms_ch_18.docx": [639], "Psalms_ch_107.docx": [1544, 1544, 1544], "Proverbs_ch_13.docx": [1557, 1557, 1557], "Proverbs_ch_14.docx": [2432, 2432, 2432], "Proverbs_ch_21.docx": [612, 612, 612]}
+death’	{"Psalms_ch_18.docx": [639], "Psalms_ch_107.docx": [1544, 1544], "Proverbs_ch_13.docx": [1557, 1557], "Proverbs_ch_14.docx": [2432, 2432], "Proverbs_ch_21.docx": [612, 612]}
+death’	{"Psalms_ch_18.docx": [639], "Psalms_ch_107.docx": [1544], "Proverbs_ch_13.docx": [1557], "Proverbs_ch_14.docx": [2432], "Proverbs_ch_21.docx": [612]}

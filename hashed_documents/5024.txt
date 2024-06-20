@@ -1,0 +1,6 @@
+
+unbea	{"Exodus_ch_1.docx": [1279]}
+pre-de	{"Ephesians_ch_1.docx": [542, 545, 545]}
+unbea	{"Exodus_ch_1.docx": [1279]}
+unbea	{"Exodus_ch_1.docx": [1279]}
+pre-de	{"Ephesians_ch_1.docx": [542, 545]}

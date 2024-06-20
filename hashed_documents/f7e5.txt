@@ -1,0 +1,4 @@
+
+dago	{"Judges_ch_16.docx": [4152], "1 Samuel_ch_5.docx": [28, 195, 212, 625, 946, 954, 1291, 28, 195, 212, 625, 946, 954, 1291, 28, 195, 212, 625, 946, 954, 1291], "1 Chronicles_ch_10.docx": [1582, 1582, 1582], "Isaiah_ch_46.docx": [10, 10, 10]}
+dago	{"Judges_ch_16.docx": [4152], "1 Samuel_ch_5.docx": [28, 195, 212, 625, 946, 954, 1291, 28, 195, 212, 625, 946, 954, 1291], "1 Chronicles_ch_10.docx": [1582, 1582], "Isaiah_ch_46.docx": [10, 10]}
+dago	{"Judges_ch_16.docx": [4152], "1 Samuel_ch_5.docx": [28, 195, 212, 625, 946, 954, 1291], "1 Chronicles_ch_10.docx": [1582], "Isaiah_ch_46.docx": [10]}

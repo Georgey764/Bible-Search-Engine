@@ -1,0 +1,4 @@
+
+bindin	{"Matthew_ch_23.docx": [2037, 2239, 2239, 2239]}
+bindin	{"Matthew_ch_23.docx": [2037, 2239, 2239]}
+bindin	{"Matthew_ch_23.docx": [2037, 2239]}

@@ -1,0 +1,4 @@
+
+poti	{"Genesis_ch_37.docx": [4860], "Genesis_ch_39.docx": [18, 322, 18, 322, 18, 322], "2 Chronicles_ch_33.docx": [857, 857, 857], "Psalms_ch_58.docx": [555, 555, 555], "Isaiah_ch_65.docx": [1880, 1880, 1880], "Jeremiah_ch_27.docx": [1621, 1621, 1621], "Micah_ch_5.docx": [2926, 2926, 2926], "Malachi_ch_3.docx": [1038, 1038, 1038]}
+poti	{"Genesis_ch_37.docx": [4860], "Genesis_ch_39.docx": [18, 322, 18, 322], "2 Chronicles_ch_33.docx": [857, 857], "Psalms_ch_58.docx": [555, 555], "Isaiah_ch_65.docx": [1880, 1880], "Jeremiah_ch_27.docx": [1621, 1621], "Micah_ch_5.docx": [2926, 2926], "Malachi_ch_3.docx": [1038, 1038]}
+poti	{"Genesis_ch_37.docx": [4860], "Genesis_ch_39.docx": [18, 322], "2 Chronicles_ch_33.docx": [857], "Psalms_ch_58.docx": [555], "Isaiah_ch_65.docx": [1880], "Jeremiah_ch_27.docx": [1621], "Micah_ch_5.docx": [2926], "Malachi_ch_3.docx": [1038]}

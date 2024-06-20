@@ -1,0 +1,4 @@
+
+nahsh	{"1 Chronicles_ch_2.docx": [925, 1022, 1022], "Luke_ch_3.docx": [6887, 6887]}
+nahsh	{"1 Chronicles_ch_2.docx": [925, 1022], "Luke_ch_3.docx": [6887]}
+nahsh	{"1 Chronicles_ch_2.docx": [925, 1022], "Luke_ch_3.docx": [6887]}

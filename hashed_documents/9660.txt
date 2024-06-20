@@ -1,0 +1,4 @@
+
+rente	{"Exodus_ch_22.docx": [2417], "Mark_ch_12.docx": [115, 115]}
+rente	{"Exodus_ch_22.docx": [2417], "Mark_ch_12.docx": [115]}
+rente	{"Exodus_ch_22.docx": [2417], "Mark_ch_12.docx": [115]}

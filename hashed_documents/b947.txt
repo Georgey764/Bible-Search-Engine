@@ -1,0 +1,6 @@
+
+petha	{"Nehemiah_ch_9.docx": [1018], "Nehemiah_ch_11.docx": [4071, 4071]}
+out!<s	{"Romans_ch_9.docx": [3554]}
+petha	{"Nehemiah_ch_9.docx": [1018], "Nehemiah_ch_11.docx": [4071]}
+petha	{"Nehemiah_ch_9.docx": [1018], "Nehemiah_ch_11.docx": [4071]}
+out!<s	{"Romans_ch_9.docx": [3554]}

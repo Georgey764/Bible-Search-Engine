@@ -1,0 +1,7 @@
+
+welf	{"1 Chronicles_ch_18.docx": [1150], "Philippians_ch_2.docx": [2122, 3701, 2122, 3701]}
+re-ere	{"Ezra_ch_4.docx": [2134]}
+welf	{"1 Chronicles_ch_18.docx": [1150], "Philippians_ch_2.docx": [2122, 3701]}
+re-ere	{"Ezra_ch_4.docx": [2134]}
+welf	{"1 Chronicles_ch_18.docx": [1150], "Philippians_ch_2.docx": [2122, 3701]}
+re-ere	{"Ezra_ch_4.docx": [2134]}

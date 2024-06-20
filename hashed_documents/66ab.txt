@@ -1,0 +1,5 @@
+
+mattha	{"2 Kings_ch_24.docx": [2692], "1 Chronicles_ch_9.docx": [2159, 2159, 2159], "Matthew_ch_1.docx": [1204, 1229, 1204, 1229, 1204, 1229], "Luke_ch_3.docx": [6263, 6665, 6263, 6665]}
+1an	{"Genesis_ch_36.docx": [4], "Exodus_ch_6.docx": [4], "Exodus_ch_34.docx": [4], "Exodus_ch_39.docx": [4], "Leviticus_ch_6.docx": [4], "Leviticus_ch_19.docx": [4], "Leviticus_ch_20.docx": [4], "Leviticus_ch_21.docx": [4], "Joshua_ch_11.docx": [4], "Joshua_ch_14.docx": [61], "2 Samuel_ch_23.docx": [5], "2 Kings_ch_7.docx": [5], "Isaiah_ch_12.docx": [4], "Isaiah_ch_50.docx": [234], "Jeremiah_ch_15.docx": [4], "Ezekiel_ch_15.docx": [4], "Ezekiel_ch_18.docx": [4], "Ezekiel_ch_21.docx": [4], "Ezekiel_ch_23.docx": [4], "Ezekiel_ch_30.docx": [4], "Hosea_ch_3.docx": [4]}
+mattha	{"2 Kings_ch_24.docx": [2692], "1 Chronicles_ch_9.docx": [2159, 2159], "Matthew_ch_1.docx": [1204, 1229, 1204, 1229], "Luke_ch_3.docx": [6263, 6665]}
+mattha	{"2 Kings_ch_24.docx": [2692], "1 Chronicles_ch_9.docx": [2159], "Matthew_ch_1.docx": [1204, 1229], "Luke_ch_3.docx": [6263, 6665]}

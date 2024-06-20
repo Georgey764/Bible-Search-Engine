@@ -1,0 +1,7 @@
+
+barai	{"1 Chronicles_ch_8.docx": [1405]}
+rumore	{"Nehemiah_ch_6.docx": [789]}
+barai	{"1 Chronicles_ch_8.docx": [1405]}
+rumore	{"Nehemiah_ch_6.docx": [789]}
+barai	{"1 Chronicles_ch_8.docx": [1405]}
+rumore	{"Nehemiah_ch_6.docx": [789]}

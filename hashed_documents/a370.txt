@@ -1,0 +1,4 @@
+
+hazo	{"Judges_ch_4.docx": [38, 66, 96, 6476, 66, 96, 6476, 66, 96, 6476], "1 Samuel_ch_12.docx": [1533, 1533, 1533], "2 Kings_ch_15.docx": [4337, 4337, 4337]}
+hazo	{"Judges_ch_4.docx": [38, 66, 96, 6476, 66, 96, 6476], "1 Samuel_ch_12.docx": [1533, 1533], "2 Kings_ch_15.docx": [4337, 4337]}
+hazo	{"Judges_ch_4.docx": [38, 66, 96, 6476], "1 Samuel_ch_12.docx": [1533], "2 Kings_ch_15.docx": [4337]}

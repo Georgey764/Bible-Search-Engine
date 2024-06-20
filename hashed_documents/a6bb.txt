@@ -1,0 +1,5 @@
+
+newly	{"Psalms_ch_144.docx": [1194], "Acts_ch_2.docx": [12328, 12328], "1 Timothy_ch_3.docx": [772, 772]}
+7ro	{"Psalms_ch_98.docx": [646]}
+newly	{"Psalms_ch_144.docx": [1194], "Acts_ch_2.docx": [12328], "1 Timothy_ch_3.docx": [772]}
+newly	{"Psalms_ch_144.docx": [1194], "Acts_ch_2.docx": [12328], "1 Timothy_ch_3.docx": [772]}

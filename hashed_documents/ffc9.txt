@@ -1,0 +1,4 @@
+
+loses	{"Leviticus_ch_13.docx": [5766], "Matthew_ch_16.docx": [3436, 3547, 3436, 3547, 3436, 3547], "Mark_ch_9.docx": [6747, 6747], "Luke_ch_14.docx": [4335, 4335], "Luke_ch_18.docx": [3524, 3524]}
+loses	{"Leviticus_ch_13.docx": [5766], "Matthew_ch_16.docx": [3436, 3547, 3436, 3547], "Mark_ch_9.docx": [6747], "Luke_ch_14.docx": [4335], "Luke_ch_18.docx": [3524]}
+loses	{"Leviticus_ch_13.docx": [5766], "Matthew_ch_16.docx": [3436, 3547], "Mark_ch_9.docx": [6747], "Luke_ch_14.docx": [4335], "Luke_ch_18.docx": [3524]}

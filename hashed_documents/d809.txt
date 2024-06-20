@@ -1,0 +1,4 @@
+
+disca	{"Ecclesiastes_ch_3.docx": [518], "Ezekiel_ch_18.docx": [5019, 5019, 5019], "Micah_ch_4.docx": [1393, 1393, 1393]}
+disca	{"Ecclesiastes_ch_3.docx": [518], "Ezekiel_ch_18.docx": [5019, 5019], "Micah_ch_4.docx": [1393, 1393]}
+disca	{"Ecclesiastes_ch_3.docx": [518], "Ezekiel_ch_18.docx": [5019], "Micah_ch_4.docx": [1393]}

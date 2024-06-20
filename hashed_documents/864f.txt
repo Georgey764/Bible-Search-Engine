@@ -1,0 +1,4 @@
+
+heth	{"1 Chronicles_ch_1.docx": [1143], "Ezekiel_ch_47.docx": [2768, 2768, 2768]}
+heth	{"1 Chronicles_ch_1.docx": [1143], "Ezekiel_ch_47.docx": [2768, 2768]}
+heth	{"1 Chronicles_ch_1.docx": [1143], "Ezekiel_ch_47.docx": [2768]}

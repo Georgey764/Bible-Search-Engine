@@ -1,0 +1,4 @@
+
+emper	{"Acts_ch_11.docx": [7125], "Acts_ch_18.docx": [434, 464, 495, 434, 464, 495]}
+35wa	{"Numbers_ch_1.docx": [3124]}
+emper	{"Acts_ch_11.docx": [7125], "Acts_ch_18.docx": [434, 464, 495]}

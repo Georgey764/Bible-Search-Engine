@@ -1,0 +1,6 @@
+
+ahab’	{"1 Kings_ch_16.docx": [5269], "1 Kings_ch_21.docx": [1266, 1266, 1266], "2 Kings_ch_8.docx": [3314, 3314, 3314], "2 Kings_ch_10.docx": [35, 700, 1203, 35, 700, 1203, 35, 700, 1203], "2 Chronicles_ch_22.docx": [411, 676, 411, 676, 411, 676]}
+unque	{"Luke_ch_3.docx": [5453]}
+ahab’	{"1 Kings_ch_16.docx": [5269], "1 Kings_ch_21.docx": [1266, 1266], "2 Kings_ch_8.docx": [3314, 3314], "2 Kings_ch_10.docx": [35, 700, 1203, 35, 700, 1203], "2 Chronicles_ch_22.docx": [411, 676, 411, 676]}
+ahab’	{"1 Kings_ch_16.docx": [5269], "1 Kings_ch_21.docx": [1266], "2 Kings_ch_8.docx": [3314], "2 Kings_ch_10.docx": [35, 700, 1203], "2 Chronicles_ch_22.docx": [411, 676]}
+unque	{"Luke_ch_3.docx": [5453]}

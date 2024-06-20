@@ -1,0 +1,6 @@
+
+tabora	{"Judges_ch_4.docx": [4872]}
+3it	{"Deuteronomy_ch_1.docx": [313], "2 Samuel_ch_23.docx": [333], "2 Kings_ch_22.docx": [354], "2 Chronicles_ch_34.docx": [257], "Ezra_ch_6.docx": [326], "Psalms_ch_133.docx": [264], "Proverbs_ch_20.docx": [657], "Habakkuk_ch_2.docx": [404]}
+15‘j	{"Deuteronomy_ch_7.docx": [2369], "Judges_ch_11.docx": [2195]}
+tabora	{"Judges_ch_4.docx": [4872]}
+tabora	{"Judges_ch_4.docx": [4872]}

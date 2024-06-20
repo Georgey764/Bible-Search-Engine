@@ -1,0 +1,4 @@
+
+adna	{"2 Chronicles_ch_17.docx": [1976], "Nehemiah_ch_12.docx": [1266, 1266, 1266]}
+adna	{"2 Chronicles_ch_17.docx": [1976], "Nehemiah_ch_12.docx": [1266, 1266]}
+adna	{"2 Chronicles_ch_17.docx": [1976], "Nehemiah_ch_12.docx": [1266]}

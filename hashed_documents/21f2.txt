@@ -1,0 +1,5 @@
+
+lowest	{"1 Kings_ch_6.docx": [661], "Psalms_ch_88.docx": [637, 637, 637], "Jeremiah_ch_29.docx": [4347, 4347, 4347], "Lamentations_ch_3.docx": [4569, 4569, 4569]}
+lowest	{"1 Kings_ch_6.docx": [661], "Psalms_ch_88.docx": [637, 637], "Jeremiah_ch_29.docx": [4347, 4347], "Lamentations_ch_3.docx": [4569, 4569]}
+2say	{"Job_ch_3.docx": [15], "Psalms_ch_124.docx": [118], "Jonah_ch_2.docx": [19], "Matthew_ch_3.docx": [21]}
+lowest	{"1 Kings_ch_6.docx": [661], "Psalms_ch_88.docx": [637], "Jeremiah_ch_29.docx": [4347], "Lamentations_ch_3.docx": [4569]}

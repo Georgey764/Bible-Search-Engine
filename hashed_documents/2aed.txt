@@ -1,0 +1,4 @@
+
+gadgad	{"Numbers_ch_33.docx": [2403, 2455, 2455, 2455], "Deuteronomy_ch_10.docx": [1030, 1073, 1030, 1073, 1030, 1073]}
+gadgad	{"Numbers_ch_33.docx": [2403, 2455, 2455], "Deuteronomy_ch_10.docx": [1030, 1073, 1030, 1073]}
+gadgad	{"Numbers_ch_33.docx": [2403, 2455], "Deuteronomy_ch_10.docx": [1030, 1073]}

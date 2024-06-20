@@ -1,0 +1,5 @@
+
+subdue	{"2 Samuel_ch_12.docx": [4590]}
+64‘	{"Deuteronomy_ch_28.docx": [9108], "Jeremiah_ch_51.docx": [10645], "Lamentations_ch_3.docx": [5341]}
+subdue	{"2 Samuel_ch_12.docx": [4590]}
+subdue	{"2 Samuel_ch_12.docx": [4590]}

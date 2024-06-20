@@ -1,0 +1,4 @@
+
+disd	{"Judges_ch_9.docx": [7476], "Jeremiah_ch_2.docx": [6416, 6416, 6416]}
+disd	{"Judges_ch_9.docx": [7476], "Jeremiah_ch_2.docx": [6416, 6416]}
+disd	{"Judges_ch_9.docx": [7476], "Jeremiah_ch_2.docx": [6416]}

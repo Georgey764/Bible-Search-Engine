@@ -1,0 +1,9 @@
+
+abilit	{"Job_ch_40.docx": [1776], "Proverbs_ch_16.docx": [3400, 3400, 3400], "Jeremiah_ch_48.docx": [1566, 1566, 1566], "Matthew_ch_25.docx": [1437, 1437, 1437], "Acts_ch_2.docx": [8698, 8698], "1 Corinthians_ch_9.docx": [2372, 2372], "1 Corinthians_ch_12.docx": [829, 3059, 829, 3059], "1 Corinthians_ch_14.docx": [2595, 2595], "2 Corinthians_ch_1.docx": [1491, 1491], "2 Corinthians_ch_3.docx": [637, 637], "1 Timothy_ch_4.docx": [1554, 1554]}
+struts	{"Proverbs_ch_30.docx": [3170]}
+51th	{"Genesis_ch_31.docx": [7451], "Numbers_ch_3.docx": [6185], "Joshua_ch_19.docx": [4565], "1 Kings_ch_1.docx": [7152], "1 Chronicles_ch_1.docx": [4316]}
+4will	{"Job_ch_22.docx": [272], "Job_ch_41.docx": [249]}
+abilit	{"Job_ch_40.docx": [1776], "Proverbs_ch_16.docx": [3400, 3400], "Jeremiah_ch_48.docx": [1566, 1566], "Matthew_ch_25.docx": [1437, 1437], "Acts_ch_2.docx": [8698], "1 Corinthians_ch_9.docx": [2372], "1 Corinthians_ch_12.docx": [829, 3059], "1 Corinthians_ch_14.docx": [2595], "2 Corinthians_ch_1.docx": [1491], "2 Corinthians_ch_3.docx": [637], "1 Timothy_ch_4.docx": [1554]}
+struts	{"Proverbs_ch_30.docx": [3170]}
+abilit	{"Job_ch_40.docx": [1776], "Proverbs_ch_16.docx": [3400], "Jeremiah_ch_48.docx": [1566], "Matthew_ch_25.docx": [1437], "Acts_ch_2.docx": [8698], "1 Corinthians_ch_9.docx": [2372], "1 Corinthians_ch_12.docx": [829, 3059], "1 Corinthians_ch_14.docx": [2595], "2 Corinthians_ch_1.docx": [1491], "2 Corinthians_ch_3.docx": [637], "1 Timothy_ch_4.docx": [1554]}
+struts	{"Proverbs_ch_30.docx": [3170]}

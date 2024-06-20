@@ -1,0 +1,5 @@
+
+tren	{"Nehemiah_ch_4.docx": [1929], "Ezekiel_ch_26.docx": [1338, 1338, 1338]}
+15no	{"1 Samuel_ch_23.docx": [2273], "Jeremiah_ch_2.docx": [2281], "Ezekiel_ch_42.docx": [789], "Daniel_ch_5.docx": [2794]}
+tren	{"Nehemiah_ch_4.docx": [1929], "Ezekiel_ch_26.docx": [1338, 1338]}
+tren	{"Nehemiah_ch_4.docx": [1929], "Ezekiel_ch_26.docx": [1338]}

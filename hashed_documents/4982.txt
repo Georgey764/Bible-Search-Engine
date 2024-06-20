@@ -1,0 +1,7 @@
+
+exterm	{"Deuteronomy_ch_28.docx": [2590]}
+hay	{"Joshua_ch_2.docx": [827], "Ruth_ch_3.docx": [744, 744, 744], "1 Kings_ch_4.docx": [3182, 3182, 3182], "2 Kings_ch_19.docx": [4444, 4444, 4444], "Psalms_ch_102.docx": [1012, 1012, 1012], "Proverbs_ch_27.docx": [2447, 2447, 2447], "Isaiah_ch_9.docx": [3118, 3118, 3118], "Isaiah_ch_27.docx": [1695, 1695, 1695], "Isaiah_ch_37.docx": [4525, 4525, 4525], "Jeremiah_ch_14.docx": [712, 712, 712], "1 Corinthians_ch_3.docx": [1436, 1436]}
+exterm	{"Deuteronomy_ch_28.docx": [2590]}
+hay	{"Joshua_ch_2.docx": [827], "Ruth_ch_3.docx": [744, 744], "1 Kings_ch_4.docx": [3182, 3182], "2 Kings_ch_19.docx": [4444, 4444], "Psalms_ch_102.docx": [1012, 1012], "Proverbs_ch_27.docx": [2447, 2447], "Isaiah_ch_9.docx": [3118, 3118], "Isaiah_ch_27.docx": [1695, 1695], "Isaiah_ch_37.docx": [4525, 4525], "Jeremiah_ch_14.docx": [712, 712], "1 Corinthians_ch_3.docx": [1436]}
+exterm	{"Deuteronomy_ch_28.docx": [2590]}
+hay	{"Joshua_ch_2.docx": [827], "Ruth_ch_3.docx": [744], "1 Kings_ch_4.docx": [3182], "2 Kings_ch_19.docx": [4444], "Psalms_ch_102.docx": [1012], "Proverbs_ch_27.docx": [2447], "Isaiah_ch_9.docx": [3118], "Isaiah_ch_27.docx": [1695], "Isaiah_ch_37.docx": [4525], "Jeremiah_ch_14.docx": [712], "1 Corinthians_ch_3.docx": [1436]}

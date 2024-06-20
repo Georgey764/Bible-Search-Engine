@@ -1,0 +1,5 @@
+
+spla	{"Exodus_ch_12.docx": [768], "2 Kings_ch_9.docx": [6458, 6458, 6458], "Revelation_ch_19.docx": [2080, 2080]}
+spla	{"Exodus_ch_12.docx": [768], "2 Kings_ch_9.docx": [6458, 6458], "Revelation_ch_19.docx": [2080]}
+79bro	{"Numbers_ch_7.docx": [9082]}
+spla	{"Exodus_ch_12.docx": [768], "2 Kings_ch_9.docx": [6458], "Revelation_ch_19.docx": [2080]}

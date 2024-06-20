@@ -1,0 +1,4 @@
+
+brier	{"Judges_ch_9.docx": [3196, 3269, 3269, 3269], "Matthew_ch_7.docx": [1954, 1954, 1954], "Matthew_ch_13.docx": [624, 624, 624], "Mark_ch_4.docx": [673, 673], "Luke_ch_6.docx": [5795, 5795]}
+brier	{"Judges_ch_9.docx": [3196, 3269, 3269], "Matthew_ch_7.docx": [1954, 1954], "Matthew_ch_13.docx": [624, 624], "Mark_ch_4.docx": [673], "Luke_ch_6.docx": [5795]}
+brier	{"Judges_ch_9.docx": [3196, 3269], "Matthew_ch_7.docx": [1954], "Matthew_ch_13.docx": [624], "Mark_ch_4.docx": [673], "Luke_ch_6.docx": [5795]}

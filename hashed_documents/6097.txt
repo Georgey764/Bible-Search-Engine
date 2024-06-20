@@ -1,0 +1,4 @@
+
+phares	{"Genesis_ch_38.docx": [4228], "Genesis_ch_46.docx": [1464, 1493, 1464, 1464, 1493], "Numbers_ch_26.docx": [1759, 1764, 1836, 1759, 1764, 1759, 1764, 1836], "Numbers_ch_33.docx": [1773, 1825, 1773, 1825, 1773, 1825]}
+phares	{"Genesis_ch_38.docx": [4228], "Genesis_ch_46.docx": [1464, 1464, 1493], "Numbers_ch_26.docx": [1759, 1764, 1759, 1764, 1836], "Numbers_ch_33.docx": [1773, 1825, 1773, 1825]}
+phares	{"Genesis_ch_38.docx": [4228], "Genesis_ch_46.docx": [1464, 1493], "Numbers_ch_26.docx": [1759, 1764, 1836], "Numbers_ch_33.docx": [1773, 1825]}

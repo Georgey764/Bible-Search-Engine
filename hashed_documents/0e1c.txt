@@ -1,0 +1,5 @@
+
+swears	{"Numbers_ch_30.docx": [243], "Matthew_ch_23.docx": [1953, 2027, 2216, 2229, 1953, 2027, 2216, 2229, 1953, 2027, 2216, 2229]}
+swears	{"Numbers_ch_30.docx": [243], "Matthew_ch_23.docx": [1953, 2027, 2216, 2229, 1953, 2027, 2216, 2229]}
+2mor	{"Psalms_ch_45.docx": [734]}
+swears	{"Numbers_ch_30.docx": [243], "Matthew_ch_23.docx": [1953, 2027, 2216, 2229]}

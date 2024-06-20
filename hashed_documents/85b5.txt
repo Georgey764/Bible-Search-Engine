@@ -1,0 +1,4 @@
+
+moves	{"Genesis_ch_9.docx": [105], "Exodus_ch_35.docx": [541, 541, 541], "Leviticus_ch_11.docx": [5619, 5619, 5619], "Deuteronomy_ch_27.docx": [2406, 2406, 2406], "1 Samuel_ch_14.docx": [1260, 1260, 1260], "2 Samuel_ch_7.docx": [323, 323, 323], "Isaiah_ch_38.docx": [1074, 1074, 1074], "Jeremiah_ch_3.docx": [58, 58, 58], "Romans_ch_10.docx": [1307, 1307]}
+moves	{"Genesis_ch_9.docx": [105], "Exodus_ch_35.docx": [541, 541], "Leviticus_ch_11.docx": [5619, 5619], "Deuteronomy_ch_27.docx": [2406, 2406], "1 Samuel_ch_14.docx": [1260, 1260], "2 Samuel_ch_7.docx": [323, 323], "Isaiah_ch_38.docx": [1074, 1074], "Jeremiah_ch_3.docx": [58, 58], "Romans_ch_10.docx": [1307]}
+moves	{"Genesis_ch_9.docx": [105], "Exodus_ch_35.docx": [541], "Leviticus_ch_11.docx": [5619], "Deuteronomy_ch_27.docx": [2406], "1 Samuel_ch_14.docx": [1260], "2 Samuel_ch_7.docx": [323], "Isaiah_ch_38.docx": [1074], "Jeremiah_ch_3.docx": [58], "Romans_ch_10.docx": [1307]}

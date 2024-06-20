@@ -1,0 +1,8 @@
+
+ailus	{"Numbers_ch_33.docx": [1375, 1421, 1421, 1421]}
+deare	{"Job_ch_19.docx": [1317], "Psalms_ch_88.docx": [1795, 1795, 1795], "Song of Solomon_ch_5.docx": [2695, 2695, 2695]}
+ailus	{"Numbers_ch_33.docx": [1375, 1421, 1421]}
+1‘ev	{"Deuteronomy_ch_15.docx": [6]}
+deare	{"Job_ch_19.docx": [1317], "Psalms_ch_88.docx": [1795, 1795], "Song of Solomon_ch_5.docx": [2695, 2695]}
+ailus	{"Numbers_ch_33.docx": [1375, 1421]}
+deare	{"Job_ch_19.docx": [1317], "Psalms_ch_88.docx": [1795], "Song of Solomon_ch_5.docx": [2695]}

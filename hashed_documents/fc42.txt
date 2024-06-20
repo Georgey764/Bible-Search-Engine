@@ -1,0 +1,5 @@
+
+begins	{"Exodus_ch_12.docx": [7780], "Leviticus_ch_1.docx": [7, 7, 7], "Deuteronomy_ch_12.docx": [2643, 2643, 2643], "Joshua_ch_12.docx": [7, 7, 7], "Joshua_ch_15.docx": [7, 7, 7], "2 Samuel_ch_17.docx": [1146, 1146, 1146], "1 Chronicles_ch_10.docx": [16, 16, 16], "Proverbs_ch_1.docx": [713, 713, 713], "Acts_ch_1.docx": [47, 47]}
+begins	{"Exodus_ch_12.docx": [7780], "Leviticus_ch_1.docx": [7, 7], "Deuteronomy_ch_12.docx": [2643, 2643], "Joshua_ch_12.docx": [7, 7], "Joshua_ch_15.docx": [7, 7], "2 Samuel_ch_17.docx": [1146, 1146], "1 Chronicles_ch_10.docx": [16, 16], "Proverbs_ch_1.docx": [713, 713], "Acts_ch_1.docx": [47]}
+64o	{"1 Kings_ch_8.docx": [10310]}
+begins	{"Exodus_ch_12.docx": [7780], "Leviticus_ch_1.docx": [7], "Deuteronomy_ch_12.docx": [2643], "Joshua_ch_12.docx": [7], "Joshua_ch_15.docx": [7], "2 Samuel_ch_17.docx": [1146], "1 Chronicles_ch_10.docx": [16], "Proverbs_ch_1.docx": [713], "Acts_ch_1.docx": [47]}

@@ -1,0 +1,8 @@
+
+brand	{"Numbers_ch_6.docx": [149], "Deuteronomy_ch_4.docx": [702, 702, 702], "1 Kings_ch_8.docx": [1676, 1676, 1676], "Isaiah_ch_21.docx": [1965, 1965, 1965], "Jeremiah_ch_50.docx": [7814, 7814, 7814], "1 Timothy_ch_4.docx": [46, 46], "Revelation_ch_13.docx": [2517, 2543, 2517, 2543], "Revelation_ch_14.docx": [1463, 1814, 1463, 1814], "Revelation_ch_16.docx": [255, 255], "Revelation_ch_19.docx": [3347, 3347], "Revelation_ch_20.docx": [534, 534]}
+pim	{"Ezekiel_ch_16.docx": [5048]}
+23‘s	{"Leviticus_ch_7.docx": [3350], "Numbers_ch_6.docx": [3783], "2 Samuel_ch_1.docx": [3163], "1 Kings_ch_12.docx": [3761], "1 Kings_ch_18.docx": [3331], "1 Chronicles_ch_16.docx": [2435], "Isaiah_ch_10.docx": [3439], "Jeremiah_ch_32.docx": [3833], "Amos_ch_5.docx": [4067], "Matthew_ch_10.docx": [2777], "Matthew_ch_25.docx": [2477]}
+brand	{"Numbers_ch_6.docx": [149], "Deuteronomy_ch_4.docx": [702, 702], "1 Kings_ch_8.docx": [1676, 1676], "Isaiah_ch_21.docx": [1965, 1965], "Jeremiah_ch_50.docx": [7814, 7814], "1 Timothy_ch_4.docx": [46], "Revelation_ch_13.docx": [2517, 2543], "Revelation_ch_14.docx": [1463, 1814], "Revelation_ch_16.docx": [255], "Revelation_ch_19.docx": [3347], "Revelation_ch_20.docx": [534]}
+pim	{"Ezekiel_ch_16.docx": [5048]}
+brand	{"Numbers_ch_6.docx": [149], "Deuteronomy_ch_4.docx": [702], "1 Kings_ch_8.docx": [1676], "Isaiah_ch_21.docx": [1965], "Jeremiah_ch_50.docx": [7814], "1 Timothy_ch_4.docx": [46], "Revelation_ch_13.docx": [2517, 2543], "Revelation_ch_14.docx": [1463, 1814], "Revelation_ch_16.docx": [255], "Revelation_ch_19.docx": [3347], "Revelation_ch_20.docx": [534]}
+pim	{"Ezekiel_ch_16.docx": [5048]}

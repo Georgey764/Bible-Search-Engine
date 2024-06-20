@@ -1,0 +1,4 @@
+
+souls!	{"Deuteronomy_ch_26.docx": [2712], "Jeremiah_ch_26.docx": [3401, 3401, 3401]}
+souls!	{"Deuteronomy_ch_26.docx": [2712], "Jeremiah_ch_26.docx": [3401, 3401]}
+souls!	{"Deuteronomy_ch_26.docx": [2712], "Jeremiah_ch_26.docx": [3401]}

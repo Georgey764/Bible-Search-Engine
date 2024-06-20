@@ -1,0 +1,7 @@
+
+gos	{"Joshua_ch_15.docx": [5621], "Ezekiel_ch_23.docx": [1508, 1508], "Romans_ch_1.docx": [3828, 3828], "1 Timothy_ch_5.docx": [1656, 1656]}
+bane	{"1 Chronicles_ch_7.docx": [4160]}
+bane	{"1 Chronicles_ch_7.docx": [4160]}
+gos	{"Ezekiel_ch_23.docx": [1508, 1508], "Romans_ch_1.docx": [3828], "1 Timothy_ch_5.docx": [1656]}
+gos	{"Joshua_ch_15.docx": [5621], "Ezekiel_ch_23.docx": [1508], "Romans_ch_1.docx": [3828], "1 Timothy_ch_5.docx": [1656]}
+bane	{"1 Chronicles_ch_7.docx": [4160]}

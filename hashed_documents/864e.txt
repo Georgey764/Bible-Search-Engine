@@ -1,0 +1,4 @@
+
+high;	{"Job_ch_11.docx": [804], "Psalms_ch_47.docx": [137, 137, 137], "Psalms_ch_78.docx": [5473, 5473, 5473]}
+high;	{"Job_ch_11.docx": [804], "Psalms_ch_47.docx": [137, 137], "Psalms_ch_78.docx": [5473, 5473]}
+high;	{"Job_ch_11.docx": [804], "Psalms_ch_47.docx": [137], "Psalms_ch_78.docx": [5473]}

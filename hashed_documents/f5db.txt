@@ -1,0 +1,4 @@
+
+shetha	{"Ezra_ch_5.docx": [379, 924, 924, 924], "Ezra_ch_6.docx": [974, 2506, 974, 2506, 974, 2506], "Esther_ch_1.docx": [2501, 2501, 2501]}
+shetha	{"Ezra_ch_5.docx": [379, 924, 924], "Ezra_ch_6.docx": [974, 2506, 974, 2506], "Esther_ch_1.docx": [2501, 2501]}
+shetha	{"Ezra_ch_5.docx": [379, 924], "Ezra_ch_6.docx": [974, 2506], "Esther_ch_1.docx": [2501]}

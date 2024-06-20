@@ -1,0 +1,4 @@
+
+date	{"Matthew_ch_24.docx": [4181, 5699, 5699, 5699], "Matthew_ch_25.docx": [1226, 1226, 1226], "Mark_ch_13.docx": [3845, 3845], "Luke_ch_12.docx": [5976, 5976]}
+date	{"Matthew_ch_24.docx": [4181, 5699, 5699], "Matthew_ch_25.docx": [1226, 1226], "Mark_ch_13.docx": [3845], "Luke_ch_12.docx": [5976]}
+date	{"Matthew_ch_24.docx": [4181, 5699], "Matthew_ch_25.docx": [1226], "Mark_ch_13.docx": [3845], "Luke_ch_12.docx": [5976]}

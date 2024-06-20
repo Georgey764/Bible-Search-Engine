@@ -1,0 +1,7 @@
+
+debra	{"2 Kings_ch_5.docx": [3678]}
+beet	{"Isaiah_ch_51.docx": [3840], "Habakkuk_ch_2.docx": [1992, 1992, 1992]}
+debra	{"2 Kings_ch_5.docx": [3678]}
+beet	{"Isaiah_ch_51.docx": [3840], "Habakkuk_ch_2.docx": [1992, 1992]}
+debra	{"2 Kings_ch_5.docx": [3678]}
+beet	{"Isaiah_ch_51.docx": [3840], "Habakkuk_ch_2.docx": [1992]}

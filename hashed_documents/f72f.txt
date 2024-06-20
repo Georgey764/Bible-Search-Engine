@@ -1,0 +1,11 @@
+
+zombr	{"Genesis_ch_25.docx": [110]}
+slowly	{"Exodus_ch_4.docx": [1529], "Isaiah_ch_6.docx": [1607, 1607, 1607], "Matthew_ch_13.docx": [1691, 1691, 1691], "John_ch_12.docx": [5516, 5516], "Acts_ch_27.docx": [830, 830]}
+centra	{"Deuteronomy_ch_19.docx": [68], "1 Chronicles_ch_9.docx": [4793, 4793, 4793], "2 Chronicles_ch_23.docx": [1003, 1003, 1003], "Jeremiah_ch_39.docx": [80, 80, 80]}
+zombr	{"Genesis_ch_25.docx": [110]}
+slowly	{"Exodus_ch_4.docx": [1529], "Isaiah_ch_6.docx": [1607, 1607], "Matthew_ch_13.docx": [1691, 1691], "John_ch_12.docx": [5516], "Acts_ch_27.docx": [830]}
+5[if	{"Deuteronomy_ch_17.docx": [582]}
+centra	{"Deuteronomy_ch_19.docx": [68], "1 Chronicles_ch_9.docx": [4793, 4793], "2 Chronicles_ch_23.docx": [1003, 1003], "Jeremiah_ch_39.docx": [80, 80]}
+zombr	{"Genesis_ch_25.docx": [110]}
+slowly	{"Exodus_ch_4.docx": [1529], "Isaiah_ch_6.docx": [1607], "Matthew_ch_13.docx": [1691], "John_ch_12.docx": [5516], "Acts_ch_27.docx": [830]}
+centra	{"Deuteronomy_ch_19.docx": [68], "1 Chronicles_ch_9.docx": [4793], "2 Chronicles_ch_23.docx": [1003], "Jeremiah_ch_39.docx": [80]}

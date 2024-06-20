@@ -1,0 +1,8 @@
+
+isolat	{"Judges_ch_18.docx": [1109], "Mark_ch_8.docx": [438, 438], "Luke_ch_4.docx": [6204, 6204], "Luke_ch_8.docx": [4443, 4443]}
+bama	{"1 Chronicles_ch_7.docx": [4065]}
+31thi	{"Joshua_ch_19.docx": [2547]}
+isolat	{"Judges_ch_18.docx": [1109], "Mark_ch_8.docx": [438], "Luke_ch_4.docx": [6204], "Luke_ch_8.docx": [4443]}
+bama	{"1 Chronicles_ch_7.docx": [4065]}
+isolat	{"Judges_ch_18.docx": [1109], "Mark_ch_8.docx": [438], "Luke_ch_4.docx": [6204], "Luke_ch_8.docx": [4443]}
+bama	{"1 Chronicles_ch_7.docx": [4065]}

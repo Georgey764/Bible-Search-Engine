@@ -1,0 +1,7 @@
+
+harps!	{"Genesis_ch_31.docx": [3389], "Psalms_ch_147.docx": [589, 589, 589]}
+thoul	{"1 Chronicles_ch_4.docx": [3461]}
+harps!	{"Genesis_ch_31.docx": [3389], "Psalms_ch_147.docx": [589, 589]}
+thoul	{"1 Chronicles_ch_4.docx": [3461]}
+harps!	{"Genesis_ch_31.docx": [3389], "Psalms_ch_147.docx": [589]}
+thoul	{"1 Chronicles_ch_4.docx": [3461]}

@@ -1,0 +1,6 @@
+
+grande	{"2 Samuel_ch_7.docx": [3329]}
+asiabu	{"Acts_ch_21.docx": [7805]}
+grande	{"2 Samuel_ch_7.docx": [3329]}
+grande	{"2 Samuel_ch_7.docx": [3329]}
+asiabu	{"Acts_ch_21.docx": [7805]}

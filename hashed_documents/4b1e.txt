@@ -1,0 +1,4 @@
+
+ship’	{"Jonah_ch_1.docx": [766, 778, 778, 778], "Acts_ch_27.docx": [1406, 1406]}
+ship’	{"Jonah_ch_1.docx": [766, 778, 778], "Acts_ch_27.docx": [1406]}
+ship’	{"Jonah_ch_1.docx": [766, 778], "Acts_ch_27.docx": [1406]}

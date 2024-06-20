@@ -1,0 +1,8 @@
+
+thiras	{"Genesis_ch_10.docx": [329], "1 Chronicles_ch_1.docx": [291, 291, 291]}
+culon	{"Joshua_ch_15.docx": [6214]}
+thiras	{"Genesis_ch_10.docx": [329], "1 Chronicles_ch_1.docx": [291, 291]}
+11‘i’m	{"Numbers_ch_18.docx": [1959], "2 Kings_ch_21.docx": [1934]}
+culon	{"Joshua_ch_15.docx": [6214]}
+thiras	{"Genesis_ch_10.docx": [329], "1 Chronicles_ch_1.docx": [291]}
+culon	{"Joshua_ch_15.docx": [6214]}

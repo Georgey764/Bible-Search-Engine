@@ -1,0 +1,5 @@
+
+piling	{"2 Samuel_ch_15.docx": [5004], "Proverbs_ch_4.docx": [1069, 1069, 1069], "Romans_ch_12.docx": [2578, 2578]}
+3‘when	{"Numbers_ch_30.docx": [234], "Psalms_ch_132.docx": [225]}
+piling	{"2 Samuel_ch_15.docx": [5004], "Proverbs_ch_4.docx": [1069, 1069], "Romans_ch_12.docx": [2578]}
+piling	{"2 Samuel_ch_15.docx": [5004], "Proverbs_ch_4.docx": [1069], "Romans_ch_12.docx": [2578]}

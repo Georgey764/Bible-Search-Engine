@@ -1,0 +1,6 @@
+
+gamzo	{"2 Chronicles_ch_28.docx": [3267]}
+adeq	{"2 Corinthians_ch_11.docx": [1187]}
+gamzo	{"2 Chronicles_ch_28.docx": [3267]}
+gamzo	{"2 Chronicles_ch_28.docx": [3267]}
+adeq	{"2 Corinthians_ch_11.docx": [1187]}

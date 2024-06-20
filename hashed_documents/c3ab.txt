@@ -1,0 +1,4 @@
+
+eyesi	{"Leviticus_ch_26.docx": [1985], "Mark_ch_8.docx": [3169, 3169]}
+eyesi	{"Leviticus_ch_26.docx": [1985], "Mark_ch_8.docx": [3169]}
+eyesi	{"Leviticus_ch_26.docx": [1985], "Mark_ch_8.docx": [3169]}

@@ -1,0 +1,5 @@
+
+arouse	{"Judges_ch_7.docx": [4346], "Proverbs_ch_9.docx": [1676, 1676, 1676], "Song of Solomon_ch_5.docx": [974, 974, 974], "Isaiah_ch_43.docx": [2427, 2427, 2427], "Jeremiah_ch_51.docx": [1807, 6450, 1807, 6450, 1807, 6450], "Ezekiel_ch_21.docx": [2675, 2675, 2675]}
+arouse	{"Judges_ch_7.docx": [4346], "Proverbs_ch_9.docx": [1676, 1676], "Song of Solomon_ch_5.docx": [974, 974], "Isaiah_ch_43.docx": [2427, 2427], "Jeremiah_ch_51.docx": [1807, 6450, 1807, 6450], "Ezekiel_ch_21.docx": [2675, 2675]}
+2‘rat	{"Isaiah_ch_47.docx": [262]}
+arouse	{"Judges_ch_7.docx": [4346], "Proverbs_ch_9.docx": [1676], "Song of Solomon_ch_5.docx": [974], "Isaiah_ch_43.docx": [2427], "Jeremiah_ch_51.docx": [1807, 6450], "Ezekiel_ch_21.docx": [2675]}

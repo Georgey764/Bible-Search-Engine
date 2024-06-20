@@ -1,0 +1,2 @@
+
+16‘you	{"Genesis_ch_6.docx": [2075], "Exodus_ch_34.docx": [2394], "Leviticus_ch_19.docx": [1894], "Deuteronomy_ch_6.docx": [2245], "Deuteronomy_ch_7.docx": [2552], "Deuteronomy_ch_13.docx": [2328], "Job_ch_11.docx": [1677], "Job_ch_14.docx": [1752], "Proverbs_ch_9.docx": [1607], "Isaiah_ch_60.docx": [2529]}

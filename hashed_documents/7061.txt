@@ -1,0 +1,4 @@
+
+wave-	{"Numbers_ch_15.docx": [2112], "Numbers_ch_18.docx": [1971, 2875, 1971, 2875, 1971, 2875]}
+wave-	{"Numbers_ch_15.docx": [2112], "Numbers_ch_18.docx": [1971, 2875, 1971, 2875]}
+wave-	{"Numbers_ch_15.docx": [2112], "Numbers_ch_18.docx": [1971, 2875]}

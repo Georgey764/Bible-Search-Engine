@@ -1,0 +1,5 @@
+
+climax	{"Genesis_ch_15.docx": [2036], "2 Chronicles_ch_5.docx": [2270, 2270, 2270], "John_ch_7.docx": [4797, 4797], "2 Corinthians_ch_8.docx": [1616, 1616]}
+climax	{"Genesis_ch_15.docx": [2036], "2 Chronicles_ch_5.docx": [2270, 2270], "John_ch_7.docx": [4797], "2 Corinthians_ch_8.docx": [1616]}
+7[p	{"Psalms_ch_122.docx": [531]}
+climax	{"Genesis_ch_15.docx": [2036], "2 Chronicles_ch_5.docx": [2270], "John_ch_7.docx": [4797], "2 Corinthians_ch_8.docx": [1616]}

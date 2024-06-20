@@ -1,0 +1,7 @@
+
+leave!	{"1 Kings_ch_3.docx": [1193]}
+eliaad	{"1 Chronicles_ch_7.docx": [2520, 2576, 2576, 2576]}
+leave!	{"1 Kings_ch_3.docx": [1193]}
+eliaad	{"1 Chronicles_ch_7.docx": [2520, 2576, 2576]}
+leave!	{"1 Kings_ch_3.docx": [1193]}
+eliaad	{"1 Chronicles_ch_7.docx": [2520, 2576]}

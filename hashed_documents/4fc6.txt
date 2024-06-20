@@ -1,0 +1,5 @@
+
+ketura	{"1 Chronicles_ch_1.docx": [2433, 2672, 2672, 2672]}
+ketura	{"1 Chronicles_ch_1.docx": [2433, 2672, 2672]}
+6,8	{"1 Chronicles_ch_12.docx": [3293]}
+ketura	{"1 Chronicles_ch_1.docx": [2433, 2672]}

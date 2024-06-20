@@ -1,0 +1,4 @@
+
+vanq	{"Isaiah_ch_20.docx": [768], "Jeremiah_ch_48.docx": [161, 161, 161]}
+vanq	{"Isaiah_ch_20.docx": [768], "Jeremiah_ch_48.docx": [161, 161]}
+vanq	{"Isaiah_ch_20.docx": [768], "Jeremiah_ch_48.docx": [161]}

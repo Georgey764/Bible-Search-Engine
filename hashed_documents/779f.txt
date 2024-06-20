@@ -1,0 +1,6 @@
+
+bew	{"Matthew_ch_7.docx": [1786], "Matthew_ch_22.docx": [2604, 2604], "Mark_ch_12.docx": [2517, 2517], "Acts_ch_2.docx": [586, 586], "Hebrews_ch_12.docx": [4531, 4531]}
+14we’v	{"Isaiah_ch_59.docx": [2127]}
+4‘[god	{"Hosea_ch_13.docx": [509]}
+bew	{"Matthew_ch_22.docx": [2604, 2604], "Mark_ch_12.docx": [2517], "Acts_ch_2.docx": [586], "Hebrews_ch_12.docx": [4531]}
+bew	{"Matthew_ch_7.docx": [1786], "Matthew_ch_22.docx": [2604], "Mark_ch_12.docx": [2517], "Acts_ch_2.docx": [586], "Hebrews_ch_12.docx": [4531]}

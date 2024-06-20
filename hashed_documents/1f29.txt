@@ -1,0 +1,4 @@
+
+hands;	{"Judges_ch_7.docx": [1356], "Job_ch_21.docx": [1360, 1360, 1360], "Psalms_ch_21.docx": [679, 679, 679], "Ecclesiastes_ch_2.docx": [3709, 3709, 3709], "Jeremiah_ch_34.docx": [597, 597, 597], "Ezekiel_ch_21.docx": [1934, 1934, 1934], "Luke_ch_1.docx": [7947, 7947]}
+hands;	{"Judges_ch_7.docx": [1356], "Job_ch_21.docx": [1360, 1360], "Psalms_ch_21.docx": [679, 679], "Ecclesiastes_ch_2.docx": [3709, 3709], "Jeremiah_ch_34.docx": [597, 597], "Ezekiel_ch_21.docx": [1934, 1934], "Luke_ch_1.docx": [7947]}
+hands;	{"Judges_ch_7.docx": [1356], "Job_ch_21.docx": [1360], "Psalms_ch_21.docx": [679], "Ecclesiastes_ch_2.docx": [3709], "Jeremiah_ch_34.docx": [597], "Ezekiel_ch_21.docx": [1934], "Luke_ch_1.docx": [7947]}

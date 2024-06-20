@@ -1,0 +1,4 @@
+
+herons	{"Leviticus_ch_11.docx": [1922], "Deuteronomy_ch_14.docx": [1387, 1387], "Psalms_ch_104.docx": [1818, 1818]}
+herons	{"Psalms_ch_104.docx": [1818, 1818], "Deuteronomy_ch_14.docx": [1387]}
+herons	{"Leviticus_ch_11.docx": [1922], "Deuteronomy_ch_14.docx": [1387], "Psalms_ch_104.docx": [1818]}

@@ -1,0 +1,4 @@
+
+bins	{"Deuteronomy_ch_28.docx": [543], "Amos_ch_3.docx": [3228, 3228, 3228]}
+bins	{"Deuteronomy_ch_28.docx": [543], "Amos_ch_3.docx": [3228, 3228]}
+bins	{"Deuteronomy_ch_28.docx": [543], "Amos_ch_3.docx": [3228]}

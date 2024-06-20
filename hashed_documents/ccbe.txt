@@ -1,0 +1,7 @@
+
+saphan	{"1 Chronicles_ch_6.docx": [2891]}
+off;	{"Job_ch_13.docx": [652], "Mark_ch_9.docx": [6202, 6202]}
+saphan	{"1 Chronicles_ch_6.docx": [2891]}
+off;	{"Job_ch_13.docx": [652], "Mark_ch_9.docx": [6202]}
+saphan	{"1 Chronicles_ch_6.docx": [2891]}
+off;	{"Job_ch_13.docx": [652], "Mark_ch_9.docx": [6202]}

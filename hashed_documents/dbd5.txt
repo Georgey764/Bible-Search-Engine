@@ -1,0 +1,4 @@
+
+gold-[	{"Daniel_ch_3.docx": [15]}
+gold-[	{"Daniel_ch_3.docx": [15]}
+gold-[	{"Daniel_ch_3.docx": [15]}

@@ -1,0 +1,3 @@
+
+45s	{"Genesis_ch_31.docx": [6489], "Leviticus_ch_14.docx": [6653], "Numbers_ch_26.docx": [4557], "Judges_ch_9.docx": [8238], "1 Samuel_ch_14.docx": [7263], "1 Chronicles_ch_6.docx": [3527], "Psalms_ch_105.docx": [3736], "Jeremiah_ch_51.docx": [7425]}
+27gi	{"Numbers_ch_13.docx": [2529]}

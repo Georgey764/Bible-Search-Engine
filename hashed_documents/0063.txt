@@ -1,0 +1,4 @@
+
+supers	{"Psalms_ch_2.docx": [37], "Hebrews_ch_7.docx": [3993, 3993]}
+supers	{"Psalms_ch_2.docx": [37], "Hebrews_ch_7.docx": [3993]}
+supers	{"Psalms_ch_2.docx": [37], "Hebrews_ch_7.docx": [3993]}

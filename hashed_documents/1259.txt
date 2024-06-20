@@ -1,0 +1,5 @@
+
+former	{"Deuteronomy_ch_24.docx": [310], "Judges_ch_1.docx": [1413, 1831, 1413, 1831, 1413, 1831], "2 Kings_ch_9.docx": [2294, 2510, 2816, 2294, 2510, 2816, 2294, 2510, 2816], "2 Corinthians_ch_2.docx": [2241, 2241], "Ephesians_ch_4.docx": [3080, 3080], "Hebrews_ch_7.docx": [2554, 2554], "Hebrews_ch_8.docx": [2124, 2124], "Hebrews_ch_9.docx": [1937, 1937]}
+former	{"Deuteronomy_ch_24.docx": [310], "Judges_ch_1.docx": [1413, 1831, 1413, 1831], "2 Kings_ch_9.docx": [2294, 2510, 2816, 2294, 2510, 2816], "2 Corinthians_ch_2.docx": [2241], "Ephesians_ch_4.docx": [3080], "Hebrews_ch_7.docx": [2554], "Hebrews_ch_8.docx": [2124], "Hebrews_ch_9.docx": [1937]}
+9‘ha	{"Jeremiah_ch_44.docx": [1690]}
+former	{"Deuteronomy_ch_24.docx": [310], "Judges_ch_1.docx": [1413, 1831], "2 Kings_ch_9.docx": [2294, 2510, 2816], "2 Corinthians_ch_2.docx": [2241], "Ephesians_ch_4.docx": [3080], "Hebrews_ch_7.docx": [2554], "Hebrews_ch_8.docx": [2124], "Hebrews_ch_9.docx": [1937]}

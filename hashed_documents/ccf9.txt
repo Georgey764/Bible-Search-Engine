@@ -1,0 +1,5 @@
+
+ashurb	{"Ezra_ch_4.docx": [1486]}
+15that	{"1 Kings_ch_9.docx": [2403], "2 Chronicles_ch_31.docx": [2660], "Job_ch_18.docx": [1264], "Hosea_ch_10.docx": [3798]}
+ashurb	{"Ezra_ch_4.docx": [1486]}
+ashurb	{"Ezra_ch_4.docx": [1486]}

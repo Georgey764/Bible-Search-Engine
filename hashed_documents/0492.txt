@@ -1,0 +1,7 @@
+
+girg	{"Genesis_ch_10.docx": [1954], "1 Chronicles_ch_1.docx": [1190, 1190, 1190]}
+aree	{"Genesis_ch_46.docx": [1933]}
+girg	{"Genesis_ch_10.docx": [1954], "1 Chronicles_ch_1.docx": [1190, 1190]}
+aree	{"Genesis_ch_46.docx": [1933]}
+girg	{"Genesis_ch_10.docx": [1954], "1 Chronicles_ch_1.docx": [1190]}
+aree	{"Genesis_ch_46.docx": [1933]}

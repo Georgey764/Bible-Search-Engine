@@ -1,0 +1,4 @@
+
+cold	{"Genesis_ch_8.docx": [2796], "Proverbs_ch_25.docx": [2448, 2448, 2448], "Jeremiah_ch_36.docx": [5368, 5368, 5368], "Matthew_ch_10.docx": [5454, 5454, 5454], "Matthew_ch_24.docx": [1260, 1260, 1260], "John_ch_18.docx": [2152, 2152], "2 Corinthians_ch_11.docx": [3973, 3973], "Revelation_ch_3.docx": [2707, 2723, 2707, 2723]}
+cold	{"Genesis_ch_8.docx": [2796], "Proverbs_ch_25.docx": [2448, 2448], "Jeremiah_ch_36.docx": [5368, 5368], "Matthew_ch_10.docx": [5454, 5454], "Matthew_ch_24.docx": [1260, 1260], "John_ch_18.docx": [2152], "2 Corinthians_ch_11.docx": [3973], "Revelation_ch_3.docx": [2707, 2723]}
+cold	{"Genesis_ch_8.docx": [2796], "Proverbs_ch_25.docx": [2448], "Jeremiah_ch_36.docx": [5368], "Matthew_ch_10.docx": [5454], "Matthew_ch_24.docx": [1260], "John_ch_18.docx": [2152], "2 Corinthians_ch_11.docx": [3973], "Revelation_ch_3.docx": [2707, 2723]}

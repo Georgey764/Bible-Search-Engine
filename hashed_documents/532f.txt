@@ -1,0 +1,4 @@
+
+4‘then	{"Genesis_ch_48.docx": [399], "Exodus_ch_14.docx": [765], "Exodus_ch_29.docx": [458], "Leviticus_ch_6.docx": [328], "Leviticus_ch_14.docx": [252], "Deuteronomy_ch_8.docx": [651], "Deuteronomy_ch_26.docx": [629], "Song of Solomon_ch_5.docx": [907], "Isaiah_ch_24.docx": [579], "Jeremiah_ch_8.docx": [823], "Jeremiah_ch_17.docx": [545], "Jeremiah_ch_23.docx": [659], "Ezekiel_ch_4.docx": [491], "Hosea_ch_4.docx": [564], "Zephaniah_ch_1.docx": [604]}
+9‘rat	{"1 Kings_ch_14.docx": [1510]}
+16mem	{"Esther_ch_1.docx": [2816]}

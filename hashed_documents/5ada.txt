@@ -1,0 +1,4 @@
+
+jethri	{"1 Chronicles_ch_6.docx": [1530], "1 Chronicles_ch_11.docx": [6056, 6078, 6056, 6078, 6056, 6078]}
+jethri	{"1 Chronicles_ch_6.docx": [1530], "1 Chronicles_ch_11.docx": [6056, 6078, 6056, 6078]}
+jethri	{"1 Chronicles_ch_6.docx": [1530], "1 Chronicles_ch_11.docx": [6056, 6078]}

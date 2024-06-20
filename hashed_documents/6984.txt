@@ -1,0 +1,4 @@
+
+home;	{"Proverbs_ch_14.docx": [11], "1 Corinthians_ch_14.docx": [4609, 4609]}
+home;	{"Proverbs_ch_14.docx": [11], "1 Corinthians_ch_14.docx": [4609]}
+home;	{"Proverbs_ch_14.docx": [11], "1 Corinthians_ch_14.docx": [4609]}

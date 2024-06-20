@@ -1,0 +1,6 @@
+
+orname	{"Genesis_ch_2.docx": [1619], "Exodus_ch_32.docx": [3538, 3538, 3538], "Judges_ch_8.docx": [4158, 5179, 5199, 5220, 4158, 5179, 5199, 5220, 4158, 5179, 5199, 5220], "Isaiah_ch_49.docx": [3891, 3891, 3891], "Ezekiel_ch_16.docx": [1688, 1688, 1688], "Ezekiel_ch_24.docx": [1506, 1506, 1506]}
+ankleb	{"Acts_ch_3.docx": [672]}
+orname	{"Genesis_ch_2.docx": [1619], "Exodus_ch_32.docx": [3538, 3538], "Judges_ch_8.docx": [4158, 5179, 5199, 5220, 4158, 5179, 5199, 5220], "Isaiah_ch_49.docx": [3891, 3891], "Ezekiel_ch_16.docx": [1688, 1688], "Ezekiel_ch_24.docx": [1506, 1506]}
+orname	{"Genesis_ch_2.docx": [1619], "Exodus_ch_32.docx": [3538], "Judges_ch_8.docx": [4158, 5179, 5199, 5220], "Isaiah_ch_49.docx": [3891], "Ezekiel_ch_16.docx": [1688], "Ezekiel_ch_24.docx": [1506]}
+ankleb	{"Acts_ch_3.docx": [672]}

@@ -1,0 +1,2 @@
+
+31i	{"Exodus_ch_39.docx": [3787], "Numbers_ch_21.docx": [4402], "Judges_ch_8.docx": [5894], "1 Chronicles_ch_23.docx": [3465], "Psalms_ch_89.docx": [2999], "Psalms_ch_119.docx": [2382], "Proverbs_ch_11.docx": [3188]}

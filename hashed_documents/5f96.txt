@@ -1,0 +1,4 @@
+
+indece	{"Exodus_ch_28.docx": [5450], "Deuteronomy_ch_24.docx": [27, 27, 27], "Ezra_ch_4.docx": [2299, 2299, 2299], "Lamentations_ch_1.docx": [2013, 2013, 2013], "Ezekiel_ch_16.docx": [1077, 1286, 3615, 6400, 1077, 1286, 3615, 6400, 1077, 1286, 3615, 6400], "Romans_ch_1.docx": [3484, 3484]}
+indece	{"Exodus_ch_28.docx": [5450], "Deuteronomy_ch_24.docx": [27, 27], "Ezra_ch_4.docx": [2299, 2299], "Lamentations_ch_1.docx": [2013, 2013], "Ezekiel_ch_16.docx": [1077, 1286, 3615, 6400, 1077, 1286, 3615, 6400], "Romans_ch_1.docx": [3484]}
+indece	{"Exodus_ch_28.docx": [5450], "Deuteronomy_ch_24.docx": [27], "Ezra_ch_4.docx": [2299], "Lamentations_ch_1.docx": [2013], "Ezekiel_ch_16.docx": [1077, 1286, 3615, 6400], "Romans_ch_1.docx": [3484]}

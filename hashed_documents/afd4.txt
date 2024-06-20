@@ -1,0 +1,5 @@
+
+nethan	{"Nehemiah_ch_12.docx": [1936], "Jeremiah_ch_40.docx": [1710, 1710, 1710]}
+20de	{"Leviticus_ch_4.docx": [2637], "Ezekiel_ch_27.docx": [2944]}
+nethan	{"Nehemiah_ch_12.docx": [1936], "Jeremiah_ch_40.docx": [1710, 1710]}
+nethan	{"Nehemiah_ch_12.docx": [1936], "Jeremiah_ch_40.docx": [1710]}

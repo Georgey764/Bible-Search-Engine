@@ -1,0 +1,4 @@
+
+topi	{"1 Kings_ch_9.docx": [1253], "Job_ch_30.docx": [1018, 1018, 1018], "2 Timothy_ch_2.docx": [2028, 2028]}
+topi	{"1 Kings_ch_9.docx": [1253], "Job_ch_30.docx": [1018, 1018], "2 Timothy_ch_2.docx": [2028]}
+topi	{"1 Kings_ch_9.docx": [1253], "Job_ch_30.docx": [1018], "2 Timothy_ch_2.docx": [2028]}

@@ -1,0 +1,7 @@
+
+anyho	{"Exodus_ch_5.docx": [2320], "Numbers_ch_14.docx": [6276, 6276, 6276], "Judges_ch_17.docx": [410, 410, 410], "Job_ch_29.docx": [1409, 1409, 1409], "Jeremiah_ch_23.docx": [3986, 3986, 3986], "Luke_ch_5.docx": [6482, 6482]}
+jonah’	{"Jonah_ch_3.docx": [535]}
+anyho	{"Exodus_ch_5.docx": [2320], "Numbers_ch_14.docx": [6276, 6276], "Judges_ch_17.docx": [410, 410], "Job_ch_29.docx": [1409, 1409], "Jeremiah_ch_23.docx": [3986, 3986], "Luke_ch_5.docx": [6482]}
+jonah’	{"Jonah_ch_3.docx": [535]}
+anyho	{"Exodus_ch_5.docx": [2320], "Numbers_ch_14.docx": [6276], "Judges_ch_17.docx": [410], "Job_ch_29.docx": [1409], "Jeremiah_ch_23.docx": [3986], "Luke_ch_5.docx": [6482]}
+jonah’	{"Jonah_ch_3.docx": [535]}

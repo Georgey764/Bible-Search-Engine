@@ -1,0 +1,7 @@
+
+hinge	{"1 Kings_ch_6.docx": [3969], "1 Chronicles_ch_22.docx": [356, 356, 356], "Proverbs_ch_26.docx": [1252, 1252, 1252]}
+jews!	{"Matthew_ch_27.docx": [3617], "Mark_ch_15.docx": [1827, 1827], "John_ch_19.docx": [249, 2844, 249, 2844]}
+18ged	{"Numbers_ch_3.docx": [2389]}
+hinge	{"1 Kings_ch_6.docx": [3969], "1 Chronicles_ch_22.docx": [356, 356], "Proverbs_ch_26.docx": [1252, 1252]}
+hinge	{"1 Kings_ch_6.docx": [3969], "1 Chronicles_ch_22.docx": [356], "Proverbs_ch_26.docx": [1252]}
+jews!	{"Matthew_ch_27.docx": [3617], "Mark_ch_15.docx": [1827], "John_ch_19.docx": [249, 2844]}

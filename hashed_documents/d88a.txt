@@ -1,0 +1,5 @@
+
+dizz	{"Psalms_ch_78.docx": [6299], "Isaiah_ch_24.docx": [3208, 3208, 3208], "Isaiah_ch_29.docx": [1524, 1524, 1524]}
+27dav	{"1 Samuel_ch_18.docx": [4315]}
+dizz	{"Psalms_ch_78.docx": [6299], "Isaiah_ch_24.docx": [3208, 3208], "Isaiah_ch_29.docx": [1524, 1524]}
+dizz	{"Psalms_ch_78.docx": [6299], "Isaiah_ch_24.docx": [3208], "Isaiah_ch_29.docx": [1524]}

@@ -1,0 +1,2 @@
+
+36and	{"Genesis_ch_24.docx": [5153], "Exodus_ch_12.docx": [5516], "Exodus_ch_36.docx": [4149], "Leviticus_ch_7.docx": [4818], "Numbers_ch_4.docx": [4818], "Numbers_ch_16.docx": [4971], "Numbers_ch_32.docx": [4967], "Judges_ch_6.docx": [9768], "1 Samuel_ch_20.docx": [5629], "2 Samuel_ch_15.docx": [5508], "2 Kings_ch_9.docx": [6793], "2 Kings_ch_19.docx": [6353], "1 Chronicles_ch_12.docx": [4527], "2 Chronicles_ch_29.docx": [6433], "Ezra_ch_8.docx": [5320], "Jeremiah_ch_2.docx": [6408]}

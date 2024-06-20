@@ -1,0 +1,5 @@
+
+term	{"Joshua_ch_15.docx": [934, 1715, 1715, 1715], "1 Kings_ch_21.docx": [397, 397, 397], "2 Kings_ch_1.docx": [14, 14, 14], "Romans_ch_6.docx": [2368, 2368], "Galatians_ch_3.docx": [2155, 2155]}
+16wh	{"Genesis_ch_21.docx": [1652], "Numbers_ch_33.docx": [1574], "2 Samuel_ch_3.docx": [2212], "1 Chronicles_ch_22.docx": [2643], "Job_ch_22.docx": [1395], "Psalms_ch_81.docx": [1594], "Psalms_ch_94.docx": [1356], "Proverbs_ch_18.docx": [1307], "Proverbs_ch_25.docx": [1543], "Proverbs_ch_29.docx": [1438]}
+term	{"Joshua_ch_15.docx": [934, 1715, 1715], "1 Kings_ch_21.docx": [397, 397], "2 Kings_ch_1.docx": [14, 14], "Romans_ch_6.docx": [2368], "Galatians_ch_3.docx": [2155]}
+term	{"Joshua_ch_15.docx": [934, 1715], "1 Kings_ch_21.docx": [397], "2 Kings_ch_1.docx": [14], "Romans_ch_6.docx": [2368], "Galatians_ch_3.docx": [2155]}

@@ -1,0 +1,7 @@
+
+misu	{"Exodus_ch_20.docx": [648, 661, 661, 661], "Leviticus_ch_19.docx": [768, 1331, 768, 1331, 768, 1331], "Deuteronomy_ch_5.docx": [1228, 1243, 1228, 1243, 1228, 1243]}
+procu	{"Malachi_ch_3.docx": [3533]}
+misu	{"Exodus_ch_20.docx": [648, 661, 661], "Leviticus_ch_19.docx": [768, 1331, 768, 1331], "Deuteronomy_ch_5.docx": [1228, 1243, 1228, 1243]}
+procu	{"Malachi_ch_3.docx": [3533]}
+misu	{"Exodus_ch_20.docx": [648, 661], "Leviticus_ch_19.docx": [768, 1331], "Deuteronomy_ch_5.docx": [1228, 1243]}
+procu	{"Malachi_ch_3.docx": [3533]}

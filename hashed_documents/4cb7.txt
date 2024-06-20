@@ -1,0 +1,4 @@
+
+ospr	{"Leviticus_ch_11.docx": [1748], "Deuteronomy_ch_14.docx": [1266, 1266, 1266]}
+ospr	{"Leviticus_ch_11.docx": [1748], "Deuteronomy_ch_14.docx": [1266, 1266]}
+ospr	{"Leviticus_ch_11.docx": [1748], "Deuteronomy_ch_14.docx": [1266]}

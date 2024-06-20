@@ -1,0 +1,5 @@
+
+jerija	{"1 Chronicles_ch_23.docx": [1967]}
+35‘s	{"Deuteronomy_ch_4.docx": [5442], "2 Samuel_ch_19.docx": [5636], "2 Kings_ch_18.docx": [6044], "Job_ch_31.docx": [3188]}
+jerija	{"1 Chronicles_ch_23.docx": [1967]}
+jerija	{"1 Chronicles_ch_23.docx": [1967]}

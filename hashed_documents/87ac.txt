@@ -1,0 +1,5 @@
+
+carbun	{"Exodus_ch_28.docx": [2286]}
+10‘you	{"Exodus_ch_23.docx": [1044], "Exodus_ch_25.docx": [1121], "Deuteronomy_ch_22.docx": [1472], "2 Chronicles_ch_19.docx": [1357], "Job_ch_10.docx": [915], "Song of Solomon_ch_1.docx": [1467], "Isaiah_ch_22.docx": [1296], "Isaiah_ch_24.docx": [1506], "Ezekiel_ch_22.docx": [1373], "Ezekiel_ch_26.docx": [1573], "Ezekiel_ch_27.docx": [1219]}
+carbun	{"Exodus_ch_28.docx": [2286]}
+carbun	{"Exodus_ch_28.docx": [2286]}

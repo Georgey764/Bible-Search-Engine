@@ -1,0 +1,2 @@
+
+28i	{"Exodus_ch_23.docx": [3838], "Leviticus_ch_11.docx": [2914], "Leviticus_ch_26.docx": [3555], "Judges_ch_9.docx": [5553], "1 Chronicles_ch_1.docx": [2177], "Nehemiah_ch_11.docx": [4433], "Job_ch_30.docx": [2712], "Psalms_ch_69.docx": [2886], "Psalms_ch_89.docx": [2713], "Isaiah_ch_14.docx": [4537]}

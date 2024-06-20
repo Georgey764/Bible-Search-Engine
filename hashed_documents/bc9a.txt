@@ -1,0 +1,4 @@
+
+luxury	{"Proverbs_ch_19.docx": [819], "2 Peter_ch_2.docx": [2090, 2090], "Revelation_ch_18.docx": [398, 1145, 1572, 398, 1145, 1572]}
+27it’	{"Deuteronomy_ch_12.docx": [4678], "Psalms_ch_68.docx": [2921]}
+luxury	{"Proverbs_ch_19.docx": [819], "2 Peter_ch_2.docx": [2090], "Revelation_ch_18.docx": [398, 1145, 1572]}

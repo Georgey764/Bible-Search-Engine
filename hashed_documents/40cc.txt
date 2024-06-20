@@ -1,0 +1,4 @@
+
+greeni	{"Genesis_ch_2.docx": [548], "Leviticus_ch_13.docx": [6700, 6700, 6700], "Revelation_ch_6.docx": [1126, 1126]}
+greeni	{"Genesis_ch_2.docx": [548], "Leviticus_ch_13.docx": [6700, 6700], "Revelation_ch_6.docx": [1126]}
+greeni	{"Genesis_ch_2.docx": [548], "Leviticus_ch_13.docx": [6700], "Revelation_ch_6.docx": [1126]}

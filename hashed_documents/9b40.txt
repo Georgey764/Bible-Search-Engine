@@ -1,0 +1,4 @@
+
+blames	{"Job_ch_7.docx": [2086], "Revelation_ch_12.docx": [1637, 1637]}
+blames	{"Job_ch_7.docx": [2086], "Revelation_ch_12.docx": [1637]}
+blames	{"Job_ch_7.docx": [2086], "Revelation_ch_12.docx": [1637]}

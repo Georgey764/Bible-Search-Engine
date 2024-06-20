@@ -1,0 +1,7 @@
+
+rest;	{"Psalms_ch_77.docx": [289]}
+all;	{"Isaiah_ch_16.docx": [2241], "Isaiah_ch_45.docx": [1197, 1197, 1197]}
+rest;	{"Psalms_ch_77.docx": [289]}
+all;	{"Isaiah_ch_16.docx": [2241], "Isaiah_ch_45.docx": [1197, 1197]}
+rest;	{"Psalms_ch_77.docx": [289]}
+all;	{"Isaiah_ch_16.docx": [2241], "Isaiah_ch_45.docx": [1197]}

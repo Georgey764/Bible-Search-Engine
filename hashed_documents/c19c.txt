@@ -1,0 +1,4 @@
+
+slappe	{"Exodus_ch_7.docx": [2924], "Exodus_ch_17.docx": [771, 771, 771], "Luke_ch_22.docx": [7359, 7359], "John_ch_18.docx": [2723, 2723], "1 Peter_ch_2.docx": [2918, 2918]}
+slappe	{"Exodus_ch_7.docx": [2924], "Exodus_ch_17.docx": [771, 771], "Luke_ch_22.docx": [7359], "John_ch_18.docx": [2723], "1 Peter_ch_2.docx": [2918]}
+slappe	{"Exodus_ch_7.docx": [2924], "Exodus_ch_17.docx": [771], "Luke_ch_22.docx": [7359], "John_ch_18.docx": [2723], "1 Peter_ch_2.docx": [2918]}

@@ -1,0 +1,6 @@
+
+assure	{"Proverbs_ch_11.docx": [2268]}
+dorcas	{"Acts_ch_9.docx": [6097, 6821, 6821]}
+assure	{"Proverbs_ch_11.docx": [2268]}
+assure	{"Proverbs_ch_11.docx": [2268]}
+dorcas	{"Acts_ch_9.docx": [6097, 6821]}

@@ -1,0 +1,7 @@
+
+chod	{"Genesis_ch_14.docx": [22, 384, 555, 1076, 2400, 384, 555, 1076, 2400, 384, 555, 1076, 2400], "Genesis_ch_25.docx": [1457, 1457]}
+we!	{"2 Corinthians_ch_10.docx": [1064]}
+chod	{"Genesis_ch_14.docx": [22, 384, 555, 1076, 2400, 384, 555, 1076, 2400], "Genesis_ch_25.docx": [1457]}
+5eve	{"Job_ch_28.docx": [475], "Psalms_ch_56.docx": [549]}
+chod	{"Genesis_ch_14.docx": [22, 384, 555, 1076, 2400], "Genesis_ch_25.docx": [1457]}
+we!	{"2 Corinthians_ch_10.docx": [1064]}

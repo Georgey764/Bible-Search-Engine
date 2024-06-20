@@ -1,0 +1,7 @@
+
+phas	{"Deuteronomy_ch_3.docx": [2381], "Joshua_ch_12.docx": [1482, 1513, 1482, 1513, 1482, 1513], "1 Chronicles_ch_7.docx": [4054, 4452, 4054, 4452, 4054, 4452], "1 Chronicles_ch_9.docx": [1582, 1582, 1582], "1 Chronicles_ch_11.docx": [2127, 2127, 2127], "Nehemiah_ch_7.docx": [2856, 2856, 2856]}
+misha	{"Nehemiah_ch_8.docx": [1411], "Daniel_ch_1.docx": [873, 885, 1834, 2778, 873, 885, 1834, 2778, 873, 885, 1834, 2778], "Daniel_ch_2.docx": [2568, 2568, 2568], "Luke_ch_16.docx": [84, 84]}
+phas	{"Deuteronomy_ch_3.docx": [2381], "Joshua_ch_12.docx": [1482, 1513, 1482, 1513], "1 Chronicles_ch_7.docx": [4054, 4452, 4054, 4452], "1 Chronicles_ch_9.docx": [1582, 1582], "1 Chronicles_ch_11.docx": [2127, 2127], "Nehemiah_ch_7.docx": [2856, 2856]}
+misha	{"Nehemiah_ch_8.docx": [1411], "Daniel_ch_1.docx": [873, 885, 1834, 2778, 873, 885, 1834, 2778], "Daniel_ch_2.docx": [2568, 2568], "Luke_ch_16.docx": [84]}
+phas	{"Deuteronomy_ch_3.docx": [2381], "Joshua_ch_12.docx": [1482, 1513], "1 Chronicles_ch_7.docx": [4054, 4452], "1 Chronicles_ch_9.docx": [1582], "1 Chronicles_ch_11.docx": [2127], "Nehemiah_ch_7.docx": [2856]}
+misha	{"Nehemiah_ch_8.docx": [1411], "Daniel_ch_1.docx": [873, 885, 1834, 2778], "Daniel_ch_2.docx": [2568], "Luke_ch_16.docx": [84]}

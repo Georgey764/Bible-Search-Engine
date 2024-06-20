@@ -1,0 +1,7 @@
+
+unfor	{"2 Kings_ch_10.docx": [5882], "Proverbs_ch_17.docx": [949, 949], "Philippians_ch_1.docx": [1723, 1723]}
+27sa	{"1 Chronicles_ch_11.docx": [5223]}
+27sa	{"1 Chronicles_ch_11.docx": [5223]}
+unfor	{"Proverbs_ch_17.docx": [949, 949], "Philippians_ch_1.docx": [1723]}
+unfor	{"2 Kings_ch_10.docx": [5882], "Proverbs_ch_17.docx": [949], "Philippians_ch_1.docx": [1723]}
+27sa	{"1 Chronicles_ch_11.docx": [5223]}

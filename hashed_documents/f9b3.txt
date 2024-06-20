@@ -1,0 +1,4 @@
+
+asemon	{"Numbers_ch_34.docx": [448, 594, 594, 594]}
+asemon	{"Numbers_ch_34.docx": [448, 594, 594]}
+asemon	{"Numbers_ch_34.docx": [448, 594]}

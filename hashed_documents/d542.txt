@@ -1,0 +1,4 @@
+
+lamp’	{"Exodus_ch_37.docx": [2198], "Numbers_ch_8.docx": [364, 364, 364]}
+lamp’	{"Exodus_ch_37.docx": [2198], "Numbers_ch_8.docx": [364, 364]}
+lamp’	{"Exodus_ch_37.docx": [2198], "Numbers_ch_8.docx": [364]}

@@ -1,0 +1,4 @@
+
+15they	{"Exodus_ch_10.docx": [2586], "Numbers_ch_10.docx": [1767], "Deuteronomy_ch_29.docx": [1808], "1 Chronicles_ch_12.docx": [1592], "2 Chronicles_ch_14.docx": [2273], "Job_ch_5.docx": [1295], "Psalms_ch_45.docx": [2164], "Jeremiah_ch_17.docx": [2413], "Haggai_ch_1.docx": [3334]}
+16‘for	{"Exodus_ch_33.docx": [2440], "Deuteronomy_ch_25.docx": [2136], "Deuteronomy_ch_29.docx": [1994], "Jeremiah_ch_49.docx": [2811], "Amos_ch_5.docx": [2940], "Micah_ch_6.docx": [3043]}
+3‘for	{"Leviticus_ch_3.docx": [440], "Deuteronomy_ch_4.docx": [425], "Deuteronomy_ch_8.docx": [398], "Deuteronomy_ch_32.docx": [261], "Isaiah_ch_13.docx": [265], "Isaiah_ch_43.docx": [455], "Isaiah_ch_48.docx": [550], "Jeremiah_ch_31.docx": [277], "Jeremiah_ch_50.docx": [507], "Hosea_ch_9.docx": [342], "Hosea_ch_12.docx": [691]}

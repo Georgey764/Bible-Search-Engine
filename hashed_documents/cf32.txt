@@ -1,0 +1,5 @@
+
+chobar	{"Ezekiel_ch_1.docx": [30, 312, 312, 312], "Ezekiel_ch_3.docx": [2217, 3889, 2217, 3889, 2217, 3889], "Ezekiel_ch_10.docx": [2319, 3178, 3233, 2319, 3178, 3233, 2319, 3178, 3233], "Ezekiel_ch_43.docx": [315, 315, 315]}
+10n	{"Genesis_ch_14.docx": [1361], "Genesis_ch_23.docx": [1115], "Genesis_ch_48.docx": [1428], "Exodus_ch_12.docx": [1126], "Exodus_ch_37.docx": [933], "Leviticus_ch_9.docx": [1347], "Joshua_ch_11.docx": [5158], "2 Samuel_ch_15.docx": [1240], "2 Kings_ch_23.docx": [2529], "Ezra_ch_7.docx": [1100], "Psalms_ch_62.docx": [1110], "Psalms_ch_85.docx": [864], "Psalms_ch_91.docx": [894], "Proverbs_ch_2.docx": [811], "Proverbs_ch_5.docx": [849], "Zechariah_ch_7.docx": [1388]}
+chobar	{"Ezekiel_ch_1.docx": [30, 312, 312], "Ezekiel_ch_3.docx": [2217, 3889, 2217, 3889], "Ezekiel_ch_10.docx": [2319, 3178, 3233, 2319, 3178, 3233], "Ezekiel_ch_43.docx": [315, 315]}
+chobar	{"Ezekiel_ch_1.docx": [30, 312], "Ezekiel_ch_3.docx": [2217, 3889], "Ezekiel_ch_10.docx": [2319, 3178, 3233], "Ezekiel_ch_43.docx": [315]}

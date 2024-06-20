@@ -1,0 +1,2 @@
+
+43s	{"Leviticus_ch_23.docx": [6066], "Judges_ch_9.docx": [7900], "1 Samuel_ch_14.docx": [7008], "1 Samuel_ch_17.docx": [6490], "2 Samuel_ch_22.docx": [4056], "1 Kings_ch_18.docx": [7150], "1 Chronicles_ch_6.docx": [3341], "Psalms_ch_105.docx": [3560], "Psalms_ch_107.docx": [3750], "Matthew_ch_22.docx": [4594]}

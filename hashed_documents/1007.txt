@@ -1,0 +1,4 @@
+
+voice!	{"Genesis_ch_22.docx": [2764], "Numbers_ch_14.docx": [3214, 3214, 3214], "Deuteronomy_ch_4.docx": [1896, 1896, 1896], "Jeremiah_ch_11.docx": [1252, 1252, 1252], "Jeremiah_ch_22.docx": [3683, 3683, 3683], "Daniel_ch_9.docx": [2403, 2403, 2403], "Jonah_ch_2.docx": [274, 274, 274]}
+voice!	{"Genesis_ch_22.docx": [2764], "Numbers_ch_14.docx": [3214, 3214], "Deuteronomy_ch_4.docx": [1896, 1896], "Jeremiah_ch_11.docx": [1252, 1252], "Jeremiah_ch_22.docx": [3683, 3683], "Daniel_ch_9.docx": [2403, 2403], "Jonah_ch_2.docx": [274, 274]}
+voice!	{"Genesis_ch_22.docx": [2764], "Numbers_ch_14.docx": [3214], "Deuteronomy_ch_4.docx": [1896], "Jeremiah_ch_11.docx": [1252], "Jeremiah_ch_22.docx": [3683], "Daniel_ch_9.docx": [2403], "Jonah_ch_2.docx": [274]}

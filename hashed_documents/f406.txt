@@ -1,0 +1,4 @@
+
+thana	{"Judges_ch_5.docx": [2974], "1 Chronicles_ch_4.docx": [1296, 1296, 1296]}
+thana	{"Judges_ch_5.docx": [2974], "1 Chronicles_ch_4.docx": [1296, 1296]}
+thana	{"Judges_ch_5.docx": [2974], "1 Chronicles_ch_4.docx": [1296]}

@@ -1,0 +1,4 @@
+
+ignit	{"Psalms_ch_18.docx": [1001], "Malachi_ch_1.docx": [2097, 2097, 2097]}
+ignit	{"Psalms_ch_18.docx": [1001], "Malachi_ch_1.docx": [2097, 2097]}
+ignit	{"Psalms_ch_18.docx": [1001], "Malachi_ch_1.docx": [2097]}

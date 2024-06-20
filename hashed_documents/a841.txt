@@ -1,0 +1,4 @@
+
+uzziel	{"Nehemiah_ch_3.docx": [2834, 2864, 2896, 2864, 2896, 2864, 2896]}
+uzziel	{"Nehemiah_ch_3.docx": [2834, 2864, 2896, 2864, 2896]}
+uzziel	{"Nehemiah_ch_3.docx": [2834, 2864, 2896]}

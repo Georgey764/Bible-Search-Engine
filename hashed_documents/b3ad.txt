@@ -1,0 +1,7 @@
+
+crete	{"Genesis_ch_10.docx": [1803], "Acts_ch_27.docx": [858, 1552, 1790, 3023, 858, 1552, 1790, 3023], "Titus_ch_1.docx": [580, 580]}
+jech	{"2 Kings_ch_15.docx": [52], "1 Chronicles_ch_2.docx": [3673, 3704, 3673, 3704, 3673, 3704], "1 Chronicles_ch_4.docx": [2064, 2064, 2064], "2 Chronicles_ch_26.docx": [221, 221, 221]}
+crete	{"Genesis_ch_10.docx": [1803], "Acts_ch_27.docx": [858, 1552, 1790, 3023], "Titus_ch_1.docx": [580]}
+jech	{"2 Kings_ch_15.docx": [52], "1 Chronicles_ch_2.docx": [3673, 3704, 3673, 3704], "1 Chronicles_ch_4.docx": [2064, 2064], "2 Chronicles_ch_26.docx": [221, 221]}
+crete	{"Genesis_ch_10.docx": [1803], "Acts_ch_27.docx": [858, 1552, 1790, 3023], "Titus_ch_1.docx": [580]}
+jech	{"2 Kings_ch_15.docx": [52], "1 Chronicles_ch_2.docx": [3673, 3704], "1 Chronicles_ch_4.docx": [2064], "2 Chronicles_ch_26.docx": [221]}

@@ -1,0 +1,11 @@
+
+iroth	{"Numbers_ch_33.docx": [764, 879, 879, 879]}
+macham	{"1 Chronicles_ch_2.docx": [4371]}
+rio	{"Matthew_ch_27.docx": [2850], "Acts_ch_19.docx": [11999, 11999], "Acts_ch_20.docx": [8, 30, 53, 8, 30, 53], "Acts_ch_21.docx": [7830, 7830], "Acts_ch_24.docx": [1708, 3105, 1708, 3105]}
+inani	{"1 Corinthians_ch_14.docx": [1001]}
+iroth	{"Numbers_ch_33.docx": [764, 879, 879]}
+macham	{"1 Chronicles_ch_2.docx": [4371]}
+iroth	{"Numbers_ch_33.docx": [764, 879]}
+macham	{"1 Chronicles_ch_2.docx": [4371]}
+rio	{"Matthew_ch_27.docx": [2850], "Acts_ch_19.docx": [11999], "Acts_ch_20.docx": [8, 30, 53], "Acts_ch_21.docx": [7830], "Acts_ch_24.docx": [1708, 3105]}
+inani	{"1 Corinthians_ch_14.docx": [1001]}

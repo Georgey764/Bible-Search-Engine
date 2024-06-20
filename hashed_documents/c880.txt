@@ -1,0 +1,4 @@
+
+pathr	{"Genesis_ch_10.docx": [1683], "1 Chronicles_ch_1.docx": [1006, 1006], "Jeremiah_ch_44.docx": [43, 3061, 43, 3061, 43, 3061], "Ezekiel_ch_30.docx": [1971, 1971, 1971]}
+pathr	{"Genesis_ch_10.docx": [1683], "Jeremiah_ch_44.docx": [43, 3061, 43, 3061], "Ezekiel_ch_30.docx": [1971, 1971], "1 Chronicles_ch_1.docx": [1006]}
+pathr	{"Genesis_ch_10.docx": [1683], "1 Chronicles_ch_1.docx": [1006], "Jeremiah_ch_44.docx": [43, 3061], "Ezekiel_ch_30.docx": [1971]}

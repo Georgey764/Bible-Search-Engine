@@ -1,0 +1,4 @@
+
+zeboim	{"1 Samuel_ch_13.docx": [2905], "Hosea_ch_11.docx": [1265, 1265, 1265]}
+zeboim	{"1 Samuel_ch_13.docx": [2905], "Hosea_ch_11.docx": [1265, 1265]}
+zeboim	{"1 Samuel_ch_13.docx": [2905], "Hosea_ch_11.docx": [1265]}

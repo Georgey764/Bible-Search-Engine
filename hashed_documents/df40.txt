@@ -1,0 +1,4 @@
+
+slabs	{"Exodus_ch_24.docx": [1320], "Job_ch_38.docx": [569, 569, 569]}
+slabs	{"Exodus_ch_24.docx": [1320], "Job_ch_38.docx": [569, 569]}
+slabs	{"Exodus_ch_24.docx": [1320], "Job_ch_38.docx": [569]}

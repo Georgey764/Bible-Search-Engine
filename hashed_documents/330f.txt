@@ -1,0 +1,5 @@
+
+courie	{"2 Kings_ch_11.docx": [529, 3161, 3161, 3161], "Esther_ch_3.docx": [2197, 2197, 2197], "Esther_ch_8.docx": [1692, 1692, 1692]}
+courie	{"2 Kings_ch_11.docx": [529, 3161, 3161], "Esther_ch_3.docx": [2197, 2197], "Esther_ch_8.docx": [1692, 1692]}
+69t	{"Psalms_ch_119.docx": [5538]}
+courie	{"2 Kings_ch_11.docx": [529, 3161], "Esther_ch_3.docx": [2197], "Esther_ch_8.docx": [1692]}

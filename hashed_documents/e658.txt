@@ -1,0 +1,5 @@
+
+mapht	{"Genesis_ch_10.docx": [1573]}
+mapht	{"Genesis_ch_10.docx": [1573]}
+9‘this	{"Ezra_ch_4.docx": [1434], "Jeremiah_ch_13.docx": [987], "Micah_ch_1.docx": [3041]}
+mapht	{"Genesis_ch_10.docx": [1573]}

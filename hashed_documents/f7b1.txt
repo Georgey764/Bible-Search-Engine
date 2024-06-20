@@ -1,0 +1,4 @@
+
+taph	{"Joshua_ch_12.docx": [14193], "Joshua_ch_16.docx": [699, 699, 699]}
+taph	{"Joshua_ch_12.docx": [14193], "Joshua_ch_16.docx": [699, 699]}
+taph	{"Joshua_ch_12.docx": [14193], "Joshua_ch_16.docx": [699]}

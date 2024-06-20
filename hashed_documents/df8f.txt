@@ -1,0 +1,4 @@
+
+okay	{"Judges_ch_8.docx": [1178, 1207, 1242, 1207, 1242, 1207, 1242], "Judges_ch_14.docx": [2154, 2154, 2154], "1 Samuel_ch_9.docx": [1047, 1047, 1047], "2 Samuel_ch_2.docx": [2066, 2066, 2066], "2 Samuel_ch_18.docx": [3930, 3930, 3930], "2 Kings_ch_2.docx": [2878, 2878, 2878]}
+okay	{"Judges_ch_8.docx": [1178, 1207, 1242, 1207, 1242], "Judges_ch_14.docx": [2154, 2154], "1 Samuel_ch_9.docx": [1047, 1047], "2 Samuel_ch_2.docx": [2066, 2066], "2 Samuel_ch_18.docx": [3930, 3930], "2 Kings_ch_2.docx": [2878, 2878]}
+okay	{"Judges_ch_8.docx": [1178, 1207, 1242], "Judges_ch_14.docx": [2154], "1 Samuel_ch_9.docx": [1047], "2 Samuel_ch_2.docx": [2066], "2 Samuel_ch_18.docx": [3930], "2 Kings_ch_2.docx": [2878]}

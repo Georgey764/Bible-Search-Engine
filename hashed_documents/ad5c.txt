@@ -1,0 +1,4 @@
+
+homes;	{"Job_ch_20.docx": [2710], "Matthew_ch_10.docx": [4518, 4518, 4518]}
+homes;	{"Job_ch_20.docx": [2710], "Matthew_ch_10.docx": [4518, 4518]}
+homes;	{"Job_ch_20.docx": [2710], "Matthew_ch_10.docx": [4518]}

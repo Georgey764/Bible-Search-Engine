@@ -1,0 +1,5 @@
+
+juni	{"1 Kings_ch_6.docx": [3657, 3953, 3953, 3953], "2 Chronicles_ch_2.docx": [1512, 1512, 1512]}
+juni	{"1 Kings_ch_6.docx": [3657, 3953, 3953], "2 Chronicles_ch_2.docx": [1512, 1512]}
+46he	{"1 Kings_ch_7.docx": [6192]}
+juni	{"1 Kings_ch_6.docx": [3657, 3953], "2 Chronicles_ch_2.docx": [1512]}

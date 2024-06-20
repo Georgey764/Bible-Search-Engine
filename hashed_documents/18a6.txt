@@ -1,0 +1,4 @@
+
+cube	{"Esther_ch_1.docx": [1047]}
+cube	{"Esther_ch_1.docx": [1047]}
+cube	{"Esther_ch_1.docx": [1047]}

@@ -1,0 +1,2 @@
+
+13m	{"Genesis_ch_10.docx": [1526], "Judges_ch_17.docx": [1899], "2 Kings_ch_17.docx": [2095], "Psalms_ch_71.docx": [1237], "Psalms_ch_72.docx": [1089], "Psalms_ch_83.docx": [995], "Psalms_ch_109.docx": [1020], "Jeremiah_ch_48.docx": [1823]}

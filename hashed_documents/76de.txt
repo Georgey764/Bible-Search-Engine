@@ -1,0 +1,4 @@
+
+tholmi	{"Judges_ch_1.docx": [1434], "2 Samuel_ch_3.docx": [376, 376, 376], "2 Samuel_ch_13.docx": [5936, 5936, 5936]}
+tholmi	{"Judges_ch_1.docx": [1434], "2 Samuel_ch_3.docx": [376, 376], "2 Samuel_ch_13.docx": [5936, 5936]}
+tholmi	{"Judges_ch_1.docx": [1434], "2 Samuel_ch_3.docx": [376], "2 Samuel_ch_13.docx": [5936]}

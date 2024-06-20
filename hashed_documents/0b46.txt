@@ -1,0 +1,4 @@
+
+18‘now	{"Exodus_ch_5.docx": [2634], "Deuteronomy_ch_2.docx": [2286], "Deuteronomy_ch_21.docx": [2593], "Jeremiah_ch_2.docx": [2616], "Jeremiah_ch_13.docx": [2917], "Lamentations_ch_4.docx": [2942]}
+21came	{"2 Samuel_ch_21.docx": [4025]}
+21‘ple	{"Job_ch_19.docx": [1859]}

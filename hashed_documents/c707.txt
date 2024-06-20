@@ -1,0 +1,7 @@
+
+applie	{"Exodus_ch_12.docx": [3098], "Leviticus_ch_12.docx": [1163, 1163, 1163], "Numbers_ch_9.docx": [1854, 1854, 1854], "Numbers_ch_15.docx": [3590, 3590, 3590], "Psalms_ch_102.docx": [2190, 2190, 2190], "Psalms_ch_150.docx": [968], "Isaiah_ch_1.docx": [1011, 1011, 1011], "Romans_ch_4.docx": [2156, 2156]}
+carshe	{"Esther_ch_1.docx": [2500]}
+applie	{"Exodus_ch_12.docx": [3098], "Leviticus_ch_12.docx": [1163, 1163], "Numbers_ch_9.docx": [1854, 1854], "Numbers_ch_15.docx": [3590, 3590], "Psalms_ch_102.docx": [2190, 2190], "Isaiah_ch_1.docx": [1011, 1011], "Romans_ch_4.docx": [2156]}
+carshe	{"Esther_ch_1.docx": [2500]}
+applie	{"Exodus_ch_12.docx": [3098], "Leviticus_ch_12.docx": [1163], "Numbers_ch_9.docx": [1854], "Numbers_ch_15.docx": [3590], "Psalms_ch_102.docx": [2190], "Isaiah_ch_1.docx": [1011], "Romans_ch_4.docx": [2156]}
+carshe	{"Esther_ch_1.docx": [2500]}

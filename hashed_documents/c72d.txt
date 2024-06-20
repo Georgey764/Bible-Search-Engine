@@ -1,0 +1,9 @@
+
+dinosa	{"Job_ch_40.docx": [2138]}
+igni	{"Psalms_ch_18.docx": [1001], "Malachi_ch_1.docx": [2097, 2097, 2097]}
+7divi	{"Joshua_ch_13.docx": [10655]}
+2amari	{"Nehemiah_ch_12.docx": [154]}
+dinosa	{"Job_ch_40.docx": [2138]}
+igni	{"Psalms_ch_18.docx": [1001], "Malachi_ch_1.docx": [2097, 2097]}
+dinosa	{"Job_ch_40.docx": [2138]}
+igni	{"Psalms_ch_18.docx": [1001], "Malachi_ch_1.docx": [2097]}

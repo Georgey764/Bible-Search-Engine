@@ -1,0 +1,4 @@
+
+park	{"Ecclesiastes_ch_2.docx": [633], "Isaiah_ch_1.docx": [4681, 4681, 4681]}
+park	{"Ecclesiastes_ch_2.docx": [633], "Isaiah_ch_1.docx": [4681, 4681]}
+park	{"Ecclesiastes_ch_2.docx": [633], "Isaiah_ch_1.docx": [4681]}

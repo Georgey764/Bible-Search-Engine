@@ -1,0 +1,5 @@
+
+daeb	{"Numbers_ch_21.docx": [4279], "Numbers_ch_32.docx": [329, 4910, 329, 4910, 329, 4910], "Numbers_ch_33.docx": [3341, 3383, 3341, 3383, 3341, 3383]}
+daeb	{"Numbers_ch_21.docx": [4279], "Numbers_ch_32.docx": [329, 4910, 329, 4910], "Numbers_ch_33.docx": [3341, 3383, 3341, 3383]}
+20jero	{"1 Kings_ch_14.docx": [3376]}
+daeb	{"Numbers_ch_21.docx": [4279], "Numbers_ch_32.docx": [329, 4910], "Numbers_ch_33.docx": [3341, 3383]}

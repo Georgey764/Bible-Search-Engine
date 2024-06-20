@@ -1,0 +1,4 @@
+
+eliaza	{"Matthew_ch_1.docx": [1177, 1202, 1202, 1202]}
+eliaza	{"Matthew_ch_1.docx": [1177, 1202, 1202]}
+eliaza	{"Matthew_ch_1.docx": [1177, 1202]}

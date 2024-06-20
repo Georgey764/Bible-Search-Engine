@@ -1,0 +1,4 @@
+
+based	{"Joshua_ch_15.docx": [4889], "Proverbs_ch_16.docx": [1196, 1196, 1196], "Isaiah_ch_16.docx": [695, 695, 695], "Romans_ch_10.docx": [684, 684], "2 Corinthians_ch_5.docx": [1500, 1500], "Philippians_ch_3.docx": [1527, 1527], "Titus_ch_1.docx": [38, 38]}
+based	{"Joshua_ch_15.docx": [4889], "Proverbs_ch_16.docx": [1196, 1196], "Isaiah_ch_16.docx": [695, 695], "Romans_ch_10.docx": [684], "2 Corinthians_ch_5.docx": [1500], "Philippians_ch_3.docx": [1527], "Titus_ch_1.docx": [38]}
+based	{"Joshua_ch_15.docx": [4889], "Proverbs_ch_16.docx": [1196], "Isaiah_ch_16.docx": [695], "Romans_ch_10.docx": [684], "2 Corinthians_ch_5.docx": [1500], "Philippians_ch_3.docx": [1527], "Titus_ch_1.docx": [38]}

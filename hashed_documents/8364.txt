@@ -1,0 +1,4 @@
+
+dowr	{"Exodus_ch_22.docx": [2547], "Joshua_ch_16.docx": [1351, 1351, 1351], "1 Samuel_ch_18.docx": [4012, 4012, 4012], "1 Kings_ch_9.docx": [2672, 2672, 2672]}
+dowr	{"Exodus_ch_22.docx": [2547], "Joshua_ch_16.docx": [1351, 1351], "1 Samuel_ch_18.docx": [4012, 4012], "1 Kings_ch_9.docx": [2672, 2672]}
+dowr	{"Exodus_ch_22.docx": [2547], "Joshua_ch_16.docx": [1351], "1 Samuel_ch_18.docx": [4012], "1 Kings_ch_9.docx": [2672]}

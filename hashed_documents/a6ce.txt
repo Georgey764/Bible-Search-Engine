@@ -1,0 +1,4 @@
+
+domine	{"1 Timothy_ch_2.docx": [1245, 1256, 1256]}
+9‘ra	{"1 Kings_ch_14.docx": [1510]}
+domine	{"1 Timothy_ch_2.docx": [1245, 1256]}

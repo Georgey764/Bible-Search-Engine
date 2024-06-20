@@ -1,0 +1,4 @@
+
+levi’	{"1 Chronicles_ch_23.docx": [726], "1 Chronicles_ch_24.docx": [2186, 2186, 2186], "Mark_ch_2.docx": [1822, 1822], "Hebrews_ch_7.docx": [1638, 1638]}
+levi’	{"1 Chronicles_ch_23.docx": [726], "1 Chronicles_ch_24.docx": [2186, 2186], "Mark_ch_2.docx": [1822], "Hebrews_ch_7.docx": [1638]}
+levi’	{"1 Chronicles_ch_23.docx": [726], "1 Chronicles_ch_24.docx": [2186], "Mark_ch_2.docx": [1822], "Hebrews_ch_7.docx": [1638]}

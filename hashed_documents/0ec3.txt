@@ -1,0 +1,6 @@
+
+usual	{"Numbers_ch_24.docx": [23], "Judges_ch_3.docx": [8878, 8878, 8878], "1 Samuel_ch_20.docx": [3835, 4015, 3835, 4015, 3835, 4015], "Daniel_ch_3.docx": [3090, 3475, 3090, 3475, 3090, 3475], "John_ch_18.docx": [5090, 5090]}
+orat	{"Acts_ch_24.docx": [17]}
+usual	{"Numbers_ch_24.docx": [23], "Judges_ch_3.docx": [8878, 8878], "1 Samuel_ch_20.docx": [3835, 4015, 3835, 4015], "Daniel_ch_3.docx": [3090, 3475, 3090, 3475], "John_ch_18.docx": [5090]}
+usual	{"Numbers_ch_24.docx": [23], "Judges_ch_3.docx": [8878], "1 Samuel_ch_20.docx": [3835, 4015], "Daniel_ch_3.docx": [3090, 3475], "John_ch_18.docx": [5090]}
+orat	{"Acts_ch_24.docx": [17]}

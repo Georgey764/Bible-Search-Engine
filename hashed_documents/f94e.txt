@@ -1,0 +1,4 @@
+
+cosm	{"Deuteronomy_ch_33.docx": [3832], "John_ch_17.docx": [3110, 3110], "Acts_ch_17.docx": [5156, 5156], "Romans_ch_1.docx": [2311, 2311], "1 Peter_ch_1.docx": [5205, 5205]}
+cosm	{"Deuteronomy_ch_33.docx": [3832], "John_ch_17.docx": [3110], "Acts_ch_17.docx": [5156], "Romans_ch_1.docx": [2311], "1 Peter_ch_1.docx": [5205]}
+cosm	{"Deuteronomy_ch_33.docx": [3832], "John_ch_17.docx": [3110], "Acts_ch_17.docx": [5156], "Romans_ch_1.docx": [2311], "1 Peter_ch_1.docx": [5205]}

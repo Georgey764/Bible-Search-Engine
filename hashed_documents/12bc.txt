@@ -1,0 +1,6 @@
+
+mediat	{"1 Samuel_ch_7.docx": [2950, 3175, 3175, 3175], "Galatians_ch_3.docx": [3044, 3115, 3044, 3115], "1 Timothy_ch_2.docx": [454, 454], "Hebrews_ch_8.docx": [880, 880], "Hebrews_ch_9.docx": [2265, 2265], "Hebrews_ch_12.docx": [4282, 4282]}
+droop	{"Hebrews_ch_12.docx": [2281]}
+mediat	{"1 Samuel_ch_7.docx": [2950, 3175, 3175], "Galatians_ch_3.docx": [3044, 3115], "1 Timothy_ch_2.docx": [454], "Hebrews_ch_8.docx": [880], "Hebrews_ch_9.docx": [2265], "Hebrews_ch_12.docx": [4282]}
+mediat	{"1 Samuel_ch_7.docx": [2950, 3175], "Galatians_ch_3.docx": [3044, 3115], "1 Timothy_ch_2.docx": [454], "Hebrews_ch_8.docx": [880], "Hebrews_ch_9.docx": [2265], "Hebrews_ch_12.docx": [4282]}
+droop	{"Hebrews_ch_12.docx": [2281]}

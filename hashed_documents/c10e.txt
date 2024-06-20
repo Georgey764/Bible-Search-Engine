@@ -1,0 +1,4 @@
+
+crafti	{"Genesis_ch_30.docx": [4218], "Exodus_ch_31.docx": [337, 337, 337], "Joshua_ch_9.docx": [5541, 5541, 5541]}
+crafti	{"Genesis_ch_30.docx": [4218], "Exodus_ch_31.docx": [337, 337], "Joshua_ch_9.docx": [5541, 5541]}
+crafti	{"Genesis_ch_30.docx": [4218], "Exodus_ch_31.docx": [337], "Joshua_ch_9.docx": [5541]}

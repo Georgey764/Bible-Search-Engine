@@ -1,0 +1,4 @@
+
+crep	{"Genesis_ch_34.docx": [3202], "Judges_ch_4.docx": [7276, 7276, 7276], "Judges_ch_7.docx": [4329, 4329, 4329], "Ruth_ch_3.docx": [903, 903, 903], "1 Samuel_ch_24.docx": [716, 716, 716], "Jeremiah_ch_9.docx": [3745, 3745, 3745]}
+crep	{"Genesis_ch_34.docx": [3202], "Judges_ch_4.docx": [7276, 7276], "Judges_ch_7.docx": [4329, 4329], "Ruth_ch_3.docx": [903, 903], "1 Samuel_ch_24.docx": [716, 716], "Jeremiah_ch_9.docx": [3745, 3745]}
+crep	{"Genesis_ch_34.docx": [3202], "Judges_ch_4.docx": [7276], "Judges_ch_7.docx": [4329], "Ruth_ch_3.docx": [903], "1 Samuel_ch_24.docx": [716], "Jeremiah_ch_9.docx": [3745]}

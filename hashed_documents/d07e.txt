@@ -1,0 +1,2 @@
+
+2sinc	{"Deuteronomy_ch_14.docx": [23], "1 Chronicles_ch_24.docx": [266], "Psalms_ch_21.docx": [126], "Psalms_ch_42.docx": [167], "Psalms_ch_43.docx": [132], "Psalms_ch_76.docx": [167], "Micah_ch_3.docx": [180]}

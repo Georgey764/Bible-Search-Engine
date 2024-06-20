@@ -1,0 +1,4 @@
+
+southw	{"Genesis_ch_25.docx": [1776], "Numbers_ch_34.docx": [217, 433, 217, 433, 217, 433], "Joshua_ch_15.docx": [1154, 1728, 1154, 1728, 1154, 1728], "Joshua_ch_17.docx": [1348, 1348, 1348], "Joshua_ch_19.docx": [456, 456, 456], "Ezekiel_ch_42.docx": [1263, 1263, 1263], "Ezekiel_ch_47.docx": [3377, 3570, 3377, 3570, 3377, 3570], "Daniel_ch_8.docx": [642, 642, 642]}
+southw	{"Genesis_ch_25.docx": [1776], "Numbers_ch_34.docx": [217, 433, 217, 433], "Joshua_ch_15.docx": [1154, 1728, 1154, 1728], "Joshua_ch_17.docx": [1348, 1348], "Joshua_ch_19.docx": [456, 456], "Ezekiel_ch_42.docx": [1263, 1263], "Ezekiel_ch_47.docx": [3377, 3570, 3377, 3570], "Daniel_ch_8.docx": [642, 642]}
+southw	{"Genesis_ch_25.docx": [1776], "Numbers_ch_34.docx": [217, 433], "Joshua_ch_15.docx": [1154, 1728], "Joshua_ch_17.docx": [1348], "Joshua_ch_19.docx": [456], "Ezekiel_ch_42.docx": [1263], "Ezekiel_ch_47.docx": [3377, 3570], "Daniel_ch_8.docx": [642]}

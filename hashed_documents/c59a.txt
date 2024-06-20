@@ -1,0 +1,4 @@
+
+sardis	{"Revelation_ch_1.docx": [1940], "Revelation_ch_3.docx": [16, 709, 16, 709]}
+5all	{"Deuteronomy_ch_11.docx": [639], "Joshua_ch_11.docx": [2543], "Proverbs_ch_30.docx": [515]}
+sardis	{"Revelation_ch_1.docx": [1940], "Revelation_ch_3.docx": [16, 709]}

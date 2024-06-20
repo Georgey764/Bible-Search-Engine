@@ -1,0 +1,5 @@
+
+ashtar	{"Genesis_ch_14.docx": [565], "Judges_ch_10.docx": [919, 919, 919]}
+ashtar	{"Genesis_ch_14.docx": [565], "Judges_ch_10.docx": [919, 919]}
+7‘wha	{"Deuteronomy_ch_4.docx": [1068], "Isaiah_ch_32.docx": [853], "Jeremiah_ch_46.docx": [907]}
+ashtar	{"Genesis_ch_14.docx": [565], "Judges_ch_10.docx": [919]}

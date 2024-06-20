@@ -1,0 +1,7 @@
+
+nurse	{"Genesis_ch_35.docx": [1218], "Exodus_ch_2.docx": [914, 1117, 1182, 914, 1117, 1182, 914, 1117, 1182], "Deuteronomy_ch_1.docx": [4486, 4486, 4486], "1 Samuel_ch_1.docx": [3703, 3703, 3703], "2 Samuel_ch_4.docx": [521, 521, 521], "1 Kings_ch_3.docx": [3484, 3484, 3484], "2 Kings_ch_11.docx": [166, 166, 166], "Job_ch_3.docx": [1178, 1178, 1178], "Psalms_ch_22.docx": [914, 914, 914], "Isaiah_ch_49.docx": [4992, 4992, 4992], "Lamentations_ch_2.docx": [2768, 2768, 2768], "Luke_ch_23.docx": [3470, 3470], "Acts_ch_7.docx": [2714, 2714]}
+curved	{"Proverbs_ch_2.docx": [1307]}
+nurse	{"Genesis_ch_35.docx": [1218], "Exodus_ch_2.docx": [914, 1117, 1182, 914, 1117, 1182], "Deuteronomy_ch_1.docx": [4486, 4486], "1 Samuel_ch_1.docx": [3703, 3703], "2 Samuel_ch_4.docx": [521, 521], "1 Kings_ch_3.docx": [3484, 3484], "2 Kings_ch_11.docx": [166, 166], "Job_ch_3.docx": [1178, 1178], "Psalms_ch_22.docx": [914, 914], "Isaiah_ch_49.docx": [4992, 4992], "Lamentations_ch_2.docx": [2768, 2768], "Luke_ch_23.docx": [3470], "Acts_ch_7.docx": [2714]}
+curved	{"Proverbs_ch_2.docx": [1307]}
+nurse	{"Genesis_ch_35.docx": [1218], "Exodus_ch_2.docx": [914, 1117, 1182], "Deuteronomy_ch_1.docx": [4486], "1 Samuel_ch_1.docx": [3703], "2 Samuel_ch_4.docx": [521], "1 Kings_ch_3.docx": [3484], "2 Kings_ch_11.docx": [166], "Job_ch_3.docx": [1178], "Psalms_ch_22.docx": [914], "Isaiah_ch_49.docx": [4992], "Lamentations_ch_2.docx": [2768], "Luke_ch_23.docx": [3470], "Acts_ch_7.docx": [2714]}
+curved	{"Proverbs_ch_2.docx": [1307]}

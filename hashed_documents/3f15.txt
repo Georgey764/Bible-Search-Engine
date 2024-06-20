@@ -1,0 +1,6 @@
+
+sacks	{"Joshua_ch_9.docx": [5667], "1 Kings_ch_18.docx": [5377, 5377, 5377], "Proverbs_ch_1.docx": [1510, 1510, 1510]}
+no-	{"Mark_ch_9.docx": [1530]}
+sacks	{"Joshua_ch_9.docx": [5667], "1 Kings_ch_18.docx": [5377, 5377], "Proverbs_ch_1.docx": [1510, 1510]}
+sacks	{"Joshua_ch_9.docx": [5667], "1 Kings_ch_18.docx": [5377], "Proverbs_ch_1.docx": [1510]}
+no-	{"Mark_ch_9.docx": [1530]}

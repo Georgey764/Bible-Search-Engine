@@ -1,0 +1,7 @@
+
+chele	{"Numbers_ch_26.docx": [3581, 3586, 3586, 3586]}
+azoba	{"1 Chronicles_ch_11.docx": [5868]}
+chele	{"Numbers_ch_26.docx": [3581, 3586, 3586]}
+azoba	{"1 Chronicles_ch_11.docx": [5868]}
+chele	{"Numbers_ch_26.docx": [3581, 3586]}
+azoba	{"1 Chronicles_ch_11.docx": [5868]}

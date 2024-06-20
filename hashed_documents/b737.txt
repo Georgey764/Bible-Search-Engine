@@ -1,0 +1,4 @@
+
+vigo	{"1 Samuel_ch_20.docx": [175], "2 Chronicles_ch_32.docx": [554, 554, 554], "Job_ch_20.docx": [961, 961, 961], "Job_ch_30.docx": [298, 298, 298], "Psalms_ch_71.docx": [921, 921, 921], "Proverbs_ch_5.docx": [805, 856, 805, 856, 805, 856], "Mark_ch_7.docx": [46, 46]}
+vigo	{"1 Samuel_ch_20.docx": [175], "2 Chronicles_ch_32.docx": [554, 554], "Job_ch_20.docx": [961, 961], "Job_ch_30.docx": [298, 298], "Psalms_ch_71.docx": [921, 921], "Proverbs_ch_5.docx": [805, 856, 805, 856], "Mark_ch_7.docx": [46]}
+vigo	{"1 Samuel_ch_20.docx": [175], "2 Chronicles_ch_32.docx": [554], "Job_ch_20.docx": [961], "Job_ch_30.docx": [298], "Psalms_ch_71.docx": [921], "Proverbs_ch_5.docx": [805, 856], "Mark_ch_7.docx": [46]}

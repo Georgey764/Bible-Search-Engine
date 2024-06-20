@@ -1,0 +1,4 @@
+
+jumpin	{"Genesis_ch_31.docx": [1025, 1480, 1480, 1480], "Exodus_ch_4.docx": [2068, 2068, 2068], "1 Samuel_ch_10.docx": [216, 216, 216], "Acts_ch_3.docx": [840, 840]}
+jumpin	{"Genesis_ch_31.docx": [1025, 1480, 1480], "Exodus_ch_4.docx": [2068, 2068], "1 Samuel_ch_10.docx": [216, 216], "Acts_ch_3.docx": [840]}
+jumpin	{"Genesis_ch_31.docx": [1025, 1480], "Exodus_ch_4.docx": [2068], "1 Samuel_ch_10.docx": [216], "Acts_ch_3.docx": [840]}

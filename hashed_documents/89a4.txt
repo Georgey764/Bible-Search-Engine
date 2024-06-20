@@ -1,0 +1,4 @@
+
+leak	{"Proverbs_ch_27.docx": [1330], "Ecclesiastes_ch_10.docx": [2023, 2023, 2023]}
+leak	{"Proverbs_ch_27.docx": [1330], "Ecclesiastes_ch_10.docx": [2023, 2023]}
+leak	{"Proverbs_ch_27.docx": [1330], "Ecclesiastes_ch_10.docx": [2023]}

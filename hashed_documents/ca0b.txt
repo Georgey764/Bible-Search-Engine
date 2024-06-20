@@ -1,0 +1,4 @@
+
+cauld	{"Amos_ch_4.docx": [649], "Micah_ch_3.docx": [494, 494, 494]}
+cauld	{"Amos_ch_4.docx": [649], "Micah_ch_3.docx": [494, 494]}
+cauld	{"Amos_ch_4.docx": [649], "Micah_ch_3.docx": [494]}

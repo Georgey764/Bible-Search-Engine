@@ -1,0 +1,7 @@
+
+roob	{"2 Samuel_ch_10.docx": [858, 1083, 1083, 1083], "1 Chronicles_ch_6.docx": [6425, 6425, 6425]}
+renewa	{"Hebrews_ch_6.docx": [476]}
+16‘fa	{"Deuteronomy_ch_24.docx": [2386]}
+roob	{"2 Samuel_ch_10.docx": [858, 1083, 1083], "1 Chronicles_ch_6.docx": [6425, 6425]}
+roob	{"2 Samuel_ch_10.docx": [858, 1083], "1 Chronicles_ch_6.docx": [6425]}
+renewa	{"Hebrews_ch_6.docx": [476]}

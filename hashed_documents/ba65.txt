@@ -1,0 +1,6 @@
+
+grazed	{"Genesis_ch_37.docx": [159], "1 Chronicles_ch_27.docx": [4022, 4022, 4022], "Ezekiel_ch_34.docx": [1407, 1407, 1407]}
+wran	{"Acts_ch_15.docx": [1992]}
+grazed	{"Genesis_ch_37.docx": [159], "1 Chronicles_ch_27.docx": [4022, 4022], "Ezekiel_ch_34.docx": [1407, 1407]}
+grazed	{"Genesis_ch_37.docx": [159], "1 Chronicles_ch_27.docx": [4022], "Ezekiel_ch_34.docx": [1407]}
+wran	{"Acts_ch_15.docx": [1992]}

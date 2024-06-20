@@ -1,0 +1,4 @@
+
+awni	{"Exodus_ch_27.docx": [1580, 1608, 1608, 1608]}
+awni	{"Exodus_ch_27.docx": [1580, 1608, 1608]}
+awni	{"Exodus_ch_27.docx": [1580, 1608]}

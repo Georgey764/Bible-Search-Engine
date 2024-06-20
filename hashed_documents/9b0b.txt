@@ -1,0 +1,4 @@
+
+barad	{"Genesis_ch_16.docx": [2172], "Genesis_ch_36.docx": [3616, 3967, 3616, 3967, 3616, 3967], "1 Chronicles_ch_1.docx": [3856, 4217, 3856, 4217, 3856, 4217], "1 Chronicles_ch_7.docx": [2499, 2499, 2499]}
+barad	{"Genesis_ch_16.docx": [2172], "Genesis_ch_36.docx": [3616, 3967, 3616, 3967], "1 Chronicles_ch_1.docx": [3856, 4217, 3856, 4217], "1 Chronicles_ch_7.docx": [2499, 2499]}
+barad	{"Genesis_ch_16.docx": [2172], "Genesis_ch_36.docx": [3616, 3967], "1 Chronicles_ch_1.docx": [3856, 4217], "1 Chronicles_ch_7.docx": [2499]}

@@ -1,0 +1,4 @@
+
+says!	{"Numbers_ch_30.docx": [261], "2 Kings_ch_9.docx": [1816, 1816, 1816]}
+says!	{"Numbers_ch_30.docx": [261], "2 Kings_ch_9.docx": [1816, 1816]}
+says!	{"Numbers_ch_30.docx": [261], "2 Kings_ch_9.docx": [1816]}

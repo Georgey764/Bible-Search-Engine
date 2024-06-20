@@ -1,0 +1,7 @@
+
+thare	{"Joshua_ch_18.docx": [3579]}
+frustr	{"Isaiah_ch_29.docx": [1599]}
+thare	{"Joshua_ch_18.docx": [3579]}
+frustr	{"Isaiah_ch_29.docx": [1599]}
+thare	{"Joshua_ch_18.docx": [3579]}
+frustr	{"Isaiah_ch_29.docx": [1599]}

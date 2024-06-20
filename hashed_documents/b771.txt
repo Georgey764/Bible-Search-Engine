@@ -1,0 +1,7 @@
+
+drinks	{"Genesis_ch_44.docx": [603], "Job_ch_34.docx": [455, 455, 455], "Proverbs_ch_23.docx": [1673, 2708, 1673, 2708, 1673, 2708], "Jeremiah_ch_7.docx": [2817, 2817, 2817], "Jeremiah_ch_16.docx": [1169, 1169, 1169], "Jeremiah_ch_19.docx": [2712, 2712, 2712], "Jeremiah_ch_44.docx": [3953, 3953, 3953], "Luke_ch_12.docx": [5929, 5929], "John_ch_4.docx": [2093, 2153, 2093, 2153], "1 Corinthians_ch_11.docx": [3247, 3247], "1 Timothy_ch_3.docx": [431, 431]}
+envoy!	{"Isaiah_ch_63.docx": [1178]}
+drinks	{"Genesis_ch_44.docx": [603], "Job_ch_34.docx": [455, 455], "Proverbs_ch_23.docx": [1673, 2708, 1673, 2708], "Jeremiah_ch_7.docx": [2817, 2817], "Jeremiah_ch_16.docx": [1169, 1169], "Jeremiah_ch_19.docx": [2712, 2712], "Jeremiah_ch_44.docx": [3953, 3953], "Luke_ch_12.docx": [5929], "John_ch_4.docx": [2093, 2153], "1 Corinthians_ch_11.docx": [3247], "1 Timothy_ch_3.docx": [431]}
+envoy!	{"Isaiah_ch_63.docx": [1178]}
+drinks	{"Genesis_ch_44.docx": [603], "Job_ch_34.docx": [455], "Proverbs_ch_23.docx": [1673, 2708], "Jeremiah_ch_7.docx": [2817], "Jeremiah_ch_16.docx": [1169], "Jeremiah_ch_19.docx": [2712], "Jeremiah_ch_44.docx": [3953], "Luke_ch_12.docx": [5929], "John_ch_4.docx": [2093, 2153], "1 Corinthians_ch_11.docx": [3247], "1 Timothy_ch_3.docx": [431]}
+envoy!	{"Isaiah_ch_63.docx": [1178]}

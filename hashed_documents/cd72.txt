@@ -1,0 +1,5 @@
+
+maselm	{"1 Chronicles_ch_9.docx": [1726]}
+34y	{"Genesis_ch_46.docx": [4106], "Exodus_ch_34.docx": [4957], "Deuteronomy_ch_28.docx": [4608], "2 Kings_ch_18.docx": [5795]}
+maselm	{"1 Chronicles_ch_9.docx": [1726]}
+maselm	{"1 Chronicles_ch_9.docx": [1726]}

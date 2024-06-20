@@ -1,0 +1,4 @@
+
+cheeks	{"Deuteronomy_ch_18.docx": [331], "Song of Solomon_ch_1.docx": [1468, 1468, 1468], "Song of Solomon_ch_4.docx": [480, 480, 480], "Song of Solomon_ch_6.docx": [1010, 1010, 1010], "Lamentations_ch_1.docx": [359, 359, 359]}
+cheeks	{"Deuteronomy_ch_18.docx": [331], "Song of Solomon_ch_1.docx": [1468, 1468], "Song of Solomon_ch_4.docx": [480, 480], "Song of Solomon_ch_6.docx": [1010, 1010], "Lamentations_ch_1.docx": [359, 359]}
+cheeks	{"Deuteronomy_ch_18.docx": [331], "Song of Solomon_ch_1.docx": [1468], "Song of Solomon_ch_4.docx": [480], "Song of Solomon_ch_6.docx": [1010], "Lamentations_ch_1.docx": [359]}

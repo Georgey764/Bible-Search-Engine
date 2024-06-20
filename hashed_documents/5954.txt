@@ -1,0 +1,6 @@
+
+amber	{"Exodus_ch_39.docx": [1462], "Ezekiel_ch_28.docx": [1863, 1863, 1863]}
+amber	{"Exodus_ch_39.docx": [1462], "Ezekiel_ch_28.docx": [1863, 1863]}
+47af	{"Numbers_ch_33.docx": [3442]}
+10war	{"1 Kings_ch_11.docx": [1200]}
+amber	{"Exodus_ch_39.docx": [1462], "Ezekiel_ch_28.docx": [1863]}

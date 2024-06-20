@@ -1,0 +1,7 @@
+
+german	{"Genesis_ch_10.docx": [388]}
+norma	{"Psalms_ch_45.docx": [193], "Psalms_ch_102.docx": [2214, 2214, 2214], "Mark_ch_7.docx": [4469, 4469], "Hebrews_ch_11.docx": [2905, 2919, 2905, 2919], "Hebrews_ch_12.docx": [1316, 1316]}
+german	{"Genesis_ch_10.docx": [388]}
+norma	{"Psalms_ch_45.docx": [193], "Psalms_ch_102.docx": [2214, 2214], "Mark_ch_7.docx": [4469], "Hebrews_ch_11.docx": [2905, 2919], "Hebrews_ch_12.docx": [1316]}
+german	{"Genesis_ch_10.docx": [388]}
+norma	{"Psalms_ch_45.docx": [193], "Psalms_ch_102.docx": [2214], "Mark_ch_7.docx": [4469], "Hebrews_ch_11.docx": [2905, 2919], "Hebrews_ch_12.docx": [1316]}

@@ -1,0 +1,4 @@
+
+aftern	{"1 Kings_ch_17.docx": [510], "Isaiah_ch_18.docx": [516, 516, 516], "Matthew_ch_27.docx": [6763, 6763], "Mark_ch_15.docx": [4631, 4631]}
+aftern	{"1 Kings_ch_17.docx": [510], "Isaiah_ch_18.docx": [516, 516], "Matthew_ch_27.docx": [6763], "Mark_ch_15.docx": [4631]}
+aftern	{"1 Kings_ch_17.docx": [510], "Isaiah_ch_18.docx": [516], "Matthew_ch_27.docx": [6763], "Mark_ch_15.docx": [4631]}

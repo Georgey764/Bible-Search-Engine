@@ -1,0 +1,5 @@
+
+stomp	{"Jeremiah_ch_9.docx": [692], "Ezekiel_ch_32.docx": [2204, 2204, 2204], "Ezekiel_ch_34.docx": [3375, 3375, 3375], "Malachi_ch_3.docx": [1778, 1823, 1887, 2022, 1778, 1823, 1887, 2022, 1778, 1823, 1887, 2022]}
+36‘i	{"Exodus_ch_30.docx": [4476], "Leviticus_ch_26.docx": [4596], "1 Kings_ch_11.docx": [5469], "Jeremiah_ch_31.docx": [6790]}
+stomp	{"Jeremiah_ch_9.docx": [692], "Ezekiel_ch_32.docx": [2204, 2204], "Ezekiel_ch_34.docx": [3375, 3375], "Malachi_ch_3.docx": [1778, 1823, 1887, 2022, 1778, 1823, 1887, 2022]}
+stomp	{"Jeremiah_ch_9.docx": [692], "Ezekiel_ch_32.docx": [2204], "Ezekiel_ch_34.docx": [3375], "Malachi_ch_3.docx": [1778, 1823, 1887, 2022]}

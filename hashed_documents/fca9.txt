@@ -1,0 +1,4 @@
+
+river’	{"Genesis_ch_41.docx": [129, 2098, 2098, 2098], "Isaiah_ch_7.docx": [2895, 2895, 2895]}
+river’	{"Genesis_ch_41.docx": [129, 2098, 2098], "Isaiah_ch_7.docx": [2895, 2895]}
+river’	{"Genesis_ch_41.docx": [129, 2098], "Isaiah_ch_7.docx": [2895]}

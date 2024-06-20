@@ -1,0 +1,4 @@
+
+jeza	{"Genesis_ch_25.docx": [122, 175, 175], "Jeremiah_ch_40.docx": [1726, 1726, 1726], "Jeremiah_ch_42.docx": [18, 18, 18]}
+jeza	{"Genesis_ch_25.docx": [122, 175], "Jeremiah_ch_40.docx": [1726, 1726], "Jeremiah_ch_42.docx": [18, 18]}
+jeza	{"Genesis_ch_25.docx": [122, 175], "Jeremiah_ch_40.docx": [1726], "Jeremiah_ch_42.docx": [18]}

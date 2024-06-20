@@ -1,0 +1,3 @@
+
+27‘a	{"Genesis_ch_9.docx": [3299], "Genesis_ch_41.docx": [3242], "Genesis_ch_44.docx": [3504], "Exodus_ch_21.docx": [3233], "Exodus_ch_28.docx": [3241], "Leviticus_ch_4.docx": [3793], "Leviticus_ch_6.docx": [3576], "Leviticus_ch_11.docx": [2888], "Leviticus_ch_15.docx": [3807], "Leviticus_ch_16.docx": [4548], "Leviticus_ch_20.docx": [4167], "Leviticus_ch_23.docx": [3751], "Leviticus_ch_26.docx": [3539], "Numbers_ch_28.docx": [3389], "Job_ch_19.docx": [2405], "Proverbs_ch_8.docx": [2368], "Jeremiah_ch_5.docx": [4846], "Jeremiah_ch_6.docx": [4829], "Ezekiel_ch_18.docx": [4388], "Ezekiel_ch_20.docx": [4509], "Matthew_ch_11.docx": [3286]}
+1since	{"Psalms_ch_11.docx": [61]}

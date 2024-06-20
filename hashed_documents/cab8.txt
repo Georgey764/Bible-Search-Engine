@@ -1,0 +1,7 @@
+
+void	{"Leviticus_ch_26.docx": [5974], "2 Samuel_ch_1.docx": [3078, 3078, 3078], "Isaiah_ch_45.docx": [3336, 3336, 3336], "Jeremiah_ch_31.docx": [6795, 6795, 6795], "Jeremiah_ch_33.docx": [2264, 2264, 2264], "Jeremiah_ch_34.docx": [3428, 3428, 3428], "Matthew_ch_15.docx": [549, 549, 549], "John_ch_10.docx": [3710, 3710], "Galatians_ch_5.docx": [464, 464]}
+badek	{"2 Kings_ch_9.docx": [4967]}
+void	{"Leviticus_ch_26.docx": [5974], "2 Samuel_ch_1.docx": [3078, 3078], "Isaiah_ch_45.docx": [3336, 3336], "Jeremiah_ch_31.docx": [6795, 6795], "Jeremiah_ch_33.docx": [2264, 2264], "Jeremiah_ch_34.docx": [3428, 3428], "Matthew_ch_15.docx": [549, 549], "John_ch_10.docx": [3710], "Galatians_ch_5.docx": [464]}
+badek	{"2 Kings_ch_9.docx": [4967]}
+void	{"Leviticus_ch_26.docx": [5974], "2 Samuel_ch_1.docx": [3078], "Isaiah_ch_45.docx": [3336], "Jeremiah_ch_31.docx": [6795], "Jeremiah_ch_33.docx": [2264], "Jeremiah_ch_34.docx": [3428], "Matthew_ch_15.docx": [549], "John_ch_10.docx": [3710], "Galatians_ch_5.docx": [464]}
+badek	{"2 Kings_ch_9.docx": [4967]}

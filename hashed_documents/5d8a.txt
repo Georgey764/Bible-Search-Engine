@@ -1,0 +1,6 @@
+
+stoner	{"Matthew_ch_23.docx": [4839], "Luke_ch_13.docx": [4533, 4533]}
+10‘als	{"Leviticus_ch_17.docx": [1579], "Numbers_ch_30.docx": [1472], "2 Chronicles_ch_28.docx": [1588]}
+stoner	{"Matthew_ch_23.docx": [4839], "Luke_ch_13.docx": [4533]}
+38when	{"Matthew_ch_25.docx": [4436]}
+stoner	{"Matthew_ch_23.docx": [4839], "Luke_ch_13.docx": [4533]}

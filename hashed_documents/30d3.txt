@@ -1,0 +1,5 @@
+
+spearm	{"Acts_ch_23.docx": [4087, 4112, 4138, 4112, 4138]}
+14‘if	{"Exodus_ch_22.docx": [2195], "Leviticus_ch_22.docx": [1980], "Numbers_ch_16.docx": [1852], "Ecclesiastes_ch_9.docx": [2580]}
+7aris	{"Psalms_ch_3.docx": [545]}
+spearm	{"Acts_ch_23.docx": [4087, 4112, 4138]}

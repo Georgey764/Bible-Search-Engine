@@ -1,0 +1,4 @@
+
+neri	{"Jeremiah_ch_32.docx": [1895, 2645, 2645, 2645], "Jeremiah_ch_36.docx": [552, 1199, 2390, 2594, 5697, 552, 1199, 2390, 2594, 5697, 552, 1199, 2390, 2594, 5697], "Jeremiah_ch_43.docx": [275, 619, 275, 619, 275, 619], "Jeremiah_ch_45.docx": [17, 17, 17], "Jeremiah_ch_51.docx": [9752, 9752, 9752], "Luke_ch_3.docx": [6543, 6543]}
+neri	{"Jeremiah_ch_32.docx": [1895, 2645, 2645], "Jeremiah_ch_36.docx": [552, 1199, 2390, 2594, 5697, 552, 1199, 2390, 2594, 5697], "Jeremiah_ch_43.docx": [275, 619, 275, 619], "Jeremiah_ch_45.docx": [17, 17], "Jeremiah_ch_51.docx": [9752, 9752], "Luke_ch_3.docx": [6543]}
+neri	{"Jeremiah_ch_32.docx": [1895, 2645], "Jeremiah_ch_36.docx": [552, 1199, 2390, 2594, 5697], "Jeremiah_ch_43.docx": [275, 619], "Jeremiah_ch_45.docx": [17], "Jeremiah_ch_51.docx": [9752], "Luke_ch_3.docx": [6543]}

@@ -1,0 +1,6 @@
+
+chirp	{"Isaiah_ch_10.docx": [2167]}
+gale-f	{"Mark_ch_4.docx": [4233]}
+chirp	{"Isaiah_ch_10.docx": [2167]}
+chirp	{"Isaiah_ch_10.docx": [2167]}
+gale-f	{"Mark_ch_4.docx": [4233]}

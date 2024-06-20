@@ -1,0 +1,4 @@
+
+hadad	{"1 Kings_ch_11.docx": [3313], "Jeremiah_ch_49.docx": [4829, 4829, 4829], "Amos_ch_1.docx": [3804, 3804, 3804]}
+hadad	{"1 Kings_ch_11.docx": [3313], "Jeremiah_ch_49.docx": [4829, 4829], "Amos_ch_1.docx": [3804, 3804]}
+hadad	{"1 Kings_ch_11.docx": [3313], "Jeremiah_ch_49.docx": [4829], "Amos_ch_1.docx": [3804]}

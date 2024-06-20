@@ -1,0 +1,10 @@
+
+know!	{"Exodus_ch_2.docx": [2056], "2 Chronicles_ch_1.docx": [1858, 1858, 1858]}
+kelo	{"2 Samuel_ch_23.docx": [4283]}
+hena	{"Ezra_ch_3.docx": [1945], "Nehemiah_ch_3.docx": [9353, 11315, 9353, 11315, 9353, 11315], "Nehemiah_ch_10.docx": [464, 464, 464], "Isaiah_ch_37.docx": [1936, 1936, 1936]}
+know!	{"Exodus_ch_2.docx": [2056], "2 Chronicles_ch_1.docx": [1858, 1858]}
+kelo	{"2 Samuel_ch_23.docx": [4283]}
+hena	{"Ezra_ch_3.docx": [1945], "Nehemiah_ch_3.docx": [9353, 11315, 9353, 11315], "Nehemiah_ch_10.docx": [464, 464], "Isaiah_ch_37.docx": [1936, 1936]}
+know!	{"Exodus_ch_2.docx": [2056], "2 Chronicles_ch_1.docx": [1858]}
+kelo	{"2 Samuel_ch_23.docx": [4283]}
+hena	{"Ezra_ch_3.docx": [1945], "Nehemiah_ch_3.docx": [9353, 11315], "Nehemiah_ch_10.docx": [464], "Isaiah_ch_37.docx": [1936]}

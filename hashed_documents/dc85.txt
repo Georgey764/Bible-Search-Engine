@@ -1,0 +1,2 @@
+
+26fo	{"Exodus_ch_15.docx": [3591], "Deuteronomy_ch_32.docx": [3860], "1 Kings_ch_15.docx": [3651], "1 Chronicles_ch_16.docx": [2697], "Psalms_ch_69.docx": [2715], "Psalms_ch_104.docx": [2637], "Proverbs_ch_3.docx": [2422], "Proverbs_ch_6.docx": [2699], "Proverbs_ch_28.docx": [2411], "Isaiah_ch_45.docx": [4771], "Jeremiah_ch_4.docx": [4191], "Jeremiah_ch_5.docx": [4707], "Ezekiel_ch_7.docx": [4366]}

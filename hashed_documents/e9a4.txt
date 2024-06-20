@@ -1,0 +1,4 @@
+
+parta	{"Exodus_ch_12.docx": [7217], "Ephesians_ch_3.docx": [628, 628], "Hebrews_ch_3.docx": [9, 9]}
+parta	{"Exodus_ch_12.docx": [7217], "Ephesians_ch_3.docx": [628], "Hebrews_ch_3.docx": [9]}
+parta	{"Exodus_ch_12.docx": [7217], "Ephesians_ch_3.docx": [628], "Hebrews_ch_3.docx": [9]}

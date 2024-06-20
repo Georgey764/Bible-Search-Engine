@@ -1,0 +1,4 @@
+
+advert	{"Exodus_ch_9.docx": [2165], "Colossians_ch_1.docx": [4061, 4061]}
+advert	{"Exodus_ch_9.docx": [2165], "Colossians_ch_1.docx": [4061]}
+advert	{"Exodus_ch_9.docx": [2165], "Colossians_ch_1.docx": [4061]}

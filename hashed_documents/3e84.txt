@@ -1,0 +1,5 @@
+
+whippi	{"Exodus_ch_21.docx": [2913, 2915, 2915, 2915], "Psalms_ch_39.docx": [1062, 1062, 1062]}
+whippi	{"Exodus_ch_21.docx": [2913, 2915, 2915], "Psalms_ch_39.docx": [1062, 1062]}
+35,4	{"Numbers_ch_1.docx": [3261], "Numbers_ch_2.docx": [2061]}
+whippi	{"Exodus_ch_21.docx": [2913, 2915], "Psalms_ch_39.docx": [1062]}

@@ -1,0 +1,5 @@
+
+saff	{"Proverbs_ch_7.docx": [1482], "Song of Solomon_ch_4.docx": [1989, 1989, 1989]}
+17abig	{"1 Chronicles_ch_2.docx": [1409]}
+saff	{"Proverbs_ch_7.docx": [1482], "Song of Solomon_ch_4.docx": [1989, 1989]}
+saff	{"Proverbs_ch_7.docx": [1482], "Song of Solomon_ch_4.docx": [1989]}

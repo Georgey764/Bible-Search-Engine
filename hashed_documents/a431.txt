@@ -1,0 +1,10 @@
+
+mamre	{"Genesis_ch_13.docx": [2321], "Genesis_ch_14.docx": [1742, 3398, 1742, 3398, 1742, 3398], "Genesis_ch_18.docx": [27, 27, 27], "Genesis_ch_23.docx": [2023, 2324, 2023, 2324, 2023, 2324], "Genesis_ch_25.docx": [812, 812, 812], "Genesis_ch_35.docx": [3477, 3477, 3477], "Genesis_ch_49.docx": [3949, 3949, 3949]}
+resph	{"2 Samuel_ch_3.docx": [767], "2 Samuel_ch_21.docx": [1545, 1979, 2321, 1545, 1979, 2321, 1545, 1979, 2321]}
+harhai	{"Nehemiah_ch_3.docx": [2837, 2867, 2899, 2867, 2899, 2867, 2899]}
+mamre	{"Genesis_ch_13.docx": [2321], "Genesis_ch_14.docx": [1742, 3398, 1742, 3398], "Genesis_ch_18.docx": [27, 27], "Genesis_ch_23.docx": [2023, 2324, 2023, 2324], "Genesis_ch_25.docx": [812, 812], "Genesis_ch_35.docx": [3477, 3477], "Genesis_ch_49.docx": [3949, 3949]}
+resph	{"2 Samuel_ch_3.docx": [767], "2 Samuel_ch_21.docx": [1545, 1979, 2321, 1545, 1979, 2321]}
+harhai	{"Nehemiah_ch_3.docx": [2837, 2867, 2899, 2867, 2899]}
+mamre	{"Genesis_ch_13.docx": [2321], "Genesis_ch_14.docx": [1742, 3398], "Genesis_ch_18.docx": [27], "Genesis_ch_23.docx": [2023, 2324], "Genesis_ch_25.docx": [812], "Genesis_ch_35.docx": [3477], "Genesis_ch_49.docx": [3949]}
+resph	{"2 Samuel_ch_3.docx": [767], "2 Samuel_ch_21.docx": [1545, 1979, 2321]}
+harhai	{"Nehemiah_ch_3.docx": [2837, 2867, 2899]}

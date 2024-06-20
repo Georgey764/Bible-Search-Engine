@@ -1,0 +1,2 @@
+
+7‘b	{"Leviticus_ch_25.docx": [871], "Deuteronomy_ch_7.docx": [1010], "Judges_ch_13.docx": [1176], "2 Samuel_ch_22.docx": [655], "2 Chronicles_ch_32.docx": [1471], "Job_ch_30.docx": [794], "Isaiah_ch_10.docx": [840], "Jeremiah_ch_9.docx": [1163], "Jeremiah_ch_14.docx": [787], "Jeremiah_ch_17.docx": [1134], "Jeremiah_ch_47.docx": [1092], "Jeremiah_ch_48.docx": [736], "Ezekiel_ch_11.docx": [986], "Ezekiel_ch_34.docx": [1107], "Matthew_ch_5.docx": [470]}

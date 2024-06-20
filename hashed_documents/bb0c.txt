@@ -1,0 +1,3 @@
+
+1[a	{"Genesis_ch_2.docx": [4], "Genesis_ch_11.docx": [4], "Song of Solomon_ch_4.docx": [6], "Jeremiah_ch_12.docx": [4], "Hosea_ch_5.docx": [4], "Hosea_ch_11.docx": [4]}
+91it’s	{"Psalms_ch_119.docx": [7586]}

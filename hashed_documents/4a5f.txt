@@ -1,0 +1,5 @@
+
+showbr	{"Exodus_ch_39.docx": [4554], "Numbers_ch_4.docx": [642, 642, 642], "1 Kings_ch_7.docx": [6425, 6425, 6425], "1 Chronicles_ch_9.docx": [4645, 4645, 4645], "Hebrews_ch_9.docx": [130, 130]}
+3‘you	{"Exodus_ch_27.docx": [295], "Exodus_ch_35.docx": [323], "Leviticus_ch_11.docx": [204], "Leviticus_ch_25.docx": [271], "Deuteronomy_ch_2.docx": [222], "Deuteronomy_ch_15.docx": [272], "1 Kings_ch_5.docx": [211], "1 Kings_ch_20.docx": [351], "Job_ch_35.docx": [164], "Psalms_ch_110.docx": [241], "Song of Solomon_ch_4.docx": [395], "Song of Solomon_ch_7.docx": [358], "Jeremiah_ch_3.docx": [537], "Jeremiah_ch_12.docx": [420], "Ezekiel_ch_22.docx": [212], "Ezekiel_ch_27.docx": [128], "Jonah_ch_2.docx": [310]}
+showbr	{"Exodus_ch_39.docx": [4554], "Numbers_ch_4.docx": [642, 642], "1 Kings_ch_7.docx": [6425, 6425], "1 Chronicles_ch_9.docx": [4645, 4645], "Hebrews_ch_9.docx": [130]}
+showbr	{"Exodus_ch_39.docx": [4554], "Numbers_ch_4.docx": [642], "1 Kings_ch_7.docx": [6425], "1 Chronicles_ch_9.docx": [4645], "Hebrews_ch_9.docx": [130]}

@@ -1,0 +1,3 @@
+
+17like	{"Deuteronomy_ch_33.docx": [2306], "Psalms_ch_88.docx": [1710], "Psalms_ch_147.docx": [1513]}
+4along	{"2 Chronicles_ch_5.docx": [486], "Nehemiah_ch_11.docx": [509]}

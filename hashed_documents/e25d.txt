@@ -1,0 +1,4 @@
+
+cherit	{"1 Kings_ch_17.docx": [334, 492, 492, 492]}
+cherit	{"1 Kings_ch_17.docx": [334, 492, 492]}
+cherit	{"1 Kings_ch_17.docx": [334, 492]}

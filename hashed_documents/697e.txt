@@ -1,0 +1,7 @@
+
+rheuma	{"Genesis_ch_22.docx": [3468]}
+kettl	{"1 Samuel_ch_2.docx": [2414, 2436, 3014, 2436, 3014, 2436, 3014], "2 Chronicles_ch_35.docx": [2441, 2441, 2441], "Psalms_ch_60.docx": [1166, 1166, 1166], "Psalms_ch_108.docx": [828, 828, 828], "Jeremiah_ch_1.docx": [1666, 1666, 1666], "Ezekiel_ch_11.docx": [538, 1083, 1522, 538, 1083, 1522, 538, 1083, 1522]}
+rheuma	{"Genesis_ch_22.docx": [3468]}
+kettl	{"1 Samuel_ch_2.docx": [2414, 2436, 3014, 2436, 3014], "2 Chronicles_ch_35.docx": [2441, 2441], "Psalms_ch_60.docx": [1166, 1166], "Psalms_ch_108.docx": [828, 828], "Jeremiah_ch_1.docx": [1666, 1666], "Ezekiel_ch_11.docx": [538, 1083, 1522, 538, 1083, 1522]}
+rheuma	{"Genesis_ch_22.docx": [3468]}
+kettl	{"1 Samuel_ch_2.docx": [2414, 2436, 3014], "2 Chronicles_ch_35.docx": [2441], "Psalms_ch_60.docx": [1166], "Psalms_ch_108.docx": [828], "Jeremiah_ch_1.docx": [1666], "Ezekiel_ch_11.docx": [538, 1083, 1522]}

@@ -1,0 +1,4 @@
+
+smooth	{"Genesis_ch_27.docx": [1277], "1 Samuel_ch_17.docx": [6034, 6034, 6034], "Job_ch_14.docx": [2066, 2066, 2066], "Proverbs_ch_2.docx": [1821, 1821, 1821], "Isaiah_ch_40.docx": [562, 562, 562], "Isaiah_ch_57.docx": [2225, 2225, 2225], "Ezekiel_ch_26.docx": [704, 2375, 704, 2375, 704, 2375], "Luke_ch_3.docx": [3666, 3666]}
+smooth	{"Genesis_ch_27.docx": [1277], "1 Samuel_ch_17.docx": [6034, 6034], "Job_ch_14.docx": [2066, 2066], "Proverbs_ch_2.docx": [1821, 1821], "Isaiah_ch_40.docx": [562, 562], "Isaiah_ch_57.docx": [2225, 2225], "Ezekiel_ch_26.docx": [704, 2375, 704, 2375], "Luke_ch_3.docx": [3666]}
+smooth	{"Genesis_ch_27.docx": [1277], "1 Samuel_ch_17.docx": [6034], "Job_ch_14.docx": [2066], "Proverbs_ch_2.docx": [1821], "Isaiah_ch_40.docx": [562], "Isaiah_ch_57.docx": [2225], "Ezekiel_ch_26.docx": [704, 2375], "Luke_ch_3.docx": [3666]}

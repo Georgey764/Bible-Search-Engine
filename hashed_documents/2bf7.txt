@@ -1,0 +1,4 @@
+
+hatef	{"Psalms_ch_109.docx": [203], "Proverbs_ch_27.docx": [1035, 1035, 1035], "Proverbs_ch_30.docx": [2509, 2509, 2509]}
+hatef	{"Psalms_ch_109.docx": [203], "Proverbs_ch_27.docx": [1035, 1035], "Proverbs_ch_30.docx": [2509, 2509]}
+hatef	{"Psalms_ch_109.docx": [203], "Proverbs_ch_27.docx": [1035], "Proverbs_ch_30.docx": [2509]}

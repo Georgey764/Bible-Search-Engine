@@ -1,0 +1,4 @@
+
+reprov	{"Proverbs_ch_9.docx": [813], "Proverbs_ch_18.docx": [1444, 1444, 1444], "Proverbs_ch_24.docx": [2431, 2431, 2431], "Isaiah_ch_29.docx": [3673, 3673, 3673]}
+reprov	{"Proverbs_ch_9.docx": [813], "Proverbs_ch_18.docx": [1444, 1444], "Proverbs_ch_24.docx": [2431, 2431], "Isaiah_ch_29.docx": [3673, 3673]}
+reprov	{"Proverbs_ch_9.docx": [813], "Proverbs_ch_18.docx": [1444], "Proverbs_ch_24.docx": [2431], "Isaiah_ch_29.docx": [3673]}

@@ -1,0 +1,4 @@
+
+gazar	{"Joshua_ch_16.docx": [516], "Joshua_ch_21.docx": [2687, 2687, 2687]}
+gazar	{"Joshua_ch_16.docx": [516], "Joshua_ch_21.docx": [2687, 2687]}
+gazar	{"Joshua_ch_16.docx": [516], "Joshua_ch_21.docx": [2687]}

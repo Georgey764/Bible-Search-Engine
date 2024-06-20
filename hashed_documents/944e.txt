@@ -1,0 +1,2 @@
+
+26ther	{"Genesis_ch_27.docx": [3176], "Genesis_ch_45.docx": [3572], "Genesis_ch_46.docx": [3090], "Exodus_ch_23.docx": [3614], "1 Chronicles_ch_9.docx": [3738], "Psalms_ch_78.docx": [2624], "Ezekiel_ch_28.docx": [4271]}

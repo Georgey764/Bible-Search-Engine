@@ -1,0 +1,10 @@
+
+lepers	{"Leviticus_ch_13.docx": [6382], "Leviticus_ch_14.docx": [68, 68, 68], "2 Kings_ch_7.docx": [549, 1374, 549, 1374, 549, 1374], "2 Chronicles_ch_26.docx": [3610, 3610, 3610], "Matthew_ch_10.docx": [897, 897, 897], "Matthew_ch_11.docx": [491, 491, 491], "Luke_ch_4.docx": [3934, 3934], "Luke_ch_7.docx": [3142, 3142]}
+spat	{"Lamentations_ch_4.docx": [2174], "Luke_ch_18.docx": [3817, 3817], "John_ch_9.docx": [543, 543]}
+ashore	{"Acts_ch_20.docx": [4197, 4209, 4222, 4244, 4267, 4296, 4326, 4209, 4222, 4244, 4267, 4296, 4326], "Acts_ch_27.docx": [3529, 3529]}
+lepers	{"Leviticus_ch_13.docx": [6382], "Leviticus_ch_14.docx": [68, 68], "2 Kings_ch_7.docx": [549, 1374, 549, 1374], "2 Chronicles_ch_26.docx": [3610, 3610], "Matthew_ch_10.docx": [897, 897], "Matthew_ch_11.docx": [491, 491], "Luke_ch_4.docx": [3934], "Luke_ch_7.docx": [3142]}
+24sol	{"1 Kings_ch_4.docx": [2730]}
+spat	{"Lamentations_ch_4.docx": [2174], "Luke_ch_18.docx": [3817], "John_ch_9.docx": [543]}
+lepers	{"Leviticus_ch_13.docx": [6382], "Leviticus_ch_14.docx": [68], "2 Kings_ch_7.docx": [549, 1374], "2 Chronicles_ch_26.docx": [3610], "Matthew_ch_10.docx": [897], "Matthew_ch_11.docx": [491], "Luke_ch_4.docx": [3934], "Luke_ch_7.docx": [3142]}
+spat	{"Lamentations_ch_4.docx": [2174], "Luke_ch_18.docx": [3817], "John_ch_9.docx": [543]}
+ashore	{"Acts_ch_20.docx": [4197, 4209, 4222, 4244, 4267, 4296, 4326], "Acts_ch_27.docx": [3529]}

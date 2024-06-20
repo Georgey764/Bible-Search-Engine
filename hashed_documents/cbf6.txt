@@ -1,0 +1,2 @@
+
+4‘so	{"Genesis_ch_43.docx": [387], "Joshua_ch_22.docx": [414], "2 Kings_ch_1.docx": [689], "2 Kings_ch_19.docx": [507], "2 Chronicles_ch_35.docx": [731], "Ecclesiastes_ch_2.docx": [543], "Song of Solomon_ch_2.docx": [406], "Isaiah_ch_37.docx": [523], "Isaiah_ch_54.docx": [611], "Jeremiah_ch_9.docx": [598], "Jeremiah_ch_26.docx": [522], "Jeremiah_ch_44.docx": [686], "Jeremiah_ch_45.docx": [492], "Hosea_ch_10.docx": [684], "Amos_ch_1.docx": [3746], "Amos_ch_8.docx": [530], "Zechariah_ch_11.docx": [727], "Matthew_ch_22.docx": [310]}

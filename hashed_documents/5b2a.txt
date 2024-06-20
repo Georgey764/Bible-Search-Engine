@@ -1,0 +1,4 @@
+
+thist	{"Genesis_ch_3.docx": [2909], "Proverbs_ch_22.docx": [398, 398], "Hosea_ch_10.docx": [2055, 2055, 2055], "Matthew_ch_7.docx": [1999, 1999, 1999], "Matthew_ch_13.docx": [2814, 2814, 2814], "Hebrews_ch_6.docx": [843, 843]}
+thist	{"Genesis_ch_3.docx": [2909], "Hosea_ch_10.docx": [2055, 2055], "Matthew_ch_7.docx": [1999, 1999], "Matthew_ch_13.docx": [2814, 2814], "Proverbs_ch_22.docx": [398], "Hebrews_ch_6.docx": [843]}
+thist	{"Genesis_ch_3.docx": [2909], "Proverbs_ch_22.docx": [398], "Hosea_ch_10.docx": [2055], "Matthew_ch_7.docx": [1999], "Matthew_ch_13.docx": [2814], "Hebrews_ch_6.docx": [843]}

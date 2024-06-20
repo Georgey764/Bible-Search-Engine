@@ -1,0 +1,4 @@
+
+shamma	{"1 Samuel_ch_16.docx": [1617], "1 Samuel_ch_17.docx": [1802, 1802, 1802], "1 Chronicles_ch_11.docx": [2532, 2532, 2532]}
+shamma	{"1 Samuel_ch_16.docx": [1617], "1 Samuel_ch_17.docx": [1802, 1802], "1 Chronicles_ch_11.docx": [2532, 2532]}
+shamma	{"1 Samuel_ch_16.docx": [1617], "1 Samuel_ch_17.docx": [1802], "1 Chronicles_ch_11.docx": [2532]}

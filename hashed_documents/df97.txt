@@ -1,0 +1,4 @@
+
+scared	{"2 Samuel_ch_22.docx": [1503], "Job_ch_32.docx": [818, 818, 818]}
+scared	{"2 Samuel_ch_22.docx": [1503], "Job_ch_32.docx": [818, 818]}
+scared	{"2 Samuel_ch_22.docx": [1503], "Job_ch_32.docx": [818]}

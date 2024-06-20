@@ -1,0 +1,6 @@
+
+helas	{"Genesis_ch_36.docx": [4315]}
+230	{"Genesis_ch_5.docx": [248], "1 Kings_ch_7.docx": [5010], "1 Kings_ch_20.docx": [2529], "2 Chronicles_ch_25.docx": [4139]}
+helas	{"Genesis_ch_36.docx": [4315]}
+13did	{"Job_ch_34.docx": [1149]}
+helas	{"Genesis_ch_36.docx": [4315]}

@@ -1,0 +1,8 @@
+
+gersa	{"Exodus_ch_2.docx": [3038], "Exodus_ch_18.docx": [313, 313, 313], "1 Chronicles_ch_23.docx": [1716, 1716], "1 Chronicles_ch_26.docx": [2951, 2951, 2951]}
+minde	{"Ezekiel_ch_31.docx": [204]}
+gersa	{"Exodus_ch_2.docx": [3038], "Exodus_ch_18.docx": [313, 313], "1 Chronicles_ch_26.docx": [2951, 2951], "1 Chronicles_ch_23.docx": [1716]}
+46‘fro	{"Jeremiah_ch_50.docx": [8754]}
+minde	{"Ezekiel_ch_31.docx": [204]}
+gersa	{"Exodus_ch_2.docx": [3038], "Exodus_ch_18.docx": [313], "1 Chronicles_ch_23.docx": [1716], "1 Chronicles_ch_26.docx": [2951]}
+minde	{"Ezekiel_ch_31.docx": [204]}

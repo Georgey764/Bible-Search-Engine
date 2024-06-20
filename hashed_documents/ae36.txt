@@ -1,0 +1,4 @@
+
+combin	{"Exodus_ch_30.docx": [4358], "Numbers_ch_7.docx": [9984, 9984, 9984], "2 Chronicles_ch_3.docx": [1553, 1553, 1553], "Luke_ch_10.docx": [3513, 3513], "2 Corinthians_ch_6.docx": [2481, 2481], "Hebrews_ch_4.docx": [204, 229, 204, 229]}
+combin	{"Exodus_ch_30.docx": [4358], "Numbers_ch_7.docx": [9984, 9984], "2 Chronicles_ch_3.docx": [1553, 1553], "Luke_ch_10.docx": [3513], "2 Corinthians_ch_6.docx": [2481], "Hebrews_ch_4.docx": [204, 229]}
+combin	{"Exodus_ch_30.docx": [4358], "Numbers_ch_7.docx": [9984], "2 Chronicles_ch_3.docx": [1553], "Luke_ch_10.docx": [3513], "2 Corinthians_ch_6.docx": [2481], "Hebrews_ch_4.docx": [204, 229]}

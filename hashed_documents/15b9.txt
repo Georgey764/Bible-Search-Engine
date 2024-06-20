@@ -1,0 +1,6 @@
+
+segu	{"1 Kings_ch_16.docx": [5297], "1 Chronicles_ch_2.docx": [1781, 1927, 1781, 1927, 1781, 1927]}
+24whe	{"Genesis_ch_26.docx": [3254], "Numbers_ch_33.docx": [2013], "Job_ch_9.docx": [2154], "Proverbs_ch_3.docx": [2249]}
+segu	{"1 Kings_ch_16.docx": [5297], "1 Chronicles_ch_2.docx": [1781, 1927, 1781, 1927]}
+176bu	{"Psalms_ch_119.docx": [14941]}
+segu	{"1 Kings_ch_16.docx": [5297], "1 Chronicles_ch_2.docx": [1781, 1927]}

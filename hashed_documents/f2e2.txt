@@ -1,0 +1,10 @@
+
+tras	{"Job_ch_21.docx": [2860], "Proverbs_ch_21.docx": [1763, 1763, 1763], "Jeremiah_ch_22.docx": [4709, 4709, 4709]}
+way;	{"Micah_ch_4.docx": [1177], "Matthew_ch_8.docx": [873, 873, 873], "Matthew_ch_10.docx": [780, 780, 780], "Philippians_ch_3.docx": [2305, 2305]}
+rower	{"1 Corinthians_ch_4.docx": [21]}
+5reube	{"Numbers_ch_26.docx": [646]}
+tras	{"Job_ch_21.docx": [2860], "Proverbs_ch_21.docx": [1763, 1763], "Jeremiah_ch_22.docx": [4709, 4709]}
+way;	{"Micah_ch_4.docx": [1177], "Matthew_ch_8.docx": [873, 873], "Matthew_ch_10.docx": [780, 780], "Philippians_ch_3.docx": [2305]}
+tras	{"Job_ch_21.docx": [2860], "Proverbs_ch_21.docx": [1763], "Jeremiah_ch_22.docx": [4709]}
+way;	{"Micah_ch_4.docx": [1177], "Matthew_ch_8.docx": [873], "Matthew_ch_10.docx": [780], "Philippians_ch_3.docx": [2305]}
+rower	{"1 Corinthians_ch_4.docx": [21]}

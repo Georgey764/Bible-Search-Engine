@@ -1,0 +1,4 @@
+
+brick-	{"Exodus_ch_5.docx": [933, 2120, 2120, 2120]}
+brick-	{"Exodus_ch_5.docx": [933, 2120, 2120]}
+brick-	{"Exodus_ch_5.docx": [933, 2120]}

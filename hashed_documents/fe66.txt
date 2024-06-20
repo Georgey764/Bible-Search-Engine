@@ -1,0 +1,6 @@
+
+confr	{"Judges_ch_9.docx": [6207], "1 Samuel_ch_14.docx": [1393, 1393, 1393], "1 Samuel_ch_17.docx": [2799, 2799, 2799], "2 Samuel_ch_5.docx": [3424, 3424, 3424], "2 Samuel_ch_10.docx": [1062, 1062, 1062], "Nehemiah_ch_5.docx": [870, 870, 870], "Job_ch_30.docx": [2675, 2675, 2675], "Mark_ch_5.docx": [30, 30]}
+confr	{"Judges_ch_9.docx": [6207], "1 Samuel_ch_14.docx": [1393, 1393], "1 Samuel_ch_17.docx": [2799, 2799], "2 Samuel_ch_5.docx": [3424, 3424], "2 Samuel_ch_10.docx": [1062, 1062], "Nehemiah_ch_5.docx": [870, 870], "Job_ch_30.docx": [2675, 2675], "Mark_ch_5.docx": [30]}
+7he’s	{"Psalms_ch_4.docx": [657], "Psalms_ch_28.docx": [793], "Psalms_ch_149.docx": [556]}
+33‘wel	{"Daniel_ch_2.docx": [5674], "Daniel_ch_4.docx": [6254]}
+confr	{"Judges_ch_9.docx": [6207], "1 Samuel_ch_14.docx": [1393], "1 Samuel_ch_17.docx": [2799], "2 Samuel_ch_5.docx": [3424], "2 Samuel_ch_10.docx": [1062], "Nehemiah_ch_5.docx": [870], "Job_ch_30.docx": [2675], "Mark_ch_5.docx": [30]}

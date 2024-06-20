@@ -1,0 +1,4 @@
+
+sose	{"1 Chronicles_ch_8.docx": [1086, 1438, 1438, 1438]}
+sose	{"1 Chronicles_ch_8.docx": [1086, 1438, 1438]}
+sose	{"1 Chronicles_ch_8.docx": [1086, 1438]}

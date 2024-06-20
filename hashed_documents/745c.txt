@@ -1,0 +1,4 @@
+
+sogar	{"Numbers_ch_1.docx": [825], "Numbers_ch_7.docx": [2214, 2857, 2214, 2857, 2214, 2857], "Numbers_ch_10.docx": [1779, 1779, 1779], "1 Chronicles_ch_2.docx": [4207, 4207, 4207]}
+sogar	{"Numbers_ch_1.docx": [825], "Numbers_ch_7.docx": [2214, 2857, 2214, 2857], "Numbers_ch_10.docx": [1779, 1779], "1 Chronicles_ch_2.docx": [4207, 4207]}
+sogar	{"Numbers_ch_1.docx": [825], "Numbers_ch_7.docx": [2214, 2857], "Numbers_ch_10.docx": [1779], "1 Chronicles_ch_2.docx": [4207]}

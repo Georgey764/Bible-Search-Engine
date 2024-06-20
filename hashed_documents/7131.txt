@@ -1,0 +1,7 @@
+
+ario	{"Genesis_ch_14.docx": [16, 1090, 1090, 1090], "Daniel_ch_2.docx": [2188, 2462, 3886, 4145, 2188, 2462, 3886, 4145, 2188, 2462, 3886, 4145]}
+etams	{"Judges_ch_15.docx": [1290]}
+ario	{"Genesis_ch_14.docx": [16, 1090, 1090], "Daniel_ch_2.docx": [2188, 2462, 3886, 4145, 2188, 2462, 3886, 4145]}
+etams	{"Judges_ch_15.docx": [1290]}
+ario	{"Genesis_ch_14.docx": [16, 1090], "Daniel_ch_2.docx": [2188, 2462, 3886, 4145]}
+etams	{"Judges_ch_15.docx": [1290]}

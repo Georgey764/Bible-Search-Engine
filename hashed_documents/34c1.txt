@@ -1,0 +1,4 @@
+
+mare	{"Joshua_ch_12.docx": [14415], "1 Chronicles_ch_4.docx": [1916, 1916, 1916], "2 Chronicles_ch_9.docx": [3796, 3796, 3796], "Nehemiah_ch_3.docx": [1867, 1867, 1867], "Job_ch_42.docx": [2772], "Amos_ch_6.docx": [2615, 2615, 2615]}
+mare	{"Joshua_ch_12.docx": [14415], "1 Chronicles_ch_4.docx": [1916, 1916], "2 Chronicles_ch_9.docx": [3796, 3796], "Nehemiah_ch_3.docx": [1867, 1867], "Amos_ch_6.docx": [2615, 2615]}
+mare	{"Joshua_ch_12.docx": [14415], "1 Chronicles_ch_4.docx": [1916], "2 Chronicles_ch_9.docx": [3796], "Nehemiah_ch_3.docx": [1867], "Amos_ch_6.docx": [2615]}

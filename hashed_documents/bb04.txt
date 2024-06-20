@@ -1,0 +1,5 @@
+
+ascha	{"Joshua_ch_15.docx": [2465, 2576, 2576, 2576], "Judges_ch_1.docx": [2099, 2222, 2621, 2099, 2222, 2621, 2099, 2222, 2621], "1 Chronicles_ch_4.docx": [1160, 1160, 1160]}
+ascha	{"Joshua_ch_15.docx": [2465, 2576, 2576], "Judges_ch_1.docx": [2099, 2222, 2621, 2099, 2222, 2621], "1 Chronicles_ch_4.docx": [1160, 1160]}
+104a	{"Psalms_ch_119.docx": [8660]}
+ascha	{"Joshua_ch_15.docx": [2465, 2576], "Judges_ch_1.docx": [2099, 2222, 2621], "1 Chronicles_ch_4.docx": [1160]}

@@ -1,0 +1,6 @@
+
+jermut	{"Joshua_ch_15.docx": [4646]}
+dabbon	{"Joshua_ch_21.docx": [3749]}
+dabbon	{"Joshua_ch_21.docx": [3749]}
+jermut	{"Joshua_ch_15.docx": [4646]}
+dabbon	{"Joshua_ch_21.docx": [3749]}

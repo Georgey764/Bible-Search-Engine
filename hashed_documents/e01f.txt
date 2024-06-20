@@ -1,0 +1,4 @@
+
+fruit;	{"Leviticus_ch_25.docx": [2799], "Proverbs_ch_27.docx": [1607, 1607, 1607], "Ezekiel_ch_34.docx": [4534, 4534, 4534], "Zechariah_ch_8.docx": [1915, 1915, 1915]}
+fruit;	{"Leviticus_ch_25.docx": [2799], "Proverbs_ch_27.docx": [1607, 1607], "Ezekiel_ch_34.docx": [4534, 4534], "Zechariah_ch_8.docx": [1915, 1915]}
+fruit;	{"Leviticus_ch_25.docx": [2799], "Proverbs_ch_27.docx": [1607], "Ezekiel_ch_34.docx": [4534], "Zechariah_ch_8.docx": [1915]}

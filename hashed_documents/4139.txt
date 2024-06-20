@@ -1,0 +1,4 @@
+
+lends	{"Psalms_ch_37.docx": [2433], "Proverbs_ch_19.docx": [1520, 1520, 1520], "Ezekiel_ch_18.docx": [1826, 1826, 1826]}
+lends	{"Psalms_ch_37.docx": [2433], "Proverbs_ch_19.docx": [1520, 1520], "Ezekiel_ch_18.docx": [1826, 1826]}
+lends	{"Psalms_ch_37.docx": [2433], "Proverbs_ch_19.docx": [1520], "Ezekiel_ch_18.docx": [1826]}

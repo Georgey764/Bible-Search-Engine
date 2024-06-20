@@ -1,0 +1,4 @@
+
+bricks	{"Genesis_ch_11.docx": [262, 317, 317, 317], "Exodus_ch_1.docx": [1288, 1288, 1288], "Exodus_ch_5.docx": [1635, 2319, 2654, 2773, 1635, 2319, 2654, 2773, 1635, 2319, 2654, 2773], "Isaiah_ch_9.docx": [1686, 1686, 1686], "Isaiah_ch_16.docx": [2198, 2198, 2198], "Isaiah_ch_24.docx": [3604, 3604, 3604], "Isaiah_ch_65.docx": [478, 478, 478]}
+bricks	{"Genesis_ch_11.docx": [262, 317, 317], "Exodus_ch_1.docx": [1288, 1288], "Exodus_ch_5.docx": [1635, 2319, 2654, 2773, 1635, 2319, 2654, 2773], "Isaiah_ch_9.docx": [1686, 1686], "Isaiah_ch_16.docx": [2198, 2198], "Isaiah_ch_24.docx": [3604, 3604], "Isaiah_ch_65.docx": [478, 478]}
+bricks	{"Genesis_ch_11.docx": [262, 317], "Exodus_ch_1.docx": [1288], "Exodus_ch_5.docx": [1635, 2319, 2654, 2773], "Isaiah_ch_9.docx": [1686], "Isaiah_ch_16.docx": [2198], "Isaiah_ch_24.docx": [3604], "Isaiah_ch_65.docx": [478]}

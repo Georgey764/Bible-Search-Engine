@@ -1,0 +1,4 @@
+
+law;	{"Proverbs_ch_28.docx": [530], "John_ch_19.docx": [837, 837], "1 Corinthians_ch_9.docx": [2703, 2852, 2703, 2852], "Philippians_ch_3.docx": [1400, 1400]}
+law;	{"Proverbs_ch_28.docx": [530], "John_ch_19.docx": [837], "1 Corinthians_ch_9.docx": [2703, 2852], "Philippians_ch_3.docx": [1400]}
+law;	{"Proverbs_ch_28.docx": [530], "John_ch_19.docx": [837], "1 Corinthians_ch_9.docx": [2703, 2852], "Philippians_ch_3.docx": [1400]}

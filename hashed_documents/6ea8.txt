@@ -1,0 +1,7 @@
+
+washi	{"Exodus_ch_30.docx": [2172], "Leviticus_ch_8.docx": [2225, 2225, 2225], "2 Chronicles_ch_4.docx": [953, 953, 953], "Proverbs_ch_30.docx": [2217, 2217, 2217], "Malachi_ch_3.docx": [461, 461, 461], "Mark_ch_7.docx": [719, 719], "Luke_ch_5.docx": [215, 215], "John_ch_2.docx": [446, 446], "John_ch_13.docx": [563, 780, 1443, 563, 780, 1443], "Hebrews_ch_9.docx": [1152, 1152]}
+bequea	{"Ecclesiastes_ch_2.docx": [3845]}
+washi	{"Exodus_ch_30.docx": [2172], "Leviticus_ch_8.docx": [2225, 2225], "2 Chronicles_ch_4.docx": [953, 953], "Proverbs_ch_30.docx": [2217, 2217], "Malachi_ch_3.docx": [461, 461], "Mark_ch_7.docx": [719], "Luke_ch_5.docx": [215], "John_ch_2.docx": [446], "John_ch_13.docx": [563, 780, 1443], "Hebrews_ch_9.docx": [1152]}
+bequea	{"Ecclesiastes_ch_2.docx": [3845]}
+washi	{"Exodus_ch_30.docx": [2172], "Leviticus_ch_8.docx": [2225], "2 Chronicles_ch_4.docx": [953], "Proverbs_ch_30.docx": [2217], "Malachi_ch_3.docx": [461], "Mark_ch_7.docx": [719], "Luke_ch_5.docx": [215], "John_ch_2.docx": [446], "John_ch_13.docx": [563, 780, 1443], "Hebrews_ch_9.docx": [1152]}
+bequea	{"Ecclesiastes_ch_2.docx": [3845]}

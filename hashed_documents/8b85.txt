@@ -1,0 +1,2 @@
+
+14‘h	{"Exodus_ch_21.docx": [1758], "Leviticus_ch_26.docx": [1646], "1 Samuel_ch_13.docx": [2292], "2 Samuel_ch_22.docx": [1361], "1 Chronicles_ch_16.docx": [1523], "Job_ch_35.docx": [1158], "Job_ch_38.docx": [1239], "Psalms_ch_132.docx": [1240], "Isaiah_ch_44.docx": [2271], "Jeremiah_ch_26.docx": [2325], "Lamentations_ch_1.docx": [3375]}

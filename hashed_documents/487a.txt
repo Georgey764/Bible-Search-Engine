@@ -1,0 +1,7 @@
+
+zereh	{"Ezra_ch_8.docx": [499]}
+orion	{"Job_ch_38.docx": [2956], "Isaiah_ch_13.docx": [1396, 1396, 1396]}
+zereh	{"Ezra_ch_8.docx": [499]}
+orion	{"Job_ch_38.docx": [2956], "Isaiah_ch_13.docx": [1396, 1396]}
+zereh	{"Ezra_ch_8.docx": [499]}
+orion	{"Job_ch_38.docx": [2956], "Isaiah_ch_13.docx": [1396]}

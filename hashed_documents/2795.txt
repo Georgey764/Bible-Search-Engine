@@ -1,0 +1,7 @@
+
+shuh	{"Job_ch_2.docx": [1647], "Job_ch_8.docx": [7, 7, 7], "Job_ch_18.docx": [7, 7, 7], "Job_ch_25.docx": [7, 7, 7]}
+windst	{"Isaiah_ch_7.docx": [293], "Isaiah_ch_28.docx": [2193, 2193, 2193], "Isaiah_ch_41.docx": [2720, 2720, 2720], "Matthew_ch_14.docx": [3504, 3838, 3504, 3838, 3504, 3838], "Luke_ch_8.docx": [3266, 3266]}
+shuh	{"Job_ch_2.docx": [1647], "Job_ch_8.docx": [7, 7], "Job_ch_18.docx": [7, 7], "Job_ch_25.docx": [7, 7]}
+windst	{"Isaiah_ch_7.docx": [293], "Isaiah_ch_28.docx": [2193, 2193], "Isaiah_ch_41.docx": [2720, 2720], "Matthew_ch_14.docx": [3504, 3838, 3504, 3838], "Luke_ch_8.docx": [3266]}
+shuh	{"Job_ch_2.docx": [1647], "Job_ch_8.docx": [7], "Job_ch_18.docx": [7], "Job_ch_25.docx": [7]}
+windst	{"Isaiah_ch_7.docx": [293], "Isaiah_ch_28.docx": [2193], "Isaiah_ch_41.docx": [2720], "Matthew_ch_14.docx": [3504, 3838], "Luke_ch_8.docx": [3266]}

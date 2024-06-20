@@ -1,0 +1,4 @@
+
+dirty!	{"Acts_ch_10.docx": [1813], "Titus_ch_1.docx": [1992, 1992]}
+16re	{"2 Chronicles_ch_31.docx": [2992]}
+dirty!	{"Acts_ch_10.docx": [1813], "Titus_ch_1.docx": [1992]}

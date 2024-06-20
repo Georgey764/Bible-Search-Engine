@@ -1,0 +1,4 @@
+
+robbed	{"Judges_ch_9.docx": [5060], "Job_ch_35.docx": [681, 728, 681, 728, 681, 728], "Ecclesiastes_ch_5.docx": [1172, 1172, 1172], "Isaiah_ch_38.docx": [1405, 1405, 1405], "2 Corinthians_ch_11.docx": [1143, 1143]}
+robbed	{"Judges_ch_9.docx": [5060], "Job_ch_35.docx": [681, 728, 681, 728], "Ecclesiastes_ch_5.docx": [1172, 1172], "Isaiah_ch_38.docx": [1405, 1405], "2 Corinthians_ch_11.docx": [1143]}
+robbed	{"Judges_ch_9.docx": [5060], "Job_ch_35.docx": [681, 728], "Ecclesiastes_ch_5.docx": [1172], "Isaiah_ch_38.docx": [1405], "2 Corinthians_ch_11.docx": [1143]}

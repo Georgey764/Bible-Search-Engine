@@ -1,0 +1,5 @@
+
+glory;	{"1 Kings_ch_3.docx": [2234], "Psalms_ch_145.docx": [500, 500, 500], "Proverbs_ch_28.docx": [1032, 1032, 1032]}
+27‘ca	{"Leviticus_ch_22.docx": [3860]}
+glory;	{"1 Kings_ch_3.docx": [2234], "Psalms_ch_145.docx": [500, 500], "Proverbs_ch_28.docx": [1032, 1032]}
+glory;	{"1 Kings_ch_3.docx": [2234], "Psalms_ch_145.docx": [500], "Proverbs_ch_28.docx": [1032]}

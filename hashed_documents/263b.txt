@@ -1,0 +1,4 @@
+
+maria	{"Luke_ch_1.docx": [3300]}
+13mic	{"Judges_ch_17.docx": [1899]}
+maria	{"Luke_ch_1.docx": [3300]}

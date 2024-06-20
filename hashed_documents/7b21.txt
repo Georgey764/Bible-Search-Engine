@@ -1,0 +1,5 @@
+
+gemm	{"Psalms_ch_21.docx": [299]}
+19whi	{"1 Kings_ch_10.docx": [2834], "2 Kings_ch_13.docx": [3055], "Proverbs_ch_4.docx": [1774]}
+gemm	{"Psalms_ch_21.docx": [299]}
+gemm	{"Psalms_ch_21.docx": [299]}

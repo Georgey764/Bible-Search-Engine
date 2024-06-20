@@ -1,0 +1,7 @@
+
+cud;	{"Leviticus_ch_11.docx": [714]}
+ask!	{"Numbers_ch_22.docx": [2306]}
+cud;	{"Leviticus_ch_11.docx": [714]}
+ask!	{"Numbers_ch_22.docx": [2306]}
+cud;	{"Leviticus_ch_11.docx": [714]}
+ask!	{"Numbers_ch_22.docx": [2306]}

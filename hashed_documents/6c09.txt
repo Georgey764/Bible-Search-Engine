@@ -1,0 +1,4 @@
+
+mire	{"Judges_ch_5.docx": [3242], "Psalms_ch_9.docx": [1352, 1352, 1352]}
+mire	{"Judges_ch_5.docx": [3242], "Psalms_ch_9.docx": [1352, 1352]}
+mire	{"Judges_ch_5.docx": [3242], "Psalms_ch_9.docx": [1352]}

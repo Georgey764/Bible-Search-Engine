@@ -1,0 +1,5 @@
+
+cautio	{"1 Samuel_ch_18.docx": [2225], "Jeremiah_ch_15.docx": [3216, 3216, 3216], "Jeremiah_ch_22.docx": [4319, 4319, 4319], "Zephaniah_ch_1.docx": [1129, 1129, 1129], "Matthew_ch_10.docx": [1878, 1878, 1878]}
+cautio	{"1 Samuel_ch_18.docx": [2225], "Jeremiah_ch_15.docx": [3216, 3216], "Jeremiah_ch_22.docx": [4319, 4319], "Zephaniah_ch_1.docx": [1129, 1129], "Matthew_ch_10.docx": [1878, 1878]}
+1:10-	{"Psalms_ch_102.docx": [2195]}
+cautio	{"1 Samuel_ch_18.docx": [2225], "Jeremiah_ch_15.docx": [3216], "Jeremiah_ch_22.docx": [4319], "Zephaniah_ch_1.docx": [1129], "Matthew_ch_10.docx": [1878]}

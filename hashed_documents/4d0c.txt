@@ -1,0 +1,5 @@
+
+withdr	{"Exodus_ch_2.docx": [2106], "Judges_ch_11.docx": [2070, 2070, 2070], "2 Samuel_ch_2.docx": [4052, 4052, 4052], "1 Chronicles_ch_21.docx": [2281, 2281, 2281], "Job_ch_6.docx": [962, 962, 962], "Psalms_ch_114.docx": [403, 403, 403], "Jeremiah_ch_50.docx": [4646, 4646, 4646], "Daniel_ch_9.docx": [1442, 1442, 1442], "Hebrews_ch_10.docx": [5418, 5497, 5516, 5418, 5497, 5516]}
+withdr	{"Exodus_ch_2.docx": [2106], "Judges_ch_11.docx": [2070, 2070], "2 Samuel_ch_2.docx": [4052, 4052], "1 Chronicles_ch_21.docx": [2281, 2281], "Job_ch_6.docx": [962, 962], "Psalms_ch_114.docx": [403, 403], "Jeremiah_ch_50.docx": [4646, 4646], "Daniel_ch_9.docx": [1442, 1442], "Hebrews_ch_10.docx": [5418, 5497, 5516]}
+14c	{"Deuteronomy_ch_14.docx": [1320], "Song of Solomon_ch_2.docx": [1662]}
+withdr	{"Exodus_ch_2.docx": [2106], "Judges_ch_11.docx": [2070], "2 Samuel_ch_2.docx": [4052], "1 Chronicles_ch_21.docx": [2281], "Job_ch_6.docx": [962], "Psalms_ch_114.docx": [403], "Jeremiah_ch_50.docx": [4646], "Daniel_ch_9.docx": [1442], "Hebrews_ch_10.docx": [5418, 5497, 5516]}

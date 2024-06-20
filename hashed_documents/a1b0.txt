@@ -1,0 +1,5 @@
+
+zuph	{"1 Samuel_ch_1.docx": [39], "1 Samuel_ch_9.docx": [620, 620, 620]}
+style	{"Psalms_ch_150.docx": [576]}
+zuph	{"1 Samuel_ch_1.docx": [39], "1 Samuel_ch_9.docx": [620, 620]}
+zuph	{"1 Samuel_ch_1.docx": [39], "1 Samuel_ch_9.docx": [620]}

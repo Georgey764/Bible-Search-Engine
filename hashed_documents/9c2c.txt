@@ -1,0 +1,7 @@
+
+goats;	{"Deuteronomy_ch_14.docx": [486], "1 Samuel_ch_25.docx": [172, 172, 172]}
+traf	{"Isaiah_ch_47.docx": [2746]}
+goats;	{"Deuteronomy_ch_14.docx": [486], "1 Samuel_ch_25.docx": [172, 172]}
+traf	{"Isaiah_ch_47.docx": [2746]}
+goats;	{"Deuteronomy_ch_14.docx": [486], "1 Samuel_ch_25.docx": [172]}
+traf	{"Isaiah_ch_47.docx": [2746]}

@@ -1,0 +1,2 @@
+
+19‘and	{"Exodus_ch_27.docx": [2292], "Leviticus_ch_15.docx": [2626], "Leviticus_ch_24.docx": [2474], "Deuteronomy_ch_8.docx": [2690], "Deuteronomy_ch_9.docx": [3226], "Deuteronomy_ch_20.docx": [2739], "Deuteronomy_ch_24.docx": [2843], "Deuteronomy_ch_29.docx": [2431], "Job_ch_20.docx": [1826], "Isaiah_ch_8.docx": [2966], "Jeremiah_ch_30.docx": [3342], "Ezekiel_ch_21.docx": [2884], "Ezekiel_ch_44.docx": [3647], "Ezekiel_ch_47.docx": [3368]}

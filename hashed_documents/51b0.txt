@@ -1,0 +1,4 @@
+
+convic	{"1 Kings_ch_21.docx": [1512, 1741, 1741, 1741], "John_ch_8.docx": [842, 842], "1 Thessalonians_ch_1.docx": [482, 482], "James_ch_2.docx": [929, 929]}
+convic	{"1 Kings_ch_21.docx": [1512, 1741, 1741], "John_ch_8.docx": [842], "1 Thessalonians_ch_1.docx": [482], "James_ch_2.docx": [929]}
+convic	{"1 Kings_ch_21.docx": [1512, 1741], "John_ch_8.docx": [842], "1 Thessalonians_ch_1.docx": [482], "James_ch_2.docx": [929]}

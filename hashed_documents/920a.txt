@@ -1,0 +1,2 @@
+
+14howe	{"Genesis_ch_23.docx": [1641], "Genesis_ch_48.docx": [2008], "Exodus_ch_29.docx": [1489], "Joshua_ch_13.docx": [19831], "2 Samuel_ch_12.docx": [2352], "2 Samuel_ch_13.docx": [2080], "Matthew_ch_19.docx": [1711]}

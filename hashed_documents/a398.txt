@@ -1,0 +1,13 @@
+
+abicha	{"Numbers_ch_3.docx": [4123]}
+azip	{"Joshua_ch_12.docx": [14345]}
+wingsp	{"2 Chronicles_ch_3.docx": [1554]}
+deeds!	{"2 Chronicles_ch_15.docx": [850], "Psalms_ch_51.docx": [1112, 1112, 1112], "Jeremiah_ch_18.docx": [2774, 2774, 2774], "Ezekiel_ch_8.docx": [1261, 1261, 1261], "Ezekiel_ch_14.docx": [841, 841, 841], "Ezekiel_ch_16.docx": [129, 129, 129], "Ezekiel_ch_22.docx": [186, 186, 186], "2 Corinthians_ch_9.docx": [1176, 1176], "2 Thessalonians_ch_2.docx": [2609, 2609]}
+abicha	{"Numbers_ch_3.docx": [4123]}
+azip	{"Joshua_ch_12.docx": [14345]}
+wingsp	{"2 Chronicles_ch_3.docx": [1554]}
+deeds!	{"2 Chronicles_ch_15.docx": [850], "Psalms_ch_51.docx": [1112, 1112], "Jeremiah_ch_18.docx": [2774, 2774], "Ezekiel_ch_8.docx": [1261, 1261], "Ezekiel_ch_14.docx": [841, 841], "Ezekiel_ch_16.docx": [129, 129], "Ezekiel_ch_22.docx": [186, 186], "2 Corinthians_ch_9.docx": [1176], "2 Thessalonians_ch_2.docx": [2609]}
+abicha	{"Numbers_ch_3.docx": [4123]}
+azip	{"Joshua_ch_12.docx": [14345]}
+wingsp	{"2 Chronicles_ch_3.docx": [1554]}
+deeds!	{"2 Chronicles_ch_15.docx": [850], "Psalms_ch_51.docx": [1112], "Jeremiah_ch_18.docx": [2774], "Ezekiel_ch_8.docx": [1261], "Ezekiel_ch_14.docx": [841], "Ezekiel_ch_16.docx": [129], "Ezekiel_ch_22.docx": [186], "2 Corinthians_ch_9.docx": [1176], "2 Thessalonians_ch_2.docx": [2609]}

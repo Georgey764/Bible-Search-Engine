@@ -1,0 +1,5 @@
+
+any!	{"Psalms_ch_14.docx": [319], "Lamentations_ch_2.docx": [4899, 4899, 4899]}
+3‘that	{"Deuteronomy_ch_22.docx": [410]}
+any!	{"Psalms_ch_14.docx": [319], "Lamentations_ch_2.docx": [4899, 4899]}
+any!	{"Psalms_ch_14.docx": [319], "Lamentations_ch_2.docx": [4899]}

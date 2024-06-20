@@ -1,0 +1,4 @@
+
+jehu’	{"2 Kings_ch_9.docx": [3150], "2 Kings_ch_10.docx": [3698, 3698, 3698], "2 Kings_ch_13.docx": [22, 22, 22]}
+jehu’	{"2 Kings_ch_9.docx": [3150], "2 Kings_ch_10.docx": [3698, 3698], "2 Kings_ch_13.docx": [22, 22]}
+jehu’	{"2 Kings_ch_9.docx": [3150], "2 Kings_ch_10.docx": [3698], "2 Kings_ch_13.docx": [22]}

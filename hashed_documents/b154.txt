@@ -1,0 +1,4 @@
+
+traito	{"1 Samuel_ch_29.docx": [612], "Luke_ch_6.docx": [2010, 2010]}
+traito	{"1 Samuel_ch_29.docx": [612], "Luke_ch_6.docx": [2010]}
+traito	{"1 Samuel_ch_29.docx": [612], "Luke_ch_6.docx": [2010]}

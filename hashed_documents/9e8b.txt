@@ -1,0 +1,7 @@
+
+jezra	{"1 Chronicles_ch_7.docx": [438], "Nehemiah_ch_12.docx": [11664, 11664, 11664]}
+kisses	{"Proverbs_ch_27.docx": [504], "Song of Solomon_ch_1.docx": [95, 95, 95]}
+jezra	{"1 Chronicles_ch_7.docx": [438], "Nehemiah_ch_12.docx": [11664, 11664]}
+kisses	{"Proverbs_ch_27.docx": [504], "Song of Solomon_ch_1.docx": [95, 95]}
+jezra	{"1 Chronicles_ch_7.docx": [438], "Nehemiah_ch_12.docx": [11664]}
+kisses	{"Proverbs_ch_27.docx": [504], "Song of Solomon_ch_1.docx": [95]}

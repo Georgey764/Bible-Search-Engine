@@ -1,0 +1,4 @@
+
+devis	{"Jeremiah_ch_5.docx": [4812], "Jeremiah_ch_18.docx": [1318, 1318, 1318], "Jeremiah_ch_49.docx": [3747, 3747, 3747], "Jeremiah_ch_50.docx": [8595, 8595, 8595]}
+devis	{"Jeremiah_ch_5.docx": [4812], "Jeremiah_ch_18.docx": [1318, 1318], "Jeremiah_ch_49.docx": [3747, 3747], "Jeremiah_ch_50.docx": [8595, 8595]}
+devis	{"Jeremiah_ch_5.docx": [4812], "Jeremiah_ch_18.docx": [1318], "Jeremiah_ch_49.docx": [3747], "Jeremiah_ch_50.docx": [8595]}

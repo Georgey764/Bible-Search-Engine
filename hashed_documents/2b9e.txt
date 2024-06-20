@@ -1,0 +1,4 @@
+
+notici	{"Judges_ch_15.docx": [2946], "Luke_ch_5.docx": [198, 198], "Luke_ch_14.docx": [628, 628], "Acts_ch_17.docx": [4932, 4932]}
+notici	{"Judges_ch_15.docx": [2946], "Luke_ch_5.docx": [198], "Luke_ch_14.docx": [628], "Acts_ch_17.docx": [4932]}
+notici	{"Judges_ch_15.docx": [2946], "Luke_ch_5.docx": [198], "Luke_ch_14.docx": [628], "Acts_ch_17.docx": [4932]}

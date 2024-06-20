@@ -1,0 +1,7 @@
+
+black!	{"Exodus_ch_10.docx": [3628]}
+sweetl	{"Job_ch_19.docx": [1589]}
+black!	{"Exodus_ch_10.docx": [3628]}
+sweetl	{"Job_ch_19.docx": [1589]}
+black!	{"Exodus_ch_10.docx": [3628]}
+sweetl	{"Job_ch_19.docx": [1589]}

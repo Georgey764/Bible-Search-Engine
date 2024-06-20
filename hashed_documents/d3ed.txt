@@ -1,0 +1,4 @@
+
+ham’s	{"Genesis_ch_10.docx": [734], "1 Chronicles_ch_1.docx": [431, 431], "Psalms_ch_105.docx": [1874, 1874], "Psalms_ch_106.docx": [1957, 1957, 1957]}
+ham’s	{"Psalms_ch_105.docx": [1874, 1874], "Psalms_ch_106.docx": [1957, 1957], "1 Chronicles_ch_1.docx": [431]}
+ham’s	{"Genesis_ch_10.docx": [734], "1 Chronicles_ch_1.docx": [431], "Psalms_ch_105.docx": [1874], "Psalms_ch_106.docx": [1957]}

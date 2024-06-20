@@ -1,0 +1,4 @@
+
+teari	{"Judges_ch_8.docx": [3369], "Romans_ch_14.docx": [2808, 2808]}
+teari	{"Judges_ch_8.docx": [3369], "Romans_ch_14.docx": [2808]}
+teari	{"Judges_ch_8.docx": [3369], "Romans_ch_14.docx": [2808]}

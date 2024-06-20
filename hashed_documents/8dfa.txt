@@ -1,0 +1,9 @@
+
+farmi	{"Genesis_ch_9.docx": [2550], "1 Chronicles_ch_27.docx": [3626, 3626, 3626], "2 Chronicles_ch_26.docx": [1455, 1455, 1455]}
+ahitu	{"1 Samuel_ch_14.docx": [385], "1 Samuel_ch_22.docx": [1508, 1700, 1869, 1508, 1700, 1869, 1508, 1700, 1869], "2 Samuel_ch_8.docx": [2549, 2549, 2549], "1 Chronicles_ch_6.docx": [494, 521, 770, 797, 4257, 494, 770, 4257, 494, 521, 770, 797, 4257], "1 Chronicles_ch_9.docx": [1459, 1459, 1459], "1 Chronicles_ch_18.docx": [2086, 2086, 2086], "Nehemiah_ch_11.docx": [1598, 1598, 1598]}
+agroun	{"Acts_ch_27.docx": [2351, 4015, 5410, 4015, 5410]}
+farmi	{"Genesis_ch_9.docx": [2550], "1 Chronicles_ch_27.docx": [3626, 3626], "2 Chronicles_ch_26.docx": [1455, 1455]}
+ahitu	{"1 Samuel_ch_14.docx": [385], "1 Samuel_ch_22.docx": [1508, 1700, 1869, 1508, 1700, 1869], "2 Samuel_ch_8.docx": [2549, 2549], "1 Chronicles_ch_6.docx": [494, 770, 4257, 494, 521, 770, 797, 4257], "1 Chronicles_ch_9.docx": [1459, 1459], "1 Chronicles_ch_18.docx": [2086, 2086], "Nehemiah_ch_11.docx": [1598, 1598]}
+farmi	{"Genesis_ch_9.docx": [2550], "1 Chronicles_ch_27.docx": [3626], "2 Chronicles_ch_26.docx": [1455]}
+ahitu	{"1 Samuel_ch_14.docx": [385], "1 Samuel_ch_22.docx": [1508, 1700, 1869], "2 Samuel_ch_8.docx": [2549], "1 Chronicles_ch_6.docx": [494, 521, 770, 797, 4257], "1 Chronicles_ch_9.docx": [1459], "1 Chronicles_ch_18.docx": [2086], "Nehemiah_ch_11.docx": [1598]}
+agroun	{"Acts_ch_27.docx": [2351, 4015, 5410]}

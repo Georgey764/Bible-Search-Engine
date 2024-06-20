@@ -1,0 +1,2 @@
+
+1‘b	{"Deuteronomy_ch_14.docx": [6], "Isaiah_ch_46.docx": [6], "Hosea_ch_6.docx": [6], "Micah_ch_4.docx": [6], "Matthew_ch_6.docx": [6]}

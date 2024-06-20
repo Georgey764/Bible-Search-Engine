@@ -1,0 +1,4 @@
+
+elasa	{"1 Chronicles_ch_8.docx": [2511], "1 Chronicles_ch_9.docx": [5866, 5866, 5866], "Jeremiah_ch_29.docx": [398, 398, 398]}
+elasa	{"1 Chronicles_ch_8.docx": [2511], "1 Chronicles_ch_9.docx": [5866, 5866], "Jeremiah_ch_29.docx": [398, 398]}
+elasa	{"1 Chronicles_ch_8.docx": [2511], "1 Chronicles_ch_9.docx": [5866], "Jeremiah_ch_29.docx": [398]}

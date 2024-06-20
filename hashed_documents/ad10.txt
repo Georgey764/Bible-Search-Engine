@@ -1,0 +1,7 @@
+
+abili	{"Job_ch_40.docx": [1776], "Proverbs_ch_16.docx": [3400, 3400, 3400], "Jeremiah_ch_48.docx": [1566, 1566, 1566], "Matthew_ch_25.docx": [1437, 1437, 1437], "Acts_ch_2.docx": [8698, 8698], "1 Corinthians_ch_9.docx": [2372, 2372], "1 Corinthians_ch_12.docx": [829, 3059, 829, 3059], "1 Corinthians_ch_14.docx": [2595, 2595], "2 Corinthians_ch_1.docx": [1491, 1491], "2 Corinthians_ch_3.docx": [637, 637], "1 Timothy_ch_4.docx": [1554, 1554]}
+alarm!	{"Jeremiah_ch_6.docx": [144]}
+abili	{"Job_ch_40.docx": [1776], "Proverbs_ch_16.docx": [3400, 3400], "Jeremiah_ch_48.docx": [1566, 1566], "Matthew_ch_25.docx": [1437, 1437], "Acts_ch_2.docx": [8698], "1 Corinthians_ch_9.docx": [2372], "1 Corinthians_ch_12.docx": [829, 3059], "1 Corinthians_ch_14.docx": [2595], "2 Corinthians_ch_1.docx": [1491], "2 Corinthians_ch_3.docx": [637], "1 Timothy_ch_4.docx": [1554]}
+alarm!	{"Jeremiah_ch_6.docx": [144]}
+abili	{"Job_ch_40.docx": [1776], "Proverbs_ch_16.docx": [3400], "Jeremiah_ch_48.docx": [1566], "Matthew_ch_25.docx": [1437], "Acts_ch_2.docx": [8698], "1 Corinthians_ch_9.docx": [2372], "1 Corinthians_ch_12.docx": [829, 3059], "1 Corinthians_ch_14.docx": [2595], "2 Corinthians_ch_1.docx": [1491], "2 Corinthians_ch_3.docx": [637], "1 Timothy_ch_4.docx": [1554]}
+alarm!	{"Jeremiah_ch_6.docx": [144]}

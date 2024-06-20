@@ -1,0 +1,8 @@
+
+anchis	{"Genesis_ch_46.docx": [2705]}
+arica	{"Joshua_ch_15.docx": [5930]}
+2(fo	{"Genesis_ch_13.docx": [27]}
+anchis	{"Genesis_ch_46.docx": [2705]}
+arica	{"Joshua_ch_15.docx": [5930]}
+anchis	{"Genesis_ch_46.docx": [2705]}
+arica	{"Joshua_ch_15.docx": [5930]}

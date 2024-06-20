@@ -1,0 +1,7 @@
+
+nach	{"Genesis_ch_36.docx": [1425, 1920, 1920, 1920], "2 Samuel_ch_6.docx": [741, 741, 741], "1 Chronicles_ch_1.docx": [3015, 3015, 3015], "1 Chronicles_ch_11.docx": [5552, 5552, 5552]}
+scolds	{"Job_ch_15.docx": [194], "Job_ch_40.docx": [108, 108, 108], "Proverbs_ch_10.docx": [979, 979, 979]}
+nach	{"Genesis_ch_36.docx": [1425, 1920, 1920], "2 Samuel_ch_6.docx": [741, 741], "1 Chronicles_ch_1.docx": [3015, 3015], "1 Chronicles_ch_11.docx": [5552, 5552]}
+scolds	{"Job_ch_15.docx": [194], "Job_ch_40.docx": [108, 108], "Proverbs_ch_10.docx": [979, 979]}
+nach	{"Genesis_ch_36.docx": [1425, 1920], "2 Samuel_ch_6.docx": [741], "1 Chronicles_ch_1.docx": [3015], "1 Chronicles_ch_11.docx": [5552]}
+scolds	{"Job_ch_15.docx": [194], "Job_ch_40.docx": [108], "Proverbs_ch_10.docx": [979]}

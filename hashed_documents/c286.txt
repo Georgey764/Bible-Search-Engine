@@ -1,0 +1,5 @@
+
+retire	{"1 Samuel_ch_12.docx": [249], "Isaiah_ch_34.docx": [2162, 2162, 2162]}
+retire	{"1 Samuel_ch_12.docx": [249], "Isaiah_ch_34.docx": [2162, 2162]}
+9isn	{"Isaiah_ch_10.docx": [1056]}
+retire	{"1 Samuel_ch_12.docx": [249], "Isaiah_ch_34.docx": [2162]}

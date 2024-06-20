@@ -1,0 +1,2 @@
+
+30‘b	{"Deuteronomy_ch_2.docx": [4188], "1 Samuel_ch_2.docx": [5608], "1 Chronicles_ch_16.docx": [3075], "Nehemiah_ch_9.docx": [6686], "Proverbs_ch_8.docx": [2763], "Jeremiah_ch_48.docx": [3789], "Jeremiah_ch_51.docx": [4944]}

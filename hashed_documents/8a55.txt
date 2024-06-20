@@ -1,0 +1,4 @@
+
+ferti	{"Genesis_ch_49.docx": [1841], "Nehemiah_ch_9.docx": [5300, 5300, 5300], "Isaiah_ch_30.docx": [4234, 4234, 4234], "Luke_ch_13.docx": [1147, 1147]}
+ferti	{"Genesis_ch_49.docx": [1841], "Nehemiah_ch_9.docx": [5300, 5300], "Isaiah_ch_30.docx": [4234, 4234], "Luke_ch_13.docx": [1147]}
+ferti	{"Genesis_ch_49.docx": [1841], "Nehemiah_ch_9.docx": [5300], "Isaiah_ch_30.docx": [4234], "Luke_ch_13.docx": [1147]}

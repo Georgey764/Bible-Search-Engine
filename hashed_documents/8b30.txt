@@ -1,0 +1,7 @@
+
+gersa	{"1 Chronicles_ch_23.docx": [1691]}
+6beca	{"Genesis_ch_39.docx": [589], "2 Samuel_ch_7.docx": [556], "2 Samuel_ch_20.docx": [1046], "2 Chronicles_ch_29.docx": [562], "Micah_ch_3.docx": [928]}
+gersa	{"1 Chronicles_ch_23.docx": [1691]}
+6dani	{"Nehemiah_ch_10.docx": [280]}
+1al	{"Psalms_ch_125.docx": [89], "Psalms_ch_148.docx": [65]}
+ gersa	{"1 Chronicles_ch_23.docx": [1691]}

@@ -1,0 +1,5 @@
+
+shake!	{"Acts_ch_4.docx": [4164]}
+69the	{"Psalms_ch_119.docx": [5538]}
+116ta	{"Psalms_ch_119.docx": [9647]}
+shake!	{"Acts_ch_4.docx": [4164]}

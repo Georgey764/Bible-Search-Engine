@@ -1,0 +1,4 @@
+
+wrongd	{"Job_ch_11.docx": [1167], "Job_ch_22.docx": [2144, 2144, 2144], "Psalms_ch_71.docx": [2517, 2517, 2517], "Daniel_ch_6.docx": [445, 445, 445], "Luke_ch_6.docx": [726, 726], "Romans_ch_1.docx": [3494, 3494], "Romans_ch_5.docx": [2062, 2062], "Colossians_ch_3.docx": [3059, 3059]}
+wrongd	{"Job_ch_11.docx": [1167], "Job_ch_22.docx": [2144, 2144], "Psalms_ch_71.docx": [2517, 2517], "Daniel_ch_6.docx": [445, 445], "Luke_ch_6.docx": [726], "Romans_ch_1.docx": [3494], "Romans_ch_5.docx": [2062], "Colossians_ch_3.docx": [3059]}
+wrongd	{"Job_ch_11.docx": [1167], "Job_ch_22.docx": [2144], "Psalms_ch_71.docx": [2517], "Daniel_ch_6.docx": [445], "Luke_ch_6.docx": [726], "Romans_ch_1.docx": [3494], "Romans_ch_5.docx": [2062], "Colossians_ch_3.docx": [3059]}

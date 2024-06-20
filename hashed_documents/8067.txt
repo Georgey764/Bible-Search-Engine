@@ -1,0 +1,2 @@
+
+13‘yes	{"2 Kings_ch_19.docx": [2114], "Ezekiel_ch_17.docx": [2166], "Ezekiel_ch_44.docx": [2609], "Hosea_ch_2.docx": [2260], "Hosea_ch_7.docx": [2476], "Malachi_ch_2.docx": [2239]}

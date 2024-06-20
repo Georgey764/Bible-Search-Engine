@@ -1,0 +1,6 @@
+
+pasea	{"Ezra_ch_2.docx": [1977]}
+22‘no	{"Numbers_ch_4.docx": [3018], "Numbers_ch_15.docx": [2490], "Numbers_ch_18.docx": [3837], "Deuteronomy_ch_11.docx": [3014], "Jeremiah_ch_2.docx": [3544], "Daniel_ch_5.docx": [4338]}
+pasea	{"Ezra_ch_2.docx": [1977]}
+4‘upon	{"Isaiah_ch_26.docx": [292]}
+pasea	{"Ezra_ch_2.docx": [1977]}

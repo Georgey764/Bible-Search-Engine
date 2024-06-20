@@ -1,0 +1,4 @@
+
+dream!	{"Judges_ch_7.docx": [3338], "Jeremiah_ch_23.docx": [4581, 4581, 4581], "Daniel_ch_2.docx": [4235, 4235, 4235]}
+dream!	{"Judges_ch_7.docx": [3338], "Jeremiah_ch_23.docx": [4581, 4581], "Daniel_ch_2.docx": [4235, 4235]}
+dream!	{"Judges_ch_7.docx": [3338], "Jeremiah_ch_23.docx": [4581], "Daniel_ch_2.docx": [4235]}

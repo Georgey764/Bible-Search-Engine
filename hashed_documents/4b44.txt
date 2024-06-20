@@ -1,0 +1,6 @@
+
+naphi	{"1 Chronicles_ch_5.docx": [2451]}
+13you	{"Deuteronomy_ch_5.docx": [1357], "Deuteronomy_ch_18.docx": [1689], "Deuteronomy_ch_24.docx": [1721], "Ruth_ch_3.docx": [1508], "Psalms_ch_44.docx": [1290], "Psalms_ch_89.docx": [1296], "Psalms_ch_91.docx": [1144], "Psalms_ch_104.docx": [1299], "Psalms_ch_145.docx": [1196], "Isaiah_ch_14.docx": [2246], "Jeremiah_ch_29.docx": [1961], "Amos_ch_6.docx": [2752], "Amos_ch_7.docx": [2572]}
+naphi	{"1 Chronicles_ch_5.docx": [2451]}
+63athe	{"Ezra_ch_2.docx": [2935]}
+naphi	{"1 Chronicles_ch_5.docx": [2451]}

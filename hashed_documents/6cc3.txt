@@ -1,0 +1,4 @@
+
+docked	{"Matthew_ch_14.docx": [4004], "Mark_ch_6.docx": [7370, 7370], "Luke_ch_5.docx": [203, 203], "John_ch_6.docx": [2880, 2880]}
+docked	{"Matthew_ch_14.docx": [4004], "Mark_ch_6.docx": [7370], "Luke_ch_5.docx": [203], "John_ch_6.docx": [2880]}
+docked	{"Matthew_ch_14.docx": [4004], "Mark_ch_6.docx": [7370], "Luke_ch_5.docx": [203], "John_ch_6.docx": [2880]}

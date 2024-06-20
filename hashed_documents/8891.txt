@@ -1,0 +1,4 @@
+
+bells	{"Exodus_ch_28.docx": [4097, 4458, 4467, 4458, 4467, 4458, 4467], "Exodus_ch_39.docx": [3090, 3110, 3090, 3110, 3090, 3110], "2 Chronicles_ch_4.docx": [1640, 1640, 1640]}
+bells	{"Exodus_ch_28.docx": [4097, 4458, 4467, 4458, 4467], "Exodus_ch_39.docx": [3090, 3110, 3090, 3110], "2 Chronicles_ch_4.docx": [1640, 1640]}
+bells	{"Exodus_ch_28.docx": [4097, 4458, 4467], "Exodus_ch_39.docx": [3090, 3110], "2 Chronicles_ch_4.docx": [1640]}

@@ -1,0 +1,4 @@
+
+newl	{"Psalms_ch_144.docx": [1194], "Acts_ch_2.docx": [12328, 12328], "1 Timothy_ch_3.docx": [772, 772]}
+newl	{"Psalms_ch_144.docx": [1194], "Acts_ch_2.docx": [12328], "1 Timothy_ch_3.docx": [772]}
+newl	{"Psalms_ch_144.docx": [1194], "Acts_ch_2.docx": [12328], "1 Timothy_ch_3.docx": [772]}

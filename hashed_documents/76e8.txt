@@ -1,0 +1,2 @@
+
+2you	{"Deuteronomy_ch_19.docx": [33], "Deuteronomy_ch_21.docx": [43], "Deuteronomy_ch_26.docx": [33], "Psalms_ch_49.docx": [141], "Psalms_ch_85.docx": [154], "Psalms_ch_104.docx": [190], "Psalms_ch_139.docx": [96], "Proverbs_ch_2.docx": [98], "Isaiah_ch_48.docx": [407]}

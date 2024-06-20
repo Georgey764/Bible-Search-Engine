@@ -1,0 +1,4 @@
+
+anyway	{"Genesis_ch_45.docx": [284], "Ezekiel_ch_41.docx": [1303, 1303, 1303], "Luke_ch_5.docx": [6750, 6750], "2 Corinthians_ch_2.docx": [1421, 1421]}
+anyway	{"Genesis_ch_45.docx": [284], "Ezekiel_ch_41.docx": [1303, 1303], "Luke_ch_5.docx": [6750], "2 Corinthians_ch_2.docx": [1421]}
+anyway	{"Genesis_ch_45.docx": [284], "Ezekiel_ch_41.docx": [1303], "Luke_ch_5.docx": [6750], "2 Corinthians_ch_2.docx": [1421]}

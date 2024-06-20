@@ -1,0 +1,4 @@
+
+impali	{"Matthew_ch_16.docx": [3322], "Matthew_ch_27.docx": [3178, 3178], "Mark_ch_8.docx": [4516, 4516], "Luke_ch_14.docx": [3458, 3458], "John_ch_19.docx": [3468, 3468], "1 Corinthians_ch_1.docx": [2142, 2151, 2142, 2151]}
+impali	{"Matthew_ch_16.docx": [3322], "Matthew_ch_27.docx": [3178], "Mark_ch_8.docx": [4516], "Luke_ch_14.docx": [3458], "John_ch_19.docx": [3468], "1 Corinthians_ch_1.docx": [2142, 2151]}
+impali	{"Matthew_ch_16.docx": [3322], "Matthew_ch_27.docx": [3178], "Mark_ch_8.docx": [4516], "Luke_ch_14.docx": [3458], "John_ch_19.docx": [3468], "1 Corinthians_ch_1.docx": [2142, 2151]}

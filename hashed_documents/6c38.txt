@@ -1,0 +1,5 @@
+
+years;	{"Exodus_ch_21.docx": [196], "Deuteronomy_ch_15.docx": [1806, 1806, 1806], "Job_ch_29.docx": [1600, 1600, 1600], "Zechariah_ch_7.docx": [755, 755, 755]}
+years;	{"Exodus_ch_21.docx": [196], "Deuteronomy_ch_15.docx": [1806, 1806], "Job_ch_29.docx": [1600, 1600], "Zechariah_ch_7.docx": [755, 755]}
+2‘j	{"Deuteronomy_ch_7.docx": [297], "2 Samuel_ch_22.docx": [136], "Isaiah_ch_44.docx": [96], "Jeremiah_ch_14.docx": [117], "Jeremiah_ch_28.docx": [258], "Jeremiah_ch_44.docx": [248], "Jeremiah_ch_45.docx": [284], "Jeremiah_ch_47.docx": [130], "Zechariah_ch_1.docx": [194]}
+years;	{"Exodus_ch_21.docx": [196], "Deuteronomy_ch_15.docx": [1806], "Job_ch_29.docx": [1600], "Zechariah_ch_7.docx": [755]}

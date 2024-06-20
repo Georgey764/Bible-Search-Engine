@@ -1,0 +1,5 @@
+
+eba	{"Deuteronomy_ch_11.docx": [4116], "Deuteronomy_ch_27.docx": [697, 1781, 697, 1781, 697, 1781], "Joshua_ch_8.docx": [3579, 4315, 3579, 4315, 3579, 4315], "1 Chronicles_ch_1.docx": [1832, 1832], "1 Chronicles_ch_3.docx": [656, 656, 656]}
+eba	{"Deuteronomy_ch_11.docx": [4116], "Deuteronomy_ch_27.docx": [697, 1781, 697, 1781], "Joshua_ch_8.docx": [3579, 4315, 3579, 4315], "1 Chronicles_ch_3.docx": [656, 656], "1 Chronicles_ch_1.docx": [1832]}
+10‘i’l	{"Ezekiel_ch_24.docx": [1293], "Hosea_ch_2.docx": [1780]}
+eba	{"Deuteronomy_ch_11.docx": [4116], "Deuteronomy_ch_27.docx": [697, 1781], "Joshua_ch_8.docx": [3579, 4315], "1 Chronicles_ch_1.docx": [1832], "1 Chronicles_ch_3.docx": [656]}

@@ -1,0 +1,7 @@
+
+swep	{"Judges_ch_5.docx": [3106], "Matthew_ch_12.docx": [5621, 5621, 5621], "Matthew_ch_24.docx": [4406, 4406, 4406], "Luke_ch_11.docx": [3380, 3380]}
+tid	{"Psalms_ch_93.docx": [438], "Acts_ch_16.docx": [5434, 5434]}
+swep	{"Judges_ch_5.docx": [3106], "Matthew_ch_12.docx": [5621, 5621], "Matthew_ch_24.docx": [4406, 4406], "Luke_ch_11.docx": [3380]}
+tid	{"Psalms_ch_93.docx": [438], "Acts_ch_16.docx": [5434]}
+swep	{"Judges_ch_5.docx": [3106], "Matthew_ch_12.docx": [5621], "Matthew_ch_24.docx": [4406], "Luke_ch_11.docx": [3380]}
+tid	{"Psalms_ch_93.docx": [438], "Acts_ch_16.docx": [5434]}

@@ -1,0 +1,7 @@
+
+subd	{"Numbers_ch_26.docx": [5650], "2 Samuel_ch_12.docx": [4590, 4590, 4590], "Psalms_ch_108.docx": [634, 634, 634], "Ezekiel_ch_47.docx": [3753, 3753, 3753]}
+ezrik	{"1 Chronicles_ch_3.docx": [2158], "1 Chronicles_ch_8.docx": [2579, 2579, 2579], "1 Chronicles_ch_9.docx": [2062, 5944, 2062, 5944, 2062, 5944], "2 Chronicles_ch_28.docx": [962, 962, 962]}
+subd	{"Numbers_ch_26.docx": [5650], "2 Samuel_ch_12.docx": [4590, 4590], "Psalms_ch_108.docx": [634, 634], "Ezekiel_ch_47.docx": [3753, 3753]}
+ezrik	{"1 Chronicles_ch_3.docx": [2158], "1 Chronicles_ch_8.docx": [2579, 2579], "1 Chronicles_ch_9.docx": [2062, 5944, 2062, 5944], "2 Chronicles_ch_28.docx": [962, 962]}
+subd	{"Numbers_ch_26.docx": [5650], "2 Samuel_ch_12.docx": [4590], "Psalms_ch_108.docx": [634], "Ezekiel_ch_47.docx": [3753]}
+ezrik	{"1 Chronicles_ch_3.docx": [2158], "1 Chronicles_ch_8.docx": [2579], "1 Chronicles_ch_9.docx": [2062, 5944], "2 Chronicles_ch_28.docx": [962]}

@@ -1,0 +1,4 @@
+
+holy!	{"Exodus_ch_29.docx": [4483], "Leviticus_ch_19.docx": [145, 145, 145], "Deuteronomy_ch_5.docx": [1909, 1909, 1909], "Joshua_ch_7.docx": [2688, 2688, 2688], "1 Peter_ch_1.docx": [4709, 4709]}
+holy!	{"Exodus_ch_29.docx": [4483], "Leviticus_ch_19.docx": [145, 145], "Deuteronomy_ch_5.docx": [1909, 1909], "Joshua_ch_7.docx": [2688, 2688], "1 Peter_ch_1.docx": [4709]}
+holy!	{"Exodus_ch_29.docx": [4483], "Leviticus_ch_19.docx": [145], "Deuteronomy_ch_5.docx": [1909], "Joshua_ch_7.docx": [2688], "1 Peter_ch_1.docx": [4709]}

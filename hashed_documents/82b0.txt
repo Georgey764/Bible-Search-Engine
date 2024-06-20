@@ -1,0 +1,4 @@
+
+thars	{"2 Kings_ch_15.docx": [1770], "1 Chronicles_ch_1.docx": [394, 394, 394], "1 Chronicles_ch_7.docx": [1436, 1436, 1436], "Psalms_ch_72.docx": [792, 792, 792], "Song of Solomon_ch_5.docx": [2381, 2381, 2381], "Jonah_ch_1.docx": [229, 246, 229, 246, 229, 246]}
+thars	{"2 Kings_ch_15.docx": [1770], "1 Chronicles_ch_1.docx": [394, 394], "1 Chronicles_ch_7.docx": [1436, 1436], "Psalms_ch_72.docx": [792, 792], "Song of Solomon_ch_5.docx": [2381, 2381], "Jonah_ch_1.docx": [229, 246, 229, 246]}
+thars	{"2 Kings_ch_15.docx": [1770], "1 Chronicles_ch_1.docx": [394], "1 Chronicles_ch_7.docx": [1436], "Psalms_ch_72.docx": [792], "Song of Solomon_ch_5.docx": [2381], "Jonah_ch_1.docx": [229, 246]}

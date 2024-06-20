@@ -1,0 +1,5 @@
+
+sebl	{"1 Chronicles_ch_1.docx": [4015, 4073, 4073, 4073]}
+41,500	{"Numbers_ch_1.docx": [3764], "Numbers_ch_2.docx": [2431]}
+sebl	{"1 Chronicles_ch_1.docx": [4015, 4073, 4073]}
+sebl	{"1 Chronicles_ch_1.docx": [4015, 4073]}

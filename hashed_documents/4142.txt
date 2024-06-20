@@ -1,0 +1,4 @@
+
+guess	{"Ezekiel_ch_41.docx": [1312], "Luke_ch_7.docx": [6160, 6160], "2 Corinthians_ch_11.docx": [1139, 1139]}
+guess	{"Ezekiel_ch_41.docx": [1312], "Luke_ch_7.docx": [6160], "2 Corinthians_ch_11.docx": [1139]}
+guess	{"Ezekiel_ch_41.docx": [1312], "Luke_ch_7.docx": [6160], "2 Corinthians_ch_11.docx": [1139]}

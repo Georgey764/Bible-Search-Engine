@@ -1,0 +1,5 @@
+
+untyin	{"Daniel_ch_5.docx": [2197], "Mark_ch_11.docx": [485, 485], "Luke_ch_19.docx": [3777, 3876, 3777, 3876]}
+65([k	{"Nehemiah_ch_7.docx": [3852]}
+untyin	{"Daniel_ch_5.docx": [2197], "Mark_ch_11.docx": [485], "Luke_ch_19.docx": [3777, 3876]}
+untyin	{"Daniel_ch_5.docx": [2197], "Mark_ch_11.docx": [485], "Luke_ch_19.docx": [3777, 3876]}

@@ -1,0 +1,5 @@
+
+kishon	{"1 Kings_ch_18.docx": [6735], "Psalms_ch_83.docx": [734, 734, 734]}
+3‘may	{"Genesis_ch_28.docx": [322], "Job_ch_3.docx": [85]}
+kishon	{"1 Kings_ch_18.docx": [6735], "Psalms_ch_83.docx": [734, 734]}
+kishon	{"1 Kings_ch_18.docx": [6735], "Psalms_ch_83.docx": [734]}

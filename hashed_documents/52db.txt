@@ -1,0 +1,8 @@
+
+say;	{"Job_ch_6.docx": [2688], "Jeremiah_ch_18.docx": [1041, 1041, 1041], "Ezekiel_ch_33.docx": [6077, 6077, 6077]}
+ten-ti	{"Daniel_ch_1.docx": [2805]}
+27‘any	{"Leviticus_ch_6.docx": [3576], "Leviticus_ch_15.docx": [3807]}
+say;	{"Job_ch_6.docx": [2688], "Jeremiah_ch_18.docx": [1041, 1041], "Ezekiel_ch_33.docx": [6077, 6077]}
+ten-ti	{"Daniel_ch_1.docx": [2805]}
+say;	{"Job_ch_6.docx": [2688], "Jeremiah_ch_18.docx": [1041], "Ezekiel_ch_33.docx": [6077]}
+ten-ti	{"Daniel_ch_1.docx": [2805]}

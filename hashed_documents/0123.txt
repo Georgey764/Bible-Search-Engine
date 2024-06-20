@@ -1,0 +1,4 @@
+
+christ	{"Psalms_ch_136.docx": [97], "Daniel_ch_9.docx": [4891, 4891, 4891], "Acts_ch_8.docx": [7448, 7448], "Acts_ch_11.docx": [6345, 6345], "Acts_ch_26.docx": [6340, 6340], "Romans_ch_14.docx": [117, 117], "1 Corinthians_ch_8.docx": [969, 969], "1 Peter_ch_4.docx": [2201, 2201], "2 Peter_ch_2.docx": [3355, 3355]}
+christ	{"Psalms_ch_136.docx": [97], "Daniel_ch_9.docx": [4891, 4891], "Acts_ch_8.docx": [7448], "Acts_ch_11.docx": [6345], "Acts_ch_26.docx": [6340], "Romans_ch_14.docx": [117], "1 Corinthians_ch_8.docx": [969], "1 Peter_ch_4.docx": [2201], "2 Peter_ch_2.docx": [3355]}
+christ	{"Psalms_ch_136.docx": [97], "Daniel_ch_9.docx": [4891], "Acts_ch_8.docx": [7448], "Acts_ch_11.docx": [6345], "Acts_ch_26.docx": [6340], "Romans_ch_14.docx": [117], "1 Corinthians_ch_8.docx": [969], "1 Peter_ch_4.docx": [2201], "2 Peter_ch_2.docx": [3355]}

@@ -1,0 +1,4 @@
+
+cloths	{"Exodus_ch_12.docx": [5374], "Exodus_ch_26.docx": [906, 964, 906, 964, 906, 964], "Exodus_ch_36.docx": [2347, 2347, 2347], "Isaiah_ch_3.docx": [3043, 3043, 3043]}
+cloths	{"Exodus_ch_12.docx": [5374], "Exodus_ch_26.docx": [906, 964, 906, 964], "Exodus_ch_36.docx": [2347, 2347], "Isaiah_ch_3.docx": [3043, 3043]}
+cloths	{"Exodus_ch_12.docx": [5374], "Exodus_ch_26.docx": [906, 964], "Exodus_ch_36.docx": [2347], "Isaiah_ch_3.docx": [3043]}

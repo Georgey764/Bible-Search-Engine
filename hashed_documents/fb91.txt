@@ -1,0 +1,8 @@
+
+maean	{"Joshua_ch_15.docx": [4635]}
+expel	{"Nehemiah_ch_7.docx": [3848], "Mark_ch_1.docx": [3681, 3681], "John_ch_9.docx": [2530, 2530], "John_ch_12.docx": [5859, 5859], "John_ch_16.docx": [21, 21], "1 Corinthians_ch_5.docx": [1786, 1786]}
+19each	{"Exodus_ch_37.docx": [1934]}
+maean	{"Joshua_ch_15.docx": [4635]}
+expel	{"Nehemiah_ch_7.docx": [3848], "Mark_ch_1.docx": [3681], "John_ch_9.docx": [2530], "John_ch_12.docx": [5859], "John_ch_16.docx": [21], "1 Corinthians_ch_5.docx": [1786]}
+maean	{"Joshua_ch_15.docx": [4635]}
+expel	{"Nehemiah_ch_7.docx": [3848], "Mark_ch_1.docx": [3681], "John_ch_9.docx": [2530], "John_ch_12.docx": [5859], "John_ch_16.docx": [21], "1 Corinthians_ch_5.docx": [1786]}

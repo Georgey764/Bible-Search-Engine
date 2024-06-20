@@ -1,0 +1,5 @@
+
+31	{"1 Chronicles_ch_4.docx": [3508], "1 Chronicles_ch_11.docx": [5465]}
+24ca	{"Joshua_ch_18.docx": [3376]}
+31	{"1 Chronicles_ch_4.docx": [3508], "1 Chronicles_ch_11.docx": [5465]}
+31	{"1 Chronicles_ch_4.docx": [3508], "1 Chronicles_ch_11.docx": [5465]}

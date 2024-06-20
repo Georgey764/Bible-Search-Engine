@@ -1,0 +1,4 @@
+
+grudgi	{"2 Corinthians_ch_9.docx": [899]}
+20fo	{"Genesis_ch_6.docx": [2709], "Exodus_ch_39.docx": [2167], "Numbers_ch_9.docx": [2572], "Deuteronomy_ch_29.docx": [2663], "Deuteronomy_ch_31.docx": [3208], "Joshua_ch_11.docx": [10910], "1 Samuel_ch_20.docx": [3088], "2 Samuel_ch_19.docx": [3390], "2 Kings_ch_18.docx": [3163], "Ezra_ch_4.docx": [3233], "Ezra_ch_6.docx": [3704], "Esther_ch_9.docx": [2136], "Job_ch_19.docx": [1762], "Job_ch_20.docx": [1968], "Job_ch_22.docx": [1798], "Psalms_ch_34.docx": [1695], "Psalms_ch_105.docx": [1576], "Psalms_ch_119.docx": [1433], "Psalms_ch_139.docx": [1901], "Psalms_ch_145.docx": [1854], "Proverbs_ch_24.docx": [1893], "Ecclesiastes_ch_3.docx": [2253], "Isaiah_ch_8.docx": [3284], "Isaiah_ch_29.docx": [3500], "Isaiah_ch_32.docx": [2770], "Jeremiah_ch_10.docx": [2609], "Jeremiah_ch_15.docx": [3872], "Daniel_ch_4.docx": [3550], "Amos_ch_5.docx": [3664], "Matthew_ch_18.docx": [2666]}
+grudgi	{"2 Corinthians_ch_9.docx": [899]}

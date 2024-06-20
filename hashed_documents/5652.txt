@@ -1,0 +1,7 @@
+
+shala	{"2 Kings_ch_17.docx": [289], "1 Chronicles_ch_3.docx": [1513, 1611, 1513, 1611, 1513, 1611], "Matthew_ch_1.docx": [964, 993, 964, 993, 964, 993]}
+rouga	{"1 Chronicles_ch_7.docx": [4121]}
+shala	{"2 Kings_ch_17.docx": [289], "1 Chronicles_ch_3.docx": [1513, 1611, 1513, 1611], "Matthew_ch_1.docx": [964, 993, 964, 993]}
+rouga	{"1 Chronicles_ch_7.docx": [4121]}
+shala	{"2 Kings_ch_17.docx": [289], "1 Chronicles_ch_3.docx": [1513, 1611], "Matthew_ch_1.docx": [964, 993]}
+rouga	{"1 Chronicles_ch_7.docx": [4121]}

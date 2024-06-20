@@ -1,0 +1,5 @@
+
+cauldr	{"Amos_ch_4.docx": [649], "Micah_ch_3.docx": [494, 494, 494]}
+39‘lo	{"Deuteronomy_ch_32.docx": [5649]}
+cauldr	{"Amos_ch_4.docx": [649], "Micah_ch_3.docx": [494, 494]}
+cauldr	{"Amos_ch_4.docx": [649], "Micah_ch_3.docx": [494]}

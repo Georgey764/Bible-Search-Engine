@@ -1,0 +1,4 @@
+
+zarait	{"Numbers_ch_26.docx": [1491, 1808, 1808, 1808], "Joshua_ch_7.docx": [3452, 3452, 3452]}
+zarait	{"Numbers_ch_26.docx": [1491, 1808, 1808], "Joshua_ch_7.docx": [3452, 3452]}
+zarait	{"Numbers_ch_26.docx": [1491, 1808], "Joshua_ch_7.docx": [3452]}

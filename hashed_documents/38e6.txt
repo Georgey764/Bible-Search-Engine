@@ -1,0 +1,8 @@
+
+toe	{"Exodus_ch_29.docx": [2177, 2204, 2204, 2204], "Leviticus_ch_8.docx": [2772, 2915, 2772, 2915, 2772, 2915], "Leviticus_ch_14.docx": [2077, 2510, 3930, 4345, 2077, 2510, 3930, 4345, 2077, 2510, 3930, 4345], "Judges_ch_1.docx": [595, 991, 595, 991, 595, 991], "2 Samuel_ch_21.docx": [4014, 4014, 4014], "1 Chronicles_ch_20.docx": [1202, 1210, 1202, 1210, 1202, 1210], "Daniel_ch_2.docx": [7029, 7176, 7029, 7176, 7029, 7176]}
+jaban	{"2 Samuel_ch_23.docx": [4657]}
+toe	{"Exodus_ch_29.docx": [2177, 2204, 2204], "Leviticus_ch_8.docx": [2772, 2915, 2772, 2915], "Leviticus_ch_14.docx": [2077, 2510, 3930, 4345, 2077, 2510, 3930, 4345], "Judges_ch_1.docx": [595, 991, 595, 991], "2 Samuel_ch_21.docx": [4014, 4014], "1 Chronicles_ch_20.docx": [1202, 1210, 1202, 1210], "Daniel_ch_2.docx": [7029, 7176, 7029, 7176]}
+jaban	{"2 Samuel_ch_23.docx": [4657]}
+35asar	{"2 Samuel_ch_23.docx": [4859]}
+toe	{"Exodus_ch_29.docx": [2177, 2204], "Leviticus_ch_8.docx": [2772, 2915], "Leviticus_ch_14.docx": [2077, 2510, 3930, 4345], "Judges_ch_1.docx": [595, 991], "2 Samuel_ch_21.docx": [4014], "1 Chronicles_ch_20.docx": [1202, 1210], "Daniel_ch_2.docx": [7029, 7176]}
+jaban	{"2 Samuel_ch_23.docx": [4657]}

@@ -1,0 +1,3 @@
+
+40e	{"1 Chronicles_ch_2.docx": [3612]}
+2to	{"Psalms_ch_92.docx": [124], "Proverbs_ch_1.docx": [94], "Proverbs_ch_15.docx": [152], "Isaiah_ch_10.docx": [114], "Isaiah_ch_23.docx": [208], "Isaiah_ch_61.docx": [473]}

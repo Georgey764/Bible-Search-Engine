@@ -1,0 +1,5 @@
+
+jess	{"1 Chronicles_ch_23.docx": [2120]}
+jess	{"1 Chronicles_ch_23.docx": [2120]}
+7those	{"Proverbs_ch_9.docx": [573], "Proverbs_ch_19.docx": [402], "Proverbs_ch_20.docx": [1036]}
+ jess	{"1 Chronicles_ch_23.docx": [2120]}

@@ -1,0 +1,5 @@
+
+paup	{"Isaiah_ch_14.docx": [4829]}
+14‘ho	{"Exodus_ch_21.docx": [1758], "Leviticus_ch_26.docx": [1646], "1 Samuel_ch_13.docx": [2292], "Jeremiah_ch_26.docx": [2325]}
+paup	{"Isaiah_ch_14.docx": [4829]}
+paup	{"Isaiah_ch_14.docx": [4829]}

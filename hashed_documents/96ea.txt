@@ -1,0 +1,4 @@
+
+mysti	{"1 Kings_ch_15.docx": [1402], "Amos_ch_7.docx": [1505, 1505, 1505]}
+mysti	{"1 Kings_ch_15.docx": [1402], "Amos_ch_7.docx": [1505, 1505]}
+mysti	{"1 Kings_ch_15.docx": [1402], "Amos_ch_7.docx": [1505]}

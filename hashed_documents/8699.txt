@@ -1,0 +1,4 @@
+
+baldne	{"Leviticus_ch_13.docx": [5775, 6001, 6001, 6001], "Jeremiah_ch_47.docx": [812, 812], "Amos_ch_8.docx": [1639, 1639, 1639]}
+baldne	{"Leviticus_ch_13.docx": [5775, 6001, 6001], "Amos_ch_8.docx": [1639, 1639], "Jeremiah_ch_47.docx": [812]}
+baldne	{"Leviticus_ch_13.docx": [5775, 6001], "Jeremiah_ch_47.docx": [812], "Amos_ch_8.docx": [1639]}

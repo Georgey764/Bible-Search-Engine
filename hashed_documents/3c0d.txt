@@ -1,0 +1,4 @@
+
+kneel	{"1 Kings_ch_8.docx": [8861], "2 Kings_ch_5.docx": [3372, 3372, 3372], "Matthew_ch_17.docx": [1585, 1585, 1585], "Matthew_ch_27.docx": [3543, 3543], "Acts_ch_20.docx": [10074, 10074], "Acts_ch_21.docx": [2207, 2207]}
+kneel	{"1 Kings_ch_8.docx": [8861], "2 Kings_ch_5.docx": [3372, 3372], "Matthew_ch_17.docx": [1585, 1585], "Matthew_ch_27.docx": [3543], "Acts_ch_20.docx": [10074], "Acts_ch_21.docx": [2207]}
+kneel	{"1 Kings_ch_8.docx": [8861], "2 Kings_ch_5.docx": [3372], "Matthew_ch_17.docx": [1585], "Matthew_ch_27.docx": [3543], "Acts_ch_20.docx": [10074], "Acts_ch_21.docx": [2207]}

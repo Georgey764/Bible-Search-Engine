@@ -1,0 +1,4 @@
+
+vestib	{"1 Kings_ch_6.docx": [1077, 3951, 3951, 3951]}
+vestib	{"1 Kings_ch_6.docx": [1077, 3951, 3951]}
+vestib	{"1 Kings_ch_6.docx": [1077, 3951]}

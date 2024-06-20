@@ -1,0 +1,10 @@
+
+rude	{"Judges_ch_8.docx": [3193], "John_ch_9.docx": [3239, 3239], "Romans_ch_1.docx": [3826, 3826], "Romans_ch_12.docx": [1979, 1979]}
+store-	{"Isaiah_ch_22.docx": [2207]}
+whoreh	{"Ezekiel_ch_16.docx": [3776, 4902, 6243, 6547, 6243, 6547, 4902, 6243, 6547]}
+rude	{"Judges_ch_8.docx": [3193], "John_ch_9.docx": [3239], "Romans_ch_1.docx": [3826], "Romans_ch_12.docx": [1979]}
+store-	{"Isaiah_ch_22.docx": [2207]}
+whoreh	{"Ezekiel_ch_16.docx": [3776, 6243, 6547, 4902, 6243, 6547]}
+rude	{"Judges_ch_8.docx": [3193], "John_ch_9.docx": [3239], "Romans_ch_1.docx": [3826], "Romans_ch_12.docx": [1979]}
+store-	{"Isaiah_ch_22.docx": [2207]}
+whoreh	{"Ezekiel_ch_16.docx": [3776, 4902, 6243, 6547]}

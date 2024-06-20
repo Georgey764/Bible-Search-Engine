@@ -1,0 +1,5 @@
+
+liby	{"Genesis_ch_10.docx": [794, 1619, 1619, 1619], "2 Chronicles_ch_12.docx": [315, 315, 315], "2 Chronicles_ch_16.docx": [1323, 1323, 1323], "Jeremiah_ch_46.docx": [1207, 1207, 1207], "Ezekiel_ch_30.docx": [549, 549, 549], "Ezekiel_ch_38.docx": [629, 629, 629], "Daniel_ch_11.docx": [7889, 7889, 7889], "Matthew_ch_27.docx": [3875, 3875]}
+liby	{"Genesis_ch_10.docx": [794, 1619, 1619], "2 Chronicles_ch_12.docx": [315, 315], "2 Chronicles_ch_16.docx": [1323, 1323], "Jeremiah_ch_46.docx": [1207, 1207], "Ezekiel_ch_30.docx": [549, 549], "Ezekiel_ch_38.docx": [629, 629], "Daniel_ch_11.docx": [7889, 7889], "Matthew_ch_27.docx": [3875]}
+14da	{"1 Samuel_ch_26.docx": [2076], "2 Samuel_ch_15.docx": [1768], "Daniel_ch_2.docx": [2184]}
+liby	{"Genesis_ch_10.docx": [794, 1619], "2 Chronicles_ch_12.docx": [315], "2 Chronicles_ch_16.docx": [1323], "Jeremiah_ch_46.docx": [1207], "Ezekiel_ch_30.docx": [549], "Ezekiel_ch_38.docx": [629], "Daniel_ch_11.docx": [7889], "Matthew_ch_27.docx": [3875]}

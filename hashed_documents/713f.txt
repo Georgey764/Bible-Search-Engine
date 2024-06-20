@@ -1,0 +1,5 @@
+
+mesoll	{"2 Kings_ch_21.docx": [3539], "2 Kings_ch_22.docx": [380, 380, 380]}
+1‘thi	{"Leviticus_ch_7.docx": [6]}
+mesoll	{"2 Kings_ch_21.docx": [3539], "2 Kings_ch_22.docx": [380, 380]}
+mesoll	{"2 Kings_ch_21.docx": [3539], "2 Kings_ch_22.docx": [380]}

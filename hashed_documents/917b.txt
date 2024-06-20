@@ -1,0 +1,2 @@
+
+15howe	{"Genesis_ch_15.docx": [1811], "Genesis_ch_18.docx": [1906], "Genesis_ch_21.docx": [1633], "1 Samuel_ch_9.docx": [2266], "2 Samuel_ch_10.docx": [2144], "2 Chronicles_ch_10.docx": [2029], "Matthew_ch_6.docx": [1866], "Matthew_ch_12.docx": [1589]}

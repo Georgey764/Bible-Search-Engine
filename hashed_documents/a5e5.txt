@@ -1,0 +1,7 @@
+
+josabe	{"1 Chronicles_ch_12.docx": [2800]}
+patm	{"Revelation_ch_1.docx": [1341]}
+josabe	{"1 Chronicles_ch_12.docx": [2800]}
+1dis	{"Proverbs_ch_11.docx": [4]}
+josabe	{"1 Chronicles_ch_12.docx": [2800]}
+patm	{"Revelation_ch_1.docx": [1341]}

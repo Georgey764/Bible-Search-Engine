@@ -1,0 +1,5 @@
+
+peak	{"Song of Solomon_ch_4.docx": [1175], "Jeremiah_ch_17.docx": [495, 495, 495], "Joel_ch_2.docx": [304, 304, 304]}
+50ano	{"Joshua_ch_15.docx": [5587]}
+peak	{"Song of Solomon_ch_4.docx": [1175], "Jeremiah_ch_17.docx": [495, 495], "Joel_ch_2.docx": [304, 304]}
+peak	{"Song of Solomon_ch_4.docx": [1175], "Jeremiah_ch_17.docx": [495], "Joel_ch_2.docx": [304]}

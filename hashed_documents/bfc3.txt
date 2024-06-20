@@ -1,0 +1,2 @@
+
+46a	{"Genesis_ch_31.docx": [6503], "Leviticus_ch_25.docx": [6301], "Numbers_ch_16.docx": [6414], "Numbers_ch_31.docx": [4758], "Deuteronomy_ch_4.docx": [6875], "Joshua_ch_15.docx": [5256], "Matthew_ch_13.docx": [6126]}

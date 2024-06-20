@@ -1,0 +1,7 @@
+
+mod	{"Numbers_ch_11.docx": [4086, 4419, 4419, 4419], "1 Chronicles_ch_2.docx": [2781, 2781, 2781], "Esther_ch_4.docx": [1793, 1793, 1793], "1 Timothy_ch_2.docx": [970, 970], "1 Timothy_ch_3.docx": [209, 1290, 209, 1290]}
+rooft	{"Jeremiah_ch_48.docx": [5235], "Matthew_ch_10.docx": [3539, 3539, 3539], "Mark_ch_13.docx": [1990, 1990], "Luke_ch_12.docx": [492, 492]}
+mod	{"Numbers_ch_11.docx": [4086, 4419, 4419], "1 Chronicles_ch_2.docx": [2781, 2781], "Esther_ch_4.docx": [1793, 1793], "1 Timothy_ch_2.docx": [970], "1 Timothy_ch_3.docx": [209, 1290]}
+rooft	{"Jeremiah_ch_48.docx": [5235], "Matthew_ch_10.docx": [3539, 3539], "Mark_ch_13.docx": [1990], "Luke_ch_12.docx": [492]}
+mod	{"Numbers_ch_11.docx": [4086, 4419], "1 Chronicles_ch_2.docx": [2781], "Esther_ch_4.docx": [1793], "1 Timothy_ch_2.docx": [970], "1 Timothy_ch_3.docx": [209, 1290]}
+rooft	{"Jeremiah_ch_48.docx": [5235], "Matthew_ch_10.docx": [3539], "Mark_ch_13.docx": [1990], "Luke_ch_12.docx": [492]}

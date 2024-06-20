@@ -1,0 +1,7 @@
+
+dreg	{"Psalms_ch_75.docx": [904], "Jeremiah_ch_48.docx": [1440, 1440, 1440]}
+plaz	{"Jeremiah_ch_17.docx": [4893], "Jeremiah_ch_49.docx": [4824, 4824, 4824]}
+dreg	{"Psalms_ch_75.docx": [904], "Jeremiah_ch_48.docx": [1440, 1440]}
+plaz	{"Jeremiah_ch_17.docx": [4893], "Jeremiah_ch_49.docx": [4824, 4824]}
+dreg	{"Psalms_ch_75.docx": [904], "Jeremiah_ch_48.docx": [1440]}
+plaz	{"Jeremiah_ch_17.docx": [4893], "Jeremiah_ch_49.docx": [4824]}

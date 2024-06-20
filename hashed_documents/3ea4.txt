@@ -1,0 +1,4 @@
+
+feet;	{"Leviticus_ch_8.docx": [2919], "Isaiah_ch_3.docx": [2612, 2612, 2612]}
+feet;	{"Leviticus_ch_8.docx": [2919], "Isaiah_ch_3.docx": [2612, 2612]}
+feet;	{"Leviticus_ch_8.docx": [2919], "Isaiah_ch_3.docx": [2612]}

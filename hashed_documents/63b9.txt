@@ -1,0 +1,5 @@
+
+hacha	{"Nehemiah_ch_1.docx": [12], "Nehemiah_ch_10.docx": [76, 76, 76]}
+hacha	{"Nehemiah_ch_1.docx": [12], "Nehemiah_ch_10.docx": [76, 76]}
+25will	{"Job_ch_13.docx": [2127]}
+hacha	{"Nehemiah_ch_1.docx": [12], "Nehemiah_ch_10.docx": [76]}

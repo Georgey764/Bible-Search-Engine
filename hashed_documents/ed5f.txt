@@ -1,0 +1,5 @@
+
+winne	{"Job_ch_36.docx": [600], "1 Thessalonians_ch_2.docx": [2791, 2791]}
+winne	{"Job_ch_36.docx": [600], "1 Thessalonians_ch_2.docx": [2791]}
+4{lo	{"Psalms_ch_48.docx": [356], "Psalms_ch_128.docx": [405], "Isaiah_ch_55.docx": [669], "Ezekiel_ch_25.docx": [487]}
+winne	{"Job_ch_36.docx": [600], "1 Thessalonians_ch_2.docx": [2791]}

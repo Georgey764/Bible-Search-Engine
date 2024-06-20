@@ -1,0 +1,4 @@
+
+talit	{"Mark_ch_5.docx": [4807]}
+390	{"Ezekiel_ch_4.docx": [848, 1549]}
+talit	{"Mark_ch_5.docx": [4807]}

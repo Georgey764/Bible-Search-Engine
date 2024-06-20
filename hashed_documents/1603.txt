@@ -1,0 +1,3 @@
+
+bias	{"1 Timothy_ch_5.docx": [2870]}
+bias	{"1 Timothy_ch_5.docx": [2870]}

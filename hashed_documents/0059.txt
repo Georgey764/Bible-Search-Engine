@@ -1,0 +1,5 @@
+
+strumm	{"2 Kings_ch_3.docx": [2372], "Job_ch_21.docx": [1054, 1054, 1054], "Job_ch_30.docx": [965, 965, 965], "Psalms_ch_59.docx": [2025, 2025, 2025], "Psalms_ch_98.docx": [531, 531, 531], "Psalms_ch_149.docx": [241, 241, 241]}
+17p	{"Numbers_ch_26.docx": [1836], "Nehemiah_ch_4.docx": [2751]}
+strumm	{"2 Kings_ch_3.docx": [2372], "Job_ch_21.docx": [1054, 1054], "Job_ch_30.docx": [965, 965], "Psalms_ch_59.docx": [2025, 2025], "Psalms_ch_98.docx": [531, 531], "Psalms_ch_149.docx": [241, 241]}
+strumm	{"2 Kings_ch_3.docx": [2372], "Job_ch_21.docx": [1054], "Job_ch_30.docx": [965], "Psalms_ch_59.docx": [2025], "Psalms_ch_98.docx": [531], "Psalms_ch_149.docx": [241]}

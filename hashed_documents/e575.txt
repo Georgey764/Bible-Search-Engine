@@ -1,0 +1,4 @@
+
+lebona	{"Numbers_ch_33.docx": [1829, 1880, 1880, 1880]}
+lebona	{"Numbers_ch_33.docx": [1829, 1880, 1880]}
+lebona	{"Numbers_ch_33.docx": [1829, 1880]}

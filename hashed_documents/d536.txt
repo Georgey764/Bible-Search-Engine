@@ -1,0 +1,5 @@
+
+teke	{"Daniel_ch_5.docx": [5052, 5179, 5179]}
+19beca	{"Genesis_ch_18.docx": [2290], "Leviticus_ch_26.docx": [2346]}
+teke	{"Daniel_ch_5.docx": [5052, 5179]}
+teke	{"Daniel_ch_5.docx": [5052, 5179]}

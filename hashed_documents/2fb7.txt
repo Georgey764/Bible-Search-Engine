@@ -1,0 +1,4 @@
+
+radian	{"Psalms_ch_18.docx": [1280], "Lamentations_ch_4.docx": [1090, 1090, 1090]}
+radian	{"Psalms_ch_18.docx": [1280], "Lamentations_ch_4.docx": [1090, 1090]}
+radian	{"Psalms_ch_18.docx": [1280], "Lamentations_ch_4.docx": [1090]}

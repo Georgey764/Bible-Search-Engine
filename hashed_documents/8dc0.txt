@@ -1,0 +1,4 @@
+
+bach	{"1 Chronicles_ch_7.docx": [811, 1052, 1052, 1052]}
+bach	{"1 Chronicles_ch_7.docx": [811, 1052, 1052]}
+bach	{"1 Chronicles_ch_7.docx": [811, 1052]}

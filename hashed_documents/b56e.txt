@@ -1,0 +1,5 @@
+
+lut	{"Genesis_ch_4.docx": [2355], "1 Samuel_ch_10.docx": [1096, 1096, 1096], "1 Kings_ch_10.docx": [1732, 1732, 1732], "Psalms_ch_33.docx": [152, 152, 152], "Psalms_ch_92.docx": [206, 206, 206], "Psalms_ch_108.docx": [114, 114, 114], "Psalms_ch_149.docx": [243, 243, 243], "Psalms_ch_150.docx": [256], "Isaiah_ch_5.docx": [1969, 1969, 1969]}
+lut	{"Genesis_ch_4.docx": [2355], "1 Samuel_ch_10.docx": [1096, 1096], "1 Kings_ch_10.docx": [1732, 1732], "Psalms_ch_33.docx": [152, 152], "Psalms_ch_92.docx": [206, 206], "Psalms_ch_108.docx": [114, 114], "Psalms_ch_149.docx": [243, 243], "Isaiah_ch_5.docx": [1969, 1969]}
+37‘j	{"Jeremiah_ch_31.docx": [6960]}
+lut	{"Genesis_ch_4.docx": [2355], "1 Samuel_ch_10.docx": [1096], "1 Kings_ch_10.docx": [1732], "Psalms_ch_33.docx": [152], "Psalms_ch_92.docx": [206], "Psalms_ch_108.docx": [114], "Psalms_ch_149.docx": [243], "Isaiah_ch_5.docx": [1969]}

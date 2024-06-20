@@ -1,0 +1,4 @@
+
+letti	{"Exodus_ch_5.docx": [255], "Acts_ch_27.docx": [5370, 5370]}
+letti	{"Exodus_ch_5.docx": [255], "Acts_ch_27.docx": [5370]}
+letti	{"Exodus_ch_5.docx": [255], "Acts_ch_27.docx": [5370]}

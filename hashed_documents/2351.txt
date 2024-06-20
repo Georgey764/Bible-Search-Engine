@@ -1,0 +1,4 @@
+
+other’	{"Leviticus_ch_20.docx": [2345, 2370, 2370, 2370], "Job_ch_4.docx": [995, 995, 995], "Psalms_ch_119.docx": [9523, 9523, 9523], "Proverbs_ch_11.docx": [1367, 1367, 1367], "Romans_ch_12.docx": [1763, 1763], "Romans_ch_15.docx": [633, 633]}
+other’	{"Leviticus_ch_20.docx": [2345, 2370, 2370], "Job_ch_4.docx": [995, 995], "Psalms_ch_119.docx": [9523, 9523], "Proverbs_ch_11.docx": [1367, 1367], "Romans_ch_12.docx": [1763], "Romans_ch_15.docx": [633]}
+other’	{"Leviticus_ch_20.docx": [2345, 2370], "Job_ch_4.docx": [995], "Psalms_ch_119.docx": [9523], "Proverbs_ch_11.docx": [1367], "Romans_ch_12.docx": [1763], "Romans_ch_15.docx": [633]}

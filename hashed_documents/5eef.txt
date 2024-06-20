@@ -1,0 +1,4 @@
+
+jedija	{"1 Chronicles_ch_4.docx": [4059], "1 Chronicles_ch_24.docx": [1364, 2295, 1364, 2295, 1364, 2295]}
+jedija	{"1 Chronicles_ch_4.docx": [4059], "1 Chronicles_ch_24.docx": [1364, 2295, 1364, 2295]}
+jedija	{"1 Chronicles_ch_4.docx": [4059], "1 Chronicles_ch_24.docx": [1364, 2295]}

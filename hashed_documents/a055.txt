@@ -1,0 +1,4 @@
+
+recall	{"Numbers_ch_5.docx": [2030], "Deuteronomy_ch_30.docx": [17, 17, 17], "Esther_ch_8.docx": [671, 671, 671], "Psalms_ch_77.docx": [1061, 1061, 1061], "Jeremiah_ch_14.docx": [1460, 1460, 1460], "Hosea_ch_8.docx": [1867, 1867, 1867]}
+recall	{"Numbers_ch_5.docx": [2030], "Deuteronomy_ch_30.docx": [17, 17], "Esther_ch_8.docx": [671, 671], "Psalms_ch_77.docx": [1061, 1061], "Jeremiah_ch_14.docx": [1460, 1460], "Hosea_ch_8.docx": [1867, 1867]}
+recall	{"Numbers_ch_5.docx": [2030], "Deuteronomy_ch_30.docx": [17], "Esther_ch_8.docx": [671], "Psalms_ch_77.docx": [1061], "Jeremiah_ch_14.docx": [1460], "Hosea_ch_8.docx": [1867]}

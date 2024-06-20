@@ -1,0 +1,4 @@
+
+freshl	{"1 Chronicles_ch_16.docx": [230], "Song of Solomon_ch_4.docx": [240, 240, 240], "Song of Solomon_ch_6.docx": [767, 767, 767]}
+freshl	{"1 Chronicles_ch_16.docx": [230], "Song of Solomon_ch_4.docx": [240, 240], "Song of Solomon_ch_6.docx": [767, 767]}
+freshl	{"1 Chronicles_ch_16.docx": [230], "Song of Solomon_ch_4.docx": [240], "Song of Solomon_ch_6.docx": [767]}

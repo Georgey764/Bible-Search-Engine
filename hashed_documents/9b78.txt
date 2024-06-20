@@ -1,0 +1,4 @@
+
+demoni	{"Mark_ch_5.docx": [1966], "Luke_ch_8.docx": [3959, 3959], "John_ch_7.docx": [2627, 2627], "John_ch_8.docx": [6092, 6483, 6092, 6483], "John_ch_10.docx": [2149, 2242, 2149, 2242], "James_ch_3.docx": [1780, 1780]}
+3what	{"Psalms_ch_144.docx": [281]}
+demoni	{"Mark_ch_5.docx": [1966], "Luke_ch_8.docx": [3959], "John_ch_7.docx": [2627], "John_ch_8.docx": [6092, 6483], "John_ch_10.docx": [2149, 2242], "James_ch_3.docx": [1780]}

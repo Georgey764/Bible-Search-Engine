@@ -1,0 +1,5 @@
+
+pendan	{"Proverbs_ch_25.docx": [1070], "Song of Solomon_ch_1.docx": [1516, 1516, 1516], "Song of Solomon_ch_7.docx": [111, 111, 111]}
+pendan	{"Proverbs_ch_25.docx": [1070], "Song of Solomon_ch_1.docx": [1516, 1516], "Song of Solomon_ch_7.docx": [111, 111]}
+26(	{"Jeremiah_ch_9.docx": [4629]}
+pendan	{"Proverbs_ch_25.docx": [1070], "Song of Solomon_ch_1.docx": [1516], "Song of Solomon_ch_7.docx": [111]}

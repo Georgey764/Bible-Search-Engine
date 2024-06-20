@@ -1,0 +1,4 @@
+
+pain;	{"Psalms_ch_69.docx": [2999], "Proverbs_ch_23.docx": [3261, 3261, 3261]}
+pain;	{"Psalms_ch_69.docx": [2999], "Proverbs_ch_23.docx": [3261, 3261]}
+pain;	{"Psalms_ch_69.docx": [2999], "Proverbs_ch_23.docx": [3261]}

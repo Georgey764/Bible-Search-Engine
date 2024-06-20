@@ -1,0 +1,4 @@
+
+garnet	{"Exodus_ch_39.docx": [1399], "Isaiah_ch_54.docx": [1741, 1741, 1741]}
+garnet	{"Exodus_ch_39.docx": [1399], "Isaiah_ch_54.docx": [1741, 1741]}
+garnet	{"Exodus_ch_39.docx": [1399], "Isaiah_ch_54.docx": [1741]}

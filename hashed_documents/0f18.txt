@@ -1,0 +1,7 @@
+
+snag	{"1 Samuel_ch_14.docx": [4423]}
+malli	{"1 Chronicles_ch_25.docx": [803, 2654, 2654, 2654]}
+snag	{"1 Samuel_ch_14.docx": [4423]}
+malli	{"1 Chronicles_ch_25.docx": [803, 2654, 2654]}
+snag	{"1 Samuel_ch_14.docx": [4423]}
+malli	{"1 Chronicles_ch_25.docx": [803, 2654]}

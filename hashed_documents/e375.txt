@@ -1,0 +1,7 @@
+
+fly;	{"Proverbs_ch_26.docx": [153]}
+habak	{"Habakkuk_ch_1.docx": [1, 10, 1982, 10, 1982, 10, 1982], "Habakkuk_ch_2.docx": [1, 1, 1], "Acts_ch_13.docx": [7394, 7394], "Romans_ch_1.docx": [1984, 1984], "Galatians_ch_3.docx": [1512, 1512], "Hebrews_ch_10.docx": [5310, 5355, 5426, 5310, 5355, 5426]}
+fly;	{"Proverbs_ch_26.docx": [153]}
+habak	{"Habakkuk_ch_1.docx": [1, 10, 1982, 10, 1982], "Habakkuk_ch_2.docx": [1, 1], "Acts_ch_13.docx": [7394], "Romans_ch_1.docx": [1984], "Galatians_ch_3.docx": [1512], "Hebrews_ch_10.docx": [5310, 5355, 5426]}
+fly;	{"Proverbs_ch_26.docx": [153]}
+habak	{"Habakkuk_ch_1.docx": [1, 10, 1982], "Habakkuk_ch_2.docx": [1], "Acts_ch_13.docx": [7394], "Romans_ch_1.docx": [1984], "Galatians_ch_3.docx": [1512], "Hebrews_ch_10.docx": [5310, 5355, 5426]}

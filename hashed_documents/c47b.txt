@@ -1,0 +1,5 @@
+
+bal	{"1 Chronicles_ch_8.docx": [45]}
+46th	{"Genesis_ch_27.docx": [6321], "Exodus_ch_29.docx": [6188], "Leviticus_ch_11.docx": [5606], "Leviticus_ch_26.docx": [6462], "Numbers_ch_26.docx": [4748], "1 Kings_ch_2.docx": [8211], "1 Kings_ch_18.docx": [7803], "Nehemiah_ch_7.docx": [2832], "Matthew_ch_24.docx": [5310]}
+bal	{"1 Chronicles_ch_8.docx": [45]}
+ bal	{"1 Chronicles_ch_8.docx": [45]}

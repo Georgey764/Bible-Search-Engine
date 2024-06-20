@@ -1,0 +1,5 @@
+
+driver	{"2 Chronicles_ch_18.docx": [5403], "Acts_ch_8.docx": [7590, 7590]}
+driver	{"2 Chronicles_ch_18.docx": [5403], "Acts_ch_8.docx": [7590]}
+12‘go	{"Jeremiah_ch_7.docx": [1673]}
+driver	{"2 Chronicles_ch_18.docx": [5403], "Acts_ch_8.docx": [7590]}

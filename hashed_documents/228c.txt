@@ -1,0 +1,4 @@
+
+joda	{"2 Samuel_ch_8.docx": [2650], "1 Chronicles_ch_8.docx": [1172, 1172, 1172], "2 Chronicles_ch_29.docx": [2017, 2017, 2017], "Luke_ch_3.docx": [6466, 6466]}
+joda	{"2 Samuel_ch_8.docx": [2650], "1 Chronicles_ch_8.docx": [1172, 1172], "2 Chronicles_ch_29.docx": [2017, 2017], "Luke_ch_3.docx": [6466]}
+joda	{"2 Samuel_ch_8.docx": [2650], "1 Chronicles_ch_8.docx": [1172], "2 Chronicles_ch_29.docx": [2017], "Luke_ch_3.docx": [6466]}

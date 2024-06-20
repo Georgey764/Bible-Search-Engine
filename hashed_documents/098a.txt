@@ -1,0 +1,3 @@
+
+magis	{"Acts_ch_16.docx": [8111, 8223, 8223]}
+magis	{"Acts_ch_16.docx": [8111, 8223]}

@@ -1,0 +1,4 @@
+
+earthq	{"1 Kings_ch_19.docx": [2117], "Amos_ch_1.docx": [401, 401, 401], "Matthew_ch_27.docx": [6297, 6297], "Acts_ch_16.docx": [6935, 6935]}
+earthq	{"1 Kings_ch_19.docx": [2117], "Amos_ch_1.docx": [401, 401], "Matthew_ch_27.docx": [6297], "Acts_ch_16.docx": [6935]}
+earthq	{"1 Kings_ch_19.docx": [2117], "Amos_ch_1.docx": [401], "Matthew_ch_27.docx": [6297], "Acts_ch_16.docx": [6935]}

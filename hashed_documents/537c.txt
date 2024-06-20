@@ -1,0 +1,4 @@
+
+adai	{"1 Kings_ch_4.docx": [1967], "1 Chronicles_ch_6.docx": [3273, 3273, 3273], "1 Chronicles_ch_8.docx": [1391, 1391], "1 Chronicles_ch_9.docx": [1523, 1523, 1523], "Nehemiah_ch_11.docx": [781, 1842, 781, 1842, 781, 1842]}
+adai	{"1 Kings_ch_4.docx": [1967], "1 Chronicles_ch_6.docx": [3273, 3273], "1 Chronicles_ch_9.docx": [1523, 1523], "Nehemiah_ch_11.docx": [781, 1842, 781, 1842], "1 Chronicles_ch_8.docx": [1391]}
+adai	{"1 Kings_ch_4.docx": [1967], "1 Chronicles_ch_6.docx": [3273], "1 Chronicles_ch_8.docx": [1391], "1 Chronicles_ch_9.docx": [1523], "Nehemiah_ch_11.docx": [781, 1842]}

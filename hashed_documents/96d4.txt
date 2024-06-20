@@ -1,0 +1,4 @@
+
+victim	{"Ezekiel_ch_21.docx": [1380, 5119, 5119, 5119], "Amos_ch_5.docx": [4305, 4305, 4305], "Acts_ch_7.docx": [6288, 6288], "Revelation_ch_18.docx": [362, 362]}
+victim	{"Ezekiel_ch_21.docx": [1380, 5119, 5119], "Amos_ch_5.docx": [4305, 4305], "Acts_ch_7.docx": [6288], "Revelation_ch_18.docx": [362]}
+victim	{"Ezekiel_ch_21.docx": [1380, 5119], "Amos_ch_5.docx": [4305], "Acts_ch_7.docx": [6288], "Revelation_ch_18.docx": [362]}

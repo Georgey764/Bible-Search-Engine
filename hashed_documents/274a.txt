@@ -1,0 +1,4 @@
+
+arphad	{"2 Kings_ch_18.docx": [5803], "2 Kings_ch_19.docx": [2122, 2122, 2122], "Isaiah_ch_36.docx": [3264, 3264, 3264], "Isaiah_ch_37.docx": [1929, 1929, 1929]}
+arphad	{"2 Kings_ch_18.docx": [5803], "2 Kings_ch_19.docx": [2122, 2122], "Isaiah_ch_36.docx": [3264, 3264], "Isaiah_ch_37.docx": [1929, 1929]}
+arphad	{"2 Kings_ch_18.docx": [5803], "2 Kings_ch_19.docx": [2122], "Isaiah_ch_36.docx": [3264], "Isaiah_ch_37.docx": [1929]}

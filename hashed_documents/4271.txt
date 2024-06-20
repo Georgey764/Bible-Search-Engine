@@ -1,0 +1,7 @@
+
+kneeli	{"1 Kings_ch_8.docx": [8861], "Matthew_ch_27.docx": [3543, 3543], "Acts_ch_21.docx": [2207, 2207]}
+ginn	{"Nehemiah_ch_10.docx": [292], "Nehemiah_ch_12.docx": [243, 1411, 243, 1411, 243, 1411]}
+kneeli	{"1 Kings_ch_8.docx": [8861], "Matthew_ch_27.docx": [3543], "Acts_ch_21.docx": [2207]}
+ginn	{"Nehemiah_ch_10.docx": [292], "Nehemiah_ch_12.docx": [243, 1411, 243, 1411]}
+kneeli	{"1 Kings_ch_8.docx": [8861], "Matthew_ch_27.docx": [3543], "Acts_ch_21.docx": [2207]}
+ginn	{"Nehemiah_ch_10.docx": [292], "Nehemiah_ch_12.docx": [243, 1411]}

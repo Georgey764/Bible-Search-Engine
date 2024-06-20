@@ -1,0 +1,4 @@
+
+–fo	{"1 Kings_ch_9.docx": [571], "Romans_ch_14.docx": [2335, 2335]}
+–fo	{"1 Kings_ch_9.docx": [571], "Romans_ch_14.docx": [2335]}
+–fo	{"1 Kings_ch_9.docx": [571], "Romans_ch_14.docx": [2335]}

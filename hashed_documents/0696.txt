@@ -1,0 +1,4 @@
+
+paraly	{"Matthew_ch_4.docx": [2999], "Matthew_ch_8.docx": [650, 650, 650], "Matthew_ch_9.docx": [34, 727, 34, 727, 34, 727], "Mark_ch_2.docx": [245, 524, 994, 245, 524, 994], "Luke_ch_5.docx": [3977, 4789, 3977, 4789], "Acts_ch_8.docx": [2122, 2122], "Acts_ch_9.docx": [5378, 5378]}
+paraly	{"Matthew_ch_4.docx": [2999], "Matthew_ch_8.docx": [650, 650], "Matthew_ch_9.docx": [34, 727, 34, 727], "Mark_ch_2.docx": [245, 524, 994], "Luke_ch_5.docx": [3977, 4789], "Acts_ch_8.docx": [2122], "Acts_ch_9.docx": [5378]}
+paraly	{"Matthew_ch_4.docx": [2999], "Matthew_ch_8.docx": [650], "Matthew_ch_9.docx": [34, 727], "Mark_ch_2.docx": [245, 524, 994], "Luke_ch_5.docx": [3977, 4789], "Acts_ch_8.docx": [2122], "Acts_ch_9.docx": [5378]}

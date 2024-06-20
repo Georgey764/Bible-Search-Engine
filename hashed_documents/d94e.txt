@@ -1,0 +1,5 @@
+
+sight!	{"Judges_ch_6.docx": [4666], "Acts_ch_7.docx": [4093, 4093]}
+7‘any	{"Leviticus_ch_15.docx": [812], "Deuteronomy_ch_24.docx": [1060]}
+sight!	{"Judges_ch_6.docx": [4666], "Acts_ch_7.docx": [4093]}
+sight!	{"Judges_ch_6.docx": [4666], "Acts_ch_7.docx": [4093]}

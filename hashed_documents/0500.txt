@@ -1,0 +1,4 @@
+
+alarms	{"Numbers_ch_10.docx": [474, 776, 844, 776, 844, 776, 844], "Judges_ch_7.docx": [4767, 4767, 4767]}
+alarms	{"Numbers_ch_10.docx": [474, 776, 844, 776, 844], "Judges_ch_7.docx": [4767, 4767]}
+alarms	{"Numbers_ch_10.docx": [474, 776, 844], "Judges_ch_7.docx": [4767]}

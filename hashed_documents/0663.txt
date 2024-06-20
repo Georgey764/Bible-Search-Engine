@@ -1,0 +1,2 @@
+
+24for	{"Numbers_ch_24.docx": [3103], "Deuteronomy_ch_4.docx": [3668], "2 Chronicles_ch_24.docx": [4099], "Job_ch_33.docx": [2348], "Psalms_ch_22.docx": [2310], "Proverbs_ch_24.docx": [2310], "Isaiah_ch_5.docx": [3645], "Jeremiah_ch_9.docx": [4239], "Jeremiah_ch_31.docx": [4605], "Amos_ch_5.docx": [4166]}

@@ -1,0 +1,7 @@
+
+amnon’	{"2 Samuel_ch_13.docx": [1626, 2192, 2192, 2192]}
+equit	{"Jeremiah_ch_4.docx": [283]}
+amnon’	{"2 Samuel_ch_13.docx": [1626, 2192, 2192]}
+equit	{"Jeremiah_ch_4.docx": [283]}
+amnon’	{"2 Samuel_ch_13.docx": [1626, 2192]}
+equit	{"Jeremiah_ch_4.docx": [283]}

@@ -1,0 +1,4 @@
+
+suris	{"Numbers_ch_1.docx": [706], "Numbers_ch_7.docx": [4267, 4905, 4267, 4905, 4267, 4905], "Numbers_ch_10.docx": [2176, 2176, 2176]}
+suris	{"Numbers_ch_1.docx": [706], "Numbers_ch_7.docx": [4267, 4905, 4267, 4905], "Numbers_ch_10.docx": [2176, 2176]}
+suris	{"Numbers_ch_1.docx": [706], "Numbers_ch_7.docx": [4267, 4905], "Numbers_ch_10.docx": [2176]}

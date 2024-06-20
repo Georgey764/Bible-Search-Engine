@@ -1,0 +1,4 @@
+
+amenem	{"Genesis_ch_41.docx": [14], "2 Samuel_ch_8.docx": [992, 992, 992]}
+amenem	{"Genesis_ch_41.docx": [14], "2 Samuel_ch_8.docx": [992, 992]}
+amenem	{"Genesis_ch_41.docx": [14], "2 Samuel_ch_8.docx": [992]}

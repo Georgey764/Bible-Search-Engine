@@ -1,0 +1,5 @@
+
+gor	{"Exodus_ch_21.docx": [3355, 3533, 3813, 3833, 4274, 4305, 3533, 3813, 3833, 4274, 4305, 3533, 3813, 3833, 4274, 4305], "2 Chronicles_ch_18.docx": [1762, 1762, 1762], "Psalms_ch_44.docx": [623, 623, 623], "Jeremiah_ch_50.docx": [2185, 2185, 2185], "Ezekiel_ch_32.docx": [330, 330, 330], "Ezekiel_ch_34.docx": [3701, 3701, 3701], "Matthew_ch_7.docx": [754, 754, 754]}
+34aft	{"Genesis_ch_36.docx": [3525], "1 Samuel_ch_15.docx": [5411], "1 Chronicles_ch_27.docx": [4717]}
+gor	{"Exodus_ch_21.docx": [3355, 3533, 3813, 3833, 4274, 4305, 3533, 3813, 3833, 4274, 4305], "2 Chronicles_ch_18.docx": [1762, 1762], "Psalms_ch_44.docx": [623, 623], "Jeremiah_ch_50.docx": [2185, 2185], "Ezekiel_ch_32.docx": [330, 330], "Ezekiel_ch_34.docx": [3701, 3701], "Matthew_ch_7.docx": [754, 754]}
+gor	{"Exodus_ch_21.docx": [3355, 3533, 3813, 3833, 4274, 4305], "2 Chronicles_ch_18.docx": [1762], "Psalms_ch_44.docx": [623], "Jeremiah_ch_50.docx": [2185], "Ezekiel_ch_32.docx": [330], "Ezekiel_ch_34.docx": [3701], "Matthew_ch_7.docx": [754]}

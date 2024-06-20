@@ -1,0 +1,4 @@
+
+slim	{"Genesis_ch_14.docx": [1364], "Psalms_ch_40.docx": [180, 180, 180], "Psalms_ch_69.docx": [183, 183, 183]}
+slim	{"Genesis_ch_14.docx": [1364], "Psalms_ch_40.docx": [180, 180], "Psalms_ch_69.docx": [183, 183]}
+slim	{"Genesis_ch_14.docx": [1364], "Psalms_ch_40.docx": [180], "Psalms_ch_69.docx": [183]}

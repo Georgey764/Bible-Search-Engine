@@ -1,0 +1,5 @@
+
+uncomm	{"Job_ch_9.docx": [2065]}
+uncomm	{"Job_ch_9.docx": [2065]}
+19sh	{"Matthew_ch_22.docx": [2300]}
+uncomm	{"Job_ch_9.docx": [2065]}

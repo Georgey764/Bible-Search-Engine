@@ -1,0 +1,4 @@
+
+needs!	{"Deuteronomy_ch_15.docx": [896]}
+needs!	{"Deuteronomy_ch_15.docx": [896]}
+needs!	{"Deuteronomy_ch_15.docx": [896]}

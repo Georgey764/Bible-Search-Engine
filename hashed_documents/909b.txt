@@ -1,0 +1,7 @@
+
+arc	{"Genesis_ch_10.docx": [1098], "Genesis_ch_21.docx": [2452, 2452, 2452], "Genesis_ch_49.docx": [2755, 2755, 2755], "Joshua_ch_19.docx": [2379, 2379], "1 Kings_ch_7.docx": [348, 348, 348], "1 Chronicles_ch_10.docx": [458, 458, 458], "2 Chronicles_ch_18.docx": [5255, 5255, 5255], "Ezra_ch_4.docx": [1458, 1458, 1458], "Job_ch_9.docx": [741, 741, 741], "Job_ch_22.docx": [1270, 1270, 1270], "Song of Solomon_ch_4.docx": [1134, 1134, 1134], "Matthew_ch_2.docx": [3158, 3158, 3158]}
+chone	{"1 Chronicles_ch_15.docx": [2972, 3749, 3749, 3749], "1 Chronicles_ch_26.docx": [3758, 3758]}
+arc	{"Genesis_ch_10.docx": [1098], "Genesis_ch_21.docx": [2452, 2452], "Genesis_ch_49.docx": [2755, 2755], "1 Kings_ch_7.docx": [348, 348], "1 Chronicles_ch_10.docx": [458, 458], "2 Chronicles_ch_18.docx": [5255, 5255], "Ezra_ch_4.docx": [1458, 1458], "Job_ch_9.docx": [741, 741], "Job_ch_22.docx": [1270, 1270], "Song of Solomon_ch_4.docx": [1134, 1134], "Matthew_ch_2.docx": [3158, 3158], "Joshua_ch_19.docx": [2379]}
+chone	{"1 Chronicles_ch_15.docx": [2972, 3749, 3749], "1 Chronicles_ch_26.docx": [3758]}
+arc	{"Genesis_ch_10.docx": [1098], "Genesis_ch_21.docx": [2452], "Genesis_ch_49.docx": [2755], "Joshua_ch_19.docx": [2379], "1 Kings_ch_7.docx": [348], "1 Chronicles_ch_10.docx": [458], "2 Chronicles_ch_18.docx": [5255], "Ezra_ch_4.docx": [1458], "Job_ch_9.docx": [741], "Job_ch_22.docx": [1270], "Song of Solomon_ch_4.docx": [1134], "Matthew_ch_2.docx": [3158]}
+chone	{"1 Chronicles_ch_15.docx": [2972, 3749], "1 Chronicles_ch_26.docx": [3758]}

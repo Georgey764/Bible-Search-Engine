@@ -1,0 +1,4 @@
+
+ata	{"Numbers_ch_32.docx": [315, 4921, 4921, 4921], "Joshua_ch_16.docx": [507, 681, 507, 681, 507, 681], "1 Chronicles_ch_2.docx": [2439, 4936, 2439, 4936, 2439, 4936], "1 Chronicles_ch_4.docx": [2800, 2800, 2800], "Nehemiah_ch_8.docx": [2225, 2225, 2225]}
+ata	{"Numbers_ch_32.docx": [315, 4921, 4921], "Joshua_ch_16.docx": [507, 681, 507, 681], "1 Chronicles_ch_2.docx": [2439, 4936, 2439, 4936], "1 Chronicles_ch_4.docx": [2800, 2800], "Nehemiah_ch_8.docx": [2225, 2225]}
+ata	{"Numbers_ch_32.docx": [315, 4921], "Joshua_ch_16.docx": [507, 681], "1 Chronicles_ch_2.docx": [2439, 4936], "1 Chronicles_ch_4.docx": [2800], "Nehemiah_ch_8.docx": [2225]}

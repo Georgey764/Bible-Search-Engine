@@ -1,0 +1,5 @@
+
+east;	{"Ezekiel_ch_21.docx": [515]}
+36we	{"Genesis_ch_37.docx": [4849], "Leviticus_ch_8.docx": [4874], "Numbers_ch_22.docx": [5189], "Judges_ch_9.docx": [6638], "1 Samuel_ch_25.docx": [5716], "2 Kings_ch_18.docx": [6196], "Isaiah_ch_37.docx": [5826]}
+east;	{"Ezekiel_ch_21.docx": [515]}
+east;	{"Ezekiel_ch_21.docx": [515]}

@@ -1,0 +1,2 @@
+
+42an	{"Genesis_ch_30.docx": [5161], "Genesis_ch_41.docx": [5224], "Exodus_ch_12.docx": [6534], "Leviticus_ch_14.docx": [6200], "Numbers_ch_32.docx": [5569], "1 Samuel_ch_17.docx": [6358], "1 Samuel_ch_20.docx": [6549], "2 Samuel_ch_19.docx": [6890], "1 Kings_ch_7.docx": [5395], "2 Kings_ch_4.docx": [6659], "1 Chronicles_ch_9.docx": [5673], "Ezekiel_ch_20.docx": [7571], "Daniel_ch_2.docx": [7173], "Matthew_ch_13.docx": [5510], "Matthew_ch_21.docx": [5876]}

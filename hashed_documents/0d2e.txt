@@ -1,0 +1,4 @@
+
+dal	{"Joshua_ch_15.docx": [4838], "2 Samuel_ch_3.docx": [312, 312], "1 Chronicles_ch_3.docx": [2250, 2250, 2250], "1 Chronicles_ch_24.docx": [1883, 1883], "Nehemiah_ch_6.docx": [1490, 1490, 1490], "Nehemiah_ch_7.docx": [3743, 3743, 3743], "Jeremiah_ch_36.docx": [2128, 4040, 2128, 4040, 2128, 4040], "Mark_ch_8.docx": [1136, 1136]}
+dal	{"2 Samuel_ch_3.docx": [312, 312], "1 Chronicles_ch_3.docx": [2250, 2250], "Nehemiah_ch_6.docx": [1490, 1490], "Nehemiah_ch_7.docx": [3743, 3743], "Jeremiah_ch_36.docx": [2128, 4040, 2128, 4040], "1 Chronicles_ch_24.docx": [1883], "Mark_ch_8.docx": [1136]}
+dal	{"Joshua_ch_15.docx": [4838], "2 Samuel_ch_3.docx": [312], "1 Chronicles_ch_3.docx": [2250], "1 Chronicles_ch_24.docx": [1883], "Nehemiah_ch_6.docx": [1490], "Nehemiah_ch_7.docx": [3743], "Jeremiah_ch_36.docx": [2128, 4040], "Mark_ch_8.docx": [1136]}

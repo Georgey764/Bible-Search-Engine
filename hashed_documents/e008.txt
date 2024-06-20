@@ -1,0 +1,5 @@
+
+sanbal	{"Nehemiah_ch_2.docx": [1818, 4993, 4993, 4993], "Nehemiah_ch_4.docx": [6, 1146, 6, 1146, 6, 1146], "Nehemiah_ch_6.docx": [6, 218, 615, 1994, 2248, 6, 218, 615, 1994, 2248, 6, 218, 615, 1994, 2248]}
+3‘fo	{"Leviticus_ch_3.docx": [440], "Deuteronomy_ch_4.docx": [425], "Deuteronomy_ch_8.docx": [398], "Deuteronomy_ch_32.docx": [261], "1 Kings_ch_2.docx": [211], "Isaiah_ch_13.docx": [265], "Isaiah_ch_43.docx": [455], "Isaiah_ch_48.docx": [550], "Jeremiah_ch_31.docx": [277], "Jeremiah_ch_50.docx": [507], "Hosea_ch_9.docx": [342], "Hosea_ch_12.docx": [691]}
+sanbal	{"Nehemiah_ch_2.docx": [1818, 4993, 4993], "Nehemiah_ch_4.docx": [6, 1146, 6, 1146], "Nehemiah_ch_6.docx": [6, 218, 615, 1994, 2248, 6, 218, 615, 1994, 2248]}
+sanbal	{"Nehemiah_ch_2.docx": [1818, 4993], "Nehemiah_ch_4.docx": [6, 1146], "Nehemiah_ch_6.docx": [6, 218, 615, 1994, 2248]}

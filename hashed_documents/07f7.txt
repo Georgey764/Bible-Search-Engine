@@ -1,0 +1,5 @@
+
+feedlo	{"Hosea_ch_4.docx": [2795]}
+5‘ther	{"Deuteronomy_ch_21.docx": [572], "Job_ch_12.docx": [250], "Psalms_ch_87.docx": [454], "Ecclesiastes_ch_3.docx": [370]}
+feedlo	{"Hosea_ch_4.docx": [2795]}
+feedlo	{"Hosea_ch_4.docx": [2795]}

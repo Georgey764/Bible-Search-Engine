@@ -1,0 +1,7 @@
+
+midday	{"1 Kings_ch_18.docx": [4638], "Isaiah_ch_58.docx": [2299, 2299, 2299], "Jeremiah_ch_15.docx": [1920, 1920, 1920], "Amos_ch_8.docx": [1420, 1420, 1420]}
+jet	{"1 Chronicles_ch_11.docx": [6570]}
+midday	{"1 Kings_ch_18.docx": [4638], "Isaiah_ch_58.docx": [2299, 2299], "Jeremiah_ch_15.docx": [1920, 1920], "Amos_ch_8.docx": [1420, 1420]}
+jet	{"1 Chronicles_ch_11.docx": [6570]}
+midday	{"1 Kings_ch_18.docx": [4638], "Isaiah_ch_58.docx": [2299], "Jeremiah_ch_15.docx": [1920], "Amos_ch_8.docx": [1420]}
+jet	{"1 Chronicles_ch_11.docx": [6570]}

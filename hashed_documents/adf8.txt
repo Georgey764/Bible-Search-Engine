@@ -1,0 +1,4 @@
+
+sty	{"Psalms_ch_150.docx": [576], "Jeremiah_ch_17.docx": [96]}
+sty	{"Jeremiah_ch_17.docx": [96]}
+sty	{"Jeremiah_ch_17.docx": [96]}

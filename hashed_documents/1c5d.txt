@@ -1,0 +1,4 @@
+
+castl	{"Proverbs_ch_18.docx": [1668], "Proverbs_ch_30.docx": [2944, 2944, 2944], "Isaiah_ch_24.docx": [3507, 3507, 3507]}
+castl	{"Proverbs_ch_18.docx": [1668], "Proverbs_ch_30.docx": [2944, 2944], "Isaiah_ch_24.docx": [3507, 3507]}
+castl	{"Proverbs_ch_18.docx": [1668], "Proverbs_ch_30.docx": [2944], "Isaiah_ch_24.docx": [3507]}

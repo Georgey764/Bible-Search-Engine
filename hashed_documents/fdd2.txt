@@ -1,0 +1,7 @@
+
+night!	{"Genesis_ch_31.docx": [5997], "Exodus_ch_12.docx": [6377, 6377, 6377], "Numbers_ch_14.docx": [20, 20, 20], "1 Samuel_ch_15.docx": [2371, 2371, 2371], "1 Samuel_ch_19.docx": [3686, 3686, 3686], "Nehemiah_ch_9.docx": [4214, 4214, 4214], "Lamentations_ch_2.docx": [4070, 4070, 4070], "Revelation_ch_12.docx": [1644, 1644]}
+somer	{"2 Kings_ch_12.docx": [3372]}
+night!	{"Genesis_ch_31.docx": [5997], "Exodus_ch_12.docx": [6377, 6377], "Numbers_ch_14.docx": [20, 20], "1 Samuel_ch_15.docx": [2371, 2371], "1 Samuel_ch_19.docx": [3686, 3686], "Nehemiah_ch_9.docx": [4214, 4214], "Lamentations_ch_2.docx": [4070, 4070], "Revelation_ch_12.docx": [1644]}
+somer	{"2 Kings_ch_12.docx": [3372]}
+night!	{"Genesis_ch_31.docx": [5997], "Exodus_ch_12.docx": [6377], "Numbers_ch_14.docx": [20], "1 Samuel_ch_15.docx": [2371], "1 Samuel_ch_19.docx": [3686], "Nehemiah_ch_9.docx": [4214], "Lamentations_ch_2.docx": [4070], "Revelation_ch_12.docx": [1644]}
+somer	{"2 Kings_ch_12.docx": [3372]}

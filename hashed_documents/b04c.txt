@@ -1,0 +1,7 @@
+
+lebna	{"Joshua_ch_10.docx": [11876], "Joshua_ch_12.docx": [14121, 14121, 14121], "Joshua_ch_15.docx": [1730, 5055, 1730, 5055, 1730, 5055]}
+jeet	{"1 Chronicles_ch_6.docx": [3343]}
+lebna	{"Joshua_ch_10.docx": [11876], "Joshua_ch_12.docx": [14121, 14121], "Joshua_ch_15.docx": [1730, 5055, 1730, 5055]}
+jeet	{"1 Chronicles_ch_6.docx": [3343]}
+lebna	{"Joshua_ch_10.docx": [11876], "Joshua_ch_12.docx": [14121], "Joshua_ch_15.docx": [1730, 5055]}
+jeet	{"1 Chronicles_ch_6.docx": [3343]}

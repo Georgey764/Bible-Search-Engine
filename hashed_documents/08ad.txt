@@ -1,0 +1,2 @@
+
+25‘y	{"Genesis_ch_18.docx": [3267], "Exodus_ch_34.docx": [3716], "Leviticus_ch_20.docx": [3764], "Job_ch_5.docx": [2217], "Proverbs_ch_8.docx": [2224], "Jeremiah_ch_23.docx": [4462], "Jeremiah_ch_46.docx": [4000], "Ezekiel_ch_7.docx": [4275], "Ezekiel_ch_27.docx": [3533], "Ezekiel_ch_39.docx": [4395], "Daniel_ch_4.docx": [4595]}

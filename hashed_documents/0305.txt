@@ -1,0 +1,4 @@
+
+agar	{"1 Chronicles_ch_11.docx": [5927], "1 Chronicles_ch_27.docx": [4342, 4342, 4342]}
+agar	{"1 Chronicles_ch_11.docx": [5927], "1 Chronicles_ch_27.docx": [4342, 4342]}
+agar	{"1 Chronicles_ch_11.docx": [5927], "1 Chronicles_ch_27.docx": [4342]}

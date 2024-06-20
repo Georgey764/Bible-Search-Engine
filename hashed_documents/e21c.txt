@@ -1,0 +1,8 @@
+
+flig	{"Leviticus_ch_19.docx": [3572], "Proverbs_ch_30.docx": [2056, 2056, 2056], "Jeremiah_ch_25.docx": [5887, 5887, 5887], "Amos_ch_2.docx": [3603, 3603, 3603]}
+abiel’	{"1 Samuel_ch_14.docx": [8322]}
+flig	{"Leviticus_ch_19.docx": [3572], "Proverbs_ch_30.docx": [2056, 2056], "Jeremiah_ch_25.docx": [5887, 5887], "Amos_ch_2.docx": [3603, 3603]}
+abiel’	{"1 Samuel_ch_14.docx": [8322]}
+62fro	{"Nehemiah_ch_7.docx": [3739]}
+flig	{"Leviticus_ch_19.docx": [3572], "Proverbs_ch_30.docx": [2056], "Jeremiah_ch_25.docx": [5887], "Amos_ch_2.docx": [3603]}
+abiel’	{"1 Samuel_ch_14.docx": [8322]}

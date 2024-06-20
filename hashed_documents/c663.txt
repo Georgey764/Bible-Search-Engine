@@ -1,0 +1,4 @@
+
+gesh	{"1 Samuel_ch_27.docx": [972], "Nehemiah_ch_2.docx": [5004, 5004, 5004], "Nehemiah_ch_6.docx": [8, 220, 783, 8, 220, 783, 8, 220, 783]}
+gesh	{"1 Samuel_ch_27.docx": [972], "Nehemiah_ch_2.docx": [5004, 5004], "Nehemiah_ch_6.docx": [8, 220, 783, 8, 220, 783]}
+gesh	{"1 Samuel_ch_27.docx": [972], "Nehemiah_ch_2.docx": [5004], "Nehemiah_ch_6.docx": [8, 220, 783]}

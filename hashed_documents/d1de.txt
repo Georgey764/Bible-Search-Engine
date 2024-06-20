@@ -1,0 +1,4 @@
+
+nac	{"Genesis_ch_36.docx": [1425, 1920, 1920, 1920], "Joshua_ch_18.docx": [3557, 3557, 3557], "2 Samuel_ch_6.docx": [741, 741, 741], "1 Chronicles_ch_1.docx": [3015, 3015, 3015], "1 Chronicles_ch_11.docx": [5552, 5552, 5552]}
+nac	{"Genesis_ch_36.docx": [1425, 1920, 1920], "Joshua_ch_18.docx": [3557, 3557], "2 Samuel_ch_6.docx": [741, 741], "1 Chronicles_ch_1.docx": [3015, 3015], "1 Chronicles_ch_11.docx": [5552, 5552]}
+nac	{"Genesis_ch_36.docx": [1425, 1920], "Joshua_ch_18.docx": [3557], "2 Samuel_ch_6.docx": [741], "1 Chronicles_ch_1.docx": [3015], "1 Chronicles_ch_11.docx": [5552]}

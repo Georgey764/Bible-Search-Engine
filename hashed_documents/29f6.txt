@@ -1,0 +1,4 @@
+
+marbl	{"Song of Solomon_ch_5.docx": [2506], "Revelation_ch_18.docx": [2012, 2012]}
+marbl	{"Song of Solomon_ch_5.docx": [2506], "Revelation_ch_18.docx": [2012]}
+marbl	{"Song of Solomon_ch_5.docx": [2506], "Revelation_ch_18.docx": [2012]}

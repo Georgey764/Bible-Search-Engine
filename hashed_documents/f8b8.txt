@@ -1,0 +1,4 @@
+
+jadi	{"1 Chronicles_ch_7.docx": [826, 1328, 1466, 1328, 1466, 1328, 1466], "1 Chronicles_ch_26.docx": [217, 217, 217], "1 Chronicles_ch_27.docx": [4272, 4272, 4272]}
+jadi	{"1 Chronicles_ch_7.docx": [826, 1328, 1466, 1328, 1466], "1 Chronicles_ch_26.docx": [217, 217], "1 Chronicles_ch_27.docx": [4272, 4272]}
+jadi	{"1 Chronicles_ch_7.docx": [826, 1328, 1466], "1 Chronicles_ch_26.docx": [217], "1 Chronicles_ch_27.docx": [4272]}

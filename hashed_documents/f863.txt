@@ -1,0 +1,4 @@
+
+tastes	{"Job_ch_34.docx": [127], "Proverbs_ch_27.docx": [575, 575, 575]}
+tastes	{"Job_ch_34.docx": [127], "Proverbs_ch_27.docx": [575, 575]}
+tastes	{"Job_ch_34.docx": [127], "Proverbs_ch_27.docx": [575]}

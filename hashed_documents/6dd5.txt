@@ -1,0 +1,5 @@
+
+mustar	{"Matthew_ch_13.docx": [4130], "Matthew_ch_17.docx": [2296, 2296, 2296], "Mark_ch_4.docx": [3527, 3527], "Luke_ch_13.docx": [2506, 2506], "Luke_ch_17.docx": [683, 683]}
+11na	{"1 Chronicles_ch_2.docx": [1022]}
+mustar	{"Matthew_ch_13.docx": [4130], "Matthew_ch_17.docx": [2296, 2296], "Mark_ch_4.docx": [3527], "Luke_ch_13.docx": [2506], "Luke_ch_17.docx": [683]}
+mustar	{"Matthew_ch_13.docx": [4130], "Matthew_ch_17.docx": [2296], "Mark_ch_4.docx": [3527], "Luke_ch_13.docx": [2506], "Luke_ch_17.docx": [683]}

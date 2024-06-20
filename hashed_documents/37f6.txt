@@ -1,0 +1,2 @@
+
+21in	{"Exodus_ch_27.docx": [2423], "1 Chronicles_ch_11.docx": [3894], "2 Chronicles_ch_31.docx": [3879], "Psalms_ch_34.docx": [1773], "Psalms_ch_71.docx": [2067], "Psalms_ch_102.docx": [1844], "Proverbs_ch_12.docx": [2000]}

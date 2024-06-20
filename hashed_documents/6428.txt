@@ -1,0 +1,4 @@
+
+osi	{"1 Chronicles_ch_8.docx": [489, 742, 742, 742]}
+osi	{"1 Chronicles_ch_8.docx": [489, 742, 742]}
+osi	{"1 Chronicles_ch_8.docx": [489, 742]}

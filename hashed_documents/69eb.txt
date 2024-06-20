@@ -1,0 +1,4 @@
+
+dot	{"Genesis_ch_37.docx": [2232, 2292, 2292, 2292], "2 Kings_ch_6.docx": [1854, 1854, 1854], "Ezekiel_ch_23.docx": [716, 2436, 716, 2436, 716, 2436]}
+dot	{"Genesis_ch_37.docx": [2232, 2292, 2292], "2 Kings_ch_6.docx": [1854, 1854], "Ezekiel_ch_23.docx": [716, 2436, 716, 2436]}
+dot	{"Genesis_ch_37.docx": [2232, 2292], "2 Kings_ch_6.docx": [1854], "Ezekiel_ch_23.docx": [716, 2436]}

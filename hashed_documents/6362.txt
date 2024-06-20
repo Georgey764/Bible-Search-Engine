@@ -1,0 +1,4 @@
+
+histo	{"Exodus_ch_9.docx": [3460], "Daniel_ch_11.docx": [28, 28, 28]}
+histo	{"Exodus_ch_9.docx": [3460], "Daniel_ch_11.docx": [28, 28]}
+histo	{"Exodus_ch_9.docx": [3460], "Daniel_ch_11.docx": [28]}

@@ -1,0 +1,4 @@
+
+faded	{"Job_ch_30.docx": [1631], "Isaiah_ch_28.docx": [52, 52, 52], "John_ch_5.docx": [1779, 1779]}
+faded	{"Job_ch_30.docx": [1631], "Isaiah_ch_28.docx": [52, 52], "John_ch_5.docx": [1779]}
+faded	{"Job_ch_30.docx": [1631], "Isaiah_ch_28.docx": [52], "John_ch_5.docx": [1779]}

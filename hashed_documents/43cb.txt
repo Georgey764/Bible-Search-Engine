@@ -1,0 +1,6 @@
+
+ula	{"Genesis_ch_28.docx": [2724], "1 Chronicles_ch_8.docx": [2740, 2740, 2740], "Daniel_ch_8.docx": [50, 2310, 50, 2310, 50, 2310]}
+upbui	{"Ephesians_ch_4.docx": [3880]}
+ula	{"Genesis_ch_28.docx": [2724], "1 Chronicles_ch_8.docx": [2740, 2740], "Daniel_ch_8.docx": [50, 2310, 50, 2310]}
+ula	{"Genesis_ch_28.docx": [2724], "1 Chronicles_ch_8.docx": [2740], "Daniel_ch_8.docx": [50, 2310]}
+upbui	{"Ephesians_ch_4.docx": [3880]}

@@ -1,0 +1,5 @@
+
+peele	{"Genesis_ch_30.docx": [4519, 4545, 4545, 4545]}
+peele	{"Genesis_ch_30.docx": [4519, 4545, 4545]}
+17all	{"Exodus_ch_26.docx": [1704], "Job_ch_30.docx": [1755]}
+peele	{"Genesis_ch_30.docx": [4519, 4545]}

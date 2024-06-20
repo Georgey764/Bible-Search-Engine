@@ -1,0 +1,6 @@
+
+banner	{"Isaiah_ch_30.docx": [3102], "Jeremiah_ch_51.docx": [4395, 4395, 4395]}
+31hal	{"Joshua_ch_13.docx": [32096]}
+banner	{"Isaiah_ch_30.docx": [3102], "Jeremiah_ch_51.docx": [4395, 4395]}
+60‘you	{"Lamentations_ch_3.docx": [4965]}
+banner	{"Isaiah_ch_30.docx": [3102], "Jeremiah_ch_51.docx": [4395]}

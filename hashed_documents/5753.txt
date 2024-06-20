@@ -1,0 +1,8 @@
+
+ede	{"Genesis_ch_2.docx": [1131, 1463, 1463, 1463], "Genesis_ch_4.docx": [1900, 1900, 1900], "Numbers_ch_26.docx": [4117, 4122, 4117, 4122, 4117, 4122], "2 Kings_ch_19.docx": [2064, 2064, 2064], "2 Kings_ch_22.docx": [35, 35, 35], "1 Chronicles_ch_8.docx": [1133, 1133, 1133], "1 Chronicles_ch_24.docx": [2959, 2959, 2959], "Ezekiel_ch_27.docx": [3336, 3336, 3336], "Ezekiel_ch_32.docx": [5044, 5044, 5044], "Luke_ch_14.docx": [43, 43]}
+iri	{"Jeremiah_ch_37.docx": [1676, 1716, 1716, 1716]}
+ede	{"Genesis_ch_2.docx": [1131, 1463, 1463], "Genesis_ch_4.docx": [1900, 1900], "Numbers_ch_26.docx": [4117, 4122, 4117, 4122], "2 Kings_ch_19.docx": [2064, 2064], "2 Kings_ch_22.docx": [35, 35], "1 Chronicles_ch_8.docx": [1133, 1133], "1 Chronicles_ch_24.docx": [2959, 2959], "Ezekiel_ch_27.docx": [3336, 3336], "Ezekiel_ch_32.docx": [5044, 5044], "Luke_ch_14.docx": [43]}
+35how	{"Genesis_ch_30.docx": [4213], "Deuteronomy_ch_2.docx": [4780], "2 Kings_ch_9.docx": [6768], "2 Kings_ch_15.docx": [5098], "2 Chronicles_ch_20.docx": [5975]}
+iri	{"Jeremiah_ch_37.docx": [1676, 1716, 1716]}
+ede	{"Genesis_ch_2.docx": [1131, 1463], "Genesis_ch_4.docx": [1900], "Numbers_ch_26.docx": [4117, 4122], "2 Kings_ch_19.docx": [2064], "2 Kings_ch_22.docx": [35], "1 Chronicles_ch_8.docx": [1133], "1 Chronicles_ch_24.docx": [2959], "Ezekiel_ch_27.docx": [3336], "Ezekiel_ch_32.docx": [5044], "Luke_ch_14.docx": [43]}
+iri	{"Jeremiah_ch_37.docx": [1676, 1716]}

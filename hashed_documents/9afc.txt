@@ -1,0 +1,5 @@
+
+overfl	{"Joshua_ch_4.docx": [2453], "Job_ch_22.docx": [1444, 1444, 1444], "Psalms_ch_144.docx": [1386, 1386, 1386], "Proverbs_ch_5.docx": [1345, 1345, 1345], "Joel_ch_2.docx": [4410, 4410, 4410], "Luke_ch_6.docx": [4905, 4905], "2 Corinthians_ch_7.docx": [480, 480], "Colossians_ch_2.docx": [1489, 1489], "2 Peter_ch_1.docx": [1210, 1210]}
+overfl	{"Joshua_ch_4.docx": [2453], "Job_ch_22.docx": [1444, 1444], "Psalms_ch_144.docx": [1386, 1386], "Proverbs_ch_5.docx": [1345, 1345], "Joel_ch_2.docx": [4410, 4410], "Luke_ch_6.docx": [4905], "2 Corinthians_ch_7.docx": [480], "Colossians_ch_2.docx": [1489], "2 Peter_ch_1.docx": [1210]}
+10‘woe	{"Isaiah_ch_45.docx": [1748]}
+overfl	{"Joshua_ch_4.docx": [2453], "Job_ch_22.docx": [1444], "Psalms_ch_144.docx": [1386], "Proverbs_ch_5.docx": [1345], "Joel_ch_2.docx": [4410], "Luke_ch_6.docx": [4905], "2 Corinthians_ch_7.docx": [480], "Colossians_ch_2.docx": [1489], "2 Peter_ch_1.docx": [1210]}

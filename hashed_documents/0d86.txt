@@ -1,0 +1,4 @@
+
+confli	{"Jeremiah_ch_4.docx": [3608], "Amos_ch_5.docx": [1792, 1792, 1792], "Micah_ch_2.docx": [1493, 1493, 1493], "2 Corinthians_ch_7.docx": [719, 719]}
+confli	{"Jeremiah_ch_4.docx": [3608], "Amos_ch_5.docx": [1792, 1792], "Micah_ch_2.docx": [1493, 1493], "2 Corinthians_ch_7.docx": [719]}
+confli	{"Jeremiah_ch_4.docx": [3608], "Amos_ch_5.docx": [1792], "Micah_ch_2.docx": [1493], "2 Corinthians_ch_7.docx": [719]}

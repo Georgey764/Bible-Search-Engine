@@ -1,0 +1,4 @@
+
+basem	{"Genesis_ch_26.docx": [4780], "Genesis_ch_36.docx": [273, 339, 1045, 1375, 1995, 339, 1045, 1375, 1995, 273, 339, 1045, 1375, 1995], "1 Kings_ch_4.docx": [1642, 1642, 1642]}
+basem	{"Genesis_ch_26.docx": [4780], "Genesis_ch_36.docx": [339, 1045, 1375, 1995, 273, 339, 1045, 1375, 1995], "1 Kings_ch_4.docx": [1642, 1642]}
+basem	{"Genesis_ch_26.docx": [4780], "Genesis_ch_36.docx": [273, 339, 1045, 1375, 1995], "1 Kings_ch_4.docx": [1642]}

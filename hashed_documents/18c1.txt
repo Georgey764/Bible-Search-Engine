@@ -1,0 +1,6 @@
+
+keroe	{"Joshua_ch_19.docx": [3141]}
+zet	{"1 Chronicles_ch_23.docx": [901], "Esther_ch_1.docx": [1895, 1895, 1895]}
+zet	{"1 Chronicles_ch_23.docx": [901], "Esther_ch_1.docx": [1895, 1895]}
+keroe	{"Joshua_ch_19.docx": [3141]}
+zet	{"1 Chronicles_ch_23.docx": [901], "Esther_ch_1.docx": [1895]}

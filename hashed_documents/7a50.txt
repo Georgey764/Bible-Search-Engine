@@ -1,0 +1,6 @@
+
+carves	{"Deuteronomy_ch_27.docx": [1992], "Job_ch_24.docx": [1626, 1626, 1626], "Isaiah_ch_44.docx": [2548, 2803, 2548, 2803, 2548, 2803]}
+6-i	{"Exodus_ch_25.docx": [2806]}
+carves	{"Deuteronomy_ch_27.docx": [1992], "Job_ch_24.docx": [1626, 1626], "Isaiah_ch_44.docx": [2548, 2803, 2548, 2803]}
+19‘yet	{"1 Samuel_ch_10.docx": [3268], "1 Chronicles_ch_16.docx": [2044], "Matthew_ch_12.docx": [2114]}
+carves	{"Deuteronomy_ch_27.docx": [1992], "Job_ch_24.docx": [1626], "Isaiah_ch_44.docx": [2548, 2803]}

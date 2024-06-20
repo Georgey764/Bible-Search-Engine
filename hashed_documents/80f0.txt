@@ -1,0 +1,2 @@
+
+18‘an	{"Exodus_ch_3.docx": [3131], "Exodus_ch_23.docx": [2278], "Leviticus_ch_7.docx": [2402], "Leviticus_ch_13.docx": [2495], "Leviticus_ch_14.docx": [2740], "Leviticus_ch_20.docx": [2594], "Leviticus_ch_23.docx": [2433], "Leviticus_ch_26.docx": [2325], "Deuteronomy_ch_1.docx": [2531], "Deuteronomy_ch_17.docx": [2947], "2 Kings_ch_3.docx": [2665], "Jeremiah_ch_3.docx": [3329], "Jeremiah_ch_5.docx": [3216], "Jeremiah_ch_33.docx": [3290], "Ezekiel_ch_38.docx": [3508], "Hosea_ch_2.docx": [2998]}

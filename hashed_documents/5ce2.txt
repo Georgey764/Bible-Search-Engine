@@ -1,0 +1,4 @@
+
+love.f	{"Ephesians_ch_4.docx": [2084]}
+3your	{"Deuteronomy_ch_28.docx": [356], "Psalms_ch_128.docx": [244], "Isaiah_ch_33.docx": [445]}
+love.f	{"Ephesians_ch_4.docx": [2084]}

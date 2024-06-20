@@ -1,0 +1,4 @@
+
+repha	{"2 Samuel_ch_23.docx": [2219], "1 Chronicles_ch_4.docx": [1316, 1316, 1316], "Nehemiah_ch_3.docx": [3413, 3413, 3413], "Acts_ch_7.docx": [6420, 6420]}
+repha	{"2 Samuel_ch_23.docx": [2219], "1 Chronicles_ch_4.docx": [1316, 1316], "Nehemiah_ch_3.docx": [3413, 3413], "Acts_ch_7.docx": [6420]}
+repha	{"2 Samuel_ch_23.docx": [2219], "1 Chronicles_ch_4.docx": [1316], "Nehemiah_ch_3.docx": [3413], "Acts_ch_7.docx": [6420]}

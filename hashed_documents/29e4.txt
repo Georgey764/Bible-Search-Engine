@@ -1,0 +1,4 @@
+
+relief	{"Exodus_ch_8.docx": [2069], "1 Kings_ch_10.docx": [2950, 2950, 2950], "Acts_ch_11.docx": [7853, 7872, 7892, 7853, 7872, 7892], "Acts_ch_12.docx": [5201, 5213, 5226, 5243, 5261, 5201, 5213, 5226, 5243, 5261], "2 Corinthians_ch_7.docx": [706, 706]}
+relief	{"Exodus_ch_8.docx": [2069], "1 Kings_ch_10.docx": [2950, 2950], "Acts_ch_11.docx": [7853, 7872, 7892], "Acts_ch_12.docx": [5201, 5213, 5226, 5243, 5261], "2 Corinthians_ch_7.docx": [706]}
+relief	{"Exodus_ch_8.docx": [2069], "1 Kings_ch_10.docx": [2950], "Acts_ch_11.docx": [7853, 7872, 7892], "Acts_ch_12.docx": [5201, 5213, 5226, 5243, 5261], "2 Corinthians_ch_7.docx": [706]}

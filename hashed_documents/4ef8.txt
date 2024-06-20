@@ -1,0 +1,4 @@
+
+paths!	{"Psalms_ch_25.docx": [347], "Proverbs_ch_1.docx": [1590, 1590, 1590], "Micah_ch_4.docx": [386, 386, 386]}
+paths!	{"Psalms_ch_25.docx": [347], "Proverbs_ch_1.docx": [1590, 1590], "Micah_ch_4.docx": [386, 386]}
+paths!	{"Psalms_ch_25.docx": [347], "Proverbs_ch_1.docx": [1590], "Micah_ch_4.docx": [386]}

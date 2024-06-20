@@ -1,0 +1,5 @@
+
+amisa	{"Numbers_ch_1.docx": [1120], "Numbers_ch_7.docx": [7700, 8340, 7700, 8340, 7700, 8340], "Numbers_ch_10.docx": [2832, 2832, 2832]}
+amisa	{"Numbers_ch_1.docx": [1120], "Numbers_ch_7.docx": [7700, 8340, 7700, 8340], "Numbers_ch_10.docx": [2832, 2832]}
+20[‘a	{"Deuteronomy_ch_27.docx": [2850]}
+amisa	{"Numbers_ch_1.docx": [1120], "Numbers_ch_7.docx": [7700, 8340], "Numbers_ch_10.docx": [2832]}

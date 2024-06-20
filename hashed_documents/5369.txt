@@ -1,0 +1,8 @@
+
+susi	{"Numbers_ch_13.docx": [811], "Joshua_ch_15.docx": [2272, 2272, 2272]}
+entic	{"Proverbs_ch_6.docx": [2588], "Proverbs_ch_7.docx": [949, 949, 949]}
+susi	{"Numbers_ch_13.docx": [811], "Joshua_ch_15.docx": [2272, 2272]}
+entic	{"Proverbs_ch_6.docx": [2588], "Proverbs_ch_7.docx": [949, 949]}
+4‘who	{"Ezekiel_ch_46.docx": [751]}
+susi	{"Numbers_ch_13.docx": [811], "Joshua_ch_15.docx": [2272]}
+entic	{"Proverbs_ch_6.docx": [2588], "Proverbs_ch_7.docx": [949]}

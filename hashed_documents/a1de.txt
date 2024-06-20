@@ -1,0 +1,4 @@
+
+achiez	{"Numbers_ch_1.docx": [1117], "Numbers_ch_7.docx": [7697, 8337, 7697, 8337, 7697, 8337], "Numbers_ch_10.docx": [2829, 2829, 2829], "Numbers_ch_26.docx": [3537, 3542, 3537, 3542, 3537, 3542]}
+achiez	{"Numbers_ch_1.docx": [1117], "Numbers_ch_7.docx": [7697, 8337, 7697, 8337], "Numbers_ch_10.docx": [2829, 2829], "Numbers_ch_26.docx": [3537, 3542, 3537, 3542]}
+achiez	{"Numbers_ch_1.docx": [1117], "Numbers_ch_7.docx": [7697, 8337], "Numbers_ch_10.docx": [2829], "Numbers_ch_26.docx": [3537, 3542]}

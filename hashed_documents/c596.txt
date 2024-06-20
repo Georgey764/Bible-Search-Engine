@@ -1,0 +1,5 @@
+
+jeshs	{"1 Samuel_ch_26.docx": [111, 205, 205, 205]}
+jeshs	{"1 Samuel_ch_26.docx": [111, 205, 205]}
+8alth	{"Job_ch_14.docx": [780], "Psalms_ch_64.docx": [824]}
+jeshs	{"1 Samuel_ch_26.docx": [111, 205]}

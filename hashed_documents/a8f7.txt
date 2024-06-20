@@ -1,0 +1,3 @@
+
+4‘he	{"Leviticus_ch_1.docx": [590], "Leviticus_ch_4.docx": [441], "Leviticus_ch_16.docx": [512], "Leviticus_ch_23.docx": [426], "Deuteronomy_ch_5.docx": [375], "Joshua_ch_20.docx": [378], "1 Samuel_ch_2.docx": [589], "2 Samuel_ch_22.docx": [282]}
+40-	{"2 Samuel_ch_2.docx": [1422]}

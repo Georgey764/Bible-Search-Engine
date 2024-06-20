@@ -1,0 +1,6 @@
+
+machin	{"2 Chronicles_ch_26.docx": [2086, 2109, 2109, 2109]}
+19af	{"Genesis_ch_11.docx": [2283]}
+machin	{"2 Chronicles_ch_26.docx": [2086, 2109, 2109]}
+19whil	{"Proverbs_ch_4.docx": [1774]}
+machin	{"2 Chronicles_ch_26.docx": [2086, 2109]}

@@ -1,0 +1,4 @@
+
+sealin	{"Matthew_ch_27.docx": [7805]}
+20‘it	{"Deuteronomy_ch_2.docx": [2574], "Jeremiah_ch_7.docx": [3034]}
+sealin	{"Matthew_ch_27.docx": [7805]}

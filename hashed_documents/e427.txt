@@ -1,0 +1,7 @@
+
+chalka	{"1 Kings_ch_4.docx": [3502]}
+navi	{"Ezekiel_ch_27.docx": [1002, 3871, 4127, 3871, 4127, 3871, 4127], "Acts_ch_27.docx": [1129, 1265, 1129, 1265]}
+chalka	{"1 Kings_ch_4.docx": [3502]}
+navi	{"Ezekiel_ch_27.docx": [1002, 3871, 4127, 3871, 4127], "Acts_ch_27.docx": [1129, 1265]}
+chalka	{"1 Kings_ch_4.docx": [3502]}
+navi	{"Ezekiel_ch_27.docx": [1002, 3871, 4127], "Acts_ch_27.docx": [1129, 1265]}

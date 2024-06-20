@@ -1,0 +1,5 @@
+
+tita	{"2 Samuel_ch_5.docx": [2447, 3280, 3280, 3280]}
+8mu	{"Deuteronomy_ch_18.docx": [901]}
+tita	{"2 Samuel_ch_5.docx": [2447, 3280, 3280]}
+tita	{"2 Samuel_ch_5.docx": [2447, 3280]}

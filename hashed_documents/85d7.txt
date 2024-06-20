@@ -1,0 +1,4 @@
+
+bases;	{"Exodus_ch_38.docx": [1249, 1390, 1390, 1390]}
+bases;	{"Exodus_ch_38.docx": [1249, 1390, 1390]}
+bases;	{"Exodus_ch_38.docx": [1249, 1390]}

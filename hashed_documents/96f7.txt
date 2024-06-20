@@ -1,0 +1,4 @@
+
+chelca	{"Joshua_ch_16.docx": [701], "Joshua_ch_21.docx": [3776, 3776]}
+chelca	{"Joshua_ch_16.docx": [701], "Joshua_ch_21.docx": [3776]}
+chelca	{"Joshua_ch_16.docx": [701], "Joshua_ch_21.docx": [3776]}

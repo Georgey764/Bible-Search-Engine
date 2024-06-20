@@ -1,0 +1,7 @@
+
+flees	{"Deuteronomy_ch_19.docx": [1731]}
+shaw	{"Joshua_ch_7.docx": [3873, 3901, 4070, 3901, 4070, 3901, 4070]}
+flees	{"Deuteronomy_ch_19.docx": [1731]}
+shaw	{"Joshua_ch_7.docx": [3873, 3901, 4070, 3901, 4070]}
+flees	{"Deuteronomy_ch_19.docx": [1731]}
+shaw	{"Joshua_ch_7.docx": [3873, 3901, 4070]}

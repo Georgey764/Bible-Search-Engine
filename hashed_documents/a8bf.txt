@@ -1,0 +1,11 @@
+
+sickne	{"Deuteronomy_ch_28.docx": [8611], "Ecclesiastes_ch_6.docx": [334, 334, 334], "John_ch_11.docx": [588, 588]}
+west<	{"Joshua_ch_11.docx": [7007, 7036, 7069, 7036, 7069, 7036, 7069]}
+jeel	{"1 Chronicles_ch_8.docx": [1825], "1 Chronicles_ch_9.docx": [695, 5072, 695, 5072, 695, 5072], "1 Chronicles_ch_27.docx": [4570, 4570, 4570]}
+38‘sp	{"Numbers_ch_15.docx": [4755]}
+sickne	{"Deuteronomy_ch_28.docx": [8611], "Ecclesiastes_ch_6.docx": [334, 334], "John_ch_11.docx": [588]}
+west<	{"Joshua_ch_11.docx": [7007, 7036, 7069, 7036, 7069]}
+jeel	{"1 Chronicles_ch_8.docx": [1825], "1 Chronicles_ch_9.docx": [695, 5072, 695, 5072], "1 Chronicles_ch_27.docx": [4570, 4570]}
+sickne	{"Deuteronomy_ch_28.docx": [8611], "Ecclesiastes_ch_6.docx": [334], "John_ch_11.docx": [588]}
+west<	{"Joshua_ch_11.docx": [7007, 7036, 7069]}
+jeel	{"1 Chronicles_ch_8.docx": [1825], "1 Chronicles_ch_9.docx": [695, 5072], "1 Chronicles_ch_27.docx": [4570]}

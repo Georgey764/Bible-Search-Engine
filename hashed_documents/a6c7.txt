@@ -1,0 +1,8 @@
+
+gin	{"1 Kings_ch_16.docx": [3402], "Nehemiah_ch_10.docx": [292, 292, 292], "Nehemiah_ch_12.docx": [243, 1411, 243, 1411, 243, 1411]}
+ouram	{"1 Chronicles_ch_8.docx": [280]}
+34whe	{"Numbers_ch_33.docx": [2510]}
+gin	{"1 Kings_ch_16.docx": [3402], "Nehemiah_ch_10.docx": [292, 292], "Nehemiah_ch_12.docx": [243, 1411, 243, 1411]}
+ouram	{"1 Chronicles_ch_8.docx": [280]}
+gin	{"1 Kings_ch_16.docx": [3402], "Nehemiah_ch_10.docx": [292], "Nehemiah_ch_12.docx": [243, 1411]}
+ouram	{"1 Chronicles_ch_8.docx": [280]}

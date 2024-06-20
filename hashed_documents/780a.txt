@@ -1,0 +1,4 @@
+
+magedi	{"Genesis_ch_36.docx": [4400], "1 Chronicles_ch_1.docx": [4539, 4539, 4539]}
+magedi	{"Genesis_ch_36.docx": [4400], "1 Chronicles_ch_1.docx": [4539, 4539]}
+magedi	{"Genesis_ch_36.docx": [4400], "1 Chronicles_ch_1.docx": [4539]}

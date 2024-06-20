@@ -1,0 +1,5 @@
+
+mosoc	{"Genesis_ch_10.docx": [285, 2653, 2653, 2653], "Ezekiel_ch_32.docx": [4282, 4282, 4282], "Ezekiel_ch_38.docx": [127, 271, 127, 271, 127, 271], "Ezekiel_ch_39.docx": [164, 164, 164]}
+mosoc	{"Genesis_ch_10.docx": [285, 2653, 2653], "Ezekiel_ch_32.docx": [4282, 4282], "Ezekiel_ch_38.docx": [127, 271, 127, 271], "Ezekiel_ch_39.docx": [164, 164]}
+15aft	{"2 Kings_ch_23.docx": [3658]}
+mosoc	{"Genesis_ch_10.docx": [285, 2653], "Ezekiel_ch_32.docx": [4282], "Ezekiel_ch_38.docx": [127, 271], "Ezekiel_ch_39.docx": [164]}

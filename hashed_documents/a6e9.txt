@@ -1,0 +1,6 @@
+
+rabbat	{"2 Samuel_ch_17.docx": [4321]}
+2{look	{"Genesis_ch_29.docx": [191], "Psalms_ch_11.docx": [173], "Isaiah_ch_60.docx": [173], "Ezekiel_ch_9.docx": [138], "Matthew_ch_8.docx": [21]}
+17z	{"2 Samuel_ch_8.docx": [2546]}
+rabbat	{"2 Samuel_ch_17.docx": [4321]}
+rabbat	{"2 Samuel_ch_17.docx": [4321]}

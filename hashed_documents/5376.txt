@@ -1,0 +1,3 @@
+
+freema	{"Galatians_ch_3.docx": [4149], "Colossians_ch_3.docx": [1109, 1109]}
+freema	{"Galatians_ch_3.docx": [4149], "Colossians_ch_3.docx": [1109]}

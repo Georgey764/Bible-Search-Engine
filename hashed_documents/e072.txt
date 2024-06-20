@@ -1,0 +1,4 @@
+
+agon	{"2 Chronicles_ch_21.docx": [2833], "Luke_ch_22.docx": [4982, 4982], "Revelation_ch_12.docx": [215, 215]}
+agon	{"2 Chronicles_ch_21.docx": [2833], "Luke_ch_22.docx": [4982], "Revelation_ch_12.docx": [215]}
+agon	{"2 Chronicles_ch_21.docx": [2833], "Luke_ch_22.docx": [4982], "Revelation_ch_12.docx": [215]}

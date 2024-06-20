@@ -1,0 +1,4 @@
+
+masuru	{"Numbers_ch_33.docx": [2310, 2349, 2349, 2349]}
+masuru	{"Numbers_ch_33.docx": [2310, 2349, 2349]}
+masuru	{"Numbers_ch_33.docx": [2310, 2349]}

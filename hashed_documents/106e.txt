@@ -1,0 +1,7 @@
+
+nachet	{"1 Chronicles_ch_1.docx": [3015]}
+who’r	{"Proverbs_ch_21.docx": [496], "Isaiah_ch_9.docx": [489, 489, 489], "Jeremiah_ch_7.docx": [2952, 2952, 2952], "Ezekiel_ch_2.docx": [304, 304, 304], "Ezekiel_ch_33.docx": [1727, 1727, 1727], "Malachi_ch_3.docx": [1113, 1113, 1113]}
+nachet	{"1 Chronicles_ch_1.docx": [3015]}
+who’r	{"Proverbs_ch_21.docx": [496], "Isaiah_ch_9.docx": [489, 489], "Jeremiah_ch_7.docx": [2952, 2952], "Ezekiel_ch_2.docx": [304, 304], "Ezekiel_ch_33.docx": [1727, 1727], "Malachi_ch_3.docx": [1113, 1113]}
+nachet	{"1 Chronicles_ch_1.docx": [3015]}
+who’r	{"Proverbs_ch_21.docx": [496], "Isaiah_ch_9.docx": [489], "Jeremiah_ch_7.docx": [2952], "Ezekiel_ch_2.docx": [304], "Ezekiel_ch_33.docx": [1727], "Malachi_ch_3.docx": [1113]}

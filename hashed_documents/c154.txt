@@ -1,0 +1,4 @@
+
+hardhe	{"Exodus_ch_7.docx": [283], "1 Samuel_ch_25.docx": [379, 379, 379], "Psalms_ch_4.docx": [177, 177, 177], "Matthew_ch_19.docx": [791, 791, 791], "Mark_ch_10.docx": [496, 496]}
+hardhe	{"Exodus_ch_7.docx": [283], "1 Samuel_ch_25.docx": [379, 379], "Psalms_ch_4.docx": [177, 177], "Matthew_ch_19.docx": [791, 791], "Mark_ch_10.docx": [496]}
+hardhe	{"Exodus_ch_7.docx": [283], "1 Samuel_ch_25.docx": [379], "Psalms_ch_4.docx": [177], "Matthew_ch_19.docx": [791], "Mark_ch_10.docx": [496]}

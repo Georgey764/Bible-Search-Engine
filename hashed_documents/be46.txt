@@ -1,0 +1,7 @@
+
+jesbi	{"2 Samuel_ch_21.docx": [3220]}
+emisou	{"1 Chronicles_ch_4.docx": [3528]}
+jesbi	{"2 Samuel_ch_21.docx": [3220]}
+emisou	{"1 Chronicles_ch_4.docx": [3528]}
+jesbi	{"2 Samuel_ch_21.docx": [3220]}
+emisou	{"1 Chronicles_ch_4.docx": [3528]}

@@ -1,0 +1,4 @@
+
+furnit	{"Leviticus_ch_8.docx": [1163], "Leviticus_ch_14.docx": [5473, 5494, 5473, 5494, 5473, 5494], "Numbers_ch_19.docx": [2337, 2337, 2337]}
+furnit	{"Leviticus_ch_8.docx": [1163], "Leviticus_ch_14.docx": [5473, 5494, 5473, 5494], "Numbers_ch_19.docx": [2337, 2337]}
+furnit	{"Leviticus_ch_8.docx": [1163], "Leviticus_ch_14.docx": [5473, 5494], "Numbers_ch_19.docx": [2337]}

@@ -1,0 +1,6 @@
+
+torch	{"Judges_ch_7.docx": [3916, 3925, 4541, 3925, 4541, 3925, 4541], "Judges_ch_15.docx": [510, 518, 510, 518, 510, 518], "Proverbs_ch_20.docx": [1326, 1326, 1326], "Proverbs_ch_21.docx": [401, 401, 401], "Proverbs_ch_24.docx": [1947, 1947, 1947], "Isaiah_ch_47.docx": [2535, 2535, 2535], "Zechariah_ch_12.docx": [1093, 1093, 1093], "John_ch_18.docx": [166, 166]}
+9many	{"Joshua_ch_16.docx": [987]}
+torch	{"Judges_ch_7.docx": [3916, 3925, 4541, 3925, 4541], "Judges_ch_15.docx": [510, 518, 510, 518], "Proverbs_ch_20.docx": [1326, 1326], "Proverbs_ch_21.docx": [401, 401], "Proverbs_ch_24.docx": [1947, 1947], "Isaiah_ch_47.docx": [2535, 2535], "Zechariah_ch_12.docx": [1093, 1093], "John_ch_18.docx": [166]}
+10‘thu	{"Malachi_ch_1.docx": [2009]}
+torch	{"Judges_ch_7.docx": [3916, 3925, 4541], "Judges_ch_15.docx": [510, 518], "Proverbs_ch_20.docx": [1326], "Proverbs_ch_21.docx": [401], "Proverbs_ch_24.docx": [1947], "Isaiah_ch_47.docx": [2535], "Zechariah_ch_12.docx": [1093], "John_ch_18.docx": [166]}

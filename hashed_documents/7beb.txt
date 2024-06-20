@@ -1,0 +1,4 @@
+
+31‘and	{"Exodus_ch_28.docx": [4030], "1 Kings_ch_8.docx": [4697], "Ezekiel_ch_44.docx": [5876], "Matthew_ch_12.docx": [3569]}
+44b	{"Leviticus_ch_26.docx": [5947], "Numbers_ch_26.docx": [4538]}
+9uzzi	{"Matthew_ch_1.docx": [694]}

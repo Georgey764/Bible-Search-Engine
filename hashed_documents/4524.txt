@@ -1,0 +1,5 @@
+
+rocks!	{"Numbers_ch_15.docx": [4437], "Psalms_ch_137.docx": [979, 979, 979], "Jeremiah_ch_13.docx": [477, 477, 477]}
+43a	{"Genesis_ch_30.docx": [5184], "Exodus_ch_28.docx": [5462], "Exodus_ch_39.docx": [5039], "Numbers_ch_3.docx": [5221], "Numbers_ch_26.docx": [4457], "Numbers_ch_33.docx": [3221], "Joshua_ch_21.docx": [5796], "1 Kings_ch_1.docx": [6123], "1 Kings_ch_11.docx": [6583], "1 Chronicles_ch_9.docx": [5793], "1 Chronicles_ch_16.docx": [4858], "Psalms_ch_78.docx": [4220], "Psalms_ch_106.docx": [3895]}
+rocks!	{"Numbers_ch_15.docx": [4437], "Psalms_ch_137.docx": [979, 979], "Jeremiah_ch_13.docx": [477, 477]}
+rocks!	{"Numbers_ch_15.docx": [4437], "Psalms_ch_137.docx": [979], "Jeremiah_ch_13.docx": [477]}

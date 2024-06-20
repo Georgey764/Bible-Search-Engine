@@ -1,0 +1,4 @@
+
+awaiti	{"Genesis_ch_49.docx": [1364], "Ezra_ch_5.docx": [694, 694, 694], "Job_ch_7.docx": [227, 227, 227], "Job_ch_32.docx": [1964, 1964, 1964], "Isaiah_ch_59.docx": [1398, 1398, 1398], "Acts_ch_20.docx": [8033, 8033], "Romans_ch_8.docx": [2466, 2466], "Galatians_ch_5.docx": [607, 607], "1 Thessalonians_ch_1.docx": [1278, 1278], "2 Peter_ch_2.docx": [588, 588]}
+awaiti	{"Genesis_ch_49.docx": [1364], "Ezra_ch_5.docx": [694, 694], "Job_ch_7.docx": [227, 227], "Job_ch_32.docx": [1964, 1964], "Isaiah_ch_59.docx": [1398, 1398], "Acts_ch_20.docx": [8033], "Romans_ch_8.docx": [2466], "Galatians_ch_5.docx": [607], "1 Thessalonians_ch_1.docx": [1278], "2 Peter_ch_2.docx": [588]}
+awaiti	{"Genesis_ch_49.docx": [1364], "Ezra_ch_5.docx": [694], "Job_ch_7.docx": [227], "Job_ch_32.docx": [1964], "Isaiah_ch_59.docx": [1398], "Acts_ch_20.docx": [8033], "Romans_ch_8.docx": [2466], "Galatians_ch_5.docx": [607], "1 Thessalonians_ch_1.docx": [1278], "2 Peter_ch_2.docx": [588]}

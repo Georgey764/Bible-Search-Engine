@@ -1,0 +1,4 @@
+
+eig	{"Ecclesiastes_ch_11.docx": [115], "Micah_ch_5.docx": [1526, 1526, 1526], "Luke_ch_2.docx": [3905, 3905], "Luke_ch_9.docx": [3966, 3966]}
+eig	{"Ecclesiastes_ch_11.docx": [115], "Micah_ch_5.docx": [1526, 1526], "Luke_ch_2.docx": [3905], "Luke_ch_9.docx": [3966]}
+eig	{"Ecclesiastes_ch_11.docx": [115], "Micah_ch_5.docx": [1526], "Luke_ch_2.docx": [3905], "Luke_ch_9.docx": [3966]}

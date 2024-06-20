@@ -1,0 +1,5 @@
+
+brief	{"Joshua_ch_15.docx": [3069], "Psalms_ch_90.docx": [918, 918, 918], "Acts_ch_24.docx": [447, 447], "Ephesians_ch_3.docx": [176, 176], "Hebrews_ch_12.docx": [1732, 1757, 1732, 1757]}
+brief	{"Joshua_ch_15.docx": [3069], "Psalms_ch_90.docx": [918, 918], "Acts_ch_24.docx": [447], "Ephesians_ch_3.docx": [176], "Hebrews_ch_12.docx": [1732, 1757]}
+36b	{"Judges_ch_11.docx": [8462], "2 Kings_ch_10.docx": [6658], "Psalms_ch_78.docx": [3556], "Psalms_ch_106.docx": [3299], "Proverbs_ch_8.docx": [3367], "Lamentations_ch_3.docx": [2925]}
+brief	{"Joshua_ch_15.docx": [3069], "Psalms_ch_90.docx": [918], "Acts_ch_24.docx": [447], "Ephesians_ch_3.docx": [176], "Hebrews_ch_12.docx": [1732, 1757]}

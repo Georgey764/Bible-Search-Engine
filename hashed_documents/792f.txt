@@ -1,0 +1,4 @@
+
+fatt	{"Psalms_ch_20.docx": [280], "Proverbs_ch_5.docx": [267, 267, 267], "Hosea_ch_4.docx": [2789, 2789, 2789], "Habakkuk_ch_1.docx": [2848, 2848, 2848], "Matthew_ch_22.docx": [390, 390, 390], "Luke_ch_15.docx": [2965, 3536, 2965, 3536], "Revelation_ch_18.docx": [2525, 2525]}
+fatt	{"Psalms_ch_20.docx": [280], "Proverbs_ch_5.docx": [267, 267], "Hosea_ch_4.docx": [2789, 2789], "Habakkuk_ch_1.docx": [2848, 2848], "Matthew_ch_22.docx": [390, 390], "Luke_ch_15.docx": [2965, 3536], "Revelation_ch_18.docx": [2525]}
+fatt	{"Psalms_ch_20.docx": [280], "Proverbs_ch_5.docx": [267], "Hosea_ch_4.docx": [2789], "Habakkuk_ch_1.docx": [2848], "Matthew_ch_22.docx": [390], "Luke_ch_15.docx": [2965, 3536], "Revelation_ch_18.docx": [2525]}

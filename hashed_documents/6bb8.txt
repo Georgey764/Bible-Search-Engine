@@ -1,0 +1,5 @@
+
+swayed	{"2 Chronicles_ch_19.docx": [957], "Job_ch_31.docx": [3055, 3055, 3055], "Micah_ch_6.docx": [1595, 1595, 1595], "Luke_ch_20.docx": [2832, 2832]}
+swayed	{"2 Chronicles_ch_19.docx": [957], "Job_ch_31.docx": [3055, 3055], "Micah_ch_6.docx": [1595, 1595], "Luke_ch_20.docx": [2832]}
+9‘zeru	{"Zechariah_ch_4.docx": [1110]}
+swayed	{"2 Chronicles_ch_19.docx": [957], "Job_ch_31.docx": [3055], "Micah_ch_6.docx": [1595], "Luke_ch_20.docx": [2832]}

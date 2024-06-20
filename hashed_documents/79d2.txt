@@ -1,0 +1,4 @@
+
+delay!	{"Genesis_ch_45.docx": [1345], "Psalms_ch_40.docx": [2343, 2343, 2343], "Psalms_ch_70.docx": [553, 553, 553]}
+delay!	{"Genesis_ch_45.docx": [1345], "Psalms_ch_40.docx": [2343, 2343], "Psalms_ch_70.docx": [553, 553]}
+delay!	{"Genesis_ch_45.docx": [1345], "Psalms_ch_40.docx": [2343], "Psalms_ch_70.docx": [553]}

@@ -1,0 +1,2 @@
+
+7now	{"Exodus_ch_7.docx": [787], "Deuteronomy_ch_1.docx": [818], "Joshua_ch_22.docx": [930], "1 Samuel_ch_21.docx": [931], "2 Samuel_ch_3.docx": [759], "Psalms_ch_90.docx": [637], "Isaiah_ch_64.docx": [851]}

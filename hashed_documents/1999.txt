@@ -1,0 +1,4 @@
+
+blacks	{"2 Samuel_ch_12.docx": [5121], "Isaiah_ch_41.docx": [1054, 1054, 1054]}
+blacks	{"2 Samuel_ch_12.docx": [5121], "Isaiah_ch_41.docx": [1054, 1054]}
+blacks	{"2 Samuel_ch_12.docx": [5121], "Isaiah_ch_41.docx": [1054]}

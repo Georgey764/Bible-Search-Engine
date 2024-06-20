@@ -1,0 +1,5 @@
+
+ane	{"2 Kings_ch_17.docx": [5754], "Psalms_ch_102.docx": [1619, 1619, 1619]}
+ane	{"2 Kings_ch_17.docx": [5754], "Psalms_ch_102.docx": [1619, 1619]}
+12sta	{"Isaiah_ch_21.docx": [1593]}
+ane	{"2 Kings_ch_17.docx": [5754], "Psalms_ch_102.docx": [1619]}

@@ -1,0 +1,4 @@
+
+archer	{"Genesis_ch_21.docx": [2452], "Genesis_ch_49.docx": [2755, 2755, 2755], "1 Chronicles_ch_10.docx": [458, 458, 458], "2 Chronicles_ch_18.docx": [5255, 5255, 5255]}
+archer	{"Genesis_ch_21.docx": [2452], "Genesis_ch_49.docx": [2755, 2755], "1 Chronicles_ch_10.docx": [458, 458], "2 Chronicles_ch_18.docx": [5255, 5255]}
+archer	{"Genesis_ch_21.docx": [2452], "Genesis_ch_49.docx": [2755], "1 Chronicles_ch_10.docx": [458], "2 Chronicles_ch_18.docx": [5255]}

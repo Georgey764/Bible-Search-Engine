@@ -1,0 +1,4 @@
+
+prays	{"Isaiah_ch_44.docx": [2848], "1 Corinthians_ch_11.docx": [441, 458, 441, 458]}
+prays	{"Isaiah_ch_44.docx": [2848], "1 Corinthians_ch_11.docx": [441, 458]}
+prays	{"Isaiah_ch_44.docx": [2848], "1 Corinthians_ch_11.docx": [441, 458]}

@@ -1,0 +1,4 @@
+
+slaps	{"Isaiah_ch_50.docx": [1242], "Matthew_ch_5.docx": [4926, 4926, 4926], "2 Corinthians_ch_11.docx": [2689, 2689]}
+slaps	{"Isaiah_ch_50.docx": [1242], "Matthew_ch_5.docx": [4926, 4926], "2 Corinthians_ch_11.docx": [2689]}
+slaps	{"Isaiah_ch_50.docx": [1242], "Matthew_ch_5.docx": [4926], "2 Corinthians_ch_11.docx": [2689]}

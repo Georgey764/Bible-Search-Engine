@@ -1,0 +1,2 @@
+
+41then	{"Genesis_ch_24.docx": [5913], "Genesis_ch_41.docx": [5124], "Deuteronomy_ch_4.docx": [6473], "Judges_ch_9.docx": [7777], "Nehemiah_ch_12.docx": [11638], "Psalms_ch_106.docx": [3730], "Psalms_ch_119.docx": [3202], "Ezekiel_ch_16.docx": [6544], "Matthew_ch_22.docx": [4414]}

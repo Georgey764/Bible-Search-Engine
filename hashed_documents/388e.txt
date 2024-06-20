@@ -1,0 +1,4 @@
+
+bez	{"Joshua_ch_10.docx": [7, 389, 389, 389], "Judges_ch_1.docx": [407, 407, 407], "Ezra_ch_2.docx": [923, 923, 923], "Nehemiah_ch_7.docx": [1852, 1852, 1852], "Nehemiah_ch_10.docx": [946, 946, 946]}
+bez	{"Joshua_ch_10.docx": [7, 389, 389], "Judges_ch_1.docx": [407, 407], "Ezra_ch_2.docx": [923, 923], "Nehemiah_ch_7.docx": [1852, 1852], "Nehemiah_ch_10.docx": [946, 946]}
+bez	{"Joshua_ch_10.docx": [7, 389], "Judges_ch_1.docx": [407], "Ezra_ch_2.docx": [923], "Nehemiah_ch_7.docx": [1852], "Nehemiah_ch_10.docx": [946]}

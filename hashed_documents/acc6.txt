@@ -1,0 +1,2 @@
+
+14[	{"Genesis_ch_16.docx": [2145], "Genesis_ch_32.docx": [1892], "Genesis_ch_40.docx": [1579], "Genesis_ch_45.docx": [2069], "Exodus_ch_38.docx": [1580], "Numbers_ch_1.docx": [1228], "Numbers_ch_7.docx": [1831], "1 Samuel_ch_10.docx": [2513], "2 Kings_ch_13.docx": [2172], "Psalms_ch_91.docx": [1214], "Jeremiah_ch_46.docx": [2149], "Ezekiel_ch_10.docx": [2083], "Hosea_ch_9.docx": [2772], "Joel_ch_1.docx": [2233]}

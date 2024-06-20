@@ -1,0 +1,5 @@
+
+declin	{"2 Samuel_ch_21.docx": [3058], "Psalms_ch_102.docx": [972, 972, 972], "Proverbs_ch_14.docx": [3099, 3099, 3099]}
+declin	{"2 Samuel_ch_21.docx": [3058], "Psalms_ch_102.docx": [972, 972], "Proverbs_ch_14.docx": [3099, 3099]}
+23r	{"2 Kings_ch_12.docx": [792], "2 Kings_ch_13.docx": [10], "1 Chronicles_ch_24.docx": [1886], "1 Chronicles_ch_25.docx": [2907], "2 Chronicles_ch_7.docx": [1757], "Esther_ch_8.docx": [1337]}
+declin	{"2 Samuel_ch_21.docx": [3058], "Psalms_ch_102.docx": [972], "Proverbs_ch_14.docx": [3099]}

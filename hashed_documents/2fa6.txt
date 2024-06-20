@@ -1,0 +1,5 @@
+
+slave’	{"Genesis_ch_21.docx": [919], "Exodus_ch_21.docx": [3244, 3244, 3244], "Matthew_ch_24.docx": [5693, 5693, 5693], "Luke_ch_7.docx": [86, 86], "John_ch_18.docx": [1063, 1063]}
+slave’	{"Genesis_ch_21.docx": [919], "Exodus_ch_21.docx": [3244, 3244], "Matthew_ch_24.docx": [5693, 5693], "Luke_ch_7.docx": [86], "John_ch_18.docx": [1063]}
+2rath	{"Genesis_ch_28.docx": [92], "2 Samuel_ch_19.docx": [22]}
+slave’	{"Genesis_ch_21.docx": [919], "Exodus_ch_21.docx": [3244], "Matthew_ch_24.docx": [5693], "Luke_ch_7.docx": [86], "John_ch_18.docx": [1063]}

@@ -1,0 +1,4 @@
+
+enn	{"Numbers_ch_34.docx": [430], "Joshua_ch_15.docx": [1159, 1182, 1159, 1182, 1159, 1182], "Joshua_ch_18.docx": [2539, 2539, 2539]}
+enn	{"Numbers_ch_34.docx": [430], "Joshua_ch_15.docx": [1159, 1182, 1159, 1182], "Joshua_ch_18.docx": [2539, 2539]}
+enn	{"Numbers_ch_34.docx": [430], "Joshua_ch_15.docx": [1159, 1182], "Joshua_ch_18.docx": [2539]}

@@ -1,0 +1,5 @@
+
+kettit	{"Genesis_ch_25.docx": [807], "Genesis_ch_26.docx": [4778, 4786, 4778, 4786, 4778, 4786], "Genesis_ch_36.docx": [170, 170, 170], "Genesis_ch_49.docx": [3841, 3964, 3841, 3964, 3841, 3964]}
+kettit	{"Genesis_ch_25.docx": [807], "Genesis_ch_26.docx": [4778, 4786, 4778, 4786], "Genesis_ch_36.docx": [170, 170], "Genesis_ch_49.docx": [3841, 3964, 3841, 3964]}
+27whe	{"Job_ch_34.docx": [2532], "Ezekiel_ch_39.docx": [4779]}
+kettit	{"Genesis_ch_25.docx": [807], "Genesis_ch_26.docx": [4778, 4786], "Genesis_ch_36.docx": [170], "Genesis_ch_49.docx": [3841, 3964]}

@@ -1,0 +1,5 @@
+
+kisa	{"1 Chronicles_ch_6.docx": [3477], "Esther_ch_2.docx": [1106, 1106, 1106]}
+mushi	{"Job_ch_42.docx": [4350]}
+kisa	{"1 Chronicles_ch_6.docx": [3477], "Esther_ch_2.docx": [1106, 1106]}
+kisa	{"1 Chronicles_ch_6.docx": [3477], "Esther_ch_2.docx": [1106]}

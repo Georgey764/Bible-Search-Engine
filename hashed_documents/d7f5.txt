@@ -1,0 +1,4 @@
+
+bilgah	{"Nehemiah_ch_12.docx": [292, 1580, 1580, 1580]}
+bilgah	{"Nehemiah_ch_12.docx": [292, 1580, 1580]}
+bilgah	{"Nehemiah_ch_12.docx": [292, 1580]}

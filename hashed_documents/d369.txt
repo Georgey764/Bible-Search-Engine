@@ -1,0 +1,4 @@
+
+20as	{"Genesis_ch_47.docx": [3371], "Exodus_ch_1.docx": [2259], "Leviticus_ch_9.docx": [2364], "Numbers_ch_28.docx": [2687], "Judges_ch_16.docx": [3657], "1 Samuel_ch_16.docx": [3432], "1 Kings_ch_15.docx": [2696], "2 Kings_ch_11.docx": [3201], "1 Chronicles_ch_16.docx": [2169], "Psalms_ch_136.docx": [2030], "Proverbs_ch_25.docx": [1891], "Proverbs_ch_27.docx": [1798], "Proverbs_ch_30.docx": [2211], "Ezekiel_ch_22.docx": [2858]}
+2jeh	{"2 Kings_ch_12.docx": [238], "2 Chronicles_ch_24.docx": [175], "Psalms_ch_98.docx": [153], "Jeremiah_ch_38.docx": [39]}
+32even	{"Matthew_ch_13.docx": [4216]}

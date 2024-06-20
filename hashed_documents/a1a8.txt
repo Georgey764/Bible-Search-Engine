@@ -1,0 +1,7 @@
+
+chen	{"Joshua_ch_15.docx": [2565, 2593, 2593, 2593], "1 Kings_ch_15.docx": [2725, 2725, 2725], "1 Chronicles_ch_7.docx": [1410, 1410, 1410], "Nehemiah_ch_9.docx": [521, 542, 565, 521, 542, 565, 521, 542, 565]}
+selat	{"1 Chronicles_ch_12.docx": [2827]}
+chen	{"Joshua_ch_15.docx": [2565, 2593, 2593], "1 Kings_ch_15.docx": [2725, 2725], "1 Chronicles_ch_7.docx": [1410, 1410], "Nehemiah_ch_9.docx": [521, 542, 565, 521, 542, 565]}
+selat	{"1 Chronicles_ch_12.docx": [2827]}
+chen	{"Joshua_ch_15.docx": [2565, 2593], "1 Kings_ch_15.docx": [2725], "1 Chronicles_ch_7.docx": [1410], "Nehemiah_ch_9.docx": [521, 542, 565]}
+selat	{"1 Chronicles_ch_12.docx": [2827]}

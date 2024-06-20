@@ -1,0 +1,4 @@
+
+overta	{"2 Samuel_ch_15.docx": [1981], "1 Kings_ch_18.docx": [7603, 7603, 7603], "Job_ch_27.docx": [1818, 1818, 1818], "Proverbs_ch_6.docx": [1165, 1165, 1165], "Proverbs_ch_24.docx": [3246, 3246, 3246], "Isaiah_ch_23.docx": [609, 609, 609], "Jeremiah_ch_42.docx": [2812, 2812, 2812], "Ezekiel_ch_33.docx": [494, 494, 494], "John_ch_12.docx": [4743, 4743]}
+overta	{"2 Samuel_ch_15.docx": [1981], "1 Kings_ch_18.docx": [7603, 7603], "Job_ch_27.docx": [1818, 1818], "Proverbs_ch_6.docx": [1165, 1165], "Proverbs_ch_24.docx": [3246, 3246], "Isaiah_ch_23.docx": [609, 609], "Jeremiah_ch_42.docx": [2812, 2812], "Ezekiel_ch_33.docx": [494, 494], "John_ch_12.docx": [4743]}
+overta	{"2 Samuel_ch_15.docx": [1981], "1 Kings_ch_18.docx": [7603], "Job_ch_27.docx": [1818], "Proverbs_ch_6.docx": [1165], "Proverbs_ch_24.docx": [3246], "Isaiah_ch_23.docx": [609], "Jeremiah_ch_42.docx": [2812], "Ezekiel_ch_33.docx": [494], "John_ch_12.docx": [4743]}

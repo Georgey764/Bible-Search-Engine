@@ -1,0 +1,4 @@
+
+to!	{"Genesis_ch_37.docx": [2552], "1 Samuel_ch_28.docx": [1335, 1335, 1335], "Isaiah_ch_36.docx": [905, 905, 905], "Matthew_ch_20.docx": [1652, 1652, 1652]}
+to!	{"Genesis_ch_37.docx": [2552], "1 Samuel_ch_28.docx": [1335, 1335], "Isaiah_ch_36.docx": [905, 905], "Matthew_ch_20.docx": [1652, 1652]}
+to!	{"Genesis_ch_37.docx": [2552], "1 Samuel_ch_28.docx": [1335], "Isaiah_ch_36.docx": [905], "Matthew_ch_20.docx": [1652]}

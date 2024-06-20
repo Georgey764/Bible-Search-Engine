@@ -1,0 +1,5 @@
+
+you]	{"Deuteronomy_ch_11.docx": [955], "Isaiah_ch_46.docx": [579, 579, 579], "Jeremiah_ch_21.docx": [2568, 2568, 2568]}
+7‘m	{"Genesis_ch_49.docx": [825], "Job_ch_7.docx": [754], "Job_ch_27.docx": [526]}
+you]	{"Deuteronomy_ch_11.docx": [955], "Isaiah_ch_46.docx": [579, 579], "Jeremiah_ch_21.docx": [2568, 2568]}
+you]	{"Deuteronomy_ch_11.docx": [955], "Isaiah_ch_46.docx": [579], "Jeremiah_ch_21.docx": [2568]}

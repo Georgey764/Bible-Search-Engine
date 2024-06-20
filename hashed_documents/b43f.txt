@@ -1,0 +1,2 @@
+
+6in	{"Judges_ch_5.docx": [785], "Esther_ch_9.docx": [469], "Psalms_ch_26.docx": [511], "Psalms_ch_30.docx": [542], "Psalms_ch_77.docx": [590], "Psalms_ch_90.docx": [557], "Isaiah_ch_14.docx": [1081], "Isaiah_ch_33.docx": [719], "Lamentations_ch_3.docx": [418]}

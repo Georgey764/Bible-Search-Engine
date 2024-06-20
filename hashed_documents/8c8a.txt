@@ -1,0 +1,4 @@
+
+swiftl	{"Ecclesiastes_ch_9.docx": [2423], "Isaiah_ch_51.docx": [822, 822, 822]}
+swiftl	{"Ecclesiastes_ch_9.docx": [2423], "Isaiah_ch_51.docx": [822, 822]}
+swiftl	{"Ecclesiastes_ch_9.docx": [2423], "Isaiah_ch_51.docx": [822]}

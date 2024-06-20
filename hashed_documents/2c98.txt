@@ -1,0 +1,7 @@
+
+arudi	{"2 Samuel_ch_23.docx": [4259]}
+feedl	{"Hosea_ch_4.docx": [2795]}
+arudi	{"2 Samuel_ch_23.docx": [4259]}
+feedl	{"Hosea_ch_4.docx": [2795]}
+arudi	{"2 Samuel_ch_23.docx": [4259]}
+feedl	{"Hosea_ch_4.docx": [2795]}

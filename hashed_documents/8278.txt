@@ -1,0 +1,4 @@
+
+zik	{"1 Samuel_ch_27.docx": [874], "1 Samuel_ch_30.docx": [14, 29, 1934, 4085, 14, 29, 1934, 4085, 14, 29, 1934, 4085], "2 Samuel_ch_1.docx": [26, 26, 26], "2 Samuel_ch_4.docx": [1593, 1593, 1593], "1 Chronicles_ch_4.docx": [3498, 3498, 3498], "1 Chronicles_ch_12.docx": [14, 2635, 14, 2635, 14, 2635]}
+zik	{"1 Samuel_ch_27.docx": [874], "1 Samuel_ch_30.docx": [14, 29, 1934, 4085, 14, 29, 1934, 4085], "2 Samuel_ch_1.docx": [26, 26], "2 Samuel_ch_4.docx": [1593, 1593], "1 Chronicles_ch_4.docx": [3498, 3498], "1 Chronicles_ch_12.docx": [14, 2635, 14, 2635]}
+zik	{"1 Samuel_ch_27.docx": [874], "1 Samuel_ch_30.docx": [14, 29, 1934, 4085], "2 Samuel_ch_1.docx": [26], "2 Samuel_ch_4.docx": [1593], "1 Chronicles_ch_4.docx": [3498], "1 Chronicles_ch_12.docx": [14, 2635]}

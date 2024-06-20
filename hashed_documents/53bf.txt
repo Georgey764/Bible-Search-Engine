@@ -1,0 +1,5 @@
+
+stee	{"Joshua_ch_7.docx": [1198], "Job_ch_37.docx": [981, 981, 981], "Jeremiah_ch_8.docx": [3106, 3106, 3106], "Matthew_ch_8.docx": [4159, 4159, 4159], "Mark_ch_5.docx": [1266, 1266], "Luke_ch_8.docx": [4977, 4977], "James_ch_3.docx": [403, 403]}
+stee	{"Joshua_ch_7.docx": [1198], "Job_ch_37.docx": [981, 981], "Jeremiah_ch_8.docx": [3106, 3106], "Matthew_ch_8.docx": [4159, 4159], "Mark_ch_5.docx": [1266], "Luke_ch_8.docx": [4977], "James_ch_3.docx": [403]}
+20jo	{"1 Chronicles_ch_1.docx": [1715]}
+stee	{"Joshua_ch_7.docx": [1198], "Job_ch_37.docx": [981], "Jeremiah_ch_8.docx": [3106], "Matthew_ch_8.docx": [4159], "Mark_ch_5.docx": [1266], "Luke_ch_8.docx": [4977], "James_ch_3.docx": [403]}

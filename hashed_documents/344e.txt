@@ -1,0 +1,4 @@
+
+eagerl	{"2 Chronicles_ch_29.docx": [5709], "Acts_ch_17.docx": [2078, 2078], "1 Corinthians_ch_1.docx": [871, 871], "Galatians_ch_5.docx": [606, 606], "Philippians_ch_1.docx": [2361, 2361]}
+eagerl	{"2 Chronicles_ch_29.docx": [5709], "Acts_ch_17.docx": [2078], "1 Corinthians_ch_1.docx": [871], "Galatians_ch_5.docx": [606], "Philippians_ch_1.docx": [2361]}
+eagerl	{"2 Chronicles_ch_29.docx": [5709], "Acts_ch_17.docx": [2078], "1 Corinthians_ch_1.docx": [871], "Galatians_ch_5.docx": [606], "Philippians_ch_1.docx": [2361]}

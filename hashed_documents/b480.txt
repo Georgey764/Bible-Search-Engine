@@ -1,0 +1,4 @@
+
+shrubs	{"Psalms_ch_58.docx": [926], "Ezekiel_ch_39.docx": [1604, 1604, 1604]}
+shrubs	{"Psalms_ch_58.docx": [926], "Ezekiel_ch_39.docx": [1604, 1604]}
+shrubs	{"Psalms_ch_58.docx": [926], "Ezekiel_ch_39.docx": [1604]}

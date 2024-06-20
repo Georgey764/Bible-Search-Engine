@@ -1,0 +1,3 @@
+
+17corr	{"Proverbs_ch_29.docx": [1529]}
+31get	{"Jeremiah_ch_49.docx": [5397]}

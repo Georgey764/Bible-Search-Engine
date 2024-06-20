@@ -1,0 +1,7 @@
+
+horm	{"1 Samuel_ch_30.docx": [4503]}
+misb	{"2 Samuel_ch_7.docx": [2066], "Romans_ch_13.docx": [317, 317]}
+horm	{"1 Samuel_ch_30.docx": [4503]}
+misb	{"2 Samuel_ch_7.docx": [2066], "Romans_ch_13.docx": [317]}
+horm	{"1 Samuel_ch_30.docx": [4503]}
+misb	{"2 Samuel_ch_7.docx": [2066], "Romans_ch_13.docx": [317]}

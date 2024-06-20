@@ -1,0 +1,7 @@
+
+affec	{"Genesis_ch_42.docx": [461], "Leviticus_ch_15.docx": [244, 244, 244], "Numbers_ch_30.docx": [1988, 1988, 1988], "2 Samuel_ch_1.docx": [3697, 3697, 3697], "Jeremiah_ch_2.docx": [5936, 5936, 5936], "1 Corinthians_ch_8.docx": [1004, 1004], "Philippians_ch_1.docx": [836, 836], "1 Peter_ch_3.docx": [779, 779]}
+metalw	{"1 Kings_ch_7.docx": [1774], "2 Chronicles_ch_24.docx": [1800, 1800, 1800]}
+affec	{"Genesis_ch_42.docx": [461], "Leviticus_ch_15.docx": [244, 244], "Numbers_ch_30.docx": [1988, 1988], "2 Samuel_ch_1.docx": [3697, 3697], "Jeremiah_ch_2.docx": [5936, 5936], "1 Corinthians_ch_8.docx": [1004], "Philippians_ch_1.docx": [836], "1 Peter_ch_3.docx": [779]}
+metalw	{"1 Kings_ch_7.docx": [1774], "2 Chronicles_ch_24.docx": [1800, 1800]}
+affec	{"Genesis_ch_42.docx": [461], "Leviticus_ch_15.docx": [244], "Numbers_ch_30.docx": [1988], "2 Samuel_ch_1.docx": [3697], "Jeremiah_ch_2.docx": [5936], "1 Corinthians_ch_8.docx": [1004], "Philippians_ch_1.docx": [836], "1 Peter_ch_3.docx": [779]}
+metalw	{"1 Kings_ch_7.docx": [1774], "2 Chronicles_ch_24.docx": [1800]}

@@ -1,0 +1,4 @@
+
+grippe	{"Job_ch_15.docx": [1988], "Isaiah_ch_10.docx": [4416, 4416, 4416], "Jeremiah_ch_50.docx": [8166, 8166, 8166]}
+grippe	{"Job_ch_15.docx": [1988], "Isaiah_ch_10.docx": [4416, 4416], "Jeremiah_ch_50.docx": [8166, 8166]}
+grippe	{"Job_ch_15.docx": [1988], "Isaiah_ch_10.docx": [4416], "Jeremiah_ch_50.docx": [8166]}

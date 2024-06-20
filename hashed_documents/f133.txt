@@ -1,0 +1,3 @@
+
+facts	{"Luke_ch_1.docx": [20], "John_ch_19.docx": [4715, 4715], "James_ch_3.docx": [1768, 1768]}
+facts	{"Luke_ch_1.docx": [20], "John_ch_19.docx": [4715], "James_ch_3.docx": [1768]}

@@ -1,0 +1,6 @@
+
+geth	{"Joshua_ch_19.docx": [3506], "Joshua_ch_21.docx": [2887, 2948, 2887, 2948, 2887, 2948], "2 Samuel_ch_15.docx": [2593, 2774, 3410, 2593, 2774, 3410, 2593, 2774, 3410], "2 Samuel_ch_18.docx": [303, 303, 303], "1 Kings_ch_2.docx": [7251, 7262, 7272, 7518, 7251, 7262, 7272, 7518, 7251, 7262, 7272, 7518], "1 Chronicles_ch_6.docx": [5848, 5848, 5848], "Matthew_ch_26.docx": [4217, 4217], "Mark_ch_14.docx": [4218, 4218]}
+nige	{"Acts_ch_13.docx": [44, 66, 89, 66, 89]}
+geth	{"Joshua_ch_19.docx": [3506], "Joshua_ch_21.docx": [2887, 2948, 2887, 2948], "2 Samuel_ch_15.docx": [2593, 2774, 3410, 2593, 2774, 3410], "2 Samuel_ch_18.docx": [303, 303], "1 Kings_ch_2.docx": [7251, 7262, 7272, 7518, 7251, 7262, 7272, 7518], "1 Chronicles_ch_6.docx": [5848, 5848], "Matthew_ch_26.docx": [4217], "Mark_ch_14.docx": [4218]}
+geth	{"Joshua_ch_19.docx": [3506], "Joshua_ch_21.docx": [2887, 2948], "2 Samuel_ch_15.docx": [2593, 2774, 3410], "2 Samuel_ch_18.docx": [303], "1 Kings_ch_2.docx": [7251, 7262, 7272, 7518], "1 Chronicles_ch_6.docx": [5848], "Matthew_ch_26.docx": [4217], "Mark_ch_14.docx": [4218]}
+nige	{"Acts_ch_13.docx": [44, 66, 89]}

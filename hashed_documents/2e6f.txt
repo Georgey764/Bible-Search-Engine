@@ -1,0 +1,4 @@
+
+luc	{"1 Kings_ch_4.docx": [1242], "Isaiah_ch_65.docx": [1290, 1885, 1290, 1885, 1290, 1885], "Acts_ch_13.docx": [45, 67, 90, 45, 67, 90]}
+luc	{"1 Kings_ch_4.docx": [1242], "Isaiah_ch_65.docx": [1290, 1885, 1290, 1885], "Acts_ch_13.docx": [45, 67, 90]}
+luc	{"1 Kings_ch_4.docx": [1242], "Isaiah_ch_65.docx": [1290, 1885], "Acts_ch_13.docx": [45, 67, 90]}

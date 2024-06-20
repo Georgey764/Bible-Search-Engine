@@ -1,0 +1,4 @@
+
+emis	{"1 Chronicles_ch_4.docx": [3528], "1 Chronicles_ch_14.docx": [14, 14, 14], "1 Chronicles_ch_19.docx": [1057, 1057, 1057]}
+emis	{"1 Chronicles_ch_4.docx": [3528], "1 Chronicles_ch_14.docx": [14, 14], "1 Chronicles_ch_19.docx": [1057, 1057]}
+emis	{"1 Chronicles_ch_4.docx": [3528], "1 Chronicles_ch_14.docx": [14], "1 Chronicles_ch_19.docx": [1057]}

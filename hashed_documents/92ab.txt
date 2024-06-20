@@ -1,0 +1,4 @@
+
+jaki	{"Deuteronomy_ch_10.docx": [844], "1 Kings_ch_7.docx": [2735, 2735, 2735], "1 Chronicles_ch_8.docx": [1324, 1324, 1324], "1 Chronicles_ch_24.docx": [1611, 1611, 1611]}
+jaki	{"Deuteronomy_ch_10.docx": [844], "1 Kings_ch_7.docx": [2735, 2735], "1 Chronicles_ch_8.docx": [1324, 1324], "1 Chronicles_ch_24.docx": [1611, 1611]}
+jaki	{"Deuteronomy_ch_10.docx": [844], "1 Kings_ch_7.docx": [2735], "1 Chronicles_ch_8.docx": [1324], "1 Chronicles_ch_24.docx": [1611]}

@@ -1,0 +1,8 @@
+
+biscu	{"2 Samuel_ch_13.docx": [960, 1204, 1617, 1204, 1617, 1204, 1617]}
+37zo	{"1 Chronicles_ch_4.docx": [4050]}
+biscu	{"2 Samuel_ch_13.docx": [960, 1204, 1617, 1204, 1617]}
+37zo	{"1 Chronicles_ch_4.docx": [4050]}
+19don’	{"Jeremiah_ch_7.docx": [2893]}
+biscu	{"2 Samuel_ch_13.docx": [960, 1204, 1617]}
+ 37zo	{"1 Chronicles_ch_4.docx": [4050]}

@@ -1,0 +1,4 @@
+
+locks	{"Deuteronomy_ch_3.docx": [600], "Judges_ch_16.docx": [2264, 2390, 3528, 2264, 2390, 3528, 2264, 2390, 3528], "Job_ch_24.docx": [1674, 1674, 1674], "Ezekiel_ch_38.docx": [1979, 1979, 1979]}
+locks	{"Deuteronomy_ch_3.docx": [600], "Judges_ch_16.docx": [2264, 2390, 3528, 2264, 2390, 3528], "Job_ch_24.docx": [1674, 1674], "Ezekiel_ch_38.docx": [1979, 1979]}
+locks	{"Deuteronomy_ch_3.docx": [600], "Judges_ch_16.docx": [2264, 2390, 3528], "Job_ch_24.docx": [1674], "Ezekiel_ch_38.docx": [1979]}

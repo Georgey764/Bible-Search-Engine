@@ -1,0 +1,4 @@
+
+beesw	{"Psalms_ch_58.docx": [796], "Psalms_ch_68.docx": [198, 198, 198], "Isaiah_ch_64.docx": [103, 103, 103], "Micah_ch_1.docx": [1661, 1661, 1661]}
+beesw	{"Psalms_ch_58.docx": [796], "Psalms_ch_68.docx": [198, 198], "Isaiah_ch_64.docx": [103, 103], "Micah_ch_1.docx": [1661, 1661]}
+beesw	{"Psalms_ch_58.docx": [796], "Psalms_ch_68.docx": [198], "Isaiah_ch_64.docx": [103], "Micah_ch_1.docx": [1661]}

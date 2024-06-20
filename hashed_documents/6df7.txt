@@ -1,0 +1,4 @@
+
+ashdod	{"1 Samuel_ch_5.docx": [19, 181, 415, 957, 1059, 1204, 181, 415, 957, 1059, 1204, 181, 415, 957, 1059, 1204], "1 Samuel_ch_6.docx": [3306, 3306, 3306], "2 Chronicles_ch_26.docx": [695, 701, 695, 701, 695, 701], "Nehemiah_ch_4.docx": [1154, 1154, 1154], "Isaiah_ch_20.docx": [12, 28, 12, 28, 12, 28], "Jeremiah_ch_25.docx": [3033, 3033, 3033]}
+ashdod	{"1 Samuel_ch_5.docx": [19, 181, 415, 957, 1059, 1204, 181, 415, 957, 1059, 1204], "1 Samuel_ch_6.docx": [3306, 3306], "2 Chronicles_ch_26.docx": [695, 701, 695, 701], "Nehemiah_ch_4.docx": [1154, 1154], "Isaiah_ch_20.docx": [12, 28, 12, 28], "Jeremiah_ch_25.docx": [3033, 3033]}
+ashdod	{"1 Samuel_ch_5.docx": [19, 181, 415, 957, 1059, 1204], "1 Samuel_ch_6.docx": [3306], "2 Chronicles_ch_26.docx": [695, 701], "Nehemiah_ch_4.docx": [1154], "Isaiah_ch_20.docx": [12, 28], "Jeremiah_ch_25.docx": [3033]}

@@ -1,0 +1,4 @@
+
+etha	{"1 Chronicles_ch_6.docx": [3289, 3404, 3404, 3404], "1 Chronicles_ch_15.docx": [2026, 2429, 2026, 2429, 2026, 2429], "Psalms_ch_89.docx": [9, 9, 9]}
+etha	{"1 Chronicles_ch_6.docx": [3289, 3404, 3404], "1 Chronicles_ch_15.docx": [2026, 2429, 2026, 2429], "Psalms_ch_89.docx": [9, 9]}
+etha	{"1 Chronicles_ch_6.docx": [3289, 3404], "1 Chronicles_ch_15.docx": [2026, 2429], "Psalms_ch_89.docx": [9]}

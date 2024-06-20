@@ -1,0 +1,5 @@
+
+affirm	{"Leviticus_ch_13.docx": [5291], "2 Kings_ch_23.docx": [661, 661, 661], "Acts_ch_24.docx": [1256, 1256]}
+7moses	{"Exodus_ch_18.docx": [640]}
+affirm	{"Leviticus_ch_13.docx": [5291], "2 Kings_ch_23.docx": [661, 661], "Acts_ch_24.docx": [1256]}
+affirm	{"Leviticus_ch_13.docx": [5291], "2 Kings_ch_23.docx": [661], "Acts_ch_24.docx": [1256]}

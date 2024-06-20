@@ -1,0 +1,5 @@
+
+barsa	{"Genesis_ch_14.docx": [240], "2 Samuel_ch_23.docx": [4591, 4591, 4591], "Acts_ch_1.docx": [4854, 4854], "Acts_ch_15.docx": [4406, 4406]}
+8kush	{"Genesis_ch_10.docx": [1058]}
+barsa	{"Genesis_ch_14.docx": [240], "2 Samuel_ch_23.docx": [4591, 4591], "Acts_ch_1.docx": [4854], "Acts_ch_15.docx": [4406]}
+barsa	{"Genesis_ch_14.docx": [240], "2 Samuel_ch_23.docx": [4591], "Acts_ch_1.docx": [4854], "Acts_ch_15.docx": [4406]}

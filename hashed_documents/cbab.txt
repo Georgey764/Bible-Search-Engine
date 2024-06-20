@@ -1,0 +1,5 @@
+
+gossip	{"Ezekiel_ch_23.docx": [1508], "Romans_ch_1.docx": [3828, 3828], "1 Timothy_ch_5.docx": [1656, 1656]}
+7howe	{"Deuteronomy_ch_3.docx": [778], "2 Samuel_ch_5.docx": [1012], "2 Samuel_ch_21.docx": [1336], "1 Kings_ch_17.docx": [682], "2 Chronicles_ch_21.docx": [926], "Jeremiah_ch_25.docx": [1231], "Jeremiah_ch_28.docx": [787], "Jeremiah_ch_41.docx": [1005], "Daniel_ch_1.docx": [874]}
+gossip	{"Ezekiel_ch_23.docx": [1508], "Romans_ch_1.docx": [3828], "1 Timothy_ch_5.docx": [1656]}
+gossip	{"Ezekiel_ch_23.docx": [1508], "Romans_ch_1.docx": [3828], "1 Timothy_ch_5.docx": [1656]}

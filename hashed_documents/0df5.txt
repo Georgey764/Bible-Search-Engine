@@ -1,0 +1,3 @@
+
+yesh	{"Luke_ch_1.docx": [3803], "Luke_ch_2.docx": [3925, 3925]}
+yesh	{"Luke_ch_1.docx": [3803], "Luke_ch_2.docx": [3925]}

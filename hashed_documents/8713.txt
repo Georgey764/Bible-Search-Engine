@@ -1,0 +1,4 @@
+
+uninte	{"Leviticus_ch_4.docx": [128], "Numbers_ch_35.docx": [1869, 1869, 1869], "Deuteronomy_ch_4.docx": [6494, 6494, 6494], "Deuteronomy_ch_19.docx": [77, 77, 77], "Joshua_ch_20.docx": [627, 1518, 627, 1518, 627, 1518], "Joshua_ch_21.docx": [1913, 1913, 1913], "Job_ch_31.docx": [3008, 3008]}
+uninte	{"Leviticus_ch_4.docx": [128], "Numbers_ch_35.docx": [1869, 1869], "Deuteronomy_ch_4.docx": [6494, 6494], "Deuteronomy_ch_19.docx": [77, 77], "Joshua_ch_20.docx": [627, 1518, 627, 1518], "Joshua_ch_21.docx": [1913, 1913], "Job_ch_31.docx": [3008]}
+uninte	{"Leviticus_ch_4.docx": [128], "Numbers_ch_35.docx": [1869], "Deuteronomy_ch_4.docx": [6494], "Deuteronomy_ch_19.docx": [77], "Joshua_ch_20.docx": [627, 1518], "Joshua_ch_21.docx": [1913], "Job_ch_31.docx": [3008]}

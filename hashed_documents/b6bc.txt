@@ -1,0 +1,4 @@
+
+detach	{"2 Samuel_ch_8.docx": [705, 2067, 2067, 2067]}
+detach	{"2 Samuel_ch_8.docx": [705, 2067, 2067]}
+detach	{"2 Samuel_ch_8.docx": [705, 2067]}

@@ -1,0 +1,5 @@
+
+influx	{"2 Chronicles_ch_11.docx": [1859]}
+70the	{"1 Chronicles_ch_6.docx": [5871], "Nehemiah_ch_7.docx": [4415], "Psalms_ch_78.docx": [6751]}
+influx	{"2 Chronicles_ch_11.docx": [1859]}
+influx	{"2 Chronicles_ch_11.docx": [1859]}

@@ -1,0 +1,7 @@
+
+ech	{"Numbers_ch_1.docx": [1178], "Numbers_ch_7.docx": [8389, 9028, 8389, 9028, 8389, 9028], "Numbers_ch_10.docx": [2849, 2849, 2849], "Joshua_ch_19.docx": [2378, 2378, 2378], "Job_ch_4.docx": [1256, 1256, 1256], "Luke_ch_4.docx": [5345, 5345]}
+seizes	{"Ezekiel_ch_18.docx": [1669]}
+ech	{"Numbers_ch_1.docx": [1178], "Numbers_ch_7.docx": [8389, 9028, 8389, 9028], "Numbers_ch_10.docx": [2849, 2849], "Joshua_ch_19.docx": [2378, 2378], "Job_ch_4.docx": [1256, 1256], "Luke_ch_4.docx": [5345]}
+seizes	{"Ezekiel_ch_18.docx": [1669]}
+ech	{"Numbers_ch_1.docx": [1178], "Numbers_ch_7.docx": [8389, 9028], "Numbers_ch_10.docx": [2849], "Joshua_ch_19.docx": [2378], "Job_ch_4.docx": [1256], "Luke_ch_4.docx": [5345]}
+seizes	{"Ezekiel_ch_18.docx": [1669]}

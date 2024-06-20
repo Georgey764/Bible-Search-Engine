@@ -1,0 +1,4 @@
+
+molo	{"Leviticus_ch_20.docx": [128, 308, 485, 308, 485, 308, 485], "2 Kings_ch_23.docx": [2564, 3264, 2564, 3264, 2564, 3264], "Jeremiah_ch_49.docx": [135, 676, 135, 676, 135, 676], "Amos_ch_5.docx": [4403, 4403, 4403], "Acts_ch_7.docx": [6412, 6412]}
+molo	{"Leviticus_ch_20.docx": [128, 308, 485, 308, 485], "2 Kings_ch_23.docx": [2564, 3264, 2564, 3264], "Jeremiah_ch_49.docx": [135, 676, 135, 676], "Amos_ch_5.docx": [4403, 4403], "Acts_ch_7.docx": [6412]}
+molo	{"Leviticus_ch_20.docx": [128, 308, 485], "2 Kings_ch_23.docx": [2564, 3264], "Jeremiah_ch_49.docx": [135, 676], "Amos_ch_5.docx": [4403], "Acts_ch_7.docx": [6412]}

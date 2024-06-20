@@ -1,0 +1,7 @@
+
+ellel	{"Judges_ch_12.docx": [2611, 2706, 2719, 2733, 2754, 2777, 2706, 2719, 2733, 2754, 2777, 2706, 2719, 2733, 2754, 2777]}
+speech	{"Job_ch_38.docx": [9, 1344, 1344, 1344], "Psalms_ch_31.docx": [2021, 2021, 2021], "Matthew_ch_15.docx": [3524, 3524, 3524], "Matthew_ch_22.docx": [1476, 1476, 1476], "Mark_ch_9.docx": [3407, 3407], "Acts_ch_9.docx": [1302, 1302], "Acts_ch_15.docx": [5597, 6964, 5597, 6964], "Acts_ch_20.docx": [468, 483, 499, 2549, 468, 483, 499, 2549]}
+ellel	{"Judges_ch_12.docx": [2611, 2706, 2719, 2733, 2754, 2777, 2706, 2719, 2733, 2754, 2777]}
+speech	{"Job_ch_38.docx": [9, 1344, 1344], "Psalms_ch_31.docx": [2021, 2021], "Matthew_ch_15.docx": [3524, 3524], "Matthew_ch_22.docx": [1476, 1476], "Mark_ch_9.docx": [3407], "Acts_ch_9.docx": [1302], "Acts_ch_15.docx": [5597, 6964], "Acts_ch_20.docx": [468, 483, 499, 2549]}
+ellel	{"Judges_ch_12.docx": [2611, 2706, 2719, 2733, 2754, 2777]}
+speech	{"Job_ch_38.docx": [9, 1344], "Psalms_ch_31.docx": [2021], "Matthew_ch_15.docx": [3524], "Matthew_ch_22.docx": [1476], "Mark_ch_9.docx": [3407], "Acts_ch_9.docx": [1302], "Acts_ch_15.docx": [5597, 6964], "Acts_ch_20.docx": [468, 483, 499, 2549]}

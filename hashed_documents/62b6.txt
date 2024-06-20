@@ -1,0 +1,5 @@
+
+latche	{"Job_ch_16.docx": [633], "Luke_ch_13.docx": [3244, 3244]}
+22‘j	{"Genesis_ch_49.docx": [2503], "1 Samuel_ch_8.docx": [2584]}
+latche	{"Job_ch_16.docx": [633], "Luke_ch_13.docx": [3244]}
+latche	{"Job_ch_16.docx": [633], "Luke_ch_13.docx": [3244]}

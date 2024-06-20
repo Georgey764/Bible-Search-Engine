@@ -1,0 +1,8 @@
+
+lady	{"1 Kings_ch_17.docx": [2300], "2 Kings_ch_5.docx": [435, 435, 435], "Psalms_ch_123.docx": [209, 209, 209], "Proverbs_ch_30.docx": [2468, 2468, 2468], "John_ch_2.docx": [295, 295], "John_ch_4.docx": [2959, 2959]}
+maai	{"Nehemiah_ch_12.docx": [4911]}
+lady	{"1 Kings_ch_17.docx": [2300], "2 Kings_ch_5.docx": [435, 435], "Psalms_ch_123.docx": [209, 209], "Proverbs_ch_30.docx": [2468, 2468], "John_ch_2.docx": [295], "John_ch_4.docx": [2959]}
+23‘so	{"1 Kings_ch_18.docx": [3331], "1 Chronicles_ch_16.docx": [2435], "Isaiah_ch_10.docx": [3439], "Jeremiah_ch_32.docx": [3833], "Amos_ch_5.docx": [4067], "Matthew_ch_10.docx": [2777], "Matthew_ch_25.docx": [2477]}
+maai	{"Nehemiah_ch_12.docx": [4911]}
+lady	{"1 Kings_ch_17.docx": [2300], "2 Kings_ch_5.docx": [435], "Psalms_ch_123.docx": [209], "Proverbs_ch_30.docx": [2468], "John_ch_2.docx": [295], "John_ch_4.docx": [2959]}
+maai	{"Nehemiah_ch_12.docx": [4911]}

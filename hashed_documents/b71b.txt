@@ -1,0 +1,4 @@
+
+weary	{"Job_ch_19.docx": [55], "Psalms_ch_49.docx": [730, 730, 730], "Proverbs_ch_30.docx": [106, 106, 106]}
+weary	{"Job_ch_19.docx": [55], "Psalms_ch_49.docx": [730, 730], "Proverbs_ch_30.docx": [106, 106]}
+weary	{"Job_ch_19.docx": [55], "Psalms_ch_49.docx": [730], "Proverbs_ch_30.docx": [106]}

@@ -1,0 +1,4 @@
+
+poem	{"Genesis_ch_1.docx": [21], "Genesis_ch_2.docx": [352, 352, 352], "Job_ch_42.docx": [4355]}
+poem	{"Genesis_ch_1.docx": [21], "Genesis_ch_2.docx": [352, 352]}
+poem	{"Genesis_ch_1.docx": [21], "Genesis_ch_2.docx": [352]}

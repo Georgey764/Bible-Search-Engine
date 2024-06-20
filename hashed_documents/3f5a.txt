@@ -1,0 +1,22 @@
+
+je	{"1 Chronicles_ch_4.docx": [4015], "1 Chronicles_ch_7.docx": [3784]}
+je	{"1 Chronicles_ch_9.docx": [964]}
+je	{"1 Chronicles_ch_9.docx": [1294]}
+je	{"1 Chronicles_ch_11.docx": [6570]}
+je	{"1 Chronicles_ch_12.docx": [478]}
+je	{"1 Chronicles_ch_12.docx": [1297]}
+je	{"1 Chronicles_ch_23.docx": [2120]}
+je	{"1 Chronicles_ch_4.docx": [4015], "1 Chronicles_ch_7.docx": [3784]}
+je	{"1 Chronicles_ch_9.docx": [964]}
+je	{"1 Chronicles_ch_9.docx": [1294]}
+je	{"1 Chronicles_ch_11.docx": [6570]}
+je	{"1 Chronicles_ch_12.docx": [478]}
+je	{"1 Chronicles_ch_12.docx": [1297]}
+je	{"1 Chronicles_ch_23.docx": [2120]}
+je	{"1 Chronicles_ch_4.docx": [4015], "1 Chronicles_ch_7.docx": [3784]}
+je	{"1 Chronicles_ch_9.docx": [964]}
+je	{"1 Chronicles_ch_9.docx": [1294]}
+je	{"1 Chronicles_ch_11.docx": [6570]}
+je	{"1 Chronicles_ch_12.docx": [478]}
+je	{"1 Chronicles_ch_12.docx": [1297]}
+je	{"1 Chronicles_ch_23.docx": [2120]}

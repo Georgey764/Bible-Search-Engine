@@ -1,0 +1,4 @@
+
+high!	{"Psalms_ch_82.docx": [557], "Psalms_ch_83.docx": [1477, 1477, 1477], "Psalms_ch_92.docx": [693, 693, 693], "Isaiah_ch_14.docx": [2500, 2500, 2500]}
+high!	{"Psalms_ch_82.docx": [557], "Psalms_ch_83.docx": [1477, 1477], "Psalms_ch_92.docx": [693, 693], "Isaiah_ch_14.docx": [2500, 2500]}
+high!	{"Psalms_ch_82.docx": [557], "Psalms_ch_83.docx": [1477], "Psalms_ch_92.docx": [693], "Isaiah_ch_14.docx": [2500]}

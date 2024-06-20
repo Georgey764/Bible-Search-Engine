@@ -1,0 +1,4 @@
+
+sellum	{"1 Chronicles_ch_6.docx": [827, 851, 851]}
+sellum	{"1 Chronicles_ch_6.docx": [827, 851]}
+sellum	{"1 Chronicles_ch_6.docx": [827, 851]}

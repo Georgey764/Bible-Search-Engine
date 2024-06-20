@@ -1,0 +1,5 @@
+
+telh	{"Ezra_ch_2.docx": [2452], "Nehemiah_ch_7.docx": [3563, 3563, 3563]}
+telh	{"Ezra_ch_2.docx": [2452], "Nehemiah_ch_7.docx": [3563, 3563]}
+9‘shar	{"Ecclesiastes_ch_9.docx": [1534]}
+telh	{"Ezra_ch_2.docx": [2452], "Nehemiah_ch_7.docx": [3563]}

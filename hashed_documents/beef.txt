@@ -1,0 +1,4 @@
+
+jeser	{"Numbers_ch_26.docx": [5049, 5054, 5054]}
+jeser	{"Numbers_ch_26.docx": [5054, 5054]}
+jeser	{"Numbers_ch_26.docx": [5049, 5054]}

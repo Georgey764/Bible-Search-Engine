@@ -1,0 +1,3 @@
+
+15tha	{"1 Kings_ch_9.docx": [2403], "2 Chronicles_ch_31.docx": [2660], "Job_ch_18.docx": [1264], "Hosea_ch_10.docx": [3798]}
+4un	{"1 Chronicles_ch_25.docx": [629], "Isaiah_ch_46.docx": [463]}

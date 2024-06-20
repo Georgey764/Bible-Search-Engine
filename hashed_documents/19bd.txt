@@ -1,0 +1,4 @@
+
+44‘for	{"Leviticus_ch_11.docx": [5265], "Jeremiah_ch_48.docx": [5968], "Ezekiel_ch_16.docx": [7090], "Matthew_ch_13.docx": [5930]}
+14‘und	{"Deuteronomy_ch_29.docx": [1796]}
+2‘ag	{"Jeremiah_ch_51.docx": [160]}

@@ -1,0 +1,4 @@
+
+raphac	{"Numbers_ch_33.docx": [1319, 1371, 1371, 1371]}
+raphac	{"Numbers_ch_33.docx": [1319, 1371, 1371]}
+raphac	{"Numbers_ch_33.docx": [1319, 1371]}

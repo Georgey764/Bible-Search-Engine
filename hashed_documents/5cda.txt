@@ -1,0 +1,10 @@
+
+aroad	{"Numbers_ch_26.docx": [2750, 2755, 2755]}
+jaca	{"Joshua_ch_19.docx": [2844]}
+merce	{"Judges_ch_8.docx": [2096], "Jeremiah_ch_51.docx": [511, 511, 511]}
+aroad	{"Numbers_ch_26.docx": [2755, 2755]}
+jaca	{"Joshua_ch_19.docx": [2844]}
+merce	{"Judges_ch_8.docx": [2096], "Jeremiah_ch_51.docx": [511, 511]}
+aroad	{"Numbers_ch_26.docx": [2750, 2755]}
+jaca	{"Joshua_ch_19.docx": [2844]}
+merce	{"Judges_ch_8.docx": [2096], "Jeremiah_ch_51.docx": [511]}

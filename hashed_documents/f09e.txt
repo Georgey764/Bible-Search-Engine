@@ -1,0 +1,5 @@
+
+aran	{"Genesis_ch_36.docx": [3034], "1 Chronicles_ch_1.docx": [3541, 3541, 3541], "1 Chronicles_ch_2.docx": [2394, 2394, 2394]}
+aran	{"Genesis_ch_36.docx": [3034], "1 Chronicles_ch_1.docx": [3541, 3541], "1 Chronicles_ch_2.docx": [2394, 2394]}
+23wi	{"Proverbs_ch_4.docx": [2112], "Proverbs_ch_23.docx": [1932]}
+aran	{"Genesis_ch_36.docx": [3034], "1 Chronicles_ch_1.docx": [3541], "1 Chronicles_ch_2.docx": [2394]}

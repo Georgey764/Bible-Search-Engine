@@ -1,0 +1,4 @@
+
+god];	{"Proverbs_ch_20.docx": [2941], "Proverbs_ch_21.docx": [2665, 2665, 2665], "Hosea_ch_10.docx": [609, 609, 609]}
+god];	{"Proverbs_ch_20.docx": [2941], "Proverbs_ch_21.docx": [2665, 2665], "Hosea_ch_10.docx": [609, 609]}
+god];	{"Proverbs_ch_20.docx": [2941], "Proverbs_ch_21.docx": [2665], "Hosea_ch_10.docx": [609]}

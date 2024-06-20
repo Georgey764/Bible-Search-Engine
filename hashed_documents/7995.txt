@@ -1,0 +1,7 @@
+
+left!	{"Joshua_ch_23.docx": [906], "1 Samuel_ch_6.docx": [2254, 2254, 2254], "2 Chronicles_ch_20.docx": [4314, 4314, 4314], "2 Chronicles_ch_34.docx": [146, 146, 146], "Isaiah_ch_54.docx": [471, 471, 471]}
+ozazia	{"2 Chronicles_ch_31.docx": [2373]}
+left!	{"Joshua_ch_23.docx": [906], "1 Samuel_ch_6.docx": [2254, 2254], "2 Chronicles_ch_20.docx": [4314, 4314], "2 Chronicles_ch_34.docx": [146, 146], "Isaiah_ch_54.docx": [471, 471]}
+ozazia	{"2 Chronicles_ch_31.docx": [2373]}
+left!	{"Joshua_ch_23.docx": [906], "1 Samuel_ch_6.docx": [2254], "2 Chronicles_ch_20.docx": [4314], "2 Chronicles_ch_34.docx": [146], "Isaiah_ch_54.docx": [471]}
+ozazia	{"2 Chronicles_ch_31.docx": [2373]}

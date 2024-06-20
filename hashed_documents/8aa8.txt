@@ -1,0 +1,4 @@
+
+sarir	{"1 Kings_ch_11.docx": [3709], "1 Kings_ch_14.docx": [2944, 2944, 2944]}
+sarir	{"1 Kings_ch_11.docx": [3709], "1 Kings_ch_14.docx": [2944, 2944]}
+sarir	{"1 Kings_ch_11.docx": [3709], "1 Kings_ch_14.docx": [2944]}

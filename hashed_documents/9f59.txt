@@ -1,0 +1,4 @@
+
+gossi	{"Ezekiel_ch_23.docx": [1508], "Romans_ch_1.docx": [3828, 3828], "1 Timothy_ch_5.docx": [1656, 1656]}
+gossi	{"Ezekiel_ch_23.docx": [1508], "Romans_ch_1.docx": [3828], "1 Timothy_ch_5.docx": [1656]}
+gossi	{"Ezekiel_ch_23.docx": [1508], "Romans_ch_1.docx": [3828], "1 Timothy_ch_5.docx": [1656]}

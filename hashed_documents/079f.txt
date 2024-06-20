@@ -1,0 +1,5 @@
+
+golan	{"Joshua_ch_20.docx": [1439], "Joshua_ch_21.docx": [3343, 3343, 3343]}
+golan	{"Joshua_ch_20.docx": [1439], "Joshua_ch_21.docx": [3343, 3343]}
+15thr	{"1 Chronicles_ch_16.docx": [1599]}
+golan	{"Joshua_ch_20.docx": [1439], "Joshua_ch_21.docx": [3343]}

@@ -1,0 +1,8 @@
+
+dial	{"Esther_ch_9.docx": [3068]}
+enigm	{"Proverbs_ch_1.docx": [232, 571, 571, 571]}
+dial	{"Esther_ch_9.docx": [3068]}
+27you	{"Job_ch_13.docx": [2315]}
+enigm	{"Proverbs_ch_1.docx": [232, 571, 571]}
+dial	{"Esther_ch_9.docx": [3068]}
+enigm	{"Proverbs_ch_1.docx": [232, 571]}

@@ -1,0 +1,4 @@
+
+anakim	{"Deuteronomy_ch_2.docx": [1451, 1466, 2724, 1466, 2724, 1466, 2724], "Jeremiah_ch_47.docx": [885, 885, 885]}
+anakim	{"Deuteronomy_ch_2.docx": [1451, 1466, 2724, 1466, 2724], "Jeremiah_ch_47.docx": [885, 885]}
+anakim	{"Deuteronomy_ch_2.docx": [1451, 1466, 2724], "Jeremiah_ch_47.docx": [885]}

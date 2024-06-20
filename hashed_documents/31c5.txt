@@ -1,0 +1,6 @@
+
+yieldi	{"Psalms_ch_2.docx": [1432], "Proverbs_ch_16.docx": [2130, 2130, 2130], "Proverbs_ch_29.docx": [2344, 2344, 2344], "Isaiah_ch_10.docx": [3160, 3160, 3160]}
+8[th	{"Exodus_ch_4.docx": [1162], "1 Chronicles_ch_5.docx": [971], "1 Chronicles_ch_12.docx": [901], "Isaiah_ch_30.docx": [1157]}
+yieldi	{"Psalms_ch_2.docx": [1432], "Proverbs_ch_16.docx": [2130, 2130], "Proverbs_ch_29.docx": [2344, 2344], "Isaiah_ch_10.docx": [3160, 3160]}
+5le	{"Psalms_ch_129.docx": [450]}
+yieldi	{"Psalms_ch_2.docx": [1432], "Proverbs_ch_16.docx": [2130], "Proverbs_ch_29.docx": [2344], "Isaiah_ch_10.docx": [3160]}

@@ -1,0 +1,4 @@
+
+abelm	{"1 Kings_ch_15.docx": [2716], "1 Kings_ch_19.docx": [2989, 2989, 2989]}
+abelm	{"1 Kings_ch_15.docx": [2716], "1 Kings_ch_19.docx": [2989, 2989]}
+abelm	{"1 Kings_ch_15.docx": [2716], "1 Kings_ch_19.docx": [2989]}

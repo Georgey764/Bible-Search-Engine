@@ -1,0 +1,5 @@
+
+topaz	{"Exodus_ch_28.docx": [2223], "Exodus_ch_39.docx": [1343, 1343, 1343], "Job_ch_28.docx": [1702, 1702, 1702], "Psalms_ch_119.docx": [10651, 10651, 10651], "Ezekiel_ch_28.docx": [1792, 1792, 1792], "Revelation_ch_21.docx": [3168, 3168]}
+topaz	{"Exodus_ch_28.docx": [2223], "Exodus_ch_39.docx": [1343, 1343], "Job_ch_28.docx": [1702, 1702], "Psalms_ch_119.docx": [10651, 10651], "Ezekiel_ch_28.docx": [1792, 1792], "Revelation_ch_21.docx": [3168]}
+12thos	{"Psalms_ch_38.docx": [963], "Psalms_ch_69.docx": [1359], "Proverbs_ch_13.docx": [1174], "Zechariah_ch_9.docx": [2615]}
+topaz	{"Exodus_ch_28.docx": [2223], "Exodus_ch_39.docx": [1343], "Job_ch_28.docx": [1702], "Psalms_ch_119.docx": [10651], "Ezekiel_ch_28.docx": [1792], "Revelation_ch_21.docx": [3168]}

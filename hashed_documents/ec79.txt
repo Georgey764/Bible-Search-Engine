@@ -1,0 +1,5 @@
+
+snowy	{"2 Samuel_ch_23.docx": [3420], "1 Chronicles_ch_11.docx": [4276, 4276, 4276]}
+19must	{"Leviticus_ch_22.docx": [2526]}
+snowy	{"2 Samuel_ch_23.docx": [3420], "1 Chronicles_ch_11.docx": [4276, 4276]}
+snowy	{"2 Samuel_ch_23.docx": [3420], "1 Chronicles_ch_11.docx": [4276]}

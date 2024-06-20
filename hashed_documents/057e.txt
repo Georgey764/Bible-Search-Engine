@@ -1,0 +1,7 @@
+
+conten	{"Proverbs_ch_23.docx": [2835], "Ecclesiastes_ch_9.docx": [1327, 1327, 1327], "Jeremiah_ch_25.docx": [5239, 5239, 5239]}
+masts	{"Isaiah_ch_33.docx": [3653], "Ezekiel_ch_27.docx": [510, 510, 510], "Acts_ch_27.docx": [2358, 2358]}
+conten	{"Proverbs_ch_23.docx": [2835], "Ecclesiastes_ch_9.docx": [1327, 1327], "Jeremiah_ch_25.docx": [5239, 5239]}
+masts	{"Isaiah_ch_33.docx": [3653], "Ezekiel_ch_27.docx": [510, 510], "Acts_ch_27.docx": [2358]}
+conten	{"Proverbs_ch_23.docx": [2835], "Ecclesiastes_ch_9.docx": [1327], "Jeremiah_ch_25.docx": [5239]}
+masts	{"Isaiah_ch_33.docx": [3653], "Ezekiel_ch_27.docx": [510], "Acts_ch_27.docx": [2358]}

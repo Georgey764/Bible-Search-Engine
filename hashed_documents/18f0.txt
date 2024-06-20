@@ -1,0 +1,7 @@
+
+joana	{"2 Chronicles_ch_17.docx": [2021], "2 Chronicles_ch_23.docx": [266, 266], "Luke_ch_3.docx": [6478, 6478]}
+seduct	{"Jeremiah_ch_3.docx": [1484]}
+joana	{"2 Chronicles_ch_23.docx": [266, 266], "Luke_ch_3.docx": [6478]}
+seduct	{"Jeremiah_ch_3.docx": [1484]}
+joana	{"2 Chronicles_ch_17.docx": [2021], "2 Chronicles_ch_23.docx": [266], "Luke_ch_3.docx": [6478]}
+seduct	{"Jeremiah_ch_3.docx": [1484]}

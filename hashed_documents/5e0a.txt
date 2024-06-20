@@ -1,0 +1,4 @@
+
+mine!	{"Genesis_ch_12.docx": [2284], "Genesis_ch_27.docx": [4656, 4656, 4656], "Exodus_ch_13.docx": [79, 79, 79], "Numbers_ch_3.docx": [1564, 1564, 1564], "Numbers_ch_8.docx": [1650, 1650, 1650], "1 Kings_ch_20.docx": [372, 372, 372], "Proverbs_ch_8.docx": [1202, 1202, 1202], "Isaiah_ch_43.docx": [181, 181, 181]}
+mine!	{"Genesis_ch_12.docx": [2284], "Genesis_ch_27.docx": [4656, 4656], "Exodus_ch_13.docx": [79, 79], "Numbers_ch_3.docx": [1564, 1564], "Numbers_ch_8.docx": [1650, 1650], "1 Kings_ch_20.docx": [372, 372], "Proverbs_ch_8.docx": [1202, 1202], "Isaiah_ch_43.docx": [181, 181]}
+mine!	{"Genesis_ch_12.docx": [2284], "Genesis_ch_27.docx": [4656], "Exodus_ch_13.docx": [79], "Numbers_ch_3.docx": [1564], "Numbers_ch_8.docx": [1650], "1 Kings_ch_20.docx": [372], "Proverbs_ch_8.docx": [1202], "Isaiah_ch_43.docx": [181]}

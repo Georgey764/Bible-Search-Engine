@@ -1,0 +1,4 @@
+
+fowl	{"Proverbs_ch_6.docx": [577], "Proverbs_ch_7.docx": [2059, 2059, 2059]}
+fowl	{"Proverbs_ch_6.docx": [577], "Proverbs_ch_7.docx": [2059, 2059]}
+fowl	{"Proverbs_ch_6.docx": [577], "Proverbs_ch_7.docx": [2059]}

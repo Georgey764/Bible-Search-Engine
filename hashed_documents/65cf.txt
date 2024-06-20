@@ -1,0 +1,4 @@
+
+ ner	{"1 Chronicles_ch_8.docx": [1957]}
+ ner	{"1 Chronicles_ch_8.docx": [1957]}
+ ner	{"1 Chronicles_ch_8.docx": [1957]}

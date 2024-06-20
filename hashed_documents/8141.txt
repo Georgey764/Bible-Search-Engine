@@ -1,0 +1,4 @@
+
+crops;	{"Psalms_ch_96.docx": [1081]}
+crops;	{"Psalms_ch_96.docx": [1081]}
+crops;	{"Psalms_ch_96.docx": [1081]}

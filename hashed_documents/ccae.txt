@@ -1,0 +1,7 @@
+
+gallo	{"Exodus_ch_30.docx": [3094], "Numbers_ch_28.docx": [1893, 1935, 1893, 1935, 1893, 1935], "1 Kings_ch_5.docx": [1622, 1622, 1622], "1 Kings_ch_7.docx": [3601, 5011, 3601, 5011, 3601, 5011], "2 Chronicles_ch_4.docx": [616, 616, 616], "Ezra_ch_7.docx": [3223, 3258, 3223, 3258, 3223, 3258], "Luke_ch_16.docx": [748, 748], "John_ch_2.docx": [453, 453]}
+parks	{"Ecclesiastes_ch_2.docx": [633], "Isaiah_ch_1.docx": [4681, 4681, 4681]}
+gallo	{"Exodus_ch_30.docx": [3094], "Numbers_ch_28.docx": [1893, 1935, 1893, 1935], "1 Kings_ch_5.docx": [1622, 1622], "1 Kings_ch_7.docx": [3601, 5011, 3601, 5011], "2 Chronicles_ch_4.docx": [616, 616], "Ezra_ch_7.docx": [3223, 3258, 3223, 3258], "Luke_ch_16.docx": [748], "John_ch_2.docx": [453]}
+parks	{"Ecclesiastes_ch_2.docx": [633], "Isaiah_ch_1.docx": [4681, 4681]}
+gallo	{"Exodus_ch_30.docx": [3094], "Numbers_ch_28.docx": [1893, 1935], "1 Kings_ch_5.docx": [1622], "1 Kings_ch_7.docx": [3601, 5011], "2 Chronicles_ch_4.docx": [616], "Ezra_ch_7.docx": [3223, 3258], "Luke_ch_16.docx": [748], "John_ch_2.docx": [453]}
+parks	{"Ecclesiastes_ch_2.docx": [633], "Isaiah_ch_1.docx": [4681]}

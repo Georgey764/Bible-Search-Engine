@@ -1,0 +1,5 @@
+
+bezek	{"Joshua_ch_10.docx": [7, 389, 389, 389], "Judges_ch_1.docx": [407, 407, 407]}
+bezek	{"Joshua_ch_10.docx": [7, 389, 389], "Judges_ch_1.docx": [407, 407]}
+4(al	{"2 Samuel_ch_4.docx": [495]}
+bezek	{"Joshua_ch_10.docx": [7, 389], "Judges_ch_1.docx": [407]}

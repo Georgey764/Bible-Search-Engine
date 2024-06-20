@@ -1,0 +1,4 @@
+
+world’	{"Romans_ch_11.docx": [2245], "1 Corinthians_ch_1.docx": [2636, 2636], "1 Corinthians_ch_4.docx": [2061, 2061], "1 Corinthians_ch_8.docx": [365, 365]}
+28me	{"Judges_ch_8.docx": [5676], "Proverbs_ch_20.docx": [3305]}
+world’	{"Romans_ch_11.docx": [2245], "1 Corinthians_ch_1.docx": [2636], "1 Corinthians_ch_4.docx": [2061], "1 Corinthians_ch_8.docx": [365]}

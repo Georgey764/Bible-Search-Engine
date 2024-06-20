@@ -1,0 +1,5 @@
+
+perim	{"2 Chronicles_ch_32.docx": [1048], "Ezekiel_ch_42.docx": [1347, 1347, 1347]}
+perim	{"2 Chronicles_ch_32.docx": [1048], "Ezekiel_ch_42.docx": [1347, 1347]}
+11gui	{"Psalms_ch_86.docx": [839]}
+perim	{"2 Chronicles_ch_32.docx": [1048], "Ezekiel_ch_42.docx": [1347]}

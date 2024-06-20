@@ -1,0 +1,4 @@
+
+simil	{"2 Kings_ch_16.docx": [1730], "1 Chronicles_ch_24.docx": [404, 404, 404], "2 Chronicles_ch_32.docx": [2680, 2680, 2680], "Proverbs_ch_20.docx": [24, 24, 24], "2 Corinthians_ch_8.docx": [1012, 1012]}
+simil	{"2 Kings_ch_16.docx": [1730], "1 Chronicles_ch_24.docx": [404, 404], "2 Chronicles_ch_32.docx": [2680, 2680], "Proverbs_ch_20.docx": [24, 24], "2 Corinthians_ch_8.docx": [1012]}
+simil	{"2 Kings_ch_16.docx": [1730], "1 Chronicles_ch_24.docx": [404], "2 Chronicles_ch_32.docx": [2680], "Proverbs_ch_20.docx": [24], "2 Corinthians_ch_8.docx": [1012]}

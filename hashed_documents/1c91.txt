@@ -1,0 +1,7 @@
+
+sethen	{"Joshua_ch_15.docx": [4438]}
+irij	{"Jeremiah_ch_37.docx": [1676, 1716, 1716, 1716]}
+sethen	{"Joshua_ch_15.docx": [4438]}
+irij	{"Jeremiah_ch_37.docx": [1676, 1716, 1716]}
+sethen	{"Joshua_ch_15.docx": [4438]}
+irij	{"Jeremiah_ch_37.docx": [1676, 1716]}

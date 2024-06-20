@@ -1,0 +1,4 @@
+
+sailo	{"2 Chronicles_ch_8.docx": [2552], "Proverbs_ch_23.docx": [3201, 3201, 3201], "Jonah_ch_1.docx": [498, 498, 498], "Acts_ch_27.docx": [3658, 3658], "Revelation_ch_18.docx": [3123, 3123]}
+sailo	{"2 Chronicles_ch_8.docx": [2552], "Proverbs_ch_23.docx": [3201, 3201], "Jonah_ch_1.docx": [498, 498], "Acts_ch_27.docx": [3658], "Revelation_ch_18.docx": [3123]}
+sailo	{"2 Chronicles_ch_8.docx": [2552], "Proverbs_ch_23.docx": [3201], "Jonah_ch_1.docx": [498], "Acts_ch_27.docx": [3658], "Revelation_ch_18.docx": [3123]}

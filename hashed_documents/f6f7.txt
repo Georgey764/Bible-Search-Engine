@@ -1,0 +1,4 @@
+
+kero	{"Joshua_ch_19.docx": [3141], "Ezra_ch_2.docx": [1756, 1756], "Nehemiah_ch_7.docx": [2841, 2841]}
+44he	{"Leviticus_ch_13.docx": [6142]}
+kero	{"Joshua_ch_19.docx": [3141], "Ezra_ch_2.docx": [1756], "Nehemiah_ch_7.docx": [2841]}

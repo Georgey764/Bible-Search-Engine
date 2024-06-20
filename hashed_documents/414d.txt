@@ -1,0 +1,4 @@
+
+bloom	{"Psalms_ch_92.docx": [1232], "Song of Solomon_ch_2.docx": [1979, 1979, 1979], "Song of Solomon_ch_7.docx": [1619, 1619, 1619], "Isaiah_ch_35.docx": [115, 115, 115], "1 Corinthians_ch_7.docx": [4789, 4789]}
+bloom	{"Psalms_ch_92.docx": [1232], "Song of Solomon_ch_2.docx": [1979, 1979], "Song of Solomon_ch_7.docx": [1619, 1619], "Isaiah_ch_35.docx": [115, 115], "1 Corinthians_ch_7.docx": [4789]}
+bloom	{"Psalms_ch_92.docx": [1232], "Song of Solomon_ch_2.docx": [1979], "Song of Solomon_ch_7.docx": [1619], "Isaiah_ch_35.docx": [115], "1 Corinthians_ch_7.docx": [4789]}

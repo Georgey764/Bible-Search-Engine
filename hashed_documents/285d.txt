@@ -1,0 +1,7 @@
+
+janat	{"2 Samuel_ch_5.docx": [2343]}
+stewed	{"Ezekiel_ch_24.docx": [1410]}
+janat	{"2 Samuel_ch_5.docx": [2343]}
+stewed	{"Ezekiel_ch_24.docx": [1410]}
+janat	{"2 Samuel_ch_5.docx": [2343]}
+stewed	{"Ezekiel_ch_24.docx": [1410]}

@@ -1,0 +1,8 @@
+
+suph	{"Numbers_ch_34.docx": [2244]}
+beza	{"Ezra_ch_2.docx": [923], "Nehemiah_ch_7.docx": [1852, 1852, 1852], "Nehemiah_ch_10.docx": [946, 946, 946]}
+suph	{"Numbers_ch_34.docx": [2244]}
+beza	{"Ezra_ch_2.docx": [923], "Nehemiah_ch_7.docx": [1852, 1852], "Nehemiah_ch_10.docx": [946, 946]}
+16‘aga	{"Ezekiel_ch_38.docx": [3035]}
+suph	{"Numbers_ch_34.docx": [2244]}
+beza	{"Ezra_ch_2.docx": [923], "Nehemiah_ch_7.docx": [1852], "Nehemiah_ch_10.docx": [946]}

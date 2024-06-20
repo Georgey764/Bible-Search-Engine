@@ -1,0 +1,4 @@
+
+maasa	{"Joshua_ch_19.docx": [2049], "1 Chronicles_ch_6.docx": [6339, 6339, 6339], "1 Chronicles_ch_9.docx": [1631, 1631, 1631], "2 Chronicles_ch_28.docx": [958, 958, 958], "2 Chronicles_ch_34.docx": [1347, 1347, 1347]}
+maasa	{"Joshua_ch_19.docx": [2049], "1 Chronicles_ch_6.docx": [6339, 6339], "1 Chronicles_ch_9.docx": [1631, 1631], "2 Chronicles_ch_28.docx": [958, 958], "2 Chronicles_ch_34.docx": [1347, 1347]}
+maasa	{"Joshua_ch_19.docx": [2049], "1 Chronicles_ch_6.docx": [6339], "1 Chronicles_ch_9.docx": [1631], "2 Chronicles_ch_28.docx": [958], "2 Chronicles_ch_34.docx": [1347]}

@@ -1,0 +1,4 @@
+
+prone	{"Proverbs_ch_14.docx": [1437], "Proverbs_ch_21.docx": [1929, 1929, 1929], "Proverbs_ch_22.docx": [2492, 2534, 2492, 2534, 2492, 2534], "Proverbs_ch_23.docx": [528, 528, 528]}
+prone	{"Proverbs_ch_14.docx": [1437], "Proverbs_ch_21.docx": [1929, 1929], "Proverbs_ch_22.docx": [2492, 2534, 2492, 2534], "Proverbs_ch_23.docx": [528, 528]}
+prone	{"Proverbs_ch_14.docx": [1437], "Proverbs_ch_21.docx": [1929], "Proverbs_ch_22.docx": [2492, 2534], "Proverbs_ch_23.docx": [528]}

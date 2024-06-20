@@ -1,0 +1,4 @@
+
+shippi	{"Genesis_ch_49.docx": [1740], "Revelation_ch_18.docx": [3462, 3462]}
+shippi	{"Genesis_ch_49.docx": [1740], "Revelation_ch_18.docx": [3462]}
+shippi	{"Genesis_ch_49.docx": [1740], "Revelation_ch_18.docx": [3462]}

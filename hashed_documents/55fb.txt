@@ -1,0 +1,6 @@
+
+chephi	{"Nehemiah_ch_7.docx": [2084]}
+3‘w	{"Numbers_ch_14.docx": [231], "Numbers_ch_30.docx": [234], "Job_ch_10.docx": [217], "Job_ch_16.docx": [164], "Job_ch_41.docx": [193], "Psalms_ch_120.docx": [265], "Psalms_ch_132.docx": [225], "Ecclesiastes_ch_1.docx": [238], "Isaiah_ch_24.docx": [430], "Isaiah_ch_50.docx": [858], "Habakkuk_ch_1.docx": [219], "Matthew_ch_7.docx": [248]}
+chephi	{"Nehemiah_ch_7.docx": [2084]}
+2‘c	{"Jeremiah_ch_35.docx": [143], "Hosea_ch_4.docx": [228]}
+chephi	{"Nehemiah_ch_7.docx": [2084]}

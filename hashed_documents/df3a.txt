@@ -1,0 +1,4 @@
+
+sons;	{"Leviticus_ch_10.docx": [2117], "Judges_ch_8.docx": [4503, 4503, 4503], "Jeremiah_ch_3.docx": [4119, 4119, 4119], "Jeremiah_ch_29.docx": [951, 951, 951]}
+sons;	{"Leviticus_ch_10.docx": [2117], "Judges_ch_8.docx": [4503, 4503], "Jeremiah_ch_3.docx": [4119, 4119], "Jeremiah_ch_29.docx": [951, 951]}
+sons;	{"Leviticus_ch_10.docx": [2117], "Judges_ch_8.docx": [4503], "Jeremiah_ch_3.docx": [4119], "Jeremiah_ch_29.docx": [951]}

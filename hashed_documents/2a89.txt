@@ -1,0 +1,5 @@
+
+syria!	{"2 Kings_ch_13.docx": [2764], "2 Chronicles_ch_20.docx": [217, 217, 217]}
+syria!	{"2 Kings_ch_13.docx": [2764], "2 Chronicles_ch_20.docx": [217, 217]}
+12let	{"Jeremiah_ch_15.docx": [2420]}
+syria!	{"2 Kings_ch_13.docx": [2764], "2 Chronicles_ch_20.docx": [217]}

@@ -1,0 +1,6 @@
+
+brai	{"Judges_ch_16.docx": [2273, 2395, 2558, 2395, 2558, 2395, 2558], "Song of Solomon_ch_7.docx": [705, 705, 705], "Ezekiel_ch_16.docx": [1641, 2037, 1641, 2037, 1641, 2037], "Ezekiel_ch_24.docx": [2462, 2462, 2462], "Matthew_ch_27.docx": [3282, 3282], "Mark_ch_15.docx": [1575, 1575], "John_ch_19.docx": [20, 20], "Revelation_ch_15.docx": [935, 935]}
+brai	{"Judges_ch_16.docx": [2273, 2395, 2558, 2395, 2558], "Song of Solomon_ch_7.docx": [705, 705], "Ezekiel_ch_16.docx": [1641, 2037, 1641, 2037], "Ezekiel_ch_24.docx": [2462, 2462], "Matthew_ch_27.docx": [3282], "Mark_ch_15.docx": [1575], "John_ch_19.docx": [20], "Revelation_ch_15.docx": [935]}
+6fe	{"2 Samuel_ch_22.docx": [579]}
+6‘don’	{"Ecclesiastes_ch_5.docx": [814]}
+brai	{"Judges_ch_16.docx": [2273, 2395, 2558], "Song of Solomon_ch_7.docx": [705], "Ezekiel_ch_16.docx": [1641, 2037], "Ezekiel_ch_24.docx": [2462], "Matthew_ch_27.docx": [3282], "Mark_ch_15.docx": [1575], "John_ch_19.docx": [20], "Revelation_ch_15.docx": [935]}

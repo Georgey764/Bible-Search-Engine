@@ -1,0 +1,7 @@
+
+shove	{"Judges_ch_16.docx": [5608], "1 Samuel_ch_20.docx": [5242, 5242, 5242], "2 Samuel_ch_13.docx": [2090, 2090, 2090], "Matthew_ch_3.docx": [1402, 1402, 1402], "Luke_ch_3.docx": [5307, 5307]}
+craze	{"Jeremiah_ch_5.docx": [1564]}
+shove	{"Judges_ch_16.docx": [5608], "1 Samuel_ch_20.docx": [5242, 5242], "2 Samuel_ch_13.docx": [2090, 2090], "Matthew_ch_3.docx": [1402, 1402], "Luke_ch_3.docx": [5307]}
+craze	{"Jeremiah_ch_5.docx": [1564]}
+shove	{"Judges_ch_16.docx": [5608], "1 Samuel_ch_20.docx": [5242], "2 Samuel_ch_13.docx": [2090], "Matthew_ch_3.docx": [1402], "Luke_ch_3.docx": [5307]}
+craze	{"Jeremiah_ch_5.docx": [1564]}

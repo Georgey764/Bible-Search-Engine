@@ -1,0 +1,7 @@
+
+bethar	{"Joshua_ch_18.docx": [2772], "Joshua_ch_19.docx": [811, 811, 811]}
+ribla	{"Jeremiah_ch_39.docx": [893, 924, 924, 924]}
+bethar	{"Joshua_ch_18.docx": [2772], "Joshua_ch_19.docx": [811, 811]}
+ribla	{"Jeremiah_ch_39.docx": [893, 924, 924]}
+bethar	{"Joshua_ch_18.docx": [2772], "Joshua_ch_19.docx": [811]}
+ribla	{"Jeremiah_ch_39.docx": [893, 924]}

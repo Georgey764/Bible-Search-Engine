@@ -1,0 +1,7 @@
+
+jee	{"1 Chronicles_ch_6.docx": [3343], "1 Chronicles_ch_8.docx": [1825, 1825, 1825], "1 Chronicles_ch_9.docx": [695, 5072, 695, 5072, 695, 5072], "1 Chronicles_ch_27.docx": [4570, 4570, 4570]}
+beelz	{"Matthew_ch_10.docx": [3148], "Matthew_ch_12.docx": [3027, 3027, 3027], "Mark_ch_3.docx": [2587, 2587], "Luke_ch_11.docx": [2096, 2505, 2513, 2096, 2505, 2513]}
+jee	{"1 Chronicles_ch_6.docx": [3343], "1 Chronicles_ch_8.docx": [1825, 1825], "1 Chronicles_ch_9.docx": [695, 5072, 695, 5072], "1 Chronicles_ch_27.docx": [4570, 4570]}
+beelz	{"Matthew_ch_10.docx": [3148], "Matthew_ch_12.docx": [3027, 3027], "Mark_ch_3.docx": [2587], "Luke_ch_11.docx": [2096, 2505, 2513]}
+jee	{"1 Chronicles_ch_6.docx": [3343], "1 Chronicles_ch_8.docx": [1825], "1 Chronicles_ch_9.docx": [695, 5072], "1 Chronicles_ch_27.docx": [4570]}
+beelz	{"Matthew_ch_10.docx": [3148], "Matthew_ch_12.docx": [3027], "Mark_ch_3.docx": [2587], "Luke_ch_11.docx": [2096, 2505, 2513]}

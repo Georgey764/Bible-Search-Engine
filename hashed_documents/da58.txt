@@ -1,0 +1,4 @@
+
+omm	{"Genesis_ch_14.docx": [580], "Numbers_ch_25.docx": [2012, 2012, 2012], "Deuteronomy_ch_2.docx": [1440, 1472, 1440, 1472, 1440, 1472]}
+omm	{"Genesis_ch_14.docx": [580], "Numbers_ch_25.docx": [2012, 2012], "Deuteronomy_ch_2.docx": [1440, 1472, 1440, 1472]}
+omm	{"Genesis_ch_14.docx": [580], "Numbers_ch_25.docx": [2012], "Deuteronomy_ch_2.docx": [1440, 1472]}

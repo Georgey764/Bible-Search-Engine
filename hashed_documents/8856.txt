@@ -1,0 +1,4 @@
+
+grandc	{"Exodus_ch_20.docx": [262], "Leviticus_ch_18.docx": [1101, 1976, 1101, 1976, 1101, 1976], "Deuteronomy_ch_4.docx": [3827, 3827, 3827], "Deuteronomy_ch_5.docx": [954, 954, 954], "Proverbs_ch_17.docx": [571, 571, 571], "1 Timothy_ch_5.docx": [266, 266]}
+grandc	{"Exodus_ch_20.docx": [262], "Leviticus_ch_18.docx": [1101, 1976, 1101, 1976], "Deuteronomy_ch_4.docx": [3827, 3827], "Deuteronomy_ch_5.docx": [954, 954], "Proverbs_ch_17.docx": [571, 571], "1 Timothy_ch_5.docx": [266]}
+grandc	{"Exodus_ch_20.docx": [262], "Leviticus_ch_18.docx": [1101, 1976], "Deuteronomy_ch_4.docx": [3827], "Deuteronomy_ch_5.docx": [954], "Proverbs_ch_17.docx": [571], "1 Timothy_ch_5.docx": [266]}

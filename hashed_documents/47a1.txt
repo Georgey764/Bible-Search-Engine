@@ -1,0 +1,4 @@
+
+accur	{"Genesis_ch_15.docx": [670], "Deuteronomy_ch_25.docx": [1977, 1977, 1977], "Luke_ch_1.docx": [55, 55], "Romans_ch_1.docx": [3671, 3671], "Ephesians_ch_1.docx": [2315, 2315], "Colossians_ch_1.docx": [636, 636], "Colossians_ch_2.docx": [479, 519, 479, 519], "2 Timothy_ch_2.docx": [3612, 3612], "2 Peter_ch_2.docx": [3323, 3323]}
+accur	{"Genesis_ch_15.docx": [670], "Deuteronomy_ch_25.docx": [1977, 1977], "Luke_ch_1.docx": [55], "Romans_ch_1.docx": [3671], "Ephesians_ch_1.docx": [2315], "Colossians_ch_1.docx": [636], "Colossians_ch_2.docx": [479, 519], "2 Timothy_ch_2.docx": [3612], "2 Peter_ch_2.docx": [3323]}
+accur	{"Genesis_ch_15.docx": [670], "Deuteronomy_ch_25.docx": [1977], "Luke_ch_1.docx": [55], "Romans_ch_1.docx": [3671], "Ephesians_ch_1.docx": [2315], "Colossians_ch_1.docx": [636], "Colossians_ch_2.docx": [479, 519], "2 Timothy_ch_2.docx": [3612], "2 Peter_ch_2.docx": [3323]}

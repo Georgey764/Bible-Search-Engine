@@ -1,0 +1,4 @@
+
+piti	{"2 Kings_ch_13.docx": [3930], "1 Corinthians_ch_15.docx": [2089, 2089], "Revelation_ch_3.docx": [2999, 2999]}
+piti	{"2 Kings_ch_13.docx": [3930], "1 Corinthians_ch_15.docx": [2089], "Revelation_ch_3.docx": [2999]}
+piti	{"2 Kings_ch_13.docx": [3930], "1 Corinthians_ch_15.docx": [2089], "Revelation_ch_3.docx": [2999]}

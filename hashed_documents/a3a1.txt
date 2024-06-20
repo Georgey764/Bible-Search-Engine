@@ -1,0 +1,4 @@
+
+32(	{"Joshua_ch_13.docx": [34917]}
+28elbo	{"Joshua_ch_19.docx": [2288]}
+1,000,	{"2 Chronicles_ch_14.docx": [1276]}

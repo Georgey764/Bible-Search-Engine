@@ -1,0 +1,4 @@
+
+shoved	{"Judges_ch_16.docx": [5608], "1 Samuel_ch_20.docx": [5242, 5242, 5242], "2 Samuel_ch_13.docx": [2090, 2090, 2090]}
+shoved	{"Judges_ch_16.docx": [5608], "1 Samuel_ch_20.docx": [5242, 5242], "2 Samuel_ch_13.docx": [2090, 2090]}
+shoved	{"Judges_ch_16.docx": [5608], "1 Samuel_ch_20.docx": [5242], "2 Samuel_ch_13.docx": [2090]}

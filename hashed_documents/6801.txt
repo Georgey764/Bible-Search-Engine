@@ -1,0 +1,4 @@
+
+vigoro	{"1 Samuel_ch_20.docx": [175], "2 Chronicles_ch_32.docx": [554, 554, 554], "Mark_ch_7.docx": [46, 46]}
+vigoro	{"1 Samuel_ch_20.docx": [175], "2 Chronicles_ch_32.docx": [554, 554], "Mark_ch_7.docx": [46]}
+vigoro	{"1 Samuel_ch_20.docx": [175], "2 Chronicles_ch_32.docx": [554], "Mark_ch_7.docx": [46]}

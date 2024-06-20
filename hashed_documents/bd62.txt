@@ -1,0 +1,5 @@
+
+odoll	{"Genesis_ch_38.docx": [21, 1381, 2700, 1381, 2700, 1381, 2700], "Joshua_ch_10.docx": [413, 12616, 413, 12616, 413, 12616], "Joshua_ch_12.docx": [14145, 14475, 14145, 14475, 14145, 14475], "Joshua_ch_15.docx": [4660, 4660, 4660], "1 Samuel_ch_22.docx": [17, 17, 17], "2 Samuel_ch_23.docx": [2208, 2208, 2208], "1 Chronicles_ch_11.docx": [2905, 2905, 2905], "2 Chronicles_ch_11.docx": [836, 836, 836]}
+odoll	{"Genesis_ch_38.docx": [21, 1381, 2700, 1381, 2700], "Joshua_ch_10.docx": [413, 12616, 413, 12616], "Joshua_ch_12.docx": [14145, 14475, 14145, 14475], "Joshua_ch_15.docx": [4660, 4660], "1 Samuel_ch_22.docx": [17, 17], "2 Samuel_ch_23.docx": [2208, 2208], "1 Chronicles_ch_11.docx": [2905, 2905], "2 Chronicles_ch_11.docx": [836, 836]}
+7bo	{"Exodus_ch_28.docx": [738]}
+odoll	{"Genesis_ch_38.docx": [21, 1381, 2700], "Joshua_ch_10.docx": [413, 12616], "Joshua_ch_12.docx": [14145, 14475], "Joshua_ch_15.docx": [4660], "1 Samuel_ch_22.docx": [17], "2 Samuel_ch_23.docx": [2208], "1 Chronicles_ch_11.docx": [2905], "2 Chronicles_ch_11.docx": [836]}

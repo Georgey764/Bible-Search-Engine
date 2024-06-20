@@ -1,0 +1,8 @@
+
+cym	{"1 Samuel_ch_18.docx": [1010], "2 Samuel_ch_6.docx": [532, 532, 532], "1 Chronicles_ch_13.docx": [1094, 1094, 1094], "1 Chronicles_ch_15.docx": [1827, 2552, 3954, 1827, 2552, 3954, 1827, 2552, 3954], "1 Chronicles_ch_16.docx": [448, 4558, 448, 4558, 448, 4558], "1 Chronicles_ch_25.docx": [35, 963, 35, 963, 35, 963], "2 Chronicles_ch_5.docx": [1853, 2262, 1853, 2262, 1853, 2262], "2 Chronicles_ch_29.docx": [4419, 4419, 4419], "Ezra_ch_3.docx": [2168, 2168, 2168], "Nehemiah_ch_12.docx": [2818, 2818, 2818], "Psalms_ch_150.docx": [445, 486], "1 Corinthians_ch_13.docx": [31, 31]}
+quiet!	{"Mark_ch_4.docx": [4696]}
+incite	{"Acts_ch_13.docx": [8772], "Acts_ch_17.docx": [2581, 2581], "Hebrews_ch_10.docx": [2995, 2995]}
+cym	{"1 Samuel_ch_18.docx": [1010], "2 Samuel_ch_6.docx": [532, 532], "1 Chronicles_ch_13.docx": [1094, 1094], "1 Chronicles_ch_15.docx": [1827, 2552, 3954, 1827, 2552, 3954], "1 Chronicles_ch_16.docx": [448, 4558, 448, 4558], "1 Chronicles_ch_25.docx": [35, 963, 35, 963], "2 Chronicles_ch_5.docx": [1853, 2262, 1853, 2262], "2 Chronicles_ch_29.docx": [4419, 4419], "Ezra_ch_3.docx": [2168, 2168], "Nehemiah_ch_12.docx": [2818, 2818], "1 Corinthians_ch_13.docx": [31]}
+cym	{"1 Samuel_ch_18.docx": [1010], "2 Samuel_ch_6.docx": [532], "1 Chronicles_ch_13.docx": [1094], "1 Chronicles_ch_15.docx": [1827, 2552, 3954], "1 Chronicles_ch_16.docx": [448, 4558], "1 Chronicles_ch_25.docx": [35, 963], "2 Chronicles_ch_5.docx": [1853, 2262], "2 Chronicles_ch_29.docx": [4419], "Ezra_ch_3.docx": [2168], "Nehemiah_ch_12.docx": [2818], "1 Corinthians_ch_13.docx": [31]}
+quiet!	{"Mark_ch_4.docx": [4696]}
+incite	{"Acts_ch_13.docx": [8772], "Acts_ch_17.docx": [2581], "Hebrews_ch_10.docx": [2995]}

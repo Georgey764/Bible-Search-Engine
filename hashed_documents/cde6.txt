@@ -1,0 +1,6 @@
+
+first;	{"Ecclesiastes_ch_4.docx": [2085]}
+kern	{"John_ch_12.docx": [3257, 3270, 3270]}
+first;	{"Ecclesiastes_ch_4.docx": [2085]}
+first;	{"Ecclesiastes_ch_4.docx": [2085]}
+kern	{"John_ch_12.docx": [3257, 3270]}

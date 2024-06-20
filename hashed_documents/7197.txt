@@ -1,0 +1,7 @@
+
+flut	{"Judges_ch_5.docx": [2423], "Job_ch_21.docx": [1008, 1008, 1008], "Proverbs_ch_7.docx": [908, 908, 908], "Nahum_ch_2.docx": [1533, 1533, 1533], "Matthew_ch_9.docx": [3191, 3191, 3191], "Matthew_ch_11.docx": [1881, 1881, 1881], "Luke_ch_7.docx": [4627, 4627], "1 Corinthians_ch_14.docx": [1007, 1007], "Revelation_ch_18.docx": [3987, 3987]}
+remman	{"2 Kings_ch_5.docx": [3354, 3374, 3374, 3374]}
+flut	{"Judges_ch_5.docx": [2423], "Job_ch_21.docx": [1008, 1008], "Proverbs_ch_7.docx": [908, 908], "Nahum_ch_2.docx": [1533, 1533], "Matthew_ch_9.docx": [3191, 3191], "Matthew_ch_11.docx": [1881, 1881], "Luke_ch_7.docx": [4627], "1 Corinthians_ch_14.docx": [1007], "Revelation_ch_18.docx": [3987]}
+remman	{"2 Kings_ch_5.docx": [3354, 3374, 3374]}
+flut	{"Judges_ch_5.docx": [2423], "Job_ch_21.docx": [1008], "Proverbs_ch_7.docx": [908], "Nahum_ch_2.docx": [1533], "Matthew_ch_9.docx": [3191], "Matthew_ch_11.docx": [1881], "Luke_ch_7.docx": [4627], "1 Corinthians_ch_14.docx": [1007], "Revelation_ch_18.docx": [3987]}
+remman	{"2 Kings_ch_5.docx": [3354, 3374]}

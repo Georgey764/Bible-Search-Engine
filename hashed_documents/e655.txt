@@ -1,0 +1,6 @@
+
+launch	{"Ezekiel_ch_21.docx": [3254], "Daniel_ch_11.docx": [5703, 5703, 5703]}
+53we	{"Genesis_ch_41.docx": [7006], "Matthew_ch_13.docx": [7125]}
+48‘bu	{"Leviticus_ch_14.docx": [7095]}
+launch	{"Ezekiel_ch_21.docx": [3254], "Daniel_ch_11.docx": [5703, 5703]}
+launch	{"Ezekiel_ch_21.docx": [3254], "Daniel_ch_11.docx": [5703]}

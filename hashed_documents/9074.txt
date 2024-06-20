@@ -1,0 +1,4 @@
+
+dawnin	{"Jeremiah_ch_23.docx": [869], "Luke_ch_22.docx": [7615, 7615]}
+dawnin	{"Jeremiah_ch_23.docx": [869], "Luke_ch_22.docx": [7615]}
+dawnin	{"Jeremiah_ch_23.docx": [869], "Luke_ch_22.docx": [7615]}

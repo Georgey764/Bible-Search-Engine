@@ -1,0 +1,7 @@
+
+partyi	{"Exodus_ch_32.docx": [2690], "Romans_ch_13.docx": [2024, 2024], "Galatians_ch_5.docx": [2561, 2561], "1 Peter_ch_4.docx": [353, 353]}
+rains	{"Deuteronomy_ch_11.docx": [1793, 1798, 1801, 1798, 1801, 1798, 1801], "1 Kings_ch_18.docx": [7700, 7700, 7700], "Song of Solomon_ch_2.docx": [1296, 1296, 1296], "Jeremiah_ch_5.docx": [4496, 4496, 4496], "Joel_ch_2.docx": [4257, 4257, 4257], "Zechariah_ch_10.docx": [83, 196, 83, 196, 83, 196], "Matthew_ch_7.docx": [2948, 3098, 2948, 3098, 2948, 3098]}
+partyi	{"Exodus_ch_32.docx": [2690], "Romans_ch_13.docx": [2024], "Galatians_ch_5.docx": [2561], "1 Peter_ch_4.docx": [353]}
+rains	{"Deuteronomy_ch_11.docx": [1793, 1798, 1801, 1798, 1801], "1 Kings_ch_18.docx": [7700, 7700], "Song of Solomon_ch_2.docx": [1296, 1296], "Jeremiah_ch_5.docx": [4496, 4496], "Joel_ch_2.docx": [4257, 4257], "Zechariah_ch_10.docx": [83, 196, 83, 196], "Matthew_ch_7.docx": [2948, 3098, 2948, 3098]}
+partyi	{"Exodus_ch_32.docx": [2690], "Romans_ch_13.docx": [2024], "Galatians_ch_5.docx": [2561], "1 Peter_ch_4.docx": [353]}
+rains	{"Deuteronomy_ch_11.docx": [1793, 1798, 1801], "1 Kings_ch_18.docx": [7700], "Song of Solomon_ch_2.docx": [1296], "Jeremiah_ch_5.docx": [4496], "Joel_ch_2.docx": [4257], "Zechariah_ch_10.docx": [83, 196], "Matthew_ch_7.docx": [2948, 3098]}

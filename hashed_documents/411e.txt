@@ -1,0 +1,7 @@
+
+arim	{"1 Chronicles_ch_2.docx": [4575]}
+gamo	{"1 Chronicles_ch_24.docx": [1859]}
+arim	{"1 Chronicles_ch_2.docx": [4575]}
+gamo	{"1 Chronicles_ch_24.docx": [1859]}
+arim	{"1 Chronicles_ch_2.docx": [4575]}
+gamo	{"1 Chronicles_ch_24.docx": [1859]}

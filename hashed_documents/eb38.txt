@@ -1,0 +1,4 @@
+
+jairus	{"Esther_ch_2.docx": [1097], "Mark_ch_5.docx": [2429, 2429], "Luke_ch_8.docx": [6190, 6190]}
+jairus	{"Esther_ch_2.docx": [1097], "Mark_ch_5.docx": [2429], "Luke_ch_8.docx": [6190]}
+jairus	{"Esther_ch_2.docx": [1097], "Mark_ch_5.docx": [2429], "Luke_ch_8.docx": [6190]}

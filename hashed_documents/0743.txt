@@ -1,0 +1,5 @@
+
+muddie	{"Ezekiel_ch_32.docx": [433], "Ezekiel_ch_34.docx": [3377, 3484, 3377, 3484, 3377, 3484], "Hosea_ch_6.docx": [1107, 1107, 1107]}
+19onl	{"Psalms_ch_33.docx": [1563]}
+muddie	{"Ezekiel_ch_32.docx": [433], "Ezekiel_ch_34.docx": [3377, 3484, 3377, 3484], "Hosea_ch_6.docx": [1107, 1107]}
+muddie	{"Ezekiel_ch_32.docx": [433], "Ezekiel_ch_34.docx": [3377, 3484], "Hosea_ch_6.docx": [1107]}

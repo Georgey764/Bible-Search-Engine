@@ -1,0 +1,5 @@
+
+jesph	{"1 Chronicles_ch_8.docx": [1156, 1464, 1464, 1464]}
+jesph	{"1 Chronicles_ch_8.docx": [1156, 1464, 1464]}
+19su	{"Psalms_ch_136.docx": [1953]}
+jesph	{"1 Chronicles_ch_8.docx": [1156, 1464]}

@@ -1,0 +1,4 @@
+
+aphek	{"1 Samuel_ch_4.docx": [140], "1 Samuel_ch_29.docx": [14, 14, 14], "1 Kings_ch_20.docx": [4384, 5098, 4384, 5098, 4384, 5098], "2 Kings_ch_13.docx": [2844, 2844, 2844]}
+aphek	{"1 Samuel_ch_4.docx": [140], "1 Samuel_ch_29.docx": [14, 14], "1 Kings_ch_20.docx": [4384, 5098, 4384, 5098], "2 Kings_ch_13.docx": [2844, 2844]}
+aphek	{"1 Samuel_ch_4.docx": [140], "1 Samuel_ch_29.docx": [14], "1 Kings_ch_20.docx": [4384, 5098], "2 Kings_ch_13.docx": [2844]}

@@ -1,0 +1,7 @@
+
+kecha	{"2 Samuel_ch_18.docx": [3954]}
+god-fe	{"2 Chronicles_ch_5.docx": [765], "John_ch_9.docx": [3498, 3498], "Acts_ch_10.docx": [2587, 2587], "Ephesians_ch_4.docx": [2491, 2491]}
+kecha	{"2 Samuel_ch_18.docx": [3954]}
+god-fe	{"2 Chronicles_ch_5.docx": [765], "John_ch_9.docx": [3498], "Acts_ch_10.docx": [2587], "Ephesians_ch_4.docx": [2491]}
+kecha	{"2 Samuel_ch_18.docx": [3954]}
+god-fe	{"2 Chronicles_ch_5.docx": [765], "John_ch_9.docx": [3498], "Acts_ch_10.docx": [2587], "Ephesians_ch_4.docx": [2491]}

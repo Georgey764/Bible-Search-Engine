@@ -1,0 +1,7 @@
+
+daluj	{"2 Samuel_ch_3.docx": [312]}
+scorni	{"Psalms_ch_79.docx": [1368], "Isaiah_ch_37.docx": [380, 380, 380], "Isaiah_ch_51.docx": [1436, 1436, 1436], "Joel_ch_2.docx": [3096, 3096, 3096], "Zephaniah_ch_2.docx": [2191, 2197, 2204, 2191, 2197, 2204, 2191, 2197, 2204]}
+daluj	{"2 Samuel_ch_3.docx": [312]}
+scorni	{"Psalms_ch_79.docx": [1368], "Isaiah_ch_37.docx": [380, 380], "Isaiah_ch_51.docx": [1436, 1436], "Joel_ch_2.docx": [3096, 3096], "Zephaniah_ch_2.docx": [2191, 2197, 2204, 2191, 2197, 2204]}
+daluj	{"2 Samuel_ch_3.docx": [312]}
+scorni	{"Psalms_ch_79.docx": [1368], "Isaiah_ch_37.docx": [380], "Isaiah_ch_51.docx": [1436], "Joel_ch_2.docx": [3096], "Zephaniah_ch_2.docx": [2191, 2197, 2204]}

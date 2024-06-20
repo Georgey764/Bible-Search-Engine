@@ -1,0 +1,4 @@
+
+oma	{"Genesis_ch_36.docx": [1274, 1681, 2646, 1681, 2646, 1681, 2646], "Joshua_ch_19.docx": [3033, 3033, 3033], "1 Chronicles_ch_1.docx": [2891, 2891, 2891]}
+oma	{"Genesis_ch_36.docx": [1274, 1681, 2646, 1681, 2646], "Joshua_ch_19.docx": [3033, 3033], "1 Chronicles_ch_1.docx": [2891, 2891]}
+oma	{"Genesis_ch_36.docx": [1274, 1681, 2646], "Joshua_ch_19.docx": [3033], "1 Chronicles_ch_1.docx": [2891]}

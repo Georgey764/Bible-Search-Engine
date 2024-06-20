@@ -1,0 +1,4 @@
+
+cracks	{"Psalms_ch_60.docx": [591], "Isaiah_ch_2.docx": [2337, 2700, 2337, 2700, 2337, 2700]}
+cracks	{"Psalms_ch_60.docx": [591], "Isaiah_ch_2.docx": [2337, 2700, 2337, 2700]}
+cracks	{"Psalms_ch_60.docx": [591], "Isaiah_ch_2.docx": [2337, 2700]}

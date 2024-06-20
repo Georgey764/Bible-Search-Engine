@@ -1,0 +1,4 @@
+
+zabdi	{"1 Chronicles_ch_8.docx": [1345], "1 Chronicles_ch_27.docx": [310, 3768, 310, 3768, 310, 3768], "2 Chronicles_ch_17.docx": [1109, 1109, 1109], "2 Chronicles_ch_19.docx": [1803, 1803, 1803], "Nehemiah_ch_11.docx": [2167, 2167, 2167]}
+zabdi	{"1 Chronicles_ch_8.docx": [1345], "1 Chronicles_ch_27.docx": [310, 3768, 310, 3768], "2 Chronicles_ch_17.docx": [1109, 1109], "2 Chronicles_ch_19.docx": [1803, 1803], "Nehemiah_ch_11.docx": [2167, 2167]}
+zabdi	{"1 Chronicles_ch_8.docx": [1345], "1 Chronicles_ch_27.docx": [310, 3768], "2 Chronicles_ch_17.docx": [1109], "2 Chronicles_ch_19.docx": [1803], "Nehemiah_ch_11.docx": [2167]}

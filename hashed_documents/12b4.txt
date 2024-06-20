@@ -1,0 +1,6 @@
+
+emi	{"Numbers_ch_1.docx": [944], "Numbers_ch_7.docx": [5633, 6272, 5633, 6272, 5633, 6272], "2 Samuel_ch_13.docx": [5939, 5939, 5939], "1 Chronicles_ch_4.docx": [3528, 3528, 3528], "1 Chronicles_ch_14.docx": [14, 14, 14], "1 Chronicles_ch_19.docx": [1057, 1057, 1057]}
+asia[	{"Acts_ch_2.docx": [1730]}
+emi	{"Numbers_ch_1.docx": [944], "Numbers_ch_7.docx": [5633, 6272, 5633, 6272], "2 Samuel_ch_13.docx": [5939, 5939], "1 Chronicles_ch_4.docx": [3528, 3528], "1 Chronicles_ch_14.docx": [14, 14], "1 Chronicles_ch_19.docx": [1057, 1057]}
+emi	{"Numbers_ch_1.docx": [944], "Numbers_ch_7.docx": [5633, 6272], "2 Samuel_ch_13.docx": [5939], "1 Chronicles_ch_4.docx": [3528], "1 Chronicles_ch_14.docx": [14], "1 Chronicles_ch_19.docx": [1057]}
+asia[	{"Acts_ch_2.docx": [1730]}

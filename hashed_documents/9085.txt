@@ -1,0 +1,5 @@
+
+chusha	{"Judges_ch_3.docx": [4575, 4597, 4621, 4597, 4621, 4597, 4621]}
+12‘any	{"Leviticus_ch_15.docx": [1583]}
+chusha	{"Judges_ch_3.docx": [4575, 4597, 4621, 4597, 4621]}
+chusha	{"Judges_ch_3.docx": [4575, 4597, 4621]}

@@ -1,0 +1,4 @@
+
+death]	{"Genesis_ch_49.docx": [3824], "Exodus_ch_21.docx": [1551, 1551, 1551], "John_ch_8.docx": [348, 348], "Hebrews_ch_7.docx": [1270, 1270]}
+death]	{"Genesis_ch_49.docx": [3824], "Exodus_ch_21.docx": [1551, 1551], "John_ch_8.docx": [348], "Hebrews_ch_7.docx": [1270]}
+death]	{"Genesis_ch_49.docx": [3824], "Exodus_ch_21.docx": [1551], "John_ch_8.docx": [348], "Hebrews_ch_7.docx": [1270]}

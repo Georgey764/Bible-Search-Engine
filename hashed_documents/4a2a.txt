@@ -1,0 +1,4 @@
+
+aili	{"Exodus_ch_15.docx": [3899], "Exodus_ch_16.docx": [7, 25, 7, 25, 7, 25], "Numbers_ch_33.docx": [1061, 1193, 1061, 1193, 1061, 1193]}
+aili	{"Exodus_ch_15.docx": [3899], "Exodus_ch_16.docx": [7, 25, 7, 25], "Numbers_ch_33.docx": [1061, 1193, 1061, 1193]}
+aili	{"Exodus_ch_15.docx": [3899], "Exodus_ch_16.docx": [7, 25], "Numbers_ch_33.docx": [1061, 1193]}

@@ -1,0 +1,5 @@
+
+doted	{"Ezekiel_ch_23.docx": [716, 2436, 2436, 2436]}
+10‘fro	{"Job_ch_37.docx": [930]}
+doted	{"Ezekiel_ch_23.docx": [716, 2436, 2436]}
+doted	{"Ezekiel_ch_23.docx": [716, 2436]}

@@ -1,0 +1,6 @@
+
+uraeoe	{"2 Samuel_ch_23.docx": [4863]}
+sched	{"Luke_ch_1.docx": [966], "Acts_ch_3.docx": [15, 15]}
+uraeoe	{"2 Samuel_ch_23.docx": [4863]}
+uraeoe	{"2 Samuel_ch_23.docx": [4863]}
+sched	{"Luke_ch_1.docx": [966], "Acts_ch_3.docx": [15]}

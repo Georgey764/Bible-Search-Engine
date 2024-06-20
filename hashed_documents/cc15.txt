@@ -1,0 +1,4 @@
+
+boldn	{"Proverbs_ch_18.docx": [528], "1 Thessalonians_ch_2.docx": [36, 36]}
+boldn	{"Proverbs_ch_18.docx": [528], "1 Thessalonians_ch_2.docx": [36]}
+boldn	{"Proverbs_ch_18.docx": [528], "1 Thessalonians_ch_2.docx": [36]}

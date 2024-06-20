@@ -1,0 +1,6 @@
+
+elpha	{"1 Chronicles_ch_8.docx": [1183]}
+40t	{"Genesis_ch_30.docx": [5027], "Genesis_ch_36.docx": [4152], "Exodus_ch_39.docx": [4707], "Leviticus_ch_14.docx": [5986], "Numbers_ch_3.docx": [4825], "Numbers_ch_14.docx": [5657], "Numbers_ch_22.docx": [5582], "Deuteronomy_ch_1.docx": [324], "Joshua_ch_10.docx": [13269], "Joshua_ch_19.docx": [3265], "1 Samuel_ch_14.docx": [6475], "1 Samuel_ch_20.docx": [6224], "1 Chronicles_ch_4.docx": [4360], "1 Chronicles_ch_7.docx": [4531], "1 Chronicles_ch_8.docx": [2808], "1 Chronicles_ch_9.docx": [5555], "1 Chronicles_ch_12.docx": [5107], "1 Chronicles_ch_26.docx": [4224], "2 Chronicles_ch_16.docx": [2017], "Ezra_ch_2.docx": [1523], "Nehemiah_ch_7.docx": [2479], "Psalms_ch_78.docx": [3960], "Jeremiah_ch_23.docx": [6990], "Ezekiel_ch_20.docx": [7017]}
+elpha	{"1 Chronicles_ch_8.docx": [1183]}
+8‘wild	{"Job_ch_37.docx": [769]}
+elpha	{"1 Chronicles_ch_8.docx": [1183]}

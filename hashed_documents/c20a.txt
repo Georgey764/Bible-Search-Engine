@@ -1,0 +1,4 @@
+
+gazer	{"Joshua_ch_12.docx": [14006], "Joshua_ch_16.docx": [1023, 1023, 1023], "1 Chronicles_ch_6.docx": [5739, 5739, 5739], "1 Chronicles_ch_7.docx": [3404, 3404, 3404], "1 Chronicles_ch_20.docx": [828, 828, 828]}
+gazer	{"Joshua_ch_12.docx": [14006], "Joshua_ch_16.docx": [1023, 1023], "1 Chronicles_ch_6.docx": [5739, 5739], "1 Chronicles_ch_7.docx": [3404, 3404], "1 Chronicles_ch_20.docx": [828, 828]}
+gazer	{"Joshua_ch_12.docx": [14006], "Joshua_ch_16.docx": [1023], "1 Chronicles_ch_6.docx": [5739], "1 Chronicles_ch_7.docx": [3404], "1 Chronicles_ch_20.docx": [828]}

@@ -1,0 +1,5 @@
+
+variou	{"Esther_ch_1.docx": [222, 1250, 1250, 1250], "Ezekiel_ch_4.docx": [1692, 1692, 1692], "Matthew_ch_4.docx": [2988, 2988, 2988], "Mark_ch_1.docx": [3678, 3678], "Luke_ch_4.docx": [5863, 5863], "Hebrews_ch_9.docx": [1148, 1148], "James_ch_1.docx": [155, 155], "1 Peter_ch_1.docx": [2995, 2995]}
+100,	{"1 Kings_ch_20.docx": [5084], "2 Kings_ch_3.docx": [429, 432], "1 Chronicles_ch_5.docx": [2792], "2 Chronicles_ch_25.docx": [894]}
+variou	{"Esther_ch_1.docx": [222, 1250, 1250], "Ezekiel_ch_4.docx": [1692, 1692], "Matthew_ch_4.docx": [2988, 2988], "Mark_ch_1.docx": [3678], "Luke_ch_4.docx": [5863], "Hebrews_ch_9.docx": [1148], "James_ch_1.docx": [155], "1 Peter_ch_1.docx": [2995]}
+variou	{"Esther_ch_1.docx": [222, 1250], "Ezekiel_ch_4.docx": [1692], "Matthew_ch_4.docx": [2988], "Mark_ch_1.docx": [3678], "Luke_ch_4.docx": [5863], "Hebrews_ch_9.docx": [1148], "James_ch_1.docx": [155], "1 Peter_ch_1.docx": [2995]}

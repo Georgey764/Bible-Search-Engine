@@ -1,0 +1,5 @@
+
+glu	{"Isaiah_ch_65.docx": [2618], "Matthew_ch_11.docx": [2016, 2016, 2016], "Luke_ch_7.docx": [4905, 4905], "Titus_ch_1.docx": [1620, 1620]}
+44mea	{"Judges_ch_9.docx": [8213]}
+glu	{"Isaiah_ch_65.docx": [2618], "Matthew_ch_11.docx": [2016, 2016], "Luke_ch_7.docx": [4905], "Titus_ch_1.docx": [1620]}
+glu	{"Isaiah_ch_65.docx": [2618], "Matthew_ch_11.docx": [2016], "Luke_ch_7.docx": [4905], "Titus_ch_1.docx": [1620]}

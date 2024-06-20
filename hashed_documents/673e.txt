@@ -1,0 +1,4 @@
+
+unique	{"Exodus_ch_35.docx": [3697], "2 Chronicles_ch_4.docx": [1011, 2314, 1011, 2314, 1011, 2314]}
+unique	{"Exodus_ch_35.docx": [3697], "2 Chronicles_ch_4.docx": [1011, 2314, 1011, 2314]}
+unique	{"Exodus_ch_35.docx": [3697], "2 Chronicles_ch_4.docx": [1011, 2314]}

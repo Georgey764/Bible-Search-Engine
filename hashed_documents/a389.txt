@@ -1,0 +1,4 @@
+
+goal	{"Proverbs_ch_2.docx": [819], "Romans_ch_15.docx": [2931, 2931], "Philippians_ch_3.docx": [2115, 2115], "James_ch_1.docx": [318, 318]}
+goal	{"Proverbs_ch_2.docx": [819], "Romans_ch_15.docx": [2931], "Philippians_ch_3.docx": [2115], "James_ch_1.docx": [318]}
+goal	{"Proverbs_ch_2.docx": [819], "Romans_ch_15.docx": [2931], "Philippians_ch_3.docx": [2115], "James_ch_1.docx": [318]}

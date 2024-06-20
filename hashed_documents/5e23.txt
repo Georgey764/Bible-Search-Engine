@@ -1,0 +1,4 @@
+
+shores	{"Genesis_ch_22.docx": [2492], "Numbers_ch_24.docx": [3109, 3109, 3109]}
+shores	{"Genesis_ch_22.docx": [2492], "Numbers_ch_24.docx": [3109, 3109]}
+shores	{"Genesis_ch_22.docx": [2492], "Numbers_ch_24.docx": [3109]}

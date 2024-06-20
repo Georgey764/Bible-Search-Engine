@@ -1,0 +1,5 @@
+
+washb	{"2 Kings_ch_16.docx": [2864], "2 Chronicles_ch_4.docx": [761, 761, 761], "Ezra_ch_1.docx": [1637, 1637, 1637]}
+50so	{"Numbers_ch_26.docx": [5130], "1 Samuel_ch_17.docx": [7813]}
+washb	{"2 Kings_ch_16.docx": [2864], "2 Chronicles_ch_4.docx": [761, 761], "Ezra_ch_1.docx": [1637, 1637]}
+washb	{"2 Kings_ch_16.docx": [2864], "2 Chronicles_ch_4.docx": [761], "Ezra_ch_1.docx": [1637]}

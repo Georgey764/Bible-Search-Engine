@@ -1,0 +1,5 @@
+
+matu	{"Leviticus_ch_13.docx": [1553], "Job_ch_32.docx": [1506, 1506, 1506], "1 Corinthians_ch_2.docx": [497, 497], "Philippians_ch_3.docx": [2301, 2301], "Hebrews_ch_6.docx": [18, 18]}
+matu	{"Leviticus_ch_13.docx": [1553], "Job_ch_32.docx": [1506, 1506], "1 Corinthians_ch_2.docx": [497], "Philippians_ch_3.docx": [2301], "Hebrews_ch_6.docx": [18]}
+14ther	{"Joshua_ch_10.docx": [6461], "2 Kings_ch_24.docx": [2098], "2 Chronicles_ch_1.docx": [2135], "Psalms_ch_92.docx": [1269], "Psalms_ch_107.docx": [1152], "Isaiah_ch_63.docx": [1963]}
+matu	{"Leviticus_ch_13.docx": [1553], "Job_ch_32.docx": [1506], "1 Corinthians_ch_2.docx": [497], "Philippians_ch_3.docx": [2301], "Hebrews_ch_6.docx": [18]}

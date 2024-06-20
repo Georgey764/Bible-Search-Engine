@@ -1,0 +1,4 @@
+
+zari	{"1 Kings_ch_4.docx": [3498], "1 Chronicles_ch_6.docx": [408, 432, 408, 432, 408, 432], "2 Chronicles_ch_17.docx": [2068, 2068, 2068]}
+zari	{"1 Kings_ch_4.docx": [3498], "1 Chronicles_ch_6.docx": [408, 432, 408, 432], "2 Chronicles_ch_17.docx": [2068, 2068]}
+zari	{"1 Kings_ch_4.docx": [3498], "1 Chronicles_ch_6.docx": [408, 432], "2 Chronicles_ch_17.docx": [2068]}

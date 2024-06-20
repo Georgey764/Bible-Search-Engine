@@ -1,0 +1,4 @@
+
+smit	{"2 Samuel_ch_13.docx": [34], "Isaiah_ch_40.docx": [2743, 2743, 2743], "Isaiah_ch_44.docx": [1911, 1911, 1911], "Isaiah_ch_46.docx": [846, 846, 846], "Jeremiah_ch_6.docx": [5167, 5167, 5167]}
+smit	{"2 Samuel_ch_13.docx": [34], "Isaiah_ch_40.docx": [2743, 2743], "Isaiah_ch_44.docx": [1911, 1911], "Isaiah_ch_46.docx": [846, 846], "Jeremiah_ch_6.docx": [5167, 5167]}
+smit	{"2 Samuel_ch_13.docx": [34], "Isaiah_ch_40.docx": [2743], "Isaiah_ch_44.docx": [1911], "Isaiah_ch_46.docx": [846], "Jeremiah_ch_6.docx": [5167]}

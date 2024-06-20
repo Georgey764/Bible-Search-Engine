@@ -1,0 +1,5 @@
+
+key	{"Judges_ch_3.docx": [8967], "1 Chronicles_ch_9.docx": [3953, 3953, 3953], "Isaiah_ch_22.docx": [3189, 3189, 3189], "Isaiah_ch_33.docx": [873, 873, 873], "Matthew_ch_16.docx": [2428, 2428, 2428], "Luke_ch_11.docx": [7240, 7240], "Revelation_ch_1.docx": [2779, 2779], "Revelation_ch_3.docx": [1185, 1185], "Revelation_ch_9.docx": [31, 31], "Revelation_ch_20.docx": [28, 28]}
+59m	{"Joshua_ch_15.docx": [6066]}
+key	{"Judges_ch_3.docx": [8967], "1 Chronicles_ch_9.docx": [3953, 3953], "Isaiah_ch_22.docx": [3189, 3189], "Isaiah_ch_33.docx": [873, 873], "Matthew_ch_16.docx": [2428, 2428], "Luke_ch_11.docx": [7240], "Revelation_ch_1.docx": [2779], "Revelation_ch_3.docx": [1185], "Revelation_ch_9.docx": [31], "Revelation_ch_20.docx": [28]}
+key	{"Judges_ch_3.docx": [8967], "1 Chronicles_ch_9.docx": [3953], "Isaiah_ch_22.docx": [3189], "Isaiah_ch_33.docx": [873], "Matthew_ch_16.docx": [2428], "Luke_ch_11.docx": [7240], "Revelation_ch_1.docx": [2779], "Revelation_ch_3.docx": [1185], "Revelation_ch_9.docx": [31], "Revelation_ch_20.docx": [28]}

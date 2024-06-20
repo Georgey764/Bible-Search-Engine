@@ -1,0 +1,7 @@
+
+condu	{"Numbers_ch_1.docx": [3957], "Numbers_ch_26.docx": [6725, 6725, 6725], "1 Chronicles_ch_15.docx": [2982, 2982, 2982], "1 Chronicles_ch_16.docx": [421, 421, 421], "Isaiah_ch_22.docx": [2289, 2289, 2289], "1 Corinthians_ch_14.docx": [5301, 5301], "2 Corinthians_ch_1.docx": [2285, 2285], "Ephesians_ch_5.docx": [383, 383], "Philippians_ch_1.docx": [3781, 3797, 3781, 3797], "1 Timothy_ch_3.docx": [1635, 1635], "1 Peter_ch_3.docx": [29, 2143, 29, 2143]}
+loathe	{"Psalms_ch_22.docx": [2360], "Psalms_ch_95.docx": [904, 904, 904], "Ezekiel_ch_36.docx": [5623, 5623, 5623]}
+condu	{"Numbers_ch_1.docx": [3957], "Numbers_ch_26.docx": [6725, 6725], "1 Chronicles_ch_15.docx": [2982, 2982], "1 Chronicles_ch_16.docx": [421, 421], "Isaiah_ch_22.docx": [2289, 2289], "1 Corinthians_ch_14.docx": [5301], "2 Corinthians_ch_1.docx": [2285], "Ephesians_ch_5.docx": [383], "Philippians_ch_1.docx": [3781, 3797], "1 Timothy_ch_3.docx": [1635], "1 Peter_ch_3.docx": [29, 2143]}
+loathe	{"Psalms_ch_22.docx": [2360], "Psalms_ch_95.docx": [904, 904], "Ezekiel_ch_36.docx": [5623, 5623]}
+condu	{"Numbers_ch_1.docx": [3957], "Numbers_ch_26.docx": [6725], "1 Chronicles_ch_15.docx": [2982], "1 Chronicles_ch_16.docx": [421], "Isaiah_ch_22.docx": [2289], "1 Corinthians_ch_14.docx": [5301], "2 Corinthians_ch_1.docx": [2285], "Ephesians_ch_5.docx": [383], "Philippians_ch_1.docx": [3781, 3797], "1 Timothy_ch_3.docx": [1635], "1 Peter_ch_3.docx": [29, 2143]}
+loathe	{"Psalms_ch_22.docx": [2360], "Psalms_ch_95.docx": [904], "Ezekiel_ch_36.docx": [5623]}

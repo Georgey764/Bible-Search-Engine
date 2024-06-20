@@ -1,0 +1,7 @@
+
+aisa	{"Joshua_ch_15.docx": [5611], "1 Chronicles_ch_4.docx": [3679, 3679, 3679]}
+jezi	{"Joshua_ch_17.docx": [335, 354, 354, 354], "2 Kings_ch_12.docx": [3364, 3364], "1 Chronicles_ch_12.docx": [630, 630, 630], "1 Chronicles_ch_23.docx": [2016, 2016, 2016]}
+aisa	{"Joshua_ch_15.docx": [5611], "1 Chronicles_ch_4.docx": [3679, 3679]}
+jezi	{"Joshua_ch_17.docx": [335, 354, 354], "1 Chronicles_ch_12.docx": [630, 630], "1 Chronicles_ch_23.docx": [2016, 2016], "2 Kings_ch_12.docx": [3364]}
+aisa	{"Joshua_ch_15.docx": [5611], "1 Chronicles_ch_4.docx": [3679]}
+jezi	{"Joshua_ch_17.docx": [335, 354], "2 Kings_ch_12.docx": [3364], "1 Chronicles_ch_12.docx": [630], "1 Chronicles_ch_23.docx": [2016]}

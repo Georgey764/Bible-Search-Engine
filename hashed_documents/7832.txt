@@ -1,0 +1,2 @@
+
+21ther	{"Exodus_ch_37.docx": [2189], "Joshua_ch_6.docx": [2590], "Judges_ch_9.docx": [4437], "1 Kings_ch_16.docx": [3213], "Proverbs_ch_19.docx": [1889], "Isaiah_ch_57.docx": [3256], "Daniel_ch_11.docx": [4011]}

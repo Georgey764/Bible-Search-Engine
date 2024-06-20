@@ -1,0 +1,2 @@
+
+38an	{"Genesis_ch_19.docx": [5876], "Exodus_ch_28.docx": [4777], "Numbers_ch_22.docx": [5457], "Numbers_ch_29.docx": [4711], "Judges_ch_9.docx": [7352], "Judges_ch_11.docx": [8777], "1 Samuel_ch_20.docx": [5958], "1 Samuel_ch_25.docx": [6143], "2 Samuel_ch_19.docx": [6256], "1 Kings_ch_2.docx": [7061], "1 Kings_ch_6.docx": [4365], "Nehemiah_ch_9.docx": [8250], "Nehemiah_ch_12.docx": [6950], "Psalms_ch_119.docx": [2993], "Isaiah_ch_37.docx": [6034], "Daniel_ch_2.docx": [6340], "Matthew_ch_13.docx": [5164]}

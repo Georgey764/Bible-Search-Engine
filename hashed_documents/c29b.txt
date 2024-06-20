@@ -1,0 +1,4 @@
+
+rape	{"Judges_ch_19.docx": [4261], "Judges_ch_20.docx": [585, 585, 585], "2 Samuel_ch_13.docx": [1838, 2096, 3491, 5156, 1838, 2096, 3491, 5156, 1838, 2096, 3491, 5156]}
+rape	{"Judges_ch_19.docx": [4261], "Judges_ch_20.docx": [585, 585], "2 Samuel_ch_13.docx": [1838, 2096, 3491, 5156, 1838, 2096, 3491, 5156]}
+rape	{"Judges_ch_19.docx": [4261], "Judges_ch_20.docx": [585], "2 Samuel_ch_13.docx": [1838, 2096, 3491, 5156]}

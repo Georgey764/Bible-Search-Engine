@@ -1,0 +1,5 @@
+
+henada	{"Ezra_ch_3.docx": [1945], "Nehemiah_ch_3.docx": [9353, 11315, 9353, 11315, 9353, 11315], "Nehemiah_ch_10.docx": [464, 464, 464]}
+76,500	{"Numbers_ch_26.docx": [1863]}
+henada	{"Ezra_ch_3.docx": [1945], "Nehemiah_ch_3.docx": [9353, 11315, 9353, 11315], "Nehemiah_ch_10.docx": [464, 464]}
+henada	{"Ezra_ch_3.docx": [1945], "Nehemiah_ch_3.docx": [9353, 11315], "Nehemiah_ch_10.docx": [464]}

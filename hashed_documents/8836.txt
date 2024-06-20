@@ -1,0 +1,4 @@
+
+sheddi	{"Leviticus_ch_17.docx": [564], "1 Samuel_ch_25.docx": [3839, 5129, 3839, 5129, 3839, 5129], "2 Samuel_ch_21.docx": [151, 151, 151], "Psalms_ch_94.docx": [1853, 1853, 1853], "Jeremiah_ch_22.docx": [611, 2953, 611, 2953, 611, 2953], "Lamentations_ch_4.docx": [2068, 2068, 2068], "Ezekiel_ch_22.docx": [1227, 1227, 1227]}
+sheddi	{"Leviticus_ch_17.docx": [564], "1 Samuel_ch_25.docx": [3839, 5129, 3839, 5129], "2 Samuel_ch_21.docx": [151, 151], "Psalms_ch_94.docx": [1853, 1853], "Jeremiah_ch_22.docx": [611, 2953, 611, 2953], "Lamentations_ch_4.docx": [2068, 2068], "Ezekiel_ch_22.docx": [1227, 1227]}
+sheddi	{"Leviticus_ch_17.docx": [564], "1 Samuel_ch_25.docx": [3839, 5129], "2 Samuel_ch_21.docx": [151], "Psalms_ch_94.docx": [1853], "Jeremiah_ch_22.docx": [611, 2953], "Lamentations_ch_4.docx": [2068], "Ezekiel_ch_22.docx": [1227]}

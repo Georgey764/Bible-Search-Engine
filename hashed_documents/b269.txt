@@ -1,0 +1,7 @@
+
+lud	{"Genesis_ch_10.docx": [2572], "1 Chronicles_ch_1.docx": [959, 959, 959]}
+bathra	{"1 Chronicles_ch_4.docx": [1267]}
+lud	{"Genesis_ch_10.docx": [2572], "1 Chronicles_ch_1.docx": [959, 959]}
+bathra	{"1 Chronicles_ch_4.docx": [1267]}
+lud	{"Genesis_ch_10.docx": [2572], "1 Chronicles_ch_1.docx": [959]}
+bathra	{"1 Chronicles_ch_4.docx": [1267]}

@@ -1,0 +1,5 @@
+
+raze	{"Jeremiah_ch_50.docx": [2824], "Ezekiel_ch_13.docx": [2598, 2598, 2598], "Ezekiel_ch_36.docx": [6400, 6400, 6400]}
+10-1/2	{"1 Kings_ch_6.docx": [689]}
+raze	{"Jeremiah_ch_50.docx": [2824], "Ezekiel_ch_13.docx": [2598, 2598], "Ezekiel_ch_36.docx": [6400, 6400]}
+raze	{"Jeremiah_ch_50.docx": [2824], "Ezekiel_ch_13.docx": [2598], "Ezekiel_ch_36.docx": [6400]}

@@ -1,0 +1,9 @@
+
+amene	{"Genesis_ch_41.docx": [14], "2 Samuel_ch_8.docx": [992, 992, 992]}
+magada	{"Joshua_ch_15.docx": [4823], "1 Samuel_ch_14.docx": [238, 238, 238], "Matthew_ch_15.docx": [4587, 4587, 4587]}
+costs	{"Luke_ch_14.docx": [3544]}
+amene	{"Genesis_ch_41.docx": [14], "2 Samuel_ch_8.docx": [992, 992]}
+magada	{"Joshua_ch_15.docx": [4823], "1 Samuel_ch_14.docx": [238, 238], "Matthew_ch_15.docx": [4587, 4587]}
+amene	{"Genesis_ch_41.docx": [14], "2 Samuel_ch_8.docx": [992]}
+magada	{"Joshua_ch_15.docx": [4823], "1 Samuel_ch_14.docx": [238], "Matthew_ch_15.docx": [4587]}
+costs	{"Luke_ch_14.docx": [3544]}

@@ -1,0 +1,3 @@
+
+steppi	{"Luke_ch_12.docx": [19], "Revelation_ch_21.docx": [147, 147]}
+steppi	{"Luke_ch_12.docx": [19], "Revelation_ch_21.docx": [147]}

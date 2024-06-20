@@ -1,0 +1,5 @@
+
+simple	{"Genesis_ch_25.docx": [3000], "Psalms_ch_119.docx": [10905, 10905, 10905], "Proverbs_ch_1.docx": [3279, 3279, 3279], "Proverbs_ch_19.docx": [2360, 2360, 2360], "Jeremiah_ch_40.docx": [1425, 1425, 1425], "Ezekiel_ch_45.docx": [3952, 3952, 3952], "Matthew_ch_6.docx": [2865, 2865, 2865], "Luke_ch_11.docx": [4835, 4835], "Romans_ch_6.docx": [2367, 2367], "Galatians_ch_4.docx": [321, 321]}
+simple	{"Genesis_ch_25.docx": [3000], "Psalms_ch_119.docx": [10905, 10905], "Proverbs_ch_1.docx": [3279, 3279], "Proverbs_ch_19.docx": [2360, 2360], "Jeremiah_ch_40.docx": [1425, 1425], "Ezekiel_ch_45.docx": [3952, 3952], "Matthew_ch_6.docx": [2865, 2865], "Luke_ch_11.docx": [4835], "Romans_ch_6.docx": [2367], "Galatians_ch_4.docx": [321]}
+2pr	{"Psalms_ch_103.docx": [162]}
+simple	{"Genesis_ch_25.docx": [3000], "Psalms_ch_119.docx": [10905], "Proverbs_ch_1.docx": [3279], "Proverbs_ch_19.docx": [2360], "Jeremiah_ch_40.docx": [1425], "Ezekiel_ch_45.docx": [3952], "Matthew_ch_6.docx": [2865], "Luke_ch_11.docx": [4835], "Romans_ch_6.docx": [2367], "Galatians_ch_4.docx": [321]}

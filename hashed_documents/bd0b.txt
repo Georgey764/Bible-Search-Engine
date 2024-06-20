@@ -1,0 +1,4 @@
+
+copies	{"Esther_ch_3.docx": [2418], "Esther_ch_8.docx": [1750, 1750, 1750]}
+copies	{"Esther_ch_3.docx": [2418], "Esther_ch_8.docx": [1750, 1750]}
+copies	{"Esther_ch_3.docx": [2418], "Esther_ch_8.docx": [1750]}

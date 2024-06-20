@@ -1,0 +1,7 @@
+
+wilt	{"Psalms_ch_37.docx": [148], "Amos_ch_8.docx": [2238, 2238, 2238]}
+raindr	{"Psalms_ch_65.docx": [1195]}
+wilt	{"Psalms_ch_37.docx": [148], "Amos_ch_8.docx": [2238, 2238]}
+raindr	{"Psalms_ch_65.docx": [1195]}
+wilt	{"Psalms_ch_37.docx": [148], "Amos_ch_8.docx": [2238]}
+raindr	{"Psalms_ch_65.docx": [1195]}

@@ -1,0 +1,7 @@
+
+commu	{"Judges_ch_18.docx": [5911, 5943, 5979, 5943, 5979, 5943, 5979], "Isaiah_ch_48.docx": [25, 25, 25], "Isaiah_ch_49.docx": [25, 25, 25], "Isaiah_ch_50.docx": [25, 25, 25], "Isaiah_ch_61.docx": [28, 28, 28], "1 Corinthians_ch_2.docx": [1534, 1534], "1 Corinthians_ch_15.docx": [3915, 3915], "2 Corinthians_ch_9.docx": [1762, 1762]}
+kitti	{"1 Chronicles_ch_1.docx": [406]}
+commu	{"Judges_ch_18.docx": [5911, 5943, 5979, 5943, 5979], "Isaiah_ch_48.docx": [25, 25], "Isaiah_ch_49.docx": [25, 25], "Isaiah_ch_50.docx": [25, 25], "Isaiah_ch_61.docx": [28, 28], "1 Corinthians_ch_2.docx": [1534], "1 Corinthians_ch_15.docx": [3915], "2 Corinthians_ch_9.docx": [1762]}
+kitti	{"1 Chronicles_ch_1.docx": [406]}
+commu	{"Judges_ch_18.docx": [5911, 5943, 5979], "Isaiah_ch_48.docx": [25], "Isaiah_ch_49.docx": [25], "Isaiah_ch_50.docx": [25], "Isaiah_ch_61.docx": [28], "1 Corinthians_ch_2.docx": [1534], "1 Corinthians_ch_15.docx": [3915], "2 Corinthians_ch_9.docx": [1762]}
+kitti	{"1 Chronicles_ch_1.docx": [406]}

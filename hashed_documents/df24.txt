@@ -1,0 +1,5 @@
+
+jembla	{"1 Chronicles_ch_6.docx": [5980], "2 Chronicles_ch_18.docx": [1196, 1340, 1196, 1340, 1196, 1340]}
+jembla	{"1 Chronicles_ch_6.docx": [5980], "2 Chronicles_ch_18.docx": [1196, 1340, 1196, 1340]}
+14[a	{"Psalms_ch_91.docx": [1214], "Hosea_ch_9.docx": [2772], "Joel_ch_1.docx": [2233]}
+jembla	{"1 Chronicles_ch_6.docx": [5980], "2 Chronicles_ch_18.docx": [1196, 1340]}

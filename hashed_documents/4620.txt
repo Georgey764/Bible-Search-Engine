@@ -1,0 +1,4 @@
+
+nerves	{"Job_ch_10.docx": [1058], "Job_ch_30.docx": [1810, 1810, 1810], "Job_ch_40.docx": [3077, 3077, 3077], "Isaiah_ch_48.docx": [801, 801, 801], "Ezekiel_ch_37.docx": [608, 1023, 608, 1023, 608, 1023]}
+nerves	{"Job_ch_10.docx": [1058], "Job_ch_30.docx": [1810, 1810], "Job_ch_40.docx": [3077, 3077], "Isaiah_ch_48.docx": [801, 801], "Ezekiel_ch_37.docx": [608, 1023, 608, 1023]}
+nerves	{"Job_ch_10.docx": [1058], "Job_ch_30.docx": [1810], "Job_ch_40.docx": [3077], "Isaiah_ch_48.docx": [801], "Ezekiel_ch_37.docx": [608, 1023]}

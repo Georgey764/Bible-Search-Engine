@@ -1,0 +1,4 @@
+
+erased	{"Deuteronomy_ch_32.docx": [3913], "Psalms_ch_69.docx": [2951, 2951, 2951], "Psalms_ch_109.docx": [1068, 1068, 1068], "Isaiah_ch_27.docx": [1423, 1423, 1423], "Isaiah_ch_48.docx": [3335, 3335, 3335], "Ezekiel_ch_6.docx": [955, 955, 955], "Zechariah_ch_11.docx": [1951, 1951, 1951], "Acts_ch_3.docx": [2401, 2401]}
+erased	{"Deuteronomy_ch_32.docx": [3913], "Psalms_ch_69.docx": [2951, 2951], "Psalms_ch_109.docx": [1068, 1068], "Isaiah_ch_27.docx": [1423, 1423], "Isaiah_ch_48.docx": [3335, 3335], "Ezekiel_ch_6.docx": [955, 955], "Zechariah_ch_11.docx": [1951, 1951], "Acts_ch_3.docx": [2401]}
+erased	{"Deuteronomy_ch_32.docx": [3913], "Psalms_ch_69.docx": [2951], "Psalms_ch_109.docx": [1068], "Isaiah_ch_27.docx": [1423], "Isaiah_ch_48.docx": [3335], "Ezekiel_ch_6.docx": [955], "Zechariah_ch_11.docx": [1951], "Acts_ch_3.docx": [2401]}

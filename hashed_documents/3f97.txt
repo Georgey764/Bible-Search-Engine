@@ -1,0 +1,4 @@
+
+odou	{"1 Chronicles_ch_5.docx": [3152], "1 Chronicles_ch_27.docx": [1151, 1151, 1151]}
+odou	{"1 Chronicles_ch_5.docx": [3152], "1 Chronicles_ch_27.docx": [1151, 1151]}
+odou	{"1 Chronicles_ch_5.docx": [3152], "1 Chronicles_ch_27.docx": [1151]}

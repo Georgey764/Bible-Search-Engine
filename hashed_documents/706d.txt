@@ -1,0 +1,4 @@
+
+onward	{"Joshua_ch_3.docx": [765], "Acts_ch_3.docx": [3048, 3048]}
+onward	{"Joshua_ch_3.docx": [765], "Acts_ch_3.docx": [3048]}
+onward	{"Joshua_ch_3.docx": [765], "Acts_ch_3.docx": [3048]}

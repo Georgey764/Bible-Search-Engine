@@ -1,0 +1,5 @@
+
+detac	{"2 Samuel_ch_8.docx": [705, 2067, 2067, 2067]}
+detac	{"2 Samuel_ch_8.docx": [705, 2067, 2067]}
+9ba	{"Nehemiah_ch_12.docx": [624]}
+detac	{"2 Samuel_ch_8.docx": [705, 2067]}

@@ -1,0 +1,5 @@
+
+34af	{"Genesis_ch_36.docx": [3525], "1 Samuel_ch_15.docx": [5411], "1 Chronicles_ch_27.docx": [4717]}
+7jeho	{"Deuteronomy_ch_28.docx": [656], "1 Chronicles_ch_24.docx": [1325], "Psalms_ch_9.docx": [679], "Psalms_ch_121.docx": [517]}
+31of	{"1 Samuel_ch_14.docx": [5006], "Ezekiel_ch_20.docx": [5400]}
+46jeho	{"Psalms_ch_18.docx": [4358]}

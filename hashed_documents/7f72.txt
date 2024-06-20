@@ -1,0 +1,8 @@
+
+girgas	{"Genesis_ch_10.docx": [1954], "1 Chronicles_ch_1.docx": [1190, 1190, 1190]}
+abdie	{"1 Chronicles_ch_5.docx": [1905]}
+girgas	{"Genesis_ch_10.docx": [1954], "1 Chronicles_ch_1.docx": [1190, 1190]}
+abdie	{"1 Chronicles_ch_5.docx": [1905]}
+32befo	{"Psalms_ch_107.docx": [2792]}
+girgas	{"Genesis_ch_10.docx": [1954], "1 Chronicles_ch_1.docx": [1190]}
+abdie	{"1 Chronicles_ch_5.docx": [1905]}

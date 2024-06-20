@@ -1,0 +1,5 @@
+
+unsu	{"Genesis_ch_19.docx": [2523], "2 Kings_ch_3.docx": [4158, 4158, 4158], "2 Kings_ch_16.docx": [653, 653, 653], "Job_ch_23.docx": [540, 540, 540], "Isaiah_ch_17.docx": [1516, 1567, 1516, 1567, 1516, 1567], "Romans_ch_14.docx": [3525, 3525], "James_ch_1.docx": [611, 611]}
+unsu	{"Genesis_ch_19.docx": [2523], "2 Kings_ch_3.docx": [4158, 4158], "2 Kings_ch_16.docx": [653, 653], "Job_ch_23.docx": [540, 540], "Isaiah_ch_17.docx": [1516, 1567, 1516, 1567], "Romans_ch_14.docx": [3525], "James_ch_1.docx": [611]}
+3finds	{"Leviticus_ch_6.docx": [242]}
+unsu	{"Genesis_ch_19.docx": [2523], "2 Kings_ch_3.docx": [4158], "2 Kings_ch_16.docx": [653], "Job_ch_23.docx": [540], "Isaiah_ch_17.docx": [1516, 1567], "Romans_ch_14.docx": [3525], "James_ch_1.docx": [611]}

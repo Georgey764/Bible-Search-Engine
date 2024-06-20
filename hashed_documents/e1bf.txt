@@ -1,0 +1,4 @@
+
+shame;	{"Ezekiel_ch_7.docx": [2887], "1 Corinthians_ch_1.docx": [3482, 3565, 3482, 3565]}
+shame;	{"Ezekiel_ch_7.docx": [2887], "1 Corinthians_ch_1.docx": [3482, 3565]}
+shame;	{"Ezekiel_ch_7.docx": [2887], "1 Corinthians_ch_1.docx": [3482, 3565]}

@@ -1,0 +1,4 @@
+
+elat	{"Joshua_ch_12.docx": [14169], "1 Kings_ch_9.docx": [4149, 4149, 4149], "2 Kings_ch_14.docx": [3566, 3566, 3566], "2 Kings_ch_16.docx": [661, 661, 661], "2 Chronicles_ch_8.docx": [2530, 2530, 2530], "2 Chronicles_ch_26.docx": [182, 182, 182]}
+elat	{"Joshua_ch_12.docx": [14169], "1 Kings_ch_9.docx": [4149, 4149], "2 Kings_ch_14.docx": [3566, 3566], "2 Kings_ch_16.docx": [661, 661], "2 Chronicles_ch_8.docx": [2530, 2530], "2 Chronicles_ch_26.docx": [182, 182]}
+elat	{"Joshua_ch_12.docx": [14169], "1 Kings_ch_9.docx": [4149], "2 Kings_ch_14.docx": [3566], "2 Kings_ch_16.docx": [661], "2 Chronicles_ch_8.docx": [2530], "2 Chronicles_ch_26.docx": [182]}

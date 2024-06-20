@@ -1,0 +1,5 @@
+
+mithr	{"Ezra_ch_1.docx": [1217], "Ezra_ch_4.docx": [989, 989, 989]}
+mithr	{"Ezra_ch_1.docx": [1217], "Ezra_ch_4.docx": [989, 989]}
+18yet	{"Ecclesiastes_ch_5.docx": [2597], "Lamentations_ch_1.docx": [4441]}
+mithr	{"Ezra_ch_1.docx": [1217], "Ezra_ch_4.docx": [989]}

@@ -1,0 +1,7 @@
+
+joatha	{"Judges_ch_9.docx": [1042, 1390, 4438, 10111, 1390, 4438, 10111, 1390, 4438, 10111], "1 Chronicles_ch_2.docx": [4195, 4195, 4195]}
+alas	{"Jeremiah_ch_45.docx": [382], "Ezekiel_ch_11.docx": [2017, 2017, 2017]}
+joatha	{"Judges_ch_9.docx": [1042, 1390, 4438, 10111, 1390, 4438, 10111], "1 Chronicles_ch_2.docx": [4195, 4195]}
+alas	{"Jeremiah_ch_45.docx": [382], "Ezekiel_ch_11.docx": [2017, 2017]}
+joatha	{"Judges_ch_9.docx": [1042, 1390, 4438, 10111], "1 Chronicles_ch_2.docx": [4195]}
+alas	{"Jeremiah_ch_45.docx": [382], "Ezekiel_ch_11.docx": [2017]}

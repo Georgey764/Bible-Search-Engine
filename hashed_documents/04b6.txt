@@ -1,0 +1,4 @@
+
+roam	{"Psalms_ch_59.docx": [819, 1736, 1736, 1736], "Psalms_ch_104.docx": [1864, 2084, 1864, 2084, 1864, 2084], "Isaiah_ch_34.docx": [1984, 1984, 1984], "Isaiah_ch_35.docx": [1195, 1195, 1195]}
+roam	{"Psalms_ch_59.docx": [819, 1736, 1736], "Psalms_ch_104.docx": [1864, 2084, 1864, 2084], "Isaiah_ch_34.docx": [1984, 1984], "Isaiah_ch_35.docx": [1195, 1195]}
+roam	{"Psalms_ch_59.docx": [819, 1736], "Psalms_ch_104.docx": [1864, 2084], "Isaiah_ch_34.docx": [1984], "Isaiah_ch_35.docx": [1195]}

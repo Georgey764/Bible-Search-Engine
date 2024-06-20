@@ -1,0 +1,4 @@
+
+soubal	{"1 Chronicles_ch_1.docx": [3097, 3241, 3241], "1 Chronicles_ch_4.docx": [89, 120, 89, 120, 89, 120]}
+soubal	{"1 Chronicles_ch_1.docx": [3097, 3241], "1 Chronicles_ch_4.docx": [89, 120, 89, 120]}
+soubal	{"1 Chronicles_ch_1.docx": [3097, 3241], "1 Chronicles_ch_4.docx": [89, 120]}

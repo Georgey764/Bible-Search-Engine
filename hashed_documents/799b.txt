@@ -1,0 +1,9 @@
+
+drank;	{"Genesis_ch_24.docx": [8019]}
+abit	{"2 Samuel_ch_3.docx": [498]}
+drank;	{"Genesis_ch_24.docx": [8019]}
+32as	{"Judges_ch_20.docx": [4237], "Nehemiah_ch_12.docx": [4370], "Job_ch_21.docx": [2853]}
+abit	{"2 Samuel_ch_3.docx": [498]}
+29‘yes	{"Matthew_ch_11.docx": [3588]}
+drank;	{"Genesis_ch_24.docx": [8019]}
+abit	{"2 Samuel_ch_3.docx": [498]}

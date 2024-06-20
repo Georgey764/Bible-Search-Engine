@@ -1,0 +1,5 @@
+
+impede	{"Ezra_ch_4.docx": [696], "Ephesians_ch_4.docx": [4040, 4040]}
+49then	{"Numbers_ch_4.docx": [6142], "1 Samuel_ch_17.docx": [7540], "1 Chronicles_ch_1.docx": [4142], "Psalms_ch_78.docx": [4739], "Matthew_ch_12.docx": [6279]}
+impede	{"Ezra_ch_4.docx": [696], "Ephesians_ch_4.docx": [4040]}
+impede	{"Ezra_ch_4.docx": [696], "Ephesians_ch_4.docx": [4040]}

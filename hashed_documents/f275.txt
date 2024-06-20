@@ -1,0 +1,4 @@
+
+slings	{"1 Samuel_ch_14.docx": [2151], "2 Chronicles_ch_26.docx": [2069, 2069, 2069]}
+slings	{"1 Samuel_ch_14.docx": [2151], "2 Chronicles_ch_26.docx": [2069, 2069]}
+slings	{"1 Samuel_ch_14.docx": [2151], "2 Chronicles_ch_26.docx": [2069]}

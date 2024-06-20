@@ -1,0 +1,3 @@
+
+logic	{"Job_ch_42.docx": [3842], "Acts_ch_9.docx": [3508]}
+logic	{"Acts_ch_9.docx": [3508]}

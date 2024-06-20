@@ -1,0 +1,3 @@
+
+loya	{"Luke_ch_1.docx": [8042], "Acts_ch_2.docx": [9438, 9438], "1 Thessalonians_ch_2.docx": [1311, 1311]}
+loya	{"Luke_ch_1.docx": [8042], "Acts_ch_2.docx": [9438], "1 Thessalonians_ch_2.docx": [1311]}

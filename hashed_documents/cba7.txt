@@ -1,0 +1,6 @@
+
+harha	{"Nehemiah_ch_3.docx": [2837, 2867, 2899, 2867, 2899, 2867, 2899]}
+adria	{"Acts_ch_27.docx": [3652]}
+harha	{"Nehemiah_ch_3.docx": [2837, 2867, 2899, 2867, 2899]}
+harha	{"Nehemiah_ch_3.docx": [2837, 2867, 2899]}
+adria	{"Acts_ch_27.docx": [3652]}

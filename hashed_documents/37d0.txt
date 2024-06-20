@@ -1,0 +1,8 @@
+
+rowing	{"1 Kings_ch_9.docx": [4173], "Matthew_ch_14.docx": [2869, 2869, 2869], "Mark_ch_6.docx": [6516, 6516]}
+nisro	{"Isaiah_ch_37.docx": [6051]}
+3372	{"Numbers_ch_31.docx": [3972]}
+rowing	{"1 Kings_ch_9.docx": [4173], "Matthew_ch_14.docx": [2869, 2869], "Mark_ch_6.docx": [6516]}
+nisro	{"Isaiah_ch_37.docx": [6051]}
+rowing	{"1 Kings_ch_9.docx": [4173], "Matthew_ch_14.docx": [2869], "Mark_ch_6.docx": [6516]}
+nisro	{"Isaiah_ch_37.docx": [6051]}

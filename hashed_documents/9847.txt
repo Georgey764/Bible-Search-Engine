@@ -1,0 +1,6 @@
+
+slo	{"Exodus_ch_4.docx": [1529], "2 Samuel_ch_2.docx": [2540, 2905, 2540, 2905, 2540, 2905], "Ecclesiastes_ch_10.docx": [1967, 1967, 1967], "Isaiah_ch_6.docx": [1607, 1607, 1607], "Isaiah_ch_46.docx": [2002, 2002, 2002], "Micah_ch_1.docx": [1719, 1719, 1719], "Matthew_ch_13.docx": [1691, 1691, 1691], "John_ch_12.docx": [5516, 5516], "Acts_ch_27.docx": [830, 830], "Hebrews_ch_5.docx": [1380, 1380], "James_ch_1.docx": [2131, 2135, 2131, 2135]}
+abadd	{"Revelation_ch_9.docx": [1431]}
+slo	{"Exodus_ch_4.docx": [1529], "2 Samuel_ch_2.docx": [2540, 2905, 2540, 2905], "Ecclesiastes_ch_10.docx": [1967, 1967], "Isaiah_ch_6.docx": [1607, 1607], "Isaiah_ch_46.docx": [2002, 2002], "Micah_ch_1.docx": [1719, 1719], "Matthew_ch_13.docx": [1691, 1691], "John_ch_12.docx": [5516], "Acts_ch_27.docx": [830], "Hebrews_ch_5.docx": [1380], "James_ch_1.docx": [2131, 2135]}
+slo	{"Exodus_ch_4.docx": [1529], "2 Samuel_ch_2.docx": [2540, 2905], "Ecclesiastes_ch_10.docx": [1967], "Isaiah_ch_6.docx": [1607], "Isaiah_ch_46.docx": [2002], "Micah_ch_1.docx": [1719], "Matthew_ch_13.docx": [1691], "John_ch_12.docx": [5516], "Acts_ch_27.docx": [830], "Hebrews_ch_5.docx": [1380], "James_ch_1.docx": [2131, 2135]}
+abadd	{"Revelation_ch_9.docx": [1431]}

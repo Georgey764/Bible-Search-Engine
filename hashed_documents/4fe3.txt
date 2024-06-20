@@ -1,0 +1,7 @@
+
+tears<	{"Judges_ch_2.docx": [62, 1231, 1231, 1231]}
+gob	{"2 Samuel_ch_21.docx": [3686]}
+tears<	{"Judges_ch_2.docx": [62, 1231, 1231]}
+gob	{"2 Samuel_ch_21.docx": [3686]}
+tears<	{"Judges_ch_2.docx": [62, 1231]}
+gob	{"2 Samuel_ch_21.docx": [3686]}

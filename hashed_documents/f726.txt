@@ -1,0 +1,7 @@
+
+skirts	{"Genesis_ch_3.docx": [1000]}
+nimb	{"Jeremiah_ch_46.docx": [767]}
+skirts	{"Genesis_ch_3.docx": [1000]}
+nimb	{"Jeremiah_ch_46.docx": [767]}
+skirts	{"Genesis_ch_3.docx": [1000]}
+nimb	{"Jeremiah_ch_46.docx": [767]}

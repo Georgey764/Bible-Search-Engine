@@ -1,0 +1,5 @@
+
+co-	{"Proverbs_ch_6.docx": [29, 417, 417, 417], "Proverbs_ch_17.docx": [1872, 1872, 1872], "Proverbs_ch_19.docx": [2677, 2677, 2677], "2 Corinthians_ch_8.docx": [3143, 3143], "Philippians_ch_2.docx": [3012, 3012]}
+25when	{"Job_ch_41.docx": [2197], "Proverbs_ch_19.docx": [2308], "Proverbs_ch_26.docx": [2241]}
+co-	{"Proverbs_ch_6.docx": [29, 417, 417], "Proverbs_ch_17.docx": [1872, 1872], "Proverbs_ch_19.docx": [2677, 2677], "2 Corinthians_ch_8.docx": [3143], "Philippians_ch_2.docx": [3012]}
+co-	{"Proverbs_ch_6.docx": [29, 417], "Proverbs_ch_17.docx": [1872], "Proverbs_ch_19.docx": [2677], "2 Corinthians_ch_8.docx": [3143], "Philippians_ch_2.docx": [3012]}

@@ -1,0 +1,7 @@
+
+drach	{"Genesis_ch_24.docx": [3286], "Job_ch_42.docx": [2246]}
+testic	{"Leviticus_ch_21.docx": [2460], "Leviticus_ch_22.docx": [3367, 3367, 3367], "Deuteronomy_ch_25.docx": [1595, 1595, 1595]}
+drach	{"Genesis_ch_24.docx": [3286]}
+testic	{"Leviticus_ch_21.docx": [2460], "Leviticus_ch_22.docx": [3367, 3367], "Deuteronomy_ch_25.docx": [1595, 1595]}
+drach	{"Genesis_ch_24.docx": [3286]}
+testic	{"Leviticus_ch_21.docx": [2460], "Leviticus_ch_22.docx": [3367], "Deuteronomy_ch_25.docx": [1595]}

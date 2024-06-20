@@ -1,0 +1,6 @@
+
+zabe	{"1 Chronicles_ch_2.docx": [3422, 3446, 3446], "1 Chronicles_ch_7.docx": [2542, 2542]}
+14i’l	{"2 Samuel_ch_7.docx": [1922], "1 Chronicles_ch_17.docx": [1947], "Psalms_ch_116.docx": [1122], "Jeremiah_ch_7.docx": [2037], "Ezekiel_ch_29.docx": [2410], "Ezekiel_ch_37.docx": [2090]}
+zabe	{"1 Chronicles_ch_2.docx": [3422, 3446], "1 Chronicles_ch_7.docx": [2542]}
+20‘[	{"Isaiah_ch_3.docx": [2881]}
+zabe	{"1 Chronicles_ch_2.docx": [3422, 3446], "1 Chronicles_ch_7.docx": [2542]}

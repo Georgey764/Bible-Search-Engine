@@ -1,0 +1,4 @@
+
+drachm	{"Genesis_ch_24.docx": [3286], "Job_ch_42.docx": [2246]}
+drachm	{"Genesis_ch_24.docx": [3286]}
+drachm	{"Genesis_ch_24.docx": [3286]}

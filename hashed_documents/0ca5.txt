@@ -1,0 +1,5 @@
+
+riotin	{"Acts_ch_19.docx": [11999], "Acts_ch_20.docx": [8, 30, 53, 8, 30, 53]}
+32and	{"Genesis_ch_10.docx": [3225], "Genesis_ch_11.docx": [3571], "Genesis_ch_21.docx": [3619], "Genesis_ch_30.docx": [3790], "Genesis_ch_31.docx": [4023], "Genesis_ch_32.docx": [4145], "Genesis_ch_41.docx": [3776], "Exodus_ch_12.docx": [5072], "Exodus_ch_29.docx": [4281], "Exodus_ch_34.docx": [4797], "Leviticus_ch_22.docx": [4322], "Numbers_ch_22.docx": [4498], "Numbers_ch_33.docx": [2395], "Numbers_ch_35.docx": [4148], "Joshua_ch_21.docx": [3855], "1 Samuel_ch_2.docx": [5916], "2 Samuel_ch_14.docx": [5317], "2 Samuel_ch_18.docx": [5354], "2 Samuel_ch_22.docx": [3076], "1 Kings_ch_18.docx": [5202], "2 Kings_ch_9.docx": [6242], "1 Chronicles_ch_8.docx": [1989], "1 Chronicles_ch_12.docx": [4094], "Nehemiah_ch_3.docx": [15212], "Job_ch_41.docx": [2865], "Jeremiah_ch_51.docx": [5348], "Matthew_ch_8.docx": [4103], "Matthew_ch_9.docx": [4286], "Matthew_ch_23.docx": [3982], "Matthew_ch_25.docx": [3683]}
+7let	{"Psalms_ch_130.docx": [544]}
+riotin	{"Acts_ch_19.docx": [11999], "Acts_ch_20.docx": [8, 30, 53]}

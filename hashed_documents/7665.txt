@@ -1,0 +1,4 @@
+
+zabou	{"1 Kings_ch_4.docx": [448], "1 Chronicles_ch_5.docx": [1877, 1877, 1877], "Ezra_ch_8.docx": [1510, 1510, 1510]}
+zabou	{"1 Kings_ch_4.docx": [448], "1 Chronicles_ch_5.docx": [1877, 1877], "Ezra_ch_8.docx": [1510, 1510]}
+zabou	{"1 Kings_ch_4.docx": [448], "1 Chronicles_ch_5.docx": [1877], "Ezra_ch_8.docx": [1510]}

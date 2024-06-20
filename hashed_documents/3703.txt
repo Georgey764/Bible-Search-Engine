@@ -1,0 +1,4 @@
+
+iddo	{"Ezra_ch_5.docx": [15], "Ezra_ch_6.docx": [2698, 2698, 2698], "Ezra_ch_8.docx": [1907, 2023, 1907, 2023, 1907, 2023], "Nehemiah_ch_12.docx": [1360, 1360, 1360], "Zechariah_ch_1.docx": [34, 1225, 34, 1225, 34, 1225]}
+iddo	{"Ezra_ch_5.docx": [15], "Ezra_ch_6.docx": [2698, 2698], "Ezra_ch_8.docx": [1907, 2023, 1907, 2023], "Nehemiah_ch_12.docx": [1360, 1360], "Zechariah_ch_1.docx": [34, 1225, 34, 1225]}
+iddo	{"Ezra_ch_5.docx": [15], "Ezra_ch_6.docx": [2698], "Ezra_ch_8.docx": [1907, 2023], "Nehemiah_ch_12.docx": [1360], "Zechariah_ch_1.docx": [34, 1225]}

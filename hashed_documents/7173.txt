@@ -1,0 +1,8 @@
+
+kindle	{"Psalms_ch_2.docx": [1355], "Isaiah_ch_50.docx": [2279, 2279, 2279], "Jeremiah_ch_17.docx": [698, 4847, 698, 4847, 698, 4847], "Jeremiah_ch_21.docx": [2196, 2196, 2196], "Jeremiah_ch_49.docx": [4768, 4768, 4768], "Jeremiah_ch_50.docx": [5989, 5989, 5989], "Ezekiel_ch_5.docx": [234, 234, 234], "Ezekiel_ch_24.docx": [1298, 1298, 1298]}
+strews	{"Psalms_ch_147.docx": [1475]}
+kindle	{"Psalms_ch_2.docx": [1355], "Isaiah_ch_50.docx": [2279, 2279], "Jeremiah_ch_17.docx": [698, 4847, 698, 4847], "Jeremiah_ch_21.docx": [2196, 2196], "Jeremiah_ch_49.docx": [4768, 4768], "Jeremiah_ch_50.docx": [5989, 5989], "Ezekiel_ch_5.docx": [234, 234], "Ezekiel_ch_24.docx": [1298, 1298]}
+strews	{"Psalms_ch_147.docx": [1475]}
+5‘ye	{"Micah_ch_1.docx": [1758], "Matthew_ch_15.docx": [503]}
+kindle	{"Psalms_ch_2.docx": [1355], "Isaiah_ch_50.docx": [2279], "Jeremiah_ch_17.docx": [698, 4847], "Jeremiah_ch_21.docx": [2196], "Jeremiah_ch_49.docx": [4768], "Jeremiah_ch_50.docx": [5989], "Ezekiel_ch_5.docx": [234], "Ezekiel_ch_24.docx": [1298]}
+strews	{"Psalms_ch_147.docx": [1475]}

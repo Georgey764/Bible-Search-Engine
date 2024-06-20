@@ -1,0 +1,7 @@
+
+jether	{"Genesis_ch_36.docx": [4278], "Joshua_ch_15.docx": [5522, 5522, 5522], "Joshua_ch_19.docx": [383, 383, 383], "Judges_ch_8.docx": [3913, 3913, 3913], "2 Samuel_ch_3.docx": [537, 537, 537], "2 Samuel_ch_17.docx": [4032, 4032, 4032], "1 Kings_ch_2.docx": [770, 5756, 770, 5756, 770, 5756], "1 Chronicles_ch_1.docx": [4395, 4395, 4395], "1 Chronicles_ch_2.docx": [3014, 3042, 3014, 3042, 3014, 3042], "1 Chronicles_ch_4.docx": [1820, 1863, 1820, 1863, 1820, 1863]}
+blow!	{"Revelation_ch_8.docx": [2136]}
+jether	{"Genesis_ch_36.docx": [4278], "Joshua_ch_15.docx": [5522, 5522], "Joshua_ch_19.docx": [383, 383], "Judges_ch_8.docx": [3913, 3913], "2 Samuel_ch_3.docx": [537, 537], "2 Samuel_ch_17.docx": [4032, 4032], "1 Kings_ch_2.docx": [770, 5756, 770, 5756], "1 Chronicles_ch_1.docx": [4395, 4395], "1 Chronicles_ch_2.docx": [3014, 3042, 3014, 3042], "1 Chronicles_ch_4.docx": [1820, 1863, 1820, 1863]}
+16ad	{"Nehemiah_ch_10.docx": [852]}
+jether	{"Genesis_ch_36.docx": [4278], "Joshua_ch_15.docx": [5522], "Joshua_ch_19.docx": [383], "Judges_ch_8.docx": [3913], "2 Samuel_ch_3.docx": [537], "2 Samuel_ch_17.docx": [4032], "1 Kings_ch_2.docx": [770, 5756], "1 Chronicles_ch_1.docx": [4395], "1 Chronicles_ch_2.docx": [3014, 3042], "1 Chronicles_ch_4.docx": [1820, 1863]}
+blow!	{"Revelation_ch_8.docx": [2136]}

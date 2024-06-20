@@ -1,0 +1,4 @@
+
+frying	{"2 Samuel_ch_13.docx": [1212], "Ezekiel_ch_4.docx": [272, 272, 272]}
+frying	{"2 Samuel_ch_13.docx": [1212], "Ezekiel_ch_4.docx": [272, 272]}
+frying	{"2 Samuel_ch_13.docx": [1212], "Ezekiel_ch_4.docx": [272]}

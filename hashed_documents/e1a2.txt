@@ -1,0 +1,4 @@
+
+deares	{"Job_ch_19.docx": [1317], "Psalms_ch_88.docx": [1795, 1795, 1795], "Song of Solomon_ch_5.docx": [2695, 2695, 2695]}
+deares	{"Job_ch_19.docx": [1317], "Psalms_ch_88.docx": [1795, 1795], "Song of Solomon_ch_5.docx": [2695, 2695]}
+deares	{"Job_ch_19.docx": [1317], "Psalms_ch_88.docx": [1795], "Song of Solomon_ch_5.docx": [2695]}

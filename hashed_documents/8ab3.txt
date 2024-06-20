@@ -1,0 +1,4 @@
+
+catar	{"Leviticus_ch_21.docx": [2363], "1 Kings_ch_14.docx": [612, 612, 612]}
+catar	{"Leviticus_ch_21.docx": [2363], "1 Kings_ch_14.docx": [612, 612]}
+catar	{"Leviticus_ch_21.docx": [2363], "1 Kings_ch_14.docx": [612]}

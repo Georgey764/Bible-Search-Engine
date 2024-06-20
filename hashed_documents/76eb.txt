@@ -1,0 +1,7 @@
+
+anas	{"Joshua_ch_17.docx": [750]}
+libna	{"2 Kings_ch_8.docx": [3836], "Isaiah_ch_37.docx": [1237, 1237, 1237]}
+anas	{"Joshua_ch_17.docx": [750]}
+libna	{"2 Kings_ch_8.docx": [3836], "Isaiah_ch_37.docx": [1237, 1237]}
+anas	{"Joshua_ch_17.docx": [750]}
+libna	{"2 Kings_ch_8.docx": [3836], "Isaiah_ch_37.docx": [1237]}

@@ -1,0 +1,4 @@
+
+rang	{"Psalms_ch_102.docx": [594], "Ecclesiastes_ch_8.docx": [528, 528, 528]}
+rang	{"Psalms_ch_102.docx": [594], "Ecclesiastes_ch_8.docx": [528, 528]}
+rang	{"Psalms_ch_102.docx": [594], "Ecclesiastes_ch_8.docx": [528]}

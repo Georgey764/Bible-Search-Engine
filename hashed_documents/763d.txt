@@ -1,0 +1,7 @@
+
+gour	{"1 Kings_ch_6.docx": [2276], "2 Kings_ch_4.docx": [6017, 6017, 6017]}
+godw	{"Nehemiah_ch_12.docx": [7522]}
+gour	{"1 Kings_ch_6.docx": [2276], "2 Kings_ch_4.docx": [6017, 6017]}
+godw	{"Nehemiah_ch_12.docx": [7522]}
+gour	{"1 Kings_ch_6.docx": [2276], "2 Kings_ch_4.docx": [6017]}
+godw	{"Nehemiah_ch_12.docx": [7522]}

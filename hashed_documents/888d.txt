@@ -1,0 +1,4 @@
+
+pase	{"Ezra_ch_2.docx": [1977], "Nehemiah_ch_3.docx": [2263, 2275, 2290, 2263, 2275, 2290, 2263, 2275, 2290]}
+pase	{"Ezra_ch_2.docx": [1977], "Nehemiah_ch_3.docx": [2263, 2275, 2290, 2263, 2275, 2290]}
+pase	{"Ezra_ch_2.docx": [1977], "Nehemiah_ch_3.docx": [2263, 2275, 2290]}

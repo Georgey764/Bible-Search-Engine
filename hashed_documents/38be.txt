@@ -1,0 +1,5 @@
+
+accar	{"Joshua_ch_15.docx": [1717, 5217, 5256, 5217, 5217, 5256], "Joshua_ch_19.docx": [3427, 3427, 3427]}
+accar	{"Joshua_ch_15.docx": [1717, 5217, 5217, 5256], "Joshua_ch_19.docx": [3427, 3427]}
+7{look	{"2 Chronicles_ch_27.docx": [928], "Psalms_ch_55.docx": [638], "Isaiah_ch_33.docx": [913]}
+accar	{"Joshua_ch_15.docx": [1717, 5217, 5256], "Joshua_ch_19.docx": [3427]}

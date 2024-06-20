@@ -1,0 +1,5 @@
+
+azmoth	{"2 Samuel_ch_23.docx": [4589], "1 Chronicles_ch_9.docx": [5767, 5767, 5767]}
+azmoth	{"2 Samuel_ch_23.docx": [4589], "1 Chronicles_ch_9.docx": [5767, 5767]}
+10‘man	{"Ezekiel_ch_32.docx": [1589]}
+azmoth	{"2 Samuel_ch_23.docx": [4589], "1 Chronicles_ch_9.docx": [5767]}

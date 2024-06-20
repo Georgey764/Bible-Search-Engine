@@ -1,0 +1,4 @@
+
+withho	{"Genesis_ch_23.docx": [533], "Deuteronomy_ch_24.docx": [1977, 1977, 1977], "Nehemiah_ch_9.docx": [4226, 4226, 4226], "Proverbs_ch_22.docx": [976, 976, 976], "Isaiah_ch_63.docx": [2350, 2350, 2350], "Haggai_ch_1.docx": [1747, 1789, 1747, 1789, 1747, 1789]}
+withho	{"Genesis_ch_23.docx": [533], "Deuteronomy_ch_24.docx": [1977, 1977], "Nehemiah_ch_9.docx": [4226, 4226], "Proverbs_ch_22.docx": [976, 976], "Isaiah_ch_63.docx": [2350, 2350], "Haggai_ch_1.docx": [1747, 1789, 1747, 1789]}
+withho	{"Genesis_ch_23.docx": [533], "Deuteronomy_ch_24.docx": [1977], "Nehemiah_ch_9.docx": [4226], "Proverbs_ch_22.docx": [976], "Isaiah_ch_63.docx": [2350], "Haggai_ch_1.docx": [1747, 1789]}

@@ -1,0 +1,4 @@
+
+joan	{"2 Chronicles_ch_17.docx": [2021], "2 Chronicles_ch_23.docx": [266, 266], "Luke_ch_3.docx": [6478, 6478], "Luke_ch_8.docx": [222, 222]}
+joan	{"2 Chronicles_ch_23.docx": [266, 266], "Luke_ch_3.docx": [6478], "Luke_ch_8.docx": [222]}
+joan	{"2 Chronicles_ch_17.docx": [2021], "2 Chronicles_ch_23.docx": [266], "Luke_ch_3.docx": [6478], "Luke_ch_8.docx": [222]}

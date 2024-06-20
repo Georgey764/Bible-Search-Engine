@@ -1,0 +1,7 @@
+
+dumbfo	{"Genesis_ch_42.docx": [3655], "1 Kings_ch_20.docx": [7809, 7809, 7809], "Matthew_ch_13.docx": [7302, 7302, 7302]}
+rezi	{"Ezra_ch_2.docx": [1769], "Nehemiah_ch_7.docx": [2851, 2851], "Isaiah_ch_7.docx": [24, 1203, 24, 1203, 24, 1203], "Isaiah_ch_8.docx": [852, 852, 852]}
+dumbfo	{"Genesis_ch_42.docx": [3655], "1 Kings_ch_20.docx": [7809, 7809], "Matthew_ch_13.docx": [7302, 7302]}
+rezi	{"Nehemiah_ch_7.docx": [2851, 2851], "Isaiah_ch_7.docx": [24, 1203, 24, 1203], "Isaiah_ch_8.docx": [852, 852]}
+dumbfo	{"Genesis_ch_42.docx": [3655], "1 Kings_ch_20.docx": [7809], "Matthew_ch_13.docx": [7302]}
+rezi	{"Ezra_ch_2.docx": [1769], "Nehemiah_ch_7.docx": [2851], "Isaiah_ch_7.docx": [24, 1203], "Isaiah_ch_8.docx": [852]}

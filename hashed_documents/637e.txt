@@ -1,0 +1,2 @@
+
+9‘for	{"Exodus_ch_3.docx": [1371], "Deuteronomy_ch_24.docx": [1410], "1 Kings_ch_13.docx": [1656], "2 Chronicles_ch_13.docx": [1276], "2 Chronicles_ch_16.docx": [1507], "2 Chronicles_ch_30.docx": [1543], "Job_ch_28.docx": [819], "Song of Solomon_ch_4.docx": [1256], "Isaiah_ch_7.docx": [1318], "Isaiah_ch_11.docx": [1093], "Isaiah_ch_17.docx": [1259], "Jeremiah_ch_6.docx": [1294], "Jeremiah_ch_29.docx": [1474], "Micah_ch_4.docx": [1915], "Zechariah_ch_8.docx": [1249], "Matthew_ch_7.docx": [1042]}

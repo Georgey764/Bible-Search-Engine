@@ -1,0 +1,4 @@
+
+nebo	{"Deuteronomy_ch_32.docx": [7353], "1 Chronicles_ch_5.docx": [1050, 1050, 1050], "Ezra_ch_2.docx": [1236, 1236, 1236], "Nehemiah_ch_7.docx": [2240, 2240, 2240], "Isaiah_ch_15.docx": [240, 240, 240], "Jeremiah_ch_39.docx": [475, 475, 475], "Jeremiah_ch_48.docx": [87, 2853, 87, 2853, 87, 2853]}
+nebo	{"Deuteronomy_ch_32.docx": [7353], "1 Chronicles_ch_5.docx": [1050, 1050], "Ezra_ch_2.docx": [1236, 1236], "Nehemiah_ch_7.docx": [2240, 2240], "Isaiah_ch_15.docx": [240, 240], "Jeremiah_ch_39.docx": [475, 475], "Jeremiah_ch_48.docx": [87, 2853, 87, 2853]}
+nebo	{"Deuteronomy_ch_32.docx": [7353], "1 Chronicles_ch_5.docx": [1050], "Ezra_ch_2.docx": [1236], "Nehemiah_ch_7.docx": [2240], "Isaiah_ch_15.docx": [240], "Jeremiah_ch_39.docx": [475], "Jeremiah_ch_48.docx": [87, 2853]}

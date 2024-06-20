@@ -1,0 +1,4 @@
+
+grudg	{"Deuteronomy_ch_15.docx": [1412], "Proverbs_ch_14.docx": [2597, 2597, 2597], "Zechariah_ch_7.docx": [1538, 1538, 1538], "2 Corinthians_ch_9.docx": [899, 899]}
+grudg	{"Deuteronomy_ch_15.docx": [1412], "Proverbs_ch_14.docx": [2597, 2597], "Zechariah_ch_7.docx": [1538, 1538], "2 Corinthians_ch_9.docx": [899]}
+grudg	{"Deuteronomy_ch_15.docx": [1412], "Proverbs_ch_14.docx": [2597], "Zechariah_ch_7.docx": [1538], "2 Corinthians_ch_9.docx": [899]}

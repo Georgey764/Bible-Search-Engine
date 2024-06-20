@@ -1,0 +1,4 @@
+
+grandm	{"2 Timothy_ch_1.docx": [534]}
+40‘b	{"1 Kings_ch_20.docx": [7305]}
+grandm	{"2 Timothy_ch_1.docx": [534]}

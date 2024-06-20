@@ -1,0 +1,4 @@
+
+saved!	{"Psalms_ch_7.docx": [269], "Psalms_ch_80.docx": [397, 719, 1848, 397, 719, 1848, 397, 719, 1848], "Isaiah_ch_30.docx": [2515, 2515, 2515], "Jeremiah_ch_4.docx": [2639, 2639, 2639], "Jeremiah_ch_51.docx": [1365, 1365, 1365], "Romans_ch_10.docx": [61, 1173, 1700, 61, 1173, 1700], "Romans_ch_11.docx": [4101, 4101], "Titus_ch_2.docx": [1195, 1195]}
+saved!	{"Psalms_ch_7.docx": [269], "Psalms_ch_80.docx": [397, 719, 1848, 397, 719, 1848], "Isaiah_ch_30.docx": [2515, 2515], "Jeremiah_ch_4.docx": [2639, 2639], "Jeremiah_ch_51.docx": [1365, 1365], "Romans_ch_10.docx": [61, 1173, 1700], "Romans_ch_11.docx": [4101], "Titus_ch_2.docx": [1195]}
+saved!	{"Psalms_ch_7.docx": [269], "Psalms_ch_80.docx": [397, 719, 1848], "Isaiah_ch_30.docx": [2515], "Jeremiah_ch_4.docx": [2639], "Jeremiah_ch_51.docx": [1365], "Romans_ch_10.docx": [61, 1173, 1700], "Romans_ch_11.docx": [4101], "Titus_ch_2.docx": [1195]}

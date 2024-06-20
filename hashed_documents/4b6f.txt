@@ -1,0 +1,5 @@
+
+sere	{"Genesis_ch_46.docx": [1640], "1 Chronicles_ch_4.docx": [648, 648, 648]}
+sere	{"Genesis_ch_46.docx": [1640], "1 Chronicles_ch_4.docx": [648, 648]}
+16away	{"Proverbs_ch_2.docx": [1343]}
+sere	{"Genesis_ch_46.docx": [1640], "1 Chronicles_ch_4.docx": [648]}

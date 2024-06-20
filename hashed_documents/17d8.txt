@@ -1,0 +1,5 @@
+
+hod	{"1 Chronicles_ch_4.docx": [2117], "1 Chronicles_ch_9.docx": [901, 901, 901], "Ezra_ch_2.docx": [1568, 1568, 1568], "Nehemiah_ch_7.docx": [2602, 2602, 2602], "Nehemiah_ch_8.docx": [1894, 1894, 1894], "Nehemiah_ch_9.docx": [1015, 1015, 1015], "Nehemiah_ch_10.docx": [543, 668, 921, 543, 668, 543, 668, 921]}
+29‘and	{"Genesis_ch_31.docx": [3583], "Leviticus_ch_13.docx": [4143], "Jeremiah_ch_23.docx": [5235], "Jeremiah_ch_44.docx": [6308], "Ezekiel_ch_22.docx": [4397], "Ezekiel_ch_32.docx": [5041], "Matthew_ch_13.docx": [3771]}
+hod	{"1 Chronicles_ch_4.docx": [2117], "1 Chronicles_ch_9.docx": [901, 901], "Ezra_ch_2.docx": [1568, 1568], "Nehemiah_ch_7.docx": [2602, 2602], "Nehemiah_ch_8.docx": [1894, 1894], "Nehemiah_ch_9.docx": [1015, 1015], "Nehemiah_ch_10.docx": [543, 668, 543, 668, 921]}
+hod	{"1 Chronicles_ch_4.docx": [2117], "1 Chronicles_ch_9.docx": [901], "Ezra_ch_2.docx": [1568], "Nehemiah_ch_7.docx": [2602], "Nehemiah_ch_8.docx": [1894], "Nehemiah_ch_9.docx": [1015], "Nehemiah_ch_10.docx": [543, 668, 921]}

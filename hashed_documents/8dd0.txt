@@ -1,0 +1,4 @@
+
+outcom	{"Psalms_ch_91.docx": [780], "Ecclesiastes_ch_3.docx": [2041, 2041, 2041]}
+outcom	{"Psalms_ch_91.docx": [780], "Ecclesiastes_ch_3.docx": [2041, 2041]}
+outcom	{"Psalms_ch_91.docx": [780], "Ecclesiastes_ch_3.docx": [2041]}

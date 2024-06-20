@@ -1,0 +1,4 @@
+
+jewelr	{"Genesis_ch_24.docx": [7985], "Exodus_ch_3.docx": [3802, 3802, 3802], "Exodus_ch_11.docx": [199, 199, 199], "Exodus_ch_35.docx": [2279, 2279, 2279], "1 Peter_ch_3.docx": [232, 232]}
+jewelr	{"Genesis_ch_24.docx": [7985], "Exodus_ch_3.docx": [3802, 3802], "Exodus_ch_11.docx": [199, 199], "Exodus_ch_35.docx": [2279, 2279], "1 Peter_ch_3.docx": [232]}
+jewelr	{"Genesis_ch_24.docx": [7985], "Exodus_ch_3.docx": [3802], "Exodus_ch_11.docx": [199], "Exodus_ch_35.docx": [2279], "1 Peter_ch_3.docx": [232]}

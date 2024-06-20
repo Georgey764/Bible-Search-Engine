@@ -1,0 +1,3 @@
+
+tapp	{"Acts_ch_12.docx": [1116]}
+tapp	{"Acts_ch_12.docx": [1116]}

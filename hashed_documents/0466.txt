@@ -1,0 +1,4 @@
+
+gibea	{"Judges_ch_19.docx": [1905], "1 Samuel_ch_10.docx": [4562, 4562, 4562], "1 Samuel_ch_11.docx": [457, 457, 457], "1 Samuel_ch_13.docx": [150, 2628, 2900, 150, 2628, 2900, 150, 2628, 2900], "1 Samuel_ch_14.docx": [2574, 2574, 2574], "1 Samuel_ch_15.docx": [5426, 5426, 5426], "1 Samuel_ch_23.docx": [2815, 2815, 2815]}
+gibea	{"Judges_ch_19.docx": [1905], "1 Samuel_ch_10.docx": [4562, 4562], "1 Samuel_ch_11.docx": [457, 457], "1 Samuel_ch_13.docx": [150, 2628, 2900, 150, 2628, 2900], "1 Samuel_ch_14.docx": [2574, 2574], "1 Samuel_ch_15.docx": [5426, 5426], "1 Samuel_ch_23.docx": [2815, 2815]}
+gibea	{"Judges_ch_19.docx": [1905], "1 Samuel_ch_10.docx": [4562], "1 Samuel_ch_11.docx": [457], "1 Samuel_ch_13.docx": [150, 2628, 2900], "1 Samuel_ch_14.docx": [2574], "1 Samuel_ch_15.docx": [5426], "1 Samuel_ch_23.docx": [2815]}

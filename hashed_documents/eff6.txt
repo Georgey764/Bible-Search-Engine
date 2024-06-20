@@ -1,0 +1,7 @@
+
+carbu	{"Exodus_ch_28.docx": [2286]}
+coinci	{"1 Samuel_ch_6.docx": [1844], "1 Samuel_ch_20.docx": [4031, 4031, 4031]}
+carbu	{"Exodus_ch_28.docx": [2286]}
+coinci	{"1 Samuel_ch_6.docx": [1844], "1 Samuel_ch_20.docx": [4031, 4031]}
+carbu	{"Exodus_ch_28.docx": [2286]}
+coinci	{"1 Samuel_ch_6.docx": [1844], "1 Samuel_ch_20.docx": [4031]}

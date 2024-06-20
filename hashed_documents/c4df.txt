@@ -1,0 +1,5 @@
+
+on!	{"Genesis_ch_49.docx": [443], "Exodus_ch_14.docx": [2798, 2798, 2798], "Exodus_ch_33.docx": [48, 48, 48], "1 Samuel_ch_11.docx": [2415, 2415, 2415], "Matthew_ch_14.docx": [3469, 3469, 3469], "Revelation_ch_14.docx": [2041, 2041]}
+on!	{"Genesis_ch_49.docx": [443], "Exodus_ch_14.docx": [2798, 2798], "Exodus_ch_33.docx": [48, 48], "1 Samuel_ch_11.docx": [2415, 2415], "Matthew_ch_14.docx": [3469, 3469], "Revelation_ch_14.docx": [2041]}
+5shi	{"1 Chronicles_ch_9.docx": [680]}
+on!	{"Genesis_ch_49.docx": [443], "Exodus_ch_14.docx": [2798], "Exodus_ch_33.docx": [48], "1 Samuel_ch_11.docx": [2415], "Matthew_ch_14.docx": [3469], "Revelation_ch_14.docx": [2041]}

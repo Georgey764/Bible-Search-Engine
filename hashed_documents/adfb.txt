@@ -1,0 +1,6 @@
+
+shunem	{"1 Samuel_ch_28.docx": [604]}
+tenant	{"Mark_ch_12.docx": [120, 1107, 1107]}
+shunem	{"1 Samuel_ch_28.docx": [604]}
+shunem	{"1 Samuel_ch_28.docx": [604]}
+tenant	{"Mark_ch_12.docx": [120, 1107]}

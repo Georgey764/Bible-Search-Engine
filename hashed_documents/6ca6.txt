@@ -1,0 +1,4 @@
+
+docto	{"Job_ch_13.docx": [277], "Proverbs_ch_26.docx": [1546, 1546, 1546], "Isaiah_ch_26.docx": [1661, 1661, 1661], "Jeremiah_ch_8.docx": [4086, 4086, 4086], "Matthew_ch_9.docx": [1559, 1559, 1559], "Mark_ch_2.docx": [2243, 2243], "Luke_ch_4.docx": [3183, 3183], "Luke_ch_5.docx": [5769, 5769]}
+docto	{"Job_ch_13.docx": [277], "Proverbs_ch_26.docx": [1546, 1546], "Isaiah_ch_26.docx": [1661, 1661], "Jeremiah_ch_8.docx": [4086, 4086], "Matthew_ch_9.docx": [1559, 1559], "Mark_ch_2.docx": [2243], "Luke_ch_4.docx": [3183], "Luke_ch_5.docx": [5769]}
+docto	{"Job_ch_13.docx": [277], "Proverbs_ch_26.docx": [1546], "Isaiah_ch_26.docx": [1661], "Jeremiah_ch_8.docx": [4086], "Matthew_ch_9.docx": [1559], "Mark_ch_2.docx": [2243], "Luke_ch_4.docx": [3183], "Luke_ch_5.docx": [5769]}

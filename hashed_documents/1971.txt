@@ -1,0 +1,4 @@
+
+shev	{"Isaiah_ch_22.docx": [2208, 3735, 3735, 3735]}
+shev	{"Isaiah_ch_22.docx": [2208, 3735, 3735]}
+shev	{"Isaiah_ch_22.docx": [2208, 3735]}

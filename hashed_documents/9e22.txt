@@ -1,0 +1,4 @@
+
+orderi	{"Jeremiah_ch_27.docx": [54], "Acts_ch_16.docx": [6691, 6691], "Acts_ch_23.docx": [5290, 5290]}
+orderi	{"Jeremiah_ch_27.docx": [54], "Acts_ch_16.docx": [6691], "Acts_ch_23.docx": [5290]}
+orderi	{"Jeremiah_ch_27.docx": [54], "Acts_ch_16.docx": [6691], "Acts_ch_23.docx": [5290]}

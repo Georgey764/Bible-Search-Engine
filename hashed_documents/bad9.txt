@@ -1,0 +1,5 @@
+
+raphi	{"Exodus_ch_17.docx": [31, 1354, 1354, 1354], "Exodus_ch_19.docx": [165, 165, 165], "Numbers_ch_33.docx": [1425, 1520, 1425, 1520, 1425, 1520], "2 Kings_ch_18.docx": [2624, 2624, 2624], "2 Kings_ch_19.docx": [2048, 2048, 2048], "1 Chronicles_ch_4.docx": [4962, 4962, 4962], "1 Chronicles_ch_7.docx": [135, 135, 135], "1 Chronicles_ch_20.docx": [839, 839, 839]}
+raphi	{"Exodus_ch_17.docx": [31, 1354, 1354], "Exodus_ch_19.docx": [165, 165], "Numbers_ch_33.docx": [1425, 1520, 1425, 1520], "2 Kings_ch_18.docx": [2624, 2624], "2 Kings_ch_19.docx": [2048, 2048], "1 Chronicles_ch_4.docx": [4962, 4962], "1 Chronicles_ch_7.docx": [135, 135], "1 Chronicles_ch_20.docx": [839, 839]}
+9‘i’ve	{"1 Chronicles_ch_17.docx": [1160], "Job_ch_16.docx": [776], "Psalms_ch_40.docx": [1077], "Ecclesiastes_ch_8.docx": [859]}
+raphi	{"Exodus_ch_17.docx": [31, 1354], "Exodus_ch_19.docx": [165], "Numbers_ch_33.docx": [1425, 1520], "2 Kings_ch_18.docx": [2624], "2 Kings_ch_19.docx": [2048], "1 Chronicles_ch_4.docx": [4962], "1 Chronicles_ch_7.docx": [135], "1 Chronicles_ch_20.docx": [839]}

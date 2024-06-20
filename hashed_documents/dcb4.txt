@@ -1,0 +1,4 @@
+
+kneele	{"Matthew_ch_17.docx": [1585], "Acts_ch_20.docx": [10074, 10074]}
+kneele	{"Matthew_ch_17.docx": [1585], "Acts_ch_20.docx": [10074]}
+kneele	{"Matthew_ch_17.docx": [1585], "Acts_ch_20.docx": [10074]}

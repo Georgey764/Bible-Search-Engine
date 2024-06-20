@@ -1,0 +1,7 @@
+
+unbeco	{"Proverbs_ch_25.docx": [2529], "Ephesians_ch_5.docx": [391, 391]}
+arbitr	{"Luke_ch_12.docx": [1778]}
+20thi	{"Joshua_ch_15.docx": [3245], "Psalms_ch_72.docx": [1978]}
+unbeco	{"Proverbs_ch_25.docx": [2529], "Ephesians_ch_5.docx": [391]}
+unbeco	{"Proverbs_ch_25.docx": [2529], "Ephesians_ch_5.docx": [391]}
+arbitr	{"Luke_ch_12.docx": [1778]}

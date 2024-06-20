@@ -1,0 +1,5 @@
+
+judais	{"Esther_ch_8.docx": [2725], "Galatians_ch_1.docx": [1609, 1755, 1609, 1755]}
+judais	{"Esther_ch_8.docx": [2725], "Galatians_ch_1.docx": [1609, 1755]}
+9‘man	{"Job_ch_35.docx": [675]}
+judais	{"Esther_ch_8.docx": [2725], "Galatians_ch_1.docx": [1609, 1755]}

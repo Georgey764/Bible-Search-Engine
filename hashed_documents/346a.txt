@@ -1,0 +1,4 @@
+
+god<	{"Nehemiah_ch_12.docx": [7535], "Amos_ch_2.docx": [2292, 2292, 2292], "Hebrews_ch_8.docx": [99, 99], "Hebrews_ch_11.docx": [1148, 1148]}
+god<	{"Nehemiah_ch_12.docx": [7535], "Amos_ch_2.docx": [2292, 2292], "Hebrews_ch_8.docx": [99], "Hebrews_ch_11.docx": [1148]}
+god<	{"Nehemiah_ch_12.docx": [7535], "Amos_ch_2.docx": [2292], "Hebrews_ch_8.docx": [99], "Hebrews_ch_11.docx": [1148]}

@@ -1,0 +1,4 @@
+
+jeconi	{"1 Chronicles_ch_3.docx": [1439, 1471, 1471, 1471], "Jeremiah_ch_24.docx": [13, 13, 13], "Jeremiah_ch_27.docx": [3684, 3684, 3684], "Jeremiah_ch_28.docx": [464, 464, 464], "Jeremiah_ch_29.docx": [49, 49, 49], "Matthew_ch_1.docx": [849, 962, 849, 962, 849, 962]}
+jeconi	{"1 Chronicles_ch_3.docx": [1439, 1471, 1471], "Jeremiah_ch_24.docx": [13, 13], "Jeremiah_ch_27.docx": [3684, 3684], "Jeremiah_ch_28.docx": [464, 464], "Jeremiah_ch_29.docx": [49, 49], "Matthew_ch_1.docx": [849, 962, 849, 962]}
+jeconi	{"1 Chronicles_ch_3.docx": [1439, 1471], "Jeremiah_ch_24.docx": [13], "Jeremiah_ch_27.docx": [3684], "Jeremiah_ch_28.docx": [464], "Jeremiah_ch_29.docx": [49], "Matthew_ch_1.docx": [849, 962]}

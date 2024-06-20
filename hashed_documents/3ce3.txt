@@ -1,0 +1,5 @@
+
+gaas	{"Judges_ch_2.docx": [1809, 1835, 1835, 1835]}
+23:20	{"Exodus_ch_21.docx": [21]}
+gaas	{"Judges_ch_2.docx": [1809, 1835, 1835]}
+gaas	{"Judges_ch_2.docx": [1809, 1835]}

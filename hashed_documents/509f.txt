@@ -1,0 +1,4 @@
+
+loude	{"Exodus_ch_19.docx": [2970], "1 Samuel_ch_14.docx": [3019, 3021, 3019, 3021, 3019, 3021], "Ezra_ch_3.docx": [2706, 2706, 2706], "Matthew_ch_20.docx": [3926, 3926, 3926], "Matthew_ch_27.docx": [2768, 2770, 2768, 2770], "Mark_ch_10.docx": [6053, 6053], "Mark_ch_15.docx": [1357, 1359, 1357, 1359], "Luke_ch_18.docx": [4582, 4582]}
+loude	{"Exodus_ch_19.docx": [2970], "1 Samuel_ch_14.docx": [3019, 3021, 3019, 3021], "Ezra_ch_3.docx": [2706, 2706], "Matthew_ch_20.docx": [3926, 3926], "Matthew_ch_27.docx": [2768, 2770], "Mark_ch_10.docx": [6053], "Mark_ch_15.docx": [1357, 1359], "Luke_ch_18.docx": [4582]}
+loude	{"Exodus_ch_19.docx": [2970], "1 Samuel_ch_14.docx": [3019, 3021], "Ezra_ch_3.docx": [2706], "Matthew_ch_20.docx": [3926], "Matthew_ch_27.docx": [2768, 2770], "Mark_ch_10.docx": [6053], "Mark_ch_15.docx": [1357, 1359], "Luke_ch_18.docx": [4582]}

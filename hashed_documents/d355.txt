@@ -1,0 +1,4 @@
+
+outpou	{"Leviticus_ch_15.docx": [3615], "Malachi_ch_3.docx": [2315, 2315, 2315]}
+outpou	{"Leviticus_ch_15.docx": [3615], "Malachi_ch_3.docx": [2315, 2315]}
+outpou	{"Leviticus_ch_15.docx": [3615], "Malachi_ch_3.docx": [2315]}

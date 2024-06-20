@@ -1,0 +1,4 @@
+
+clappe	{"Numbers_ch_24.docx": [1231], "2 Kings_ch_11.docx": [1815, 1815, 1815], "Jeremiah_ch_50.docx": [4071, 4071, 4071], "Ezekiel_ch_25.docx": [971, 971, 971]}
+clappe	{"Numbers_ch_24.docx": [1231], "2 Kings_ch_11.docx": [1815, 1815], "Jeremiah_ch_50.docx": [4071, 4071], "Ezekiel_ch_25.docx": [971, 971]}
+clappe	{"Numbers_ch_24.docx": [1231], "2 Kings_ch_11.docx": [1815], "Jeremiah_ch_50.docx": [4071], "Ezekiel_ch_25.docx": [971]}

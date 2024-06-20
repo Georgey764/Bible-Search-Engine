@@ -1,0 +1,4 @@
+
+obeded	{"1 Chronicles_ch_13.docx": [1934, 1951, 1951, 1951], "1 Chronicles_ch_15.docx": [2402, 2935, 3368, 3449, 2402, 2935, 3368, 3449, 2402, 2935, 3368, 3449], "1 Chronicles_ch_16.docx": [432, 3939, 3944, 432, 3939, 3944, 432, 3939, 3944], "1 Chronicles_ch_26.docx": [356, 376, 905, 1897, 356, 905, 1897, 356, 376, 905, 1897], "2 Chronicles_ch_25.docx": [4168, 4168, 4168]}
+obeded	{"1 Chronicles_ch_13.docx": [1934, 1951, 1951], "1 Chronicles_ch_15.docx": [2402, 2935, 3368, 3449, 2402, 2935, 3368, 3449], "1 Chronicles_ch_16.docx": [432, 3939, 3944, 432, 3939, 3944], "1 Chronicles_ch_26.docx": [356, 905, 1897, 356, 376, 905, 1897], "2 Chronicles_ch_25.docx": [4168, 4168]}
+obeded	{"1 Chronicles_ch_13.docx": [1934, 1951], "1 Chronicles_ch_15.docx": [2402, 2935, 3368, 3449], "1 Chronicles_ch_16.docx": [432, 3939, 3944], "1 Chronicles_ch_26.docx": [356, 376, 905, 1897], "2 Chronicles_ch_25.docx": [4168]}

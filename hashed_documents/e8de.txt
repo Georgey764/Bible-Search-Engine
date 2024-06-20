@@ -1,0 +1,2 @@
+
+25bu	{"Genesis_ch_34.docx": [3177], "Genesis_ch_38.docx": [3465], "Exodus_ch_4.docx": [3621], "Exodus_ch_21.docx": [2907], "Numbers_ch_8.docx": [3226], "Numbers_ch_14.docx": [3537], "2 Samuel_ch_15.docx": [3956], "1 Chronicles_ch_11.docx": [4826], "2 Chronicles_ch_32.docx": [4957], "Proverbs_ch_24.docx": [2428], "Jeremiah_ch_38.docx": [4418], "Daniel_ch_3.docx": [4152], "Matthew_ch_9.docx": [3392], "Matthew_ch_13.docx": [3298], "Matthew_ch_15.docx": [2721]}

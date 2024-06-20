@@ -1,0 +1,4 @@
+
+joiari	{"Ezra_ch_8.docx": [1896], "Nehemiah_ch_11.docx": [784, 1580, 784, 1580, 784, 1580], "Nehemiah_ch_12.docx": [317, 1685, 317, 1685, 317, 1685]}
+joiari	{"Ezra_ch_8.docx": [1896], "Nehemiah_ch_11.docx": [784, 1580, 784, 1580], "Nehemiah_ch_12.docx": [317, 1685, 317, 1685]}
+joiari	{"Ezra_ch_8.docx": [1896], "Nehemiah_ch_11.docx": [784, 1580], "Nehemiah_ch_12.docx": [317, 1685]}

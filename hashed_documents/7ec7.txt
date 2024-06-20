@@ -1,0 +1,7 @@
+
+flin	{"Deuteronomy_ch_8.docx": [2125]}
+texts	{"Job_ch_40.docx": [1302]}
+flin	{"Deuteronomy_ch_8.docx": [2125]}
+texts	{"Job_ch_40.docx": [1302]}
+flin	{"Deuteronomy_ch_8.docx": [2125]}
+texts	{"Job_ch_40.docx": [1302]}

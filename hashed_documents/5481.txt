@@ -1,0 +1,5 @@
+
+contus	{"Isaiah_ch_1.docx": [952]}
+22bet	{"Joshua_ch_18.docx": [3305], "Joshua_ch_21.docx": [2757]}
+contus	{"Isaiah_ch_1.docx": [952]}
+contus	{"Isaiah_ch_1.docx": [952]}

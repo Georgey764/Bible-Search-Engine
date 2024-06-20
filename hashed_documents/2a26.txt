@@ -1,0 +1,4 @@
+
+tighte	{"1 Kings_ch_18.docx": [7813], "2 Kings_ch_4.docx": [4415, 4415, 4415], "Job_ch_18.docx": [779, 779, 779]}
+tighte	{"1 Kings_ch_18.docx": [7813], "2 Kings_ch_4.docx": [4415, 4415], "Job_ch_18.docx": [779, 779]}
+tighte	{"1 Kings_ch_18.docx": [7813], "2 Kings_ch_4.docx": [4415], "Job_ch_18.docx": [779]}

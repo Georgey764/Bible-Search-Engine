@@ -1,0 +1,4 @@
+
+thae	{"Genesis_ch_25.docx": [1471], "Genesis_ch_36.docx": [1262, 1663, 3534, 4366, 1262, 1663, 3534, 4366, 1262, 1663, 3534, 4366], "2 Kings_ch_19.docx": [2090, 2090, 2090], "1 Chronicles_ch_7.docx": [3173, 3173, 3173]}
+thae	{"Genesis_ch_25.docx": [1471], "Genesis_ch_36.docx": [1262, 1663, 3534, 4366, 1262, 1663, 3534, 4366], "2 Kings_ch_19.docx": [2090, 2090], "1 Chronicles_ch_7.docx": [3173, 3173]}
+thae	{"Genesis_ch_25.docx": [1471], "Genesis_ch_36.docx": [1262, 1663, 3534, 4366], "2 Kings_ch_19.docx": [2090], "1 Chronicles_ch_7.docx": [3173]}

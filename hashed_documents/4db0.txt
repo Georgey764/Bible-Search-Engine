@@ -1,0 +1,4 @@
+
+perime	{"2 Chronicles_ch_32.docx": [1048], "Ezekiel_ch_42.docx": [1347, 1347, 1347]}
+perime	{"2 Chronicles_ch_32.docx": [1048], "Ezekiel_ch_42.docx": [1347, 1347]}
+perime	{"2 Chronicles_ch_32.docx": [1048], "Ezekiel_ch_42.docx": [1347]}

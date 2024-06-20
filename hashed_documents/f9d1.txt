@@ -1,0 +1,8 @@
+
+sheari	{"Genesis_ch_31.docx": [2282], "1 Samuel_ch_25.docx": [179, 564, 816, 1529, 179, 564, 816, 1529, 179, 564, 816, 1529], "2 Samuel_ch_13.docx": [3800, 3800, 3800]}
+mous	{"1 Chronicles_ch_24.docx": [2709]}
+sheari	{"Genesis_ch_31.docx": [2282], "1 Samuel_ch_25.docx": [179, 564, 816, 1529, 179, 564, 816, 1529], "2 Samuel_ch_13.docx": [3800, 3800]}
+38,000	{"1 Chronicles_ch_23.docx": [66]}
+mous	{"1 Chronicles_ch_24.docx": [2709]}
+sheari	{"Genesis_ch_31.docx": [2282], "1 Samuel_ch_25.docx": [179, 564, 816, 1529], "2 Samuel_ch_13.docx": [3800]}
+ mous	{"1 Chronicles_ch_24.docx": [2709]}

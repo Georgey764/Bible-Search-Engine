@@ -1,0 +1,5 @@
+
+dancer	{"1 Samuel_ch_29.docx": [866], "2 Samuel_ch_6.docx": [1936, 1936, 1936], "Psalms_ch_150.docx": [328]}
+dancer	{"1 Samuel_ch_29.docx": [866], "2 Samuel_ch_6.docx": [1936, 1936]}
+7incl	{"Esther_ch_9.docx": [481]}
+dancer	{"1 Samuel_ch_29.docx": [866], "2 Samuel_ch_6.docx": [1936]}

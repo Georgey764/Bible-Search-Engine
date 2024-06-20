@@ -1,0 +1,5 @@
+
+gothon	{"Joshua_ch_15.docx": [2562], "Judges_ch_1.docx": [2206, 2225, 2354, 2206, 2225, 2354, 2206, 2225, 2354], "Judges_ch_3.docx": [5078, 5838, 5078, 5838, 5078, 5838], "1 Chronicles_ch_4.docx": [1433, 1459, 1433, 1459, 1433, 1459], "1 Chronicles_ch_27.docx": [1920, 1920, 1920]}
+8rub	{"Exodus_ch_35.docx": [899]}
+gothon	{"Joshua_ch_15.docx": [2562], "Judges_ch_1.docx": [2206, 2225, 2354, 2206, 2225, 2354], "Judges_ch_3.docx": [5078, 5838, 5078, 5838], "1 Chronicles_ch_4.docx": [1433, 1459, 1433, 1459], "1 Chronicles_ch_27.docx": [1920, 1920]}
+gothon	{"Joshua_ch_15.docx": [2562], "Judges_ch_1.docx": [2206, 2225, 2354], "Judges_ch_3.docx": [5078, 5838], "1 Chronicles_ch_4.docx": [1433, 1459], "1 Chronicles_ch_27.docx": [1920]}

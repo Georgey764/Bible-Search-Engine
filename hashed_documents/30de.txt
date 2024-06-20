@@ -1,0 +1,7 @@
+
+saraph	{"1 Chronicles_ch_7.docx": [3099]}
+rededi	{"Ezra_ch_6.docx": [3118, 3274, 3274, 3274], "Nehemiah_ch_12.docx": [2808, 2808, 2808], "John_ch_10.docx": [2343, 2343]}
+saraph	{"1 Chronicles_ch_7.docx": [3099]}
+rededi	{"Ezra_ch_6.docx": [3118, 3274, 3274], "Nehemiah_ch_12.docx": [2808, 2808], "John_ch_10.docx": [2343]}
+saraph	{"1 Chronicles_ch_7.docx": [3099]}
+rededi	{"Ezra_ch_6.docx": [3118, 3274], "Nehemiah_ch_12.docx": [2808], "John_ch_10.docx": [2343]}

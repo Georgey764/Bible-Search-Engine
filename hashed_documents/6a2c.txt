@@ -1,0 +1,4 @@
+
+asron	{"Genesis_ch_46.docx": [1173], "Exodus_ch_6.docx": [1967, 1967, 1967], "Numbers_ch_26.docx": [772, 777, 1839, 1844, 777, 1839, 1844, 772, 777, 1839, 1844]}
+asron	{"Genesis_ch_46.docx": [1173], "Exodus_ch_6.docx": [1967, 1967], "Numbers_ch_26.docx": [777, 1839, 1844, 772, 777, 1839, 1844]}
+asron	{"Genesis_ch_46.docx": [1173], "Exodus_ch_6.docx": [1967], "Numbers_ch_26.docx": [772, 777, 1839, 1844]}

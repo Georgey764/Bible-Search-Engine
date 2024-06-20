@@ -1,0 +1,9 @@
+
+foreh	{"Exodus_ch_28.docx": [4781], "Leviticus_ch_13.docx": [5774, 6011, 5774, 6011, 5774, 6011], "1 Samuel_ch_17.docx": [7559, 7559, 7559], "2 Chronicles_ch_26.docx": [3114, 3379, 3114, 3379, 3114, 3379], "Jeremiah_ch_48.docx": [6332, 6332, 6332], "Ezekiel_ch_9.docx": [960, 960, 960], "Revelation_ch_7.docx": [465, 465], "Revelation_ch_9.docx": [486, 486], "Revelation_ch_13.docx": [2525, 2525], "Revelation_ch_14.docx": [30, 1466, 30, 1466], "Revelation_ch_17.docx": [770, 770], "Revelation_ch_20.docx": [537, 537]}
+tara	{"Numbers_ch_33.docx": [2170, 2211, 2211, 2211]}
+18ph	{"Genesis_ch_11.docx": [2272]}
+foreh	{"Exodus_ch_28.docx": [4781], "Leviticus_ch_13.docx": [5774, 6011, 5774, 6011], "1 Samuel_ch_17.docx": [7559, 7559], "2 Chronicles_ch_26.docx": [3114, 3379, 3114, 3379], "Jeremiah_ch_48.docx": [6332, 6332], "Ezekiel_ch_9.docx": [960, 960], "Revelation_ch_7.docx": [465], "Revelation_ch_9.docx": [486], "Revelation_ch_13.docx": [2525], "Revelation_ch_14.docx": [30, 1466], "Revelation_ch_17.docx": [770], "Revelation_ch_20.docx": [537]}
+tara	{"Numbers_ch_33.docx": [2170, 2211, 2211]}
+25demo	{"2 Kings_ch_3.docx": [3724]}
+foreh	{"Exodus_ch_28.docx": [4781], "Leviticus_ch_13.docx": [5774, 6011], "1 Samuel_ch_17.docx": [7559], "2 Chronicles_ch_26.docx": [3114, 3379], "Jeremiah_ch_48.docx": [6332], "Ezekiel_ch_9.docx": [960], "Revelation_ch_7.docx": [465], "Revelation_ch_9.docx": [486], "Revelation_ch_13.docx": [2525], "Revelation_ch_14.docx": [30, 1466], "Revelation_ch_17.docx": [770], "Revelation_ch_20.docx": [537]}
+tara	{"Numbers_ch_33.docx": [2170, 2211]}

@@ -1,0 +1,5 @@
+
+echo	{"Joshua_ch_19.docx": [2378], "Job_ch_4.docx": [1256, 1256, 1256], "Luke_ch_4.docx": [5345, 5345]}
+echo	{"Joshua_ch_19.docx": [2378], "Job_ch_4.docx": [1256, 1256], "Luke_ch_4.docx": [5345]}
+9whil	{"Job_ch_37.docx": [855]}
+echo	{"Joshua_ch_19.docx": [2378], "Job_ch_4.docx": [1256], "Luke_ch_4.docx": [5345]}

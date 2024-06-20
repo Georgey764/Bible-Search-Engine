@@ -1,0 +1,7 @@
+
+palest	{"Genesis_ch_10.docx": [818]}
+carn	{"Genesis_ch_14.docx": [566], "Proverbs_ch_7.docx": [951, 951, 951], "Ezekiel_ch_43.docx": [1499, 1499, 1499]}
+palest	{"Genesis_ch_10.docx": [818]}
+carn	{"Genesis_ch_14.docx": [566], "Proverbs_ch_7.docx": [951, 951], "Ezekiel_ch_43.docx": [1499, 1499]}
+palest	{"Genesis_ch_10.docx": [818]}
+carn	{"Genesis_ch_14.docx": [566], "Proverbs_ch_7.docx": [951], "Ezekiel_ch_43.docx": [1499]}

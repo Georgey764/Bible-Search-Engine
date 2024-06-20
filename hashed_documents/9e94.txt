@@ -1,0 +1,5 @@
+
+cliff	{"2 Chronicles_ch_25.docx": [1760], "Job_ch_14.docx": [2109, 2109, 2109], "Matthew_ch_8.docx": [4160, 4160, 4160]}
+15,00	{"Judges_ch_8.docx": [2092]}
+cliff	{"2 Chronicles_ch_25.docx": [1760], "Job_ch_14.docx": [2109, 2109], "Matthew_ch_8.docx": [4160, 4160]}
+cliff	{"2 Chronicles_ch_25.docx": [1760], "Job_ch_14.docx": [2109], "Matthew_ch_8.docx": [4160]}

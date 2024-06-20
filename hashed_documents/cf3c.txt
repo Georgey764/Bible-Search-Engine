@@ -1,0 +1,4 @@
+
+sot	{"Joshua_ch_15.docx": [6373], "1 Chronicles_ch_7.docx": [2487, 2559, 2487, 2559, 2487, 2559], "Ezra_ch_2.docx": [2182, 2182, 2182], "Nehemiah_ch_7.docx": [3317, 3317, 3317]}
+sot	{"Joshua_ch_15.docx": [6373], "1 Chronicles_ch_7.docx": [2487, 2559, 2487, 2559], "Ezra_ch_2.docx": [2182, 2182], "Nehemiah_ch_7.docx": [3317, 3317]}
+sot	{"Joshua_ch_15.docx": [6373], "1 Chronicles_ch_7.docx": [2487, 2559], "Ezra_ch_2.docx": [2182], "Nehemiah_ch_7.docx": [3317]}

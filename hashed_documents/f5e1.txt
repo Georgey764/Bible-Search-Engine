@@ -1,0 +1,4 @@
+
+bruise	{"Leviticus_ch_24.docx": [2487, 2489, 2489], "Job_ch_9.docx": [1543, 1543, 1543], "Proverbs_ch_20.docx": [3471, 3471, 3471], "Isaiah_ch_53.docx": [745, 745, 745], "Matthew_ch_12.docx": [2208, 2208, 2208], "Luke_ch_9.docx": [5450, 5450]}
+bruise	{"Leviticus_ch_24.docx": [2489, 2489], "Job_ch_9.docx": [1543, 1543], "Proverbs_ch_20.docx": [3471, 3471], "Isaiah_ch_53.docx": [745, 745], "Matthew_ch_12.docx": [2208, 2208], "Luke_ch_9.docx": [5450]}
+bruise	{"Leviticus_ch_24.docx": [2487, 2489], "Job_ch_9.docx": [1543], "Proverbs_ch_20.docx": [3471], "Isaiah_ch_53.docx": [745], "Matthew_ch_12.docx": [2208], "Luke_ch_9.docx": [5450]}

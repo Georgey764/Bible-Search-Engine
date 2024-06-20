@@ -1,0 +1,2 @@
+
+1mean	{"Genesis_ch_39.docx": [4], "Exodus_ch_18.docx": [4], "2 Kings_ch_13.docx": [5]}

@@ -1,0 +1,4 @@
+
+jewels	{"2 Samuel_ch_1.docx": [3425], "Isaiah_ch_49.docx": [3947, 3947, 3947], "Isaiah_ch_61.docx": [2110, 2110, 2110]}
+jewels	{"2 Samuel_ch_1.docx": [3425], "Isaiah_ch_49.docx": [3947, 3947], "Isaiah_ch_61.docx": [2110, 2110]}
+jewels	{"2 Samuel_ch_1.docx": [3425], "Isaiah_ch_49.docx": [3947], "Isaiah_ch_61.docx": [2110]}

@@ -1,0 +1,7 @@
+
+mutto	{"2 Samuel_ch_17.docx": [4637]}
+asses	{"2 Kings_ch_23.docx": [7727]}
+mutto	{"2 Samuel_ch_17.docx": [4637]}
+asses	{"2 Kings_ch_23.docx": [7727]}
+mutto	{"2 Samuel_ch_17.docx": [4637]}
+asses	{"2 Kings_ch_23.docx": [7727]}

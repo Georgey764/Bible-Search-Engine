@@ -1,0 +1,5 @@
+
+claw	{"Leviticus_ch_11.docx": [221, 249, 705, 2722, 249, 705, 2722, 249, 705, 2722], "Jeremiah_ch_17.docx": [130, 130, 130], "Ezekiel_ch_17.docx": [249, 987, 249, 987, 249, 987], "Daniel_ch_4.docx": [6305, 6305, 6305], "Daniel_ch_7.docx": [3588, 3588, 3588]}
+48‘wel	{"Genesis_ch_24.docx": [7369]}
+claw	{"Leviticus_ch_11.docx": [221, 249, 705, 2722, 249, 705, 2722], "Jeremiah_ch_17.docx": [130, 130], "Ezekiel_ch_17.docx": [249, 987, 249, 987], "Daniel_ch_4.docx": [6305, 6305], "Daniel_ch_7.docx": [3588, 3588]}
+claw	{"Leviticus_ch_11.docx": [221, 249, 705, 2722], "Jeremiah_ch_17.docx": [130], "Ezekiel_ch_17.docx": [249, 987], "Daniel_ch_4.docx": [6305], "Daniel_ch_7.docx": [3588]}

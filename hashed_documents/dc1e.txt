@@ -1,0 +1,4 @@
+
+sakch	{"1 Chronicles_ch_24.docx": [2820], "1 Chronicles_ch_25.docx": [308, 308, 308]}
+sakch	{"1 Chronicles_ch_24.docx": [2820], "1 Chronicles_ch_25.docx": [308, 308]}
+sakch	{"1 Chronicles_ch_24.docx": [2820], "1 Chronicles_ch_25.docx": [308]}

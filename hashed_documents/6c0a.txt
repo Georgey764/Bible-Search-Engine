@@ -1,0 +1,7 @@
+
+sedi	{"Numbers_ch_1.docx": [653], "Numbers_ch_7.docx": [3588, 4222, 3588, 4222, 3588, 4222], "Numbers_ch_10.docx": [2157, 2157, 2157], "Judges_ch_9.docx": [1292, 1320, 1350, 1381, 1292, 1320, 1350, 1381, 1292, 1320, 1350, 1381]}
+sarap	{"1 Chronicles_ch_7.docx": [3099]}
+sedi	{"Numbers_ch_1.docx": [653], "Numbers_ch_7.docx": [3588, 4222, 3588, 4222], "Numbers_ch_10.docx": [2157, 2157], "Judges_ch_9.docx": [1292, 1320, 1350, 1381, 1292, 1320, 1350, 1381]}
+sarap	{"1 Chronicles_ch_7.docx": [3099]}
+sedi	{"Numbers_ch_1.docx": [653], "Numbers_ch_7.docx": [3588, 4222], "Numbers_ch_10.docx": [2157], "Judges_ch_9.docx": [1292, 1320, 1350, 1381]}
+sarap	{"1 Chronicles_ch_7.docx": [3099]}

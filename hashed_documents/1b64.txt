@@ -1,0 +1,6 @@
+
+writhe	{"Psalms_ch_32.docx": [378]}
+41‘the	{"Leviticus_ch_14.docx": [6178], "Leviticus_ch_25.docx": [5855], "Deuteronomy_ch_32.docx": [5954], "Jeremiah_ch_32.docx": [7122], "Jeremiah_ch_51.docx": [6796], "Daniel_ch_2.docx": [7024], "Matthew_ch_12.docx": [4989], "Matthew_ch_25.docx": [4780]}
+writhe	{"Psalms_ch_32.docx": [378]}
+13now	{"Psalms_ch_132.docx": [1151]}
+writhe	{"Psalms_ch_32.docx": [378]}

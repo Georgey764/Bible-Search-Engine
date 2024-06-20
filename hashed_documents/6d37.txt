@@ -1,0 +1,4 @@
+
+somnas	{"2 Kings_ch_18.docx": [2930, 4315, 6345, 4315, 6345, 4315, 6345], "2 Kings_ch_19.docx": [165, 165, 165]}
+somnas	{"2 Kings_ch_18.docx": [2930, 4315, 6345, 4315, 6345], "2 Kings_ch_19.docx": [165, 165]}
+somnas	{"2 Kings_ch_18.docx": [2930, 4315, 6345], "2 Kings_ch_19.docx": [165]}

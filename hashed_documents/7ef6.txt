@@ -1,0 +1,2 @@
+
+150	{"Genesis_ch_7.docx": [3060], "Genesis_ch_8.docx": [356], "Exodus_ch_38.docx": [1068, 1239], "1 Samuel_ch_17.docx": [462], "1 Kings_ch_7.docx": [161], "1 Kings_ch_16.docx": [3639], "1 Chronicles_ch_8.docx": [2819], "2 Chronicles_ch_1.docx": [2795], "Ezra_ch_8.docx": [385], "Nehemiah_ch_5.docx": [3223], "Psalms_ch_119.docx": [12634]}

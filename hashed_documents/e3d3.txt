@@ -1,0 +1,4 @@
+
+lands!	{"Jeremiah_ch_30.docx": [1428], "Daniel_ch_4.docx": [3641, 3641, 3641]}
+lands!	{"Jeremiah_ch_30.docx": [1428], "Daniel_ch_4.docx": [3641, 3641]}
+lands!	{"Jeremiah_ch_30.docx": [1428], "Daniel_ch_4.docx": [3641]}

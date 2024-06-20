@@ -1,0 +1,4 @@
+
+camuel	{"Genesis_ch_22.docx": [3256], "Numbers_ch_34.docx": [2318, 2318, 2318]}
+camuel	{"Genesis_ch_22.docx": [3256], "Numbers_ch_34.docx": [2318, 2318]}
+camuel	{"Genesis_ch_22.docx": [3256], "Numbers_ch_34.docx": [2318]}

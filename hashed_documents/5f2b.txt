@@ -1,0 +1,6 @@
+
+noisy	{"Job_ch_30.docx": [2636]}
+3‘our	{"Numbers_ch_27.docx": [384]}
+noisy	{"Job_ch_30.docx": [2636]}
+6peopl	{"Psalms_ch_22.docx": [585]}
+noisy	{"Job_ch_30.docx": [2636]}

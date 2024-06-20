@@ -1,0 +1,5 @@
+
+whirl	{"Psalms_ch_83.docx": [998], "Jeremiah_ch_23.docx": [3718, 3718, 3718]}
+whirl	{"Psalms_ch_83.docx": [998], "Jeremiah_ch_23.docx": [3718, 3718]}
+19:10	{"Matthew_ch_18.docx": [1487]}
+whirl	{"Psalms_ch_83.docx": [998], "Jeremiah_ch_23.docx": [3718]}

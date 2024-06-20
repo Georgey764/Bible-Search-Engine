@@ -1,0 +1,4 @@
+
+nobles	{"Psalms_ch_149.docx": [703], "Ecclesiastes_ch_10.docx": [1804, 1804, 1804], "Song of Solomon_ch_6.docx": [1797, 1797, 1797], "Song of Solomon_ch_7.docx": [80, 80, 80]}
+nobles	{"Psalms_ch_149.docx": [703], "Ecclesiastes_ch_10.docx": [1804, 1804], "Song of Solomon_ch_6.docx": [1797, 1797], "Song of Solomon_ch_7.docx": [80, 80]}
+nobles	{"Psalms_ch_149.docx": [703], "Ecclesiastes_ch_10.docx": [1804], "Song of Solomon_ch_6.docx": [1797], "Song of Solomon_ch_7.docx": [80]}

@@ -1,0 +1,4 @@
+
+manusc	{"1 Samuel_ch_17.docx": [1531, 8682, 8682, 8682], "1 Samuel_ch_18.docx": [20, 20, 20], "1 Kings_ch_12.docx": [2723, 2723, 2723], "Psalms_ch_2.docx": [50, 50, 50], "Proverbs_ch_20.docx": [11, 70, 1992, 2703, 11, 70, 1992, 2703, 11, 70, 1992, 2703], "Ezekiel_ch_41.docx": [82, 82, 82]}
+manusc	{"1 Samuel_ch_17.docx": [1531, 8682, 8682], "1 Samuel_ch_18.docx": [20, 20], "1 Kings_ch_12.docx": [2723, 2723], "Psalms_ch_2.docx": [50, 50], "Proverbs_ch_20.docx": [11, 70, 1992, 2703, 11, 70, 1992, 2703], "Ezekiel_ch_41.docx": [82, 82]}
+manusc	{"1 Samuel_ch_17.docx": [1531, 8682], "1 Samuel_ch_18.docx": [20], "1 Kings_ch_12.docx": [2723], "Psalms_ch_2.docx": [50], "Proverbs_ch_20.docx": [11, 70, 1992, 2703], "Ezekiel_ch_41.docx": [82]}

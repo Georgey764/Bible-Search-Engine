@@ -1,0 +1,2 @@
+
+49so	{"Genesis_ch_41.docx": [6450], "Numbers_ch_3.docx": [5979], "Joshua_ch_19.docx": [4258], "Judges_ch_9.docx": [8928], "Psalms_ch_18.docx": [4696], "Psalms_ch_89.docx": [4616]}

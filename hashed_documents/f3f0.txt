@@ -1,0 +1,4 @@
+
+beerot	{"Deuteronomy_ch_10.docx": [839], "Joshua_ch_18.docx": [3487, 3487, 3487], "2 Samuel_ch_4.docx": [186, 193, 415, 759, 186, 193, 415, 759, 186, 193, 415, 759], "Ezra_ch_2.docx": [1107, 1107, 1107], "Nehemiah_ch_7.docx": [2086, 2086, 2086]}
+beerot	{"Deuteronomy_ch_10.docx": [839], "Joshua_ch_18.docx": [3487, 3487], "2 Samuel_ch_4.docx": [186, 193, 415, 759, 186, 193, 415, 759], "Ezra_ch_2.docx": [1107, 1107], "Nehemiah_ch_7.docx": [2086, 2086]}
+beerot	{"Deuteronomy_ch_10.docx": [839], "Joshua_ch_18.docx": [3487], "2 Samuel_ch_4.docx": [186, 193, 415, 759], "Ezra_ch_2.docx": [1107], "Nehemiah_ch_7.docx": [2086]}

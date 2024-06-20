@@ -1,0 +1,5 @@
+
+ephal	{"1 Chronicles_ch_4.docx": [556]}
+16they	{"Numbers_ch_22.docx": [2209], "Judges_ch_5.docx": [2425], "Judges_ch_20.docx": [1903], "1 Samuel_ch_8.docx": [1914], "2 Kings_ch_17.docx": [2810], "1 Chronicles_ch_5.docx": [1998], "Job_ch_41.docx": [1450], "Isaiah_ch_9.docx": [2546], "Jeremiah_ch_18.docx": [2104]}
+ephal	{"1 Chronicles_ch_4.docx": [556]}
+ephal	{"1 Chronicles_ch_4.docx": [556]}

@@ -1,0 +1,4 @@
+
+turp	{"Genesis_ch_14.docx": [599], "Genesis_ch_35.docx": [590, 590, 590], "Genesis_ch_43.docx": [1333, 1333, 1333]}
+turp	{"Genesis_ch_14.docx": [599], "Genesis_ch_35.docx": [590, 590], "Genesis_ch_43.docx": [1333, 1333]}
+turp	{"Genesis_ch_14.docx": [599], "Genesis_ch_35.docx": [590], "Genesis_ch_43.docx": [1333]}

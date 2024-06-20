@@ -1,0 +1,13 @@
+
+geb	{"Joshua_ch_19.docx": [1105, 3466, 3466, 3466], "1 Samuel_ch_14.docx": [635, 635, 635], "1 Kings_ch_9.docx": [4141, 4141, 4141], "2 Chronicles_ch_8.docx": [2528, 2528, 2528], "2 Chronicles_ch_20.docx": [5996, 5996, 5996], "Psalms_ch_83.docx": [561, 561, 561], "Isaiah_ch_10.docx": [4665, 4665, 4665]}
+percep	{"Proverbs_ch_1.docx": [712], "Proverbs_ch_2.docx": [302, 870, 302, 870, 302, 870], "Proverbs_ch_3.docx": [1827, 1827, 1827], "Proverbs_ch_10.docx": [1299, 1299, 1299], "Proverbs_ch_18.docx": [1226, 1226, 1226]}
+gems;	{"Proverbs_ch_20.docx": [2159]}
+rainbo	{"Ezekiel_ch_1.docx": [3719], "Revelation_ch_4.docx": [396, 396], "Revelation_ch_10.docx": [30, 30]}
+geb	{"Joshua_ch_19.docx": [1105, 3466, 3466], "1 Samuel_ch_14.docx": [635, 635], "1 Kings_ch_9.docx": [4141, 4141], "2 Chronicles_ch_8.docx": [2528, 2528], "2 Chronicles_ch_20.docx": [5996, 5996], "Psalms_ch_83.docx": [561, 561], "Isaiah_ch_10.docx": [4665, 4665]}
+percep	{"Proverbs_ch_1.docx": [712], "Proverbs_ch_2.docx": [302, 870, 302, 870], "Proverbs_ch_3.docx": [1827, 1827], "Proverbs_ch_10.docx": [1299, 1299], "Proverbs_ch_18.docx": [1226, 1226]}
+gems;	{"Proverbs_ch_20.docx": [2159]}
+rainbo	{"Ezekiel_ch_1.docx": [3719], "Revelation_ch_4.docx": [396], "Revelation_ch_10.docx": [30]}
+geb	{"Joshua_ch_19.docx": [1105, 3466], "1 Samuel_ch_14.docx": [635], "1 Kings_ch_9.docx": [4141], "2 Chronicles_ch_8.docx": [2528], "2 Chronicles_ch_20.docx": [5996], "Psalms_ch_83.docx": [561], "Isaiah_ch_10.docx": [4665]}
+percep	{"Proverbs_ch_1.docx": [712], "Proverbs_ch_2.docx": [302, 870], "Proverbs_ch_3.docx": [1827], "Proverbs_ch_10.docx": [1299], "Proverbs_ch_18.docx": [1226]}
+gems;	{"Proverbs_ch_20.docx": [2159]}
+rainbo	{"Ezekiel_ch_1.docx": [3719], "Revelation_ch_4.docx": [396], "Revelation_ch_10.docx": [30]}

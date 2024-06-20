@@ -1,0 +1,7 @@
+
+echra	{"Numbers_ch_1.docx": [1178], "Numbers_ch_7.docx": [8389, 9028, 8389, 9028, 8389, 9028], "Numbers_ch_10.docx": [2849, 2849, 2849]}
+vats	{"Psalms_ch_8.docx": [44], "Psalms_ch_81.docx": [53, 53, 53], "Psalms_ch_84.docx": [53, 53, 53], "Proverbs_ch_3.docx": [940, 940, 940], "Isaiah_ch_16.docx": [2052, 2052, 2052], "Jeremiah_ch_48.docx": [4392, 4392, 4392], "Hosea_ch_9.docx": [302, 302, 302], "Joel_ch_1.docx": [2751, 2751, 2751], "Joel_ch_2.docx": [4405, 4405, 4405]}
+echra	{"Numbers_ch_1.docx": [1178], "Numbers_ch_7.docx": [8389, 9028, 8389, 9028], "Numbers_ch_10.docx": [2849, 2849]}
+vats	{"Psalms_ch_8.docx": [44], "Psalms_ch_81.docx": [53, 53], "Psalms_ch_84.docx": [53, 53], "Proverbs_ch_3.docx": [940, 940], "Isaiah_ch_16.docx": [2052, 2052], "Jeremiah_ch_48.docx": [4392, 4392], "Hosea_ch_9.docx": [302, 302], "Joel_ch_1.docx": [2751, 2751], "Joel_ch_2.docx": [4405, 4405]}
+echra	{"Numbers_ch_1.docx": [1178], "Numbers_ch_7.docx": [8389, 9028], "Numbers_ch_10.docx": [2849]}
+vats	{"Psalms_ch_8.docx": [44], "Psalms_ch_81.docx": [53], "Psalms_ch_84.docx": [53], "Proverbs_ch_3.docx": [940], "Isaiah_ch_16.docx": [2052], "Jeremiah_ch_48.docx": [4392], "Hosea_ch_9.docx": [302], "Joel_ch_1.docx": [2751], "Joel_ch_2.docx": [4405]}

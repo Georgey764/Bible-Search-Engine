@@ -1,0 +1,5 @@
+
+stem	{"Genesis_ch_8.docx": [1228], "Genesis_ch_40.docx": [959, 1301, 959, 1301, 959, 1301], "Exodus_ch_25.docx": [3355, 3355, 3355], "Exodus_ch_37.docx": [1787, 1787, 1787], "Numbers_ch_8.docx": [367, 367, 367]}
+stem	{"Genesis_ch_8.docx": [1228], "Genesis_ch_40.docx": [959, 1301, 959, 1301], "Exodus_ch_25.docx": [3355, 3355], "Exodus_ch_37.docx": [1787, 1787], "Numbers_ch_8.docx": [367, 367]}
+28:1	{"1 Chronicles_ch_24.docx": [25]}
+stem	{"Genesis_ch_8.docx": [1228], "Genesis_ch_40.docx": [959, 1301], "Exodus_ch_25.docx": [3355], "Exodus_ch_37.docx": [1787], "Numbers_ch_8.docx": [367]}

@@ -1,0 +1,4 @@
+
+superi	{"Exodus_ch_17.docx": [1782], "2 Kings_ch_5.docx": [2089, 2089, 2089], "1 Chronicles_ch_27.docx": [4397, 4397, 4397], "Nehemiah_ch_9.docx": [6440, 6440, 6440], "Romans_ch_3.docx": [11, 11], "Philippians_ch_2.docx": [1010, 1010], "Philippians_ch_3.docx": [1133, 1133], "Hebrews_ch_11.docx": [6836, 6836]}
+superi	{"Exodus_ch_17.docx": [1782], "2 Kings_ch_5.docx": [2089, 2089], "1 Chronicles_ch_27.docx": [4397, 4397], "Nehemiah_ch_9.docx": [6440, 6440], "Romans_ch_3.docx": [11], "Philippians_ch_2.docx": [1010], "Philippians_ch_3.docx": [1133], "Hebrews_ch_11.docx": [6836]}
+superi	{"Exodus_ch_17.docx": [1782], "2 Kings_ch_5.docx": [2089], "1 Chronicles_ch_27.docx": [4397], "Nehemiah_ch_9.docx": [6440], "Romans_ch_3.docx": [11], "Philippians_ch_2.docx": [1010], "Philippians_ch_3.docx": [1133], "Hebrews_ch_11.docx": [6836]}

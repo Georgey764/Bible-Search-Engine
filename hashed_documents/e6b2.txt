@@ -1,0 +1,4 @@
+
+disord	{"Luke_ch_21.docx": [1164], "Acts_ch_19.docx": [12123, 12123], "2 Corinthians_ch_12.docx": [3381, 3381], "James_ch_3.docx": [1972, 1972]}
+2alt	{"2 Chronicles_ch_25.docx": [179], "Psalms_ch_127.docx": [248], "Song of Solomon_ch_5.docx": [475]}
+disord	{"Luke_ch_21.docx": [1164], "Acts_ch_19.docx": [12123], "2 Corinthians_ch_12.docx": [3381], "James_ch_3.docx": [1972]}

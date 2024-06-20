@@ -1,0 +1,2 @@
+
+10now	{"Genesis_ch_14.docx": [1361], "Genesis_ch_23.docx": [1115], "Genesis_ch_48.docx": [1428], "2 Samuel_ch_15.docx": [1240], "Ezra_ch_7.docx": [1100], "Psalms_ch_85.docx": [864], "Proverbs_ch_2.docx": [811]}

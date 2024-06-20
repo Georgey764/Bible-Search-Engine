@@ -1,0 +1,4 @@
+
+endo	{"1 Samuel_ch_28.docx": [1098], "1 Samuel_ch_29.docx": [22, 22, 22], "Psalms_ch_83.docx": [804, 804, 804]}
+endo	{"1 Samuel_ch_28.docx": [1098], "1 Samuel_ch_29.docx": [22, 22], "Psalms_ch_83.docx": [804, 804]}
+endo	{"1 Samuel_ch_28.docx": [1098], "1 Samuel_ch_29.docx": [22], "Psalms_ch_83.docx": [804]}

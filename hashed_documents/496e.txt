@@ -1,0 +1,4 @@
+
+salomo	{"1 Chronicles_ch_23.docx": [1895], "1 Chronicles_ch_26.docx": [3118, 3128, 3693, 3118, 3693, 3118, 3128, 3693]}
+salomo	{"1 Chronicles_ch_23.docx": [1895], "1 Chronicles_ch_26.docx": [3118, 3693, 3118, 3128, 3693]}
+salomo	{"1 Chronicles_ch_23.docx": [1895], "1 Chronicles_ch_26.docx": [3118, 3128, 3693]}

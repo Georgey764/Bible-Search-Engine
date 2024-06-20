@@ -1,0 +1,4 @@
+
+mada	{"Genesis_ch_25.docx": [132], "1 Chronicles_ch_1.docx": [233, 233, 233], "Ezekiel_ch_16.docx": [4963, 4963, 4963]}
+mada	{"Genesis_ch_25.docx": [132], "1 Chronicles_ch_1.docx": [233, 233], "Ezekiel_ch_16.docx": [4963, 4963]}
+mada	{"Genesis_ch_25.docx": [132], "1 Chronicles_ch_1.docx": [233], "Ezekiel_ch_16.docx": [4963]}

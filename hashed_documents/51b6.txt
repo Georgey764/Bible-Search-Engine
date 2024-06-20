@@ -1,0 +1,6 @@
+
+promo	{"Numbers_ch_27.docx": [3035], "Judges_ch_9.docx": [2703, 2900, 3090, 2703, 2900, 3090, 2703, 2900, 3090], "Esther_ch_3.docx": [17, 17, 17], "Daniel_ch_3.docx": [5561, 5561, 5561], "Daniel_ch_5.docx": [3471, 3471, 3471], "Matthew_ch_23.docx": [1132, 1144, 1132, 1144, 1132, 1144], "Luke_ch_18.docx": [1733, 1733], "Acts_ch_13.docx": [4321, 4321], "Romans_ch_14.docx": [2797, 2797], "Philippians_ch_2.docx": [1006, 2656, 1006, 2656]}
+salted	{"Mark_ch_9.docx": [6726]}
+promo	{"Numbers_ch_27.docx": [3035], "Judges_ch_9.docx": [2703, 2900, 3090, 2703, 2900, 3090], "Esther_ch_3.docx": [17, 17], "Daniel_ch_3.docx": [5561, 5561], "Daniel_ch_5.docx": [3471, 3471], "Matthew_ch_23.docx": [1132, 1144, 1132, 1144], "Luke_ch_18.docx": [1733], "Acts_ch_13.docx": [4321], "Romans_ch_14.docx": [2797], "Philippians_ch_2.docx": [1006, 2656]}
+promo	{"Numbers_ch_27.docx": [3035], "Judges_ch_9.docx": [2703, 2900, 3090], "Esther_ch_3.docx": [17], "Daniel_ch_3.docx": [5561], "Daniel_ch_5.docx": [3471], "Matthew_ch_23.docx": [1132, 1144], "Luke_ch_18.docx": [1733], "Acts_ch_13.docx": [4321], "Romans_ch_14.docx": [2797], "Philippians_ch_2.docx": [1006, 2656]}
+salted	{"Mark_ch_9.docx": [6726]}

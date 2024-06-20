@@ -1,0 +1,3 @@
+
+32‘ask	{"Deuteronomy_ch_4.docx": [4941]}
+174	{"Psalms_ch_119.docx": [14740]}

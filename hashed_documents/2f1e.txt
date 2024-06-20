@@ -1,0 +1,7 @@
+
+toot	{"Exodus_ch_21.docx": [2898, 2900, 3245, 3255, 2900, 3245, 3255, 2900, 3245, 3255], "Leviticus_ch_24.docx": [2493, 2495, 2493, 2495, 2493, 2495], "Deuteronomy_ch_19.docx": [3048, 3050, 3048, 3050, 3048, 3050], "Ezekiel_ch_18.docx": [201, 201, 201], "Amos_ch_4.docx": [1566, 1566, 1566], "Matthew_ch_5.docx": [4838, 4840, 4838, 4840, 4838, 4840]}
+elah’s	{"1 Kings_ch_16.docx": [1253], "1 Chronicles_ch_4.docx": [1691, 1691, 1691]}
+toot	{"Exodus_ch_21.docx": [2898, 2900, 3245, 3255, 2900, 3245, 3255], "Leviticus_ch_24.docx": [2493, 2495, 2493, 2495], "Deuteronomy_ch_19.docx": [3048, 3050, 3048, 3050], "Ezekiel_ch_18.docx": [201, 201], "Amos_ch_4.docx": [1566, 1566], "Matthew_ch_5.docx": [4838, 4840, 4838, 4840]}
+elah’s	{"1 Kings_ch_16.docx": [1253], "1 Chronicles_ch_4.docx": [1691, 1691]}
+toot	{"Exodus_ch_21.docx": [2898, 2900, 3245, 3255], "Leviticus_ch_24.docx": [2493, 2495], "Deuteronomy_ch_19.docx": [3048, 3050], "Ezekiel_ch_18.docx": [201], "Amos_ch_4.docx": [1566], "Matthew_ch_5.docx": [4838, 4840]}
+elah’s	{"1 Kings_ch_16.docx": [1253], "1 Chronicles_ch_4.docx": [1691]}

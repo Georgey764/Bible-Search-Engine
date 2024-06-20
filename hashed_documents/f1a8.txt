@@ -1,0 +1,8 @@
+
+jehu!	{"2 Kings_ch_9.docx": [2094]}
+spider	{"Job_ch_8.docx": [1233], "Job_ch_27.docx": [1643, 1643, 1643], "Psalms_ch_39.docx": [1230, 1230, 1230], "Psalms_ch_90.docx": [966, 966, 966], "Isaiah_ch_59.docx": [681, 681, 681]}
+27‘t	{"Leviticus_ch_13.docx": [3758], "Numbers_ch_2.docx": [2341], "Numbers_ch_4.docx": [3561], "Numbers_ch_18.docx": [4708], "Numbers_ch_29.docx": [3535], "Deuteronomy_ch_4.docx": [4184], "Deuteronomy_ch_11.docx": [3745], "Isaiah_ch_1.docx": [4375], "Jeremiah_ch_23.docx": [4795], "Ezekiel_ch_7.docx": [4599], "Ezekiel_ch_34.docx": [4525], "Ezekiel_ch_43.docx": [4909], "Daniel_ch_5.docx": [5179], "Daniel_ch_7.docx": [5027], "Matthew_ch_13.docx": [3472]}
+jehu!	{"2 Kings_ch_9.docx": [2094]}
+spider	{"Job_ch_8.docx": [1233], "Job_ch_27.docx": [1643, 1643], "Psalms_ch_39.docx": [1230, 1230], "Psalms_ch_90.docx": [966, 966], "Isaiah_ch_59.docx": [681, 681]}
+jehu!	{"2 Kings_ch_9.docx": [2094]}
+spider	{"Job_ch_8.docx": [1233], "Job_ch_27.docx": [1643], "Psalms_ch_39.docx": [1230], "Psalms_ch_90.docx": [966], "Isaiah_ch_59.docx": [681]}

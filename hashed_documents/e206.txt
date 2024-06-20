@@ -1,0 +1,4 @@
+
+miso	{"Deuteronomy_ch_3.docx": [1251], "Joshua_ch_21.docx": [4436, 4436, 4436], "Jeremiah_ch_48.docx": [2768, 2768, 2768]}
+miso	{"Deuteronomy_ch_3.docx": [1251], "Joshua_ch_21.docx": [4436, 4436], "Jeremiah_ch_48.docx": [2768, 2768]}
+miso	{"Deuteronomy_ch_3.docx": [1251], "Joshua_ch_21.docx": [4436], "Jeremiah_ch_48.docx": [2768]}

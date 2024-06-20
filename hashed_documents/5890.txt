@@ -1,0 +1,4 @@
+
+sobab	{"2 Samuel_ch_5.docx": [2126], "1 Chronicles_ch_3.docx": [602, 602, 602], "1 Chronicles_ch_14.docx": [510, 510, 510]}
+sobab	{"2 Samuel_ch_5.docx": [2126], "1 Chronicles_ch_3.docx": [602, 602], "1 Chronicles_ch_14.docx": [510, 510]}
+sobab	{"2 Samuel_ch_5.docx": [2126], "1 Chronicles_ch_3.docx": [602], "1 Chronicles_ch_14.docx": [510]}

@@ -1,0 +1,5 @@
+
+dizzy	{"Psalms_ch_78.docx": [6299], "Isaiah_ch_24.docx": [3208, 3208, 3208], "Isaiah_ch_29.docx": [1524, 1524, 1524]}
+dizzy	{"Psalms_ch_78.docx": [6299], "Isaiah_ch_24.docx": [3208, 3208], "Isaiah_ch_29.docx": [1524, 1524]}
+15span	{"Proverbs_ch_29.docx": [1321]}
+dizzy	{"Psalms_ch_78.docx": [6299], "Isaiah_ch_24.docx": [3208], "Isaiah_ch_29.docx": [1524]}

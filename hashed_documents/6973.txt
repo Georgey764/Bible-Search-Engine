@@ -1,0 +1,7 @@
+
+coas	{"Genesis_ch_49.docx": [1737], "Deuteronomy_ch_1.docx": [911, 911, 911], "Isaiah_ch_9.docx": [106, 106, 106], "Ezekiel_ch_25.docx": [2819, 2819, 2819], "Matthew_ch_4.docx": [1769, 1769, 1769], "Acts_ch_27.docx": [308, 1010, 1784, 308, 1010, 1784]}
+repop	{"2 Kings_ch_16.docx": [1372]}
+coas	{"Genesis_ch_49.docx": [1737], "Deuteronomy_ch_1.docx": [911, 911], "Isaiah_ch_9.docx": [106, 106], "Ezekiel_ch_25.docx": [2819, 2819], "Matthew_ch_4.docx": [1769, 1769], "Acts_ch_27.docx": [308, 1010, 1784]}
+repop	{"2 Kings_ch_16.docx": [1372]}
+coas	{"Genesis_ch_49.docx": [1737], "Deuteronomy_ch_1.docx": [911], "Isaiah_ch_9.docx": [106], "Ezekiel_ch_25.docx": [2819], "Matthew_ch_4.docx": [1769], "Acts_ch_27.docx": [308, 1010, 1784]}
+repop	{"2 Kings_ch_16.docx": [1372]}

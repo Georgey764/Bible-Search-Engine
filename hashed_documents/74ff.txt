@@ -1,0 +1,5 @@
+
+appre	{"2 Samuel_ch_19.docx": [5646], "Ezra_ch_4.docx": [3641, 3641, 3641], "2 Corinthians_ch_12.docx": [1404, 1404], "1 Timothy_ch_4.docx": [285, 285]}
+appre	{"2 Samuel_ch_19.docx": [5646], "Ezra_ch_4.docx": [3641, 3641], "2 Corinthians_ch_12.docx": [1404], "1 Timothy_ch_4.docx": [285]}
+5ouri	{"1 Chronicles_ch_15.docx": [596]}
+appre	{"2 Samuel_ch_19.docx": [5646], "Ezra_ch_4.docx": [3641], "2 Corinthians_ch_12.docx": [1404], "1 Timothy_ch_4.docx": [285]}

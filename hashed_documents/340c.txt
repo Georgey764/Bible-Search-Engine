@@ -1,0 +1,7 @@
+
+digg	{"Genesis_ch_26.docx": [4512], "Ecclesiastes_ch_10.docx": [767, 767, 767], "Ezekiel_ch_39.docx": [2631, 2631, 2631]}
+repaym	{"Psalms_ch_119.docx": [9381]}
+digg	{"Genesis_ch_26.docx": [4512], "Ecclesiastes_ch_10.docx": [767, 767], "Ezekiel_ch_39.docx": [2631, 2631]}
+repaym	{"Psalms_ch_119.docx": [9381]}
+digg	{"Genesis_ch_26.docx": [4512], "Ecclesiastes_ch_10.docx": [767], "Ezekiel_ch_39.docx": [2631]}
+repaym	{"Psalms_ch_119.docx": [9381]}

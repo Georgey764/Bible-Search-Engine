@@ -1,0 +1,4 @@
+
+abiro	{"Joshua_ch_6.docx": [3769], "1 Kings_ch_16.docx": [5284, 5284, 5284], "Psalms_ch_106.docx": [1586, 1586, 1586]}
+abiro	{"Joshua_ch_6.docx": [3769], "1 Kings_ch_16.docx": [5284, 5284], "Psalms_ch_106.docx": [1586, 1586]}
+abiro	{"Joshua_ch_6.docx": [3769], "1 Kings_ch_16.docx": [5284], "Psalms_ch_106.docx": [1586]}

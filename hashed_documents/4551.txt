@@ -1,0 +1,4 @@
+
+davidt	{"Nehemiah_ch_12.docx": [5307, 5368, 5368, 5368]}
+davidt	{"Nehemiah_ch_12.docx": [5307, 5368, 5368]}
+davidt	{"Nehemiah_ch_12.docx": [5307, 5368]}

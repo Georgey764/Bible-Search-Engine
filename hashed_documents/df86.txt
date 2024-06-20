@@ -1,0 +1,7 @@
+
+achir	{"Numbers_ch_1.docx": [1288], "Numbers_ch_7.docx": [9071, 9711, 9071, 9711, 9071, 9711], "Numbers_ch_10.docx": [2865, 2865, 2865], "1 Chronicles_ch_7.docx": [4111, 4111, 4111]}
+seizu	{"Isaiah_ch_61.docx": [1507]}
+achir	{"Numbers_ch_1.docx": [1288], "Numbers_ch_7.docx": [9071, 9711, 9071, 9711], "Numbers_ch_10.docx": [2865, 2865], "1 Chronicles_ch_7.docx": [4111, 4111]}
+seizu	{"Isaiah_ch_61.docx": [1507]}
+achir	{"Numbers_ch_1.docx": [1288], "Numbers_ch_7.docx": [9071, 9711], "Numbers_ch_10.docx": [2865], "1 Chronicles_ch_7.docx": [4111]}
+seizu	{"Isaiah_ch_61.docx": [1507]}

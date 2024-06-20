@@ -1,0 +1,5 @@
+
+serpe	{"Psalms_ch_58.docx": [400], "Ecclesiastes_ch_10.docx": [1129, 1129, 1129], "Isaiah_ch_14.docx": [4753, 4753, 4753], "Luke_ch_10.docx": [2125, 2125]}
+108	{"Numbers_ch_2.docx": [2096], "Psalms_ch_108.docx": [3], "Psalms_ch_119.docx": [8963]}
+serpe	{"Psalms_ch_58.docx": [400], "Ecclesiastes_ch_10.docx": [1129, 1129], "Isaiah_ch_14.docx": [4753, 4753], "Luke_ch_10.docx": [2125]}
+serpe	{"Psalms_ch_58.docx": [400], "Ecclesiastes_ch_10.docx": [1129], "Isaiah_ch_14.docx": [4753], "Luke_ch_10.docx": [2125]}

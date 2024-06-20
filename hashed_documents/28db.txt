@@ -1,0 +1,4 @@
+
+ragi	{"Genesis_ch_32.docx": [3076], "2 Chronicles_ch_26.docx": [3104, 3104, 3104], "Psalms_ch_124.docx": [298, 298, 298], "Isaiah_ch_17.docx": [2015, 2015, 2015], "Joel_ch_2.docx": [534, 534, 534], "Luke_ch_8.docx": [3495, 3495]}
+ragi	{"Genesis_ch_32.docx": [3076], "2 Chronicles_ch_26.docx": [3104, 3104], "Psalms_ch_124.docx": [298, 298], "Isaiah_ch_17.docx": [2015, 2015], "Joel_ch_2.docx": [534, 534], "Luke_ch_8.docx": [3495]}
+ragi	{"Genesis_ch_32.docx": [3076], "2 Chronicles_ch_26.docx": [3104], "Psalms_ch_124.docx": [298], "Isaiah_ch_17.docx": [2015], "Joel_ch_2.docx": [534], "Luke_ch_8.docx": [3495]}

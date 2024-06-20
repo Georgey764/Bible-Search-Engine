@@ -1,0 +1,5 @@
+
+gapht	{"Genesis_ch_10.docx": [1797]}
+gapht	{"Genesis_ch_10.docx": [1797]}
+14whi	{"2 Chronicles_ch_32.docx": [2768], "Psalms_ch_144.docx": [1501], "Ecclesiastes_ch_5.docx": [1997], "Jeremiah_ch_44.docx": [2759]}
+gapht	{"Genesis_ch_10.docx": [1797]}

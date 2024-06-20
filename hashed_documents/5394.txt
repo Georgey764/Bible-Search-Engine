@@ -1,0 +1,4 @@
+
+prized	{"1 Samuel_ch_3.docx": [28], "Psalms_ch_135.docx": [285, 285, 285]}
+prized	{"1 Samuel_ch_3.docx": [28], "Psalms_ch_135.docx": [285, 285]}
+prized	{"1 Samuel_ch_3.docx": [28], "Psalms_ch_135.docx": [285]}

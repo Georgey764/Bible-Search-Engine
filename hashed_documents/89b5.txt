@@ -1,0 +1,4 @@
+
+quarre	{"Proverbs_ch_3.docx": [2919], "Proverbs_ch_26.docx": [1510, 1510, 1510], "Song of Solomon_ch_1.docx": [895, 895, 895], "Mark_ch_8.docx": [1839, 1839], "Galatians_ch_5.docx": [2450, 2450], "1 Timothy_ch_3.docx": [437, 437]}
+quarre	{"Proverbs_ch_3.docx": [2919], "Proverbs_ch_26.docx": [1510, 1510], "Song of Solomon_ch_1.docx": [895, 895], "Mark_ch_8.docx": [1839], "Galatians_ch_5.docx": [2450], "1 Timothy_ch_3.docx": [437]}
+quarre	{"Proverbs_ch_3.docx": [2919], "Proverbs_ch_26.docx": [1510], "Song of Solomon_ch_1.docx": [895], "Mark_ch_8.docx": [1839], "Galatians_ch_5.docx": [2450], "1 Timothy_ch_3.docx": [437]}

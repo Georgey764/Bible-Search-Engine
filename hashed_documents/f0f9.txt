@@ -1,0 +1,4 @@
+
+mates	{"Jeremiah_ch_29.docx": [946], "Matthew_ch_11.docx": [1785, 1785, 1785]}
+mates	{"Jeremiah_ch_29.docx": [946], "Matthew_ch_11.docx": [1785, 1785]}
+mates	{"Jeremiah_ch_29.docx": [946], "Matthew_ch_11.docx": [1785]}

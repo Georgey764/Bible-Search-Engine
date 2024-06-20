@@ -1,0 +1,4 @@
+
+vipers	{"Proverbs_ch_23.docx": [2979], "Matthew_ch_3.docx": [775, 775, 775], "Matthew_ch_12.docx": [4068, 4068, 4068], "Matthew_ch_23.docx": [4176, 4176, 4176], "Luke_ch_3.docx": [3888, 3888]}
+vipers	{"Proverbs_ch_23.docx": [2979], "Matthew_ch_3.docx": [775, 775], "Matthew_ch_12.docx": [4068, 4068], "Matthew_ch_23.docx": [4176, 4176], "Luke_ch_3.docx": [3888]}
+vipers	{"Proverbs_ch_23.docx": [2979], "Matthew_ch_3.docx": [775], "Matthew_ch_12.docx": [4068], "Matthew_ch_23.docx": [4176], "Luke_ch_3.docx": [3888]}

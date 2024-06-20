@@ -1,0 +1,5 @@
+
+gahar	{"Ezra_ch_2.docx": [1766], "Nehemiah_ch_7.docx": [2849, 2849, 2849]}
+gahar	{"Ezra_ch_2.docx": [1766], "Nehemiah_ch_7.docx": [2849, 2849]}
+28‘it	{"Jeremiah_ch_31.docx": [5112]}
+gahar	{"Ezra_ch_2.docx": [1766], "Nehemiah_ch_7.docx": [2849]}

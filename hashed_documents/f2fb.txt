@@ -1,0 +1,2 @@
+
+12y	{"Exodus_ch_13.docx": [1504], "Exodus_ch_25.docx": [1317], "Leviticus_ch_11.docx": [1446], "Deuteronomy_ch_6.docx": [1729], "Deuteronomy_ch_25.docx": [1596], "Judges_ch_2.docx": [3239], "Job_ch_11.docx": [1207], "Psalms_ch_5.docx": [1337], "Psalms_ch_19.docx": [1313], "Psalms_ch_30.docx": [1092], "Psalms_ch_41.docx": [1161], "Psalms_ch_44.docx": [1214], "Psalms_ch_76.docx": [1050], "Isaiah_ch_58.docx": [2520], "Daniel_ch_8.docx": [1670], "Matthew_ch_3.docx": [1398]}

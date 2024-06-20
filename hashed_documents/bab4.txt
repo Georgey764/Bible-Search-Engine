@@ -1,0 +1,7 @@
+
+leaf	{"Genesis_ch_8.docx": [1230]}
+italy	{"Acts_ch_18.docx": [428, 458, 489, 458, 489], "Acts_ch_27.docx": [17, 645, 17, 645]}
+leaf	{"Genesis_ch_8.docx": [1230]}
+51alth	{"Psalms_ch_119.docx": [4022]}
+leaf	{"Genesis_ch_8.docx": [1230]}
+italy	{"Acts_ch_18.docx": [428, 458, 489], "Acts_ch_27.docx": [17, 645]}

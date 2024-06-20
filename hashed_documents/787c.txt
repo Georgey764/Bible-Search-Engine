@@ -1,0 +1,3 @@
+
+sunday	{"John_ch_20.docx": [6], "Acts_ch_20.docx": [2537, 2537]}
+sunday	{"John_ch_20.docx": [6], "Acts_ch_20.docx": [2537]}

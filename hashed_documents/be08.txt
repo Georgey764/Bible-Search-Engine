@@ -1,0 +1,4 @@
+
+arroga	{"Job_ch_24.docx": [2559], "Habakkuk_ch_2.docx": [741, 741, 741], "Mark_ch_7.docx": [2644, 2644], "1 Timothy_ch_1.docx": [1755, 1755]}
+arroga	{"Job_ch_24.docx": [2559], "Habakkuk_ch_2.docx": [741, 741], "Mark_ch_7.docx": [2644], "1 Timothy_ch_1.docx": [1755]}
+arroga	{"Job_ch_24.docx": [2559], "Habakkuk_ch_2.docx": [741], "Mark_ch_7.docx": [2644], "1 Timothy_ch_1.docx": [1755]}

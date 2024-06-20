@@ -1,0 +1,4 @@
+
+seas!	{"1 Kings_ch_4.docx": [3464], "Jeremiah_ch_5.docx": [3915, 3915, 3915], "Ezekiel_ch_27.docx": [4768, 4768, 4768], "Ezekiel_ch_28.docx": [255, 255, 255], "Revelation_ch_20.docx": [1463, 1463]}
+seas!	{"1 Kings_ch_4.docx": [3464], "Jeremiah_ch_5.docx": [3915, 3915], "Ezekiel_ch_27.docx": [4768, 4768], "Ezekiel_ch_28.docx": [255, 255], "Revelation_ch_20.docx": [1463]}
+seas!	{"1 Kings_ch_4.docx": [3464], "Jeremiah_ch_5.docx": [3915], "Ezekiel_ch_27.docx": [4768], "Ezekiel_ch_28.docx": [255], "Revelation_ch_20.docx": [1463]}

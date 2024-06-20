@@ -1,0 +1,4 @@
+
+epimen	{"Titus_ch_1.docx": [1625]}
+2‘go	{"Leviticus_ch_8.docx": [62], "Jeremiah_ch_2.docx": [74], "Jeremiah_ch_21.docx": [203], "Jeremiah_ch_26.docx": [145]}
+epimen	{"Titus_ch_1.docx": [1625]}

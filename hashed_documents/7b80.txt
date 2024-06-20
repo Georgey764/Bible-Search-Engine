@@ -1,0 +1,4 @@
+
+mahala	{"1 Chronicles_ch_1.docx": [68], "Nehemiah_ch_11.docx": [641, 641, 641], "Luke_ch_3.docx": [7225, 7225]}
+mahala	{"1 Chronicles_ch_1.docx": [68], "Nehemiah_ch_11.docx": [641, 641], "Luke_ch_3.docx": [7225]}
+mahala	{"1 Chronicles_ch_1.docx": [68], "Nehemiah_ch_11.docx": [641], "Luke_ch_3.docx": [7225]}

@@ -1,0 +1,8 @@
+
+gola	{"Genesis_ch_36.docx": [2595, 4263, 4263, 4263], "Joshua_ch_20.docx": [1439, 1439, 1439], "Joshua_ch_21.docx": [3343, 3343, 3343], "2 Samuel_ch_15.docx": [1461, 1461, 1461], "1 Chronicles_ch_1.docx": [4375, 4375, 4375]}
+whisks	{"Job_ch_15.docx": [2133]}
+gola	{"Genesis_ch_36.docx": [2595, 4263, 4263], "Joshua_ch_20.docx": [1439, 1439], "Joshua_ch_21.docx": [3343, 3343], "2 Samuel_ch_15.docx": [1461, 1461], "1 Chronicles_ch_1.docx": [4375, 4375]}
+whisks	{"Job_ch_15.docx": [2133]}
+35wise	{"Proverbs_ch_14.docx": [3130]}
+gola	{"Genesis_ch_36.docx": [2595, 4263], "Joshua_ch_20.docx": [1439], "Joshua_ch_21.docx": [3343], "2 Samuel_ch_15.docx": [1461], "1 Chronicles_ch_1.docx": [4375]}
+whisks	{"Job_ch_15.docx": [2133]}

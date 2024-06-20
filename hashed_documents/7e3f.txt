@@ -1,0 +1,7 @@
+
+limb	{"Leviticus_ch_8.docx": [2212, 2220, 2220, 2220], "Job_ch_9.docx": [2586, 2586, 2586], "Psalms_ch_80.docx": [1035, 1035, 1035], "Ezekiel_ch_24.docx": [852, 852, 852], "Ezekiel_ch_31.docx": [869, 869, 869]}
+paper	{"Isaiah_ch_18.docx": [85]}
+limb	{"Leviticus_ch_8.docx": [2212, 2220, 2220], "Job_ch_9.docx": [2586, 2586], "Psalms_ch_80.docx": [1035, 1035], "Ezekiel_ch_24.docx": [852, 852], "Ezekiel_ch_31.docx": [869, 869]}
+paper	{"Isaiah_ch_18.docx": [85]}
+limb	{"Leviticus_ch_8.docx": [2212, 2220], "Job_ch_9.docx": [2586], "Psalms_ch_80.docx": [1035], "Ezekiel_ch_24.docx": [852], "Ezekiel_ch_31.docx": [869]}
+paper	{"Isaiah_ch_18.docx": [85]}

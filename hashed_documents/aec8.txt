@@ -1,0 +1,7 @@
+
+meshe	{"Exodus_ch_27.docx": [423], "1 Chronicles_ch_1.docx": [274, 274, 274], "Nehemiah_ch_3.docx": [1985, 1985, 1985], "Nehemiah_ch_10.docx": [1030, 1030], "Nehemiah_ch_11.docx": [4074, 4074, 4074]}
+baleh	{"1 Chronicles_ch_8.docx": [45]}
+meshe	{"Exodus_ch_27.docx": [423], "1 Chronicles_ch_1.docx": [274, 274], "Nehemiah_ch_3.docx": [1985, 1985], "Nehemiah_ch_11.docx": [4074, 4074], "Nehemiah_ch_10.docx": [1030]}
+baleh	{"1 Chronicles_ch_8.docx": [45]}
+meshe	{"Exodus_ch_27.docx": [423], "1 Chronicles_ch_1.docx": [274], "Nehemiah_ch_3.docx": [1985], "Nehemiah_ch_10.docx": [1030], "Nehemiah_ch_11.docx": [4074]}
+baleh	{"1 Chronicles_ch_8.docx": [45]}

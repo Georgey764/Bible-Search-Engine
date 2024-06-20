@@ -1,0 +1,7 @@
+
+moti	{"Judges_ch_16.docx": [3520], "Ezra_ch_9.docx": [2383, 2383, 2383], "Proverbs_ch_6.docx": [1373, 1373, 1373], "Ezekiel_ch_3.docx": [2022, 2022, 2022], "Acts_ch_12.docx": [2676, 2699, 2724, 2676, 2699, 2724], "Romans_ch_14.docx": [20, 20], "Galatians_ch_5.docx": [720, 720], "Philippians_ch_1.docx": [1837, 3573, 1837, 3573], "Philippians_ch_2.docx": [1377, 1392, 1377, 1392]}
+ehud	{"1 Chronicles_ch_8.docx": [292]}
+moti	{"Judges_ch_16.docx": [3520], "Ezra_ch_9.docx": [2383, 2383], "Proverbs_ch_6.docx": [1373, 1373], "Ezekiel_ch_3.docx": [2022, 2022], "Acts_ch_12.docx": [2676, 2699, 2724], "Romans_ch_14.docx": [20], "Galatians_ch_5.docx": [720], "Philippians_ch_1.docx": [1837, 3573], "Philippians_ch_2.docx": [1377, 1392]}
+ehud	{"1 Chronicles_ch_8.docx": [292]}
+moti	{"Judges_ch_16.docx": [3520], "Ezra_ch_9.docx": [2383], "Proverbs_ch_6.docx": [1373], "Ezekiel_ch_3.docx": [2022], "Acts_ch_12.docx": [2676, 2699, 2724], "Romans_ch_14.docx": [20], "Galatians_ch_5.docx": [720], "Philippians_ch_1.docx": [1837, 3573], "Philippians_ch_2.docx": [1377, 1392]}
+ehud	{"1 Chronicles_ch_8.docx": [292]}

@@ -1,0 +1,7 @@
+
+cutte	{"Deuteronomy_ch_29.docx": [1265]}
+meli	{"Nehemiah_ch_12.docx": [1160]}
+cutte	{"Deuteronomy_ch_29.docx": [1265]}
+meli	{"Nehemiah_ch_12.docx": [1160]}
+cutte	{"Deuteronomy_ch_29.docx": [1265]}
+meli	{"Nehemiah_ch_12.docx": [1160]}

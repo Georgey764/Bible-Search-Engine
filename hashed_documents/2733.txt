@@ -1,0 +1,4 @@
+
+herdsm	{"Genesis_ch_13.docx": [494, 499, 892, 895, 499, 892, 895, 499, 892, 895], "Mark_ch_5.docx": [1399, 1774, 1399, 1774]}
+herdsm	{"Genesis_ch_13.docx": [494, 499, 892, 895, 499, 892, 895], "Mark_ch_5.docx": [1399, 1774]}
+herdsm	{"Genesis_ch_13.docx": [494, 499, 892, 895], "Mark_ch_5.docx": [1399, 1774]}

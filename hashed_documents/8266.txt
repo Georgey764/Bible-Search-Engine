@@ -1,0 +1,4 @@
+
+immanu	{"Isaiah_ch_7.docx": [1970], "Isaiah_ch_8.docx": [1251, 1251, 1251], "Matthew_ch_1.docx": [2451, 2451, 2451]}
+immanu	{"Isaiah_ch_7.docx": [1970], "Isaiah_ch_8.docx": [1251, 1251], "Matthew_ch_1.docx": [2451, 2451]}
+immanu	{"Isaiah_ch_7.docx": [1970], "Isaiah_ch_8.docx": [1251], "Matthew_ch_1.docx": [2451]}

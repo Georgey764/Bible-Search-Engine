@@ -1,0 +1,5 @@
+
+fashio	{"Exodus_ch_35.docx": [3694], "Psalms_ch_29.docx": [742, 742, 742], "Psalms_ch_33.docx": [1214, 1214, 1214]}
+fashio	{"Exodus_ch_35.docx": [3694], "Psalms_ch_29.docx": [742, 742], "Psalms_ch_33.docx": [1214, 1214]}
+1joth	{"2 Chronicles_ch_27.docx": [5]}
+fashio	{"Exodus_ch_35.docx": [3694], "Psalms_ch_29.docx": [742], "Psalms_ch_33.docx": [1214]}

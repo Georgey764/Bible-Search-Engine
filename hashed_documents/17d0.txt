@@ -1,0 +1,3 @@
+
+10come	{"Genesis_ch_34.docx": [1052]}
+65then	{"Psalms_ch_78.docx": [6254]}

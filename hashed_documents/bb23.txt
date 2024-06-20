@@ -1,0 +1,5 @@
+
+drunk!	{"1 Samuel_ch_1.docx": [2386], "2 Samuel_ch_11.docx": [1984, 1984, 1984], "1 Corinthians_ch_11.docx": [2217, 2217]}
+drunk!	{"1 Samuel_ch_1.docx": [2386], "2 Samuel_ch_11.docx": [1984, 1984], "1 Corinthians_ch_11.docx": [2217]}
+8con	{"Psalms_ch_7.docx": [811]}
+drunk!	{"1 Samuel_ch_1.docx": [2386], "2 Samuel_ch_11.docx": [1984], "1 Corinthians_ch_11.docx": [2217]}

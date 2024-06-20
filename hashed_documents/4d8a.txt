@@ -1,0 +1,2 @@
+
+1‘a	{"Leviticus_ch_5.docx": [6], "Numbers_ch_29.docx": [6], "Deuteronomy_ch_2.docx": [6], "Deuteronomy_ch_4.docx": [6], "Deuteronomy_ch_7.docx": [6], "Deuteronomy_ch_13.docx": [6], "Deuteronomy_ch_19.docx": [6], "Deuteronomy_ch_20.docx": [6], "Deuteronomy_ch_30.docx": [6], "Ecclesiastes_ch_7.docx": [6], "Ecclesiastes_ch_10.docx": [6], "Ezekiel_ch_4.docx": [6], "Ezekiel_ch_5.docx": [6], "Hosea_ch_13.docx": [6], "Amos_ch_2.docx": [6]}

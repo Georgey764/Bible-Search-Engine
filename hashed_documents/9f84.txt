@@ -1,0 +1,8 @@
+
+uprisi	{"Leviticus_ch_26.docx": [1915], "Ezra_ch_4.docx": [3227, 3227, 3227]}
+gedali	{"1 Chronicles_ch_25.docx": [1493], "Jeremiah_ch_38.docx": [9, 9, 9], "Jeremiah_ch_39.docx": [2097, 2097, 2097], "Jeremiah_ch_40.docx": [707, 1183, 1407, 1733, 1745, 2537, 2559, 3010, 3273, 3335, 3635, 707, 1183, 1407, 1733, 1745, 2537, 2559, 3010, 3273, 3335, 3635, 707, 1183, 1407, 1733, 1745, 2537, 2559, 3010, 3273, 3335, 3635], "Jeremiah_ch_41.docx": [27, 59, 553, 972, 1497, 2382, 2448, 27, 59, 553, 972, 1497, 2382, 2448, 27, 59, 553, 972, 1497, 2382, 2448], "Jeremiah_ch_43.docx": [608, 608, 608], "Zephaniah_ch_1.docx": [16, 16, 16]}
+uprisi	{"Leviticus_ch_26.docx": [1915], "Ezra_ch_4.docx": [3227, 3227]}
+40howe	{"2 Kings_ch_4.docx": [6271]}
+gedali	{"1 Chronicles_ch_25.docx": [1493], "Jeremiah_ch_38.docx": [9, 9], "Jeremiah_ch_39.docx": [2097, 2097], "Jeremiah_ch_40.docx": [707, 1183, 1407, 1733, 1745, 2537, 2559, 3010, 3273, 3335, 3635, 707, 1183, 1407, 1733, 1745, 2537, 2559, 3010, 3273, 3335, 3635], "Jeremiah_ch_41.docx": [27, 59, 553, 972, 1497, 2382, 2448, 27, 59, 553, 972, 1497, 2382, 2448], "Jeremiah_ch_43.docx": [608, 608], "Zephaniah_ch_1.docx": [16, 16]}
+uprisi	{"Leviticus_ch_26.docx": [1915], "Ezra_ch_4.docx": [3227]}
+gedali	{"1 Chronicles_ch_25.docx": [1493], "Jeremiah_ch_38.docx": [9], "Jeremiah_ch_39.docx": [2097], "Jeremiah_ch_40.docx": [707, 1183, 1407, 1733, 1745, 2537, 2559, 3010, 3273, 3335, 3635], "Jeremiah_ch_41.docx": [27, 59, 553, 972, 1497, 2382, 2448], "Jeremiah_ch_43.docx": [608], "Zephaniah_ch_1.docx": [16]}

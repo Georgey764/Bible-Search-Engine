@@ -1,0 +1,5 @@
+
+relax	{"Psalms_ch_46.docx": [933], "Hosea_ch_12.docx": [1444, 1444, 1444]}
+4blue	{"Exodus_ch_25.docx": [458]}
+relax	{"Psalms_ch_46.docx": [933], "Hosea_ch_12.docx": [1444, 1444]}
+relax	{"Psalms_ch_46.docx": [933], "Hosea_ch_12.docx": [1444]}

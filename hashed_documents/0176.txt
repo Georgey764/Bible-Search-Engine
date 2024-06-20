@@ -1,0 +1,4 @@
+
+happy!	{"Genesis_ch_30.docx": [1252], "Nehemiah_ch_8.docx": [5374, 5374, 5374], "Nehemiah_ch_12.docx": [11898, 11898, 11898], "Psalms_ch_53.docx": [973, 973, 973], "Psalms_ch_97.docx": [132, 132, 132], "Psalms_ch_105.docx": [3609, 3609, 3609]}
+happy!	{"Genesis_ch_30.docx": [1252], "Nehemiah_ch_8.docx": [5374, 5374], "Nehemiah_ch_12.docx": [11898, 11898], "Psalms_ch_53.docx": [973, 973], "Psalms_ch_97.docx": [132, 132], "Psalms_ch_105.docx": [3609, 3609]}
+happy!	{"Genesis_ch_30.docx": [1252], "Nehemiah_ch_8.docx": [5374], "Nehemiah_ch_12.docx": [11898], "Psalms_ch_53.docx": [973], "Psalms_ch_97.docx": [132], "Psalms_ch_105.docx": [3609]}

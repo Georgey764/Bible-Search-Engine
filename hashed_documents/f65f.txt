@@ -1,0 +1,4 @@
+
+tuba	{"Genesis_ch_10.docx": [265], "1 Chronicles_ch_1.docx": [264, 264, 264], "Ezekiel_ch_32.docx": [4284, 4284, 4284], "Ezekiel_ch_38.docx": [128, 272, 128, 272, 128, 272], "Ezekiel_ch_39.docx": [165, 165, 165]}
+tuba	{"Genesis_ch_10.docx": [265], "1 Chronicles_ch_1.docx": [264, 264], "Ezekiel_ch_32.docx": [4284, 4284], "Ezekiel_ch_38.docx": [128, 272, 128, 272], "Ezekiel_ch_39.docx": [165, 165]}
+tuba	{"Genesis_ch_10.docx": [265], "1 Chronicles_ch_1.docx": [264], "Ezekiel_ch_32.docx": [4284], "Ezekiel_ch_38.docx": [128, 272], "Ezekiel_ch_39.docx": [165]}

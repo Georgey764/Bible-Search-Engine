@@ -1,0 +1,4 @@
+
+swer	{"Deuteronomy_ch_17.docx": [3329], "Deuteronomy_ch_28.docx": [1922, 1922, 1922], "Joshua_ch_1.docx": [914, 914, 914], "2 Samuel_ch_2.docx": [2542, 2542, 2542], "2 Kings_ch_22.docx": [216, 216, 216], "Job_ch_23.docx": [989, 989, 989]}
+swer	{"Deuteronomy_ch_17.docx": [3329], "Deuteronomy_ch_28.docx": [1922, 1922], "Joshua_ch_1.docx": [914, 914], "2 Samuel_ch_2.docx": [2542, 2542], "2 Kings_ch_22.docx": [216, 216], "Job_ch_23.docx": [989, 989]}
+swer	{"Deuteronomy_ch_17.docx": [3329], "Deuteronomy_ch_28.docx": [1922], "Joshua_ch_1.docx": [914], "2 Samuel_ch_2.docx": [2542], "2 Kings_ch_22.docx": [216], "Job_ch_23.docx": [989]}

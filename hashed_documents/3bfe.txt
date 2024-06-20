@@ -1,0 +1,5 @@
+
+abita	{"2 Samuel_ch_3.docx": [498]}
+abita	{"2 Samuel_ch_3.docx": [498]}
+2,1	{"Ezra_ch_2.docx": [553], "Nehemiah_ch_7.docx": [1254]}
+abita	{"2 Samuel_ch_3.docx": [498]}

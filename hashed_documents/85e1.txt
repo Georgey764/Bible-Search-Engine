@@ -1,0 +1,7 @@
+
+pickin	{"Genesis_ch_3.docx": [748], "Exodus_ch_10.docx": [3118, 3118, 3118], "Numbers_ch_11.docx": [5173, 5173, 5173], "Deuteronomy_ch_24.docx": [3103, 3103, 3103], "2 Samuel_ch_23.docx": [1935, 1935, 1935], "Isaiah_ch_33.docx": [592, 592, 592], "Jeremiah_ch_48.docx": [4288, 4288, 4288], "Luke_ch_6.docx": [22, 22]}
+joph	{"1 Chronicles_ch_12.docx": [423]}
+pickin	{"Genesis_ch_3.docx": [748], "Exodus_ch_10.docx": [3118, 3118], "Numbers_ch_11.docx": [5173, 5173], "Deuteronomy_ch_24.docx": [3103, 3103], "2 Samuel_ch_23.docx": [1935, 1935], "Isaiah_ch_33.docx": [592, 592], "Jeremiah_ch_48.docx": [4288, 4288], "Luke_ch_6.docx": [22]}
+joph	{"1 Chronicles_ch_12.docx": [423]}
+pickin	{"Genesis_ch_3.docx": [748], "Exodus_ch_10.docx": [3118], "Numbers_ch_11.docx": [5173], "Deuteronomy_ch_24.docx": [3103], "2 Samuel_ch_23.docx": [1935], "Isaiah_ch_33.docx": [592], "Jeremiah_ch_48.docx": [4288], "Luke_ch_6.docx": [22]}
+joph	{"1 Chronicles_ch_12.docx": [423]}

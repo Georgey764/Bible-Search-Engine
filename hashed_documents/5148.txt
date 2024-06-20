@@ -1,0 +1,10 @@
+
+transf	{"Leviticus_ch_25.docx": [4074], "John_ch_13.docx": [20, 20], "Romans_ch_12.docx": [190, 190], "2 Corinthians_ch_3.docx": [2417, 2424, 2417, 2424], "Philippians_ch_3.docx": [3113, 3113], "Colossians_ch_1.docx": [1732, 1732], "Hebrews_ch_12.docx": [5044, 5044]}
+aloud!	{"1 Kings_ch_17.docx": [3000], "Isaiah_ch_14.docx": [4986, 4986, 4986]}
+liones	{"Job_ch_4.docx": [849]}
+transf	{"Leviticus_ch_25.docx": [4074], "John_ch_13.docx": [20], "Romans_ch_12.docx": [190], "2 Corinthians_ch_3.docx": [2417, 2424], "Philippians_ch_3.docx": [3113], "Colossians_ch_1.docx": [1732], "Hebrews_ch_12.docx": [5044]}
+aloud!	{"1 Kings_ch_17.docx": [3000], "Isaiah_ch_14.docx": [4986, 4986]}
+liones	{"Job_ch_4.docx": [849]}
+transf	{"Leviticus_ch_25.docx": [4074], "John_ch_13.docx": [20], "Romans_ch_12.docx": [190], "2 Corinthians_ch_3.docx": [2417, 2424], "Philippians_ch_3.docx": [3113], "Colossians_ch_1.docx": [1732], "Hebrews_ch_12.docx": [5044]}
+aloud!	{"1 Kings_ch_17.docx": [3000], "Isaiah_ch_14.docx": [4986]}
+liones	{"Job_ch_4.docx": [849]}

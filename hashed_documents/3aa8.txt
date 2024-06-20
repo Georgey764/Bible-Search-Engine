@@ -1,0 +1,2 @@
+
+17mean	{"Judges_ch_10.docx": [5752], "Judges_ch_20.docx": [2229], "2 Kings_ch_12.docx": [2718]}

@@ -1,0 +1,5 @@
+
+lamb;	{"Leviticus_ch_3.docx": [981], "Leviticus_ch_8.docx": [3525, 3525, 3525]}
+lamb;	{"Leviticus_ch_3.docx": [981], "Leviticus_ch_8.docx": [3525, 3525]}
+34sam	{"1 Chronicles_ch_7.docx": [4088]}
+lamb;	{"Leviticus_ch_3.docx": [981], "Leviticus_ch_8.docx": [3525]}

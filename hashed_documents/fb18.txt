@@ -1,0 +1,5 @@
+
+jacob!	{"Genesis_ch_27.docx": [5693], "Genesis_ch_31.docx": [1389, 1389, 1389], "Genesis_ch_46.docx": [240, 241, 240, 241, 240, 241], "Isaiah_ch_44.docx": [4091, 4091, 4091], "Isaiah_ch_46.docx": [299, 299, 299], "Jeremiah_ch_10.docx": [3390, 3390, 3390]}
+13ho	{"Genesis_ch_13.docx": [1535], "Genesis_ch_21.docx": [1154], "Genesis_ch_27.docx": [1482], "Genesis_ch_34.docx": [1572], "Genesis_ch_47.docx": [1817], "Leviticus_ch_22.docx": [1689], "Numbers_ch_14.docx": [1796], "Joshua_ch_11.docx": [6297], "2 Samuel_ch_6.docx": [1918], "2 Kings_ch_11.docx": [2016], "2 Kings_ch_12.docx": [2145], "Psalms_ch_90.docx": [1384], "Jeremiah_ch_40.docx": [2989]}
+jacob!	{"Genesis_ch_27.docx": [5693], "Genesis_ch_31.docx": [1389, 1389], "Genesis_ch_46.docx": [240, 241, 240, 241], "Isaiah_ch_44.docx": [4091, 4091], "Isaiah_ch_46.docx": [299, 299], "Jeremiah_ch_10.docx": [3390, 3390]}
+jacob!	{"Genesis_ch_27.docx": [5693], "Genesis_ch_31.docx": [1389], "Genesis_ch_46.docx": [240, 241], "Isaiah_ch_44.docx": [4091], "Isaiah_ch_46.docx": [299], "Jeremiah_ch_10.docx": [3390]}

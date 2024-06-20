@@ -1,0 +1,7 @@
+
+outst	{"Exodus_ch_25.docx": [1989], "2 Kings_ch_17.docx": [6668, 6668, 6668], "1 Chronicles_ch_28.docx": [107, 107, 107], "Jeremiah_ch_21.docx": [701, 701, 701], "Ezekiel_ch_17.docx": [253, 253, 253]}
+flare	{"Ecclesiastes_ch_10.docx": [350]}
+outst	{"Exodus_ch_25.docx": [1989], "2 Kings_ch_17.docx": [6668, 6668], "1 Chronicles_ch_28.docx": [107, 107], "Jeremiah_ch_21.docx": [701, 701], "Ezekiel_ch_17.docx": [253, 253]}
+flare	{"Ecclesiastes_ch_10.docx": [350]}
+outst	{"Exodus_ch_25.docx": [1989], "2 Kings_ch_17.docx": [6668], "1 Chronicles_ch_28.docx": [107], "Jeremiah_ch_21.docx": [701], "Ezekiel_ch_17.docx": [253]}
+flare	{"Ecclesiastes_ch_10.docx": [350]}

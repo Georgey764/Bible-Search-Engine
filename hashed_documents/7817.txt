@@ -1,0 +1,4 @@
+
+plows	{"Isaiah_ch_2.docx": [635], "Micah_ch_4.docx": [800, 800, 800], "1 Corinthians_ch_9.docx": [954, 954]}
+plows	{"Isaiah_ch_2.docx": [635], "Micah_ch_4.docx": [800, 800], "1 Corinthians_ch_9.docx": [954]}
+plows	{"Isaiah_ch_2.docx": [635], "Micah_ch_4.docx": [800], "1 Corinthians_ch_9.docx": [954]}

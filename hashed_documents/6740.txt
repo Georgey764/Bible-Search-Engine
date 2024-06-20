@@ -1,0 +1,4 @@
+
+dathan	{"Numbers_ch_16.docx": [68, 1548, 3409, 3707, 1548, 3409, 3707, 1548, 3409, 3707], "Numbers_ch_26.docx": [915, 985, 915, 985, 915, 985], "Deuteronomy_ch_11.docx": [726, 726, 726], "Psalms_ch_106.docx": [1535, 1535, 1535]}
+dathan	{"Numbers_ch_16.docx": [68, 1548, 3409, 3707, 1548, 3409, 3707], "Numbers_ch_26.docx": [915, 985, 915, 985], "Deuteronomy_ch_11.docx": [726, 726], "Psalms_ch_106.docx": [1535, 1535]}
+dathan	{"Numbers_ch_16.docx": [68, 1548, 3409, 3707], "Numbers_ch_26.docx": [915, 985], "Deuteronomy_ch_11.docx": [726], "Psalms_ch_106.docx": [1535]}

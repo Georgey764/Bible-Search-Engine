@@ -1,0 +1,4 @@
+
+feve	{"Leviticus_ch_26.docx": [1982], "Deuteronomy_ch_28.docx": [2898, 2898, 2898], "Matthew_ch_8.docx": [1761, 1769, 1761, 1769, 1761, 1769], "Mark_ch_1.docx": [3319, 3562, 3319, 3562], "Luke_ch_4.docx": [5456, 5472, 5456, 5472], "John_ch_4.docx": [6755, 6755]}
+feve	{"Leviticus_ch_26.docx": [1982], "Deuteronomy_ch_28.docx": [2898, 2898], "Matthew_ch_8.docx": [1761, 1769, 1761, 1769], "Mark_ch_1.docx": [3319, 3562], "Luke_ch_4.docx": [5456, 5472], "John_ch_4.docx": [6755]}
+feve	{"Leviticus_ch_26.docx": [1982], "Deuteronomy_ch_28.docx": [2898], "Matthew_ch_8.docx": [1761, 1769], "Mark_ch_1.docx": [3319, 3562], "Luke_ch_4.docx": [5456, 5472], "John_ch_4.docx": [6755]}

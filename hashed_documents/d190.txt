@@ -1,0 +1,5 @@
+
+jeou	{"1 Chronicles_ch_2.docx": [3503, 3526, 3526, 3526], "1 Chronicles_ch_7.docx": [4355, 4355, 4355]}
+1later	{"2 Kings_ch_6.docx": [5]}
+jeou	{"1 Chronicles_ch_2.docx": [3503, 3526, 3526], "1 Chronicles_ch_7.docx": [4355, 4355]}
+jeou	{"1 Chronicles_ch_2.docx": [3503, 3526], "1 Chronicles_ch_7.docx": [4355]}

@@ -1,0 +1,7 @@
+
+amarp	{"Genesis_ch_14.docx": [10, 1085, 1085, 1085]}
+sun’s	{"Ecclesiastes_ch_7.docx": [1222]}
+amarp	{"Genesis_ch_14.docx": [10, 1085, 1085]}
+sun’s	{"Ecclesiastes_ch_7.docx": [1222]}
+amarp	{"Genesis_ch_14.docx": [10, 1085]}
+sun’s	{"Ecclesiastes_ch_7.docx": [1222]}

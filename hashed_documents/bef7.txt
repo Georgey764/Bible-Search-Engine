@@ -1,0 +1,4 @@
+
+loosen	{"Genesis_ch_27.docx": [5339], "Isaiah_ch_5.docx": [4420, 4420, 4420], "Isaiah_ch_58.docx": [1280, 1280, 1280], "Mark_ch_7.docx": [4464, 4464], "Acts_ch_16.docx": [6952, 6952]}
+loosen	{"Genesis_ch_27.docx": [5339], "Isaiah_ch_5.docx": [4420, 4420], "Isaiah_ch_58.docx": [1280, 1280], "Mark_ch_7.docx": [4464], "Acts_ch_16.docx": [6952]}
+loosen	{"Genesis_ch_27.docx": [5339], "Isaiah_ch_5.docx": [4420], "Isaiah_ch_58.docx": [1280], "Mark_ch_7.docx": [4464], "Acts_ch_16.docx": [6952]}

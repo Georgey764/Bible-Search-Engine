@@ -1,0 +1,7 @@
+
+jarin	{"2 Samuel_ch_20.docx": [4658], "1 Chronicles_ch_4.docx": [727, 727, 727]}
+achica	{"2 Kings_ch_22.docx": [2354]}
+jarin	{"2 Samuel_ch_20.docx": [4658], "1 Chronicles_ch_4.docx": [727, 727]}
+achica	{"2 Kings_ch_22.docx": [2354]}
+jarin	{"2 Samuel_ch_20.docx": [4658], "1 Chronicles_ch_4.docx": [727]}
+achica	{"2 Kings_ch_22.docx": [2354]}

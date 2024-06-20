@@ -1,0 +1,4 @@
+
+azoub	{"1 Chronicles_ch_2.docx": [1428, 1628, 1628, 1628]}
+azoub	{"1 Chronicles_ch_2.docx": [1428, 1628, 1628]}
+azoub	{"1 Chronicles_ch_2.docx": [1428, 1628]}

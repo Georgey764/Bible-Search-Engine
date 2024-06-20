@@ -1,0 +1,4 @@
+
+gateov	{"Nehemiah_ch_12.docx": [7213, 7371, 7455, 7371, 7455, 7371, 7455]}
+gateov	{"Nehemiah_ch_12.docx": [7213, 7371, 7455, 7371, 7455]}
+gateov	{"Nehemiah_ch_12.docx": [7213, 7371, 7455]}

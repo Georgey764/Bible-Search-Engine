@@ -1,0 +1,3 @@
+
+18’	{"Genesis_ch_32.docx": [2401]}
+6ther	{"Exodus_ch_37.docx": [521], "2 Samuel_ch_5.docx": [736], "1 Kings_ch_8.docx": [561], "1 Kings_ch_14.docx": [822], "1 Kings_ch_17.docx": [497], "1 Chronicles_ch_3.docx": [637], "2 Chronicles_ch_1.docx": [758], "2 Chronicles_ch_26.docx": [677], "Job_ch_14.docx": [552], "Proverbs_ch_15.docx": [591], "Ezekiel_ch_40.docx": [1175]}

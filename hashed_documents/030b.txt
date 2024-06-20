@@ -1,0 +1,4 @@
+
+altar!	{"Genesis_ch_22.docx": [1352], "Judges_ch_6.docx": [7020, 7020, 7020], "2 Chronicles_ch_26.docx": [2455, 3133, 2455, 3133, 2455, 3133], "Joel_ch_1.docx": [2006, 2006, 2006], "Malachi_ch_1.docx": [1177, 1177, 1177], "Luke_ch_1.docx": [1285, 1285]}
+altar!	{"Genesis_ch_22.docx": [1352], "Judges_ch_6.docx": [7020, 7020], "2 Chronicles_ch_26.docx": [2455, 3133, 2455, 3133], "Joel_ch_1.docx": [2006, 2006], "Malachi_ch_1.docx": [1177, 1177], "Luke_ch_1.docx": [1285]}
+altar!	{"Genesis_ch_22.docx": [1352], "Judges_ch_6.docx": [7020], "2 Chronicles_ch_26.docx": [2455, 3133], "Joel_ch_1.docx": [2006], "Malachi_ch_1.docx": [1177], "Luke_ch_1.docx": [1285]}

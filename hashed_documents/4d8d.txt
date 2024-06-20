@@ -1,0 +1,13 @@
+
+wilies	{"Genesis_ch_3.docx": [108]}
+drink!	{"Exodus_ch_17.docx": [298], "Numbers_ch_20.docx": [1556, 1556, 1556], "1 Kings_ch_17.docx": [1084, 1084, 1084], "Job_ch_15.docx": [1421, 1421, 1421], "Psalms_ch_75.docx": [943, 943, 943], "Proverbs_ch_9.docx": [1767, 1767, 1767], "Proverbs_ch_25.docx": [2123, 2123, 2123], "Isaiah_ch_29.docx": [1601, 1601, 1601], "Jeremiah_ch_25.docx": [2793, 2793, 2793], "Amos_ch_4.docx": [452, 452, 452], "John_ch_7.docx": [4894, 4894]}
+jeo	{"Joshua_ch_19.docx": [1626], "1 Kings_ch_1.docx": [2882, 2882, 2882], "1 Chronicles_ch_2.docx": [3503, 3526, 3503, 3526, 3503, 3526], "1 Chronicles_ch_7.docx": [4355, 4355, 4355]}
+restf	{"1 Chronicles_ch_4.docx": [4379], "Psalms_ch_116.docx": [566, 566, 566]}
+wilies	{"Genesis_ch_3.docx": [108]}
+drink!	{"Exodus_ch_17.docx": [298], "Numbers_ch_20.docx": [1556, 1556], "1 Kings_ch_17.docx": [1084, 1084], "Job_ch_15.docx": [1421, 1421], "Psalms_ch_75.docx": [943, 943], "Proverbs_ch_9.docx": [1767, 1767], "Proverbs_ch_25.docx": [2123, 2123], "Isaiah_ch_29.docx": [1601, 1601], "Jeremiah_ch_25.docx": [2793, 2793], "Amos_ch_4.docx": [452, 452], "John_ch_7.docx": [4894]}
+jeo	{"Joshua_ch_19.docx": [1626], "1 Kings_ch_1.docx": [2882, 2882], "1 Chronicles_ch_2.docx": [3503, 3526, 3503, 3526], "1 Chronicles_ch_7.docx": [4355, 4355]}
+restf	{"1 Chronicles_ch_4.docx": [4379], "Psalms_ch_116.docx": [566, 566]}
+wilies	{"Genesis_ch_3.docx": [108]}
+drink!	{"Exodus_ch_17.docx": [298], "Numbers_ch_20.docx": [1556], "1 Kings_ch_17.docx": [1084], "Job_ch_15.docx": [1421], "Psalms_ch_75.docx": [943], "Proverbs_ch_9.docx": [1767], "Proverbs_ch_25.docx": [2123], "Isaiah_ch_29.docx": [1601], "Jeremiah_ch_25.docx": [2793], "Amos_ch_4.docx": [452], "John_ch_7.docx": [4894]}
+jeo	{"Joshua_ch_19.docx": [1626], "1 Kings_ch_1.docx": [2882], "1 Chronicles_ch_2.docx": [3503, 3526], "1 Chronicles_ch_7.docx": [4355]}
+restf	{"1 Chronicles_ch_4.docx": [4379], "Psalms_ch_116.docx": [566]}

@@ -1,0 +1,6 @@
+
+zabdia	{"2 Chronicles_ch_17.docx": [1109], "2 Chronicles_ch_19.docx": [1803, 1803, 1803]}
+914m	{"Numbers_ch_35.docx": [379, 509, 550, 592, 637], "Joshua_ch_3.docx": [424]}
+zabdia	{"2 Chronicles_ch_17.docx": [1109], "2 Chronicles_ch_19.docx": [1803, 1803]}
+52am	{"Psalms_ch_89.docx": [4861]}
+zabdia	{"2 Chronicles_ch_17.docx": [1109], "2 Chronicles_ch_19.docx": [1803]}

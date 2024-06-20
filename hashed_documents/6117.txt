@@ -1,0 +1,4 @@
+
+remar	{"2 Samuel_ch_23.docx": [3571], "1 Chronicles_ch_11.docx": [4460, 4460, 4460], "Job_ch_40.docx": [2502, 2502, 2502]}
+remar	{"2 Samuel_ch_23.docx": [3571], "1 Chronicles_ch_11.docx": [4460, 4460], "Job_ch_40.docx": [2502, 2502]}
+remar	{"2 Samuel_ch_23.docx": [3571], "1 Chronicles_ch_11.docx": [4460], "Job_ch_40.docx": [2502]}

@@ -1,0 +1,4 @@
+
+englis	{"Job_ch_42.docx": [3456], "Ezekiel_ch_41.docx": [521], "John_ch_1.docx": [4596, 4596]}
+englis	{"Ezekiel_ch_41.docx": [521], "John_ch_1.docx": [4596]}
+englis	{"Ezekiel_ch_41.docx": [521], "John_ch_1.docx": [4596]}

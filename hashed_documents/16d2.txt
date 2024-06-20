@@ -1,0 +1,4 @@
+
+hachal	{"Nehemiah_ch_1.docx": [12], "Nehemiah_ch_10.docx": [76, 76, 76]}
+hachal	{"Nehemiah_ch_1.docx": [12], "Nehemiah_ch_10.docx": [76, 76]}
+hachal	{"Nehemiah_ch_1.docx": [12], "Nehemiah_ch_10.docx": [76]}

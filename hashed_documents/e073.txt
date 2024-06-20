@@ -1,0 +1,4 @@
+
+71ther	{"Nehemiah_ch_7.docx": [4604]}
+6those	{"Job_ch_30.docx": [758], "Psalms_ch_49.docx": [511], "Psalms_ch_83.docx": [525], "Proverbs_ch_21.docx": [544], "Hosea_ch_7.docx": [980]}
+35tow	{"Psalms_ch_119.docx": [2722]}

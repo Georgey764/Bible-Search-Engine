@@ -1,0 +1,4 @@
+
+celes	{"Ezekiel_ch_43.docx": [305], "1 Corinthians_ch_15.docx": [5829, 5829], "Hebrews_ch_3.docx": [12, 12]}
+celes	{"Ezekiel_ch_43.docx": [305], "1 Corinthians_ch_15.docx": [5829], "Hebrews_ch_3.docx": [12]}
+celes	{"Ezekiel_ch_43.docx": [305], "1 Corinthians_ch_15.docx": [5829], "Hebrews_ch_3.docx": [12]}

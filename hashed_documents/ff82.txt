@@ -1,0 +1,7 @@
+
+abel	{"2 Chronicles_ch_16.docx": [766]}
+ties	{"Job_ch_12.docx": [1724], "Proverbs_ch_26.docx": [637, 637, 637], "Mark_ch_3.docx": [3147, 3147]}
+abel	{"2 Chronicles_ch_16.docx": [766]}
+ties	{"Job_ch_12.docx": [1724], "Proverbs_ch_26.docx": [637, 637], "Mark_ch_3.docx": [3147]}
+abel	{"2 Chronicles_ch_16.docx": [766]}
+ties	{"Job_ch_12.docx": [1724], "Proverbs_ch_26.docx": [637], "Mark_ch_3.docx": [3147]}

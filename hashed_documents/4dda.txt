@@ -1,0 +1,4 @@
+
+urias	{"Exodus_ch_31.docx": [93], "Exodus_ch_35.docx": [3261, 3261, 3261]}
+urias	{"Exodus_ch_31.docx": [93], "Exodus_ch_35.docx": [3261, 3261]}
+urias	{"Exodus_ch_31.docx": [93], "Exodus_ch_35.docx": [3261]}

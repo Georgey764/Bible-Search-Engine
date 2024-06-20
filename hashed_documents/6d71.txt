@@ -1,0 +1,8 @@
+
+ittai	{"2 Samuel_ch_15.docx": [2772, 3198, 3408, 3198, 3408, 3198, 3408], "2 Samuel_ch_18.docx": [301, 776, 2046, 301, 776, 2046, 301, 776, 2046]}
+jesous	{"1 Chronicles_ch_1.docx": [2815]}
+ittai	{"2 Samuel_ch_15.docx": [2772, 3198, 3408, 3198, 3408], "2 Samuel_ch_18.docx": [301, 776, 2046, 301, 776, 2046]}
+jesous	{"1 Chronicles_ch_1.docx": [2815]}
+47‘y	{"Ezekiel_ch_20.docx": [8324]}
+ittai	{"2 Samuel_ch_15.docx": [2772, 3198, 3408], "2 Samuel_ch_18.docx": [301, 776, 2046]}
+jesous	{"1 Chronicles_ch_1.docx": [2815]}

@@ -1,0 +1,4 @@
+
+echr	{"Numbers_ch_1.docx": [1178], "Numbers_ch_7.docx": [8389, 9028, 8389, 9028, 8389, 9028], "Numbers_ch_10.docx": [2849, 2849, 2849]}
+echr	{"Numbers_ch_1.docx": [1178], "Numbers_ch_7.docx": [8389, 9028, 8389, 9028], "Numbers_ch_10.docx": [2849, 2849]}
+echr	{"Numbers_ch_1.docx": [1178], "Numbers_ch_7.docx": [8389, 9028], "Numbers_ch_10.docx": [2849]}

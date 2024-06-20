@@ -1,0 +1,4 @@
+
+gebe	{"Joshua_ch_19.docx": [1105, 3466, 3466, 3466], "1 Kings_ch_9.docx": [4141, 4141, 4141], "2 Chronicles_ch_8.docx": [2528, 2528, 2528], "2 Chronicles_ch_20.docx": [5996, 5996, 5996]}
+gebe	{"Joshua_ch_19.docx": [1105, 3466, 3466], "1 Kings_ch_9.docx": [4141, 4141], "2 Chronicles_ch_8.docx": [2528, 2528], "2 Chronicles_ch_20.docx": [5996, 5996]}
+gebe	{"Joshua_ch_19.docx": [1105, 3466], "1 Kings_ch_9.docx": [4141], "2 Chronicles_ch_8.docx": [2528], "2 Chronicles_ch_20.docx": [5996]}

@@ -1,0 +1,3 @@
+
+11‘no	{"Exodus_ch_18.docx": [1474], "Numbers_ch_24.docx": [1394], "Judges_ch_5.docx": [1509], "1 Chronicles_ch_22.docx": [1858], "Nehemiah_ch_1.docx": [1829], "Isaiah_ch_32.docx": [1518], "Lamentations_ch_1.docx": [2621], "Hosea_ch_9.docx": [2355], "Micah_ch_4.docx": [2444]}
+42:13	{"Ezekiel_ch_41.docx": [38]}

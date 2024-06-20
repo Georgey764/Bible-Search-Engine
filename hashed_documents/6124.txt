@@ -1,0 +1,4 @@
+
+jespha	{"1 Chronicles_ch_8.docx": [1156, 1464, 1464, 1464]}
+jespha	{"1 Chronicles_ch_8.docx": [1156, 1464, 1464]}
+jespha	{"1 Chronicles_ch_8.docx": [1156, 1464]}

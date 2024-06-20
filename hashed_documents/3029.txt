@@ -1,0 +1,7 @@
+
+couri	{"2 Kings_ch_11.docx": [529, 3161, 3161, 3161], "Esther_ch_3.docx": [2197, 2197, 2197], "Esther_ch_8.docx": [1692, 1692, 1692]}
+somna	{"2 Kings_ch_18.docx": [2930, 4315, 6345, 4315, 6345, 4315, 6345], "2 Kings_ch_19.docx": [165, 165, 165]}
+couri	{"2 Kings_ch_11.docx": [529, 3161, 3161], "Esther_ch_3.docx": [2197, 2197], "Esther_ch_8.docx": [1692, 1692]}
+somna	{"2 Kings_ch_18.docx": [2930, 4315, 6345, 4315, 6345], "2 Kings_ch_19.docx": [165, 165]}
+couri	{"2 Kings_ch_11.docx": [529, 3161], "Esther_ch_3.docx": [2197], "Esther_ch_8.docx": [1692]}
+somna	{"2 Kings_ch_18.docx": [2930, 4315, 6345], "2 Kings_ch_19.docx": [165]}

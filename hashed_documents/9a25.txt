@@ -1,0 +1,6 @@
+
+phano	{"1 Chronicles_ch_4.docx": [315], "1 Chronicles_ch_8.docx": [1599, 1599]}
+603,	{"Numbers_ch_2.docx": [2742]}
+11‘og	{"Deuteronomy_ch_3.docx": [1397]}
+phano	{"1 Chronicles_ch_8.docx": [1599, 1599]}
+phano	{"1 Chronicles_ch_4.docx": [315], "1 Chronicles_ch_8.docx": [1599]}

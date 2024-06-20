@@ -1,0 +1,7 @@
+
+zet	{"1 Chronicles_ch_26.docx": [2785]}
+18‘no	{"Exodus_ch_5.docx": [2634], "Leviticus_ch_10.docx": [3183], "Leviticus_ch_18.docx": [2166], "Deuteronomy_ch_2.docx": [2286], "Deuteronomy_ch_21.docx": [2593], "Jeremiah_ch_2.docx": [2616], "Jeremiah_ch_13.docx": [2917], "Lamentations_ch_4.docx": [2942]}
+45‘y	{"Leviticus_ch_25.docx": [6271]}
+zet	{"1 Chronicles_ch_26.docx": [2785]}
+13lik	{"Psalms_ch_22.docx": [1224]}
+ zet	{"1 Chronicles_ch_26.docx": [2785]}

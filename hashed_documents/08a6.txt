@@ -1,0 +1,5 @@
+
+gaeph	{"Joshua_ch_19.docx": [1244]}
+gaeph	{"Joshua_ch_19.docx": [1244]}
+28d	{"Proverbs_ch_3.docx": [2621], "Proverbs_ch_24.docx": [2680], "Jeremiah_ch_51.docx": [4633]}
+gaeph	{"Joshua_ch_19.docx": [1244]}

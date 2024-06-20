@@ -1,0 +1,5 @@
+
+applyi	{"Nehemiah_ch_5.docx": [2908], "Ezekiel_ch_13.docx": [3051, 3051, 3051], "Mark_ch_12.docx": [1518, 1518]}
+applyi	{"Nehemiah_ch_5.docx": [2908], "Ezekiel_ch_13.docx": [3051, 3051], "Mark_ch_12.docx": [1518]}
+26‘m	{"Job_ch_20.docx": [2617]}
+applyi	{"Nehemiah_ch_5.docx": [2908], "Ezekiel_ch_13.docx": [3051], "Mark_ch_12.docx": [1518]}

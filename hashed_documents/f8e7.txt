@@ -1,0 +1,8 @@
+
+sikim	{"1 Kings_ch_12.docx": [11, 4184, 4184, 4184]}
+ish	{"2 Chronicles_ch_23.docx": [263]}
+44ke	{"Joshua_ch_15.docx": [5106], "Ezra_ch_2.docx": [1756]}
+sikim	{"1 Kings_ch_12.docx": [11, 4184, 4184]}
+ish	{"2 Chronicles_ch_23.docx": [263]}
+sikim	{"1 Kings_ch_12.docx": [11, 4184]}
+ ish	{"2 Chronicles_ch_23.docx": [263]}

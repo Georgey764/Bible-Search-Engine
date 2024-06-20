@@ -1,0 +1,4 @@
+
+samada	{"Genesis_ch_36.docx": [3755, 3816, 3816, 3816]}
+samada	{"Genesis_ch_36.docx": [3755, 3816, 3816]}
+samada	{"Genesis_ch_36.docx": [3755, 3816]}

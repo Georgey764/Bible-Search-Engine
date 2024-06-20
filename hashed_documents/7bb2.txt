@@ -1,0 +1,5 @@
+
+featu	{"Job_ch_40.docx": [1759, 1772, 1772, 1772]}
+featu	{"Job_ch_40.docx": [1759, 1772, 1772]}
+21‘ara	{"Ezekiel_ch_27.docx": [3018]}
+featu	{"Job_ch_40.docx": [1759, 1772]}

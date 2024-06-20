@@ -1,0 +1,7 @@
+
+on;	{"Genesis_ch_11.docx": [258, 398, 398, 398], "1 Samuel_ch_6.docx": [1670, 1670, 1670], "Luke_ch_18.docx": [3818, 3818], "1 Corinthians_ch_1.docx": [3637, 3637]}
+relen	{"Zechariah_ch_8.docx": [2465]}
+on;	{"Genesis_ch_11.docx": [258, 398, 398], "1 Samuel_ch_6.docx": [1670, 1670], "Luke_ch_18.docx": [3818], "1 Corinthians_ch_1.docx": [3637]}
+relen	{"Zechariah_ch_8.docx": [2465]}
+on;	{"Genesis_ch_11.docx": [258, 398], "1 Samuel_ch_6.docx": [1670], "Luke_ch_18.docx": [3818], "1 Corinthians_ch_1.docx": [3637]}
+relen	{"Zechariah_ch_8.docx": [2465]}

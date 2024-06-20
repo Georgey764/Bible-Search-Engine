@@ -1,0 +1,4 @@
+
+rein	{"Exodus_ch_39.docx": [2859], "Judges_ch_1.docx": [7266, 7266, 7266], "Judges_ch_20.docx": [2653, 2653, 2653], "Isaiah_ch_37.docx": [4750, 4750, 4750]}
+rein	{"Exodus_ch_39.docx": [2859], "Judges_ch_1.docx": [7266, 7266], "Judges_ch_20.docx": [2653, 2653], "Isaiah_ch_37.docx": [4750, 4750]}
+rein	{"Exodus_ch_39.docx": [2859], "Judges_ch_1.docx": [7266], "Judges_ch_20.docx": [2653], "Isaiah_ch_37.docx": [4750]}

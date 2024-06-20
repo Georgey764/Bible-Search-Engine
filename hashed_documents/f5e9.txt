@@ -1,0 +1,4 @@
+
+snap	{"Amos_ch_3.docx": [639], "Galatians_ch_5.docx": [1782, 1782]}
+snap	{"Amos_ch_3.docx": [639], "Galatians_ch_5.docx": [1782]}
+snap	{"Amos_ch_3.docx": [639], "Galatians_ch_5.docx": [1782]}

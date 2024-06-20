@@ -1,0 +1,7 @@
+
+ophir	{"1 Kings_ch_10.docx": [1701], "1 Chronicles_ch_1.docx": [1865, 1865], "2 Chronicles_ch_8.docx": [2567, 2567, 2567], "2 Chronicles_ch_9.docx": [1564, 1564, 1564], "Job_ch_22.docx": [2232, 2232, 2232], "Job_ch_28.docx": [1425, 1425, 1425], "Isaiah_ch_13.docx": [1827, 1827, 1827], "Daniel_ch_10.docx": [591, 591, 591]}
+berija	{"1 Chronicles_ch_3.docx": [2067], "1 Chronicles_ch_7.docx": [3857, 3857, 3857], "1 Chronicles_ch_8.docx": [908, 1047, 1047, 908, 1047], "1 Chronicles_ch_23.docx": [1109, 1129, 1109, 1129, 1109, 1129]}
+ophir	{"1 Kings_ch_10.docx": [1701], "2 Chronicles_ch_8.docx": [2567, 2567], "2 Chronicles_ch_9.docx": [1564, 1564], "Job_ch_22.docx": [2232, 2232], "Job_ch_28.docx": [1425, 1425], "Isaiah_ch_13.docx": [1827, 1827], "Daniel_ch_10.docx": [591, 591], "1 Chronicles_ch_1.docx": [1865]}
+berija	{"1 Chronicles_ch_3.docx": [2067], "1 Chronicles_ch_7.docx": [3857, 3857], "1 Chronicles_ch_8.docx": [1047, 908, 1047], "1 Chronicles_ch_23.docx": [1109, 1129, 1109, 1129]}
+ophir	{"1 Kings_ch_10.docx": [1701], "1 Chronicles_ch_1.docx": [1865], "2 Chronicles_ch_8.docx": [2567], "2 Chronicles_ch_9.docx": [1564], "Job_ch_22.docx": [2232], "Job_ch_28.docx": [1425], "Isaiah_ch_13.docx": [1827], "Daniel_ch_10.docx": [591]}
+berija	{"1 Chronicles_ch_3.docx": [2067], "1 Chronicles_ch_7.docx": [3857], "1 Chronicles_ch_8.docx": [908, 1047], "1 Chronicles_ch_23.docx": [1109, 1129]}

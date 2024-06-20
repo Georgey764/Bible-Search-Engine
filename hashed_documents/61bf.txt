@@ -1,0 +1,6 @@
+
+nabaal	{"Joshua_ch_19.docx": [1272]}
+legio	{"Mark_ch_5.docx": [952, 1445, 1445], "Luke_ch_8.docx": [4664, 4664]}
+nabaal	{"Joshua_ch_19.docx": [1272]}
+nabaal	{"Joshua_ch_19.docx": [1272]}
+legio	{"Mark_ch_5.docx": [952, 1445], "Luke_ch_8.docx": [4664]}

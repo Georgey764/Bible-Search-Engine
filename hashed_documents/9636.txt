@@ -1,0 +1,4 @@
+
+thrust	{"Deuteronomy_ch_33.docx": [2392], "Psalms_ch_22.docx": [963, 963, 963], "Psalms_ch_43.docx": [174, 174, 174], "Psalms_ch_45.docx": [565, 565, 565], "Psalms_ch_60.docx": [1355, 1355, 1355], "Psalms_ch_89.docx": [3678, 3678, 3678], "Jeremiah_ch_2.docx": [6663, 6663, 6663], "Lamentations_ch_2.docx": [1443, 1443, 1443], "Nahum_ch_2.docx": [1960, 1960, 1960]}
+thrust	{"Deuteronomy_ch_33.docx": [2392], "Psalms_ch_22.docx": [963, 963], "Psalms_ch_43.docx": [174, 174], "Psalms_ch_45.docx": [565, 565], "Psalms_ch_60.docx": [1355, 1355], "Psalms_ch_89.docx": [3678, 3678], "Jeremiah_ch_2.docx": [6663, 6663], "Lamentations_ch_2.docx": [1443, 1443], "Nahum_ch_2.docx": [1960, 1960]}
+thrust	{"Deuteronomy_ch_33.docx": [2392], "Psalms_ch_22.docx": [963], "Psalms_ch_43.docx": [174], "Psalms_ch_45.docx": [565], "Psalms_ch_60.docx": [1355], "Psalms_ch_89.docx": [3678], "Jeremiah_ch_2.docx": [6663], "Lamentations_ch_2.docx": [1443], "Nahum_ch_2.docx": [1960]}

@@ -1,0 +1,4 @@
+
+skull	{"Judges_ch_9.docx": [9451], "2 Kings_ch_9.docx": [6781, 6781, 6781], "Matthew_ch_27.docx": [4001, 4001], "Mark_ch_15.docx": [2217, 2217], "Luke_ch_23.docx": [3840, 3840], "John_ch_19.docx": [2239, 2239]}
+skull	{"Judges_ch_9.docx": [9451], "2 Kings_ch_9.docx": [6781, 6781], "Matthew_ch_27.docx": [4001], "Mark_ch_15.docx": [2217], "Luke_ch_23.docx": [3840], "John_ch_19.docx": [2239]}
+skull	{"Judges_ch_9.docx": [9451], "2 Kings_ch_9.docx": [6781], "Matthew_ch_27.docx": [4001], "Mark_ch_15.docx": [2217], "Luke_ch_23.docx": [3840], "John_ch_19.docx": [2239]}

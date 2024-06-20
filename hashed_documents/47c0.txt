@@ -1,0 +1,4 @@
+
+pelt	{"Exodus_ch_19.docx": [1961], "2 Kings_ch_3.docx": [4001, 4001, 4001]}
+pelt	{"Exodus_ch_19.docx": [1961], "2 Kings_ch_3.docx": [4001, 4001]}
+pelt	{"Exodus_ch_19.docx": [1961], "2 Kings_ch_3.docx": [4001]}

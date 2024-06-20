@@ -1,0 +1,4 @@
+
+clairv	{"1 Samuel_ch_6.docx": [38], "Jeremiah_ch_50.docx": [6685, 6685, 6685]}
+clairv	{"1 Samuel_ch_6.docx": [38], "Jeremiah_ch_50.docx": [6685, 6685]}
+clairv	{"1 Samuel_ch_6.docx": [38], "Jeremiah_ch_50.docx": [6685]}

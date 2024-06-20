@@ -1,0 +1,4 @@
+
+spotle	{"Psalms_ch_119.docx": [35], "2 Corinthians_ch_6.docx": [406, 406], "Hebrews_ch_9.docx": [1927, 1927], "1 Peter_ch_1.docx": [5181, 5181]}
+spotle	{"Psalms_ch_119.docx": [35], "2 Corinthians_ch_6.docx": [406], "Hebrews_ch_9.docx": [1927], "1 Peter_ch_1.docx": [5181]}
+spotle	{"Psalms_ch_119.docx": [35], "2 Corinthians_ch_6.docx": [406], "Hebrews_ch_9.docx": [1927], "1 Peter_ch_1.docx": [5181]}

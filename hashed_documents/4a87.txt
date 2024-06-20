@@ -1,0 +1,4 @@
+
+apha	{"1 Chronicles_ch_2.docx": [2830, 2848, 3448, 3475, 2848, 3448, 3475, 2848, 3448, 3475], "Ezra_ch_4.docx": [1455, 1457, 1455, 1457, 1455, 1457], "Ezra_ch_5.docx": [931, 931, 931], "Ezra_ch_6.docx": [980, 980, 980]}
+apha	{"1 Chronicles_ch_2.docx": [2830, 2848, 3448, 3475, 2848, 3448, 3475], "Ezra_ch_4.docx": [1455, 1457, 1455, 1457], "Ezra_ch_5.docx": [931, 931], "Ezra_ch_6.docx": [980, 980]}
+apha	{"1 Chronicles_ch_2.docx": [2830, 2848, 3448, 3475], "Ezra_ch_4.docx": [1455, 1457], "Ezra_ch_5.docx": [931], "Ezra_ch_6.docx": [980]}

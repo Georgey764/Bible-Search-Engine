@@ -1,0 +1,5 @@
+
+esbo	{"Joshua_ch_21.docx": [4743]}
+esbo	{"Joshua_ch_21.docx": [4743]}
+12st	{"Isaiah_ch_21.docx": [1593], "Isaiah_ch_32.docx": [1601]}
+esbo	{"Joshua_ch_21.docx": [4743]}

@@ -1,0 +1,5 @@
+
+mocha	{"Genesis_ch_22.docx": [3564], "1 Chronicles_ch_2.docx": [4257, 4257, 4257], "1 Chronicles_ch_3.docx": [216, 216, 216]}
+mocha	{"Genesis_ch_22.docx": [3564], "1 Chronicles_ch_2.docx": [4257, 4257], "1 Chronicles_ch_3.docx": [216, 216]}
+11mizr	{"1 Chronicles_ch_1.docx": [934]}
+mocha	{"Genesis_ch_22.docx": [3564], "1 Chronicles_ch_2.docx": [4257], "1 Chronicles_ch_3.docx": [216]}

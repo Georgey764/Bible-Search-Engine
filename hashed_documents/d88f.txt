@@ -1,0 +1,5 @@
+
+chash	{"Joshua_ch_19.docx": [834]}
+27alo	{"Genesis_ch_17.docx": [3779], "Deuteronomy_ch_14.docx": [2784]}
+chash	{"Joshua_ch_19.docx": [834]}
+chash	{"Joshua_ch_19.docx": [834]}

@@ -1,0 +1,4 @@
+
+ellasa	{"Genesis_ch_14.docx": [20, 1094, 1094, 1094]}
+ellasa	{"Genesis_ch_14.docx": [20, 1094, 1094]}
+ellasa	{"Genesis_ch_14.docx": [20, 1094]}

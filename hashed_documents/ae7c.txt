@@ -1,0 +1,4 @@
+
+elymas	{"Acts_ch_13.docx": [2109]}
+16yes	{"Job_ch_40.docx": [2944], "Proverbs_ch_4.docx": [1455], "Ezekiel_ch_25.docx": [2657]}
+elymas	{"Acts_ch_13.docx": [2109]}

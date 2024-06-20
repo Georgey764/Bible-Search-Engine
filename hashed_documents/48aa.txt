@@ -1,0 +1,4 @@
+
+surges	{"Luke_ch_21.docx": [2974]}
+21be	{"Exodus_ch_23.docx": [2887], "Job_ch_36.docx": [2092], "Psalms_ch_118.docx": [1743]}
+surges	{"Luke_ch_21.docx": [2974]}

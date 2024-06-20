@@ -1,0 +1,4 @@
+
+labor;	{"Exodus_ch_1.docx": [1010], "Numbers_ch_29.docx": [1701, 1701, 1701], "Jeremiah_ch_45.docx": [390, 390, 390]}
+labor;	{"Exodus_ch_1.docx": [1010], "Numbers_ch_29.docx": [1701, 1701], "Jeremiah_ch_45.docx": [390, 390]}
+labor;	{"Exodus_ch_1.docx": [1010], "Numbers_ch_29.docx": [1701], "Jeremiah_ch_45.docx": [390]}

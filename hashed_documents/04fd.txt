@@ -1,0 +1,4 @@
+
+jethr	{"1 Chronicles_ch_1.docx": [3431], "1 Chronicles_ch_6.docx": [1530, 1530, 1530], "1 Chronicles_ch_7.docx": [4386, 4413, 4386, 4413, 4386, 4413], "1 Chronicles_ch_11.docx": [6056, 6078, 6056, 6078, 6056, 6078]}
+jethr	{"1 Chronicles_ch_1.docx": [3431], "1 Chronicles_ch_6.docx": [1530, 1530], "1 Chronicles_ch_7.docx": [4386, 4413, 4386, 4413], "1 Chronicles_ch_11.docx": [6056, 6078, 6056, 6078]}
+jethr	{"1 Chronicles_ch_1.docx": [3431], "1 Chronicles_ch_6.docx": [1530], "1 Chronicles_ch_7.docx": [4386, 4413], "1 Chronicles_ch_11.docx": [6056, 6078]}

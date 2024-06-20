@@ -1,0 +1,4 @@
+
+inflam	{"Leviticus_ch_13.docx": [3299, 3359, 3993, 6127, 3359, 3993, 6127, 3359, 3993, 6127], "Deuteronomy_ch_28.docx": [2900, 2900, 2900], "Isaiah_ch_1.docx": [954, 954, 954]}
+inflam	{"Leviticus_ch_13.docx": [3299, 3359, 3993, 6127, 3359, 3993, 6127], "Deuteronomy_ch_28.docx": [2900, 2900], "Isaiah_ch_1.docx": [954, 954]}
+inflam	{"Leviticus_ch_13.docx": [3299, 3359, 3993, 6127], "Deuteronomy_ch_28.docx": [2900], "Isaiah_ch_1.docx": [954]}

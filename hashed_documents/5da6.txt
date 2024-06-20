@@ -1,0 +1,4 @@
+
+herder	{"Genesis_ch_4.docx": [236], "Amos_ch_7.docx": [2926, 2926, 2926], "Luke_ch_8.docx": [5092, 5092]}
+herder	{"Genesis_ch_4.docx": [236], "Amos_ch_7.docx": [2926, 2926], "Luke_ch_8.docx": [5092]}
+herder	{"Genesis_ch_4.docx": [236], "Amos_ch_7.docx": [2926], "Luke_ch_8.docx": [5092]}

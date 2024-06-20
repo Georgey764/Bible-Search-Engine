@@ -1,0 +1,7 @@
+
+azma	{"Ezra_ch_2.docx": [1080]}
+site	{"Amos_ch_7.docx": [1503]}
+azma	{"Ezra_ch_2.docx": [1080]}
+site	{"Amos_ch_7.docx": [1503]}
+azma	{"Ezra_ch_2.docx": [1080]}
+site	{"Amos_ch_7.docx": [1503]}

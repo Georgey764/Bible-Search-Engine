@@ -1,0 +1,4 @@
+
+17one	{"1 Kings_ch_3.docx": [2933]}
+32‘may	{"1 Chronicles_ch_16.docx": [3316]}
+11‘yet	{"Jeremiah_ch_2.docx": [1847], "Nahum_ch_1.docx": [2204]}

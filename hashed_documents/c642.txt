@@ -1,0 +1,7 @@
+
+bada	{"1 Chronicles_ch_7.docx": [2165]}
+reptil	{"Job_ch_40.docx": [1765]}
+bada	{"1 Chronicles_ch_7.docx": [2165]}
+reptil	{"Job_ch_40.docx": [1765]}
+bada	{"1 Chronicles_ch_7.docx": [2165]}
+reptil	{"Job_ch_40.docx": [1765]}

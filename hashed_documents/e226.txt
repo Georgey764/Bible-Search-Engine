@@ -1,0 +1,7 @@
+
+darko	{"Ezra_ch_2.docx": [2280], "Nehemiah_ch_7.docx": [3372, 3372, 3372]}
+annuls	{"Psalms_ch_33.docx": [808]}
+darko	{"Ezra_ch_2.docx": [2280], "Nehemiah_ch_7.docx": [3372, 3372]}
+annuls	{"Psalms_ch_33.docx": [808]}
+darko	{"Ezra_ch_2.docx": [2280], "Nehemiah_ch_7.docx": [3372]}
+annuls	{"Psalms_ch_33.docx": [808]}

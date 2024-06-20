@@ -1,0 +1,3 @@
+
+clashi	{"Psalms_ch_150.docx": [443], "1 Corinthians_ch_13.docx": [30]}
+clashi	{"1 Corinthians_ch_13.docx": [30]}

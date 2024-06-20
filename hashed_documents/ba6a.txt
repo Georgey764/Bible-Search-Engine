@@ -1,0 +1,10 @@
+
+catase	{"Joshua_ch_19.docx": [1110]}
+saphth	{"Joshua_ch_19.docx": [2085]}
+liars	{"2 Samuel_ch_22.docx": [4326], "Psalms_ch_5.docx": [479, 479, 479], "Psalms_ch_12.docx": [295, 295, 295], "Psalms_ch_109.docx": [106, 106, 106], "Isaiah_ch_30.docx": [1426, 1426, 1426], "Jeremiah_ch_6.docx": [842, 842, 842], "Micah_ch_6.docx": [2515, 2515, 2515], "1 Timothy_ch_1.docx": [1300, 1300], "1 Timothy_ch_4.docx": [38, 38], "Titus_ch_1.docx": [1615, 1615], "1 John_ch_2.docx": [3170, 3170], "Revelation_ch_2.docx": [248, 248], "Revelation_ch_21.docx": [1111, 1111]}
+catase	{"Joshua_ch_19.docx": [1110]}
+saphth	{"Joshua_ch_19.docx": [2085]}
+liars	{"2 Samuel_ch_22.docx": [4326], "Psalms_ch_5.docx": [479, 479], "Psalms_ch_12.docx": [295, 295], "Psalms_ch_109.docx": [106, 106], "Isaiah_ch_30.docx": [1426, 1426], "Jeremiah_ch_6.docx": [842, 842], "Micah_ch_6.docx": [2515, 2515], "1 Timothy_ch_1.docx": [1300], "1 Timothy_ch_4.docx": [38], "Titus_ch_1.docx": [1615], "1 John_ch_2.docx": [3170], "Revelation_ch_2.docx": [248], "Revelation_ch_21.docx": [1111]}
+catase	{"Joshua_ch_19.docx": [1110]}
+saphth	{"Joshua_ch_19.docx": [2085]}
+liars	{"2 Samuel_ch_22.docx": [4326], "Psalms_ch_5.docx": [479], "Psalms_ch_12.docx": [295], "Psalms_ch_109.docx": [106], "Isaiah_ch_30.docx": [1426], "Jeremiah_ch_6.docx": [842], "Micah_ch_6.docx": [2515], "1 Timothy_ch_1.docx": [1300], "1 Timothy_ch_4.docx": [38], "Titus_ch_1.docx": [1615], "1 John_ch_2.docx": [3170], "Revelation_ch_2.docx": [248], "Revelation_ch_21.docx": [1111]}

@@ -1,0 +1,4 @@
+
+jasan	{"Nehemiah_ch_3.docx": [2286, 2301, 2301, 2301]}
+jasan	{"Nehemiah_ch_3.docx": [2286, 2301, 2301]}
+jasan	{"Nehemiah_ch_3.docx": [2286, 2301]}

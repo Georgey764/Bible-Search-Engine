@@ -1,0 +1,7 @@
+
+basis	{"1 Chronicles_ch_9.docx": [4803], "Proverbs_ch_4.docx": [575, 575, 575], "Matthew_ch_22.docx": [4325, 4325, 4325], "Luke_ch_23.docx": [1585, 1585], "John_ch_3.docx": [2045, 2045]}
+ladl	{"2 Chronicles_ch_4.docx": [1895]}
+basis	{"1 Chronicles_ch_9.docx": [4803], "Proverbs_ch_4.docx": [575, 575], "Matthew_ch_22.docx": [4325, 4325], "Luke_ch_23.docx": [1585], "John_ch_3.docx": [2045]}
+ladl	{"2 Chronicles_ch_4.docx": [1895]}
+basis	{"1 Chronicles_ch_9.docx": [4803], "Proverbs_ch_4.docx": [575], "Matthew_ch_22.docx": [4325], "Luke_ch_23.docx": [1585], "John_ch_3.docx": [2045]}
+ladl	{"2 Chronicles_ch_4.docx": [1895]}

@@ -1,0 +1,4 @@
+
+grasp	{"Ecclesiastes_ch_7.docx": [2604], "Mark_ch_9.docx": [4403, 4403], "Luke_ch_2.docx": [9086, 9086], "Luke_ch_18.docx": [4113, 4113], "Romans_ch_2.docx": [2362, 2362], "Ephesians_ch_3.docx": [355, 355]}
+grasp	{"Ecclesiastes_ch_7.docx": [2604], "Mark_ch_9.docx": [4403], "Luke_ch_2.docx": [9086], "Luke_ch_18.docx": [4113], "Romans_ch_2.docx": [2362], "Ephesians_ch_3.docx": [355]}
+grasp	{"Ecclesiastes_ch_7.docx": [2604], "Mark_ch_9.docx": [4403], "Luke_ch_2.docx": [9086], "Luke_ch_18.docx": [4113], "Romans_ch_2.docx": [2362], "Ephesians_ch_3.docx": [355]}

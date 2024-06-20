@@ -1,0 +1,7 @@
+
+thighs	{"Exodus_ch_12.docx": [1395], "Exodus_ch_28.docx": [5461, 5461, 5461], "Leviticus_ch_3.docx": [634, 1472, 2089, 634, 1472, 2089, 634, 1472, 2089], "Leviticus_ch_4.docx": [1255, 1255, 1255], "Leviticus_ch_7.docx": [463, 463, 463], "Judges_ch_15.docx": [1250, 1273, 1300, 1250, 1273, 1300, 1250, 1273, 1300], "Job_ch_15.docx": [2543, 2543, 2543], "Song of Solomon_ch_7.docx": [106, 106, 106], "Daniel_ch_2.docx": [5557, 5557, 5557]}
+loved;	{"Jeremiah_ch_49.docx": [4625]}
+thighs	{"Exodus_ch_12.docx": [1395], "Exodus_ch_28.docx": [5461, 5461], "Leviticus_ch_3.docx": [634, 1472, 2089, 634, 1472, 2089], "Leviticus_ch_4.docx": [1255, 1255], "Leviticus_ch_7.docx": [463, 463], "Judges_ch_15.docx": [1250, 1273, 1300, 1250, 1273, 1300], "Job_ch_15.docx": [2543, 2543], "Song of Solomon_ch_7.docx": [106, 106], "Daniel_ch_2.docx": [5557, 5557]}
+loved;	{"Jeremiah_ch_49.docx": [4625]}
+thighs	{"Exodus_ch_12.docx": [1395], "Exodus_ch_28.docx": [5461], "Leviticus_ch_3.docx": [634, 1472, 2089], "Leviticus_ch_4.docx": [1255], "Leviticus_ch_7.docx": [463], "Judges_ch_15.docx": [1250, 1273, 1300], "Job_ch_15.docx": [2543], "Song of Solomon_ch_7.docx": [106], "Daniel_ch_2.docx": [5557]}
+loved;	{"Jeremiah_ch_49.docx": [4625]}

@@ -1,0 +1,2 @@
+
+23wh	{"Genesis_ch_5.docx": [1628], "Exodus_ch_8.docx": [3466], "Numbers_ch_22.docx": [3123], "Job_ch_36.docx": [2288], "Proverbs_ch_30.docx": [2462], "Matthew_ch_17.docx": [2630]}

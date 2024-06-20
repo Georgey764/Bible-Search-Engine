@@ -1,0 +1,2 @@
+
+21as	{"Genesis_ch_26.docx": [2914], "Numbers_ch_13.docx": [1801], "Numbers_ch_15.docx": [2142], "Psalms_ch_69.docx": [2294], "Proverbs_ch_26.docx": [1817], "Proverbs_ch_27.docx": [1992]}

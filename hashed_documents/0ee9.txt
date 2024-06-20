@@ -1,0 +1,4 @@
+
+eliale	{"Isaiah_ch_15.docx": [586], "Isaiah_ch_16.docx": [1792, 1792, 1792]}
+eliale	{"Isaiah_ch_15.docx": [586], "Isaiah_ch_16.docx": [1792, 1792]}
+eliale	{"Isaiah_ch_15.docx": [586], "Isaiah_ch_16.docx": [1792]}

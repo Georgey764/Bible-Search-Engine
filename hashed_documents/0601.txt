@@ -1,0 +1,4 @@
+
+unac	{"Leviticus_ch_22.docx": [3346, 3659, 3659, 3659]}
+unac	{"Leviticus_ch_22.docx": [3346, 3659, 3659]}
+unac	{"Leviticus_ch_22.docx": [3346, 3659]}

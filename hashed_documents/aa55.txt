@@ -1,0 +1,4 @@
+
+zion’	{"Psalms_ch_9.docx": [1317], "Psalms_ch_126.docx": [92, 92, 92], "Psalms_ch_149.docx": [156, 156, 156], "Isaiah_ch_16.docx": [81, 81, 81], "Isaiah_ch_24.docx": [3767, 3767, 3767], "Isaiah_ch_25.docx": [675, 675, 675], "Lamentations_ch_2.docx": [4025, 4025, 4025]}
+zion’	{"Psalms_ch_9.docx": [1317], "Psalms_ch_126.docx": [92, 92], "Psalms_ch_149.docx": [156, 156], "Isaiah_ch_16.docx": [81, 81], "Isaiah_ch_24.docx": [3767, 3767], "Isaiah_ch_25.docx": [675, 675], "Lamentations_ch_2.docx": [4025, 4025]}
+zion’	{"Psalms_ch_9.docx": [1317], "Psalms_ch_126.docx": [92], "Psalms_ch_149.docx": [156], "Isaiah_ch_16.docx": [81], "Isaiah_ch_24.docx": [3767], "Isaiah_ch_25.docx": [675], "Lamentations_ch_2.docx": [4025]}

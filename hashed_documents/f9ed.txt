@@ -1,0 +1,4 @@
+
+hour!	{"Daniel_ch_4.docx": [6265], "John_ch_12.docx": [3817, 3817], "Revelation_ch_18.docx": [1863, 2926, 3479, 1863, 2926, 3479]}
+hour!	{"Daniel_ch_4.docx": [6265], "John_ch_12.docx": [3817], "Revelation_ch_18.docx": [1863, 2926, 3479]}
+hour!	{"Daniel_ch_4.docx": [6265], "John_ch_12.docx": [3817], "Revelation_ch_18.docx": [1863, 2926, 3479]}

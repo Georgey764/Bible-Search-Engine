@@ -1,0 +1,5 @@
+
+eliada	{"1 Kings_ch_11.docx": [3305], "1 Chronicles_ch_3.docx": [739, 739, 739], "2 Chronicles_ch_17.docx": [2194, 2194, 2194]}
+22‘[i	{"Judges_ch_2.docx": [4879]}
+eliada	{"1 Kings_ch_11.docx": [3305], "1 Chronicles_ch_3.docx": [739, 739], "2 Chronicles_ch_17.docx": [2194, 2194]}
+eliada	{"1 Kings_ch_11.docx": [3305], "1 Chronicles_ch_3.docx": [739], "2 Chronicles_ch_17.docx": [2194]}

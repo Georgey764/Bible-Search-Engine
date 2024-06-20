@@ -1,0 +1,4 @@
+
+proces	{"2 Samuel_ch_3.docx": [4719], "2 Kings_ch_13.docx": [3446, 3446, 3446], "1 Chronicles_ch_13.docx": [860, 860, 860], "Jeremiah_ch_16.docx": [698, 698, 698]}
+proces	{"2 Samuel_ch_3.docx": [4719], "2 Kings_ch_13.docx": [3446, 3446], "1 Chronicles_ch_13.docx": [860, 860], "Jeremiah_ch_16.docx": [698, 698]}
+proces	{"2 Samuel_ch_3.docx": [4719], "2 Kings_ch_13.docx": [3446], "1 Chronicles_ch_13.docx": [860], "Jeremiah_ch_16.docx": [698]}

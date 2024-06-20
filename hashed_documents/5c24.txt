@@ -1,0 +1,7 @@
+
+croco	{"Leviticus_ch_11.docx": [3299]}
+sneaks	{"Deuteronomy_ch_19.docx": [1723]}
+croco	{"Leviticus_ch_11.docx": [3299]}
+sneaks	{"Deuteronomy_ch_19.docx": [1723]}
+croco	{"Leviticus_ch_11.docx": [3299]}
+sneaks	{"Deuteronomy_ch_19.docx": [1723]}

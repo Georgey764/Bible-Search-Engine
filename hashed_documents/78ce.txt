@@ -1,0 +1,5 @@
+
+swerve	{"Deuteronomy_ch_17.docx": [3329], "Deuteronomy_ch_28.docx": [1922, 1922, 1922], "Joshua_ch_1.docx": [914, 914, 914], "2 Kings_ch_22.docx": [216, 216, 216], "Job_ch_23.docx": [989, 989, 989]}
+swerve	{"Deuteronomy_ch_17.docx": [3329], "Deuteronomy_ch_28.docx": [1922, 1922], "Joshua_ch_1.docx": [914, 914], "2 Kings_ch_22.docx": [216, 216], "Job_ch_23.docx": [989, 989]}
+8build	{"Proverbs_ch_4.docx": [733]}
+swerve	{"Deuteronomy_ch_17.docx": [3329], "Deuteronomy_ch_28.docx": [1922], "Joshua_ch_1.docx": [914], "2 Kings_ch_22.docx": [216], "Job_ch_23.docx": [989]}

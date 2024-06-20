@@ -1,0 +1,4 @@
+
+commot	{"1 Kings_ch_1.docx": [5762], "Matthew_ch_26.docx": [429, 429, 429], "Mark_ch_14.docx": [231, 231]}
+commot	{"1 Kings_ch_1.docx": [5762], "Matthew_ch_26.docx": [429, 429], "Mark_ch_14.docx": [231]}
+commot	{"1 Kings_ch_1.docx": [5762], "Matthew_ch_26.docx": [429], "Mark_ch_14.docx": [231]}

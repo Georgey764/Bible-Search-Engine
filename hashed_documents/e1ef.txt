@@ -1,0 +1,4 @@
+
+amaria	{"2 Chronicles_ch_19.docx": [1696], "2 Chronicles_ch_31.docx": [2671, 2671, 2671], "Nehemiah_ch_12.docx": [154, 1108, 1108, 154, 1108], "Zephaniah_ch_1.docx": [20, 20, 20]}
+amaria	{"2 Chronicles_ch_19.docx": [1696], "2 Chronicles_ch_31.docx": [2671, 2671], "Nehemiah_ch_12.docx": [1108, 154, 1108], "Zephaniah_ch_1.docx": [20, 20]}
+amaria	{"2 Chronicles_ch_19.docx": [1696], "2 Chronicles_ch_31.docx": [2671], "Nehemiah_ch_12.docx": [154, 1108], "Zephaniah_ch_1.docx": [20]}

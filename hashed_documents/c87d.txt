@@ -1,0 +1,4 @@
+
+ceas	{"1 Samuel_ch_12.docx": [3872], "Isaiah_ch_1.docx": [3893, 3893, 3893], "Isaiah_ch_7.docx": [3330, 3330, 3330], "Isaiah_ch_16.docx": [2097, 2097, 2097], "Isaiah_ch_24.docx": [1208, 1685, 2058, 1208, 1685, 2058, 1208, 1685, 2058], "Isaiah_ch_38.docx": [2883, 2883, 2883], "Isaiah_ch_51.docx": [2344, 2344, 2344], "Jeremiah_ch_44.docx": [5980, 5980, 5980]}
+ceas	{"1 Samuel_ch_12.docx": [3872], "Isaiah_ch_1.docx": [3893, 3893], "Isaiah_ch_7.docx": [3330, 3330], "Isaiah_ch_16.docx": [2097, 2097], "Isaiah_ch_24.docx": [1208, 1685, 2058, 1208, 1685, 2058], "Isaiah_ch_38.docx": [2883, 2883], "Isaiah_ch_51.docx": [2344, 2344], "Jeremiah_ch_44.docx": [5980, 5980]}
+ceas	{"1 Samuel_ch_12.docx": [3872], "Isaiah_ch_1.docx": [3893], "Isaiah_ch_7.docx": [3330], "Isaiah_ch_16.docx": [2097], "Isaiah_ch_24.docx": [1208, 1685, 2058], "Isaiah_ch_38.docx": [2883], "Isaiah_ch_51.docx": [2344], "Jeremiah_ch_44.docx": [5980]}

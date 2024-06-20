@@ -1,0 +1,4 @@
+
+bird’s	{"Deuteronomy_ch_22.docx": [863], "Isaiah_ch_10.docx": [2038, 2038, 2038], "Daniel_ch_4.docx": [6304, 6304, 6304]}
+bird’s	{"Deuteronomy_ch_22.docx": [863], "Isaiah_ch_10.docx": [2038, 2038], "Daniel_ch_4.docx": [6304, 6304]}
+bird’s	{"Deuteronomy_ch_22.docx": [863], "Isaiah_ch_10.docx": [2038], "Daniel_ch_4.docx": [6304]}

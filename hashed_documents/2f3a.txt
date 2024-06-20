@@ -1,0 +1,5 @@
+
+magic	{"Exodus_ch_7.docx": [1352, 3247, 3247, 3247], "Exodus_ch_8.docx": [876, 2597, 876, 2597, 876, 2597], "Isaiah_ch_47.docx": [2363, 2363, 2363], "Isaiah_ch_65.docx": [1879, 1879, 1879], "Hosea_ch_4.docx": [1800, 1800, 1800], "Acts_ch_8.docx": [2652, 2671, 2691, 3211, 2652, 2671, 2691, 3211], "Acts_ch_19.docx": [4460, 4460]}
+magic	{"Exodus_ch_7.docx": [1352, 3247, 3247], "Exodus_ch_8.docx": [876, 2597, 876, 2597], "Isaiah_ch_47.docx": [2363, 2363], "Isaiah_ch_65.docx": [1879, 1879], "Hosea_ch_4.docx": [1800, 1800], "Acts_ch_8.docx": [2652, 2671, 2691, 3211], "Acts_ch_19.docx": [4460]}
+2awake	{"Psalms_ch_80.docx": [269], "Psalms_ch_108.docx": [110]}
+magic	{"Exodus_ch_7.docx": [1352, 3247], "Exodus_ch_8.docx": [876, 2597], "Isaiah_ch_47.docx": [2363], "Isaiah_ch_65.docx": [1879], "Hosea_ch_4.docx": [1800], "Acts_ch_8.docx": [2652, 2671, 2691, 3211], "Acts_ch_19.docx": [4460]}

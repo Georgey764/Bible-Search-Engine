@@ -1,0 +1,4 @@
+
+mater	{"Exodus_ch_31.docx": [326], "Exodus_ch_33.docx": [964, 964, 964], "Exodus_ch_35.docx": [2919, 2919, 2919], "Exodus_ch_36.docx": [939, 939, 939], "Exodus_ch_39.docx": [4046, 4046, 4046], "Leviticus_ch_19.docx": [2561, 2561, 2561], "1 Kings_ch_7.docx": [6217, 6217, 6217]}
+mater	{"Exodus_ch_31.docx": [326], "Exodus_ch_33.docx": [964, 964], "Exodus_ch_35.docx": [2919, 2919], "Exodus_ch_36.docx": [939, 939], "Exodus_ch_39.docx": [4046, 4046], "Leviticus_ch_19.docx": [2561, 2561], "1 Kings_ch_7.docx": [6217, 6217]}
+mater	{"Exodus_ch_31.docx": [326], "Exodus_ch_33.docx": [964], "Exodus_ch_35.docx": [2919], "Exodus_ch_36.docx": [939], "Exodus_ch_39.docx": [4046], "Leviticus_ch_19.docx": [2561], "1 Kings_ch_7.docx": [6217]}

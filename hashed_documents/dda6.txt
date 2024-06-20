@@ -1,0 +1,2 @@
+
+16‘yes	{"Deuteronomy_ch_26.docx": [2684], "Isaiah_ch_38.docx": [2236], "Isaiah_ch_41.docx": [2639], "Jeremiah_ch_14.docx": [2672], "Jeremiah_ch_46.docx": [2477], "Joel_ch_2.docx": [2687]}

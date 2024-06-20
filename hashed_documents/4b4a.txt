@@ -1,0 +1,4 @@
+
+ridg	{"1 Kings_ch_7.docx": [2553], "2 Chronicles_ch_20.docx": [4173, 4173, 4173]}
+ridg	{"1 Kings_ch_7.docx": [2553], "2 Chronicles_ch_20.docx": [4173, 4173]}
+ridg	{"1 Kings_ch_7.docx": [2553], "2 Chronicles_ch_20.docx": [4173]}

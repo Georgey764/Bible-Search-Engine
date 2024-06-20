@@ -1,0 +1,5 @@
+
+formu	{"Exodus_ch_30.docx": [3130, 3873, 4524, 3873, 4524, 3873, 4524]}
+formu	{"Exodus_ch_30.docx": [3130, 3873, 4524, 3873, 4524]}
+14‘ol	{"Ezekiel_ch_45.docx": [2694]}
+formu	{"Exodus_ch_30.docx": [3130, 3873, 4524]}

@@ -1,0 +1,8 @@
+
+zodia	{"2 Kings_ch_23.docx": [1221], "Jeremiah_ch_10.docx": [124, 124, 124], "Jeremiah_ch_19.docx": [2677, 2677, 2677]}
+joac	{"1 Chronicles_ch_5.docx": [1654], "2 Chronicles_ch_29.docx": [2025, 2025, 2025]}
+33for	{"Exodus_ch_23.docx": [4430], "Leviticus_ch_26.docx": [4019], "Numbers_ch_22.docx": [4693], "Judges_ch_20.docx": [4543], "1 Samuel_ch_2.docx": [6085], "1 Chronicles_ch_16.docx": [3415], "Psalms_ch_69.docx": [3363], "Psalms_ch_106.docx": [3080], "Proverbs_ch_6.docx": [3366], "Daniel_ch_11.docx": [6115]}
+zodia	{"2 Kings_ch_23.docx": [1221], "Jeremiah_ch_10.docx": [124, 124], "Jeremiah_ch_19.docx": [2677, 2677]}
+joac	{"1 Chronicles_ch_5.docx": [1654], "2 Chronicles_ch_29.docx": [2025, 2025]}
+zodia	{"2 Kings_ch_23.docx": [1221], "Jeremiah_ch_10.docx": [124], "Jeremiah_ch_19.docx": [2677]}
+joac	{"1 Chronicles_ch_5.docx": [1654], "2 Chronicles_ch_29.docx": [2025]}

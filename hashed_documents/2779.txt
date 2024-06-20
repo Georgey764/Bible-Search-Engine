@@ -1,0 +1,5 @@
+
+beckon	{"Proverbs_ch_6.docx": [1313], "Proverbs_ch_18.docx": [532, 532, 532], "Isaiah_ch_3.docx": [2554, 2554, 2554]}
+12‘thi	{"Genesis_ch_18.docx": [1574], "Isaiah_ch_16.docx": [2235]}
+beckon	{"Proverbs_ch_6.docx": [1313], "Proverbs_ch_18.docx": [532, 532], "Isaiah_ch_3.docx": [2554, 2554]}
+beckon	{"Proverbs_ch_6.docx": [1313], "Proverbs_ch_18.docx": [532], "Isaiah_ch_3.docx": [2554]}

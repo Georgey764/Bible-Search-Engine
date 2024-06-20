@@ -1,0 +1,4 @@
+
+zai	{"2 Kings_ch_8.docx": [3668], "1 Chronicles_ch_7.docx": [1424, 1424, 1424]}
+zai	{"2 Kings_ch_8.docx": [3668], "1 Chronicles_ch_7.docx": [1424, 1424]}
+zai	{"2 Kings_ch_8.docx": [3668], "1 Chronicles_ch_7.docx": [1424]}

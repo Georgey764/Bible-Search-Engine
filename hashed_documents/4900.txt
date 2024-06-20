@@ -1,0 +1,4 @@
+
+ariel	{"Numbers_ch_26.docx": [2795, 2800, 2800, 2800], "2 Samuel_ch_23.docx": [3399, 3399, 3399], "Ezra_ch_8.docx": [1771, 1771, 1771], "Isaiah_ch_15.docx": [1522, 1522, 1522]}
+ariel	{"Numbers_ch_26.docx": [2795, 2800, 2800], "2 Samuel_ch_23.docx": [3399, 3399], "Ezra_ch_8.docx": [1771, 1771], "Isaiah_ch_15.docx": [1522, 1522]}
+ariel	{"Numbers_ch_26.docx": [2795, 2800], "2 Samuel_ch_23.docx": [3399], "Ezra_ch_8.docx": [1771], "Isaiah_ch_15.docx": [1522]}

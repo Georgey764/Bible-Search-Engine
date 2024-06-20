@@ -1,0 +1,4 @@
+
+jub	{"Genesis_ch_4.docx": [2351], "1 Samuel_ch_11.docx": [1549, 1549, 1549]}
+jub	{"Genesis_ch_4.docx": [2351], "1 Samuel_ch_11.docx": [1549, 1549]}
+jub	{"Genesis_ch_4.docx": [2351], "1 Samuel_ch_11.docx": [1549]}

@@ -1,0 +1,6 @@
+
+maasij	{"1 Chronicles_ch_24.docx": [1915], "Nehemiah_ch_12.docx": [11642, 11642, 11642]}
+70t	{"1 Chronicles_ch_6.docx": [5871], "Nehemiah_ch_7.docx": [4415], "Psalms_ch_78.docx": [6751], "Zechariah_ch_1.docx": [2222]}
+maasij	{"1 Chronicles_ch_24.docx": [1915], "Nehemiah_ch_12.docx": [11642, 11642]}
+15‘rat	{"Psalms_ch_144.docx": [1672]}
+maasij	{"1 Chronicles_ch_24.docx": [1915], "Nehemiah_ch_12.docx": [11642]}

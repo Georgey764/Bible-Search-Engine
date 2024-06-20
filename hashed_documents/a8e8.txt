@@ -1,0 +1,4 @@
+
+cry;	{"Ecclesiastes_ch_3.docx": [292], "Isaiah_ch_15.docx": [658, 658, 658], "Jeremiah_ch_48.docx": [4540, 4540, 4540], "1 Corinthians_ch_7.docx": [3775, 3775]}
+cry;	{"Ecclesiastes_ch_3.docx": [292], "Isaiah_ch_15.docx": [658, 658], "Jeremiah_ch_48.docx": [4540, 4540], "1 Corinthians_ch_7.docx": [3775]}
+cry;	{"Ecclesiastes_ch_3.docx": [292], "Isaiah_ch_15.docx": [658], "Jeremiah_ch_48.docx": [4540], "1 Corinthians_ch_7.docx": [3775]}

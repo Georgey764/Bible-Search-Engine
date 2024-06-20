@@ -1,0 +1,4 @@
+
+hoar	{"Proverbs_ch_11.docx": [2640], "Joel_ch_2.docx": [961, 1898, 961, 1898, 961, 1898], "Matthew_ch_9.docx": [3668, 3668, 3668]}
+hoar	{"Proverbs_ch_11.docx": [2640], "Joel_ch_2.docx": [961, 1898, 961, 1898], "Matthew_ch_9.docx": [3668, 3668]}
+hoar	{"Proverbs_ch_11.docx": [2640], "Joel_ch_2.docx": [961, 1898], "Matthew_ch_9.docx": [3668]}

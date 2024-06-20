@@ -1,0 +1,8 @@
+
+wish;	{"Deuteronomy_ch_12.docx": [2853], "Mark_ch_14.docx": [938, 938]}
+joadee	{"2 Kings_ch_14.docx": [51]}
+wish;	{"Deuteronomy_ch_12.docx": [2853], "Mark_ch_14.docx": [938]}
+joadee	{"2 Kings_ch_14.docx": [51]}
+25[for	{"Jeremiah_ch_31.docx": [4745]}
+wish;	{"Deuteronomy_ch_12.docx": [2853], "Mark_ch_14.docx": [938]}
+joadee	{"2 Kings_ch_14.docx": [51]}

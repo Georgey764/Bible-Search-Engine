@@ -1,0 +1,4 @@
+
+white;	{"Leviticus_ch_13.docx": [2668, 3321, 3321, 3321]}
+white;	{"Leviticus_ch_13.docx": [2668, 3321, 3321]}
+white;	{"Leviticus_ch_13.docx": [2668, 3321]}

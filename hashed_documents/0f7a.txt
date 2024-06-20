@@ -1,0 +1,4 @@
+
+amman	{"2 Samuel_ch_2.docx": [3440], "2 Samuel_ch_23.docx": [4957, 4957, 4957], "1 Chronicles_ch_2.docx": [4618, 4618, 4618]}
+amman	{"2 Samuel_ch_2.docx": [3440], "2 Samuel_ch_23.docx": [4957, 4957], "1 Chronicles_ch_2.docx": [4618, 4618]}
+amman	{"2 Samuel_ch_2.docx": [3440], "2 Samuel_ch_23.docx": [4957], "1 Chronicles_ch_2.docx": [4618]}

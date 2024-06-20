@@ -1,0 +1,7 @@
+
+elmoda	{"Genesis_ch_10.docx": [2936]}
+gozan	{"2 Kings_ch_17.docx": [726], "2 Kings_ch_18.docx": [1479, 1479, 1479], "2 Kings_ch_19.docx": [2023, 2023, 2023], "1 Chronicles_ch_5.docx": [3482, 3482, 3482], "Isaiah_ch_37.docx": [1910, 1910, 1910]}
+elmoda	{"Genesis_ch_10.docx": [2936]}
+gozan	{"2 Kings_ch_17.docx": [726], "2 Kings_ch_18.docx": [1479, 1479], "2 Kings_ch_19.docx": [2023, 2023], "1 Chronicles_ch_5.docx": [3482, 3482], "Isaiah_ch_37.docx": [1910, 1910]}
+elmoda	{"Genesis_ch_10.docx": [2936]}
+gozan	{"2 Kings_ch_17.docx": [726], "2 Kings_ch_18.docx": [1479], "2 Kings_ch_19.docx": [2023], "1 Chronicles_ch_5.docx": [3482], "Isaiah_ch_37.docx": [1910]}

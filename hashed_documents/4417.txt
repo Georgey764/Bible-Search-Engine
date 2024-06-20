@@ -1,0 +1,4 @@
+
+sparin	{"Job_ch_37.docx": [1180], "Proverbs_ch_25.docx": [1636, 1636]}
+sparin	{"Proverbs_ch_25.docx": [1636, 1636]}
+sparin	{"Job_ch_37.docx": [1180], "Proverbs_ch_25.docx": [1636]}

@@ -1,0 +1,3 @@
+
+29b	{"Genesis_ch_11.docx": [3285], "Genesis_ch_35.docx": [3503], "Genesis_ch_38.docx": [4081], "Numbers_ch_11.docx": [4578], "Joshua_ch_15.docx": [4345], "1 Samuel_ch_17.docx": [4373], "2 Samuel_ch_14.docx": [4630], "2 Samuel_ch_22.docx": [2775], "1 Kings_ch_11.docx": [4162], "Job_ch_36.docx": [3035], "Psalms_ch_37.docx": [2790], "Psalms_ch_104.docx": [2902], "Proverbs_ch_1.docx": [3002], "Isaiah_ch_41.docx": [5174], "Matthew_ch_7.docx": [3205], "Matthew_ch_25.docx": [3263]}
+34‘w	{"Leviticus_ch_14.docx": [5160], "Deuteronomy_ch_4.docx": [5230]}

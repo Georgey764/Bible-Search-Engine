@@ -1,0 +1,7 @@
+
+lapi	{"Judges_ch_4.docx": [788]}
+effec	{"Jeremiah_ch_2.docx": [1770], "1 Timothy_ch_1.docx": [932, 932]}
+lapi	{"Judges_ch_4.docx": [788]}
+effec	{"Jeremiah_ch_2.docx": [1770], "1 Timothy_ch_1.docx": [932]}
+lapi	{"Judges_ch_4.docx": [788]}
+effec	{"Jeremiah_ch_2.docx": [1770], "1 Timothy_ch_1.docx": [932]}

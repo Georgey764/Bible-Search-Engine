@@ -1,0 +1,6 @@
+
+arisen	{"Psalms_ch_85.docx": [948], "Isaiah_ch_3.docx": [2085, 2085, 2085], "Isaiah_ch_14.docx": [1370, 1370, 1370], "Jeremiah_ch_4.docx": [1312, 2401, 1312, 2401, 1312, 2401], "Acts_ch_7.docx": [2370, 2370], "Acts_ch_10.docx": [541, 541]}
+surplu	{"Luke_ch_21.docx": [425]}
+arisen	{"Psalms_ch_85.docx": [948], "Isaiah_ch_3.docx": [2085, 2085], "Isaiah_ch_14.docx": [1370, 1370], "Jeremiah_ch_4.docx": [1312, 2401, 1312, 2401], "Acts_ch_7.docx": [2370], "Acts_ch_10.docx": [541]}
+arisen	{"Psalms_ch_85.docx": [948], "Isaiah_ch_3.docx": [2085], "Isaiah_ch_14.docx": [1370], "Jeremiah_ch_4.docx": [1312, 2401], "Acts_ch_7.docx": [2370], "Acts_ch_10.docx": [541]}
+surplu	{"Luke_ch_21.docx": [425]}

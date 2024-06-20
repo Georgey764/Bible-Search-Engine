@@ -1,0 +1,4 @@
+
+fees	{"1 Kings_ch_10.docx": [4582], "2 Chronicles_ch_1.docx": [2543, 2543, 2543]}
+fees	{"1 Kings_ch_10.docx": [4582], "2 Chronicles_ch_1.docx": [2543, 2543]}
+fees	{"1 Kings_ch_10.docx": [4582], "2 Chronicles_ch_1.docx": [2543]}

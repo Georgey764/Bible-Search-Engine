@@ -1,0 +1,7 @@
+
+stylus	{"Jeremiah_ch_17.docx": [96]}
+jannes	{"2 Timothy_ch_3.docx": [1349, 1574, 1574]}
+49‘t	{"Leviticus_ch_14.docx": [7290], "Ezekiel_ch_16.docx": [7943]}
+stylus	{"Jeremiah_ch_17.docx": [96]}
+stylus	{"Jeremiah_ch_17.docx": [96]}
+jannes	{"2 Timothy_ch_3.docx": [1349, 1574]}

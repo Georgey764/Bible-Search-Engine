@@ -1,0 +1,4 @@
+
+pupi	{"Psalms_ch_17.docx": [834], "Proverbs_ch_7.docx": [240, 240, 240], "Proverbs_ch_20.docx": [1367, 1367, 1367], "Zechariah_ch_2.docx": [983, 983, 983]}
+pupi	{"Psalms_ch_17.docx": [834], "Proverbs_ch_7.docx": [240, 240], "Proverbs_ch_20.docx": [1367, 1367], "Zechariah_ch_2.docx": [983, 983]}
+pupi	{"Psalms_ch_17.docx": [834], "Proverbs_ch_7.docx": [240], "Proverbs_ch_20.docx": [1367], "Zechariah_ch_2.docx": [983]}

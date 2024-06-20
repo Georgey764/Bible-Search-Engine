@@ -1,0 +1,6 @@
+
+ dab	{"1 Chronicles_ch_6.docx": [4796]}
+reci	{"Philippians_ch_2.docx": [3580]}
+ dab	{"1 Chronicles_ch_6.docx": [4796]}
+ dab	{"1 Chronicles_ch_6.docx": [4796]}
+reci	{"Philippians_ch_2.docx": [3580]}

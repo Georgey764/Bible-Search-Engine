@@ -1,0 +1,4 @@
+
+rarer	{"Isaiah_ch_13.docx": [1772, 1823, 1823, 1823]}
+rarer	{"Isaiah_ch_13.docx": [1772, 1823, 1823]}
+rarer	{"Isaiah_ch_13.docx": [1772, 1823]}

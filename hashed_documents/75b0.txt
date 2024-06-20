@@ -1,0 +1,4 @@
+
+blazed	{"Psalms_ch_106.docx": [1624], "Jeremiah_ch_20.docx": [1727, 1727, 1727]}
+blazed	{"Psalms_ch_106.docx": [1624], "Jeremiah_ch_20.docx": [1727, 1727]}
+blazed	{"Psalms_ch_106.docx": [1624], "Jeremiah_ch_20.docx": [1727]}

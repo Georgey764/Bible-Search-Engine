@@ -1,0 +1,5 @@
+
+18[	{"Genesis_ch_25.docx": [1758], "Deuteronomy_ch_27.docx": [2528], "Deuteronomy_ch_28.docx": [2361], "1 Chronicles_ch_7.docx": [2275], "1 Chronicles_ch_27.docx": [2343], "1 Chronicles_ch_28.docx": [3312], "Ezra_ch_4.docx": [3023], "Psalms_ch_35.docx": [1788], "Psalms_ch_104.docx": [1856], "Jeremiah_ch_11.docx": [3430], "Jeremiah_ch_27.docx": [3156], "Jeremiah_ch_41.docx": [2427]}
+9every	{"Exodus_ch_25.docx": [849], "1 Kings_ch_7.docx": [1119]}
+26(tho	{"Jeremiah_ch_9.docx": [4629]}
+10[and	{"Jeremiah_ch_12.docx": [1603], "Hosea_ch_11.docx": [1620]}

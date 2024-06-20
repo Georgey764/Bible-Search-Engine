@@ -1,0 +1,6 @@
+
+miphi	{"1 Chronicles_ch_2.docx": [4741]}
+21‘ye	{"Genesis_ch_6.docx": [2947], "Isaiah_ch_42.docx": [3109], "Jeremiah_ch_2.docx": [3361], "Ezekiel_ch_7.docx": [3446], "Ezekiel_ch_16.docx": [3382]}
+miphi	{"1 Chronicles_ch_2.docx": [4741]}
+9‘it’	{"Ecclesiastes_ch_6.docx": [1073], "Jeremiah_ch_10.docx": [1106]}
+miphi	{"1 Chronicles_ch_2.docx": [4741]}

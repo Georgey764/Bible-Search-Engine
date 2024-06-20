@@ -1,0 +1,5 @@
+
+balac	{"Genesis_ch_14.docx": [342, 1055, 1055, 1055], "Genesis_ch_36.docx": [3368, 3447, 3447, 3368, 3447]}
+balac	{"Genesis_ch_14.docx": [342, 1055, 1055], "Genesis_ch_36.docx": [3447, 3368, 3447]}
+14u	{"Psalms_ch_17.docx": [1446]}
+balac	{"Genesis_ch_14.docx": [342, 1055], "Genesis_ch_36.docx": [3368, 3447]}

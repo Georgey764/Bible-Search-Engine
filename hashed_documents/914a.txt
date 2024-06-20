@@ -1,0 +1,4 @@
+
+honeyc	{"1 Samuel_ch_14.docx": [4425], "Proverbs_ch_27.docx": [529, 529, 529], "Ezekiel_ch_20.docx": [1041, 2650, 1041, 2650, 1041, 2650]}
+honeyc	{"1 Samuel_ch_14.docx": [4425], "Proverbs_ch_27.docx": [529, 529], "Ezekiel_ch_20.docx": [1041, 2650, 1041, 2650]}
+honeyc	{"1 Samuel_ch_14.docx": [4425], "Proverbs_ch_27.docx": [529], "Ezekiel_ch_20.docx": [1041, 2650]}

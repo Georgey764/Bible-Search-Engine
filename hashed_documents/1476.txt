@@ -1,0 +1,4 @@
+
+haman’	{"Esther_ch_3.docx": [1890], "Esther_ch_9.docx": [2928, 2928, 2928]}
+haman’	{"Esther_ch_3.docx": [1890], "Esther_ch_9.docx": [2928, 2928]}
+haman’	{"Esther_ch_3.docx": [1890], "Esther_ch_9.docx": [2928]}

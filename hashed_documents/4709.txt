@@ -1,0 +1,4 @@
+
+canal	{"Exodus_ch_7.docx": [2595], "Exodus_ch_8.docx": [595, 595, 595], "Isaiah_ch_41.docx": [3229, 3229, 3229]}
+canal	{"Exodus_ch_7.docx": [2595], "Exodus_ch_8.docx": [595, 595], "Isaiah_ch_41.docx": [3229, 3229]}
+canal	{"Exodus_ch_7.docx": [2595], "Exodus_ch_8.docx": [595], "Isaiah_ch_41.docx": [3229]}

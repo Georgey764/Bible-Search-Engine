@@ -1,0 +1,4 @@
+
+thal	{"Joshua_ch_19.docx": [371], "1 Chronicles_ch_6.docx": [6696, 6696, 6696], "1 Chronicles_ch_7.docx": [3101, 3168, 3101, 3168, 3101, 3168]}
+thal	{"Joshua_ch_19.docx": [371], "1 Chronicles_ch_6.docx": [6696, 6696], "1 Chronicles_ch_7.docx": [3101, 3168, 3101, 3168]}
+thal	{"Joshua_ch_19.docx": [371], "1 Chronicles_ch_6.docx": [6696], "1 Chronicles_ch_7.docx": [3101, 3168]}

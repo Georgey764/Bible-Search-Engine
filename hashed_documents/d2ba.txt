@@ -1,0 +1,2 @@
+
+10o	{"Deuteronomy_ch_18.docx": [1293], "2 Chronicles_ch_5.docx": [1262], "Psalms_ch_2.docx": [1123], "Psalms_ch_48.docx": [881], "Psalms_ch_51.docx": [1140], "Psalms_ch_60.docx": [1341], "Psalms_ch_74.docx": [970], "Psalms_ch_90.docx": [1009], "Psalms_ch_146.docx": [910], "Proverbs_ch_1.docx": [1006], "Jeremiah_ch_48.docx": [1235], "Amos_ch_5.docx": [1885], "Matthew_ch_7.docx": [1155], "Matthew_ch_10.docx": [1037], "Matthew_ch_16.docx": [1160]}

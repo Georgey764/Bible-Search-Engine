@@ -1,0 +1,4 @@
+
+agga	{"Genesis_ch_12.docx": [1007], "Genesis_ch_13.docx": [242, 242, 242]}
+agga	{"Genesis_ch_12.docx": [1007], "Genesis_ch_13.docx": [242, 242]}
+agga	{"Genesis_ch_12.docx": [1007], "Genesis_ch_13.docx": [242]}

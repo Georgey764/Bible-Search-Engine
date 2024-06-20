@@ -1,0 +1,4 @@
+
+seth	{"Genesis_ch_4.docx": [2929, 3123, 3123, 3123], "Genesis_ch_5.docx": [268, 358, 494, 522, 268, 358, 494, 522, 268, 358, 494, 522], "Numbers_ch_24.docx": [2418, 2418, 2418], "Joshua_ch_15.docx": [4438, 4438, 4438], "1 Chronicles_ch_1.docx": [37, 37, 37], "Isaiah_ch_16.docx": [1246, 1246, 1246], "Luke_ch_3.docx": [7272, 7272]}
+seth	{"Genesis_ch_4.docx": [2929, 3123, 3123], "Genesis_ch_5.docx": [268, 358, 494, 522, 268, 358, 494, 522], "Numbers_ch_24.docx": [2418, 2418], "Joshua_ch_15.docx": [4438, 4438], "1 Chronicles_ch_1.docx": [37, 37], "Isaiah_ch_16.docx": [1246, 1246], "Luke_ch_3.docx": [7272]}
+seth	{"Genesis_ch_4.docx": [2929, 3123], "Genesis_ch_5.docx": [268, 358, 494, 522], "Numbers_ch_24.docx": [2418], "Joshua_ch_15.docx": [4438], "1 Chronicles_ch_1.docx": [37], "Isaiah_ch_16.docx": [1246], "Luke_ch_3.docx": [7272]}

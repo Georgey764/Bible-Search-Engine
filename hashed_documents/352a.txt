@@ -1,0 +1,4 @@
+
+warm;	{"Isaiah_ch_44.docx": [2405], "Haggai_ch_1.docx": [986, 986, 986]}
+warm;	{"Isaiah_ch_44.docx": [2405], "Haggai_ch_1.docx": [986, 986]}
+warm;	{"Isaiah_ch_44.docx": [2405], "Haggai_ch_1.docx": [986]}

@@ -1,0 +1,4 @@
+
+jovan	{"Genesis_ch_10.docx": [243, 489, 489]}
+jovan	{"Genesis_ch_10.docx": [243, 489]}
+jovan	{"Genesis_ch_10.docx": [243, 489]}

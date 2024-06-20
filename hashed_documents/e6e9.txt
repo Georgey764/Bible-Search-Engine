@@ -1,0 +1,4 @@
+
+want;	{"Zephaniah_ch_1.docx": [339]}
+want;	{"Zephaniah_ch_1.docx": [339]}
+want;	{"Zephaniah_ch_1.docx": [339]}

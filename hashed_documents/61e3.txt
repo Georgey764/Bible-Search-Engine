@@ -1,0 +1,4 @@
+
+stops	{"Leviticus_ch_15.docx": [3936], "Luke_ch_9.docx": [5443, 5443]}
+stops	{"Leviticus_ch_15.docx": [3936], "Luke_ch_9.docx": [5443]}
+stops	{"Leviticus_ch_15.docx": [3936], "Luke_ch_9.docx": [5443]}

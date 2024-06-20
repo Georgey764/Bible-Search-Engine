@@ -1,0 +1,4 @@
+
+pled	{"Deuteronomy_ch_24.docx": [1718], "1 Thessalonians_ch_4.docx": [1195, 1195]}
+pled	{"Deuteronomy_ch_24.docx": [1718], "1 Thessalonians_ch_4.docx": [1195]}
+pled	{"Deuteronomy_ch_24.docx": [1718], "1 Thessalonians_ch_4.docx": [1195]}

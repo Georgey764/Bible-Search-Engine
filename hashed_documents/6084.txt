@@ -1,0 +1,4 @@
+
+gaun	{"Numbers_ch_26.docx": [5013, 5018, 5018, 5018]}
+gaun	{"Numbers_ch_26.docx": [5013, 5018, 5018]}
+gaun	{"Numbers_ch_26.docx": [5013, 5018]}

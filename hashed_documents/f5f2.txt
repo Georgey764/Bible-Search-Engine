@@ -1,0 +1,4 @@
+
+doing!	{"1 Kings_ch_14.docx": [4303], "2 Kings_ch_17.docx": [7103, 7103, 7103], "Jeremiah_ch_4.docx": [805, 805, 805], "Jeremiah_ch_11.docx": [3476, 3476, 3476], "Ezekiel_ch_5.docx": [1828, 1828, 1828], "Amos_ch_7.docx": [469, 469, 469], "John_ch_14.docx": [1195, 1195]}
+doing!	{"1 Kings_ch_14.docx": [4303], "2 Kings_ch_17.docx": [7103, 7103], "Jeremiah_ch_4.docx": [805, 805], "Jeremiah_ch_11.docx": [3476, 3476], "Ezekiel_ch_5.docx": [1828, 1828], "Amos_ch_7.docx": [469, 469], "John_ch_14.docx": [1195]}
+doing!	{"1 Kings_ch_14.docx": [4303], "2 Kings_ch_17.docx": [7103], "Jeremiah_ch_4.docx": [805], "Jeremiah_ch_11.docx": [3476], "Ezekiel_ch_5.docx": [1828], "Amos_ch_7.docx": [469], "John_ch_14.docx": [1195]}

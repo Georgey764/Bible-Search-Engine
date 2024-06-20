@@ -1,0 +1,6 @@
+
+jakim	{"Deuteronomy_ch_10.docx": [844], "1 Chronicles_ch_8.docx": [1324, 1324, 1324], "1 Chronicles_ch_24.docx": [1611, 1611, 1611]}
+modes	{"1 Timothy_ch_2.docx": [970]}
+jakim	{"Deuteronomy_ch_10.docx": [844], "1 Chronicles_ch_8.docx": [1324, 1324], "1 Chronicles_ch_24.docx": [1611, 1611]}
+jakim	{"Deuteronomy_ch_10.docx": [844], "1 Chronicles_ch_8.docx": [1324], "1 Chronicles_ch_24.docx": [1611]}
+modes	{"1 Timothy_ch_2.docx": [970]}

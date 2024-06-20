@@ -1,0 +1,4 @@
+
+sawed	{"1 Chronicles_ch_20.docx": [614], "Hebrews_ch_11.docx": [7142, 7142]}
+sawed	{"1 Chronicles_ch_20.docx": [614], "Hebrews_ch_11.docx": [7142]}
+sawed	{"1 Chronicles_ch_20.docx": [614], "Hebrews_ch_11.docx": [7142]}

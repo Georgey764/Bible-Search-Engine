@@ -1,0 +1,4 @@
+
+issaa	{"Numbers_ch_3.docx": [2507, 3221, 3221, 3221], "1 Chronicles_ch_6.docx": [119, 1241, 119, 1241, 119, 1241]}
+issaa	{"Numbers_ch_3.docx": [2507, 3221, 3221], "1 Chronicles_ch_6.docx": [119, 1241, 119, 1241]}
+issaa	{"Numbers_ch_3.docx": [2507, 3221], "1 Chronicles_ch_6.docx": [119, 1241]}

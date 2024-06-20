@@ -1,0 +1,4 @@
+
+tekel	{"Daniel_ch_5.docx": [5052, 5179, 5179]}
+tekel	{"Daniel_ch_5.docx": [5052, 5179]}
+tekel	{"Daniel_ch_5.docx": [5052, 5179]}

@@ -1,0 +1,7 @@
+
+mehe	{"Nehemiah_ch_6.docx": [1494]}
+gift-	{"Proverbs_ch_22.docx": [937], "Ezekiel_ch_46.docx": [2893, 2893, 2893]}
+mehe	{"Nehemiah_ch_6.docx": [1494]}
+gift-	{"Proverbs_ch_22.docx": [937], "Ezekiel_ch_46.docx": [2893, 2893]}
+mehe	{"Nehemiah_ch_6.docx": [1494]}
+gift-	{"Proverbs_ch_22.docx": [937], "Ezekiel_ch_46.docx": [2893]}

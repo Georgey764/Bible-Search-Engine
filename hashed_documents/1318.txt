@@ -1,0 +1,6 @@
+
+house)	{"Isaiah_ch_14.docx": [2981]}
+tile	{"Luke_ch_5.docx": [4020]}
+house)	{"Isaiah_ch_14.docx": [2981]}
+house)	{"Isaiah_ch_14.docx": [2981]}
+tile	{"Luke_ch_5.docx": [4020]}

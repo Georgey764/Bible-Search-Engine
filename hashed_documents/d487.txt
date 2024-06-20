@@ -1,0 +1,4 @@
+
+yellow	{"Leviticus_ch_13.docx": [4302, 4517, 4550, 5304, 4517, 4550, 5304, 4517, 4550, 5304], "Jeremiah_ch_30.docx": [838, 838, 838]}
+yellow	{"Leviticus_ch_13.docx": [4302, 4517, 4550, 5304, 4517, 4550, 5304], "Jeremiah_ch_30.docx": [838, 838]}
+yellow	{"Leviticus_ch_13.docx": [4302, 4517, 4550, 5304], "Jeremiah_ch_30.docx": [838]}

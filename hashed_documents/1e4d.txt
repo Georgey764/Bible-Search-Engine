@@ -1,0 +1,6 @@
+
+caret	{"Isaiah_ch_27.docx": [1000], "Luke_ch_1.docx": [43, 43], "John_ch_20.docx": [1724, 1724]}
+55br	{"Numbers_ch_7.docx": [6325]}
+caret	{"Isaiah_ch_27.docx": [1000], "Luke_ch_1.docx": [43], "John_ch_20.docx": [1724]}
+2‘bles	{"Isaiah_ch_56.docx": [163]}
+caret	{"Isaiah_ch_27.docx": [1000], "Luke_ch_1.docx": [43], "John_ch_20.docx": [1724]}

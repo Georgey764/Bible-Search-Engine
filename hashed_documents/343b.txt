@@ -1,0 +1,7 @@
+
+hachil	{"1 Samuel_ch_23.docx": [2904], "1 Samuel_ch_26.docx": [106, 200, 106, 200, 106, 200]}
+underm	{"Luke_ch_23.docx": [137]}
+15each	{"Exodus_ch_36.docx": [2174]}
+hachil	{"1 Samuel_ch_23.docx": [2904], "1 Samuel_ch_26.docx": [106, 200, 106, 200]}
+hachil	{"1 Samuel_ch_23.docx": [2904], "1 Samuel_ch_26.docx": [106, 200]}
+underm	{"Luke_ch_23.docx": [137]}

@@ -1,0 +1,6 @@
+
+ahi	{"1 Chronicles_ch_11.docx": [5812], "1 Chronicles_ch_12.docx": [355]}
+lucius	{"Acts_ch_13.docx": [45, 67, 90, 67, 90]}
+ahi	{"1 Chronicles_ch_11.docx": [5812], "1 Chronicles_ch_12.docx": [355]}
+ahi	{"1 Chronicles_ch_11.docx": [5812], "1 Chronicles_ch_12.docx": [355]}
+lucius	{"Acts_ch_13.docx": [45, 67, 90]}

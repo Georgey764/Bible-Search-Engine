@@ -1,0 +1,7 @@
+
+horns!	{"Psalms_ch_81.docx": [295], "Amos_ch_6.docx": [2821, 2821, 2821]}
+given;	{"Psalms_ch_119.docx": [10756], "Isaiah_ch_9.docx": [959, 959, 959]}
+horns!	{"Psalms_ch_81.docx": [295], "Amos_ch_6.docx": [2821, 2821]}
+given;	{"Psalms_ch_119.docx": [10756], "Isaiah_ch_9.docx": [959, 959]}
+horns!	{"Psalms_ch_81.docx": [295], "Amos_ch_6.docx": [2821]}
+given;	{"Psalms_ch_119.docx": [10756], "Isaiah_ch_9.docx": [959]}

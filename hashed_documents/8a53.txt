@@ -1,0 +1,4 @@
+
+gome	{"1 Chronicles_ch_1.docx": [213, 299, 299], "Ezekiel_ch_38.docx": [721, 721], "Hosea_ch_1.docx": [492, 492, 492]}
+gome	{"1 Chronicles_ch_1.docx": [213, 299], "Hosea_ch_1.docx": [492, 492], "Ezekiel_ch_38.docx": [721]}
+gome	{"1 Chronicles_ch_1.docx": [213, 299], "Ezekiel_ch_38.docx": [721], "Hosea_ch_1.docx": [492]}

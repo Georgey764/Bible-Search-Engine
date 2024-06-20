@@ -1,0 +1,4 @@
+
+appeal	{"Judges_ch_14.docx": [530], "1 Samuel_ch_22.docx": [536, 536, 536], "Esther_ch_7.docx": [901, 901, 901], "Acts_ch_25.docx": [4367, 4464, 6339, 7774, 4367, 4464, 6339, 7774], "Acts_ch_26.docx": [6919, 6919]}
+appeal	{"Judges_ch_14.docx": [530], "1 Samuel_ch_22.docx": [536, 536], "Esther_ch_7.docx": [901, 901], "Acts_ch_25.docx": [4367, 4464, 6339, 7774], "Acts_ch_26.docx": [6919]}
+appeal	{"Judges_ch_14.docx": [530], "1 Samuel_ch_22.docx": [536], "Esther_ch_7.docx": [901], "Acts_ch_25.docx": [4367, 4464, 6339, 7774], "Acts_ch_26.docx": [6919]}

@@ -1,0 +1,4 @@
+
+asai	{"1 Chronicles_ch_6.docx": [2187], "1 Chronicles_ch_9.docx": [685, 685, 685], "1 Chronicles_ch_15.docx": [1079, 1079, 1079], "2 Chronicles_ch_34.docx": [3374, 3374, 3374]}
+asai	{"1 Chronicles_ch_6.docx": [2187], "1 Chronicles_ch_9.docx": [685, 685], "1 Chronicles_ch_15.docx": [1079, 1079], "2 Chronicles_ch_34.docx": [3374, 3374]}
+asai	{"1 Chronicles_ch_6.docx": [2187], "1 Chronicles_ch_9.docx": [685], "1 Chronicles_ch_15.docx": [1079], "2 Chronicles_ch_34.docx": [3374]}

@@ -1,0 +1,4 @@
+
+latrin	{"2 Kings_ch_10.docx": [5180], "Jeremiah_ch_37.docx": [2677, 2677, 2677]}
+latrin	{"2 Kings_ch_10.docx": [5180], "Jeremiah_ch_37.docx": [2677, 2677]}
+latrin	{"2 Kings_ch_10.docx": [5180], "Jeremiah_ch_37.docx": [2677]}

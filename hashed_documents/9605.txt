@@ -1,0 +1,7 @@
+
+wordi	{"Genesis_ch_1.docx": [7], "Proverbs_ch_20.docx": [25, 25, 25]}
+artem	{"Acts_ch_19.docx": [6642, 8167, 8189, 8779, 10384, 10391, 10399, 10687, 10714, 8167, 8189, 8779, 10384, 10391, 10399, 10687, 10714]}
+wordi	{"Genesis_ch_1.docx": [7], "Proverbs_ch_20.docx": [25, 25]}
+4‘[b	{"Hosea_ch_6.docx": [554]}
+wordi	{"Genesis_ch_1.docx": [7], "Proverbs_ch_20.docx": [25]}
+artem	{"Acts_ch_19.docx": [6642, 8167, 8189, 8779, 10384, 10391, 10399, 10687, 10714]}

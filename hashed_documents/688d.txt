@@ -1,0 +1,5 @@
+
+funnel	{"Exodus_ch_25.docx": [4253], "Exodus_ch_37.docx": [2319, 2319, 2319], "Numbers_ch_4.docx": [973, 973, 973], "1 Kings_ch_7.docx": [6455, 6455, 6455], "Zechariah_ch_4.docx": [213, 1660, 213, 1660, 213, 1660]}
+funnel	{"Exodus_ch_25.docx": [4253], "Exodus_ch_37.docx": [2319, 2319], "Numbers_ch_4.docx": [973, 973], "1 Kings_ch_7.docx": [6455, 6455], "Zechariah_ch_4.docx": [213, 1660, 213, 1660]}
+5‘yo	{"Leviticus_ch_18.docx": [452], "Numbers_ch_10.docx": [466], "Numbers_ch_29.docx": [516], "1 Chronicles_ch_11.docx": [698], "Isaiah_ch_30.docx": [553], "Jeremiah_ch_7.docx": [568], "Ezekiel_ch_3.docx": [533]}
+funnel	{"Exodus_ch_25.docx": [4253], "Exodus_ch_37.docx": [2319], "Numbers_ch_4.docx": [973], "1 Kings_ch_7.docx": [6455], "Zechariah_ch_4.docx": [213, 1660]}

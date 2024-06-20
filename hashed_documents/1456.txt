@@ -1,0 +1,4 @@
+
+soch	{"Joshua_ch_15.docx": [5533], "1 Kings_ch_4.docx": [1022, 1022, 1022], "1 Chronicles_ch_2.docx": [5106, 5106, 5106], "1 Chronicles_ch_4.docx": [2033, 2033, 2033], "2 Chronicles_ch_28.docx": [3256, 3256, 3256]}
+soch	{"Joshua_ch_15.docx": [5533], "1 Kings_ch_4.docx": [1022, 1022], "1 Chronicles_ch_2.docx": [5106, 5106], "1 Chronicles_ch_4.docx": [2033, 2033], "2 Chronicles_ch_28.docx": [3256, 3256]}
+soch	{"Joshua_ch_15.docx": [5533], "1 Kings_ch_4.docx": [1022], "1 Chronicles_ch_2.docx": [5106], "1 Chronicles_ch_4.docx": [2033], "2 Chronicles_ch_28.docx": [3256]}

@@ -1,0 +1,7 @@
+
+haem	{"Genesis_ch_36.docx": [2559]}
+prune	{"Leviticus_ch_25.docx": [276, 444, 444, 444], "Job_ch_15.docx": [3058, 3058, 3058], "Isaiah_ch_5.docx": [832, 832, 832], "Romans_ch_11.docx": [3358, 3358]}
+haem	{"Genesis_ch_36.docx": [2559]}
+prune	{"Leviticus_ch_25.docx": [276, 444, 444], "Job_ch_15.docx": [3058, 3058], "Isaiah_ch_5.docx": [832, 832], "Romans_ch_11.docx": [3358]}
+haem	{"Genesis_ch_36.docx": [2559]}
+prune	{"Leviticus_ch_25.docx": [276, 444], "Job_ch_15.docx": [3058], "Isaiah_ch_5.docx": [832], "Romans_ch_11.docx": [3358]}

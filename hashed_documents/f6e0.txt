@@ -1,0 +1,4 @@
+
+sink	{"1 Samuel_ch_13.docx": [986], "2 Samuel_ch_20.docx": [3566, 3653, 3566, 3653, 3566, 3653], "Psalms_ch_55.docx": [808, 808, 808], "Psalms_ch_69.docx": [1753, 1753, 1753], "Jeremiah_ch_51.docx": [10650, 10650, 10650], "Amos_ch_8.docx": [1367, 1367, 1367], "Matthew_ch_14.docx": [3512, 3512, 3512], "Luke_ch_5.docx": [812, 812]}
+sink	{"1 Samuel_ch_13.docx": [986], "2 Samuel_ch_20.docx": [3566, 3653, 3566, 3653], "Psalms_ch_55.docx": [808, 808], "Psalms_ch_69.docx": [1753, 1753], "Jeremiah_ch_51.docx": [10650, 10650], "Amos_ch_8.docx": [1367, 1367], "Matthew_ch_14.docx": [3512, 3512], "Luke_ch_5.docx": [812]}
+sink	{"1 Samuel_ch_13.docx": [986], "2 Samuel_ch_20.docx": [3566, 3653], "Psalms_ch_55.docx": [808], "Psalms_ch_69.docx": [1753], "Jeremiah_ch_51.docx": [10650], "Amos_ch_8.docx": [1367], "Matthew_ch_14.docx": [3512], "Luke_ch_5.docx": [812]}

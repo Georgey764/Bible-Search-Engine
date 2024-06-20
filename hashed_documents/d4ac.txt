@@ -1,0 +1,6 @@
+
+thereb	{"Leviticus_ch_15.docx": [2109], "Leviticus_ch_22.docx": [2153, 2153, 2153], "2 Kings_ch_17.docx": [3188, 3188, 3188], "Proverbs_ch_30.docx": [974, 974, 974]}
+wholes	{"1 Timothy_ch_1.docx": [1312], "Titus_ch_2.docx": [685, 685]}
+thereb	{"Leviticus_ch_15.docx": [2109], "Leviticus_ch_22.docx": [2153, 2153], "2 Kings_ch_17.docx": [3188, 3188], "Proverbs_ch_30.docx": [974, 974]}
+thereb	{"Leviticus_ch_15.docx": [2109], "Leviticus_ch_22.docx": [2153], "2 Kings_ch_17.docx": [3188], "Proverbs_ch_30.docx": [974]}
+wholes	{"1 Timothy_ch_1.docx": [1312], "Titus_ch_2.docx": [685]}

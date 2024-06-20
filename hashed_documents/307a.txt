@@ -1,0 +1,4 @@
+
+hairs	{"Psalms_ch_40.docx": [1595], "Psalms_ch_69.docx": [457, 457, 457], "Isaiah_ch_47.docx": [356, 356, 356], "Ezekiel_ch_5.docx": [670, 670, 670], "Matthew_ch_5.docx": [4586, 4586, 4586], "Matthew_ch_10.docx": [3889, 3889, 3889], "Luke_ch_12.docx": [912, 912], "1 Timothy_ch_2.docx": [977, 977], "1 Peter_ch_3.docx": [230, 230]}
+hairs	{"Psalms_ch_40.docx": [1595], "Psalms_ch_69.docx": [457, 457], "Isaiah_ch_47.docx": [356, 356], "Ezekiel_ch_5.docx": [670, 670], "Matthew_ch_5.docx": [4586, 4586], "Matthew_ch_10.docx": [3889, 3889], "Luke_ch_12.docx": [912], "1 Timothy_ch_2.docx": [977], "1 Peter_ch_3.docx": [230]}
+hairs	{"Psalms_ch_40.docx": [1595], "Psalms_ch_69.docx": [457], "Isaiah_ch_47.docx": [356], "Ezekiel_ch_5.docx": [670], "Matthew_ch_5.docx": [4586], "Matthew_ch_10.docx": [3889], "Luke_ch_12.docx": [912], "1 Timothy_ch_2.docx": [977], "1 Peter_ch_3.docx": [230]}

@@ -1,0 +1,4 @@
+
+sub-r	{"Esther_ch_1.docx": [2510, 3123, 3123, 3123]}
+sub-r	{"Esther_ch_1.docx": [2510, 3123, 3123]}
+sub-r	{"Esther_ch_1.docx": [2510, 3123]}

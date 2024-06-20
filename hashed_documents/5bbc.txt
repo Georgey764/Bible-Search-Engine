@@ -1,0 +1,5 @@
+
+aphe	{"Joshua_ch_19.docx": [2380], "1 Samuel_ch_4.docx": [140, 140, 140], "1 Samuel_ch_29.docx": [14, 14, 14], "1 Kings_ch_20.docx": [4384, 5098, 4384, 5098, 4384, 5098], "2 Kings_ch_13.docx": [2844, 2844, 2844], "1 Chronicles_ch_4.docx": [1841, 1841, 1841], "1 Chronicles_ch_24.docx": [1756, 1756, 1756]}
+aphe	{"Joshua_ch_19.docx": [2380], "1 Samuel_ch_4.docx": [140, 140], "1 Samuel_ch_29.docx": [14, 14], "1 Kings_ch_20.docx": [4384, 5098, 4384, 5098], "2 Kings_ch_13.docx": [2844, 2844], "1 Chronicles_ch_4.docx": [1841, 1841], "1 Chronicles_ch_24.docx": [1756, 1756]}
+11thos	{"Proverbs_ch_12.docx": [983], "Isaiah_ch_56.docx": [1917]}
+aphe	{"Joshua_ch_19.docx": [2380], "1 Samuel_ch_4.docx": [140], "1 Samuel_ch_29.docx": [14], "1 Kings_ch_20.docx": [4384, 5098], "2 Kings_ch_13.docx": [2844], "1 Chronicles_ch_4.docx": [1841], "1 Chronicles_ch_24.docx": [1756]}

@@ -1,0 +1,4 @@
+
+plated	{"Exodus_ch_38.docx": [1880, 2352, 2352, 2352], "1 Kings_ch_10.docx": [2830, 2830, 2830]}
+plated	{"Exodus_ch_38.docx": [1880, 2352, 2352], "1 Kings_ch_10.docx": [2830, 2830]}
+plated	{"Exodus_ch_38.docx": [1880, 2352], "1 Kings_ch_10.docx": [2830]}

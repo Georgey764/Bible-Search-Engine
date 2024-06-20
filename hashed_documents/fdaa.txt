@@ -1,0 +1,5 @@
+
+jabo	{"Genesis_ch_32.docx": [3065], "Numbers_ch_21.docx": [3276, 3276, 3276], "Deuteronomy_ch_2.docx": [5174, 5174, 5174], "Deuteronomy_ch_3.docx": [2203, 2203, 2203], "Joshua_ch_12.docx": [1139, 1173, 1215, 1258, 1139, 1173, 1215, 1258, 1139, 1173, 1215, 1258], "Judges_ch_11.docx": [1946, 1946, 1946]}
+21aft	{"Genesis_ch_11.docx": [2456], "Leviticus_ch_8.docx": [2607], "Numbers_ch_33.docx": [1878]}
+jabo	{"Genesis_ch_32.docx": [3065], "Numbers_ch_21.docx": [3276, 3276], "Deuteronomy_ch_2.docx": [5174, 5174], "Deuteronomy_ch_3.docx": [2203, 2203], "Joshua_ch_12.docx": [1139, 1173, 1215, 1258, 1139, 1173, 1215, 1258], "Judges_ch_11.docx": [1946, 1946]}
+jabo	{"Genesis_ch_32.docx": [3065], "Numbers_ch_21.docx": [3276], "Deuteronomy_ch_2.docx": [5174], "Deuteronomy_ch_3.docx": [2203], "Joshua_ch_12.docx": [1139, 1173, 1215, 1258], "Judges_ch_11.docx": [1946]}

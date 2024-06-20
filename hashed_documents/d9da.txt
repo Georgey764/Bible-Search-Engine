@@ -1,0 +1,4 @@
+
+binnui	{"Nehemiah_ch_3.docx": [11312], "Nehemiah_ch_7.docx": [1545, 1545, 1545], "Nehemiah_ch_10.docx": [459, 459, 459], "Nehemiah_ch_12.docx": [493, 493, 493]}
+binnui	{"Nehemiah_ch_3.docx": [11312], "Nehemiah_ch_7.docx": [1545, 1545], "Nehemiah_ch_10.docx": [459, 459], "Nehemiah_ch_12.docx": [493, 493]}
+binnui	{"Nehemiah_ch_3.docx": [11312], "Nehemiah_ch_7.docx": [1545], "Nehemiah_ch_10.docx": [459], "Nehemiah_ch_12.docx": [493]}

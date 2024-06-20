@@ -1,0 +1,7 @@
+
+jamu	{"Numbers_ch_26.docx": [1846, 1851, 1851, 1851]}
+panthe	{"Hosea_ch_5.docx": [2256], "Hosea_ch_13.docx": [855, 855, 855]}
+jamu	{"Numbers_ch_26.docx": [1846, 1851, 1851]}
+panthe	{"Hosea_ch_5.docx": [2256], "Hosea_ch_13.docx": [855, 855]}
+jamu	{"Numbers_ch_26.docx": [1846, 1851]}
+panthe	{"Hosea_ch_5.docx": [2256], "Hosea_ch_13.docx": [855]}

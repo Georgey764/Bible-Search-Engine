@@ -1,0 +1,4 @@
+
+do.	{"Matthew_ch_9.docx": [1563], "Philippians_ch_2.docx": [1387, 1402, 1387, 1402]}
+do.	{"Matthew_ch_9.docx": [1563], "Philippians_ch_2.docx": [1387, 1402]}
+do.	{"Matthew_ch_9.docx": [1563], "Philippians_ch_2.docx": [1387, 1402]}

@@ -1,0 +1,4 @@
+
+outstr	{"Exodus_ch_25.docx": [1989], "2 Kings_ch_17.docx": [6668, 6668, 6668], "Jeremiah_ch_21.docx": [701, 701, 701], "Ezekiel_ch_17.docx": [253, 253, 253]}
+outstr	{"Exodus_ch_25.docx": [1989], "2 Kings_ch_17.docx": [6668, 6668], "Jeremiah_ch_21.docx": [701, 701], "Ezekiel_ch_17.docx": [253, 253]}
+outstr	{"Exodus_ch_25.docx": [1989], "2 Kings_ch_17.docx": [6668], "Jeremiah_ch_21.docx": [701], "Ezekiel_ch_17.docx": [253]}

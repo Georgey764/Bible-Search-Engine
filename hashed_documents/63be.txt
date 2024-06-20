@@ -1,0 +1,4 @@
+
+wraps	{"Psalms_ch_147.docx": [256], "Proverbs_ch_29.docx": [467, 467, 467], "Ezekiel_ch_12.docx": [2146, 2146, 2146], "Ezekiel_ch_16.docx": [1994, 1994, 1994]}
+wraps	{"Psalms_ch_147.docx": [256], "Proverbs_ch_29.docx": [467, 467], "Ezekiel_ch_12.docx": [2146, 2146], "Ezekiel_ch_16.docx": [1994, 1994]}
+wraps	{"Psalms_ch_147.docx": [256], "Proverbs_ch_29.docx": [467], "Ezekiel_ch_12.docx": [2146], "Ezekiel_ch_16.docx": [1994]}

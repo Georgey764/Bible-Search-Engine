@@ -1,0 +1,5 @@
+
+bored	{"2 Kings_ch_12.docx": [1350]}
+24‘d	{"Leviticus_ch_18.docx": [2911], "Jeremiah_ch_46.docx": [3898], "Jeremiah_ch_49.docx": [4405]}
+bored	{"2 Kings_ch_12.docx": [1350]}
+bored	{"2 Kings_ch_12.docx": [1350]}

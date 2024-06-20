@@ -1,0 +1,3 @@
+
+430	{"Exodus_ch_12.docx": [6346]}
+7mose	{"Exodus_ch_18.docx": [640]}

@@ -1,0 +1,2 @@
+
+1pleas	{"Psalms_ch_16.docx": [43], "Psalms_ch_17.docx": [37], "Psalms_ch_102.docx": [117], "Psalms_ch_140.docx": [62], "Psalms_ch_143.docx": [74]}

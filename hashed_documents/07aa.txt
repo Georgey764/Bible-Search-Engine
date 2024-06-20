@@ -1,0 +1,2 @@
+
+2when	{"1 Kings_ch_10.docx": [138], "Nehemiah_ch_4.docx": [34], "Job_ch_24.docx": [60], "Proverbs_ch_29.docx": [167], "Matthew_ch_13.docx": [20]}

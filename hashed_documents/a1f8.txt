@@ -1,0 +1,4 @@
+
+summa	{"Deuteronomy_ch_12.docx": [2645], "Deuteronomy_ch_27.docx": [11, 11, 11]}
+summa	{"Deuteronomy_ch_12.docx": [2645], "Deuteronomy_ch_27.docx": [11, 11]}
+summa	{"Deuteronomy_ch_12.docx": [2645], "Deuteronomy_ch_27.docx": [11]}

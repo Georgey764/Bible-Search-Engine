@@ -1,0 +1,4 @@
+
+handw	{"Daniel_ch_5.docx": [912], "Colossians_ch_2.docx": [2308, 2308]}
+handw	{"Daniel_ch_5.docx": [912], "Colossians_ch_2.docx": [2308]}
+handw	{"Daniel_ch_5.docx": [912], "Colossians_ch_2.docx": [2308]}

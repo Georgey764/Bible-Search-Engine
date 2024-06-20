@@ -1,0 +1,5 @@
+
+eyewit	{"Luke_ch_1.docx": [36], "2 Peter_ch_1.docx": [2398, 2398]}
+25‘als	{"Leviticus_ch_7.docx": [3585], "Matthew_ch_5.docx": [2951]}
+5‘sing	{"Isaiah_ch_12.docx": [583]}
+eyewit	{"Luke_ch_1.docx": [36], "2 Peter_ch_1.docx": [2398]}

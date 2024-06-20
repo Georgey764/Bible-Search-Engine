@@ -1,0 +1,7 @@
+
+jokin	{"Genesis_ch_19.docx": [2273], "Jeremiah_ch_4.docx": [1847, 1847, 1847], "Mark_ch_15.docx": [3211, 3211], "Acts_ch_17.docx": [6436, 6436]}
+makelo	{"Numbers_ch_33.docx": [2070, 2116, 2116, 2116], "1 Chronicles_ch_8.docx": [2008, 2008, 2008], "1 Chronicles_ch_9.docx": [5343, 5354, 5343, 5354, 5343, 5354]}
+jokin	{"Genesis_ch_19.docx": [2273], "Jeremiah_ch_4.docx": [1847, 1847], "Mark_ch_15.docx": [3211], "Acts_ch_17.docx": [6436]}
+makelo	{"Numbers_ch_33.docx": [2070, 2116, 2116], "1 Chronicles_ch_8.docx": [2008, 2008], "1 Chronicles_ch_9.docx": [5343, 5354, 5343, 5354]}
+jokin	{"Genesis_ch_19.docx": [2273], "Jeremiah_ch_4.docx": [1847], "Mark_ch_15.docx": [3211], "Acts_ch_17.docx": [6436]}
+makelo	{"Numbers_ch_33.docx": [2070, 2116], "1 Chronicles_ch_8.docx": [2008], "1 Chronicles_ch_9.docx": [5343, 5354]}

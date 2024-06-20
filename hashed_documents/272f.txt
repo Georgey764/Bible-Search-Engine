@@ -1,0 +1,5 @@
+
+jaw	{"Judges_ch_15.docx": [2537, 2549, 2948, 3123, 3222, 3310, 3588, 2549, 2948, 3123, 3222, 3310, 3588, 2549, 2948, 3123, 3222, 3310, 3588], "2 Chronicles_ch_18.docx": [3781, 3781, 3781], "Job_ch_19.docx": [1823, 1823, 1823], "Job_ch_21.docx": [331, 331, 331], "Psalms_ch_32.docx": [1068, 1068, 1068], "Isaiah_ch_50.docx": [1237, 1237, 1237], "Ezekiel_ch_29.docx": [476, 476, 476], "Ezekiel_ch_38.docx": [373, 373, 373], "Micah_ch_5.docx": [236, 236, 236]}
+52‘how	{"Deuteronomy_ch_32.docx": [7852]}
+jaw	{"Judges_ch_15.docx": [2537, 2549, 2948, 3123, 3222, 3310, 3588, 2549, 2948, 3123, 3222, 3310, 3588], "2 Chronicles_ch_18.docx": [3781, 3781], "Job_ch_19.docx": [1823, 1823], "Job_ch_21.docx": [331, 331], "Psalms_ch_32.docx": [1068, 1068], "Isaiah_ch_50.docx": [1237, 1237], "Ezekiel_ch_29.docx": [476, 476], "Ezekiel_ch_38.docx": [373, 373], "Micah_ch_5.docx": [236, 236]}
+jaw	{"Judges_ch_15.docx": [2537, 2549, 2948, 3123, 3222, 3310, 3588], "2 Chronicles_ch_18.docx": [3781], "Job_ch_19.docx": [1823], "Job_ch_21.docx": [331], "Psalms_ch_32.docx": [1068], "Isaiah_ch_50.docx": [1237], "Ezekiel_ch_29.docx": [476], "Ezekiel_ch_38.docx": [373], "Micah_ch_5.docx": [236]}

@@ -1,0 +1,4 @@
+
+parape	{"Isaiah_ch_54.docx": [1841], "Jeremiah_ch_50.docx": [2826, 2826, 2826]}
+parape	{"Isaiah_ch_54.docx": [1841], "Jeremiah_ch_50.docx": [2826, 2826]}
+parape	{"Isaiah_ch_54.docx": [1841], "Jeremiah_ch_50.docx": [2826]}

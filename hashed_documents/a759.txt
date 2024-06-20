@@ -1,0 +1,3 @@
+
+ours!	{"Mark_ch_12.docx": [938], "Luke_ch_20.docx": [1709, 1709]}
+ours!	{"Mark_ch_12.docx": [938], "Luke_ch_20.docx": [1709]}

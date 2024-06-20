@@ -1,0 +1,4 @@
+
+rabbit	{"Leviticus_ch_11.docx": [559], "Deuteronomy_ch_14.docx": [634, 634, 634], "Proverbs_ch_30.docx": [2698, 2698]}
+rabbit	{"Leviticus_ch_11.docx": [559], "Deuteronomy_ch_14.docx": [634, 634], "Proverbs_ch_30.docx": [2698]}
+rabbit	{"Leviticus_ch_11.docx": [559], "Deuteronomy_ch_14.docx": [634], "Proverbs_ch_30.docx": [2698]}

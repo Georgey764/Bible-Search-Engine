@@ -1,0 +1,4 @@
+
+jash	{"Numbers_ch_26.docx": [2133, 2138, 2138]}
+jash	{"Numbers_ch_26.docx": [2138, 2138]}
+jash	{"Numbers_ch_26.docx": [2133, 2138]}

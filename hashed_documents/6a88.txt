@@ -1,0 +1,4 @@
+
+symoon	{"Joshua_ch_12.docx": [14295], "Joshua_ch_19.docx": [1283, 1283, 1283]}
+symoon	{"Joshua_ch_12.docx": [14295], "Joshua_ch_19.docx": [1283, 1283]}
+symoon	{"Joshua_ch_12.docx": [14295], "Joshua_ch_19.docx": [1283]}

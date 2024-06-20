@@ -1,0 +1,5 @@
+
+sokcho	{"Judges_ch_8.docx": [1768, 2924, 2940, 3131, 2924, 2940, 3131, 2924, 2940, 3131], "1 Kings_ch_7.docx": [6209, 6209, 6209], "1 Kings_ch_20.docx": [2746, 2746, 2746]}
+sokcho	{"Judges_ch_8.docx": [1768, 2924, 2940, 3131, 2924, 2940, 3131], "1 Kings_ch_7.docx": [6209, 6209], "1 Kings_ch_20.docx": [2746, 2746]}
+20‘[i’	{"Isaiah_ch_3.docx": [2881]}
+sokcho	{"Judges_ch_8.docx": [1768, 2924, 2940, 3131], "1 Kings_ch_7.docx": [6209], "1 Kings_ch_20.docx": [2746]}

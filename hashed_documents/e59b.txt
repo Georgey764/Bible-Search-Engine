@@ -1,0 +1,4 @@
+
+riverb	{"2 Samuel_ch_17.docx": [1907], "Acts_ch_16.docx": [4706, 4706]}
+riverb	{"2 Samuel_ch_17.docx": [1907], "Acts_ch_16.docx": [4706]}
+riverb	{"2 Samuel_ch_17.docx": [1907], "Acts_ch_16.docx": [4706]}

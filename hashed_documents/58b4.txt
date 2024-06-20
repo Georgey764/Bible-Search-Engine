@@ -1,0 +1,2 @@
+
+1.9l	{"Leviticus_ch_23.docx": [1509, 2265], "Leviticus_ch_24.docx": [512], "Numbers_ch_15.docx": [690, 700], "Numbers_ch_28.docx": [1130, 1655, 1894, 2809, 3646], "Numbers_ch_29.docx": [448, 1294, 2200]}

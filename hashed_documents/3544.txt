@@ -1,0 +1,4 @@
+
+self-w	{"Proverbs_ch_21.docx": [2336], "2 Peter_ch_2.docx": [1508, 1508]}
+self-w	{"Proverbs_ch_21.docx": [2336], "2 Peter_ch_2.docx": [1508]}
+self-w	{"Proverbs_ch_21.docx": [2336], "2 Peter_ch_2.docx": [1508]}

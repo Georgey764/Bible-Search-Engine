@@ -1,0 +1,3 @@
+
+20jus	{"1 Samuel_ch_8.docx": [2345], "Ezekiel_ch_18.docx": [3041]}
+31thei	{"1 Chronicles_ch_25.docx": [3036]}

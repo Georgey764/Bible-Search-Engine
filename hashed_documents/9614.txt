@@ -1,0 +1,6 @@
+
+infest	{"1 Kings_ch_8.docx": [5880]}
+jepha	{"1 Chronicles_ch_8.docx": [1577]}
+infest	{"1 Kings_ch_8.docx": [5880]}
+infest	{"1 Kings_ch_8.docx": [5880]}
+jepha	{"1 Chronicles_ch_8.docx": [1577]}

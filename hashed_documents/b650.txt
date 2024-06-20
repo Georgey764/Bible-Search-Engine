@@ -1,0 +1,4 @@
+
+fours	{"Leviticus_ch_11.docx": [2045, 2144, 2144, 2144]}
+fours	{"Leviticus_ch_11.docx": [2045, 2144, 2144]}
+fours	{"Leviticus_ch_11.docx": [2045, 2144]}

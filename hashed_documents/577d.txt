@@ -1,0 +1,4 @@
+
+lumb	{"1 Kings_ch_5.docx": [1258], "1 Kings_ch_10.docx": [1706, 1706, 1706], "1 Chronicles_ch_22.docx": [380, 380, 380], "2 Chronicles_ch_9.docx": [1569, 1569, 1569], "Isaiah_ch_60.docx": [1986, 1986, 1986], "Lamentations_ch_4.docx": [1306, 1306, 1306]}
+lumb	{"1 Kings_ch_5.docx": [1258], "1 Kings_ch_10.docx": [1706, 1706], "1 Chronicles_ch_22.docx": [380, 380], "2 Chronicles_ch_9.docx": [1569, 1569], "Isaiah_ch_60.docx": [1986, 1986], "Lamentations_ch_4.docx": [1306, 1306]}
+lumb	{"1 Kings_ch_5.docx": [1258], "1 Kings_ch_10.docx": [1706], "1 Chronicles_ch_22.docx": [380], "2 Chronicles_ch_9.docx": [1569], "Isaiah_ch_60.docx": [1986], "Lamentations_ch_4.docx": [1306]}

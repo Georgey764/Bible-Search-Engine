@@ -1,0 +1,4 @@
+
+shavin	{"Isaiah_ch_22.docx": [1734], "Jeremiah_ch_9.docx": [4707, 4707, 4707], "Jeremiah_ch_25.docx": [3722, 3722, 3722], "1 Corinthians_ch_11.docx": [698, 698]}
+shavin	{"Isaiah_ch_22.docx": [1734], "Jeremiah_ch_9.docx": [4707, 4707], "Jeremiah_ch_25.docx": [3722, 3722], "1 Corinthians_ch_11.docx": [698]}
+shavin	{"Isaiah_ch_22.docx": [1734], "Jeremiah_ch_9.docx": [4707], "Jeremiah_ch_25.docx": [3722], "1 Corinthians_ch_11.docx": [698]}

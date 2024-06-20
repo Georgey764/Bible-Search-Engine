@@ -1,0 +1,4 @@
+
+ruts	{"Isaiah_ch_40.docx": [556], "Luke_ch_3.docx": [3668, 3668]}
+ruts	{"Isaiah_ch_40.docx": [556], "Luke_ch_3.docx": [3668]}
+ruts	{"Isaiah_ch_40.docx": [556], "Luke_ch_3.docx": [3668]}

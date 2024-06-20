@@ -1,0 +1,4 @@
+
+fitted	{"Exodus_ch_26.docx": [2703], "Isaiah_ch_41.docx": [2495, 2495, 2495], "Ephesians_ch_2.docx": [2869, 2869]}
+fitted	{"Exodus_ch_26.docx": [2703], "Isaiah_ch_41.docx": [2495, 2495], "Ephesians_ch_2.docx": [2869]}
+fitted	{"Exodus_ch_26.docx": [2703], "Isaiah_ch_41.docx": [2495], "Ephesians_ch_2.docx": [2869]}

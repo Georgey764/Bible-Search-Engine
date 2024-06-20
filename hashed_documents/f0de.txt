@@ -1,0 +1,3 @@
+
+pamp	{"Acts_ch_13.docx": [3056], "Acts_ch_27.docx": [621, 621]}
+pamp	{"Acts_ch_13.docx": [3056], "Acts_ch_27.docx": [621]}

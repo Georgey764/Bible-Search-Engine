@@ -1,0 +1,4 @@
+
+naked!	{"Isaiah_ch_20.docx": [323], "2 Corinthians_ch_11.docx": [3975, 3975], "Revelation_ch_3.docx": [3003, 3003]}
+naked!	{"Isaiah_ch_20.docx": [323], "2 Corinthians_ch_11.docx": [3975], "Revelation_ch_3.docx": [3003]}
+naked!	{"Isaiah_ch_20.docx": [323], "2 Corinthians_ch_11.docx": [3975], "Revelation_ch_3.docx": [3003]}

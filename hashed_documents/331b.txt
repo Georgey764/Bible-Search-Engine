@@ -1,0 +1,4 @@
+
+lase	{"Joshua_ch_19.docx": [3986], "Acts_ch_27.docx": [1024, 1024]}
+lase	{"Joshua_ch_19.docx": [3986], "Acts_ch_27.docx": [1024]}
+lase	{"Joshua_ch_19.docx": [3986], "Acts_ch_27.docx": [1024]}

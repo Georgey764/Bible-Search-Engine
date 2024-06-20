@@ -1,0 +1,4 @@
+
+dries	{"Proverbs_ch_17.docx": [2226], "1 Peter_ch_1.docx": [6117, 6117]}
+dries	{"Proverbs_ch_17.docx": [2226], "1 Peter_ch_1.docx": [6117]}
+dries	{"Proverbs_ch_17.docx": [2226], "1 Peter_ch_1.docx": [6117]}

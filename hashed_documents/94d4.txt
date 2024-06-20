@@ -1,0 +1,10 @@
+
+mirr	{"Exodus_ch_38.docx": [896], "Job_ch_37.docx": [1695, 1695, 1695], "1 Corinthians_ch_13.docx": [1395, 1395], "2 Corinthians_ch_3.docx": [2412, 2412], "James_ch_1.docx": [2562, 2562]}
+osam	{"1 Chronicles_ch_3.docx": [1581]}
+nagga	{"Luke_ch_3.docx": [6391]}
+mirr	{"Exodus_ch_38.docx": [896], "Job_ch_37.docx": [1695, 1695], "1 Corinthians_ch_13.docx": [1395], "2 Corinthians_ch_3.docx": [2412], "James_ch_1.docx": [2562]}
+osam	{"1 Chronicles_ch_3.docx": [1581]}
+19si	{"Isaiah_ch_38.docx": [2673], "Ezekiel_ch_39.docx": [3359]}
+mirr	{"Exodus_ch_38.docx": [896], "Job_ch_37.docx": [1695], "1 Corinthians_ch_13.docx": [1395], "2 Corinthians_ch_3.docx": [2412], "James_ch_1.docx": [2562]}
+osam	{"1 Chronicles_ch_3.docx": [1581]}
+nagga	{"Luke_ch_3.docx": [6391]}

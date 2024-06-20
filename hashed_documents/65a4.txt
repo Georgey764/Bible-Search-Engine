@@ -1,0 +1,4 @@
+
+gladd	{"Proverbs_ch_10.docx": [7], "Hosea_ch_7.docx": [545, 545, 545]}
+gladd	{"Proverbs_ch_10.docx": [7], "Hosea_ch_7.docx": [545, 545]}
+gladd	{"Proverbs_ch_10.docx": [7], "Hosea_ch_7.docx": [545]}

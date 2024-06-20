@@ -1,0 +1,4 @@
+
+inspe	{"Job_ch_21.docx": [1358], "Job_ch_28.docx": [2176, 2176, 2176], "Job_ch_34.docx": [2175, 2175, 2175], "Isaiah_ch_10.docx": [248, 248, 248], "Matthew_ch_22.docx": [1278, 1278, 1278], "Luke_ch_14.docx": [2392, 2392], "Luke_ch_19.docx": [5087, 5087], "1 Thessalonians_ch_2.docx": [385, 410, 385, 410], "1 Peter_ch_2.docx": [1792, 1792]}
+inspe	{"Job_ch_21.docx": [1358], "Job_ch_28.docx": [2176, 2176], "Job_ch_34.docx": [2175, 2175], "Isaiah_ch_10.docx": [248, 248], "Matthew_ch_22.docx": [1278, 1278], "Luke_ch_14.docx": [2392], "Luke_ch_19.docx": [5087], "1 Thessalonians_ch_2.docx": [385, 410], "1 Peter_ch_2.docx": [1792]}
+inspe	{"Job_ch_21.docx": [1358], "Job_ch_28.docx": [2176], "Job_ch_34.docx": [2175], "Isaiah_ch_10.docx": [248], "Matthew_ch_22.docx": [1278], "Luke_ch_14.docx": [2392], "Luke_ch_19.docx": [5087], "1 Thessalonians_ch_2.docx": [385, 410], "1 Peter_ch_2.docx": [1792]}

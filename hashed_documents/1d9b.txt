@@ -1,0 +1,4 @@
+
+empty-	{"Genesis_ch_31.docx": [5849], "Exodus_ch_23.docx": [1743, 1743, 1743], "Exodus_ch_34.docx": [3002, 3002, 3002], "Deuteronomy_ch_15.docx": [1827, 1827, 1827], "Matthew_ch_5.docx": [2470, 2470, 2470], "Luke_ch_20.docx": [1128, 1292, 1128, 1292]}
+empty-	{"Genesis_ch_31.docx": [5849], "Exodus_ch_23.docx": [1743, 1743], "Exodus_ch_34.docx": [3002, 3002], "Deuteronomy_ch_15.docx": [1827, 1827], "Matthew_ch_5.docx": [2470, 2470], "Luke_ch_20.docx": [1128, 1292]}
+empty-	{"Genesis_ch_31.docx": [5849], "Exodus_ch_23.docx": [1743], "Exodus_ch_34.docx": [3002], "Deuteronomy_ch_15.docx": [1827], "Matthew_ch_5.docx": [2470], "Luke_ch_20.docx": [1128, 1292]}

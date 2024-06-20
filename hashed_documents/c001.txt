@@ -1,0 +1,7 @@
+
+jemna	{"1 Chronicles_ch_7.docx": [3784]}
+sanb	{"Nehemiah_ch_2.docx": [1818, 4993, 4993, 4993], "Nehemiah_ch_4.docx": [6, 1146, 6, 1146, 6, 1146], "Nehemiah_ch_6.docx": [6, 218, 615, 1994, 2248, 6, 218, 615, 1994, 2248, 6, 218, 615, 1994, 2248]}
+jemna	{"1 Chronicles_ch_7.docx": [3784]}
+sanb	{"Nehemiah_ch_2.docx": [1818, 4993, 4993], "Nehemiah_ch_4.docx": [6, 1146, 6, 1146], "Nehemiah_ch_6.docx": [6, 218, 615, 1994, 2248, 6, 218, 615, 1994, 2248]}
+jemna	{"1 Chronicles_ch_7.docx": [3784]}
+sanb	{"Nehemiah_ch_2.docx": [1818, 4993], "Nehemiah_ch_4.docx": [6, 1146], "Nehemiah_ch_6.docx": [6, 218, 615, 1994, 2248]}

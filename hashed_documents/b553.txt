@@ -1,0 +1,7 @@
+
+bosod	{"Nehemiah_ch_3.docx": [2268, 2280, 2295, 2280, 2295, 2280, 2295]}
+sakes!	{"Psalms_ch_115.docx": [75], "Romans_ch_11.docx": [4354, 4354], "Revelation_ch_18.docx": [3685, 3685]}
+bosod	{"Nehemiah_ch_3.docx": [2268, 2280, 2295, 2280, 2295]}
+sakes!	{"Psalms_ch_115.docx": [75], "Romans_ch_11.docx": [4354], "Revelation_ch_18.docx": [3685]}
+bosod	{"Nehemiah_ch_3.docx": [2268, 2280, 2295]}
+sakes!	{"Psalms_ch_115.docx": [75], "Romans_ch_11.docx": [4354], "Revelation_ch_18.docx": [3685]}

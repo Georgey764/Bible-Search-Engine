@@ -1,0 +1,4 @@
+
+indivi	{"Genesis_ch_17.docx": [2033], "Deuteronomy_ch_26.docx": [27, 27, 27], "2 Peter_ch_2.docx": [1104, 1104]}
+indivi	{"Genesis_ch_17.docx": [2033], "Deuteronomy_ch_26.docx": [27, 27], "2 Peter_ch_2.docx": [1104]}
+indivi	{"Genesis_ch_17.docx": [2033], "Deuteronomy_ch_26.docx": [27], "2 Peter_ch_2.docx": [1104]}

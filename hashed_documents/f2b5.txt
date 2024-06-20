@@ -1,0 +1,8 @@
+
+zair	{"2 Kings_ch_8.docx": [3668]}
+cologn	{"Daniel_ch_2.docx": [8188], "Amos_ch_6.docx": [1624, 1624, 1624]}
+15‘aar	{"Numbers_ch_4.docx": [1864]}
+zair	{"2 Kings_ch_8.docx": [3668]}
+cologn	{"Daniel_ch_2.docx": [8188], "Amos_ch_6.docx": [1624, 1624]}
+zair	{"2 Kings_ch_8.docx": [3668]}
+cologn	{"Daniel_ch_2.docx": [8188], "Amos_ch_6.docx": [1624]}

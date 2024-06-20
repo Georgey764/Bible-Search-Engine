@@ -1,0 +1,4 @@
+
+shaper	{"Psalms_ch_94.docx": [792], "Isaiah_ch_29.docx": [2928, 2928, 2928]}
+shaper	{"Psalms_ch_94.docx": [792], "Isaiah_ch_29.docx": [2928, 2928]}
+shaper	{"Psalms_ch_94.docx": [792], "Isaiah_ch_29.docx": [2928]}

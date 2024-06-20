@@ -1,0 +1,4 @@
+
+sheshb	{"Ezra_ch_5.docx": [2423, 2667, 2667, 2667]}
+sheshb	{"Ezra_ch_5.docx": [2423, 2667, 2667]}
+sheshb	{"Ezra_ch_5.docx": [2423, 2667]}

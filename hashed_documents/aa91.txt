@@ -1,0 +1,4 @@
+
+phila	{"Revelation_ch_1.docx": [1953], "Revelation_ch_3.docx": [1172, 1172]}
+8‘ea	{"Song of Solomon_ch_3.docx": [1232]}
+phila	{"Revelation_ch_1.docx": [1953], "Revelation_ch_3.docx": [1172]}

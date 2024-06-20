@@ -1,0 +1,11 @@
+
+treadi	{"Psalms_ch_8.docx": [849], "Isaiah_ch_16.docx": [2049, 2049, 2049], "Isaiah_ch_63.docx": [278, 278, 278]}
+starin	{"Daniel_ch_2.docx": [5678], "Luke_ch_4.docx": [2723, 2723], "Acts_ch_1.docx": [2040, 2040], "Acts_ch_3.docx": [1370, 1370]}
+hazard	{"Acts_ch_27.docx": [1127]}
+boxi	{"1 Corinthians_ch_9.docx": [3548]}
+treadi	{"Psalms_ch_8.docx": [849], "Isaiah_ch_16.docx": [2049, 2049], "Isaiah_ch_63.docx": [278, 278]}
+starin	{"Daniel_ch_2.docx": [5678], "Luke_ch_4.docx": [2723], "Acts_ch_1.docx": [2040], "Acts_ch_3.docx": [1370]}
+treadi	{"Psalms_ch_8.docx": [849], "Isaiah_ch_16.docx": [2049], "Isaiah_ch_63.docx": [278]}
+starin	{"Daniel_ch_2.docx": [5678], "Luke_ch_4.docx": [2723], "Acts_ch_1.docx": [2040], "Acts_ch_3.docx": [1370]}
+hazard	{"Acts_ch_27.docx": [1127]}
+boxi	{"1 Corinthians_ch_9.docx": [3548]}

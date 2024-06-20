@@ -1,0 +1,4 @@
+
+idolat	{"2 Kings_ch_23.docx": [1175], "Colossians_ch_3.docx": [495, 495]}
+idolat	{"2 Kings_ch_23.docx": [1175], "Colossians_ch_3.docx": [495]}
+idolat	{"2 Kings_ch_23.docx": [1175], "Colossians_ch_3.docx": [495]}

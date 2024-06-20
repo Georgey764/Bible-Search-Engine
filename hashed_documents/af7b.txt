@@ -1,0 +1,4 @@
+
+disas	{"2 Kings_ch_16.docx": [2871], "Job_ch_15.docx": [2172, 2172, 2172], "Isaiah_ch_30.docx": [4719, 4719, 4719], "Isaiah_ch_53.docx": [386, 386, 386], "Jeremiah_ch_19.docx": [1658, 1658, 1658]}
+disas	{"2 Kings_ch_16.docx": [2871], "Job_ch_15.docx": [2172, 2172], "Isaiah_ch_30.docx": [4719, 4719], "Isaiah_ch_53.docx": [386, 386], "Jeremiah_ch_19.docx": [1658, 1658]}
+disas	{"2 Kings_ch_16.docx": [2871], "Job_ch_15.docx": [2172], "Isaiah_ch_30.docx": [4719], "Isaiah_ch_53.docx": [386], "Jeremiah_ch_19.docx": [1658]}

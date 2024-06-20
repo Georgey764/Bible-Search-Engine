@@ -1,0 +1,4 @@
+
+slump	{"Acts_ch_20.docx": [2764]}
+7-year	{"2 Kings_ch_12.docx": [10]}
+slump	{"Acts_ch_20.docx": [2764]}

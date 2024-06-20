@@ -1,0 +1,5 @@
+
+phaga	{"Numbers_ch_1.docx": [1175], "Jeremiah_ch_31.docx": [7452, 7452, 7452]}
+phaga	{"Numbers_ch_1.docx": [1175], "Jeremiah_ch_31.docx": [7452, 7452]}
+5sh	{"Judges_ch_4.docx": [802], "1 Chronicles_ch_9.docx": [680], "Psalms_ch_45.docx": [1072]}
+phaga	{"Numbers_ch_1.docx": [1175], "Jeremiah_ch_31.docx": [7452]}

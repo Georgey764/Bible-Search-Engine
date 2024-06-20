@@ -1,0 +1,3 @@
+
+33‘ha	{"Deuteronomy_ch_4.docx": [5092], "Lamentations_ch_3.docx": [2668]}
+62from	{"Nehemiah_ch_7.docx": [3739]}

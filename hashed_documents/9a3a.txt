@@ -1,0 +1,4 @@
+
+standa	{"Ezekiel_ch_5.docx": [1445], "Amos_ch_5.docx": [1442, 1442, 1442], "Matthew_ch_7.docx": [160, 205, 160, 205, 160, 205]}
+standa	{"Ezekiel_ch_5.docx": [1445], "Amos_ch_5.docx": [1442, 1442], "Matthew_ch_7.docx": [160, 205, 160, 205]}
+standa	{"Ezekiel_ch_5.docx": [1445], "Amos_ch_5.docx": [1442], "Matthew_ch_7.docx": [160, 205]}

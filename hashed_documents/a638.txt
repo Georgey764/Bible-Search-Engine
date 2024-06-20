@@ -1,0 +1,2 @@
+
+10it	{"Exodus_ch_38.docx": [1072], "Joshua_ch_5.docx": [2159], "1 Samuel_ch_13.docx": [1554], "2 Kings_ch_18.docx": [1438], "1 Chronicles_ch_1.docx": [615], "Esther_ch_8.docx": [1675]}

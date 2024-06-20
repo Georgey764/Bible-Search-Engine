@@ -1,0 +1,5 @@
+
+abima	{"Genesis_ch_10.docx": [3027], "1 Chronicles_ch_1.docx": [1843, 1843, 1843]}
+abima	{"Genesis_ch_10.docx": [3027], "1 Chronicles_ch_1.docx": [1843, 1843]}
+17‘.	{"Amos_ch_7.docx": [3332]}
+abima	{"Genesis_ch_10.docx": [3027], "1 Chronicles_ch_1.docx": [1843]}

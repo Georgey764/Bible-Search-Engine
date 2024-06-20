@@ -1,0 +1,4 @@
+
+lant	{"Numbers_ch_4.docx": [971], "Numbers_ch_8.docx": [75, 75, 75], "John_ch_18.docx": [167, 167]}
+lant	{"Numbers_ch_4.docx": [971], "Numbers_ch_8.docx": [75, 75], "John_ch_18.docx": [167]}
+lant	{"Numbers_ch_4.docx": [971], "Numbers_ch_8.docx": [75], "John_ch_18.docx": [167]}

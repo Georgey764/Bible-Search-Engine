@@ -1,0 +1,4 @@
+
+certi	{"Deuteronomy_ch_24.docx": [38, 280, 280, 280], "Isaiah_ch_50.docx": [275, 275, 275], "Jeremiah_ch_3.docx": [1565, 1565, 1565], "Matthew_ch_5.docx": [3875, 3875, 3875], "Matthew_ch_19.docx": [693, 693, 693], "Mark_ch_10.docx": [399, 399]}
+certi	{"Deuteronomy_ch_24.docx": [38, 280, 280], "Isaiah_ch_50.docx": [275, 275], "Jeremiah_ch_3.docx": [1565, 1565], "Matthew_ch_5.docx": [3875, 3875], "Matthew_ch_19.docx": [693, 693], "Mark_ch_10.docx": [399]}
+certi	{"Deuteronomy_ch_24.docx": [38, 280], "Isaiah_ch_50.docx": [275], "Jeremiah_ch_3.docx": [1565], "Matthew_ch_5.docx": [3875], "Matthew_ch_19.docx": [693], "Mark_ch_10.docx": [399]}

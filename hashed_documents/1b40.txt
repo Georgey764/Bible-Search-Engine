@@ -1,0 +1,4 @@
+
+emme	{"1 Chronicles_ch_9.docx": [1750], "1 Chronicles_ch_24.docx": [1708, 1708, 1708]}
+emme	{"1 Chronicles_ch_9.docx": [1750], "1 Chronicles_ch_24.docx": [1708, 1708]}
+emme	{"1 Chronicles_ch_9.docx": [1750], "1 Chronicles_ch_24.docx": [1708]}

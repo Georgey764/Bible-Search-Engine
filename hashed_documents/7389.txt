@@ -1,0 +1,4 @@
+
+mino	{"Genesis_ch_10.docx": [421], "Deuteronomy_ch_4.docx": [4197, 4197, 4197], "2 Corinthians_ch_4.docx": [2630, 2640, 2630, 2640], "1 Peter_ch_1.docx": [178, 204, 232, 261, 178, 204, 232, 261], "Revelation_ch_1.docx": [486, 486]}
+mino	{"Genesis_ch_10.docx": [421], "Deuteronomy_ch_4.docx": [4197, 4197], "2 Corinthians_ch_4.docx": [2630, 2640], "1 Peter_ch_1.docx": [178, 204, 232, 261], "Revelation_ch_1.docx": [486]}
+mino	{"Genesis_ch_10.docx": [421], "Deuteronomy_ch_4.docx": [4197], "2 Corinthians_ch_4.docx": [2630, 2640], "1 Peter_ch_1.docx": [178, 204, 232, 261], "Revelation_ch_1.docx": [486]}

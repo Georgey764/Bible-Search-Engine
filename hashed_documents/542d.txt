@@ -1,0 +1,4 @@
+
+rek	{"1 Chronicles_ch_2.docx": [3916], "2 Timothy_ch_1.docx": [560, 560]}
+rek	{"1 Chronicles_ch_2.docx": [3916], "2 Timothy_ch_1.docx": [560]}
+rek	{"1 Chronicles_ch_2.docx": [3916], "2 Timothy_ch_1.docx": [560]}

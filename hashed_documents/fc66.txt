@@ -1,0 +1,6 @@
+
+mole	{"Jeremiah_ch_32.docx": [6056]}
+imit	{"1 Corinthians_ch_4.docx": [2177], "1 Corinthians_ch_11.docx": [9, 13, 9, 13], "Ephesians_ch_5.docx": [5, 5], "1 Thessalonians_ch_2.docx": [1908, 1908]}
+mole	{"Jeremiah_ch_32.docx": [6056]}
+mole	{"Jeremiah_ch_32.docx": [6056]}
+imit	{"1 Corinthians_ch_4.docx": [2177], "1 Corinthians_ch_11.docx": [9, 13], "Ephesians_ch_5.docx": [5], "1 Thessalonians_ch_2.docx": [1908]}

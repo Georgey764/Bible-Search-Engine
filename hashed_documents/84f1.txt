@@ -1,0 +1,7 @@
+
+jesman	{"1 Chronicles_ch_4.docx": [257]}
+co-w	{"2 Corinthians_ch_8.docx": [3143], "Philippians_ch_2.docx": [3012, 3012]}
+17whom	{"1 Kings_ch_5.docx": [2300]}
+jesman	{"1 Chronicles_ch_4.docx": [257]}
+jesman	{"1 Chronicles_ch_4.docx": [257]}
+co-w	{"2 Corinthians_ch_8.docx": [3143], "Philippians_ch_2.docx": [3012]}

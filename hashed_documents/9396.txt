@@ -1,0 +1,10 @@
+
+amazin	{"Genesis_ch_45.docx": [3775], "Deuteronomy_ch_28.docx": [4961, 4961, 4961]}
+ram-	{"Leviticus_ch_7.docx": [125]}
+sammih	{"1 Chronicles_ch_9.docx": [556]}
+amazin	{"Genesis_ch_45.docx": [3775], "Deuteronomy_ch_28.docx": [4961, 4961]}
+ram-	{"Leviticus_ch_7.docx": [125]}
+sammih	{"1 Chronicles_ch_9.docx": [556]}
+amazin	{"Genesis_ch_45.docx": [3775], "Deuteronomy_ch_28.docx": [4961]}
+ram-	{"Leviticus_ch_7.docx": [125]}
+sammih	{"1 Chronicles_ch_9.docx": [556]}

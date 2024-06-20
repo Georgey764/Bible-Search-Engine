@@ -1,0 +1,4 @@
+
+much;	{"Proverbs_ch_21.docx": [1637], "Proverbs_ch_28.docx": [1879, 1879, 1879], "Haggai_ch_1.docx": [850, 850, 850]}
+much;	{"Proverbs_ch_21.docx": [1637], "Proverbs_ch_28.docx": [1879, 1879], "Haggai_ch_1.docx": [850, 850]}
+much;	{"Proverbs_ch_21.docx": [1637], "Proverbs_ch_28.docx": [1879], "Haggai_ch_1.docx": [850]}

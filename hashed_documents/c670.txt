@@ -1,0 +1,5 @@
+
+creta	{"Genesis_ch_10.docx": [1728], "Ezekiel_ch_30.docx": [513, 513, 513], "Titus_ch_1.docx": [1612, 1623, 1612, 1623]}
+creta	{"Genesis_ch_10.docx": [1728], "Ezekiel_ch_30.docx": [513, 513], "Titus_ch_1.docx": [1612, 1623]}
+10all	{"Numbers_ch_5.docx": [1117], "Psalms_ch_9.docx": [927], "Psalms_ch_97.docx": [904], "Psalms_ch_148.docx": [914]}
+creta	{"Genesis_ch_10.docx": [1728], "Ezekiel_ch_30.docx": [513], "Titus_ch_1.docx": [1612, 1623]}

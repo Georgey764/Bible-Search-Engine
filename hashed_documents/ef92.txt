@@ -1,0 +1,7 @@
+
+fiery	{"2 Kings_ch_3.docx": [3337], "Ezekiel_ch_38.docx": [3659, 3659, 3659], "Revelation_ch_6.docx": [424, 424]}
+ashp	{"Daniel_ch_1.docx": [395]}
+fiery	{"2 Kings_ch_3.docx": [3337], "Ezekiel_ch_38.docx": [3659, 3659], "Revelation_ch_6.docx": [424]}
+ashp	{"Daniel_ch_1.docx": [395]}
+fiery	{"2 Kings_ch_3.docx": [3337], "Ezekiel_ch_38.docx": [3659], "Revelation_ch_6.docx": [424]}
+ashp	{"Daniel_ch_1.docx": [395]}

@@ -1,0 +1,4 @@
+
+hours	{"Matthew_ch_20.docx": [534], "Matthew_ch_27.docx": [5222, 5222], "Mark_ch_15.docx": [3533, 3533], "John_ch_11.docx": [1052, 1052], "Acts_ch_5.docx": [872, 872], "Acts_ch_19.docx": [10001, 10001]}
+hours	{"Matthew_ch_20.docx": [534], "Matthew_ch_27.docx": [5222], "Mark_ch_15.docx": [3533], "John_ch_11.docx": [1052], "Acts_ch_5.docx": [872], "Acts_ch_19.docx": [10001]}
+hours	{"Matthew_ch_20.docx": [534], "Matthew_ch_27.docx": [5222], "Mark_ch_15.docx": [3533], "John_ch_11.docx": [1052], "Acts_ch_5.docx": [872], "Acts_ch_19.docx": [10001]}

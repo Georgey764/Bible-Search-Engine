@@ -1,0 +1,5 @@
+
+chry	{"Exodus_ch_39.docx": [1522], "Ezekiel_ch_28.docx": [1899, 1899, 1899], "Revelation_ch_21.docx": [3191, 3191]}
+chry	{"Exodus_ch_39.docx": [1522], "Ezekiel_ch_28.docx": [1899, 1899], "Revelation_ch_21.docx": [3191]}
+2‘man	{"Micah_ch_4.docx": [210]}
+chry	{"Exodus_ch_39.docx": [1522], "Ezekiel_ch_28.docx": [1899], "Revelation_ch_21.docx": [3191]}

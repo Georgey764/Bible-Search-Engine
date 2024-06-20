@@ -1,0 +1,2 @@
+
+52‘	{"Leviticus_ch_13.docx": [7320], "Leviticus_ch_14.docx": [7717], "Numbers_ch_1.docx": [4693], "Deuteronomy_ch_32.docx": [7852], "1 Kings_ch_8.docx": [8417], "Jeremiah_ch_51.docx": [8677], "Lamentations_ch_3.docx": [4281]}

@@ -1,0 +1,4 @@
+
+slack	{"Exodus_ch_5.docx": [821, 2544, 2544, 2544], "Deuteronomy_ch_7.docx": [1436, 1436, 1436], "Ezekiel_ch_16.docx": [6766, 6766, 6766], "Ezekiel_ch_21.docx": [2766, 2766, 2766]}
+slack	{"Exodus_ch_5.docx": [821, 2544, 2544], "Deuteronomy_ch_7.docx": [1436, 1436], "Ezekiel_ch_16.docx": [6766, 6766], "Ezekiel_ch_21.docx": [2766, 2766]}
+slack	{"Exodus_ch_5.docx": [821, 2544], "Deuteronomy_ch_7.docx": [1436], "Ezekiel_ch_16.docx": [6766], "Ezekiel_ch_21.docx": [2766]}

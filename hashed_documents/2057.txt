@@ -1,0 +1,4 @@
+
+taunte	{"Job_ch_12.docx": [221], "Psalms_ch_44.docx": [1338, 1486, 1338, 1486, 1338, 1486], "Psalms_ch_79.docx": [491, 491, 491]}
+taunte	{"Job_ch_12.docx": [221], "Psalms_ch_44.docx": [1338, 1486, 1338, 1486], "Psalms_ch_79.docx": [491, 491]}
+taunte	{"Job_ch_12.docx": [221], "Psalms_ch_44.docx": [1338, 1486], "Psalms_ch_79.docx": [491]}

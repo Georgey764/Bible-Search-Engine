@@ -1,0 +1,4 @@
+
+debase	{"Job_ch_16.docx": [778], "Isaiah_ch_2.docx": [1641, 1641, 1641], "Isaiah_ch_3.docx": [1217, 1369, 1217, 1369, 1217, 1369], "Ezekiel_ch_22.docx": [1653, 1653, 1653], "Luke_ch_2.docx": [5668, 5668]}
+debase	{"Job_ch_16.docx": [778], "Isaiah_ch_2.docx": [1641, 1641], "Isaiah_ch_3.docx": [1217, 1369, 1217, 1369], "Ezekiel_ch_22.docx": [1653, 1653], "Luke_ch_2.docx": [5668]}
+debase	{"Job_ch_16.docx": [778], "Isaiah_ch_2.docx": [1641], "Isaiah_ch_3.docx": [1217, 1369], "Ezekiel_ch_22.docx": [1653], "Luke_ch_2.docx": [5668]}

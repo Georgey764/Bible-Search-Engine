@@ -1,0 +1,2 @@
+
+19you	{"Deuteronomy_ch_28.docx": [2497], "1 Chronicles_ch_17.docx": [2775], "Psalms_ch_69.docx": [2123], "Psalms_ch_77.docx": [1743], "Psalms_ch_104.docx": [1955], "Proverbs_ch_5.docx": [1574], "Proverbs_ch_29.docx": [1708], "Isaiah_ch_14.docx": [3017], "Matthew_ch_19.docx": [2340]}

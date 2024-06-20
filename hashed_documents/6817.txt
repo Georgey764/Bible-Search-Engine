@@ -1,0 +1,4 @@
+
+wife!	{"Genesis_ch_12.docx": [1457], "Genesis_ch_39.docx": [1443, 1443, 1443], "1 Corinthians_ch_7.docx": [3261, 3261]}
+wife!	{"Genesis_ch_12.docx": [1457], "Genesis_ch_39.docx": [1443, 1443], "1 Corinthians_ch_7.docx": [3261]}
+wife!	{"Genesis_ch_12.docx": [1457], "Genesis_ch_39.docx": [1443], "1 Corinthians_ch_7.docx": [3261]}

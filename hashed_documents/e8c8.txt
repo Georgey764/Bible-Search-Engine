@@ -1,0 +1,4 @@
+
+20why	{"2 Samuel_ch_15.docx": [2903]}
+40,60	{"1 Chronicles_ch_12.docx": [4534]}
+9:1	{"Matthew_ch_4.docx": [2031]}

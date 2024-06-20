@@ -1,0 +1,6 @@
+
+winno	{"Isaiah_ch_41.docx": [2642]}
+funct	{"Romans_ch_12.docx": [586]}
+winno	{"Isaiah_ch_41.docx": [2642]}
+winno	{"Isaiah_ch_41.docx": [2642]}
+funct	{"Romans_ch_12.docx": [586]}

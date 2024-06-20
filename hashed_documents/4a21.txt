@@ -1,0 +1,4 @@
+
+firmer	{"Ezekiel_ch_3.docx": [1176], "Colossians_ch_2.docx": [1300, 1300]}
+firmer	{"Ezekiel_ch_3.docx": [1176], "Colossians_ch_2.docx": [1300]}
+firmer	{"Ezekiel_ch_3.docx": [1176], "Colossians_ch_2.docx": [1300]}

@@ -1,0 +1,5 @@
+
+thicke	{"Genesis_ch_22.docx": [1957], "2 Samuel_ch_18.docx": [1359, 1359, 1359], "2 Samuel_ch_22.docx": [1275, 1275, 1275], "1 Kings_ch_12.docx": [1494, 1494, 1494], "Isaiah_ch_9.docx": [3070, 3070, 3070]}
+thicke	{"Genesis_ch_22.docx": [1957], "2 Samuel_ch_18.docx": [1359, 1359], "2 Samuel_ch_22.docx": [1275, 1275], "1 Kings_ch_12.docx": [1494, 1494], "Isaiah_ch_9.docx": [3070, 3070]}
+39yo	{"Deuteronomy_ch_28.docx": [5402], "2 Kings_ch_17.docx": [7075], "Psalms_ch_18.docx": [3747]}
+thicke	{"Genesis_ch_22.docx": [1957], "2 Samuel_ch_18.docx": [1359], "2 Samuel_ch_22.docx": [1275], "1 Kings_ch_12.docx": [1494], "Isaiah_ch_9.docx": [3070]}

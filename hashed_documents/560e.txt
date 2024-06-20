@@ -1,0 +1,2 @@
+
+3,6	{"1 Kings_ch_5.docx": [2295], "2 Kings_ch_23.docx": [7239, 7245], "2 Chronicles_ch_2.docx": [261, 3317], "Ezra_ch_2.docx": [1377], "Ezra_ch_8.docx": [3613]}

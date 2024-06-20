@@ -1,0 +1,8 @@
+
+hodi	{"1 Chronicles_ch_4.docx": [2117], "Nehemiah_ch_8.docx": [1894, 1894, 1894], "Nehemiah_ch_9.docx": [1015, 1015, 1015], "Nehemiah_ch_10.docx": [543, 668, 921, 543, 668, 543, 668, 921]}
+extrao	{"Job_ch_34.docx": [2333], "Hebrews_ch_2.docx": [14, 14]}
+hodi	{"1 Chronicles_ch_4.docx": [2117], "Nehemiah_ch_8.docx": [1894, 1894], "Nehemiah_ch_9.docx": [1015, 1015], "Nehemiah_ch_10.docx": [543, 668, 543, 668, 921]}
+extrao	{"Job_ch_34.docx": [2333], "Hebrews_ch_2.docx": [14]}
+4‘don	{"Zechariah_ch_1.docx": [402]}
+hodi	{"1 Chronicles_ch_4.docx": [2117], "Nehemiah_ch_8.docx": [1894], "Nehemiah_ch_9.docx": [1015], "Nehemiah_ch_10.docx": [543, 668, 921]}
+extrao	{"Job_ch_34.docx": [2333], "Hebrews_ch_2.docx": [14]}

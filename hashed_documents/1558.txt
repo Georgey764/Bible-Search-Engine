@@ -1,0 +1,4 @@
+
+yards	{"Jeremiah_ch_49.docx": [5291, 5766, 5766, 5766], "Ezekiel_ch_15.docx": [341, 341, 341]}
+yards	{"Jeremiah_ch_49.docx": [5291, 5766, 5766], "Ezekiel_ch_15.docx": [341, 341]}
+yards	{"Jeremiah_ch_49.docx": [5291, 5766], "Ezekiel_ch_15.docx": [341]}

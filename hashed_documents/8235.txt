@@ -1,0 +1,4 @@
+
+dimne	{"Proverbs_ch_7.docx": [813], "Amos_ch_5.docx": [3727, 3727, 3727], "Zephaniah_ch_1.docx": [2761, 2761, 2761]}
+dimne	{"Proverbs_ch_7.docx": [813], "Amos_ch_5.docx": [3727, 3727], "Zephaniah_ch_1.docx": [2761, 2761]}
+dimne	{"Proverbs_ch_7.docx": [813], "Amos_ch_5.docx": [3727], "Zephaniah_ch_1.docx": [2761]}

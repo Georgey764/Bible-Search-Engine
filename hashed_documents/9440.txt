@@ -1,0 +1,5 @@
+
+while;	{"Judges_ch_19.docx": [906], "Isaiah_ch_54.docx": [1104, 1104, 1104]}
+26:	{"Leviticus_ch_24.docx": [3093], "Numbers_ch_26.docx": [579], "Zechariah_ch_13.docx": [1322]}
+while;	{"Judges_ch_19.docx": [906], "Isaiah_ch_54.docx": [1104, 1104]}
+while;	{"Judges_ch_19.docx": [906], "Isaiah_ch_54.docx": [1104]}

@@ -1,0 +1,3 @@
+
+progre	{"Luke_ch_2.docx": [9201], "1 Timothy_ch_4.docx": [1767, 1767]}
+progre	{"Luke_ch_2.docx": [9201], "1 Timothy_ch_4.docx": [1767]}

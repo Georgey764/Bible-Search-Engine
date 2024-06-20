@@ -1,0 +1,4 @@
+
+unnumb	{"1 Chronicles_ch_22.docx": [376], "Job_ch_5.docx": [795, 795, 795], "Job_ch_34.docx": [2335, 2335, 2335], "Psalms_ch_40.docx": [699, 699, 699], "Proverbs_ch_7.docx": [2352, 2352, 2352], "Song of Solomon_ch_6.docx": [1153, 1153, 1153]}
+unnumb	{"1 Chronicles_ch_22.docx": [376], "Job_ch_5.docx": [795, 795], "Job_ch_34.docx": [2335, 2335], "Psalms_ch_40.docx": [699, 699], "Proverbs_ch_7.docx": [2352, 2352], "Song of Solomon_ch_6.docx": [1153, 1153]}
+unnumb	{"1 Chronicles_ch_22.docx": [376], "Job_ch_5.docx": [795], "Job_ch_34.docx": [2335], "Psalms_ch_40.docx": [699], "Proverbs_ch_7.docx": [2352], "Song of Solomon_ch_6.docx": [1153]}

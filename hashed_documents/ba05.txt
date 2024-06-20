@@ -1,0 +1,3 @@
+
+5ta	{"Genesis_ch_12.docx": [469]}
+28y	{"Exodus_ch_14.docx": [5018], "Psalms_ch_118.docx": [2351], "Isaiah_ch_41.docx": [4982], "Matthew_ch_16.docx": [3702]}

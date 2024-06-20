@@ -1,0 +1,4 @@
+
+began!	{"Judges_ch_20.docx": [2549], "1 Kings_ch_18.docx": [7701, 7701, 7701], "Psalms_ch_148.docx": [463, 463, 463], "Isaiah_ch_41.docx": [4793, 4793, 4793]}
+began!	{"Judges_ch_20.docx": [2549], "1 Kings_ch_18.docx": [7701, 7701], "Psalms_ch_148.docx": [463, 463], "Isaiah_ch_41.docx": [4793, 4793]}
+began!	{"Judges_ch_20.docx": [2549], "1 Kings_ch_18.docx": [7701], "Psalms_ch_148.docx": [463], "Isaiah_ch_41.docx": [4793]}

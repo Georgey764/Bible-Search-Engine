@@ -1,0 +1,4 @@
+
+reaper	{"Matthew_ch_13.docx": [3933, 5399, 5399, 5399]}
+reaper	{"Matthew_ch_13.docx": [3933, 5399, 5399]}
+reaper	{"Matthew_ch_13.docx": [3933, 5399]}

@@ -1,0 +1,2 @@
+
+29fo	{"Exodus_ch_6.docx": [3589], "Exodus_ch_37.docx": [3061], "Job_ch_20.docx": [2941], "Psalms_ch_107.docx": [2517], "Proverbs_ch_6.docx": [2935], "Jeremiah_ch_25.docx": [4531], "Daniel_ch_4.docx": [5465]}

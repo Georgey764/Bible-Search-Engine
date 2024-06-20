@@ -1,0 +1,4 @@
+
+rhode	{"Genesis_ch_10.docx": [586, 588, 588, 588], "Ezekiel_ch_27.docx": [2026, 2026, 2026], "Acts_ch_21.docx": [66, 97, 129, 66, 97, 129]}
+rhode	{"Genesis_ch_10.docx": [586, 588, 588], "Ezekiel_ch_27.docx": [2026, 2026], "Acts_ch_21.docx": [66, 97, 129]}
+rhode	{"Genesis_ch_10.docx": [586, 588], "Ezekiel_ch_27.docx": [2026], "Acts_ch_21.docx": [66, 97, 129]}

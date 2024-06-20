@@ -1,0 +1,4 @@
+
+sena	{"Joshua_ch_15.docx": [338], "Ezra_ch_2.docx": [1379, 1379, 1379], "Nehemiah_ch_7.docx": [2382, 2382, 2382]}
+sena	{"Joshua_ch_15.docx": [338], "Ezra_ch_2.docx": [1379, 1379], "Nehemiah_ch_7.docx": [2382, 2382]}
+sena	{"Joshua_ch_15.docx": [338], "Ezra_ch_2.docx": [1379], "Nehemiah_ch_7.docx": [2382]}

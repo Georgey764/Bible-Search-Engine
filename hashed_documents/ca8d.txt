@@ -1,0 +1,4 @@
+
+akou	{"1 Chronicles_ch_3.docx": [2228], "1 Chronicles_ch_9.docx": [2541, 2541, 2541]}
+akou	{"1 Chronicles_ch_3.docx": [2228], "1 Chronicles_ch_9.docx": [2541, 2541]}
+akou	{"1 Chronicles_ch_3.docx": [2228], "1 Chronicles_ch_9.docx": [2541]}

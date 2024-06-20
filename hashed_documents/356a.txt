@@ -1,0 +1,5 @@
+
+overla	{"Exodus_ch_26.docx": [3103], "Exodus_ch_27.docx": [194, 611, 1141, 2015, 194, 611, 1141, 2015, 194, 611, 1141, 2015], "2 Chronicles_ch_9.docx": [2666, 3092, 2666, 3092, 2666, 3092], "Hebrews_ch_9.docx": [282, 282]}
+overla	{"Exodus_ch_26.docx": [3103], "Exodus_ch_27.docx": [194, 611, 1141, 2015, 194, 611, 1141, 2015], "2 Chronicles_ch_9.docx": [2666, 3092, 2666, 3092], "Hebrews_ch_9.docx": [282]}
+9‘[je	{"Jeremiah_ch_8.docx": [1693]}
+overla	{"Exodus_ch_26.docx": [3103], "Exodus_ch_27.docx": [194, 611, 1141, 2015], "2 Chronicles_ch_9.docx": [2666, 3092], "Hebrews_ch_9.docx": [282]}

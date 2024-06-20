@@ -1,0 +1,4 @@
+
+demote	{"1 Samuel_ch_18.docx": [2016]}
+demote	{"1 Samuel_ch_18.docx": [2016]}
+demote	{"1 Samuel_ch_18.docx": [2016]}

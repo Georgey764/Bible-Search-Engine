@@ -1,0 +1,3 @@
+
+38amo	{"Numbers_ch_1.docx": [3435]}
+3sp	{"Psalms_ch_96.docx": [218], "Isaiah_ch_54.docx": [462]}

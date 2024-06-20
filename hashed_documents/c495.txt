@@ -1,0 +1,4 @@
+
+uncles	{"Joshua_ch_17.docx": [738], "Judges_ch_9.docx": [662, 662, 662]}
+uncles	{"Joshua_ch_17.docx": [738], "Judges_ch_9.docx": [662, 662]}
+uncles	{"Joshua_ch_17.docx": [738], "Judges_ch_9.docx": [662]}

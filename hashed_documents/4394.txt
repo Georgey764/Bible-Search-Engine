@@ -1,0 +1,4 @@
+
+off!	{"Deuteronomy_ch_4.docx": [3879], "1 Samuel_ch_3.docx": [1781, 1781, 1781], "2 Samuel_ch_21.docx": [934, 934, 934], "2 Kings_ch_13.docx": [3192, 3192, 3192], "2 Kings_ch_17.docx": [4566, 4566, 4566], "Isaiah_ch_51.docx": [2757, 2757, 2757], "Mark_ch_9.docx": [5911, 5911]}
+off!	{"Deuteronomy_ch_4.docx": [3879], "1 Samuel_ch_3.docx": [1781, 1781], "2 Samuel_ch_21.docx": [934, 934], "2 Kings_ch_13.docx": [3192, 3192], "2 Kings_ch_17.docx": [4566, 4566], "Isaiah_ch_51.docx": [2757, 2757], "Mark_ch_9.docx": [5911]}
+off!	{"Deuteronomy_ch_4.docx": [3879], "1 Samuel_ch_3.docx": [1781], "2 Samuel_ch_21.docx": [934], "2 Kings_ch_13.docx": [3192], "2 Kings_ch_17.docx": [4566], "Isaiah_ch_51.docx": [2757], "Mark_ch_9.docx": [5911]}

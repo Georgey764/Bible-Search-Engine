@@ -1,0 +1,4 @@
+
+pose	{"Judges_ch_14.docx": [2741], "Ezekiel_ch_44.docx": [5372, 5372, 5372]}
+pose	{"Judges_ch_14.docx": [2741], "Ezekiel_ch_44.docx": [5372, 5372]}
+pose	{"Judges_ch_14.docx": [2741], "Ezekiel_ch_44.docx": [5372]}

@@ -1,0 +1,4 @@
+
+salami	{"Numbers_ch_1.docx": [703], "Numbers_ch_7.docx": [4264, 4902, 4264, 4902, 4264, 4902], "Numbers_ch_10.docx": [2173, 2173, 2173], "Numbers_ch_34.docx": [2033, 2033, 2033], "Joshua_ch_19.docx": [3366, 3997, 3997, 3366, 3997]}
+salami	{"Numbers_ch_1.docx": [703], "Numbers_ch_7.docx": [4264, 4902, 4264, 4902], "Numbers_ch_10.docx": [2173, 2173], "Numbers_ch_34.docx": [2033, 2033], "Joshua_ch_19.docx": [3997, 3366, 3997]}
+salami	{"Numbers_ch_1.docx": [703], "Numbers_ch_7.docx": [4264, 4902], "Numbers_ch_10.docx": [2173], "Numbers_ch_34.docx": [2033], "Joshua_ch_19.docx": [3366, 3997]}

@@ -1,0 +1,4 @@
+
+hinges	{"1 Chronicles_ch_22.docx": [356], "Proverbs_ch_26.docx": [1252, 1252, 1252]}
+hinges	{"1 Chronicles_ch_22.docx": [356], "Proverbs_ch_26.docx": [1252, 1252]}
+hinges	{"1 Chronicles_ch_22.docx": [356], "Proverbs_ch_26.docx": [1252]}

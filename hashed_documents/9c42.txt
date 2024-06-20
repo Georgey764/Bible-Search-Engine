@@ -1,0 +1,6 @@
+
+ggr	{"Leviticus_ch_11.docx": [2384]}
+41chie	{"Genesis_ch_36.docx": [4294]}
+ggr	{"Leviticus_ch_11.docx": [2384]}
+20,2	{"1 Chronicles_ch_7.docx": [1204]}
+ggr	{"Leviticus_ch_11.docx": [2384]}

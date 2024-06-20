@@ -1,0 +1,5 @@
+
+impude	{"Genesis_ch_31.docx": [4665], "Proverbs_ch_7.docx": [1157, 1157, 1157], "Proverbs_ch_21.docx": [2823, 2823, 2823], "Proverbs_ch_25.docx": [2319, 2319, 2319], "Ecclesiastes_ch_8.docx": [65, 65, 65], "Isaiah_ch_56.docx": [1918, 1918, 1918]}
+impude	{"Genesis_ch_31.docx": [4665], "Proverbs_ch_7.docx": [1157, 1157], "Proverbs_ch_21.docx": [2823, 2823], "Proverbs_ch_25.docx": [2319, 2319], "Ecclesiastes_ch_8.docx": [65, 65], "Isaiah_ch_56.docx": [1918, 1918]}
+15za	{"1 Chronicles_ch_8.docx": [1109]}
+impude	{"Genesis_ch_31.docx": [4665], "Proverbs_ch_7.docx": [1157], "Proverbs_ch_21.docx": [2823], "Proverbs_ch_25.docx": [2319], "Ecclesiastes_ch_8.docx": [65], "Isaiah_ch_56.docx": [1918]}

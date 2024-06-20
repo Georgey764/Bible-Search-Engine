@@ -1,0 +1,7 @@
+
+gaida	{"Genesis_ch_4.docx": [2194, 2220, 2220, 2220]}
+orone	{"2 Samuel_ch_13.docx": [5589]}
+gaida	{"Genesis_ch_4.docx": [2194, 2220, 2220]}
+orone	{"2 Samuel_ch_13.docx": [5589]}
+gaida	{"Genesis_ch_4.docx": [2194, 2220]}
+orone	{"2 Samuel_ch_13.docx": [5589]}

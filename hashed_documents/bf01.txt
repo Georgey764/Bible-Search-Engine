@@ -1,0 +1,8 @@
+
+gema	{"Jeremiah_ch_29.docx": [403], "Jeremiah_ch_36.docx": [1297, 1849, 2187, 4042, 1297, 1849, 2187, 4042, 1297, 1849, 2187, 4042]}
+oath<	{"Amos_ch_5.docx": [792]}
+22‘je	{"1 Samuel_ch_8.docx": [2584]}
+gema	{"Jeremiah_ch_29.docx": [403], "Jeremiah_ch_36.docx": [1297, 1849, 2187, 4042, 1297, 1849, 2187, 4042]}
+oath<	{"Amos_ch_5.docx": [792]}
+gema	{"Jeremiah_ch_29.docx": [403], "Jeremiah_ch_36.docx": [1297, 1849, 2187, 4042]}
+oath<	{"Amos_ch_5.docx": [792]}

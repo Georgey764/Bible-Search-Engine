@@ -1,0 +1,7 @@
+
+mocki	{"1 Samuel_ch_17.docx": [1314, 5254, 6960, 5254, 6960, 5254, 6960], "Psalms_ch_38.docx": [535, 535, 535]}
+achaba	{"1 Chronicles_ch_2.docx": [2765]}
+mocki	{"1 Samuel_ch_17.docx": [1314, 5254, 6960, 5254, 6960], "Psalms_ch_38.docx": [535, 535]}
+achaba	{"1 Chronicles_ch_2.docx": [2765]}
+mocki	{"1 Samuel_ch_17.docx": [1314, 5254, 6960], "Psalms_ch_38.docx": [535]}
+achaba	{"1 Chronicles_ch_2.docx": [2765]}

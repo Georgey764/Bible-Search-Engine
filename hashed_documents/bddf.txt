@@ -1,0 +1,7 @@
+
+darkon	{"Ezra_ch_2.docx": [2280], "Nehemiah_ch_7.docx": [3372, 3372, 3372]}
+jehoh	{"Nehemiah_ch_12.docx": [1110, 11657, 11657, 11657]}
+darkon	{"Ezra_ch_2.docx": [2280], "Nehemiah_ch_7.docx": [3372, 3372]}
+jehoh	{"Nehemiah_ch_12.docx": [1110, 11657, 11657]}
+darkon	{"Ezra_ch_2.docx": [2280], "Nehemiah_ch_7.docx": [3372]}
+jehoh	{"Nehemiah_ch_12.docx": [1110, 11657]}

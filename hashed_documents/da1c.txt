@@ -1,0 +1,4 @@
+
+eat;	{"Genesis_ch_3.docx": [1583], "Exodus_ch_16.docx": [1315, 1315, 1315], "Joel_ch_1.docx": [431, 431, 431], "Romans_ch_12.docx": [2472, 2472]}
+eat;	{"Genesis_ch_3.docx": [1583], "Exodus_ch_16.docx": [1315, 1315], "Joel_ch_1.docx": [431, 431], "Romans_ch_12.docx": [2472]}
+eat;	{"Genesis_ch_3.docx": [1583], "Exodus_ch_16.docx": [1315], "Joel_ch_1.docx": [431], "Romans_ch_12.docx": [2472]}

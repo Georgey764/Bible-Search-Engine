@@ -1,0 +1,3 @@
+
+belief	{"Mark_ch_7.docx": [4717], "Acts_ch_24.docx": [4128, 4128], "Romans_ch_15.docx": [1756, 1756], "Colossians_ch_2.docx": [1303, 1303], "2 Thessalonians_ch_2.docx": [2028, 2028], "Hebrews_ch_11.docx": [8, 8]}
+belief	{"Mark_ch_7.docx": [4717], "Acts_ch_24.docx": [4128], "Romans_ch_15.docx": [1756], "Colossians_ch_2.docx": [1303], "2 Thessalonians_ch_2.docx": [2028], "Hebrews_ch_11.docx": [8]}

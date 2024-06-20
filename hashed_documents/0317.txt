@@ -1,0 +1,7 @@
+
+west</	{"Joshua_ch_11.docx": [7007, 7036, 7069, 7036, 7069, 7036, 7069]}
+anth	{"2 Chronicles_ch_5.docx": [1874], "Daniel_ch_3.docx": [683, 1046, 1458, 2254, 683, 1046, 1458, 2254, 683, 1046, 1458, 2254]}
+west</	{"Joshua_ch_11.docx": [7007, 7036, 7069, 7036, 7069]}
+anth	{"2 Chronicles_ch_5.docx": [1874], "Daniel_ch_3.docx": [683, 1046, 1458, 2254, 683, 1046, 1458, 2254]}
+west</	{"Joshua_ch_11.docx": [7007, 7036, 7069]}
+anth	{"2 Chronicles_ch_5.docx": [1874], "Daniel_ch_3.docx": [683, 1046, 1458, 2254]}

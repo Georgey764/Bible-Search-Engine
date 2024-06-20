@@ -1,0 +1,4 @@
+
+petr	{"1 Samuel_ch_23.docx": [3620], "John_ch_1.docx": [4595, 4595]}
+petr	{"1 Samuel_ch_23.docx": [3620], "John_ch_1.docx": [4595]}
+petr	{"1 Samuel_ch_23.docx": [3620], "John_ch_1.docx": [4595]}

@@ -1,0 +1,4 @@
+
+asbel	{"Genesis_ch_46.docx": [2658], "1 Chronicles_ch_8.docx": [80, 80, 80]}
+asbel	{"Genesis_ch_46.docx": [2658], "1 Chronicles_ch_8.docx": [80, 80]}
+asbel	{"Genesis_ch_46.docx": [2658], "1 Chronicles_ch_8.docx": [80]}

@@ -1,0 +1,4 @@
+
+clasp	{"Exodus_ch_27.docx": [1032, 1132, 1132, 1132], "Exodus_ch_28.docx": [2506, 2506, 2506], "Exodus_ch_35.docx": [2173, 2173, 2173], "Exodus_ch_39.docx": [704, 1833, 704, 1833, 704, 1833], "Leviticus_ch_8.docx": [650, 650, 650], "Numbers_ch_31.docx": [5208, 5208, 5208], "Job_ch_41.docx": [121, 121, 121]}
+clasp	{"Exodus_ch_27.docx": [1032, 1132, 1132], "Exodus_ch_28.docx": [2506, 2506], "Exodus_ch_35.docx": [2173, 2173], "Exodus_ch_39.docx": [704, 1833, 704, 1833], "Leviticus_ch_8.docx": [650, 650], "Numbers_ch_31.docx": [5208, 5208], "Job_ch_41.docx": [121, 121]}
+clasp	{"Exodus_ch_27.docx": [1032, 1132], "Exodus_ch_28.docx": [2506], "Exodus_ch_35.docx": [2173], "Exodus_ch_39.docx": [704, 1833], "Leviticus_ch_8.docx": [650], "Numbers_ch_31.docx": [5208], "Job_ch_41.docx": [121]}

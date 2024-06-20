@@ -1,0 +1,9 @@
+
+glorie	{"Exodus_ch_15.docx": [1479], "Isaiah_ch_14.docx": [1733, 1733, 1733], "Isaiah_ch_23.docx": [1027, 1027, 1027], "Isaiah_ch_60.docx": [1935, 1935, 1935]}
+harran	{"2 Kings_ch_19.docx": [2035]}
+feeds	{"Ephesians_ch_5.docx": [3095], "1 Thessalonians_ch_2.docx": [880, 880]}
+glorie	{"Exodus_ch_15.docx": [1479], "Isaiah_ch_14.docx": [1733, 1733], "Isaiah_ch_23.docx": [1027, 1027], "Isaiah_ch_60.docx": [1935, 1935]}
+harran	{"2 Kings_ch_19.docx": [2035]}
+glorie	{"Exodus_ch_15.docx": [1479], "Isaiah_ch_14.docx": [1733], "Isaiah_ch_23.docx": [1027], "Isaiah_ch_60.docx": [1935]}
+harran	{"2 Kings_ch_19.docx": [2035]}
+feeds	{"Ephesians_ch_5.docx": [3095], "1 Thessalonians_ch_2.docx": [880]}

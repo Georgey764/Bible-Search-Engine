@@ -1,0 +1,5 @@
+
+asas	{"Genesis_ch_14.docx": [893], "2 Chronicles_ch_20.docx": [222, 222, 222]}
+asas	{"Genesis_ch_14.docx": [893], "2 Chronicles_ch_20.docx": [222, 222]}
+13p	{"Genesis_ch_46.docx": [1493], "Leviticus_ch_3.docx": [1669], "Isaiah_ch_26.docx": [1497]}
+asas	{"Genesis_ch_14.docx": [893], "2 Chronicles_ch_20.docx": [222]}

@@ -1,0 +1,7 @@
+
+tabor	{"Judges_ch_4.docx": [2167, 4872, 4887, 6108, 6113, 4872, 4887, 6108, 6113, 4872, 4887, 6108, 6113], "Judges_ch_8.docx": [3657, 3657, 3657], "1 Samuel_ch_10.docx": [573, 573, 573], "Psalms_ch_89.docx": [1253, 1253, 1253], "Jeremiah_ch_46.docx": [2865, 2865, 2865], "Hosea_ch_5.docx": [335, 335, 335]}
+guidep	{"Jeremiah_ch_31.docx": [3889]}
+tabor	{"Judges_ch_4.docx": [2167, 4872, 4887, 6108, 6113, 4872, 4887, 6108, 6113], "Judges_ch_8.docx": [3657, 3657], "1 Samuel_ch_10.docx": [573, 573], "Psalms_ch_89.docx": [1253, 1253], "Jeremiah_ch_46.docx": [2865, 2865], "Hosea_ch_5.docx": [335, 335]}
+guidep	{"Jeremiah_ch_31.docx": [3889]}
+tabor	{"Judges_ch_4.docx": [2167, 4872, 4887, 6108, 6113], "Judges_ch_8.docx": [3657], "1 Samuel_ch_10.docx": [573], "Psalms_ch_89.docx": [1253], "Jeremiah_ch_46.docx": [2865], "Hosea_ch_5.docx": [335]}
+guidep	{"Jeremiah_ch_31.docx": [3889]}

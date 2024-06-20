@@ -1,0 +1,2 @@
+
+15‘s	{"Deuteronomy_ch_1.docx": [1919], "Deuteronomy_ch_9.docx": [2594], "Deuteronomy_ch_26.docx": [2486], "1 Samuel_ch_22.docx": [2314], "1 Chronicles_ch_22.docx": [2609], "Job_ch_21.docx": [1275], "Ecclesiastes_ch_8.docx": [1830], "Isaiah_ch_43.docx": [2525], "Jeremiah_ch_4.docx": [2773], "Jeremiah_ch_6.docx": [2553], "Jeremiah_ch_35.docx": [2495], "Lamentations_ch_4.docx": [2312], "Ezekiel_ch_27.docx": [2024], "Hosea_ch_4.docx": [2546], "Matthew_ch_23.docx": [1696], "Matthew_ch_24.docx": [1608]}

@@ -1,0 +1,7 @@
+
+worm	{"Exodus_ch_16.docx": [3156, 3870, 3870, 3870], "Deuteronomy_ch_28.docx": [5422, 5422, 5422], "Job_ch_7.docx": [551, 551, 551], "Job_ch_25.docx": [476, 476, 476], "Psalms_ch_22.docx": [591, 591, 591], "Proverbs_ch_12.docx": [387, 387, 387], "Proverbs_ch_25.docx": [1979, 1979, 1979], "Isaiah_ch_14.docx": [1845, 1845, 1845], "Mark_ch_9.docx": [5942, 6224, 6620, 5942, 6224, 6620], "Acts_ch_12.docx": [4978, 4978], "2 Peter_ch_2.docx": [260, 260], "Revelation_ch_8.docx": [1619, 1669, 1619, 1669]}
+jaai	{"1 Chronicles_ch_7.docx": [2412]}
+worm	{"Exodus_ch_16.docx": [3156, 3870, 3870], "Deuteronomy_ch_28.docx": [5422, 5422], "Job_ch_7.docx": [551, 551], "Job_ch_25.docx": [476, 476], "Psalms_ch_22.docx": [591, 591], "Proverbs_ch_12.docx": [387, 387], "Proverbs_ch_25.docx": [1979, 1979], "Isaiah_ch_14.docx": [1845, 1845], "Mark_ch_9.docx": [5942, 6224, 6620], "Acts_ch_12.docx": [4978], "2 Peter_ch_2.docx": [260], "Revelation_ch_8.docx": [1619, 1669]}
+jaai	{"1 Chronicles_ch_7.docx": [2412]}
+worm	{"Exodus_ch_16.docx": [3156, 3870], "Deuteronomy_ch_28.docx": [5422], "Job_ch_7.docx": [551], "Job_ch_25.docx": [476], "Psalms_ch_22.docx": [591], "Proverbs_ch_12.docx": [387], "Proverbs_ch_25.docx": [1979], "Isaiah_ch_14.docx": [1845], "Mark_ch_9.docx": [5942, 6224, 6620], "Acts_ch_12.docx": [4978], "2 Peter_ch_2.docx": [260], "Revelation_ch_8.docx": [1619, 1669]}
+jaai	{"1 Chronicles_ch_7.docx": [2412]}

@@ -1,0 +1,5 @@
+
+untru	{"Proverbs_ch_20.docx": [1549], "Ezekiel_ch_13.docx": [1117, 1117, 1117]}
+29u	{"Genesis_ch_10.docx": [3048], "Jeremiah_ch_50.docx": [5255]}
+untru	{"Proverbs_ch_20.docx": [1549], "Ezekiel_ch_13.docx": [1117, 1117]}
+untru	{"Proverbs_ch_20.docx": [1549], "Ezekiel_ch_13.docx": [1117]}

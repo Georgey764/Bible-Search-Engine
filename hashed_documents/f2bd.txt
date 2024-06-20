@@ -1,0 +1,8 @@
+
+lances	{"Nehemiah_ch_4.docx": [2619], "Job_ch_16.docx": [1199, 1199, 1199], "Job_ch_41.docx": [2299, 2299, 2299], "Ezekiel_ch_26.docx": [1434, 1434, 1434], "Ezekiel_ch_39.docx": [1491, 1491, 1491]}
+scornf	{"Jeremiah_ch_51.docx": [3096], "Lamentations_ch_3.docx": [5065, 5065, 5065]}
+lances	{"Nehemiah_ch_4.docx": [2619], "Job_ch_16.docx": [1199, 1199], "Job_ch_41.docx": [2299, 2299], "Ezekiel_ch_26.docx": [1434, 1434], "Ezekiel_ch_39.docx": [1491, 1491]}
+40j	{"Jeremiah_ch_48.docx": [5549]}
+scornf	{"Jeremiah_ch_51.docx": [3096], "Lamentations_ch_3.docx": [5065, 5065]}
+lances	{"Nehemiah_ch_4.docx": [2619], "Job_ch_16.docx": [1199], "Job_ch_41.docx": [2299], "Ezekiel_ch_26.docx": [1434], "Ezekiel_ch_39.docx": [1491]}
+scornf	{"Jeremiah_ch_51.docx": [3096], "Lamentations_ch_3.docx": [5065]}

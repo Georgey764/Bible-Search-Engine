@@ -1,0 +1,6 @@
+
+aada	{"1 Chronicles_ch_2.docx": [2857, 2975, 2975, 2975]}
+21god	{"Genesis_ch_2.docx": [2867], "Exodus_ch_13.docx": [3381]}
+9‘don	{"Numbers_ch_14.docx": [1069], "Ecclesiastes_ch_7.docx": [973], "Matthew_ch_16.docx": [1136]}
+aada	{"1 Chronicles_ch_2.docx": [2857, 2975, 2975]}
+aada	{"1 Chronicles_ch_2.docx": [2857, 2975]}

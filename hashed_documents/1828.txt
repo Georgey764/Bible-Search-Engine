@@ -1,0 +1,4 @@
+
+sibma	{"Isaiah_ch_16.docx": [1378, 1749, 1749, 1749], "Jeremiah_ch_48.docx": [4126, 4126, 4126]}
+sibma	{"Isaiah_ch_16.docx": [1378, 1749, 1749], "Jeremiah_ch_48.docx": [4126, 4126]}
+sibma	{"Isaiah_ch_16.docx": [1378, 1749], "Jeremiah_ch_48.docx": [4126]}

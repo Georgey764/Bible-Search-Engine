@@ -1,0 +1,4 @@
+
+kam	{"Exodus_ch_4.docx": [2743], "1 Chronicles_ch_3.docx": [591, 591, 591], "1 Chronicles_ch_27.docx": [2240, 2240, 2240]}
+kam	{"Exodus_ch_4.docx": [2743], "1 Chronicles_ch_3.docx": [591, 591], "1 Chronicles_ch_27.docx": [2240, 2240]}
+kam	{"Exodus_ch_4.docx": [2743], "1 Chronicles_ch_3.docx": [591], "1 Chronicles_ch_27.docx": [2240]}

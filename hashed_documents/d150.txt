@@ -1,0 +1,5 @@
+
+cappa	{"Deuteronomy_ch_2.docx": [2781, 2785, 2785, 2785], "Jeremiah_ch_47.docx": [775, 775, 775]}
+cappa	{"Deuteronomy_ch_2.docx": [2781, 2785, 2785], "Jeremiah_ch_47.docx": [775, 775]}
+24‘is	{"2 Samuel_ch_1.docx": [3362], "Ezekiel_ch_28.docx": [3789]}
+cappa	{"Deuteronomy_ch_2.docx": [2781, 2785], "Jeremiah_ch_47.docx": [775]}

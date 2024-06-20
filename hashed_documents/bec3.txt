@@ -1,0 +1,7 @@
+
+wris	{"1 Samuel_ch_5.docx": [656], "Ezekiel_ch_16.docx": [1732, 1732, 1732]}
+passa	{"Nehemiah_ch_2.docx": [1250], "Ezekiel_ch_41.docx": [1319, 1319, 1319]}
+wris	{"1 Samuel_ch_5.docx": [656], "Ezekiel_ch_16.docx": [1732, 1732]}
+passa	{"Nehemiah_ch_2.docx": [1250], "Ezekiel_ch_41.docx": [1319, 1319]}
+wris	{"1 Samuel_ch_5.docx": [656], "Ezekiel_ch_16.docx": [1732]}
+passa	{"Nehemiah_ch_2.docx": [1250], "Ezekiel_ch_41.docx": [1319]}

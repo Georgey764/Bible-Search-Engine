@@ -1,0 +1,3 @@
+
+5it	{"2 Chronicles_ch_3.docx": [620], "Proverbs_ch_18.docx": [406], "Proverbs_ch_27.docx": [392], "Jeremiah_ch_18.docx": [370]}
+18‘mic	{"Jeremiah_ch_26.docx": [2995]}

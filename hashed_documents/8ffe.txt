@@ -1,0 +1,4 @@
+
+sown	{"Jeremiah_ch_8.docx": [2519], "Hosea_ch_8.docx": [926, 926, 926]}
+sown	{"Jeremiah_ch_8.docx": [2519], "Hosea_ch_8.docx": [926, 926]}
+sown	{"Jeremiah_ch_8.docx": [2519], "Hosea_ch_8.docx": [926]}

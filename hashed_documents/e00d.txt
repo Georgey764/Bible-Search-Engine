@@ -1,0 +1,4 @@
+
+18on	{"Numbers_ch_7.docx": [2207], "Psalms_ch_103.docx": [1529], "Isaiah_ch_1.docx": [2975], "Ezekiel_ch_44.docx": [3550]}
+8lik	{"Psalms_ch_58.docx": [794], "Proverbs_ch_27.docx": [617]}
+139	{"Psalms_ch_119.docx": [11616], "Psalms_ch_139.docx": [3]}

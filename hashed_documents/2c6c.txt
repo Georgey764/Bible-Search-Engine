@@ -1,0 +1,2 @@
+
+11y	{"Deuteronomy_ch_24.docx": [1524], "Joshua_ch_14.docx": [1345], "Job_ch_10.docx": [1000], "Job_ch_41.docx": [982], "Psalms_ch_46.docx": [1064], "Psalms_ch_65.docx": [1292], "Psalms_ch_73.docx": [889], "Psalms_ch_89.docx": [1114], "Psalms_ch_118.docx": [811], "Ecclesiastes_ch_3.docx": [861], "Isaiah_ch_22.docx": [1437], "Isaiah_ch_58.docx": [2333], "Isaiah_ch_64.docx": [1332], "Matthew_ch_26.docx": [965]}

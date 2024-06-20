@@ -1,0 +1,4 @@
+
+cata	{"Leviticus_ch_21.docx": [2363], "Joshua_ch_19.docx": [1110, 1257, 1110, 1110, 1257], "1 Kings_ch_14.docx": [612, 612, 612]}
+cata	{"Leviticus_ch_21.docx": [2363], "Joshua_ch_19.docx": [1110, 1110, 1257], "1 Kings_ch_14.docx": [612, 612]}
+cata	{"Leviticus_ch_21.docx": [2363], "Joshua_ch_19.docx": [1110, 1257], "1 Kings_ch_14.docx": [612]}

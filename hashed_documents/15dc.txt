@@ -1,0 +1,11 @@
+
+pine	{"Joshua_ch_17.docx": [1357], "1 Samuel_ch_17.docx": [49, 2610, 49, 2610, 49, 2610], "1 Kings_ch_5.docx": [1255, 1608, 1255, 1608, 1255, 1608], "1 Kings_ch_6.docx": [1908, 3674, 3965, 1908, 3674, 3965, 1908, 3674, 3965], "1 Kings_ch_9.docx": [1932, 1932, 1932], "2 Chronicles_ch_2.docx": [1514, 1514, 1514], "2 Chronicles_ch_9.docx": [1568, 1568, 1568], "Isaiah_ch_1.docx": [4639, 4639, 4639], "Isaiah_ch_6.docx": [2239, 2239, 2239], "Isaiah_ch_60.docx": [1985, 1985, 1985], "Ezekiel_ch_31.docx": [1148, 1148, 1148], "Zechariah_ch_11.docx": [99, 99, 99]}
+decke	{"Ezekiel_ch_16.docx": [1685], "Ezekiel_ch_23.docx": [6699, 6699, 6699]}
+ferven	{"Joel_ch_1.docx": [2402], "Jonah_ch_3.docx": [1032, 1032, 1032]}
+pine	{"Joshua_ch_17.docx": [1357], "1 Samuel_ch_17.docx": [49, 2610, 49, 2610], "1 Kings_ch_5.docx": [1255, 1608, 1255, 1608], "1 Kings_ch_6.docx": [1908, 3674, 3965, 1908, 3674, 3965], "1 Kings_ch_9.docx": [1932, 1932], "2 Chronicles_ch_2.docx": [1514, 1514], "2 Chronicles_ch_9.docx": [1568, 1568], "Isaiah_ch_1.docx": [4639, 4639], "Isaiah_ch_6.docx": [2239, 2239], "Isaiah_ch_60.docx": [1985, 1985], "Ezekiel_ch_31.docx": [1148, 1148], "Zechariah_ch_11.docx": [99, 99]}
+17let	{"Proverbs_ch_5.docx": [1431]}
+decke	{"Ezekiel_ch_16.docx": [1685], "Ezekiel_ch_23.docx": [6699, 6699]}
+ferven	{"Joel_ch_1.docx": [2402], "Jonah_ch_3.docx": [1032, 1032]}
+pine	{"Joshua_ch_17.docx": [1357], "1 Samuel_ch_17.docx": [49, 2610], "1 Kings_ch_5.docx": [1255, 1608], "1 Kings_ch_6.docx": [1908, 3674, 3965], "1 Kings_ch_9.docx": [1932], "2 Chronicles_ch_2.docx": [1514], "2 Chronicles_ch_9.docx": [1568], "Isaiah_ch_1.docx": [4639], "Isaiah_ch_6.docx": [2239], "Isaiah_ch_60.docx": [1985], "Ezekiel_ch_31.docx": [1148], "Zechariah_ch_11.docx": [99]}
+decke	{"Ezekiel_ch_16.docx": [1685], "Ezekiel_ch_23.docx": [6699]}
+ferven	{"Joel_ch_1.docx": [2402], "Jonah_ch_3.docx": [1032]}

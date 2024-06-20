@@ -1,0 +1,4 @@
+
+chaine	{"Isaiah_ch_34.docx": [1941, 2018, 2108, 2018, 2108, 2018, 2108], "Isaiah_ch_43.docx": [3195, 3195, 3195], "Jeremiah_ch_50.docx": [7296, 7296, 7296], "Micah_ch_1.docx": [2999, 2999, 2999], "Revelation_ch_20.docx": [47, 47]}
+chaine	{"Isaiah_ch_34.docx": [1941, 2018, 2108, 2018, 2108], "Isaiah_ch_43.docx": [3195, 3195], "Jeremiah_ch_50.docx": [7296, 7296], "Micah_ch_1.docx": [2999, 2999], "Revelation_ch_20.docx": [47]}
+chaine	{"Isaiah_ch_34.docx": [1941, 2018, 2108], "Isaiah_ch_43.docx": [3195], "Jeremiah_ch_50.docx": [7296], "Micah_ch_1.docx": [2999], "Revelation_ch_20.docx": [47]}

@@ -1,0 +1,4 @@
+
+deals	{"Job_ch_33.docx": [2797, 3092, 3092, 3092], "Ecclesiastes_ch_7.docx": [3460, 3460, 3460]}
+deals	{"Job_ch_33.docx": [2797, 3092, 3092], "Ecclesiastes_ch_7.docx": [3460, 3460]}
+deals	{"Job_ch_33.docx": [2797, 3092], "Ecclesiastes_ch_7.docx": [3460]}

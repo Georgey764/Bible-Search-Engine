@@ -1,0 +1,10 @@
+
+elihu	{"1 Samuel_ch_1.docx": [30], "Job_ch_32.docx": [166, 445, 654, 1713, 166, 654, 1713, 166, 445, 654, 1713], "Job_ch_34.docx": [5, 5, 5], "Job_ch_35.docx": [5, 5, 5], "Job_ch_36.docx": [4, 4], "Job_ch_38.docx": [6, 6, 6]}
+tendri	{"Ezekiel_ch_17.docx": [898]}
+3that	{"Numbers_ch_1.docx": [239]}
+64,	{"Numbers_ch_26.docx": [2227, 4832]}
+elihu	{"1 Samuel_ch_1.docx": [30], "Job_ch_32.docx": [166, 654, 1713, 166, 445, 654, 1713], "Job_ch_34.docx": [5, 5], "Job_ch_35.docx": [5, 5], "Job_ch_38.docx": [6, 6], "Job_ch_36.docx": [4]}
+38,00	{"1 Chronicles_ch_23.docx": [66]}
+tendri	{"Ezekiel_ch_17.docx": [898]}
+elihu	{"1 Samuel_ch_1.docx": [30], "Job_ch_32.docx": [166, 445, 654, 1713], "Job_ch_34.docx": [5], "Job_ch_35.docx": [5], "Job_ch_36.docx": [4], "Job_ch_38.docx": [6]}
+tendri	{"Ezekiel_ch_17.docx": [898]}

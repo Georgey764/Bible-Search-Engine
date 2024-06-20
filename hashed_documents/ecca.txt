@@ -1,0 +1,7 @@
+
+aging	{"Job_ch_13.docx": [2460]}
+anga	{"Isaiah_ch_10.docx": [4255, 4374, 4374, 4374]}
+aging	{"Job_ch_13.docx": [2460]}
+anga	{"Isaiah_ch_10.docx": [4255, 4374, 4374]}
+aging	{"Job_ch_13.docx": [2460]}
+anga	{"Isaiah_ch_10.docx": [4255, 4374]}

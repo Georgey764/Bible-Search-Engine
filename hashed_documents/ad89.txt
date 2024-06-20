@@ -1,0 +1,8 @@
+
+thara	{"Joshua_ch_15.docx": [6449], "1 Chronicles_ch_2.docx": [4311, 4311, 4311], "1 Chronicles_ch_8.docx": [2324, 2324, 2324], "1 Chronicles_ch_9.docx": [5672, 5672, 5672]}
+jam	{"1 Chronicles_ch_4.docx": [2983]}
+thara	{"Joshua_ch_15.docx": [6449], "1 Chronicles_ch_2.docx": [4311, 4311], "1 Chronicles_ch_8.docx": [2324, 2324], "1 Chronicles_ch_9.docx": [5672, 5672]}
+jam	{"1 Chronicles_ch_4.docx": [2983]}
+19li	{"Proverbs_ch_12.docx": [1812]}
+thara	{"Joshua_ch_15.docx": [6449], "1 Chronicles_ch_2.docx": [4311], "1 Chronicles_ch_8.docx": [2324], "1 Chronicles_ch_9.docx": [5672]}
+jam	{"1 Chronicles_ch_4.docx": [2983]}

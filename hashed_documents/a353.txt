@@ -1,0 +1,4 @@
+
+loyall	{"Luke_ch_1.docx": [8042]}
+45‘get	{"Numbers_ch_16.docx": [6329]}
+loyall	{"Luke_ch_1.docx": [8042]}

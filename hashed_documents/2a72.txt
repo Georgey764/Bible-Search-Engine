@@ -1,0 +1,4 @@
+
+widen	{"Exodus_ch_23.docx": [2290], "Psalms_ch_18.docx": [3517, 3517, 3517], "Psalms_ch_81.docx": [1099, 1099, 1099], "Psalms_ch_119.docx": [2502, 2502, 2502], "Isaiah_ch_5.docx": [2277, 2277, 2277], "Isaiah_ch_54.docx": [287, 287], "Lamentations_ch_2.docx": [2984, 2984, 2984], "Amos_ch_1.docx": [7056, 7056, 7056], "Habakkuk_ch_2.docx": [863, 863, 863]}
+widen	{"Exodus_ch_23.docx": [2290], "Psalms_ch_18.docx": [3517, 3517], "Psalms_ch_81.docx": [1099, 1099], "Psalms_ch_119.docx": [2502, 2502], "Isaiah_ch_5.docx": [2277, 2277], "Lamentations_ch_2.docx": [2984, 2984], "Amos_ch_1.docx": [7056, 7056], "Habakkuk_ch_2.docx": [863, 863], "Isaiah_ch_54.docx": [287]}
+widen	{"Exodus_ch_23.docx": [2290], "Psalms_ch_18.docx": [3517], "Psalms_ch_81.docx": [1099], "Psalms_ch_119.docx": [2502], "Isaiah_ch_5.docx": [2277], "Isaiah_ch_54.docx": [287], "Lamentations_ch_2.docx": [2984], "Amos_ch_1.docx": [7056], "Habakkuk_ch_2.docx": [863]}

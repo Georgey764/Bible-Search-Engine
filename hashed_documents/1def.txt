@@ -1,0 +1,5 @@
+
+pledg	{"Deuteronomy_ch_24.docx": [1718], "1 Thessalonians_ch_4.docx": [1195, 1195]}
+28we’	{"Deuteronomy_ch_2.docx": [3796]}
+pledg	{"Deuteronomy_ch_24.docx": [1718], "1 Thessalonians_ch_4.docx": [1195]}
+pledg	{"Deuteronomy_ch_24.docx": [1718], "1 Thessalonians_ch_4.docx": [1195]}

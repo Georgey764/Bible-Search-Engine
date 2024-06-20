@@ -1,0 +1,5 @@
+
+amathi	{"2 Kings_ch_14.docx": [3889], "1 Chronicles_ch_6.docx": [2818, 2818, 2818], "Jonah_ch_1.docx": [13, 13, 13]}
+amathi	{"2 Kings_ch_14.docx": [3889], "1 Chronicles_ch_6.docx": [2818, 2818], "Jonah_ch_1.docx": [13, 13]}
+6(th	{"2 Kings_ch_17.docx": [693]}
+amathi	{"2 Kings_ch_14.docx": [3889], "1 Chronicles_ch_6.docx": [2818], "Jonah_ch_1.docx": [13]}

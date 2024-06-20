@@ -1,0 +1,3 @@
+
+rioti	{"Acts_ch_19.docx": [11999], "Acts_ch_20.docx": [8, 30, 53, 8, 30, 53]}
+rioti	{"Acts_ch_19.docx": [11999], "Acts_ch_20.docx": [8, 30, 53]}

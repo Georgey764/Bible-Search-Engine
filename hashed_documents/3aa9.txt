@@ -1,0 +1,3 @@
+
+magda	{"Matthew_ch_27.docx": [6516, 7167, 7167], "Mark_ch_15.docx": [4378, 5302, 4378, 5302], "Luke_ch_8.docx": [214, 214], "John_ch_19.docx": [3486, 3486], "John_ch_20.docx": [15, 1127, 2192, 15, 1127, 2192]}
+magda	{"Matthew_ch_27.docx": [6516, 7167], "Mark_ch_15.docx": [4378, 5302], "Luke_ch_8.docx": [214], "John_ch_19.docx": [3486], "John_ch_20.docx": [15, 1127, 2192]}

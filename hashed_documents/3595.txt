@@ -1,0 +1,4 @@
+
+gates;	{"Isaiah_ch_54.docx": [1886], "Jeremiah_ch_17.docx": [3321, 3321, 3321], "Amos_ch_5.docx": [2822, 2822, 2822]}
+gates;	{"Isaiah_ch_54.docx": [1886], "Jeremiah_ch_17.docx": [3321, 3321], "Amos_ch_5.docx": [2822, 2822]}
+gates;	{"Isaiah_ch_54.docx": [1886], "Jeremiah_ch_17.docx": [3321], "Amos_ch_5.docx": [2822]}

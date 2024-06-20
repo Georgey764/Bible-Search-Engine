@@ -1,0 +1,4 @@
+
+kandak	{"Acts_ch_8.docx": [5936]}
+25‘fo	{"Deuteronomy_ch_6.docx": [3354], "Joshua_ch_22.docx": [4192], "1 Kings_ch_1.docx": [3440], "1 Chronicles_ch_16.docx": [2600], "2 Chronicles_ch_34.docx": [4420], "Job_ch_19.docx": [2211], "Jeremiah_ch_44.docx": [5115], "Matthew_ch_16.docx": [3424]}
+kandak	{"Acts_ch_8.docx": [5936]}

@@ -1,0 +1,4 @@
+
+rubbl	{"Joshua_ch_8.docx": [3165], "Isaiah_ch_25.docx": [217, 217, 217]}
+rubbl	{"Joshua_ch_8.docx": [3165], "Isaiah_ch_25.docx": [217, 217]}
+rubbl	{"Joshua_ch_8.docx": [3165], "Isaiah_ch_25.docx": [217]}

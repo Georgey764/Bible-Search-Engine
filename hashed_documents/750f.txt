@@ -1,0 +1,4 @@
+
+thumbs	{"Exodus_ch_29.docx": [2196], "Leviticus_ch_8.docx": [2906, 2906, 2906], "Judges_ch_1.docx": [592, 988, 592, 988, 592, 988]}
+thumbs	{"Exodus_ch_29.docx": [2196], "Leviticus_ch_8.docx": [2906, 2906], "Judges_ch_1.docx": [592, 988, 592, 988]}
+thumbs	{"Exodus_ch_29.docx": [2196], "Leviticus_ch_8.docx": [2906], "Judges_ch_1.docx": [592, 988]}

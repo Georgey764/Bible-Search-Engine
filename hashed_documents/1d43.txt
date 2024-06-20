@@ -1,0 +1,5 @@
+
+bese	{"Exodus_ch_31.docx": [90], "Exodus_ch_35.docx": [3259, 3259, 3259], "Exodus_ch_36.docx": [5, 244, 1956, 5, 244, 1956, 5, 244, 1956], "Exodus_ch_37.docx": [5, 5, 5], "Exodus_ch_38.docx": [2570, 2570, 2570], "Joshua_ch_19.docx": [2742, 2742, 2742], "1 Chronicles_ch_2.docx": [1701, 1701, 1701], "2 Chronicles_ch_1.docx": [579, 579, 579]}
+bese	{"Exodus_ch_31.docx": [90], "Exodus_ch_35.docx": [3259, 3259], "Exodus_ch_36.docx": [5, 244, 1956, 5, 244, 1956], "Exodus_ch_37.docx": [5, 5], "Exodus_ch_38.docx": [2570, 2570], "Joshua_ch_19.docx": [2742, 2742], "1 Chronicles_ch_2.docx": [1701, 1701], "2 Chronicles_ch_1.docx": [579, 579]}
+3‘desc	{"Joel_ch_1.docx": [270]}
+bese	{"Exodus_ch_31.docx": [90], "Exodus_ch_35.docx": [3259], "Exodus_ch_36.docx": [5, 244, 1956], "Exodus_ch_37.docx": [5], "Exodus_ch_38.docx": [2570], "Joshua_ch_19.docx": [2742], "1 Chronicles_ch_2.docx": [1701], "2 Chronicles_ch_1.docx": [579]}

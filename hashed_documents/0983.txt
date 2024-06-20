@@ -1,0 +1,4 @@
+
+phadas	{"Numbers_ch_1.docx": [951], "Numbers_ch_7.docx": [6317, 6962, 6317, 6962, 6317, 6962], "Numbers_ch_10.docx": [2567, 2567, 2567]}
+phadas	{"Numbers_ch_1.docx": [951], "Numbers_ch_7.docx": [6317, 6962, 6317, 6962], "Numbers_ch_10.docx": [2567, 2567]}
+phadas	{"Numbers_ch_1.docx": [951], "Numbers_ch_7.docx": [6317, 6962], "Numbers_ch_10.docx": [2567]}

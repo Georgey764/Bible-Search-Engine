@@ -1,0 +1,4 @@
+
+nage	{"2 Samuel_ch_5.docx": [2322], "1 Chronicles_ch_14.docx": [578, 578]}
+nage	{"2 Samuel_ch_5.docx": [2322], "1 Chronicles_ch_14.docx": [578]}
+nage	{"2 Samuel_ch_5.docx": [2322], "1 Chronicles_ch_14.docx": [578]}

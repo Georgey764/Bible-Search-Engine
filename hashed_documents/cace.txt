@@ -1,0 +1,2 @@
+
+24al	{"Genesis_ch_7.docx": [3053], "Genesis_ch_43.docx": [3267], "Exodus_ch_35.docx": [2402], "Exodus_ch_36.docx": [2961], "Leviticus_ch_9.docx": [3133]}

@@ -1,0 +1,4 @@
+
+ironwo	{"Judges_ch_4.docx": [80, 110, 6438, 110, 6438, 110, 6438], "1 Samuel_ch_13.docx": [3165, 3165, 3165]}
+ironwo	{"Judges_ch_4.docx": [80, 110, 6438, 110, 6438], "1 Samuel_ch_13.docx": [3165, 3165]}
+ironwo	{"Judges_ch_4.docx": [80, 110, 6438], "1 Samuel_ch_13.docx": [3165]}

@@ -1,0 +1,4 @@
+
+couc	{"Genesis_ch_49.docx": [439], "Song of Solomon_ch_3.docx": [1106, 1475, 1106, 1475, 1106, 1475]}
+couc	{"Genesis_ch_49.docx": [439], "Song of Solomon_ch_3.docx": [1106, 1475, 1106, 1475]}
+couc	{"Genesis_ch_49.docx": [439], "Song of Solomon_ch_3.docx": [1106, 1475]}

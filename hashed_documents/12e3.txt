@@ -1,0 +1,4 @@
+
+sins;	{"Psalms_ch_7.docx": [1367], "Psalms_ch_40.docx": [830, 830, 830], "Isaiah_ch_43.docx": [3987, 3987, 3987], "Isaiah_ch_53.docx": [551, 954, 551, 954, 551, 954]}
+sins;	{"Psalms_ch_7.docx": [1367], "Psalms_ch_40.docx": [830, 830], "Isaiah_ch_43.docx": [3987, 3987], "Isaiah_ch_53.docx": [551, 954, 551, 954]}
+sins;	{"Psalms_ch_7.docx": [1367], "Psalms_ch_40.docx": [830], "Isaiah_ch_43.docx": [3987], "Isaiah_ch_53.docx": [551, 954]}

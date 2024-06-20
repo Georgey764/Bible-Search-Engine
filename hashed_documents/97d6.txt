@@ -1,0 +1,7 @@
+
+gig	{"Genesis_ch_10.docx": [1071, 1085, 1085, 1085]}
+reaps	{"Isaiah_ch_17.docx": [683], "Matthew_ch_25.docx": [2754, 2754, 2754]}
+gig	{"Genesis_ch_10.docx": [1071, 1085, 1085]}
+reaps	{"Isaiah_ch_17.docx": [683], "Matthew_ch_25.docx": [2754, 2754]}
+gig	{"Genesis_ch_10.docx": [1071, 1085]}
+reaps	{"Isaiah_ch_17.docx": [683], "Matthew_ch_25.docx": [2754]}

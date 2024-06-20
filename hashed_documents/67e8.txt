@@ -1,0 +1,4 @@
+
+elsewh	{"Psalms_ch_84.docx": [1021], "Proverbs_ch_20.docx": [27, 27, 27]}
+elsewh	{"Psalms_ch_84.docx": [1021], "Proverbs_ch_20.docx": [27, 27]}
+elsewh	{"Psalms_ch_84.docx": [1021], "Proverbs_ch_20.docx": [27]}

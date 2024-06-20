@@ -1,0 +1,6 @@
+
+zetho	{"1 Chronicles_ch_26.docx": [2785]}
+zetho	{"1 Chronicles_ch_26.docx": [2785]}
+9who	{"Job_ch_5.docx": [741], "Proverbs_ch_20.docx": [1185], "Ezekiel_ch_18.docx": [1225]}
+118b	{"Psalms_ch_119.docx": [9810]}
+ zetho	{"1 Chronicles_ch_26.docx": [2785]}

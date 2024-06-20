@@ -1,0 +1,4 @@
+
+divan	{"Isaiah_ch_3.docx": [3246], "Amos_ch_6.docx": [1313, 1313, 1313]}
+divan	{"Isaiah_ch_3.docx": [3246], "Amos_ch_6.docx": [1313, 1313]}
+divan	{"Isaiah_ch_3.docx": [3246], "Amos_ch_6.docx": [1313]}

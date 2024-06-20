@@ -1,0 +1,4 @@
+
+jokes	{"Job_ch_31.docx": [375], "Ephesians_ch_5.docx": [387, 387]}
+jokes	{"Job_ch_31.docx": [375], "Ephesians_ch_5.docx": [387]}
+jokes	{"Job_ch_31.docx": [375], "Ephesians_ch_5.docx": [387]}

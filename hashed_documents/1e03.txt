@@ -1,0 +1,7 @@
+
+megi	{"1 Chronicles_ch_7.docx": [3625]}
+unwalk	{"Job_ch_38.docx": [2524], "Psalms_ch_63.docx": [207, 207, 207], "Jeremiah_ch_12.docx": [1723, 1723, 1723], "Jeremiah_ch_25.docx": [6284, 6284, 6284], "Jeremiah_ch_42.docx": [3284, 3284, 3284], "Jeremiah_ch_44.docx": [1172, 4523, 1172, 4523, 1172, 4523], "Jeremiah_ch_48.docx": [1154, 1154, 1154], "Jeremiah_ch_49.docx": [412, 2382, 3100, 5822, 412, 2382, 3100, 5822, 412, 2382, 3100, 5822], "Jeremiah_ch_50.docx": [2356, 2356, 2356], "Jeremiah_ch_51.docx": [7126, 7126, 7126]}
+megi	{"1 Chronicles_ch_7.docx": [3625]}
+unwalk	{"Job_ch_38.docx": [2524], "Psalms_ch_63.docx": [207, 207], "Jeremiah_ch_12.docx": [1723, 1723], "Jeremiah_ch_25.docx": [6284, 6284], "Jeremiah_ch_42.docx": [3284, 3284], "Jeremiah_ch_44.docx": [1172, 4523, 1172, 4523], "Jeremiah_ch_48.docx": [1154, 1154], "Jeremiah_ch_49.docx": [412, 2382, 3100, 5822, 412, 2382, 3100, 5822], "Jeremiah_ch_50.docx": [2356, 2356], "Jeremiah_ch_51.docx": [7126, 7126]}
+megi	{"1 Chronicles_ch_7.docx": [3625]}
+unwalk	{"Job_ch_38.docx": [2524], "Psalms_ch_63.docx": [207], "Jeremiah_ch_12.docx": [1723], "Jeremiah_ch_25.docx": [6284], "Jeremiah_ch_42.docx": [3284], "Jeremiah_ch_44.docx": [1172, 4523], "Jeremiah_ch_48.docx": [1154], "Jeremiah_ch_49.docx": [412, 2382, 3100, 5822], "Jeremiah_ch_50.docx": [2356], "Jeremiah_ch_51.docx": [7126]}

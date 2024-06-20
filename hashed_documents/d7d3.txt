@@ -1,0 +1,7 @@
+
+myrrh	{"Genesis_ch_37.docx": [3287], "Genesis_ch_43.docx": [1332, 1332, 1332], "Exodus_ch_30.docx": [2909, 4261, 2909, 4261, 2909, 4261], "Esther_ch_2.docx": [2624, 2624, 2624], "Psalms_ch_45.docx": [1464, 1464, 1464], "Song of Solomon_ch_3.docx": [1018, 1018, 1018], "Song of Solomon_ch_4.docx": [903, 903, 903], "Song of Solomon_ch_5.docx": [244, 1061, 1100, 2341, 244, 1061, 1100, 2341, 244, 1061, 1100, 2341], "Matthew_ch_2.docx": [1400, 1400, 1400], "Mark_ch_15.docx": [2407, 2407], "John_ch_19.docx": [5471, 5471]}
+washes	{"Leviticus_ch_13.docx": [8199], "Mark_ch_9.docx": [222, 222]}
+myrrh	{"Genesis_ch_37.docx": [3287], "Genesis_ch_43.docx": [1332, 1332], "Exodus_ch_30.docx": [2909, 4261, 2909, 4261], "Esther_ch_2.docx": [2624, 2624], "Psalms_ch_45.docx": [1464, 1464], "Song of Solomon_ch_3.docx": [1018, 1018], "Song of Solomon_ch_4.docx": [903, 903], "Song of Solomon_ch_5.docx": [244, 1061, 1100, 2341, 244, 1061, 1100, 2341], "Matthew_ch_2.docx": [1400, 1400], "Mark_ch_15.docx": [2407], "John_ch_19.docx": [5471]}
+washes	{"Leviticus_ch_13.docx": [8199], "Mark_ch_9.docx": [222]}
+myrrh	{"Genesis_ch_37.docx": [3287], "Genesis_ch_43.docx": [1332], "Exodus_ch_30.docx": [2909, 4261], "Esther_ch_2.docx": [2624], "Psalms_ch_45.docx": [1464], "Song of Solomon_ch_3.docx": [1018], "Song of Solomon_ch_4.docx": [903], "Song of Solomon_ch_5.docx": [244, 1061, 1100, 2341], "Matthew_ch_2.docx": [1400], "Mark_ch_15.docx": [2407], "John_ch_19.docx": [5471]}
+washes	{"Leviticus_ch_13.docx": [8199], "Mark_ch_9.docx": [222]}

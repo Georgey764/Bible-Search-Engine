@@ -1,0 +1,5 @@
+
+sense!	{"Acts_ch_26.docx": [5946]}
+20‘je	{"Deuteronomy_ch_7.docx": [3188], "Lamentations_ch_4.docx": [3294]}
+35ma	{"Psalms_ch_104.docx": [3477]}
+sense!	{"Acts_ch_26.docx": [5946]}

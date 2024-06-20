@@ -1,0 +1,4 @@
+
+shem’	{"Genesis_ch_9.docx": [3231], "1 Chronicles_ch_1.docx": [1331, 1456, 1331, 1331, 1456]}
+shem’	{"Genesis_ch_9.docx": [3231], "1 Chronicles_ch_1.docx": [1331, 1331, 1456]}
+shem’	{"Genesis_ch_9.docx": [3231], "1 Chronicles_ch_1.docx": [1331, 1456]}

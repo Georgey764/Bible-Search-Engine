@@ -1,0 +1,6 @@
+
+ashsat	{"1 Chronicles_ch_4.docx": [1168, 1239, 1239, 1239]}
+deathw	{"2 Corinthians_ch_1.docx": [1542]}
+ashsat	{"1 Chronicles_ch_4.docx": [1168, 1239, 1239]}
+ashsat	{"1 Chronicles_ch_4.docx": [1168, 1239]}
+deathw	{"2 Corinthians_ch_1.docx": [1542]}

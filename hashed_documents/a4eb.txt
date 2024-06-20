@@ -1,0 +1,9 @@
+
+metr	{"Joshua_ch_15.docx": [2072], "Joshua_ch_21.docx": [1624, 1624, 1624]}
+fall!	{"Hosea_ch_10.docx": [3520], "1 Corinthians_ch_10.docx": [1284, 1284]}
+fig-s	{"Luke_ch_19.docx": [276]}
+metr	{"Joshua_ch_15.docx": [2072], "Joshua_ch_21.docx": [1624, 1624]}
+fall!	{"Hosea_ch_10.docx": [3520], "1 Corinthians_ch_10.docx": [1284]}
+metr	{"Joshua_ch_15.docx": [2072], "Joshua_ch_21.docx": [1624]}
+fall!	{"Hosea_ch_10.docx": [3520], "1 Corinthians_ch_10.docx": [1284]}
+fig-s	{"Luke_ch_19.docx": [276]}

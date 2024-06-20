@@ -1,0 +1,4 @@
+
+porci	{"Acts_ch_24.docx": [4633, 4652, 4672, 4652, 4672]}
+8as	{"Judges_ch_3.docx": [4558], "Judges_ch_6.docx": [1771], "2 Samuel_ch_18.docx": [1131], "1 Chronicles_ch_13.docx": [1073], "Job_ch_16.docx": [676], "Jeremiah_ch_36.docx": [1193], "Matthew_ch_1.docx": [609]}
+porci	{"Acts_ch_24.docx": [4633, 4652, 4672]}

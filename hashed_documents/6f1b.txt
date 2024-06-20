@@ -1,0 +1,8 @@
+
+foals	{"Genesis_ch_32.docx": [1909]}
+handfu	{"Genesis_ch_41.docx": [6138], "Exodus_ch_9.docx": [1048, 1048, 1048], "Leviticus_ch_2.docx": [193, 193, 193], "Leviticus_ch_5.docx": [1826, 1826, 1826], "Leviticus_ch_6.docx": [1868, 1868, 1868], "Numbers_ch_5.docx": [3760, 3760, 3760], "1 Kings_ch_17.docx": [1406, 1406, 1406], "Ecclesiastes_ch_4.docx": [740, 740, 740], "Isaiah_ch_40.docx": [1861, 1861, 1861], "Ezekiel_ch_13.docx": [3744, 3744, 3744]}
+foals	{"Genesis_ch_32.docx": [1909]}
+handfu	{"Genesis_ch_41.docx": [6138], "Exodus_ch_9.docx": [1048, 1048], "Leviticus_ch_2.docx": [193, 193], "Leviticus_ch_5.docx": [1826, 1826], "Leviticus_ch_6.docx": [1868, 1868], "Numbers_ch_5.docx": [3760, 3760], "1 Kings_ch_17.docx": [1406, 1406], "Ecclesiastes_ch_4.docx": [740, 740], "Isaiah_ch_40.docx": [1861, 1861], "Ezekiel_ch_13.docx": [3744, 3744]}
+9‘qua	{"Ecclesiastes_ch_10.docx": [920]}
+foals	{"Genesis_ch_32.docx": [1909]}
+handfu	{"Genesis_ch_41.docx": [6138], "Exodus_ch_9.docx": [1048], "Leviticus_ch_2.docx": [193], "Leviticus_ch_5.docx": [1826], "Leviticus_ch_6.docx": [1868], "Numbers_ch_5.docx": [3760], "1 Kings_ch_17.docx": [1406], "Ecclesiastes_ch_4.docx": [740], "Isaiah_ch_40.docx": [1861], "Ezekiel_ch_13.docx": [3744]}

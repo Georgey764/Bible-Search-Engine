@@ -1,0 +1,4 @@
+
+rins	{"Numbers_ch_5.docx": [3550], "Numbers_ch_8.docx": [785, 785, 785], "2 Chronicles_ch_4.docx": [781, 781, 781], "Jeremiah_ch_4.docx": [2595, 2595, 2595], "Zechariah_ch_13.docx": [76, 76, 76], "Mark_ch_7.docx": [76, 76]}
+rins	{"Numbers_ch_5.docx": [3550], "Numbers_ch_8.docx": [785, 785], "2 Chronicles_ch_4.docx": [781, 781], "Jeremiah_ch_4.docx": [2595, 2595], "Zechariah_ch_13.docx": [76, 76], "Mark_ch_7.docx": [76]}
+rins	{"Numbers_ch_5.docx": [3550], "Numbers_ch_8.docx": [785], "2 Chronicles_ch_4.docx": [781], "Jeremiah_ch_4.docx": [2595], "Zechariah_ch_13.docx": [76], "Mark_ch_7.docx": [76]}

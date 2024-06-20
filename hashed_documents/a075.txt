@@ -1,0 +1,7 @@
+
+pullin	{"1 Kings_ch_19.docx": [3450], "1 Chronicles_ch_13.docx": [1378, 1378, 1378], "Ezekiel_ch_23.docx": [5654, 5654, 5654], "Matthew_ch_13.docx": [3799, 3799, 3799]}
+punct	{"2 Kings_ch_18.docx": [3379]}
+pullin	{"1 Kings_ch_19.docx": [3450], "1 Chronicles_ch_13.docx": [1378, 1378], "Ezekiel_ch_23.docx": [5654, 5654], "Matthew_ch_13.docx": [3799, 3799]}
+punct	{"2 Kings_ch_18.docx": [3379]}
+pullin	{"1 Kings_ch_19.docx": [3450], "1 Chronicles_ch_13.docx": [1378], "Ezekiel_ch_23.docx": [5654], "Matthew_ch_13.docx": [3799]}
+punct	{"2 Kings_ch_18.docx": [3379]}

@@ -1,0 +1,5 @@
+
+adin	{"2 Samuel_ch_23.docx": [1327, 1448, 1448, 1448], "Ezra_ch_2.docx": [858, 858, 858], "Ezra_ch_8.docx": [640, 640, 640], "Nehemiah_ch_7.docx": [1724, 1724, 1724], "Nehemiah_ch_10.docx": [878, 878, 878]}
+adin	{"2 Samuel_ch_23.docx": [1327, 1448, 1448], "Ezra_ch_2.docx": [858, 858], "Ezra_ch_8.docx": [640, 640], "Nehemiah_ch_7.docx": [1724, 1724], "Nehemiah_ch_10.docx": [878, 878]}
+14say	{"Job_ch_28.docx": [1268]}
+adin	{"2 Samuel_ch_23.docx": [1327, 1448], "Ezra_ch_2.docx": [858], "Ezra_ch_8.docx": [640], "Nehemiah_ch_7.docx": [1724], "Nehemiah_ch_10.docx": [878]}

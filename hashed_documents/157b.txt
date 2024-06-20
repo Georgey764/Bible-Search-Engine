@@ -1,0 +1,5 @@
+
+thaat	{"1 Chronicles_ch_6.docx": [1685, 2913, 2913], "1 Chronicles_ch_7.docx": [2509, 2509, 2509]}
+1,1	{"Judges_ch_16.docx": [1019], "Judges_ch_17.docx": [124, 326], "1 Kings_ch_7.docx": [3600], "1 Chronicles_ch_21.docx": [677]}
+thaat	{"1 Chronicles_ch_6.docx": [2913, 2913], "1 Chronicles_ch_7.docx": [2509, 2509]}
+thaat	{"1 Chronicles_ch_6.docx": [1685, 2913], "1 Chronicles_ch_7.docx": [2509]}

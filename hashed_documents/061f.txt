@@ -1,0 +1,7 @@
+
+ommin	{"Deuteronomy_ch_2.docx": [1440, 1472, 1472, 1472]}
+lovely	{"Song of Solomon_ch_4.docx": [980]}
+ommin	{"Deuteronomy_ch_2.docx": [1440, 1472, 1472]}
+lovely	{"Song of Solomon_ch_4.docx": [980]}
+ommin	{"Deuteronomy_ch_2.docx": [1440, 1472]}
+lovely	{"Song of Solomon_ch_4.docx": [980]}

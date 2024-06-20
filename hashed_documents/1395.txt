@@ -1,0 +1,4 @@
+
+strok	{"Deuteronomy_ch_17.docx": [1154, 1156, 1156, 1156], "Ezekiel_ch_23.docx": [2199, 2199, 2199], "Micah_ch_5.docx": [1527, 1527, 1527], "Luke_ch_12.docx": [6346, 6346], "Luke_ch_16.docx": [2591, 2591], "2 Corinthians_ch_11.docx": [3480, 3480], "Revelation_ch_13.docx": [2218, 2218]}
+strok	{"Deuteronomy_ch_17.docx": [1154, 1156, 1156], "Ezekiel_ch_23.docx": [2199, 2199], "Micah_ch_5.docx": [1527, 1527], "Luke_ch_12.docx": [6346], "Luke_ch_16.docx": [2591], "2 Corinthians_ch_11.docx": [3480], "Revelation_ch_13.docx": [2218]}
+strok	{"Deuteronomy_ch_17.docx": [1154, 1156], "Ezekiel_ch_23.docx": [2199], "Micah_ch_5.docx": [1527], "Luke_ch_12.docx": [6346], "Luke_ch_16.docx": [2591], "2 Corinthians_ch_11.docx": [3480], "Revelation_ch_13.docx": [2218]}

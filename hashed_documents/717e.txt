@@ -1,0 +1,4 @@
+
+spaces	{"Genesis_ch_1.docx": [2573], "Ezekiel_ch_41.docx": [734, 734, 734], "Ezekiel_ch_42.docx": [131, 131, 131]}
+spaces	{"Genesis_ch_1.docx": [2573], "Ezekiel_ch_41.docx": [734, 734], "Ezekiel_ch_42.docx": [131, 131]}
+spaces	{"Genesis_ch_1.docx": [2573], "Ezekiel_ch_41.docx": [734], "Ezekiel_ch_42.docx": [131]}

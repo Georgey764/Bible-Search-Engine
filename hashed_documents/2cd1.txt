@@ -1,0 +1,7 @@
+
+danren	{"Judges_ch_18.docx": [6018]}
+study	{"Nehemiah_ch_2.docx": [3352, 3372, 3394, 3372, 3394, 3372, 3394], "Psalms_ch_119.docx": [466, 6344, 466, 6344, 466, 6344], "Isaiah_ch_27.docx": [1042, 1042, 1042]}
+danren	{"Judges_ch_18.docx": [6018]}
+study	{"Nehemiah_ch_2.docx": [3352, 3372, 3394, 3372, 3394], "Psalms_ch_119.docx": [466, 6344, 466, 6344], "Isaiah_ch_27.docx": [1042, 1042]}
+danren	{"Judges_ch_18.docx": [6018]}
+study	{"Nehemiah_ch_2.docx": [3352, 3372, 3394], "Psalms_ch_119.docx": [466, 6344], "Isaiah_ch_27.docx": [1042]}

@@ -1,0 +1,4 @@
+
+sweetn	{"Judges_ch_9.docx": [2894], "Judges_ch_14.docx": [2216, 2216, 2216], "Nehemiah_ch_8.docx": [2585, 2585, 2585], "Proverbs_ch_16.docx": [2527, 2527, 2527], "Proverbs_ch_24.docx": [1233, 1233, 1233]}
+sweetn	{"Judges_ch_9.docx": [2894], "Judges_ch_14.docx": [2216, 2216], "Nehemiah_ch_8.docx": [2585, 2585], "Proverbs_ch_16.docx": [2527, 2527], "Proverbs_ch_24.docx": [1233, 1233]}
+sweetn	{"Judges_ch_9.docx": [2894], "Judges_ch_14.docx": [2216], "Nehemiah_ch_8.docx": [2585], "Proverbs_ch_16.docx": [2527], "Proverbs_ch_24.docx": [1233]}

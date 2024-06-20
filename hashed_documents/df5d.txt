@@ -1,0 +1,5 @@
+
+schem	{"Nehemiah_ch_4.docx": [2392], "Proverbs_ch_14.docx": [1877, 1877, 1877], "Jeremiah_ch_49.docx": [2813, 2813, 2813], "2 Corinthians_ch_2.docx": [1256, 1256], "Ephesians_ch_4.docx": [1550, 1577, 1550, 1577]}
+schem	{"Nehemiah_ch_4.docx": [2392], "Proverbs_ch_14.docx": [1877, 1877], "Jeremiah_ch_49.docx": [2813, 2813], "2 Corinthians_ch_2.docx": [1256], "Ephesians_ch_4.docx": [1550, 1577]}
+21you	{"Job_ch_38.docx": [1989], "Psalms_ch_119.docx": [1523]}
+schem	{"Nehemiah_ch_4.docx": [2392], "Proverbs_ch_14.docx": [1877], "Jeremiah_ch_49.docx": [2813], "2 Corinthians_ch_2.docx": [1256], "Ephesians_ch_4.docx": [1550, 1577]}

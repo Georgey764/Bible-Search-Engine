@@ -1,0 +1,5 @@
+
+astart	{"1 Kings_ch_11.docx": [713, 4734, 4734, 4734], "2 Kings_ch_23.docx": [3248, 3248, 3248], "2 Chronicles_ch_15.docx": [2386, 2386, 2386], "2 Chronicles_ch_24.docx": [2843, 2843, 2843]}
+astart	{"1 Kings_ch_11.docx": [713, 4734, 4734], "2 Kings_ch_23.docx": [3248, 3248], "2 Chronicles_ch_15.docx": [2386, 2386], "2 Chronicles_ch_24.docx": [2843, 2843]}
+28thos	{"Proverbs_ch_11.docx": [2866]}
+astart	{"1 Kings_ch_11.docx": [713, 4734], "2 Kings_ch_23.docx": [3248], "2 Chronicles_ch_15.docx": [2386], "2 Chronicles_ch_24.docx": [2843]}

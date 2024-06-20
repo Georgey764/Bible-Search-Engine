@@ -1,0 +1,5 @@
+
+forbad	{"Numbers_ch_30.docx": [1805], "2 Kings_ch_23.docx": [2307, 2307, 2307]}
+12‘lo	{"Genesis_ch_45.docx": [1794], "Numbers_ch_3.docx": [1485], "Joshua_ch_9.docx": [8535], "Ezekiel_ch_7.docx": [1609]}
+forbad	{"Numbers_ch_30.docx": [1805], "2 Kings_ch_23.docx": [2307, 2307]}
+forbad	{"Numbers_ch_30.docx": [1805], "2 Kings_ch_23.docx": [2307]}

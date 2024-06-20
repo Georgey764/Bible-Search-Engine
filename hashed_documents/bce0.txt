@@ -1,0 +1,4 @@
+
+dib	{"Isaiah_ch_15.docx": [145, 1380, 1380, 1380], "Jeremiah_ch_48.docx": [2391, 2851, 2888, 2391, 2851, 2888, 2391, 2851, 2888], "Hosea_ch_1.docx": [496, 496, 496]}
+dib	{"Isaiah_ch_15.docx": [145, 1380, 1380], "Jeremiah_ch_48.docx": [2391, 2851, 2888, 2391, 2851, 2888], "Hosea_ch_1.docx": [496, 496]}
+dib	{"Isaiah_ch_15.docx": [145, 1380], "Jeremiah_ch_48.docx": [2391, 2851, 2888], "Hosea_ch_1.docx": [496]}

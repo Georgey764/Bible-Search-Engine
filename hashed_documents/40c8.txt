@@ -1,0 +1,5 @@
+
+ason	{"2 Samuel_ch_23.docx": [1329]}
+2thi	{"Genesis_ch_30.docx": [197], "Joshua_ch_10.docx": [43], "1 Kings_ch_8.docx": [230], "Ezekiel_ch_1.docx": [43], "Hosea_ch_1.docx": [198]}
+ason	{"2 Samuel_ch_23.docx": [1329]}
+ason	{"2 Samuel_ch_23.docx": [1329]}

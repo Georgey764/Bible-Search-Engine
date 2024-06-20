@@ -1,0 +1,5 @@
+
+stalk	{"Genesis_ch_37.docx": [781], "Genesis_ch_41.docx": [500, 508, 684, 2609, 500, 508, 684, 2609, 500, 508, 684, 2609], "Leviticus_ch_23.docx": [1167, 1167, 1167], "2 Kings_ch_18.docx": [3363, 3363, 3363], "Hosea_ch_8.docx": [1029, 1029, 1029], "Mark_ch_4.docx": [3220, 3220], "John_ch_19.docx": [3991, 3991], "1 Corinthians_ch_3.docx": [1438, 1438]}
+stalk	{"Genesis_ch_37.docx": [781], "Genesis_ch_41.docx": [500, 508, 684, 2609, 500, 508, 684, 2609], "Leviticus_ch_23.docx": [1167, 1167], "2 Kings_ch_18.docx": [3363, 3363], "Hosea_ch_8.docx": [1029, 1029], "Mark_ch_4.docx": [3220], "John_ch_19.docx": [3991], "1 Corinthians_ch_3.docx": [1438]}
+8‘ev	{"Hosea_ch_9.docx": [1694]}
+stalk	{"Genesis_ch_37.docx": [781], "Genesis_ch_41.docx": [500, 508, 684, 2609], "Leviticus_ch_23.docx": [1167], "2 Kings_ch_18.docx": [3363], "Hosea_ch_8.docx": [1029], "Mark_ch_4.docx": [3220], "John_ch_19.docx": [3991], "1 Corinthians_ch_3.docx": [1438]}

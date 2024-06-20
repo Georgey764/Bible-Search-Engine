@@ -1,0 +1,6 @@
+
+whale	{"Job_ch_9.docx": [1146], "Job_ch_26.docx": [1105, 1105, 1105]}
+20howe	{"Genesis_ch_26.docx": [2660], "Exodus_ch_16.docx": [3133], "Joshua_ch_10.docx": [7561], "1 Samuel_ch_22.docx": [3254], "1 Kings_ch_9.docx": [3160], "Proverbs_ch_1.docx": [1956], "Jeremiah_ch_38.docx": [3560], "Matthew_ch_9.docx": [2751]}
+7many	{"1 Samuel_ch_13.docx": [988]}
+whale	{"Job_ch_9.docx": [1146], "Job_ch_26.docx": [1105, 1105]}
+whale	{"Job_ch_9.docx": [1146], "Job_ch_26.docx": [1105]}

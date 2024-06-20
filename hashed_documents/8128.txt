@@ -1,0 +1,3 @@
+
+16plea	{"1 Samuel_ch_1.docx": [2489], "Psalms_ch_31.docx": [1794], "Psalms_ch_69.docx": [1836]}
+33jeh	{"2 Kings_ch_9.docx": [6354]}

@@ -1,0 +1,4 @@
+
+lambs!	{"Genesis_ch_31.docx": [5651], "Isaiah_ch_1.docx": [1855, 1855, 1855]}
+lambs!	{"Genesis_ch_31.docx": [5651], "Isaiah_ch_1.docx": [1855, 1855]}
+lambs!	{"Genesis_ch_31.docx": [5651], "Isaiah_ch_1.docx": [1855]}

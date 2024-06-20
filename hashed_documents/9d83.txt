@@ -1,0 +1,4 @@
+
+sarada	{"Numbers_ch_34.docx": [759], "Joshua_ch_15.docx": [349, 349, 349]}
+sarada	{"Numbers_ch_34.docx": [759], "Joshua_ch_15.docx": [349, 349]}
+sarada	{"Numbers_ch_34.docx": [759], "Joshua_ch_15.docx": [349]}

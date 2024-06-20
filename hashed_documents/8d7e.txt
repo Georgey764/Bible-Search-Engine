@@ -1,0 +1,5 @@
+
+rounds	{"1 Samuel_ch_17.docx": [2306], "Song of Solomon_ch_3.docx": [452, 452, 452], "Song of Solomon_ch_5.docx": [1374, 1374, 1374]}
+rounds	{"1 Samuel_ch_17.docx": [2306], "Song of Solomon_ch_3.docx": [452, 452], "Song of Solomon_ch_5.docx": [1374, 1374]}
+11wil	{"Psalms_ch_88.docx": [1172]}
+rounds	{"1 Samuel_ch_17.docx": [2306], "Song of Solomon_ch_3.docx": [452], "Song of Solomon_ch_5.docx": [1374]}

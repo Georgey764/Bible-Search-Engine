@@ -1,0 +1,5 @@
+
+alexan	{"Ezekiel_ch_41.docx": [48], "Mark_ch_15.docx": [2199, 2199], "Acts_ch_4.docx": [523, 523], "Acts_ch_6.docx": [1115, 1115], "Acts_ch_19.docx": [9930, 9942, 9955, 9973, 9930, 9942, 9955, 9973], "Acts_ch_27.docx": [641, 641], "1 Timothy_ch_1.docx": [2941, 2941]}
+37‘br	{"Leviticus_ch_26.docx": [4844], "Jeremiah_ch_50.docx": [6847]}
+alexan	{"Ezekiel_ch_41.docx": [48], "Mark_ch_15.docx": [2199], "Acts_ch_4.docx": [523], "Acts_ch_6.docx": [1115], "Acts_ch_19.docx": [9930, 9942, 9955, 9973], "Acts_ch_27.docx": [641], "1 Timothy_ch_1.docx": [2941]}
+alexan	{"Ezekiel_ch_41.docx": [48], "Mark_ch_15.docx": [2199], "Acts_ch_4.docx": [523], "Acts_ch_6.docx": [1115], "Acts_ch_19.docx": [9930, 9942, 9955, 9973], "Acts_ch_27.docx": [641], "1 Timothy_ch_1.docx": [2941]}

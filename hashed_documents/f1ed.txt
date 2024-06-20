@@ -1,0 +1,10 @@
+
+misael	{"Exodus_ch_6.docx": [2825]}
+headi	{"Numbers_ch_22.docx": [4595], "Deuteronomy_ch_2.docx": [3436, 3436, 3436], "Judges_ch_17.docx": [1036, 1036, 1036], "Judges_ch_18.docx": [905, 905, 905], "Judges_ch_19.docx": [2630, 2726, 2742, 2760, 2630, 2726, 2742, 2760, 2630, 2726, 2742, 2760], "Nehemiah_ch_12.docx": [5401, 5438, 5477, 5401, 5438, 5477, 5401, 5438, 5477], "Jeremiah_ch_4.docx": [1194, 1194, 1194], "Matthew_ch_20.docx": [2218, 2218, 2218], "Mark_ch_10.docx": [3970, 3970], "Acts_ch_27.docx": [2029, 2029]}
+define	{"Proverbs_ch_18.docx": [1543]}
+misael	{"Exodus_ch_6.docx": [2825]}
+headi	{"Numbers_ch_22.docx": [4595], "Deuteronomy_ch_2.docx": [3436, 3436], "Judges_ch_17.docx": [1036, 1036], "Judges_ch_18.docx": [905, 905], "Judges_ch_19.docx": [2630, 2726, 2742, 2760, 2630, 2726, 2742, 2760], "Nehemiah_ch_12.docx": [5401, 5438, 5477, 5401, 5438, 5477], "Jeremiah_ch_4.docx": [1194, 1194], "Matthew_ch_20.docx": [2218, 2218], "Mark_ch_10.docx": [3970], "Acts_ch_27.docx": [2029]}
+define	{"Proverbs_ch_18.docx": [1543]}
+misael	{"Exodus_ch_6.docx": [2825]}
+headi	{"Numbers_ch_22.docx": [4595], "Deuteronomy_ch_2.docx": [3436], "Judges_ch_17.docx": [1036], "Judges_ch_18.docx": [905], "Judges_ch_19.docx": [2630, 2726, 2742, 2760], "Nehemiah_ch_12.docx": [5401, 5438, 5477], "Jeremiah_ch_4.docx": [1194], "Matthew_ch_20.docx": [2218], "Mark_ch_10.docx": [3970], "Acts_ch_27.docx": [2029]}
+define	{"Proverbs_ch_18.docx": [1543]}

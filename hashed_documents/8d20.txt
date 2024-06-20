@@ -1,0 +1,5 @@
+
+impati	{"Judges_ch_10.docx": [5613], "Luke_ch_23.docx": [2531, 2531]}
+impati	{"Judges_ch_10.docx": [5613], "Luke_ch_23.docx": [2531]}
+16-foo	{"2 Chronicles_ch_4.docx": [312]}
+impati	{"Judges_ch_10.docx": [5613], "Luke_ch_23.docx": [2531]}

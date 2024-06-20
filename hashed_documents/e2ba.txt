@@ -1,0 +1,4 @@
+
+biscui	{"2 Samuel_ch_13.docx": [960, 1204, 1617, 1204, 1617, 1204, 1617]}
+biscui	{"2 Samuel_ch_13.docx": [960, 1204, 1617, 1204, 1617]}
+biscui	{"2 Samuel_ch_13.docx": [960, 1204, 1617]}

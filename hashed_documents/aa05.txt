@@ -1,0 +1,3 @@
+
+nicol	{"Acts_ch_6.docx": [621], "Revelation_ch_2.docx": [840, 2598, 840, 2598]}
+nicol	{"Acts_ch_6.docx": [621], "Revelation_ch_2.docx": [840, 2598]}

@@ -1,0 +1,4 @@
+
+unau	{"Leviticus_ch_16.docx": [14], "Numbers_ch_3.docx": [317, 317, 317], "Numbers_ch_18.docx": [1129, 1129, 1129], "Numbers_ch_26.docx": [6376, 6376, 6376]}
+unau	{"Leviticus_ch_16.docx": [14], "Numbers_ch_3.docx": [317, 317], "Numbers_ch_18.docx": [1129, 1129], "Numbers_ch_26.docx": [6376, 6376]}
+unau	{"Leviticus_ch_16.docx": [14], "Numbers_ch_3.docx": [317], "Numbers_ch_18.docx": [1129], "Numbers_ch_26.docx": [6376]}

@@ -1,0 +1,7 @@
+
+agrees	{"Leviticus_ch_20.docx": [509], "Numbers_ch_30.docx": [771, 1258, 1781, 771, 1258, 1781, 771, 1258, 1781], "1 Corinthians_ch_7.docx": [1369, 1388, 1369, 1388]}
+shish	{"2 Chronicles_ch_12.docx": [185, 654, 1191, 1462, 654, 1191, 1462, 654, 1191, 1462], "Jeremiah_ch_25.docx": [4118, 4118, 4118]}
+agrees	{"Leviticus_ch_20.docx": [509], "Numbers_ch_30.docx": [771, 1258, 1781, 771, 1258, 1781], "1 Corinthians_ch_7.docx": [1369, 1388]}
+shish	{"2 Chronicles_ch_12.docx": [185, 654, 1191, 1462, 654, 1191, 1462], "Jeremiah_ch_25.docx": [4118, 4118]}
+agrees	{"Leviticus_ch_20.docx": [509], "Numbers_ch_30.docx": [771, 1258, 1781], "1 Corinthians_ch_7.docx": [1369, 1388]}
+shish	{"2 Chronicles_ch_12.docx": [185, 654, 1191, 1462], "Jeremiah_ch_25.docx": [4118]}

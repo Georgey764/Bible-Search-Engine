@@ -1,0 +1,4 @@
+
+joab!	{"2 Samuel_ch_2.docx": [3123], "2 Samuel_ch_20.docx": [2317, 4069, 2317, 4069, 2317, 4069]}
+joab!	{"2 Samuel_ch_2.docx": [3123], "2 Samuel_ch_20.docx": [2317, 4069, 2317, 4069]}
+joab!	{"2 Samuel_ch_2.docx": [3123], "2 Samuel_ch_20.docx": [2317, 4069]}

@@ -1,0 +1,4 @@
+
+clears	{"1 Samuel_ch_18.docx": [49]}
+clears	{"1 Samuel_ch_18.docx": [49]}
+clears	{"1 Samuel_ch_18.docx": [49]}
