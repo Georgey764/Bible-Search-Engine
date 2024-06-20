@@ -1,36 +1,23 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Bible Search Engine
 
-## Getting Started
+It is a search engine that efficiently queries over the 2001 Translation of Bible and returns the best matching chapter that matches with the user queried verse.
 
-First, run the development server:
+**Keep in mind that this engine is based on 2001 Translation of Bible and other popular translation will not work.**
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+_2001 Translation Bible can be found [here](https://2001translation.org/download-docx)._
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+<div align="center">
+  <Image src="/home_page.png" alt="Pretty picture" width="800" height="auto" />
+</div>
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+## Overview
+1. <a href="#how-to-frontend">How to run the app's frontend</a>
+2. <a href="#how-to-backend">How to start the backend server</a>
+3. <a href="#how-to-CLI">How to run the app from CLI
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+### <p id="how-to-frontend">How to Run the APP's Frontend</p>
 
-## Learn More
+### <p id="how-to-backend">How to Run Start the Backend Server</p>
 
-To learn more about Next.js, take a look at the following resources:
+### <p id="how-to-CLI">How to Run the APP in CLI</p>
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
