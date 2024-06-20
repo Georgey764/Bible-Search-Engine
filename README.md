@@ -50,7 +50,7 @@ npm run dev
 
 <br/>
 
-## <p id="how-to-backend">How to Run Start the Backend Server</p>
+## <p id="how-to-backend">How to Start the Backend Server</p>
 
 #### Prerequisites
 * latest version of python3
@@ -60,19 +60,32 @@ npm run dev
 
     ``` cd ./path-to-cloned-repository/Bible-Search-Engine/ ```
 
-1. Create a virtual env in python
+2. Create a virtual env in python
 
     ``` python3 venv ./.venv ```
 
-2. Install the required packages
+3. Activate the virtual environment
+
+    ``` source ./.venv/bin/activate ```
+
+5. Install the required packages
 
     ``` pip3 install -r requirements.txt ```
 
-3. Start the backend server
+6. Start the backend server
 
     ``` python3 run main.py ```
-        
 
+In Summary, enter the following commands:
+
+```
+cd ./path-to-cloned-repository/Bible-Search-Engine/
+python3 venv ./.venv
+pip3 install -r requirements.txt
+python3 run main.py
+```
+        
+<br/>
 
 ## <p id="how-to-CLI">How to Run the APP in CLI</p>
 
