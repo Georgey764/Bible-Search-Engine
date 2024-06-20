@@ -2,7 +2,6 @@
 
 # dependencies
 /node_modules
-./my-app-frontend/node_modules
 /.pnp
 .pnp.js
 .yarn/install-state.gz
