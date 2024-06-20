@@ -41,10 +41,13 @@ _2001 Translation Bible can be found [here](https://2001translation.org/download
 
 In Summary, enter the following commands:
 
-``` cd ./path-to-cloned-repository/Bible-Search-Engine/my-app-frontend/
- npm init
- npm install
- npm run dev  ```
+```
+cd ./path-to-cloned-repository/Bible-Search-Engine/my-app-frontend/
+npm init
+npm install
+npm run dev
+```
+
 <br/>
 
 ## <p id="how-to-backend">How to Run Start the Backend Server</p>
