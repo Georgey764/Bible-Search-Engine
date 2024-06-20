@@ -17,6 +17,32 @@ _2001 Translation Bible can be found [here](https://2001translation.org/download
 
 ### <p id="how-to-frontend">How to Run the APP's Frontend</p>
 
+###### Prerequisites
+* latest version of npm
+
+1. In CLI, upon cloning the repository change your directory to the directory where you cloned this repository then change directory to Bible Search Engine and then to my-app-frontend.
+
+> cd ./path-to-cloned-repository/Bible-Search-Engine/my-app-frontend/
+
+2. Then you have to initialize the package.json by hitting:
+
+> npm init
+
+3. Install the required packagages:
+
+> npm install
+
+4. Run the frontend
+
+> npm run dev
+
+In Summary, enter the following commands:
+
+> cd ./path-to-cloned-repository/Bible-Search-Engine/my-app-frontend/
+> npm init
+> npm install
+> npm run dev
+
 ### <p id="how-to-backend">How to Run Start the Backend Server</p>
 
 ### <p id="how-to-CLI">How to Run the APP in CLI</p>
