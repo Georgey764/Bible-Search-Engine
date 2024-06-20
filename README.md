@@ -25,19 +25,19 @@ _2001 Translation Bible can be found [here](https://2001translation.org/download
 
 1. In CLI, upon cloning the repository change your directory to the directory where you cloned this repository then change directory to Bible Search Engine and then to my-app-frontend.
 
-    ``` cd ./path-to-cloned-repository/Bible-Search-Engine/my-app-frontend/ ```
+    ``` >>> cd ./path-to-cloned-repository/Bible-Search-Engine/my-app-frontend/ ```
 
 2. Then you have to initialize the package.json by hitting:
 
-    ``` npm init ```
+    ``` >>> npm init ```
 
 3. Install the required packagages:
 
-    ``` npm install ```
+    ``` >>> npm install ```
 
 4. Run the frontend
 
-    ``` npm run dev ```
+    ``` >>> npm run dev ```
 
 In Summary, enter the following commands:
 
@@ -58,31 +58,31 @@ In Summary, enter the following commands:
 #### Steps
 1. In CLI, upon cloning the repository change your directory to the directory where you cloned this repository then change directory to Bible Search Engine and then to my-app-frontend.
 
-    ``` cd ./path-to-cloned-repository/Bible-Search-Engine/ ```
+    ``` >>> cd ./path-to-cloned-repository/Bible-Search-Engine/ ```
 
 2. Create a virtual env in python
 
-    ``` python3 venv ./.venv ```
+    ``` >>> python3 venv ./.venv ```
 
 3. Activate the virtual environment
 
-    ``` source ./.venv/bin/activate ```
+    ``` >>> source ./.venv/bin/activate ```
 
 5. Install the required packages
 
-    ``` pip3 install -r requirements.txt ```
+    ``` >>> pip3 install -r requirements.txt ```
 
 6. Start the backend server
 
-    ``` python3 run main.py ```
+    ``` >>> python3 run main.py ```
 
 In Summary, enter the following commands:
 
 ```
-cd ./path-to-cloned-repository/Bible-Search-Engine/
-python3 venv ./.venv
-pip3 install -r requirements.txt
-python3 run main.py
+>>> cd ./path-to-cloned-repository/Bible-Search-Engine/
+>>> python3 venv ./.venv
+>>> pip3 install -r requirements.txt
+>>> python3 run main.py
 ```
         
 <br/>
