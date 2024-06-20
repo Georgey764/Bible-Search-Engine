@@ -15,7 +15,7 @@ _2001 Translation Bible can be found [here](https://2001translation.org/download
 2. <a href="#how-to-backend">How to start the backend server</a>
 3. <a href="#how-to-CLI">How to run the app from CLI
 
-### <p id="how-to-frontend">How to Run the APP's Frontend</p>
+## <p id="how-to-frontend">How to Run the APP's Frontend</p>
 
 #### Prerequisites
 * latest version of npm
@@ -45,7 +45,7 @@ In Summary, enter the following commands:
  npm install
  npm run dev ```
 
-### <p id="how-to-backend">How to Run Start the Backend Server</p>
+## <p id="how-to-backend">How to Run Start the Backend Server</p>
 
-### <p id="how-to-CLI">How to Run the APP in CLI</p>
+## <p id="how-to-CLI">How to Run the APP in CLI</p>
 
