@@ -7,6 +7,6 @@ It is a search engine that efficiently queries over the 2001 Translation of Bibl
 _2001 Translation Bible can be found [here](https://2001translation.org/download-docx)._
 
 <div align="center">
-  <Image src="/home_page.png" alt="Pretty picture" width="800" height="auto" />
+  <Image style="border: 1px solid black" src="/home_page.png" alt="Pretty picture" width="800" height="auto" />
 </div>
 
