@@ -17,7 +17,7 @@ _2001 Translation Bible can be found [here](https://2001translation.org/download
 
 
 
-
+  
 ## <p id="how-to-frontend">How to Run the APP's Frontend</p>
 
 #### Prerequisites
