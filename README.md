@@ -146,4 +146,17 @@ In Summary, enter the following commands:
 **Response**  
 * Status Code: 200 OK if the request is successful.  
 * Content-Type: application/json  
-* Response Body:
+* Response Body:  
+```
+[
+    [
+        Document_name(string),
+        bm25_scores(int)
+    ],
+    [
+        Document_name_2(string),
+        bm25_scores(int)
+    ],
+    ...
+]
+```
