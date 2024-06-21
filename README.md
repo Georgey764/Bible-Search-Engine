@@ -12,8 +12,8 @@ _2001 Translation Bible can be found [here](https://2001translation.org/download
 
 ## Overview
 1. <a href="#how-to-CLI">How to run the app from CLI (Easiest)
-2. <a href="#how-to-backend">How to start the backend server</a>
-3. <a href="#how-to-frontend">How to run the app's frontend</a>
+2. <a href="#how-to-frontend">How to run the app's frontend</a> 
+3. <a href="#how-to-backend">How to start the backend server</a>
 
 <br/>
 
