@@ -132,8 +132,8 @@ In Summary, enter the following commands:
 
 ## <p id="how-to-backend-api">Backend API Documentation</p>
 
-**Name**: Read Query
-**Method**: GET 
+**Name**: Read Query <br/>
+**Method**: GET  
 **Endpoint**: http://localhost:8080/read/<query> 
 **Path Variable**: <query> : URL Safe query. You can encode your query [here](https://www.urlencoder.org/)
 **Description**: This endpoint allows the client to retrieve BM25 scores for a given query.
