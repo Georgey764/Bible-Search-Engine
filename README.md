@@ -138,11 +138,12 @@ In Summary, enter the following commands:
   
 **Endpoint**: http://localhost:8080/read/<query>  
   
-**Request Parameters**: query (path parameter) : URL Safe query string for which BM25 scores need to be retrieved. You can encode your query [here](https://www.urlencoder.org/)  
+**Request Parameters**:  
+* query (path parameter) : URL Safe query string for which BM25 scores need to be retrieved. You can encode your query [here](https://www.urlencoder.org/)  
   
 **Description**: This endpoint allows the client to retrieve BM25 scores for a given query.  
   
 **Response**  
-Status Code: 200 OK if the request is successful.  
-Content-Type: application/json  
-Response Body:
+* Status Code: 200 OK if the request is successful.  
+* Content-Type: application/json  
+* Response Body:
