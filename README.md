@@ -14,6 +14,7 @@ _2001 Translation Bible can be found [here](https://2001translation.org/download
 1. <a href="#how-to-CLI">How to run the app from CLI (Easiest)
 2. <a href="#how-to-frontend">How to run the app's frontend</a> 
 3. <a href="#how-to-backend">How to start the backend server</a>
+4. <a href="#how-to-backend-api">Backend API Documentation</a>
 
 <br/>
 
@@ -129,3 +130,23 @@ In Summary, enter the following commands:
         
 <br/>
 
+## <p id="how-to-backend-api">Backend API Documentation</p>
+
+**Name**: Read Query
+**Method**: GET 
+**Endpoint**: http://localhost:8080/read/<query> 
+**Path Variable**: <query> : URL Safe query. You can encode your query [here](https://www.urlencoder.org/)
+**Description**: This endpoint allows the client to retrieve BM25 scores for a given query.
+
+URL
+/read/<query>
+Method
+GET
+Request Parameters
+query (path parameter): The query string for which BM25 scores need to be retrieved.
+Response
+Status Code: 200 OK if the request is successful.
+
+Content-Type: application/json
+
+Response Body:
