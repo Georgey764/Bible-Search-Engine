@@ -77,6 +77,8 @@ In Summary, enter the following commands:
 
     ``` >>> npm run dev ```
 
+5. Access the frontend on http://localhost:3000/
+
 In Summary, enter the following commands:
 
 ```
@@ -113,6 +115,8 @@ In Summary, enter the following commands:
 6. Start the backend server
 
     ``` >>> python3 run main.py ```
+   
+8. Access the backend on http://localhost:8080/
 
 In Summary, enter the following commands:
 
