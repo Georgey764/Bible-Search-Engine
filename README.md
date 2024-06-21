@@ -147,6 +147,7 @@ In Summary, enter the following commands:
 * Status Code: 200 OK if the request is successful.  
 * Content-Type: application/json  
 * Response Body:  
+   
     ```
     [
         [
