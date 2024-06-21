@@ -2,7 +2,8 @@
 
 It is a search engine that efficiently queries over the 2001 Translation of Bible and returns the best matching chapter that matches with the user queried verse.
 
-Interested in how I made this? Check out the [BLOG](https://medium.com/@georgesamuel764/how-to-create-a-simple-and-efficient-search-engine-in-python-bd1196ac4c1c)
+Interested in how I made this? Check out the [blog](https://medium.com/@georgesamuel764/how-to-create-a-simple-and-efficient-search-engine-in-python-bd1196ac4c1c).
+I went over all the steps that I took to make this application in the [blog](https://medium.com/@georgesamuel764/how-to-create-a-simple-and-efficient-search-engine-in-python-bd1196ac4c1c).
 
 **Keep in mind that this engine is based on 2001 Translation of Bible and other popular translation will not work.**
 
