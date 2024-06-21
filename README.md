@@ -11,9 +11,10 @@ _2001 Translation Bible can be found [here](https://2001translation.org/download
 </div>
 
 ## Overview
-1. <a href="#how-to-frontend">How to run the app's frontend</a>
+1. <a href="#how-to-CLI">How to run the app from CLI (Easiest)
 2. <a href="#how-to-backend">How to start the backend server</a>
-3. <a href="#how-to-CLI">How to run the app from CLI
+3. <a href="#how-to-frontend">How to run the app's frontend</a>
+
 <br/>
 
 ## <p id="how-to-frontend">How to Run the APP's Frontend</p>
@@ -48,6 +49,8 @@ In Summary, enter the following commands:
 >>> npm run dev
 ```
 
+<br/>
+## <p id="how-to-CLI">How to Run the APP in CLI</p>
 <br/>
 
 ## <p id="how-to-backend">How to Start the Backend Server</p>
@@ -86,6 +89,4 @@ In Summary, enter the following commands:
 ```
         
 <br/>
-
-## <p id="how-to-CLI">How to Run the APP in CLI</p>
 
