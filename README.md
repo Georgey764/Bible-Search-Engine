@@ -17,6 +17,43 @@ _2001 Translation Bible can be found [here](https://2001translation.org/download
 
 <br/>
 
+## <p id="how-to-CLI">How to Run the APP in CLI</p>
+
+#### Prerequisites
+* latest version of python3
+
+#### Steps
+1. In CLI, upon cloning the repository change your directory to the directory where you cloned this repository then change directory to Bible Search Engine and then to my-app-frontend.
+
+    ``` >>> cd ./path-to-cloned-repository/Bible-Search-Engine/ ```
+
+2. Create a virtual env in python
+
+    ``` >>> python3 venv ./.venv ```
+
+3. Activate the virtual environment
+
+    ``` >>> source ./.venv/bin/activate ```
+
+5. Install the required packages
+
+    ``` >>> pip3 install -r requirements.txt ```
+   
+7. Start the backend server
+
+    ``` >>> python3 run query_chapter.py "Your query goes here inside double quotes" y(optional) #y=the maximum number of results to be returned```
+
+In Summary, enter the following commands:
+
+```
+>>> cd ./path-to-cloned-repository/Bible-Search-Engine/
+>>> python3 venv ./.venv
+>>> pip3 install -r requirements.txt
+>>> python3 run query_chapter.py "Your query goes here inside double quotes" y(optional) #y=the maximum number of results to be returned
+```
+
+<br/>
+
 ## <p id="how-to-frontend">How to Run the APP's Frontend</p>
 
 #### Prerequisites
@@ -49,8 +86,6 @@ In Summary, enter the following commands:
 >>> npm run dev
 ```
 
-<br/>
-## <p id="how-to-CLI">How to Run the APP in CLI</p>
 <br/>
 
 ## <p id="how-to-backend">How to Start the Backend Server</p>
