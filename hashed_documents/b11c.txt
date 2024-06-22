@@ -1,4 +1,2 @@
 
-kili	{"Acts_ch_6.docx": [1116], "Acts_ch_27.docx": [619, 619], "Galatians_ch_1.docx": [2609, 2609]}
-11‘my	{"Job_ch_23.docx": [939]}
 kili	{"Acts_ch_6.docx": [1116], "Acts_ch_27.docx": [619], "Galatians_ch_1.docx": [2609]}

@@ -1,5 +1,2 @@
 
 sallo	{"1 Chronicles_ch_7.docx": [1718]}
-9‘alt	{"Numbers_ch_2.docx": [790], "Isaiah_ch_53.docx": [1393], "Jeremiah_ch_31.docx": [1378], "Jeremiah_ch_51.docx": [1394]}
-sallo	{"1 Chronicles_ch_7.docx": [1718]}
-sallo	{"1 Chronicles_ch_7.docx": [1718]}

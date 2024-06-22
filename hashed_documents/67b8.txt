@@ -1,5 +1,2 @@
 
-cup!	{"Genesis_ch_44.docx": [2136], "Matthew_ch_20.docx": [2996, 2996, 2996]}
-cup!	{"Genesis_ch_44.docx": [2136], "Matthew_ch_20.docx": [2996, 2996]}
-10hear	{"Proverbs_ch_4.docx": [898]}
 cup!	{"Genesis_ch_44.docx": [2136], "Matthew_ch_20.docx": [2996]}

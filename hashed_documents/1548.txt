@@ -1,4 +1,2 @@
 
-phua	{"Genesis_ch_46.docx": [1578], "Numbers_ch_26.docx": [2097, 2102, 2097, 2102, 2097, 2102], "Judges_ch_10.docx": [13, 13, 13], "1 Chronicles_ch_7.docx": [66, 66, 66]}
-phua	{"Genesis_ch_46.docx": [1578], "Numbers_ch_26.docx": [2097, 2102, 2097, 2102], "Judges_ch_10.docx": [13, 13], "1 Chronicles_ch_7.docx": [66, 66]}
 phua	{"Genesis_ch_46.docx": [1578], "Numbers_ch_26.docx": [2097, 2102], "Judges_ch_10.docx": [13], "1 Chronicles_ch_7.docx": [66]}

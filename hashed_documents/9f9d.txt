@@ -1,5 +1,2 @@
 
 bob	{"Zechariah_ch_4.docx": [1347]}
-17‘it	{"Job_ch_39.docx": [1517], "Jeremiah_ch_34.docx": [3103], "Ezekiel_ch_43.docx": [3094]}
-bob	{"Zechariah_ch_4.docx": [1347]}
-bob	{"Zechariah_ch_4.docx": [1347]}

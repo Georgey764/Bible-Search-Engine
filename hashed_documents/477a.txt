@@ -1,4 +1,2 @@
 
-heir!	{"Matthew_ch_21.docx": [5461], "Mark_ch_12.docx": [928, 928]}
-heir!	{"Matthew_ch_21.docx": [5461], "Mark_ch_12.docx": [928]}
 heir!	{"Matthew_ch_21.docx": [5461], "Mark_ch_12.docx": [928]}

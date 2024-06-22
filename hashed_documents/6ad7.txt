@@ -1,4 +1,2 @@
 
-blem	{"Numbers_ch_19.docx": [156], "2 Samuel_ch_14.docx": [4153, 4153, 4153], "Ephesians_ch_5.docx": [2833, 2833], "Colossians_ch_1.docx": [3208, 3208], "Hebrews_ch_7.docx": [3427, 3444, 3427, 3444]}
-blem	{"Numbers_ch_19.docx": [156], "2 Samuel_ch_14.docx": [4153, 4153], "Ephesians_ch_5.docx": [2833], "Colossians_ch_1.docx": [3208], "Hebrews_ch_7.docx": [3427, 3444]}
 blem	{"Numbers_ch_19.docx": [156], "2 Samuel_ch_14.docx": [4153], "Ephesians_ch_5.docx": [2833], "Colossians_ch_1.docx": [3208], "Hebrews_ch_7.docx": [3427, 3444]}

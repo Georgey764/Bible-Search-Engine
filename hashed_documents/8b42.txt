@@ -1,5 +1,2 @@
 
-unfami	{"Deuteronomy_ch_28.docx": [4587], "Ruth_ch_2.docx": [1807, 1807, 1807], "Acts_ch_7.docx": [2377, 2377], "Hebrews_ch_5.docx": [1674, 1674]}
-5fro	{"Numbers_ch_13.docx": [427], "Ezra_ch_8.docx": [548], "Nehemiah_ch_3.docx": [2120]}
-unfami	{"Deuteronomy_ch_28.docx": [4587], "Ruth_ch_2.docx": [1807, 1807], "Acts_ch_7.docx": [2377], "Hebrews_ch_5.docx": [1674]}
 unfami	{"Deuteronomy_ch_28.docx": [4587], "Ruth_ch_2.docx": [1807], "Acts_ch_7.docx": [2377], "Hebrews_ch_5.docx": [1674]}

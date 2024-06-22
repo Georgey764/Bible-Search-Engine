@@ -1,0 +1,2 @@
+
+gospel	{"Malachi_ch_4.docx": [1129, 1328, 1335, 1925, 1959], "Matthew_ch_28.docx": [2620, 2634, 2916], "Mark_ch_16.docx": [1074, 1085, 1110, 2558], "Luke_ch_24.docx": [6026], "John_ch_21.docx": [4203]}

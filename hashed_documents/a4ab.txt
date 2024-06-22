@@ -1,4 +1,2 @@
 
-raphe	{"1 Chronicles_ch_7.docx": [3094], "1 Chronicles_ch_8.docx": [141, 141, 141]}
-raphe	{"1 Chronicles_ch_7.docx": [3094], "1 Chronicles_ch_8.docx": [141, 141]}
 raphe	{"1 Chronicles_ch_7.docx": [3094], "1 Chronicles_ch_8.docx": [141]}

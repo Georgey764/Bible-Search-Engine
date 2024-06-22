@@ -1,6 +1,2 @@
 
-tabor<	{"Judges_ch_4.docx": [4887, 6113, 6113, 6113]}
-tabor<	{"Judges_ch_4.docx": [4887, 6113, 6113]}
-3-pron	{"1 Samuel_ch_2.docx": [2420]}
-2noa	{"1 Chronicles_ch_8.docx": [118]}
 tabor<	{"Judges_ch_4.docx": [4887, 6113]}

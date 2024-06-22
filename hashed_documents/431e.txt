@@ -1,4 +1,2 @@
 
-sos	{"1 Chronicles_ch_2.docx": [2853, 2855, 3191, 3195, 3614, 3643, 2855, 3191, 3195, 3614, 3643, 2855, 3191, 3195, 3614, 3643], "1 Chronicles_ch_8.docx": [1086, 1438, 1086, 1438, 1086, 1438], "Acts_ch_18.docx": [4913, 4913], "1 Corinthians_ch_1.docx": [24, 24]}
-sos	{"1 Chronicles_ch_2.docx": [2853, 2855, 3191, 3195, 3614, 3643, 2855, 3191, 3195, 3614, 3643], "1 Chronicles_ch_8.docx": [1086, 1438, 1086, 1438], "Acts_ch_18.docx": [4913], "1 Corinthians_ch_1.docx": [24]}
-sos	{"1 Chronicles_ch_2.docx": [2853, 2855, 3191, 3195, 3614, 3643], "1 Chronicles_ch_8.docx": [1086, 1438], "Acts_ch_18.docx": [4913], "1 Corinthians_ch_1.docx": [24]}
+sos	{"1 Chronicles_ch_2.docx": [2853, 2855, 3191, 3195, 3614, 3643], "1 Chronicles_ch_8.docx": [1086, 1438], "Acts_ch_18.docx": [4913], "Romans_ch_16.docx": [2853, 3924], "1 Corinthians_ch_1.docx": [24]}

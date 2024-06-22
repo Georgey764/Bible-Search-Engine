@@ -1,2 +1,2 @@
 
-35‘an	{"Exodus_ch_21.docx": [4268], "1 Kings_ch_8.docx": [5427], "Matthew_ch_23.docx": [4464]}
+quotes	{"Esther_ch_10.docx": [2562], "Song of Solomon_ch_8.docx": [3812], "Isaiah_ch_66.docx": [6958], "Lamentations_ch_5.docx": [3988], "Daniel_ch_12.docx": [5653], "Hosea_ch_14.docx": [1832, 3208], "Joel_ch_3.docx": [6324], "Jonah_ch_4.docx": [3307], "Micah_ch_7.docx": [6176], "Nahum_ch_3.docx": [5384], "Habakkuk_ch_3.docx": [5024], "Zephaniah_ch_3.docx": [6114], "Haggai_ch_2.docx": [6431], "1 Peter_ch_5.docx": [2300]}

@@ -1,3 +1,2 @@
 
 clash	{"Psalms_ch_150.docx": [443], "1 Corinthians_ch_13.docx": [30]}
-clash	{"1 Corinthians_ch_13.docx": [30]}

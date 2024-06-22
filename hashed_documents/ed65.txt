@@ -1,4 +1,2 @@
 
-weave	{"Exodus_ch_28.docx": [5055], "Exodus_ch_35.docx": [3682, 3682, 3682], "2 Chronicles_ch_2.docx": [2704, 2704, 2704], "Job_ch_38.docx": [3366, 3366, 3366], "Isaiah_ch_19.docx": [1242, 1242, 1242], "Isaiah_ch_38.docx": [1789, 1789, 1789], "Isaiah_ch_59.docx": [680, 803, 680, 803, 680, 803]}
-weave	{"Exodus_ch_28.docx": [5055], "Exodus_ch_35.docx": [3682, 3682], "2 Chronicles_ch_2.docx": [2704, 2704], "Job_ch_38.docx": [3366, 3366], "Isaiah_ch_19.docx": [1242, 1242], "Isaiah_ch_38.docx": [1789, 1789], "Isaiah_ch_59.docx": [680, 803, 680, 803]}
 weave	{"Exodus_ch_28.docx": [5055], "Exodus_ch_35.docx": [3682], "2 Chronicles_ch_2.docx": [2704], "Job_ch_38.docx": [3366], "Isaiah_ch_19.docx": [1242], "Isaiah_ch_38.docx": [1789], "Isaiah_ch_59.docx": [680, 803]}

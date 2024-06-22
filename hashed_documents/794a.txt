@@ -1,4 +1,2 @@
 
 buyer	{"Leviticus_ch_25.docx": [4077]}
-buyer	{"Leviticus_ch_25.docx": [4077]}
-buyer	{"Leviticus_ch_25.docx": [4077]}

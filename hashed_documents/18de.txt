@@ -1,2 +1,0 @@
-
-19al	{"Genesis_ch_15.docx": [2420], "1 Kings_ch_6.docx": [2416], "2 Kings_ch_16.docx": [3200], "1 Chronicles_ch_8.docx": [1292], "2 Chronicles_ch_29.docx": [3090], "Ezra_ch_8.docx": [2383], "Psalms_ch_34.docx": [1605]}

@@ -1,3 +1,2 @@
 
-talks	{"Luke_ch_5.docx": [4418], "John_ch_3.docx": [3747, 3747]}
-talks	{"Luke_ch_5.docx": [4418], "John_ch_3.docx": [3747]}
+talks	{"Song of Solomon_ch_8.docx": [4193], "Isaiah_ch_66.docx": [7339], "Lamentations_ch_5.docx": [4369], "Daniel_ch_12.docx": [6034], "Hosea_ch_14.docx": [3589], "Joel_ch_3.docx": [6705], "Jonah_ch_4.docx": [3688], "Micah_ch_7.docx": [6557], "Nahum_ch_3.docx": [5765], "Habakkuk_ch_3.docx": [5405], "Zephaniah_ch_3.docx": [6495], "Haggai_ch_2.docx": [6812], "Luke_ch_5.docx": [4418], "John_ch_3.docx": [3747]}

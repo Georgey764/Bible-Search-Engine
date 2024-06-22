@@ -1,4 +1,2 @@
 
-beams	{"1 Kings_ch_6.docx": [1283, 1893, 2053, 1893, 2053, 1893, 2053], "1 Kings_ch_7.docx": [630, 1337, 630, 1337, 630, 1337], "2 Chronicles_ch_34.docx": [1895, 1895, 1895], "Song of Solomon_ch_1.docx": [2174, 2174, 2174]}
-beams	{"1 Kings_ch_6.docx": [1283, 1893, 2053, 1893, 2053], "1 Kings_ch_7.docx": [630, 1337, 630, 1337], "2 Chronicles_ch_34.docx": [1895, 1895], "Song of Solomon_ch_1.docx": [2174, 2174]}
 beams	{"1 Kings_ch_6.docx": [1283, 1893, 2053], "1 Kings_ch_7.docx": [630, 1337], "2 Chronicles_ch_34.docx": [1895], "Song of Solomon_ch_1.docx": [2174]}

@@ -1,4 +1,2 @@
 
-abimae	{"Genesis_ch_10.docx": [3027], "1 Chronicles_ch_1.docx": [1843, 1843, 1843]}
-abimae	{"Genesis_ch_10.docx": [3027], "1 Chronicles_ch_1.docx": [1843, 1843]}
 abimae	{"Genesis_ch_10.docx": [3027], "1 Chronicles_ch_1.docx": [1843]}

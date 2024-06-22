@@ -1,4 +1,2 @@
 
-reajah	{"Ezra_ch_2.docx": [1767], "Nehemiah_ch_7.docx": [2850, 2850]}
-reajah	{"Ezra_ch_2.docx": [1767], "Nehemiah_ch_7.docx": [2850]}
 reajah	{"Ezra_ch_2.docx": [1767], "Nehemiah_ch_7.docx": [2850]}

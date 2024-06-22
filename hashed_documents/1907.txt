@@ -1,4 +1,2 @@
 
-tuni	{"Exodus_ch_28.docx": [592, 5034, 5159, 5034, 5159, 5034, 5159], "Leviticus_ch_6.docx": [1094, 1094, 1094], "Leviticus_ch_8.docx": [490, 641, 490, 641, 490, 641], "Leviticus_ch_16.docx": [518, 518, 518]}
-tuni	{"Exodus_ch_28.docx": [592, 5034, 5159, 5034, 5159], "Leviticus_ch_6.docx": [1094, 1094], "Leviticus_ch_8.docx": [490, 641, 490, 641], "Leviticus_ch_16.docx": [518, 518]}
 tuni	{"Exodus_ch_28.docx": [592, 5034, 5159], "Leviticus_ch_6.docx": [1094], "Leviticus_ch_8.docx": [490, 641], "Leviticus_ch_16.docx": [518]}

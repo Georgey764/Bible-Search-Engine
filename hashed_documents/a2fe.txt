@@ -1,4 +1,2 @@
 
-zapho	{"Genesis_ch_36.docx": [4426], "1 Chronicles_ch_1.docx": [4568, 4568, 4568]}
-zapho	{"Genesis_ch_36.docx": [4426], "1 Chronicles_ch_1.docx": [4568, 4568]}
 zapho	{"Genesis_ch_36.docx": [4426], "1 Chronicles_ch_1.docx": [4568]}

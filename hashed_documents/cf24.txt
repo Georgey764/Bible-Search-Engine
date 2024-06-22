@@ -1,4 +1,2 @@
 
-maraio	{"1 Chronicles_ch_9.docx": [1435], "Nehemiah_ch_11.docx": [1595, 1595, 1595]}
-maraio	{"1 Chronicles_ch_9.docx": [1435], "Nehemiah_ch_11.docx": [1595, 1595]}
 maraio	{"1 Chronicles_ch_9.docx": [1435], "Nehemiah_ch_11.docx": [1595]}

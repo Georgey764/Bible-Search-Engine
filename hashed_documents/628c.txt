@@ -1,7 +1,3 @@
 
 baala	{"1 Kings_ch_9.docx": [2855]}
 watchf	{"Jeremiah_ch_31.docx": [5207]}
-baala	{"1 Kings_ch_9.docx": [2855]}
-watchf	{"Jeremiah_ch_31.docx": [5207]}
-baala	{"1 Kings_ch_9.docx": [2855]}
-watchf	{"Jeremiah_ch_31.docx": [5207]}

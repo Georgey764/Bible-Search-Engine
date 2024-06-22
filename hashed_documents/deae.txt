@@ -1,4 +1,2 @@
 
-kos	{"1 Chronicles_ch_4.docx": [679], "1 Chronicles_ch_24.docx": [1486, 1486], "Nehemiah_ch_3.docx": [1874, 1874]}
-kos	{"Nehemiah_ch_3.docx": [1874, 1874], "1 Chronicles_ch_24.docx": [1486]}
 kos	{"1 Chronicles_ch_4.docx": [679], "1 Chronicles_ch_24.docx": [1486], "Nehemiah_ch_3.docx": [1874]}

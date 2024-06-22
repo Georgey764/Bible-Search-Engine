@@ -1,9 +1,4 @@
 
 unfini	{"Genesis_ch_1.docx": [364]}
-donate	{"Exodus_ch_35.docx": [1765, 3059, 3059, 3059], "Exodus_ch_36.docx": [269, 269, 269], "Numbers_ch_5.docx": [1127, 1127, 1127], "2 Kings_ch_12.docx": [514, 514, 514], "2 Chronicles_ch_31.docx": [2648, 2648, 2648], "2 Chronicles_ch_34.docx": [1593, 1593, 1593], "Ezra_ch_7.docx": [1847, 1847, 1847], "2 Corinthians_ch_8.docx": [2580, 2580]}
-allur	{"Mark_ch_4.docx": [1961]}
-unfini	{"Genesis_ch_1.docx": [364]}
-donate	{"Exodus_ch_35.docx": [1765, 3059, 3059], "Exodus_ch_36.docx": [269, 269], "Numbers_ch_5.docx": [1127, 1127], "2 Kings_ch_12.docx": [514, 514], "2 Chronicles_ch_31.docx": [2648, 2648], "2 Chronicles_ch_34.docx": [1593, 1593], "Ezra_ch_7.docx": [1847, 1847], "2 Corinthians_ch_8.docx": [2580]}
-unfini	{"Genesis_ch_1.docx": [364]}
-donate	{"Exodus_ch_35.docx": [1765, 3059], "Exodus_ch_36.docx": [269], "Numbers_ch_5.docx": [1127], "2 Kings_ch_12.docx": [514], "2 Chronicles_ch_31.docx": [2648], "2 Chronicles_ch_34.docx": [1593], "Ezra_ch_7.docx": [1847], "2 Corinthians_ch_8.docx": [2580]}
-allur	{"Mark_ch_4.docx": [1961]}
+donate	{"Exodus_ch_35.docx": [1765, 3059], "Exodus_ch_36.docx": [269], "Leviticus_ch_27.docx": [2259], "Numbers_ch_5.docx": [1127], "2 Kings_ch_12.docx": [514], "2 Chronicles_ch_31.docx": [2648], "2 Chronicles_ch_34.docx": [1593], "Ezra_ch_7.docx": [1847], "2 Corinthians_ch_8.docx": [2580]}
+allur	{"Proverbs_ch_31.docx": [2840], "Mark_ch_4.docx": [1961]}

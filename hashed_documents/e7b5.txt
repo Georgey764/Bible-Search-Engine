@@ -1,4 +1,2 @@
 
-jabez	{"1 Chronicles_ch_4.docx": [773, 787, 885, 926, 885, 926, 787, 885, 926]}
-jabez	{"1 Chronicles_ch_4.docx": [787, 885, 926, 787, 885, 926]}
 jabez	{"1 Chronicles_ch_4.docx": [773, 787, 885, 926]}

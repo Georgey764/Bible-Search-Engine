@@ -1,4 +1,2 @@
 
-hoph	{"1 Samuel_ch_1.docx": [433], "1 Samuel_ch_2.docx": [6331, 6331, 6331], "1 Samuel_ch_4.docx": [678, 1762, 678, 1762, 678, 1762], "Jeremiah_ch_44.docx": [6483, 6483, 6483]}
-hoph	{"1 Samuel_ch_1.docx": [433], "1 Samuel_ch_2.docx": [6331, 6331], "1 Samuel_ch_4.docx": [678, 1762, 678, 1762], "Jeremiah_ch_44.docx": [6483, 6483]}
 hoph	{"1 Samuel_ch_1.docx": [433], "1 Samuel_ch_2.docx": [6331], "1 Samuel_ch_4.docx": [678, 1762], "Jeremiah_ch_44.docx": [6483]}

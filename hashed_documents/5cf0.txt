@@ -1,4 +1,2 @@
 
 lordsi	{"2 Peter_ch_1.docx": [36]}
-9eve	{"Exodus_ch_25.docx": [849], "1 Kings_ch_7.docx": [1119]}
-lordsi	{"2 Peter_ch_1.docx": [36]}

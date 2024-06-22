@@ -1,6 +1,3 @@
 
-guts	{"2 Samuel_ch_20.docx": [1878], "Job_ch_15.docx": [3479, 3479, 3479], "Job_ch_20.docx": [1257, 1257, 1257], "Isaiah_ch_8.docx": [3114, 3114, 3114], "Acts_ch_1.docx": [3888, 3888]}
-grow!	{"1 Corinthians_ch_3.docx": [751]}
-guts	{"2 Samuel_ch_20.docx": [1878], "Job_ch_15.docx": [3479, 3479], "Job_ch_20.docx": [1257, 1257], "Isaiah_ch_8.docx": [3114, 3114], "Acts_ch_1.docx": [3888]}
 guts	{"2 Samuel_ch_20.docx": [1878], "Job_ch_15.docx": [3479], "Job_ch_20.docx": [1257], "Isaiah_ch_8.docx": [3114], "Acts_ch_1.docx": [3888]}
 grow!	{"1 Corinthians_ch_3.docx": [751]}

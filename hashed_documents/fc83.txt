@@ -1,4 +1,2 @@
 
-dusk	{"Genesis_ch_3.docx": [1164], "2 Chronicles_ch_31.docx": [654, 654, 654], "Psalms_ch_104.docx": [2316, 2316, 2316]}
-dusk	{"Genesis_ch_3.docx": [1164], "2 Chronicles_ch_31.docx": [654, 654], "Psalms_ch_104.docx": [2316, 2316]}
 dusk	{"Genesis_ch_3.docx": [1164], "2 Chronicles_ch_31.docx": [654], "Psalms_ch_104.docx": [2316]}

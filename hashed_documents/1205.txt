@@ -1,4 +1,2 @@
 
  beers	{"1 Chronicles_ch_4.docx": [3388]}
- beers	{"1 Chronicles_ch_4.docx": [3388]}
- beers	{"1 Chronicles_ch_4.docx": [3388]}

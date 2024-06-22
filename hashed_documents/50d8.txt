@@ -1,4 +1,2 @@
 
-feathe	{"Genesis_ch_1.docx": [3248], "Leviticus_ch_1.docx": [1967, 1967, 1967], "Job_ch_39.docx": [1199, 1609, 1199, 1609, 1199, 1609], "Psalms_ch_78.docx": [2765, 2765, 2765], "Psalms_ch_148.docx": [963, 963, 963], "Ezekiel_ch_1.docx": [553, 553, 553]}
-feathe	{"Genesis_ch_1.docx": [3248], "Leviticus_ch_1.docx": [1967, 1967], "Job_ch_39.docx": [1199, 1609, 1199, 1609], "Psalms_ch_78.docx": [2765, 2765], "Psalms_ch_148.docx": [963, 963], "Ezekiel_ch_1.docx": [553, 553]}
 feathe	{"Genesis_ch_1.docx": [3248], "Leviticus_ch_1.docx": [1967], "Job_ch_39.docx": [1199, 1609], "Psalms_ch_78.docx": [2765], "Psalms_ch_148.docx": [963], "Ezekiel_ch_1.docx": [553]}

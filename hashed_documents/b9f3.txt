@@ -1,4 +1,2 @@
 
-drop-o	{"2 Chronicles_ch_9.docx": [2672, 2696, 2696, 2696], "Mark_ch_5.docx": [1267, 1267], "Luke_ch_8.docx": [4978, 4978]}
-drop-o	{"2 Chronicles_ch_9.docx": [2672, 2696, 2696], "Mark_ch_5.docx": [1267], "Luke_ch_8.docx": [4978]}
 drop-o	{"2 Chronicles_ch_9.docx": [2672, 2696], "Mark_ch_5.docx": [1267], "Luke_ch_8.docx": [4978]}

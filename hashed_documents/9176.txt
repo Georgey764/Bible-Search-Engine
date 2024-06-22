@@ -1,7 +1,3 @@
 
 elder’	{"1 Samuel_ch_24.docx": [2161]}
 sad;	{"Matthew_ch_5.docx": [253]}
-elder’	{"1 Samuel_ch_24.docx": [2161]}
-sad;	{"Matthew_ch_5.docx": [253]}
-elder’	{"1 Samuel_ch_24.docx": [2161]}
-sad;	{"Matthew_ch_5.docx": [253]}

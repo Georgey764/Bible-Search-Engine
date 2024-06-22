@@ -1,4 +1,2 @@
 
-peeph	{"Judges_ch_5.docx": [4077], "Job_ch_24.docx": [1627, 1627, 1627]}
-peeph	{"Judges_ch_5.docx": [4077], "Job_ch_24.docx": [1627, 1627]}
 peeph	{"Judges_ch_5.docx": [4077], "Job_ch_24.docx": [1627]}

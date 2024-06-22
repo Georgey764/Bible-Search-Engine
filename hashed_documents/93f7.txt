@@ -1,4 +1,2 @@
 
-java	{"1 Chronicles_ch_1.docx": [243, 361, 361], "Ezekiel_ch_27.docx": [2812, 2812, 2812]}
-java	{"1 Chronicles_ch_1.docx": [243, 361], "Ezekiel_ch_27.docx": [2812, 2812]}
 java	{"1 Chronicles_ch_1.docx": [243, 361], "Ezekiel_ch_27.docx": [2812]}

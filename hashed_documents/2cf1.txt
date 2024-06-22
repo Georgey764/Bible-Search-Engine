@@ -1,4 +1,2 @@
 
-lung	{"2 Chronicles_ch_18.docx": [5279]}
-lung	{"2 Chronicles_ch_18.docx": [5279]}
-lung	{"2 Chronicles_ch_18.docx": [5279]}
+lung	{"1 Kings_ch_22.docx": [5490], "2 Chronicles_ch_18.docx": [5279]}

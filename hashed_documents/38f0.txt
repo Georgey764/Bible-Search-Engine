@@ -1,10 +1,4 @@
 
 jebasa	{"1 Chronicles_ch_7.docx": [169]}
 sinews	{"Job_ch_41.docx": [1412]}
-smiths	{"Isaiah_ch_40.docx": [2743], "Isaiah_ch_46.docx": [846, 846, 846]}
-jebasa	{"1 Chronicles_ch_7.docx": [169]}
-sinews	{"Job_ch_41.docx": [1412]}
-smiths	{"Isaiah_ch_40.docx": [2743], "Isaiah_ch_46.docx": [846, 846]}
-jebasa	{"1 Chronicles_ch_7.docx": [169]}
-sinews	{"Job_ch_41.docx": [1412]}
 smiths	{"Isaiah_ch_40.docx": [2743], "Isaiah_ch_46.docx": [846]}

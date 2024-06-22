@@ -1,6 +1,2 @@
 
-shemei	{"1 Kings_ch_4.docx": [1895], "1 Chronicles_ch_15.docx": [833, 1081, 833, 1081]}
-8‘its	{"Joshua_ch_13.docx": [10851]}
-shemei	{"1 Chronicles_ch_15.docx": [1081, 833, 1081]}
-66no	{"Psalms_ch_119.docx": [5292]}
-shemei	{"1 Kings_ch_4.docx": [1895], "1 Chronicles_ch_15.docx": [833, 1081]}
+shemei	{"1 Kings_ch_4.docx": [1895], "1 Chronicles_ch_15.docx": [833, 1081], "Ezra_ch_10.docx": [4135]}

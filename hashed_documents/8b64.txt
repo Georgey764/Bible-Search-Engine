@@ -1,2 +1,0 @@
-
-36‘b	{"Nehemiah_ch_9.docx": [7889], "Jeremiah_ch_23.docx": [6447], "Jeremiah_ch_50.docx": [6680], "Jeremiah_ch_51.docx": [6094], "Ezekiel_ch_16.docx": [5509]}

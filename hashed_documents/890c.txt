@@ -1,4 +1,2 @@
 
-love;	{"Psalms_ch_78.docx": [3565], "Proverbs_ch_17.docx": [905, 905, 905], "Song of Solomon_ch_5.docx": [1151, 1151, 1151], "Song of Solomon_ch_7.docx": [1473, 1943, 1473, 1943, 1473, 1943], "1 Thessalonians_ch_3.docx": [769, 769]}
-love;	{"Psalms_ch_78.docx": [3565], "Proverbs_ch_17.docx": [905, 905], "Song of Solomon_ch_5.docx": [1151, 1151], "Song of Solomon_ch_7.docx": [1473, 1943, 1473, 1943], "1 Thessalonians_ch_3.docx": [769]}
 love;	{"Psalms_ch_78.docx": [3565], "Proverbs_ch_17.docx": [905], "Song of Solomon_ch_5.docx": [1151], "Song of Solomon_ch_7.docx": [1473, 1943], "1 Thessalonians_ch_3.docx": [769]}

@@ -1,2 +1,0 @@
-
-26m	{"Numbers_ch_6.docx": [4013], "Joshua_ch_18.docx": [3500], "Judges_ch_3.docx": [9187], "1 Samuel_ch_2.docx": [4710], "Job_ch_31.docx": [2390], "Psalms_ch_35.docx": [2710], "Psalms_ch_68.docx": [2848], "Psalms_ch_119.docx": [1954], "Proverbs_ch_4.docx": [2396], "Proverbs_ch_7.docx": [2300]}

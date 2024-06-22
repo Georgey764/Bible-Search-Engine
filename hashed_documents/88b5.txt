@@ -1,4 +1,2 @@
 
-doth	{"Genesis_ch_37.docx": [2232, 2292, 2292, 2292], "2 Kings_ch_6.docx": [1854, 1854, 1854]}
-doth	{"Genesis_ch_37.docx": [2232, 2292, 2292], "2 Kings_ch_6.docx": [1854, 1854]}
 doth	{"Genesis_ch_37.docx": [2232, 2292], "2 Kings_ch_6.docx": [1854]}

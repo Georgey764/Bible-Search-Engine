@@ -1,7 +1,3 @@
 
-nabd	{"Genesis_ch_25.docx": [1403], "1 Chronicles_ch_1.docx": [2287, 2287, 2287]}
-hyen	{"Jeremiah_ch_12.docx": [1452]}
-nabd	{"Genesis_ch_25.docx": [1403], "1 Chronicles_ch_1.docx": [2287, 2287]}
-hyen	{"Jeremiah_ch_12.docx": [1452]}
 nabd	{"Genesis_ch_25.docx": [1403], "1 Chronicles_ch_1.docx": [2287]}
 hyen	{"Jeremiah_ch_12.docx": [1452]}

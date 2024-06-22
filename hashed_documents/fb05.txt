@@ -1,2 +1,0 @@
-
-6‘b	{"Numbers_ch_3.docx": [590], "1 Samuel_ch_2.docx": [855], "2 Chronicles_ch_13.docx": [752], "Job_ch_17.docx": [419], "Job_ch_33.docx": [492], "Song of Solomon_ch_4.docx": [829], "Isaiah_ch_8.docx": [768], "Isaiah_ch_9.docx": [909], "Isaiah_ch_47.docx": [830], "Isaiah_ch_48.docx": [1082], "Jeremiah_ch_49.docx": [1159], "Ezekiel_ch_33.docx": [779], "Joel_ch_2.docx": [999], "Nahum_ch_1.docx": [1487], "Zechariah_ch_12.docx": [1010], "Zechariah_ch_13.docx": [1046], "Matthew_ch_18.docx": [575]}

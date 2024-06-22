@@ -1,7 +1,4 @@
 
-readie	{"2 Samuel_ch_18.docx": [32], "Psalms_ch_112.docx": [616, 616, 616], "Proverbs_ch_9.docx": [177, 177, 177], "Ezekiel_ch_21.docx": [1574, 1574, 1574], "Zephaniah_ch_1.docx": [1215, 1215, 1215]}
+readie	{"2 Samuel_ch_18.docx": [32], "Psalms_ch_112.docx": [616], "Proverbs_ch_9.docx": [177], "Proverbs_ch_31.docx": [1606], "Ezekiel_ch_21.docx": [1574], "Zephaniah_ch_1.docx": [1215]}
 dibon!	{"Jeremiah_ch_48.docx": [2391]}
-readie	{"2 Samuel_ch_18.docx": [32], "Psalms_ch_112.docx": [616, 616], "Proverbs_ch_9.docx": [177, 177], "Ezekiel_ch_21.docx": [1574, 1574], "Zephaniah_ch_1.docx": [1215, 1215]}
-dibon!	{"Jeremiah_ch_48.docx": [2391]}
-readie	{"2 Samuel_ch_18.docx": [32], "Psalms_ch_112.docx": [616], "Proverbs_ch_9.docx": [177], "Ezekiel_ch_21.docx": [1574], "Zephaniah_ch_1.docx": [1215]}
-dibon!	{"Jeremiah_ch_48.docx": [2391]}
+nonse	{"Luke_ch_24.docx": [1004]}

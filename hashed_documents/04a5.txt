@@ -1,4 +1,2 @@
 
-cada	{"Numbers_ch_19.docx": [2177, 2358, 2358, 2358]}
-cada	{"Numbers_ch_19.docx": [2177, 2358, 2358]}
 cada	{"Numbers_ch_19.docx": [2177, 2358]}

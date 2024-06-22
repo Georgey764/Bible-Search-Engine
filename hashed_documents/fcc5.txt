@@ -1,5 +1,2 @@
 
 asasan	{"2 Chronicles_ch_20.docx": [222]}
-35,400	{"Numbers_ch_1.docx": [3261], "Numbers_ch_2.docx": [2061]}
-asasan	{"2 Chronicles_ch_20.docx": [222]}
-asasan	{"2 Chronicles_ch_20.docx": [222]}

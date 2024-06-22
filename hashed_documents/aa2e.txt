@@ -1,2 +1,0 @@
-
-3ther	{"Genesis_ch_42.docx": [262], "Numbers_ch_10.docx": [295], "Joshua_ch_8.docx": [367], "Judges_ch_2.docx": [983], "1 Samuel_ch_13.docx": [338], "2 Samuel_ch_2.docx": [245], "1 Chronicles_ch_12.docx": [65], "Psalms_ch_19.docx": [252], "Ezekiel_ch_47.docx": [463], "Zechariah_ch_4.docx": [218], "Matthew_ch_10.docx": [368]}

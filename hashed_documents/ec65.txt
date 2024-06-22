@@ -1,4 +1,2 @@
 
-besel	{"Exodus_ch_31.docx": [90], "Exodus_ch_35.docx": [3259, 3259, 3259], "Exodus_ch_36.docx": [5, 244, 1956, 5, 244, 1956, 5, 244, 1956], "Exodus_ch_37.docx": [5, 5, 5], "Exodus_ch_38.docx": [2570, 2570, 2570], "1 Chronicles_ch_2.docx": [1701, 1701, 1701], "2 Chronicles_ch_1.docx": [579, 579, 579]}
-besel	{"Exodus_ch_31.docx": [90], "Exodus_ch_35.docx": [3259, 3259], "Exodus_ch_36.docx": [5, 244, 1956, 5, 244, 1956], "Exodus_ch_37.docx": [5, 5], "Exodus_ch_38.docx": [2570, 2570], "1 Chronicles_ch_2.docx": [1701, 1701], "2 Chronicles_ch_1.docx": [579, 579]}
 besel	{"Exodus_ch_31.docx": [90], "Exodus_ch_35.docx": [3259], "Exodus_ch_36.docx": [5, 244, 1956], "Exodus_ch_37.docx": [5], "Exodus_ch_38.docx": [2570], "1 Chronicles_ch_2.docx": [1701], "2 Chronicles_ch_1.docx": [579]}

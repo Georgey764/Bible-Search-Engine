@@ -1,2 +1,0 @@
-
-33b	{"Exodus_ch_32.docx": [4907], "Deuteronomy_ch_2.docx": [4571], "2 Samuel_ch_15.docx": [5100], "1 Chronicles_ch_2.docx": [3090], "2 Chronicles_ch_20.docx": [5552], "Job_ch_9.docx": [3012], "Proverbs_ch_1.docx": [3404], "Isaiah_ch_30.docx": [5893], "Ezekiel_ch_33.docx": [6400]}

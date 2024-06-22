@@ -1,9 +1,4 @@
 
 phicho	{"Genesis_ch_26.docx": [3667]}
-garne	{"Exodus_ch_39.docx": [1399], "Isaiah_ch_54.docx": [1741, 1741, 1741]}
-lasea	{"Acts_ch_27.docx": [1024]}
-phicho	{"Genesis_ch_26.docx": [3667]}
-garne	{"Exodus_ch_39.docx": [1399], "Isaiah_ch_54.docx": [1741, 1741]}
-phicho	{"Genesis_ch_26.docx": [3667]}
 garne	{"Exodus_ch_39.docx": [1399], "Isaiah_ch_54.docx": [1741]}
 lasea	{"Acts_ch_27.docx": [1024]}

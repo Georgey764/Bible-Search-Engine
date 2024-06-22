@@ -1,7 +1,3 @@
 
 phapha	{"2 Kings_ch_5.docx": [2085]}
-matha	{"2 Kings_ch_11.docx": [2882], "1 Chronicles_ch_25.docx": [672, 2010, 672, 2010, 672, 2010], "2 Chronicles_ch_20.docx": [2000, 2000, 2000], "2 Chronicles_ch_23.docx": [3231, 3231, 3231], "2 Chronicles_ch_29.docx": [2170, 2170, 2170], "Nehemiah_ch_12.docx": [4883, 4883, 4883]}
-phapha	{"2 Kings_ch_5.docx": [2085]}
-matha	{"2 Kings_ch_11.docx": [2882], "1 Chronicles_ch_25.docx": [672, 2010, 672, 2010], "2 Chronicles_ch_20.docx": [2000, 2000], "2 Chronicles_ch_23.docx": [3231, 3231], "2 Chronicles_ch_29.docx": [2170, 2170], "Nehemiah_ch_12.docx": [4883, 4883]}
-phapha	{"2 Kings_ch_5.docx": [2085]}
 matha	{"2 Kings_ch_11.docx": [2882], "1 Chronicles_ch_25.docx": [672, 2010], "2 Chronicles_ch_20.docx": [2000], "2 Chronicles_ch_23.docx": [3231], "2 Chronicles_ch_29.docx": [2170], "Nehemiah_ch_12.docx": [4883]}

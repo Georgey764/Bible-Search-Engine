@@ -1,4 +1,2 @@
 
-esr	{"Genesis_ch_46.docx": [1516], "Numbers_ch_26.docx": [3621, 3626, 3626, 3621, 3626], "1 Kings_ch_4.docx": [1234, 1234, 1234]}
-esr	{"Genesis_ch_46.docx": [1516], "Numbers_ch_26.docx": [3626, 3621, 3626], "1 Kings_ch_4.docx": [1234, 1234]}
 esr	{"Genesis_ch_46.docx": [1516], "Numbers_ch_26.docx": [3621, 3626], "1 Kings_ch_4.docx": [1234]}

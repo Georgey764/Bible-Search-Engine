@@ -1,4 +1,2 @@
 
-spai	{"Genesis_ch_10.docx": [535], "Romans_ch_15.docx": [3295, 4099, 3295, 4099]}
-spai	{"Genesis_ch_10.docx": [535], "Romans_ch_15.docx": [3295, 4099]}
 spai	{"Genesis_ch_10.docx": [535], "Romans_ch_15.docx": [3295, 4099]}

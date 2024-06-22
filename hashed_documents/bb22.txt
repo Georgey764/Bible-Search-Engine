@@ -1,5 +1,2 @@
 
 vary	{"Ezekiel_ch_41.docx": [80]}
-24‘as	{"Jeremiah_ch_22.docx": [4100]}
-vary	{"Ezekiel_ch_41.docx": [80]}
-vary	{"Ezekiel_ch_41.docx": [80]}

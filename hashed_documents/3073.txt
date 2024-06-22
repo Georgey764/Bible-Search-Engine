@@ -1,5 +1,2 @@
 
-unp	{"Proverbs_ch_11.docx": [2222], "Proverbs_ch_19.docx": [254, 743, 254, 743, 254, 743], "Proverbs_ch_22.docx": [1075, 1075, 1075], "Proverbs_ch_28.docx": [1925, 1925, 1925], "Ezekiel_ch_33.docx": [876, 876, 876], "Hosea_ch_12.docx": [2112, 2112, 2112], "Ephesians_ch_5.docx": [1205, 1205]}
-55th	{"Genesis_ch_41.docx": [7253], "Judges_ch_9.docx": [9861], "1 Chronicles_ch_2.docx": [5013], "1 Chronicles_ch_6.docx": [4452], "Psalms_ch_78.docx": [5310]}
-unp	{"Proverbs_ch_11.docx": [2222], "Proverbs_ch_19.docx": [254, 743, 254, 743], "Proverbs_ch_22.docx": [1075, 1075], "Proverbs_ch_28.docx": [1925, 1925], "Ezekiel_ch_33.docx": [876, 876], "Hosea_ch_12.docx": [2112, 2112], "Ephesians_ch_5.docx": [1205]}
 unp	{"Proverbs_ch_11.docx": [2222], "Proverbs_ch_19.docx": [254, 743], "Proverbs_ch_22.docx": [1075], "Proverbs_ch_28.docx": [1925], "Ezekiel_ch_33.docx": [876], "Hosea_ch_12.docx": [2112], "Ephesians_ch_5.docx": [1205]}

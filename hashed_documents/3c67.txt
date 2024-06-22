@@ -1,4 +1,2 @@
 
-ira	{"Genesis_ch_38.docx": [23, 1379, 1379, 1379], "2 Samuel_ch_20.docx": [4655, 4655, 4655], "2 Samuel_ch_23.docx": [4307, 5055, 4307, 4307, 5055], "1 Chronicles_ch_11.docx": [6054, 6054]}
-ira	{"Genesis_ch_38.docx": [23, 1379, 1379], "2 Samuel_ch_20.docx": [4655, 4655], "2 Samuel_ch_23.docx": [4307, 4307, 5055], "1 Chronicles_ch_11.docx": [6054]}
 ira	{"Genesis_ch_38.docx": [23, 1379], "2 Samuel_ch_20.docx": [4655], "2 Samuel_ch_23.docx": [4307, 5055], "1 Chronicles_ch_11.docx": [6054]}

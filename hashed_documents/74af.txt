@@ -1,4 +1,2 @@
 
-exceed	{"Numbers_ch_3.docx": [5627, 5675, 5990, 5675, 5990, 5675, 5990], "Judges_ch_10.docx": [2826, 2826, 2826], "2 Chronicles_ch_9.docx": [1949, 1949, 1949], "Job_ch_29.docx": [334, 334, 334], "Song of Solomon_ch_4.docx": [1515, 1515, 1515], "Isaiah_ch_52.docx": [2246, 2246, 2246], "Ezekiel_ch_16.docx": [2161, 2161, 2161], "Daniel_ch_5.docx": [2616, 2616, 2616]}
-exceed	{"Numbers_ch_3.docx": [5627, 5675, 5990, 5675, 5990], "Judges_ch_10.docx": [2826, 2826], "2 Chronicles_ch_9.docx": [1949, 1949], "Job_ch_29.docx": [334, 334], "Song of Solomon_ch_4.docx": [1515, 1515], "Isaiah_ch_52.docx": [2246, 2246], "Ezekiel_ch_16.docx": [2161, 2161], "Daniel_ch_5.docx": [2616, 2616]}
 exceed	{"Numbers_ch_3.docx": [5627, 5675, 5990], "Judges_ch_10.docx": [2826], "2 Chronicles_ch_9.docx": [1949], "Job_ch_29.docx": [334], "Song of Solomon_ch_4.docx": [1515], "Isaiah_ch_52.docx": [2246], "Ezekiel_ch_16.docx": [2161], "Daniel_ch_5.docx": [2616]}

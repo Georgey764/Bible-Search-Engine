@@ -1,5 +1,2 @@
 
 phars	{"Esther_ch_9.docx": [548]}
-43,73	{"Numbers_ch_26.docx": [849]}
-phars	{"Esther_ch_9.docx": [548]}
-phars	{"Esther_ch_9.docx": [548]}

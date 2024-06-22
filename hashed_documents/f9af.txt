@@ -1,6 +1,3 @@
 
 oumasp	{"1 Chronicles_ch_2.docx": [4619]}
 maazi	{"Nehemiah_ch_10.docx": [355]}
-35yet	{"Nehemiah_ch_9.docx": [7507], "Jeremiah_ch_2.docx": [6232]}
-oumasp	{"1 Chronicles_ch_2.docx": [4619]}
-maazi	{"Nehemiah_ch_10.docx": [355]}

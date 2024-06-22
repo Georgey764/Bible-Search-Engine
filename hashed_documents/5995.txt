@@ -1,4 +1,2 @@
 
-interv	{"1 Kings_ch_7.docx": [1130], "Ezekiel_ch_41.docx": [718, 718, 718]}
-interv	{"1 Kings_ch_7.docx": [1130], "Ezekiel_ch_41.docx": [718, 718]}
 interv	{"1 Kings_ch_7.docx": [1130], "Ezekiel_ch_41.docx": [718]}

@@ -1,7 +1,3 @@
 
 beehi	{"1 Samuel_ch_14.docx": [4113]}
 missio	{"1 Samuel_ch_16.docx": [813]}
-beehi	{"1 Samuel_ch_14.docx": [4113]}
-missio	{"1 Samuel_ch_16.docx": [813]}
-beehi	{"1 Samuel_ch_14.docx": [4113]}
-missio	{"1 Samuel_ch_16.docx": [813]}

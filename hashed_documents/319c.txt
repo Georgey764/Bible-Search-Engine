@@ -1,4 +1,2 @@
 
-flask	{"1 Samuel_ch_1.docx": [3860], "1 Samuel_ch_10.docx": [11, 749, 11, 749, 11, 749], "1 Samuel_ch_16.docx": [3446, 3446, 3446], "2 Samuel_ch_16.docx": [45, 45, 45], "2 Kings_ch_9.docx": [119, 304, 119, 304, 119, 304], "Hosea_ch_3.docx": [276, 276, 276]}
-flask	{"1 Samuel_ch_1.docx": [3860], "1 Samuel_ch_10.docx": [11, 749, 11, 749], "1 Samuel_ch_16.docx": [3446, 3446], "2 Samuel_ch_16.docx": [45, 45], "2 Kings_ch_9.docx": [119, 304, 119, 304], "Hosea_ch_3.docx": [276, 276]}
-flask	{"1 Samuel_ch_1.docx": [3860], "1 Samuel_ch_10.docx": [11, 749], "1 Samuel_ch_16.docx": [3446], "2 Samuel_ch_16.docx": [45], "2 Kings_ch_9.docx": [119, 304], "Hosea_ch_3.docx": [276]}
+flask	{"1 Samuel_ch_1.docx": [3860], "1 Samuel_ch_10.docx": [11, 749], "1 Samuel_ch_16.docx": [3446], "2 Samuel_ch_16.docx": [45], "2 Kings_ch_9.docx": [119, 304], "Jeremiah_ch_52.docx": [2867], "Hosea_ch_3.docx": [276]}

@@ -1,5 +1,2 @@
 
-toil	{"Psalms_ch_10.docx": [809], "Psalms_ch_90.docx": [1081, 1081, 1081], "Psalms_ch_104.docx": [2314, 2314, 2314], "Jeremiah_ch_30.docx": [1160, 1160, 1160], "Jeremiah_ch_34.docx": [2528, 2528, 2528], "Habakkuk_ch_1.docx": [223, 223, 223], "1 Thessalonians_ch_2.docx": [1115, 1115]}
-33li	{"Deuteronomy_ch_32.docx": [4871]}
-toil	{"Psalms_ch_10.docx": [809], "Psalms_ch_90.docx": [1081, 1081], "Psalms_ch_104.docx": [2314, 2314], "Jeremiah_ch_30.docx": [1160, 1160], "Jeremiah_ch_34.docx": [2528, 2528], "Habakkuk_ch_1.docx": [223, 223], "1 Thessalonians_ch_2.docx": [1115]}
 toil	{"Psalms_ch_10.docx": [809], "Psalms_ch_90.docx": [1081], "Psalms_ch_104.docx": [2314], "Jeremiah_ch_30.docx": [1160], "Jeremiah_ch_34.docx": [2528], "Habakkuk_ch_1.docx": [223], "1 Thessalonians_ch_2.docx": [1115]}

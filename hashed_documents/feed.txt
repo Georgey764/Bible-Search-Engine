@@ -1,4 +1,2 @@
 
-maide	{"Genesis_ch_24.docx": [4077]}
-maide	{"Genesis_ch_24.docx": [4077]}
-maide	{"Genesis_ch_24.docx": [4077]}
+maide	{"Genesis_ch_24.docx": [4077], "Ecclesiastes_ch_12.docx": [2246]}

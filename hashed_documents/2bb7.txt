@@ -1,5 +1,2 @@
 
-wall</	{"Nehemiah_ch_3.docx": [2924, 9920, 9943, 9972, 9920, 9943, 9972, 9920, 9943, 9972], "Nehemiah_ch_12.docx": [7154, 7154, 7154]}
-36ther	{"Joshua_ch_10.docx": [12570], "1 Kings_ch_6.docx": [4222], "1 Chronicles_ch_2.docx": [3379], "Psalms_ch_105.docx": [2933]}
-wall</	{"Nehemiah_ch_3.docx": [2924, 9920, 9943, 9972, 9920, 9943, 9972], "Nehemiah_ch_12.docx": [7154, 7154]}
 wall</	{"Nehemiah_ch_3.docx": [2924, 9920, 9943, 9972], "Nehemiah_ch_12.docx": [7154]}

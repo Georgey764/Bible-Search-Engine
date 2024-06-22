@@ -1,4 +1,2 @@
 
-cases	{"Exodus_ch_18.docx": [3140], "Exodus_ch_24.docx": [2050, 2050, 2050], "Numbers_ch_5.docx": [4451, 4451, 4451], "Deuteronomy_ch_1.docx": [1962, 1962, 1962], "2 Samuel_ch_15.docx": [495, 495, 495], "1 Kings_ch_10.docx": [1206, 1206, 1206], "Ezekiel_ch_44.docx": [4485, 4485, 4485], "Matthew_ch_23.docx": [533, 533, 533]}
-cases	{"Exodus_ch_18.docx": [3140], "Exodus_ch_24.docx": [2050, 2050], "Numbers_ch_5.docx": [4451, 4451], "Deuteronomy_ch_1.docx": [1962, 1962], "2 Samuel_ch_15.docx": [495, 495], "1 Kings_ch_10.docx": [1206, 1206], "Ezekiel_ch_44.docx": [4485, 4485], "Matthew_ch_23.docx": [533, 533]}
 cases	{"Exodus_ch_18.docx": [3140], "Exodus_ch_24.docx": [2050], "Numbers_ch_5.docx": [4451], "Deuteronomy_ch_1.docx": [1962], "2 Samuel_ch_15.docx": [495], "1 Kings_ch_10.docx": [1206], "Ezekiel_ch_44.docx": [4485], "Matthew_ch_23.docx": [533]}

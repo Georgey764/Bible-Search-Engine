@@ -1,3 +1,2 @@
 
-mary’	{"Mark_ch_6.docx": [401], "Luke_ch_1.docx": [4953, 4953], "Luke_ch_2.docx": [3942, 3942]}
 mary’	{"Mark_ch_6.docx": [401], "Luke_ch_1.docx": [4953], "Luke_ch_2.docx": [3942]}

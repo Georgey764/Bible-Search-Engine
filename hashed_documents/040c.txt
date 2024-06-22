@@ -1,5 +1,2 @@
 
-ballen	{"Genesis_ch_36.docx": [3894, 3962, 3962, 3962]}
-ballen	{"Genesis_ch_36.docx": [3894, 3962, 3962]}
-8conde	{"Psalms_ch_7.docx": [811]}
 ballen	{"Genesis_ch_36.docx": [3894, 3962]}

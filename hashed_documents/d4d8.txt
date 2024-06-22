@@ -1,6 +1,2 @@
 
 fast-f	{"Deuteronomy_ch_28.docx": [6771]}
-26we	{"Genesis_ch_24.docx": [3796], "Genesis_ch_38.docx": [3654], "Joshua_ch_9.docx": [11835], "Judges_ch_8.docx": [4948], "Judges_ch_9.docx": [5233], "Judges_ch_18.docx": [5464], "1 Samuel_ch_10.docx": [4555], "1 Samuel_ch_23.docx": [3889], "2 Samuel_ch_11.docx": [4275], "1 Kings_ch_3.docx": [4148], "2 Kings_ch_3.docx": [4125], "2 Kings_ch_6.docx": [3987], "2 Kings_ch_15.docx": [3744], "2 Chronicles_ch_24.docx": [4576], "2 Chronicles_ch_25.docx": [4681], "Jeremiah_ch_44.docx": [5400], "Matthew_ch_14.docx": [3128]}
-37‘no	{"Genesis_ch_24.docx": [5378], "Numbers_ch_16.docx": [5014], "1 Kings_ch_11.docx": [5641], "Daniel_ch_4.docx": [7369]}
-fast-f	{"Deuteronomy_ch_28.docx": [6771]}
-fast-f	{"Deuteronomy_ch_28.docx": [6771]}

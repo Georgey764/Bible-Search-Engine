@@ -1,5 +1,2 @@
 
 hiera	{"Joshua_ch_19.docx": [3529]}
-15‘i’m	{"Genesis_ch_3.docx": [2209], "Isaiah_ch_48.docx": [2565]}
-hiera	{"Joshua_ch_19.docx": [3529]}
-hiera	{"Joshua_ch_19.docx": [3529]}

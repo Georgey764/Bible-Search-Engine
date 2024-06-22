@@ -1,3 +1,0 @@
-
-10wi	{"Exodus_ch_28.docx": [1083], "Psalms_ch_35.docx": [880], "Psalms_ch_105.docx": [736], "Psalms_ch_111.docx": [891], "Psalms_ch_141.docx": [966], "Proverbs_ch_9.docx": [978], "Isaiah_ch_19.docx": [1281]}
-11they	{"Exodus_ch_36.docx": [1627], "Numbers_ch_31.docx": [1072], "Numbers_ch_35.docx": [1307], "2 Chronicles_ch_3.docx": [1281], "Psalms_ch_17.docx": [1135], "Psalms_ch_71.docx": [1053], "Psalms_ch_78.docx": [1125], "Isaiah_ch_59.docx": [1684], "Amos_ch_5.docx": [2010]}

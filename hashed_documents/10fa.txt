@@ -1,4 +1,2 @@
 
-defo	{"Exodus_ch_21.docx": [2726], "Leviticus_ch_21.docx": [2287, 2287, 2287], "Deuteronomy_ch_15.docx": [3032, 3032, 3032], "Deuteronomy_ch_17.docx": [22, 22, 22], "Ezekiel_ch_16.docx": [660, 660, 660]}
-defo	{"Exodus_ch_21.docx": [2726], "Leviticus_ch_21.docx": [2287, 2287], "Deuteronomy_ch_15.docx": [3032, 3032], "Deuteronomy_ch_17.docx": [22, 22], "Ezekiel_ch_16.docx": [660, 660]}
 defo	{"Exodus_ch_21.docx": [2726], "Leviticus_ch_21.docx": [2287], "Deuteronomy_ch_15.docx": [3032], "Deuteronomy_ch_17.docx": [22], "Ezekiel_ch_16.docx": [660]}

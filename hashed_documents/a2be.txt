@@ -1,5 +1,2 @@
 
-alcoh	{"Numbers_ch_6.docx": [161], "Matthew_ch_11.docx": [2014, 2014, 2014], "Luke_ch_7.docx": [4903, 4903], "Titus_ch_2.docx": [234, 234]}
-alcoh	{"Numbers_ch_6.docx": [161], "Matthew_ch_11.docx": [2014, 2014], "Luke_ch_7.docx": [4903], "Titus_ch_2.docx": [234]}
-4‘ferm	{"Deuteronomy_ch_16.docx": [560]}
 alcoh	{"Numbers_ch_6.docx": [161], "Matthew_ch_11.docx": [2014], "Luke_ch_7.docx": [4903], "Titus_ch_2.docx": [234]}

@@ -1,5 +1,2 @@
 
 oubal	{"1 Chronicles_ch_1.docx": [3288]}
-15ost	{"Leviticus_ch_11.docx": [1814]}
-oubal	{"1 Chronicles_ch_1.docx": [3288]}
-oubal	{"1 Chronicles_ch_1.docx": [3288]}

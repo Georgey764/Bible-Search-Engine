@@ -1,4 +1,2 @@
 
-co-si	{"Proverbs_ch_6.docx": [29, 417, 417, 417], "Proverbs_ch_17.docx": [1872, 1872, 1872], "Proverbs_ch_19.docx": [2677, 2677, 2677]}
-co-si	{"Proverbs_ch_6.docx": [29, 417, 417], "Proverbs_ch_17.docx": [1872, 1872], "Proverbs_ch_19.docx": [2677, 2677]}
 co-si	{"Proverbs_ch_6.docx": [29, 417], "Proverbs_ch_17.docx": [1872], "Proverbs_ch_19.docx": [2677]}

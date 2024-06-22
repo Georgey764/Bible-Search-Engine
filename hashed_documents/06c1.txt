@@ -1,4 +1,2 @@
 
 drop;	{"Isaiah_ch_40.docx": [1046]}
-drop;	{"Isaiah_ch_40.docx": [1046]}
-drop;	{"Isaiah_ch_40.docx": [1046]}

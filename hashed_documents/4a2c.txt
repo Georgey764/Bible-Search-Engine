@@ -1,4 +1,2 @@
 
 sphinx	{"Job_ch_40.docx": [1753]}
-sphinx	{"Job_ch_40.docx": [1753]}
-sphinx	{"Job_ch_40.docx": [1753]}

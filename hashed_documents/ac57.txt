@@ -1,6 +1,3 @@
 
-wiping	{"Exodus_ch_9.docx": [2132], "Jeremiah_ch_4.docx": [1281, 1281, 1281], "Jeremiah_ch_36.docx": [5062, 5062, 5062], "Luke_ch_7.docx": [5219, 5219], "Luke_ch_10.docx": [1094, 1094], "John_ch_12.docx": [391, 391], "Acts_ch_8.docx": [1749, 1749], "Colossians_ch_2.docx": [2305, 2305]}
-susan	{"Luke_ch_8.docx": [233]}
-wiping	{"Exodus_ch_9.docx": [2132], "Jeremiah_ch_4.docx": [1281, 1281], "Jeremiah_ch_36.docx": [5062, 5062], "Luke_ch_7.docx": [5219], "Luke_ch_10.docx": [1094], "John_ch_12.docx": [391], "Acts_ch_8.docx": [1749], "Colossians_ch_2.docx": [2305]}
 wiping	{"Exodus_ch_9.docx": [2132], "Jeremiah_ch_4.docx": [1281], "Jeremiah_ch_36.docx": [5062], "Luke_ch_7.docx": [5219], "Luke_ch_10.docx": [1094], "John_ch_12.docx": [391], "Acts_ch_8.docx": [1749], "Colossians_ch_2.docx": [2305]}
 susan	{"Luke_ch_8.docx": [233]}

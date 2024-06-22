@@ -1,4 +1,2 @@
 
-fried	{"Leviticus_ch_7.docx": [1129], "2 Samuel_ch_13.docx": [1207, 1207, 1207], "1 Chronicles_ch_23.docx": [3186, 3186, 3186], "Jeremiah_ch_29.docx": [3607, 3607, 3607]}
-fried	{"Leviticus_ch_7.docx": [1129], "2 Samuel_ch_13.docx": [1207, 1207], "1 Chronicles_ch_23.docx": [3186, 3186], "Jeremiah_ch_29.docx": [3607, 3607]}
 fried	{"Leviticus_ch_7.docx": [1129], "2 Samuel_ch_13.docx": [1207], "1 Chronicles_ch_23.docx": [3186], "Jeremiah_ch_29.docx": [3607]}

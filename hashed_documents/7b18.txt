@@ -1,4 +1,2 @@
 
-trippe	{"Deuteronomy_ch_32.docx": [5108], "Romans_ch_9.docx": [4173, 4173]}
-trippe	{"Deuteronomy_ch_32.docx": [5108], "Romans_ch_9.docx": [4173]}
 trippe	{"Deuteronomy_ch_32.docx": [5108], "Romans_ch_9.docx": [4173]}

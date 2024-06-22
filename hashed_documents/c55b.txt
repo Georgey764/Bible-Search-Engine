@@ -1,5 +1,2 @@
 
-best!	{"2 Samuel_ch_10.docx": [1754], "1 Chronicles_ch_21.docx": [3794, 3794, 3794]}
-best!	{"2 Samuel_ch_10.docx": [1754], "1 Chronicles_ch_21.docx": [3794, 3794]}
-1‘woe	{"Isaiah_ch_10.docx": [6], "Isaiah_ch_29.docx": [6], "Isaiah_ch_31.docx": [6], "Isaiah_ch_33.docx": [6]}
 best!	{"2 Samuel_ch_10.docx": [1754], "1 Chronicles_ch_21.docx": [3794]}

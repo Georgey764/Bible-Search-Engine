@@ -1,4 +1,2 @@
 
-gilde	{"Exodus_ch_36.docx": [3916, 4554, 4554, 4554], "Exodus_ch_37.docx": [159, 159, 159], "Exodus_ch_38.docx": [3523, 3523, 3523], "2 Chronicles_ch_3.docx": [664, 664, 664], "Isaiah_ch_30.docx": [3926, 3926, 3926], "Isaiah_ch_40.docx": [2741, 2741, 2741]}
-gilde	{"Exodus_ch_36.docx": [3916, 4554, 4554], "Exodus_ch_37.docx": [159, 159], "Exodus_ch_38.docx": [3523, 3523], "2 Chronicles_ch_3.docx": [664, 664], "Isaiah_ch_30.docx": [3926, 3926], "Isaiah_ch_40.docx": [2741, 2741]}
 gilde	{"Exodus_ch_36.docx": [3916, 4554], "Exodus_ch_37.docx": [159], "Exodus_ch_38.docx": [3523], "2 Chronicles_ch_3.docx": [664], "Isaiah_ch_30.docx": [3926], "Isaiah_ch_40.docx": [2741]}

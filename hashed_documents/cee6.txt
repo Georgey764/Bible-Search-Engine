@@ -1,2 +1,0 @@
-
-500	{"Genesis_ch_5.docx": [2428], "Genesis_ch_6.docx": [1957], "Numbers_ch_31.docx": [3335], "1 Chronicles_ch_4.docx": [4815], "2 Chronicles_ch_13.docx": [3007], "2 Chronicles_ch_35.docx": [1724], "Esther_ch_9.docx": [479, 923], "Job_ch_1.docx": [276, 302], "Ezekiel_ch_42.docx": [992, 1088, 1177, 1264, 1353, 1359], "Ezekiel_ch_45.docx": [305, 307]}

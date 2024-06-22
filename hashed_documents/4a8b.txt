@@ -1,7 +1,3 @@
 
-aids	{"1 Samuel_ch_28.docx": [3696]}
-daip	{"Esther_ch_9.docx": [566]}
-aids	{"1 Samuel_ch_28.docx": [3696]}
-daip	{"Esther_ch_9.docx": [566]}
-aids	{"1 Samuel_ch_28.docx": [3696]}
+aids	{"1 Samuel_ch_28.docx": [3696], "Song of Solomon_ch_8.docx": [3044], "Isaiah_ch_66.docx": [6190], "Lamentations_ch_5.docx": [3220], "Daniel_ch_12.docx": [4885], "Hosea_ch_14.docx": [2440], "Joel_ch_3.docx": [5556], "Amos_ch_9.docx": [4676], "Obadiah_ch_1.docx": [5186], "Jonah_ch_4.docx": [2539], "Micah_ch_7.docx": [5408], "Nahum_ch_3.docx": [4616], "Habakkuk_ch_3.docx": [4256], "Zephaniah_ch_3.docx": [5346], "Haggai_ch_2.docx": [5663], "Zechariah_ch_14.docx": [5513]}
 daip	{"Esther_ch_9.docx": [566]}

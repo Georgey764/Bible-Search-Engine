@@ -1,4 +1,2 @@
 
-words;	{"Proverbs_ch_4.docx": [905], "Proverbs_ch_10.docx": [1722, 1722, 1722], "Proverbs_ch_29.docx": [1714, 1714, 1714], "Matthew_ch_10.docx": [1601, 1601, 1601], "Ephesians_ch_5.docx": [761, 761]}
-words;	{"Proverbs_ch_4.docx": [905], "Proverbs_ch_10.docx": [1722, 1722], "Proverbs_ch_29.docx": [1714, 1714], "Matthew_ch_10.docx": [1601, 1601], "Ephesians_ch_5.docx": [761]}
 words;	{"Proverbs_ch_4.docx": [905], "Proverbs_ch_10.docx": [1722], "Proverbs_ch_29.docx": [1714], "Matthew_ch_10.docx": [1601], "Ephesians_ch_5.docx": [761]}

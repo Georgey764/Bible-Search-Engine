@@ -1,2 +1,0 @@
-
-13ther	{"Leviticus_ch_14.docx": [1683], "Judges_ch_12.docx": [2605], "1 Samuel_ch_23.docx": [1942], "1 Chronicles_ch_26.docx": [1600], "2 Chronicles_ch_35.docx": [2419], "Proverbs_ch_7.docx": [1112], "Matthew_ch_16.docx": [1684]}

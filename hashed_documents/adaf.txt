@@ -1,5 +1,2 @@
 
-filth!	{"Jeremiah_ch_38.docx": [1058], "2 Peter_ch_2.docx": [3887, 3887]}
-2al	{"Genesis_ch_44.docx": [107], "1 Chronicles_ch_5.docx": [310], "2 Chronicles_ch_25.docx": [179], "Psalms_ch_56.docx": [269], "Psalms_ch_127.docx": [248], "Psalms_ch_135.docx": [99], "Psalms_ch_148.docx": [156], "Proverbs_ch_21.docx": [170], "Song of Solomon_ch_5.docx": [475]}
-filth!	{"Jeremiah_ch_38.docx": [1058], "2 Peter_ch_2.docx": [3887]}
 filth!	{"Jeremiah_ch_38.docx": [1058], "2 Peter_ch_2.docx": [3887]}

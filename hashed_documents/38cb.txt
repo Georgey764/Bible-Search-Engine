@@ -1,4 +1,2 @@
 
-symp	{"Ephesians_ch_4.docx": [4154], "Hebrews_ch_4.docx": [2574, 2574], "1 Peter_ch_3.docx": [996, 996]}
-9bef	{"Psalms_ch_72.docx": [713], "Psalms_ch_80.docx": [876]}
-symp	{"Ephesians_ch_4.docx": [4154], "Hebrews_ch_4.docx": [2574], "1 Peter_ch_3.docx": [996]}
+symp	{"Jonah_ch_4.docx": [211], "Ephesians_ch_4.docx": [4154], "Hebrews_ch_4.docx": [2574], "1 Peter_ch_3.docx": [996]}

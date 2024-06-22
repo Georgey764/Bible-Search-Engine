@@ -1,2 +1,0 @@
-
-18,00	{"Judges_ch_20.docx": [3098, 6788], "2 Samuel_ch_8.docx": [2063], "1 Chronicles_ch_12.docx": [3998], "1 Chronicles_ch_18.docx": [1457], "Psalms_ch_60.docx": [142]}

@@ -1,4 +1,2 @@
 
-overco	{"Job_ch_13.docx": [971], "Psalms_ch_105.docx": [3162, 3162, 3162], "Isaiah_ch_51.docx": [2298, 2298, 2298], "Jeremiah_ch_49.docx": [4461, 4461, 4461], "Ezekiel_ch_27.docx": [4209, 4209, 4209]}
-overco	{"Job_ch_13.docx": [971], "Psalms_ch_105.docx": [3162, 3162], "Isaiah_ch_51.docx": [2298, 2298], "Jeremiah_ch_49.docx": [4461, 4461], "Ezekiel_ch_27.docx": [4209, 4209]}
 overco	{"Job_ch_13.docx": [971], "Psalms_ch_105.docx": [3162], "Isaiah_ch_51.docx": [2298], "Jeremiah_ch_49.docx": [4461], "Ezekiel_ch_27.docx": [4209]}

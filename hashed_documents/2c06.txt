@@ -1,4 +1,2 @@
 
-blade	{"Ezekiel_ch_5.docx": [52], "Matthew_ch_13.docx": [3395, 3395, 3395], "Mark_ch_4.docx": [3217, 3217]}
-blade	{"Ezekiel_ch_5.docx": [52], "Matthew_ch_13.docx": [3395, 3395], "Mark_ch_4.docx": [3217]}
 blade	{"Ezekiel_ch_5.docx": [52], "Matthew_ch_13.docx": [3395], "Mark_ch_4.docx": [3217]}

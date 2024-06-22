@@ -1,4 +1,2 @@
 
-meekn	{"Proverbs_ch_29.docx": [2135], "Colossians_ch_3.docx": [1423, 1423]}
-meekn	{"Proverbs_ch_29.docx": [2135], "Colossians_ch_3.docx": [1423]}
 meekn	{"Proverbs_ch_29.docx": [2135], "Colossians_ch_3.docx": [1423]}

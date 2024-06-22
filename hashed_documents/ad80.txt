@@ -1,4 +1,2 @@
 
-rooted	{"Proverbs_ch_15.docx": [544], "Jeremiah_ch_12.docx": [247, 247, 247], "Colossians_ch_1.docx": [3225, 3225], "Colossians_ch_2.docx": [1292, 1292], "2 Peter_ch_1.docx": [1882, 1882]}
-rooted	{"Proverbs_ch_15.docx": [544], "Jeremiah_ch_12.docx": [247, 247], "Colossians_ch_1.docx": [3225], "Colossians_ch_2.docx": [1292], "2 Peter_ch_1.docx": [1882]}
 rooted	{"Proverbs_ch_15.docx": [544], "Jeremiah_ch_12.docx": [247], "Colossians_ch_1.docx": [3225], "Colossians_ch_2.docx": [1292], "2 Peter_ch_1.docx": [1882]}

@@ -1,4 +1,2 @@
 
-arriva	{"Genesis_ch_43.docx": [3384], "Joel_ch_2.docx": [5522, 5522, 5522], "Matthew_ch_24.docx": [4211, 4211, 4211], "Luke_ch_9.docx": [7148, 7148], "2 Thessalonians_ch_2.docx": [1025, 1055, 1025, 1055], "2 Timothy_ch_1.docx": [1257, 1257]}
-arriva	{"Genesis_ch_43.docx": [3384], "Joel_ch_2.docx": [5522, 5522], "Matthew_ch_24.docx": [4211, 4211], "Luke_ch_9.docx": [7148], "2 Thessalonians_ch_2.docx": [1025, 1055], "2 Timothy_ch_1.docx": [1257]}
 arriva	{"Genesis_ch_43.docx": [3384], "Joel_ch_2.docx": [5522], "Matthew_ch_24.docx": [4211], "Luke_ch_9.docx": [7148], "2 Thessalonians_ch_2.docx": [1025, 1055], "2 Timothy_ch_1.docx": [1257]}

@@ -1,4 +1,2 @@
 
-seagu	{"Leviticus_ch_11.docx": [1816], "Deuteronomy_ch_14.docx": [1372, 1372, 1372]}
-seagu	{"Leviticus_ch_11.docx": [1816], "Deuteronomy_ch_14.docx": [1372, 1372]}
 seagu	{"Leviticus_ch_11.docx": [1816], "Deuteronomy_ch_14.docx": [1372]}

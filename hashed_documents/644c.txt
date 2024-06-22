@@ -1,4 +1,2 @@
 
-pertai	{"Exodus_ch_18.docx": [2614], "Nehemiah_ch_11.docx": [4092, 4092, 4092]}
-pertai	{"Exodus_ch_18.docx": [2614], "Nehemiah_ch_11.docx": [4092, 4092]}
 pertai	{"Exodus_ch_18.docx": [2614], "Nehemiah_ch_11.docx": [4092]}

@@ -1,4 +1,3 @@
 
 upkeep	{"Nehemiah_ch_10.docx": [2303]}
-upkeep	{"Nehemiah_ch_10.docx": [2303]}
-upkeep	{"Nehemiah_ch_10.docx": [2303]}
+apocal	{"Jude_ch_1.docx": [4856]}

@@ -1,5 +1,2 @@
 
-nekod	{"Ezra_ch_2.docx": [1915, 2642, 2642, 2642], "Nehemiah_ch_7.docx": [2852, 3746, 2852, 3746, 2852, 3746]}
-31in	{"Judges_ch_8.docx": [5894], "1 Chronicles_ch_23.docx": [3465], "Psalms_ch_119.docx": [2382]}
-nekod	{"Ezra_ch_2.docx": [1915, 2642, 2642], "Nehemiah_ch_7.docx": [2852, 3746, 2852, 3746]}
 nekod	{"Ezra_ch_2.docx": [1915, 2642], "Nehemiah_ch_7.docx": [2852, 3746]}

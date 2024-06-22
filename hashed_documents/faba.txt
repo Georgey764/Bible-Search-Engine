@@ -1,4 +1,2 @@
 
-new-	{"Numbers_ch_10.docx": [1274], "Numbers_ch_11.docx": [1479, 1479, 1479]}
-new-	{"Numbers_ch_10.docx": [1274], "Numbers_ch_11.docx": [1479, 1479]}
 new-	{"Numbers_ch_10.docx": [1274], "Numbers_ch_11.docx": [1479]}

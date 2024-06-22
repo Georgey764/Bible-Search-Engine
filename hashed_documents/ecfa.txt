@@ -1,7 +1,3 @@
 
 jagg	{"1 Samuel_ch_14.docx": [602]}
 maaca	{"1 Kings_ch_15.docx": [2721]}
-jagg	{"1 Samuel_ch_14.docx": [602]}
-maaca	{"1 Kings_ch_15.docx": [2721]}
-jagg	{"1 Samuel_ch_14.docx": [602]}
-maaca	{"1 Kings_ch_15.docx": [2721]}

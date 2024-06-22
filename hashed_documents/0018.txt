@@ -1,3 +1,2 @@
 
-shipwr	{"2 Corinthians_ch_11.docx": [3499], "1 Timothy_ch_1.docx": [2763, 2763]}
 shipwr	{"2 Corinthians_ch_11.docx": [3499], "1 Timothy_ch_1.docx": [2763]}

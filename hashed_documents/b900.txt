@@ -1,6 +1,3 @@
 
-heapi	{"Genesis_ch_41.docx": [6137], "Ruth_ch_2.docx": [3004, 3004, 3004], "Zechariah_ch_9.docx": [3291, 3291, 3291]}
-rd-	{"Deuteronomy_ch_23.docx": [805], "Acts_ch_20.docx": [2771, 2771]}
-heapi	{"Genesis_ch_41.docx": [6137], "Ruth_ch_2.docx": [3004, 3004], "Zechariah_ch_9.docx": [3291, 3291]}
 heapi	{"Genesis_ch_41.docx": [6137], "Ruth_ch_2.docx": [3004], "Zechariah_ch_9.docx": [3291]}
 rd-	{"Deuteronomy_ch_23.docx": [805], "Acts_ch_20.docx": [2771]}

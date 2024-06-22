@@ -1,4 +1,3 @@
 
-neria	{"Jeremiah_ch_32.docx": [1895, 2645, 2645, 2645], "Jeremiah_ch_36.docx": [552, 1199, 2390, 2594, 5697, 552, 1199, 2390, 2594, 5697, 552, 1199, 2390, 2594, 5697], "Jeremiah_ch_45.docx": [17, 17, 17], "Jeremiah_ch_51.docx": [9752, 9752, 9752]}
-neria	{"Jeremiah_ch_32.docx": [1895, 2645, 2645], "Jeremiah_ch_36.docx": [552, 1199, 2390, 2594, 5697, 552, 1199, 2390, 2594, 5697], "Jeremiah_ch_45.docx": [17, 17], "Jeremiah_ch_51.docx": [9752, 9752]}
+retell	{"2 Kings_ch_25.docx": [4921], "1 Chronicles_ch_29.docx": [5744]}
 neria	{"Jeremiah_ch_32.docx": [1895, 2645], "Jeremiah_ch_36.docx": [552, 1199, 2390, 2594, 5697], "Jeremiah_ch_45.docx": [17], "Jeremiah_ch_51.docx": [9752]}

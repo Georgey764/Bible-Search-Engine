@@ -1,3 +1,2 @@
 
 annoy	{"Acts_ch_4.docx": [30]}
-annoy	{"Acts_ch_4.docx": [30]}

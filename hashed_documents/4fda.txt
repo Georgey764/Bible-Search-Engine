@@ -1,2 +1,0 @@
-
-23cm	{"Exodus_ch_28.docx": [2081, 2086], "Exodus_ch_37.docx": [1094], "Exodus_ch_39.docx": [1054, 1058], "1 Kings_ch_7.docx": [4556]}

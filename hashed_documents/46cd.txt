@@ -1,7 +1,3 @@
 
-heart!	{"Genesis_ch_20.docx": [829], "Deuteronomy_ch_29.docx": [2580, 2580, 2580], "1 Kings_ch_8.docx": [2504, 2504, 2504], "Nehemiah_ch_2.docx": [244, 244, 244], "Job_ch_22.docx": [2072, 2072, 2072], "Psalms_ch_27.docx": [1948, 1948, 1948], "Proverbs_ch_23.docx": [1633, 1633, 1633], "Jeremiah_ch_19.docx": [971, 971, 971], "Jeremiah_ch_44.docx": [4280, 4280, 4280], "Acts_ch_2.docx": [10890, 10890], "1 Peter_ch_1.docx": [5777, 5777]}
-vess	{"Leviticus_ch_11.docx": [3856], "Isaiah_ch_22.docx": [3632, 3632, 3632]}
-heart!	{"Genesis_ch_20.docx": [829], "Deuteronomy_ch_29.docx": [2580, 2580], "1 Kings_ch_8.docx": [2504, 2504], "Nehemiah_ch_2.docx": [244, 244], "Job_ch_22.docx": [2072, 2072], "Psalms_ch_27.docx": [1948, 1948], "Proverbs_ch_23.docx": [1633, 1633], "Jeremiah_ch_19.docx": [971, 971], "Jeremiah_ch_44.docx": [4280, 4280], "Acts_ch_2.docx": [10890], "1 Peter_ch_1.docx": [5777]}
-vess	{"Leviticus_ch_11.docx": [3856], "Isaiah_ch_22.docx": [3632, 3632]}
 heart!	{"Genesis_ch_20.docx": [829], "Deuteronomy_ch_29.docx": [2580], "1 Kings_ch_8.docx": [2504], "Nehemiah_ch_2.docx": [244], "Job_ch_22.docx": [2072], "Psalms_ch_27.docx": [1948], "Proverbs_ch_23.docx": [1633], "Jeremiah_ch_19.docx": [971], "Jeremiah_ch_44.docx": [4280], "Acts_ch_2.docx": [10890], "1 Peter_ch_1.docx": [5777]}
 vess	{"Leviticus_ch_11.docx": [3856], "Isaiah_ch_22.docx": [3632]}

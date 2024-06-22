@@ -1,7 +1,3 @@
 
-masm	{"Genesis_ch_25.docx": [1426], "1 Chronicles_ch_1.docx": [2310, 2310], "1 Chronicles_ch_4.docx": [3061, 3061]}
-mahe	{"Isaiah_ch_8.docx": [487]}
-masm	{"1 Chronicles_ch_4.docx": [3061, 3061], "1 Chronicles_ch_1.docx": [2310]}
-mahe	{"Isaiah_ch_8.docx": [487]}
 masm	{"Genesis_ch_25.docx": [1426], "1 Chronicles_ch_1.docx": [2310], "1 Chronicles_ch_4.docx": [3061]}
 mahe	{"Isaiah_ch_8.docx": [487]}

@@ -1,4 +1,2 @@
 
-breac	{"Genesis_ch_38.docx": [4230], "2 Samuel_ch_5.docx": [2881, 3014, 2881, 3014, 2881, 3014], "Ezra_ch_9.docx": [351, 754, 351, 754, 351, 754], "Jeremiah_ch_39.docx": [61, 61, 61], "Jeremiah_ch_51.docx": [5356, 5356, 5356], "Micah_ch_2.docx": [2316, 2316, 2316]}
-breac	{"Genesis_ch_38.docx": [4230], "2 Samuel_ch_5.docx": [2881, 3014, 2881, 3014], "Ezra_ch_9.docx": [351, 754, 351, 754], "Jeremiah_ch_39.docx": [61, 61], "Jeremiah_ch_51.docx": [5356, 5356], "Micah_ch_2.docx": [2316, 2316]}
-breac	{"Genesis_ch_38.docx": [4230], "2 Samuel_ch_5.docx": [2881, 3014], "Ezra_ch_9.docx": [351, 754], "Jeremiah_ch_39.docx": [61], "Jeremiah_ch_51.docx": [5356], "Micah_ch_2.docx": [2316]}
+breac	{"Genesis_ch_38.docx": [4230], "2 Samuel_ch_5.docx": [2881, 3014], "2 Kings_ch_25.docx": [440], "Ezra_ch_9.docx": [351, 754], "Ezra_ch_10.docx": [1151], "Jeremiah_ch_39.docx": [61], "Jeremiah_ch_51.docx": [5356], "Jeremiah_ch_52.docx": [883], "Micah_ch_2.docx": [2316]}

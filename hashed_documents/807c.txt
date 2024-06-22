@@ -1,6 +1,3 @@
 
 platin	{"Exodus_ch_38.docx": [648]}
 onlo	{"1 Timothy_ch_5.docx": [2539]}
-platin	{"Exodus_ch_38.docx": [648]}
-platin	{"Exodus_ch_38.docx": [648]}
-onlo	{"1 Timothy_ch_5.docx": [2539]}

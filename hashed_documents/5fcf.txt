@@ -1,4 +1,2 @@
 
-pasti	{"Proverbs_ch_12.docx": [1082], "Proverbs_ch_14.docx": [2166, 2166, 2166]}
-pasti	{"Proverbs_ch_12.docx": [1082], "Proverbs_ch_14.docx": [2166, 2166]}
-pasti	{"Proverbs_ch_12.docx": [1082], "Proverbs_ch_14.docx": [2166]}
+pasti	{"Proverbs_ch_12.docx": [1082], "Proverbs_ch_14.docx": [2166], "Proverbs_ch_31.docx": [2500]}

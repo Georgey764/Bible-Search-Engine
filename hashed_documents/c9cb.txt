@@ -1,5 +1,2 @@
 
-dregs	{"Psalms_ch_75.docx": [904], "Jeremiah_ch_48.docx": [1440, 1440, 1440]}
-37thes	{"Leviticus_ch_7.docx": [5149]}
-dregs	{"Psalms_ch_75.docx": [904], "Jeremiah_ch_48.docx": [1440, 1440]}
 dregs	{"Psalms_ch_75.docx": [904], "Jeremiah_ch_48.docx": [1440]}

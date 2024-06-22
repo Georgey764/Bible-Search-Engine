@@ -1,4 +1,2 @@
 
-pipes	{"1 Samuel_ch_10.docx": [1099], "2 Samuel_ch_6.docx": [534, 534, 534], "Isaiah_ch_5.docx": [2017, 2017, 2017], "Jeremiah_ch_48.docx": [4827, 4950, 4827, 4950, 4827, 4950]}
-pipes	{"1 Samuel_ch_10.docx": [1099], "2 Samuel_ch_6.docx": [534, 534], "Isaiah_ch_5.docx": [2017, 2017], "Jeremiah_ch_48.docx": [4827, 4950, 4827, 4950]}
 pipes	{"1 Samuel_ch_10.docx": [1099], "2 Samuel_ch_6.docx": [534], "Isaiah_ch_5.docx": [2017], "Jeremiah_ch_48.docx": [4827, 4950]}

@@ -1,4 +1,2 @@
 
-stake	{"Luke_ch_19.docx": [5038], "Galatians_ch_5.docx": [1307, 2940, 1307, 2940], "Ephesians_ch_2.docx": [2102, 2120, 2102, 2120], "Philippians_ch_2.docx": [894, 894], "Philippians_ch_3.docx": [2624, 2624], "Colossians_ch_1.docx": [2568, 2593, 2568, 2593], "Colossians_ch_2.docx": [2534, 2534], "Hebrews_ch_12.docx": [413, 421, 413, 421]}
-26[w	{"1 Chronicles_ch_1.docx": [2071]}
-stake	{"Luke_ch_19.docx": [5038], "Galatians_ch_5.docx": [1307, 2940], "Ephesians_ch_2.docx": [2102, 2120], "Philippians_ch_2.docx": [894], "Philippians_ch_3.docx": [2624], "Colossians_ch_1.docx": [2568, 2593], "Colossians_ch_2.docx": [2534], "Hebrews_ch_12.docx": [413, 421]}
+stake	{"Luke_ch_19.docx": [5038], "Galatians_ch_5.docx": [1307, 2940], "Galatians_ch_6.docx": [1412, 1754], "Ephesians_ch_2.docx": [2102, 2120], "Philippians_ch_2.docx": [894], "Philippians_ch_3.docx": [2624], "Colossians_ch_1.docx": [2568, 2593], "Colossians_ch_2.docx": [2534], "Hebrews_ch_12.docx": [413, 421]}

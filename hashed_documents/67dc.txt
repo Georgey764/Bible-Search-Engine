@@ -1,5 +1,2 @@
 
-toga	{"1 Chronicles_ch_1.docx": [351], "Ezekiel_ch_27.docx": [1932, 1932, 1932], "Ezekiel_ch_38.docx": [762, 762, 762]}
-toga	{"1 Chronicles_ch_1.docx": [351], "Ezekiel_ch_27.docx": [1932, 1932], "Ezekiel_ch_38.docx": [762, 762]}
-3sinne	{"Psalms_ch_58.docx": [321]}
 toga	{"1 Chronicles_ch_1.docx": [351], "Ezekiel_ch_27.docx": [1932], "Ezekiel_ch_38.docx": [762]}

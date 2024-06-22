@@ -1,7 +1,3 @@
 
-lebon	{"Numbers_ch_33.docx": [1829, 1880, 1880, 1880]}
-gull	{"2 Samuel_ch_18.docx": [2649], "Proverbs_ch_14.docx": [1268, 1268, 1268], "Luke_ch_3.docx": [3606, 3606]}
-lebon	{"Numbers_ch_33.docx": [1829, 1880, 1880]}
-gull	{"2 Samuel_ch_18.docx": [2649], "Proverbs_ch_14.docx": [1268, 1268], "Luke_ch_3.docx": [3606]}
-lebon	{"Numbers_ch_33.docx": [1829, 1880]}
+lebon	{"Numbers_ch_33.docx": [1829, 1880], "Judges_ch_21.docx": [2966]}
 gull	{"2 Samuel_ch_18.docx": [2649], "Proverbs_ch_14.docx": [1268], "Luke_ch_3.docx": [3606]}

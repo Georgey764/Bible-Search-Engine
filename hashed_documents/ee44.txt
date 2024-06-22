@@ -1,4 +1,2 @@
 
-ketu	{"1 Chronicles_ch_1.docx": [2433, 2672, 2672, 2672]}
-ketu	{"1 Chronicles_ch_1.docx": [2433, 2672, 2672]}
 ketu	{"1 Chronicles_ch_1.docx": [2433, 2672]}

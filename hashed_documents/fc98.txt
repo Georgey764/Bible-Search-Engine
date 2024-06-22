@@ -1,5 +1,2 @@
 
-stunn	{"Exodus_ch_2.docx": [2014], "Leviticus_ch_9.docx": [3161, 3161, 3161], "Joshua_ch_2.docx": [1474, 1474, 1474], "Lamentations_ch_3.docx": [3840, 3840, 3840], "Lamentations_ch_4.docx": [2123, 2123, 2123], "Ezekiel_ch_32.docx": [1645, 1645, 1645], "Mark_ch_6.docx": [7217, 7217], "Mark_ch_9.docx": [1806, 1806], "Luke_ch_9.docx": [6074, 6074]}
-stunn	{"Exodus_ch_2.docx": [2014], "Leviticus_ch_9.docx": [3161, 3161], "Joshua_ch_2.docx": [1474, 1474], "Lamentations_ch_3.docx": [3840, 3840], "Lamentations_ch_4.docx": [2123, 2123], "Ezekiel_ch_32.docx": [1645, 1645], "Mark_ch_6.docx": [7217], "Mark_ch_9.docx": [1806], "Luke_ch_9.docx": [6074]}
-33‘wh	{"2 Kings_ch_18.docx": [5773], "Jeremiah_ch_2.docx": [5885]}
 stunn	{"Exodus_ch_2.docx": [2014], "Leviticus_ch_9.docx": [3161], "Joshua_ch_2.docx": [1474], "Lamentations_ch_3.docx": [3840], "Lamentations_ch_4.docx": [2123], "Ezekiel_ch_32.docx": [1645], "Mark_ch_6.docx": [7217], "Mark_ch_9.docx": [1806], "Luke_ch_9.docx": [6074]}

@@ -1,4 +1,2 @@
 
-zared	{"Numbers_ch_21.docx": [1742, 1797, 1797, 1797]}
-zared	{"Numbers_ch_21.docx": [1742, 1797, 1797]}
 zared	{"Numbers_ch_21.docx": [1742, 1797]}

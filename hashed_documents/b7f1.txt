@@ -1,7 +1,3 @@
 
-born;	{"Leviticus_ch_22.docx": [3875], "Ezekiel_ch_16.docx": [338, 338, 338]}
-echoz	{"Joshua_ch_19.docx": [2378]}
-born;	{"Leviticus_ch_22.docx": [3875], "Ezekiel_ch_16.docx": [338, 338]}
-echoz	{"Joshua_ch_19.docx": [2378]}
 born;	{"Leviticus_ch_22.docx": [3875], "Ezekiel_ch_16.docx": [338]}
 echoz	{"Joshua_ch_19.docx": [2378]}

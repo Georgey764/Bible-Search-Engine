@@ -1,4 +1,2 @@
 
-envoys	{"2 Samuel_ch_5.docx": [1596], "Isaiah_ch_30.docx": [516, 516, 516], "Ezekiel_ch_17.docx": [2531, 2531, 2531], "Luke_ch_19.docx": [1629, 1629]}
-envoys	{"2 Samuel_ch_5.docx": [1596], "Isaiah_ch_30.docx": [516, 516], "Ezekiel_ch_17.docx": [2531, 2531], "Luke_ch_19.docx": [1629]}
 envoys	{"2 Samuel_ch_5.docx": [1596], "Isaiah_ch_30.docx": [516], "Ezekiel_ch_17.docx": [2531], "Luke_ch_19.docx": [1629]}

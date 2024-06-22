@@ -1,4 +1,2 @@
 
-holy;	{"2 Samuel_ch_22.docx": [2510], "Psalms_ch_34.docx": [787, 787, 787], "Jeremiah_ch_17.docx": [3629, 3629, 3629], "Jeremiah_ch_25.docx": [4674, 4674, 4674], "Ezekiel_ch_45.docx": [503, 503, 503]}
-holy;	{"2 Samuel_ch_22.docx": [2510], "Psalms_ch_34.docx": [787, 787], "Jeremiah_ch_17.docx": [3629, 3629], "Jeremiah_ch_25.docx": [4674, 4674], "Ezekiel_ch_45.docx": [503, 503]}
 holy;	{"2 Samuel_ch_22.docx": [2510], "Psalms_ch_34.docx": [787], "Jeremiah_ch_17.docx": [3629], "Jeremiah_ch_25.docx": [4674], "Ezekiel_ch_45.docx": [503]}

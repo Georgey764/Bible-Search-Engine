@@ -1,5 +1,2 @@
 
-more;	{"Leviticus_ch_25.docx": [5037], "Deuteronomy_ch_33.docx": [2914, 2914, 2914], "Nehemiah_ch_9.docx": [6100, 6100, 6100], "Psalms_ch_143.docx": [930, 930, 930], "Proverbs_ch_21.docx": [443, 443, 443], "Acts_ch_20.docx": [8680, 8680]}
-more;	{"Leviticus_ch_25.docx": [5037], "Deuteronomy_ch_33.docx": [2914, 2914], "Nehemiah_ch_9.docx": [6100, 6100], "Psalms_ch_143.docx": [930, 930], "Proverbs_ch_21.docx": [443, 443], "Acts_ch_20.docx": [8680]}
-12‘my	{"Isaiah_ch_38.docx": [1607]}
 more;	{"Leviticus_ch_25.docx": [5037], "Deuteronomy_ch_33.docx": [2914], "Nehemiah_ch_9.docx": [6100], "Psalms_ch_143.docx": [930], "Proverbs_ch_21.docx": [443], "Acts_ch_20.docx": [8680]}

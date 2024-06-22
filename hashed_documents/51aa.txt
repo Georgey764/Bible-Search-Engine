@@ -1,5 +1,2 @@
 
-nim	{"Genesis_ch_10.docx": [1060, 1082, 1082, 1082], "1 Chronicles_ch_1.docx": [621, 621, 621], "2 Chronicles_ch_22.docx": [888, 888, 888], "Isaiah_ch_15.docx": [1033, 1033, 1033], "Jeremiah_ch_46.docx": [767, 767, 767], "Jeremiah_ch_48.docx": [4654, 4654, 4654], "Micah_ch_5.docx": [1726, 1735, 1726, 1735, 1726, 1735]}
-nim	{"Genesis_ch_10.docx": [1060, 1082, 1082], "1 Chronicles_ch_1.docx": [621, 621], "2 Chronicles_ch_22.docx": [888, 888], "Isaiah_ch_15.docx": [1033, 1033], "Jeremiah_ch_46.docx": [767, 767], "Jeremiah_ch_48.docx": [4654, 4654], "Micah_ch_5.docx": [1726, 1735, 1726, 1735]}
-22al	{"Numbers_ch_19.docx": [3124], "1 Samuel_ch_14.docx": [3485], "2 Samuel_ch_21.docx": [4243], "1 Chronicles_ch_8.docx": [1433], "1 Chronicles_ch_9.docx": [3192], "2 Chronicles_ch_13.docx": [3625], "Proverbs_ch_28.docx": [2035], "Isaiah_ch_1.docx": [3547]}
 nim	{"Genesis_ch_10.docx": [1060, 1082], "1 Chronicles_ch_1.docx": [621], "2 Chronicles_ch_22.docx": [888], "Isaiah_ch_15.docx": [1033], "Jeremiah_ch_46.docx": [767], "Jeremiah_ch_48.docx": [4654], "Micah_ch_5.docx": [1726, 1735]}

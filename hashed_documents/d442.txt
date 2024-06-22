@@ -1,5 +1,2 @@
 
-ritu	{"Numbers_ch_8.docx": [517], "Hebrews_ch_9.docx": [1151, 1151]}
-ritu	{"Numbers_ch_8.docx": [517], "Hebrews_ch_9.docx": [1151]}
-11into	{"2 Chronicles_ch_6.docx": [1188]}
 ritu	{"Numbers_ch_8.docx": [517], "Hebrews_ch_9.docx": [1151]}

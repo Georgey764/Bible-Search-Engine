@@ -1,4 +1,2 @@
 
-allot	{"Genesis_ch_47.docx": [4517], "Exodus_ch_16.docx": [688, 688, 688], "Numbers_ch_26.docx": [5395, 5395, 5395], "Numbers_ch_35.docx": [123, 123, 123], "Joshua_ch_1.docx": [2346, 2346, 2346], "1 Samuel_ch_14.docx": [7706, 7706, 7706], "Psalms_ch_105.docx": [881, 881, 881], "Jeremiah_ch_40.docx": [2529, 2529, 2529], "Micah_ch_2.docx": [954, 954, 954]}
-allot	{"Genesis_ch_47.docx": [4517], "Exodus_ch_16.docx": [688, 688], "Numbers_ch_26.docx": [5395, 5395], "Numbers_ch_35.docx": [123, 123], "Joshua_ch_1.docx": [2346, 2346], "1 Samuel_ch_14.docx": [7706, 7706], "Psalms_ch_105.docx": [881, 881], "Jeremiah_ch_40.docx": [2529, 2529], "Micah_ch_2.docx": [954, 954]}
 allot	{"Genesis_ch_47.docx": [4517], "Exodus_ch_16.docx": [688], "Numbers_ch_26.docx": [5395], "Numbers_ch_35.docx": [123], "Joshua_ch_1.docx": [2346], "1 Samuel_ch_14.docx": [7706], "Psalms_ch_105.docx": [881], "Jeremiah_ch_40.docx": [2529], "Micah_ch_2.docx": [954]}

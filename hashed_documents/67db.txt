@@ -1,4 +1,2 @@
 
-neaja	{"1 Chronicles_ch_3.docx": [2079, 2104, 2104]}
-neaja	{"1 Chronicles_ch_3.docx": [2079, 2104]}
 neaja	{"1 Chronicles_ch_3.docx": [2079, 2104]}

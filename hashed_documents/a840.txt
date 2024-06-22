@@ -1,6 +1,3 @@
 
 rebes	{"Joshua_ch_19.docx": [1603]}
 lure	{"2 Timothy_ch_2.docx": [3638]}
-rebes	{"Joshua_ch_19.docx": [1603]}
-rebes	{"Joshua_ch_19.docx": [1603]}
-lure	{"2 Timothy_ch_2.docx": [3638]}

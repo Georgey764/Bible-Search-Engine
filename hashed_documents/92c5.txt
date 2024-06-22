@@ -1,3 +1,2 @@
 
-6ham’	{"Genesis_ch_10.docx": [734]}
-47tha	{"Numbers_ch_4.docx": [5899]}
+tikva	{"Ezra_ch_10.docx": [3003]}

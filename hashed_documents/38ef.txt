@@ -1,4 +1,2 @@
 
-spy	{"Genesis_ch_42.docx": [1210, 1448, 1448, 1448], "Numbers_ch_13.docx": [1242, 1242, 1242], "Numbers_ch_14.docx": [4786, 5230, 4786, 5230, 4786, 5230], "Numbers_ch_32.docx": [934, 934, 934], "Joshua_ch_2.docx": [479, 479, 479], "Joshua_ch_14.docx": [785, 785, 785], "Judges_ch_18.docx": [229, 229, 229], "1 Chronicles_ch_19.docx": [567, 567, 567]}
-spy	{"Genesis_ch_42.docx": [1210, 1448, 1448], "Numbers_ch_13.docx": [1242, 1242], "Numbers_ch_14.docx": [4786, 5230, 4786, 5230], "Numbers_ch_32.docx": [934, 934], "Joshua_ch_2.docx": [479, 479], "Joshua_ch_14.docx": [785, 785], "Judges_ch_18.docx": [229, 229], "1 Chronicles_ch_19.docx": [567, 567]}
 spy	{"Genesis_ch_42.docx": [1210, 1448], "Numbers_ch_13.docx": [1242], "Numbers_ch_14.docx": [4786, 5230], "Numbers_ch_32.docx": [934], "Joshua_ch_2.docx": [479], "Joshua_ch_14.docx": [785], "Judges_ch_18.docx": [229], "1 Chronicles_ch_19.docx": [567]}

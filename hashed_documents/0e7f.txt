@@ -1,4 +1,2 @@
 
-baref	{"2 Samuel_ch_15.docx": [4633], "Isaiah_ch_20.docx": [321, 421, 681, 321, 421, 681, 321, 421, 681], "Micah_ch_1.docx": [2917, 2917, 2917]}
-baref	{"2 Samuel_ch_15.docx": [4633], "Isaiah_ch_20.docx": [321, 421, 681, 321, 421, 681], "Micah_ch_1.docx": [2917, 2917]}
 baref	{"2 Samuel_ch_15.docx": [4633], "Isaiah_ch_20.docx": [321, 421, 681], "Micah_ch_1.docx": [2917]}

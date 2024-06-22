@@ -1,5 +1,2 @@
 
-wagi	{"Exodus_ch_17.docx": [2391], "Psalms_ch_35.docx": [100, 100, 100], "Jeremiah_ch_34.docx": [47, 47, 47], "James_ch_4.docx": [282, 282]}
-wagi	{"Exodus_ch_17.docx": [2391], "Psalms_ch_35.docx": [100, 100], "Jeremiah_ch_34.docx": [47, 47], "James_ch_4.docx": [282]}
-19‘put	{"Judges_ch_18.docx": [4315]}
 wagi	{"Exodus_ch_17.docx": [2391], "Psalms_ch_35.docx": [100], "Jeremiah_ch_34.docx": [47], "James_ch_4.docx": [282]}

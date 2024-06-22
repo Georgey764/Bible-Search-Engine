@@ -1,5 +1,2 @@
 
-hattus	{"1 Chronicles_ch_3.docx": [2046], "Ezra_ch_8.docx": [299, 299, 299], "Nehemiah_ch_3.docx": [3604, 3604, 3604], "Nehemiah_ch_10.docx": [204, 204], "Nehemiah_ch_12.docx": [179, 179, 179]}
-hattus	{"1 Chronicles_ch_3.docx": [2046], "Ezra_ch_8.docx": [299, 299], "Nehemiah_ch_3.docx": [3604, 3604], "Nehemiah_ch_12.docx": [179, 179], "Nehemiah_ch_10.docx": [204]}
-2hear	{"Psalms_ch_5.docx": [135], "Isaiah_ch_1.docx": [221]}
 hattus	{"1 Chronicles_ch_3.docx": [2046], "Ezra_ch_8.docx": [299], "Nehemiah_ch_3.docx": [3604], "Nehemiah_ch_10.docx": [204], "Nehemiah_ch_12.docx": [179]}

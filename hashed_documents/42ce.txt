@@ -1,3 +1,2 @@
 
 labels	{"Romans_ch_7.docx": [744]}
-labels	{"Romans_ch_7.docx": [744]}

@@ -1,5 +1,2 @@
 
-befr	{"2 Chronicles_ch_19.docx": [192], "2 Chronicles_ch_20.docx": [6240, 6240, 6240], "Luke_ch_16.docx": [1276, 1276]}
-43pl	{"1 Kings_ch_8.docx": [6720]}
-befr	{"2 Chronicles_ch_19.docx": [192], "2 Chronicles_ch_20.docx": [6240, 6240], "Luke_ch_16.docx": [1276]}
 befr	{"2 Chronicles_ch_19.docx": [192], "2 Chronicles_ch_20.docx": [6240], "Luke_ch_16.docx": [1276]}

@@ -1,4 +1,3 @@
 
 nestha	{"2 Kings_ch_24.docx": [1187]}
-nestha	{"2 Kings_ch_24.docx": [1187]}
-nestha	{"2 Kings_ch_24.docx": [1187]}
+–nr	{"Esther_ch_10.docx": [2996]}

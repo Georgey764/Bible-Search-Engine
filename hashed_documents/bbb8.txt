@@ -1,4 +1,2 @@
 
-fire;	{"Proverbs_ch_26.docx": [1827], "Proverbs_ch_27.docx": [2000, 2000, 2000], "Isaiah_ch_9.docx": [3241, 3241, 3241], "Jeremiah_ch_21.docx": [2154, 2154, 2154], "Amos_ch_4.docx": [2140, 2140, 2140], "Micah_ch_1.docx": [2675, 2675, 2675], "Matthew_ch_13.docx": [5477, 5477, 5477]}
-fire;	{"Proverbs_ch_26.docx": [1827], "Proverbs_ch_27.docx": [2000, 2000], "Isaiah_ch_9.docx": [3241, 3241], "Jeremiah_ch_21.docx": [2154, 2154], "Amos_ch_4.docx": [2140, 2140], "Micah_ch_1.docx": [2675, 2675], "Matthew_ch_13.docx": [5477, 5477]}
 fire;	{"Proverbs_ch_26.docx": [1827], "Proverbs_ch_27.docx": [2000], "Isaiah_ch_9.docx": [3241], "Jeremiah_ch_21.docx": [2154], "Amos_ch_4.docx": [2140], "Micah_ch_1.docx": [2675], "Matthew_ch_13.docx": [5477]}

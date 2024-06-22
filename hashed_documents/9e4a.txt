@@ -1,5 +1,2 @@
 
-nests	{"Job_ch_39.docx": [1205, 2495, 2495, 2495], "Psalms_ch_84.docx": [314, 314, 314], "Psalms_ch_104.docx": [1225, 1778, 1225, 1778, 1225, 1778], "Isaiah_ch_13.docx": [3193, 3193, 3193], "Isaiah_ch_34.docx": [2199, 2199, 2199], "Jeremiah_ch_49.docx": [2996, 2996, 2996], "Matthew_ch_8.docx": [2570, 2570, 2570], "Luke_ch_9.docx": [7973, 7973]}
-nests	{"Job_ch_39.docx": [1205, 2495, 2495], "Psalms_ch_84.docx": [314, 314], "Psalms_ch_104.docx": [1225, 1778, 1225, 1778], "Isaiah_ch_13.docx": [3193, 3193], "Isaiah_ch_34.docx": [2199, 2199], "Jeremiah_ch_49.docx": [2996, 2996], "Matthew_ch_8.docx": [2570, 2570], "Luke_ch_9.docx": [7973]}
-17thos	{"Proverbs_ch_8.docx": [1432]}
 nests	{"Job_ch_39.docx": [1205, 2495], "Psalms_ch_84.docx": [314], "Psalms_ch_104.docx": [1225, 1778], "Isaiah_ch_13.docx": [3193], "Isaiah_ch_34.docx": [2199], "Jeremiah_ch_49.docx": [2996], "Matthew_ch_8.docx": [2570], "Luke_ch_9.docx": [7973]}

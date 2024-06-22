@@ -1,2 +1,0 @@
-
-48‘	{"Genesis_ch_24.docx": [7369], "Exodus_ch_12.docx": [7195], "Leviticus_ch_14.docx": [7095], "Deuteronomy_ch_28.docx": [6547], "2 Samuel_ch_22.docx": [4493], "1 Kings_ch_8.docx": [7694], "Jeremiah_ch_51.docx": [8024], "Lamentations_ch_3.docx": [3920], "Ezekiel_ch_16.docx": [7814], "Ezekiel_ch_23.docx": [7935], "Matthew_ch_5.docx": [5927], "Matthew_ch_24.docx": [5578]}

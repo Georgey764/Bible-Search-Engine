@@ -1,5 +1,2 @@
 
-drunk;	{"Proverbs_ch_26.docx": [726], "Jeremiah_ch_48.docx": [3243, 3243, 3243], "Haggai_ch_1.docx": [942, 942, 942]}
-22,60	{"1 Chronicles_ch_7.docx": [274]}
-drunk;	{"Proverbs_ch_26.docx": [726], "Jeremiah_ch_48.docx": [3243, 3243], "Haggai_ch_1.docx": [942, 942]}
 drunk;	{"Proverbs_ch_26.docx": [726], "Jeremiah_ch_48.docx": [3243], "Haggai_ch_1.docx": [942]}

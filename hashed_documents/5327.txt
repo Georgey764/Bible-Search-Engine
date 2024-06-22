@@ -1,4 +1,2 @@
 
-suspec	{"Numbers_ch_5.docx": [1533], "Numbers_ch_31.docx": [2127, 2127, 2127], "2 Samuel_ch_12.docx": [3200, 3200, 3200], "2 Samuel_ch_15.docx": [1440, 1440, 1440], "Job_ch_23.docx": [1471, 1471, 1471]}
-suspec	{"Numbers_ch_5.docx": [1533], "Numbers_ch_31.docx": [2127, 2127], "2 Samuel_ch_12.docx": [3200, 3200], "2 Samuel_ch_15.docx": [1440, 1440], "Job_ch_23.docx": [1471, 1471]}
 suspec	{"Numbers_ch_5.docx": [1533], "Numbers_ch_31.docx": [2127], "2 Samuel_ch_12.docx": [3200], "2 Samuel_ch_15.docx": [1440], "Job_ch_23.docx": [1471]}

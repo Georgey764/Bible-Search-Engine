@@ -1,4 +1,2 @@
 
-jazi	{"1 Chronicles_ch_24.docx": [2516], "1 Chronicles_ch_27.docx": [4340, 4340, 4340]}
-jazi	{"1 Chronicles_ch_24.docx": [2516], "1 Chronicles_ch_27.docx": [4340, 4340]}
 jazi	{"1 Chronicles_ch_24.docx": [2516], "1 Chronicles_ch_27.docx": [4340]}

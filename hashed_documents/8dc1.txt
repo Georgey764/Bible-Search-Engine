@@ -1,4 +1,2 @@
 
-abiram	{"Numbers_ch_16.docx": [70, 1550, 3411, 3709, 1550, 3411, 3709, 1550, 3411, 3709], "Numbers_ch_26.docx": [917, 987, 917, 987, 917, 987], "Deuteronomy_ch_11.docx": [728, 728, 728]}
-abiram	{"Numbers_ch_16.docx": [70, 1550, 3411, 3709, 1550, 3411, 3709], "Numbers_ch_26.docx": [917, 987, 917, 987], "Deuteronomy_ch_11.docx": [728, 728]}
 abiram	{"Numbers_ch_16.docx": [70, 1550, 3411, 3709], "Numbers_ch_26.docx": [917, 987], "Deuteronomy_ch_11.docx": [728]}

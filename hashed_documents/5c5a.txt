@@ -1,3 +1,0 @@
-
-27o	{"Genesis_ch_10.docx": [2982], "Ezra_ch_7.docx": [4261], "Psalms_ch_18.docx": [2663], "Psalms_ch_118.docx": [2212], "Proverbs_ch_27.docx": [2599], "Jeremiah_ch_48.docx": [3396]}
-27,000	{"1 Kings_ch_20.docx": [5228], "2 Chronicles_ch_27.docx": [753, 790]}

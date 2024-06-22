@@ -1,5 +1,2 @@
 
 repopu	{"2 Kings_ch_16.docx": [1372]}
-9he	{"Genesis_ch_10.docx": [1068], "Judges_ch_12.docx": [2045], "Ruth_ch_3.docx": [933], "1 Samuel_ch_27.docx": [1198], "2 Kings_ch_15.docx": [1196], "2 Chronicles_ch_23.docx": [1775], "Esther_ch_2.docx": [1738], "Job_ch_9.docx": [696], "Job_ch_19.docx": [820], "Psalms_ch_18.docx": [1039], "Psalms_ch_25.docx": [816], "Psalms_ch_79.docx": [923], "Psalms_ch_107.docx": [718], "Psalms_ch_111.docx": [733], "Psalms_ch_113.docx": [642], "Psalms_ch_147.docx": [795], "Lamentations_ch_3.docx": [688]}
-repopu	{"2 Kings_ch_16.docx": [1372]}
-repopu	{"2 Kings_ch_16.docx": [1372]}

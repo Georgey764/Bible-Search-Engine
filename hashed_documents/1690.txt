@@ -1,7 +1,3 @@
 
 achalg	{"Numbers_ch_21.docx": [1637]}
-events	{"2 Chronicles_ch_29.docx": [4450], "Mark_ch_6.docx": [7214, 7214], "Hebrews_ch_11.docx": [4288, 4288]}
-achalg	{"Numbers_ch_21.docx": [1637]}
-events	{"2 Chronicles_ch_29.docx": [4450], "Mark_ch_6.docx": [7214], "Hebrews_ch_11.docx": [4288]}
-achalg	{"Numbers_ch_21.docx": [1637]}
-events	{"2 Chronicles_ch_29.docx": [4450], "Mark_ch_6.docx": [7214], "Hebrews_ch_11.docx": [4288]}
+events	{"Numbers_ch_36.docx": [2305], "Deuteronomy_ch_34.docx": [1497, 2277], "Judges_ch_21.docx": [4124], "1 Samuel_ch_31.docx": [2216, 2381], "2 Samuel_ch_24.docx": [5676], "1 Kings_ch_22.docx": [9473], "1 Chronicles_ch_29.docx": [5226], "2 Chronicles_ch_29.docx": [4450], "Nehemiah_ch_13.docx": [5965], "Song of Solomon_ch_8.docx": [2487], "Obadiah_ch_1.docx": [4416, 4750, 4768], "Mark_ch_6.docx": [7214], "John_ch_21.docx": [4492, 4690], "Hebrews_ch_11.docx": [4288]}

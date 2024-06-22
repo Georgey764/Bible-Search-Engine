@@ -1,4 +1,2 @@
 
-rehum	{"Ezra_ch_2.docx": [486], "Ezra_ch_4.docx": [1316, 1440, 2879, 3795, 1316, 1440, 2879, 3795, 1316, 1440, 2879, 3795], "Nehemiah_ch_3.docx": [9171, 9171, 9171], "Nehemiah_ch_10.docx": [1183, 1183], "Nehemiah_ch_12.docx": [208, 208, 208]}
-rehum	{"Ezra_ch_2.docx": [486], "Ezra_ch_4.docx": [1316, 1440, 2879, 3795, 1316, 1440, 2879, 3795], "Nehemiah_ch_3.docx": [9171, 9171], "Nehemiah_ch_12.docx": [208, 208], "Nehemiah_ch_10.docx": [1183]}
 rehum	{"Ezra_ch_2.docx": [486], "Ezra_ch_4.docx": [1316, 1440, 2879, 3795], "Nehemiah_ch_3.docx": [9171], "Nehemiah_ch_10.docx": [1183], "Nehemiah_ch_12.docx": [208]}

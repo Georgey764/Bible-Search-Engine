@@ -1,4 +1,2 @@
 
-dote	{"Ezekiel_ch_23.docx": [716, 2436, 2436, 2436]}
-dote	{"Ezekiel_ch_23.docx": [716, 2436, 2436]}
 dote	{"Ezekiel_ch_23.docx": [716, 2436]}

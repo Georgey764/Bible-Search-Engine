@@ -1,3 +1,2 @@
 
-pole!	{"Matthew_ch_27.docx": [2692, 2815, 4678, 2815, 4678], "Mark_ch_15.docx": [3105, 3105], "Luke_ch_14.docx": [3459, 3459], "John_ch_19.docx": [666, 671, 666, 671], "Acts_ch_4.docx": [1002, 1002]}
 pole!	{"Matthew_ch_27.docx": [2692, 2815, 4678], "Mark_ch_15.docx": [3105], "Luke_ch_14.docx": [3459], "John_ch_19.docx": [666, 671], "Acts_ch_4.docx": [1002]}

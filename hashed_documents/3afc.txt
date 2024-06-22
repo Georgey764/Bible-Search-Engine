@@ -1,4 +1,2 @@
 
-jaala	{"Ezra_ch_2.docx": [2259], "Nehemiah_ch_7.docx": [3358, 3358]}
-jaala	{"Ezra_ch_2.docx": [2259], "Nehemiah_ch_7.docx": [3358]}
 jaala	{"Ezra_ch_2.docx": [2259], "Nehemiah_ch_7.docx": [3358]}

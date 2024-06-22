@@ -1,10 +1,3 @@
 
-abiha	{"1 Chronicles_ch_2.docx": [2712], "Esther_ch_2.docx": [3043, 3043, 3043], "Esther_ch_9.docx": [3672, 3672, 3672]}
-paul’s	{"Acts_ch_9.docx": [2890], "Acts_ch_17.docx": [58, 58], "Acts_ch_20.docx": [10142, 10142], "Acts_ch_21.docx": [3305, 3305], "Acts_ch_23.docx": [2879, 3125, 2879, 3125]}
-27ther	{"Genesis_ch_34.docx": [3479], "Joshua_ch_6.docx": [4017]}
-2,7	{"Numbers_ch_4.docx": [4826], "1 Chronicles_ch_26.docx": [4245], "2 Chronicles_ch_25.docx": [903, 1394], "2 Chronicles_ch_27.docx": [722], "Ezra_ch_7.docx": [3164], "Ezra_ch_8.docx": [3658]}
-15‘it	{"Deuteronomy_ch_10.docx": [2228], "Ezekiel_ch_21.docx": [2347], "Zephaniah_ch_1.docx": [2652]}
-abiha	{"1 Chronicles_ch_2.docx": [2712], "Esther_ch_2.docx": [3043, 3043], "Esther_ch_9.docx": [3672, 3672]}
-26‘{lo	{"Job_ch_36.docx": [2544]}
 abiha	{"1 Chronicles_ch_2.docx": [2712], "Esther_ch_2.docx": [3043], "Esther_ch_9.docx": [3672]}
-paul’s	{"Acts_ch_9.docx": [2890], "Acts_ch_17.docx": [58], "Acts_ch_20.docx": [10142], "Acts_ch_21.docx": [3305], "Acts_ch_23.docx": [2879, 3125]}
+paul’s	{"Mark_ch_16.docx": [2410], "John_ch_21.docx": [4380], "Acts_ch_9.docx": [2890], "Acts_ch_17.docx": [58], "Acts_ch_20.docx": [10142], "Acts_ch_21.docx": [3305], "Acts_ch_23.docx": [2879, 3125], "1 Corinthians_ch_16.docx": [3434], "Ephesians_ch_6.docx": [2992], "Colossians_ch_4.docx": [3219], "2 Thessalonians_ch_3.docx": [2440], "1 Timothy_ch_6.docx": [3347]}

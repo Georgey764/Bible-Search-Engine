@@ -1,4 +1,2 @@
 
-kite	{"Leviticus_ch_11.docx": [1752], "Deuteronomy_ch_14.docx": [1295, 1295, 1295]}
-kite	{"Leviticus_ch_11.docx": [1752], "Deuteronomy_ch_14.docx": [1295, 1295]}
 kite	{"Leviticus_ch_11.docx": [1752], "Deuteronomy_ch_14.docx": [1295]}

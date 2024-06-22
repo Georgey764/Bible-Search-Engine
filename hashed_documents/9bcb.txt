@@ -1,4 +1,2 @@
 
-vowe	{"Genesis_ch_23.docx": [1842], "1 Samuel_ch_1.docx": [3624, 3624, 3624], "2 Samuel_ch_15.docx": [1057, 1057, 1057], "Job_ch_16.docx": [1700, 1700, 1700], "Job_ch_22.docx": [2470, 2470, 2470], "Job_ch_42.docx": [1982], "Psalms_ch_61.docx": [536, 536, 536]}
-vowe	{"Genesis_ch_23.docx": [1842], "1 Samuel_ch_1.docx": [3624, 3624], "2 Samuel_ch_15.docx": [1057, 1057], "Job_ch_16.docx": [1700, 1700], "Job_ch_22.docx": [2470, 2470], "Psalms_ch_61.docx": [536, 536]}
-vowe	{"Genesis_ch_23.docx": [1842], "1 Samuel_ch_1.docx": [3624], "2 Samuel_ch_15.docx": [1057], "Job_ch_16.docx": [1700], "Job_ch_22.docx": [2470], "Psalms_ch_61.docx": [536]}
+vowe	{"Genesis_ch_23.docx": [1842], "1 Samuel_ch_1.docx": [3624], "2 Samuel_ch_15.docx": [1057], "Job_ch_16.docx": [1700], "Job_ch_22.docx": [2470], "Job_ch_42.docx": [1982], "Psalms_ch_61.docx": [536]}

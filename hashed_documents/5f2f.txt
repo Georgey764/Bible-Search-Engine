@@ -1,5 +1,2 @@
 
-mouth’	{"1 Samuel_ch_2.docx": [187], "Romans_ch_10.docx": [1313, 1313]}
-mouth’	{"1 Samuel_ch_2.docx": [187], "Romans_ch_10.docx": [1313]}
-170i	{"Psalms_ch_119.docx": [14392]}
 mouth’	{"1 Samuel_ch_2.docx": [187], "Romans_ch_10.docx": [1313]}

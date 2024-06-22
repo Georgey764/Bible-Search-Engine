@@ -1,4 +1,2 @@
 
-untrue	{"Proverbs_ch_20.docx": [1549], "Ezekiel_ch_13.docx": [1117, 1117, 1117]}
-untrue	{"Proverbs_ch_20.docx": [1549], "Ezekiel_ch_13.docx": [1117, 1117]}
 untrue	{"Proverbs_ch_20.docx": [1549], "Ezekiel_ch_13.docx": [1117]}

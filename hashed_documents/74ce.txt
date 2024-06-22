@@ -1,4 +1,2 @@
 
-splitt	{"Genesis_ch_22.docx": [373], "Isaiah_ch_49.docx": [3054, 3054, 3054]}
-splitt	{"Genesis_ch_22.docx": [373], "Isaiah_ch_49.docx": [3054, 3054]}
 splitt	{"Genesis_ch_22.docx": [373], "Isaiah_ch_49.docx": [3054]}

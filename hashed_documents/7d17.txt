@@ -1,4 +1,2 @@
 
-zion!	{"Isaiah_ch_52.docx": [12, 324, 324, 324], "Jeremiah_ch_4.docx": [1067, 1067, 1067], "Micah_ch_4.docx": [2535, 2771, 2535, 2771, 2535, 2771]}
-zion!	{"Isaiah_ch_52.docx": [12, 324, 324], "Jeremiah_ch_4.docx": [1067, 1067], "Micah_ch_4.docx": [2535, 2771, 2535, 2771]}
 zion!	{"Isaiah_ch_52.docx": [12, 324], "Jeremiah_ch_4.docx": [1067], "Micah_ch_4.docx": [2535, 2771]}

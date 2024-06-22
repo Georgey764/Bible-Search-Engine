@@ -1,7 +1,3 @@
 
-semiud	{"Numbers_ch_10.docx": [2548], "Numbers_ch_34.docx": [2036, 2036, 2036]}
-lechab	{"1 Chronicles_ch_4.docx": [2489]}
-semiud	{"Numbers_ch_10.docx": [2548], "Numbers_ch_34.docx": [2036, 2036]}
-lechab	{"1 Chronicles_ch_4.docx": [2489]}
 semiud	{"Numbers_ch_10.docx": [2548], "Numbers_ch_34.docx": [2036]}
 lechab	{"1 Chronicles_ch_4.docx": [2489]}

@@ -1,4 +1,2 @@
 
-mahlon	{"Ruth_ch_1.docx": [60, 572, 572, 572]}
-mahlon	{"Ruth_ch_1.docx": [60, 572, 572]}
-mahlon	{"Ruth_ch_1.docx": [60, 572]}
+mahlon	{"Ruth_ch_1.docx": [60, 572], "Ruth_ch_4.docx": [1948, 2117]}

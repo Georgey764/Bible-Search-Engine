@@ -1,4 +1,2 @@
 
-edraim	{"Deuteronomy_ch_3.docx": [30, 1264, 1264, 1264]}
-edraim	{"Deuteronomy_ch_3.docx": [30, 1264, 1264]}
 edraim	{"Deuteronomy_ch_3.docx": [30, 1264]}

@@ -1,2 +1,0 @@
-
-11‘you	{"Leviticus_ch_2.docx": [1295], "Leviticus_ch_11.docx": [1433], "Leviticus_ch_18.docx": [1195], "Leviticus_ch_19.docx": [1200], "Numbers_ch_15.docx": [1230], "Numbers_ch_29.docx": [1363], "Deuteronomy_ch_4.docx": [1837], "Deuteronomy_ch_14.docx": [1139], "Deuteronomy_ch_16.docx": [1667], "Deuteronomy_ch_22.docx": [1548], "Song of Solomon_ch_4.docx": [1562], "Isaiah_ch_57.docx": [1638], "Ezekiel_ch_4.docx": [1724], "Ezekiel_ch_22.docx": [1500], "Ezekiel_ch_24.docx": [1441], "Ezekiel_ch_33.docx": [1882], "Matthew_ch_5.docx": [814]}

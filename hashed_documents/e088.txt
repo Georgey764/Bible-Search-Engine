@@ -1,2 +1,0 @@
-
-8go	{"Psalms_ch_47.docx": [596], "Proverbs_ch_22.docx": [769]}

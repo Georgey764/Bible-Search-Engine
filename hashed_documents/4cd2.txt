@@ -1,4 +1,2 @@
 
-stocks	{"Job_ch_33.docx": [869], "Psalms_ch_149.docx": [653, 653, 653], "Acts_ch_16.docx": [6719, 6719]}
-stocks	{"Job_ch_33.docx": [869], "Psalms_ch_149.docx": [653, 653], "Acts_ch_16.docx": [6719]}
 stocks	{"Job_ch_33.docx": [869], "Psalms_ch_149.docx": [653], "Acts_ch_16.docx": [6719]}

@@ -1,5 +1,2 @@
 
-astoni	{"Genesis_ch_43.docx": [4676], "Daniel_ch_7.docx": [1083, 1083, 1083], "Luke_ch_4.docx": [5145, 5145], "Luke_ch_9.docx": [5844, 5844], "Acts_ch_2.docx": [1215, 7063, 1215, 7063], "Acts_ch_3.docx": [934, 934], "Acts_ch_9.docx": [1070, 1070], "Acts_ch_12.docx": [2673, 2673]}
-astoni	{"Genesis_ch_43.docx": [4676], "Daniel_ch_7.docx": [1083, 1083], "Luke_ch_4.docx": [5145], "Luke_ch_9.docx": [5844], "Acts_ch_2.docx": [1215, 7063], "Acts_ch_3.docx": [934], "Acts_ch_9.docx": [1070], "Acts_ch_12.docx": [2673]}
-8wh	{"Exodus_ch_18.docx": [881], "Psalms_ch_24.docx": [736], "Psalms_ch_55.docx": [723], "Proverbs_ch_11.docx": [887], "Proverbs_ch_20.docx": [1112], "Isaiah_ch_23.docx": [784], "Ezekiel_ch_18.docx": [1017], "Matthew_ch_26.docx": [569]}
-astoni	{"Genesis_ch_43.docx": [4676], "Daniel_ch_7.docx": [1083], "Luke_ch_4.docx": [5145], "Luke_ch_9.docx": [5844], "Acts_ch_2.docx": [1215, 7063], "Acts_ch_3.docx": [934], "Acts_ch_9.docx": [1070], "Acts_ch_12.docx": [2673]}
+astoni	{"Genesis_ch_43.docx": [4676], "Daniel_ch_7.docx": [1083], "Habakkuk_ch_3.docx": [2567], "Zechariah_ch_14.docx": [2312], "Luke_ch_4.docx": [5145], "Luke_ch_9.docx": [5844], "Acts_ch_2.docx": [1215, 7063], "Acts_ch_3.docx": [934], "Acts_ch_9.docx": [1070], "Acts_ch_12.docx": [2673]}

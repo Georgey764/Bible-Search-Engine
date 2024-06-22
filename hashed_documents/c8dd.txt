@@ -1,4 +1,2 @@
 
-impetu	{"2 Timothy_ch_3.docx": [536, 537, 537]}
-44‘{	{"Jeremiah_ch_50.docx": [8245]}
 impetu	{"2 Timothy_ch_3.docx": [536, 537]}

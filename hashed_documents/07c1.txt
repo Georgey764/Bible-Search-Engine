@@ -1,4 +1,2 @@
 
-lais	{"Judges_ch_18.docx": [3498, 5719, 5719, 5719], "1 Samuel_ch_25.docx": [6974, 6974, 6974]}
-lais	{"Judges_ch_18.docx": [3498, 5719, 5719], "1 Samuel_ch_25.docx": [6974, 6974]}
 lais	{"Judges_ch_18.docx": [3498, 5719], "1 Samuel_ch_25.docx": [6974]}

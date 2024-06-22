@@ -1,4 +1,2 @@
 
-carna	{"Genesis_ch_14.docx": [566], "Proverbs_ch_7.docx": [951, 951, 951], "Ezekiel_ch_43.docx": [1499, 1499, 1499]}
-carna	{"Genesis_ch_14.docx": [566], "Proverbs_ch_7.docx": [951, 951], "Ezekiel_ch_43.docx": [1499, 1499]}
-carna	{"Genesis_ch_14.docx": [566], "Proverbs_ch_7.docx": [951], "Ezekiel_ch_43.docx": [1499]}
+carna	{"Genesis_ch_14.docx": [566], "Proverbs_ch_7.docx": [951], "Ezekiel_ch_43.docx": [1499], "Jude_ch_1.docx": [3813]}

@@ -1,6 +1,2 @@
 
-pay!	{"1 Kings_ch_20.docx": [7409], "1 Timothy_ch_5.docx": [2449, 2449]}
-2whic	{"1 Kings_ch_7.docx": [16]}
-pay!	{"1 Kings_ch_20.docx": [7409], "1 Timothy_ch_5.docx": [2449]}
-3pra	{"Psalms_ch_135.docx": [176], "Psalms_ch_148.docx": [234]}
 pay!	{"1 Kings_ch_20.docx": [7409], "1 Timothy_ch_5.docx": [2449]}

@@ -1,4 +1,2 @@
 
-poc	{"Ezra_ch_2.docx": [2331], "Nehemiah_ch_7.docx": [3431, 3431, 3431]}
-poc	{"Ezra_ch_2.docx": [2331], "Nehemiah_ch_7.docx": [3431, 3431]}
 poc	{"Ezra_ch_2.docx": [2331], "Nehemiah_ch_7.docx": [3431]}

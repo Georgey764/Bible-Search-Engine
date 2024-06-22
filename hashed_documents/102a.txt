@@ -1,4 +1,2 @@
 
-asu	{"Genesis_ch_46.docx": [1587], "Numbers_ch_26.docx": [4411, 4416, 4411, 4416, 4411, 4416]}
-asu	{"Genesis_ch_46.docx": [1587], "Numbers_ch_26.docx": [4411, 4416, 4411, 4416]}
 asu	{"Genesis_ch_46.docx": [1587], "Numbers_ch_26.docx": [4411, 4416]}

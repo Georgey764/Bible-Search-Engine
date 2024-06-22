@@ -1,4 +1,2 @@
 
-havil	{"1 Samuel_ch_15.docx": [999], "1 Chronicles_ch_1.docx": [523, 1877, 523, 1877, 523, 1877]}
-havil	{"1 Samuel_ch_15.docx": [999], "1 Chronicles_ch_1.docx": [523, 1877, 523, 1877]}
 havil	{"1 Samuel_ch_15.docx": [999], "1 Chronicles_ch_1.docx": [523, 1877]}

@@ -1,5 +1,2 @@
 
 carcar	{"Judges_ch_8.docx": [2083]}
-carcar	{"Judges_ch_8.docx": [2083]}
-2fro	{"Ezra_ch_8.docx": [153], "Psalms_ch_8.docx": [213], "Psalms_ch_61.docx": [154], "Psalms_ch_64.docx": [187], "Proverbs_ch_6.docx": [110], "Proverbs_ch_13.docx": [118], "Proverbs_ch_28.docx": [119]}
-carcar	{"Judges_ch_8.docx": [2083]}

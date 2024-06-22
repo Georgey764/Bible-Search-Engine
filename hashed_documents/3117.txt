@@ -1,4 +1,2 @@
 
-manl	{"1 Samuel_ch_4.docx": [1569], "2 Chronicles_ch_32.docx": [1472, 1472, 1472], "Daniel_ch_10.docx": [2956, 2956, 2956], "Nahum_ch_2.docx": [212, 212, 212]}
-manl	{"1 Samuel_ch_4.docx": [1569], "2 Chronicles_ch_32.docx": [1472, 1472], "Daniel_ch_10.docx": [2956, 2956], "Nahum_ch_2.docx": [212, 212]}
 manl	{"1 Samuel_ch_4.docx": [1569], "2 Chronicles_ch_32.docx": [1472], "Daniel_ch_10.docx": [2956], "Nahum_ch_2.docx": [212]}

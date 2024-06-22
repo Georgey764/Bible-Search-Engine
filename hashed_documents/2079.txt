@@ -1,3 +1,0 @@
-
-30‘h	{"Exodus_ch_9.docx": [4266], "Exodus_ch_21.docx": [3720], "Numbers_ch_32.docx": [4002], "Deuteronomy_ch_32.docx": [4466], "Job_ch_41.docx": [2632], "Matthew_ch_18.docx": [4023]}
-14fro	{"Numbers_ch_13.docx": [996], "2 Chronicles_ch_29.docx": [2225], "Ezra_ch_8.docx": [1463], "Psalms_ch_33.docx": [1136], "Psalms_ch_72.docx": [1178], "Proverbs_ch_12.docx": [1371], "Ezekiel_ch_43.docx": [2670]}

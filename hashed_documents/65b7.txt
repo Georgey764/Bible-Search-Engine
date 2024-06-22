@@ -1,4 +1,2 @@
 
-shorte	{"Leviticus_ch_26.docx": [1991], "Psalms_ch_89.docx": [4287, 4287, 4287], "Proverbs_ch_10.docx": [2558, 2558, 2558], "Matthew_ch_24.docx": [2361, 2378, 2361, 2378, 2361, 2378], "Mark_ch_13.docx": [2489, 2512, 2489, 2512], "1 Corinthians_ch_7.docx": [3644, 3644]}
-shorte	{"Leviticus_ch_26.docx": [1991], "Psalms_ch_89.docx": [4287, 4287], "Proverbs_ch_10.docx": [2558, 2558], "Matthew_ch_24.docx": [2361, 2378, 2361, 2378], "Mark_ch_13.docx": [2489, 2512], "1 Corinthians_ch_7.docx": [3644]}
-shorte	{"Leviticus_ch_26.docx": [1991], "Psalms_ch_89.docx": [4287], "Proverbs_ch_10.docx": [2558], "Matthew_ch_24.docx": [2361, 2378], "Mark_ch_13.docx": [2489, 2512], "1 Corinthians_ch_7.docx": [3644]}
+shorte	{"Leviticus_ch_26.docx": [1991], "2 Chronicles_ch_36.docx": [7041, 7515], "Psalms_ch_89.docx": [4287], "Proverbs_ch_10.docx": [2558], "Isaiah_ch_66.docx": [5282], "Matthew_ch_24.docx": [2361, 2378], "Mark_ch_13.docx": [2489, 2512], "Mark_ch_16.docx": [1783, 1978], "1 Corinthians_ch_7.docx": [3644]}

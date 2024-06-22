@@ -1,4 +1,2 @@
 
 rhes	{"Luke_ch_3.docx": [6494]}
-17ki	{"2 Kings_ch_14.docx": [2907]}
-rhes	{"Luke_ch_3.docx": [6494]}

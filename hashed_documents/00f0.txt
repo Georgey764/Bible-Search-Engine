@@ -1,4 +1,2 @@
 
-impe	{"Leviticus_ch_21.docx": [2091, 2489, 2502, 2489, 2502, 2489, 2502], "Leviticus_ch_22.docx": [3654, 3654, 3654], "Ezra_ch_4.docx": [696, 696, 696], "Job_ch_34.docx": [1600, 1600, 1600], "Malachi_ch_1.docx": [3218, 3218, 3218], "Ephesians_ch_4.docx": [4040, 4040], "2 Timothy_ch_3.docx": [536, 537, 536, 537], "1 Peter_ch_1.docx": [5867, 5867]}
-impe	{"Leviticus_ch_21.docx": [2091, 2489, 2502, 2489, 2502], "Leviticus_ch_22.docx": [3654, 3654], "Ezra_ch_4.docx": [696, 696], "Job_ch_34.docx": [1600, 1600], "Malachi_ch_1.docx": [3218, 3218], "Ephesians_ch_4.docx": [4040], "2 Timothy_ch_3.docx": [536, 537], "1 Peter_ch_1.docx": [5867]}
 impe	{"Leviticus_ch_21.docx": [2091, 2489, 2502], "Leviticus_ch_22.docx": [3654], "Ezra_ch_4.docx": [696], "Job_ch_34.docx": [1600], "Malachi_ch_1.docx": [3218], "Ephesians_ch_4.docx": [4040], "2 Timothy_ch_3.docx": [536, 537], "1 Peter_ch_1.docx": [5867]}

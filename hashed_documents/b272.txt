@@ -1,4 +1,2 @@
 
-marker	{"Deuteronomy_ch_19.docx": [2081], "Deuteronomy_ch_27.docx": [2410, 2410, 2410], "Proverbs_ch_22.docx": [2773, 2773, 2773], "Proverbs_ch_23.docx": [843, 843, 843], "Ecclesiastes_ch_10.docx": [845, 845, 845], "Hosea_ch_5.docx": [1681, 1681, 1681]}
-marker	{"Deuteronomy_ch_19.docx": [2081], "Deuteronomy_ch_27.docx": [2410, 2410], "Proverbs_ch_22.docx": [2773, 2773], "Proverbs_ch_23.docx": [843, 843], "Ecclesiastes_ch_10.docx": [845, 845], "Hosea_ch_5.docx": [1681, 1681]}
 marker	{"Deuteronomy_ch_19.docx": [2081], "Deuteronomy_ch_27.docx": [2410], "Proverbs_ch_22.docx": [2773], "Proverbs_ch_23.docx": [843], "Ecclesiastes_ch_10.docx": [845], "Hosea_ch_5.docx": [1681]}

@@ -1,4 +1,2 @@
 
-dayli	{"2 Samuel_ch_12.docx": [1999, 2160, 2160, 2160], "2 Samuel_ch_17.docx": [3580, 3580, 3580], "Job_ch_5.docx": [1179, 1179, 1179], "Ecclesiastes_ch_11.docx": [875, 875], "Jeremiah_ch_6.docx": [640, 640, 640], "John_ch_11.docx": [1054, 1061, 1054, 1061], "Acts_ch_27.docx": [4031, 4031]}
-dayli	{"2 Samuel_ch_12.docx": [1999, 2160, 2160], "2 Samuel_ch_17.docx": [3580, 3580], "Job_ch_5.docx": [1179, 1179], "Jeremiah_ch_6.docx": [640, 640], "Ecclesiastes_ch_11.docx": [875], "John_ch_11.docx": [1054, 1061], "Acts_ch_27.docx": [4031]}
 dayli	{"2 Samuel_ch_12.docx": [1999, 2160], "2 Samuel_ch_17.docx": [3580], "Job_ch_5.docx": [1179], "Ecclesiastes_ch_11.docx": [875], "Jeremiah_ch_6.docx": [640], "John_ch_11.docx": [1054, 1061], "Acts_ch_27.docx": [4031]}

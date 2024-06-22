@@ -1,4 +1,2 @@
 
-joiaki	{"Nehemiah_ch_12.docx": [708, 736, 860, 2750, 736, 860, 2750, 736, 860, 2750]}
-joiaki	{"Nehemiah_ch_12.docx": [708, 736, 860, 2750, 736, 860, 2750]}
 joiaki	{"Nehemiah_ch_12.docx": [708, 736, 860, 2750]}

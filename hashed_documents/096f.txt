@@ -1,5 +1,2 @@
 
-wind;	{"Jeremiah_ch_14.docx": [667], "Ezekiel_ch_5.docx": [508, 508, 508]}
-11azar	{"1 Chronicles_ch_6.docx": [735]}
-wind;	{"Jeremiah_ch_14.docx": [667], "Ezekiel_ch_5.docx": [508, 508]}
 wind;	{"Jeremiah_ch_14.docx": [667], "Ezekiel_ch_5.docx": [508]}

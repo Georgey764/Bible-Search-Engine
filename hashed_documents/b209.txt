@@ -1,4 +1,2 @@
 
-unwil	{"Deuteronomy_ch_23.docx": [2830], "Jeremiah_ch_6.docx": [1691, 1691, 1691], "Matthew_ch_23.docx": [347, 347, 347], "Luke_ch_14.docx": [3453, 4234, 3453, 4234], "Romans_ch_10.docx": [181, 181]}
-unwil	{"Deuteronomy_ch_23.docx": [2830], "Jeremiah_ch_6.docx": [1691, 1691], "Matthew_ch_23.docx": [347, 347], "Luke_ch_14.docx": [3453, 4234], "Romans_ch_10.docx": [181]}
 unwil	{"Deuteronomy_ch_23.docx": [2830], "Jeremiah_ch_6.docx": [1691], "Matthew_ch_23.docx": [347], "Luke_ch_14.docx": [3453, 4234], "Romans_ch_10.docx": [181]}

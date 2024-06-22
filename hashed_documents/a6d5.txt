@@ -1,9 +1,3 @@
 
 plural	{"Exodus_ch_22.docx": [3749]}
-zakcho	{"1 Chronicles_ch_4.docx": [3151], "1 Chronicles_ch_9.docx": [5326, 5326, 5326], "1 Chronicles_ch_25.docx": [1634, 1634, 1634]}
-plural	{"Exodus_ch_22.docx": [3749]}
-8bri	{"2 Samuel_ch_4.docx": [1106]}
-zakcho	{"1 Chronicles_ch_4.docx": [3151], "1 Chronicles_ch_9.docx": [5326, 5326], "1 Chronicles_ch_25.docx": [1634, 1634]}
-9‘take	{"Ecclesiastes_ch_11.docx": [1099], "Ezekiel_ch_4.docx": [1331]}
-plural	{"Exodus_ch_22.docx": [3749]}
 zakcho	{"1 Chronicles_ch_4.docx": [3151], "1 Chronicles_ch_9.docx": [5326], "1 Chronicles_ch_25.docx": [1634]}

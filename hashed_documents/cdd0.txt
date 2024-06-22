@@ -1,4 +1,2 @@
 
-thekoi	{"2 Samuel_ch_23.docx": [4312], "1 Chronicles_ch_11.docx": [5279, 5279, 5279], "1 Chronicles_ch_27.docx": [1156, 1156, 1156]}
-thekoi	{"2 Samuel_ch_23.docx": [4312], "1 Chronicles_ch_11.docx": [5279, 5279], "1 Chronicles_ch_27.docx": [1156, 1156]}
 thekoi	{"2 Samuel_ch_23.docx": [4312], "1 Chronicles_ch_11.docx": [5279], "1 Chronicles_ch_27.docx": [1156]}

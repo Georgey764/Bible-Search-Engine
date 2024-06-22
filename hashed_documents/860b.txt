@@ -1,5 +1,2 @@
 
 decidi	{"Isaiah_ch_41.docx": [3563]}
-38i	{"Leviticus_ch_7.docx": [5177], "Numbers_ch_33.docx": [2811], "2 Samuel_ch_23.docx": [5055], "Nehemiah_ch_10.docx": [3551], "Psalms_ch_18.docx": [3664]}
-decidi	{"Isaiah_ch_41.docx": [3563]}
-decidi	{"Isaiah_ch_41.docx": [3563]}

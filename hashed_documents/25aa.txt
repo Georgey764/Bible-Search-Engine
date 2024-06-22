@@ -1,7 +1,3 @@
 
 zucam	{"Genesis_ch_36.docx": [2978]}
 zua	{"Numbers_ch_2.docx": [552]}
-zucam	{"Genesis_ch_36.docx": [2978]}
-zua	{"Numbers_ch_2.docx": [552]}
-zucam	{"Genesis_ch_36.docx": [2978]}
-zua	{"Numbers_ch_2.docx": [552]}

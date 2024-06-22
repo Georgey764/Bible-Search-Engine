@@ -1,4 +1,2 @@
 
-banke	{"Exodus_ch_15.docx": [1002], "Psalms_ch_109.docx": [851, 851, 851], "Matthew_ch_25.docx": [3050, 3050, 3050]}
-banke	{"Exodus_ch_15.docx": [1002], "Psalms_ch_109.docx": [851, 851], "Matthew_ch_25.docx": [3050, 3050]}
 banke	{"Exodus_ch_15.docx": [1002], "Psalms_ch_109.docx": [851], "Matthew_ch_25.docx": [3050]}

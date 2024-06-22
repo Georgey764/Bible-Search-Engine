@@ -1,3 +1,0 @@
-
-23he	{"Genesis_ch_32.docx": [3067], "Deuteronomy_ch_11.docx": [3043], "Deuteronomy_ch_28.docx": [3037], "1 Kings_ch_6.docx": [2857], "Psalms_ch_94.docx": [1955], "Psalms_ch_136.docx": [2287]}
-27‘bu	{"Jeremiah_ch_17.docx": [4674], "Ezekiel_ch_3.docx": [4444], "Ezekiel_ch_27.docx": [3820], "Ezekiel_ch_32.docx": [4568], "Daniel_ch_4.docx": [5188], "Matthew_ch_17.docx": [3306]}

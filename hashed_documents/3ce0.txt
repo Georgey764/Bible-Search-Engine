@@ -1,4 +1,2 @@
 
-grave!	{"Genesis_ch_42.docx": [5243], "Proverbs_ch_9.docx": [1898, 1898, 1898]}
-grave!	{"Genesis_ch_42.docx": [5243], "Proverbs_ch_9.docx": [1898, 1898]}
 grave!	{"Genesis_ch_42.docx": [5243], "Proverbs_ch_9.docx": [1898]}

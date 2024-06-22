@@ -1,4 +1,2 @@
 
-head;	{"Exodus_ch_29.docx": [2143], "Deuteronomy_ch_33.docx": [2179, 2179, 2179], "Judges_ch_16.docx": [3025, 3025, 3025], "1 Kings_ch_8.docx": [4949, 4949, 4949], "Job_ch_10.docx": [1456, 1456, 1456]}
-head;	{"Exodus_ch_29.docx": [2143], "Deuteronomy_ch_33.docx": [2179, 2179], "Judges_ch_16.docx": [3025, 3025], "1 Kings_ch_8.docx": [4949, 4949], "Job_ch_10.docx": [1456, 1456]}
 head;	{"Exodus_ch_29.docx": [2143], "Deuteronomy_ch_33.docx": [2179], "Judges_ch_16.docx": [3025], "1 Kings_ch_8.docx": [4949], "Job_ch_10.docx": [1456]}

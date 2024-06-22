@@ -1,5 +1,2 @@
 
 seer!	{"Psalms_ch_55.docx": [1312]}
-25jeh	{"Deuteronomy_ch_14.docx": [2361], "Deuteronomy_ch_28.docx": [3252], "Proverbs_ch_15.docx": [2496], "Isaiah_ch_22.docx": [3701]}
-seer!	{"Psalms_ch_55.docx": [1312]}
-seer!	{"Psalms_ch_55.docx": [1312]}

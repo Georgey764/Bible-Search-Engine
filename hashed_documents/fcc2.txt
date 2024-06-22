@@ -1,4 +1,2 @@
 
-reeds	{"2 Kings_ch_18.docx": [3365], "Job_ch_40.docx": [3495, 3495, 3495], "Psalms_ch_68.docx": [3297, 3297, 3297], "Isaiah_ch_19.docx": [936, 936, 936], "Isaiah_ch_35.docx": [918, 918, 918], "Matthew_ch_11.docx": [844, 844, 844], "Luke_ch_7.docx": [3529, 3529], "Hebrews_ch_11.docx": [5736, 5736]}
-reeds	{"2 Kings_ch_18.docx": [3365], "Job_ch_40.docx": [3495, 3495], "Psalms_ch_68.docx": [3297, 3297], "Isaiah_ch_19.docx": [936, 936], "Isaiah_ch_35.docx": [918, 918], "Matthew_ch_11.docx": [844, 844], "Luke_ch_7.docx": [3529], "Hebrews_ch_11.docx": [5736]}
 reeds	{"2 Kings_ch_18.docx": [3365], "Job_ch_40.docx": [3495], "Psalms_ch_68.docx": [3297], "Isaiah_ch_19.docx": [936], "Isaiah_ch_35.docx": [918], "Matthew_ch_11.docx": [844], "Luke_ch_7.docx": [3529], "Hebrews_ch_11.docx": [5736]}

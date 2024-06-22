@@ -1,4 +1,2 @@
 
-hak	{"Ezra_ch_2.docx": [2050], "Nehemiah_ch_3.docx": [10592, 10612, 10635, 10592, 10612, 10635, 10592, 10612, 10635], "Nehemiah_ch_7.docx": [3109, 3109, 3109]}
-hak	{"Ezra_ch_2.docx": [2050], "Nehemiah_ch_3.docx": [10592, 10612, 10635, 10592, 10612, 10635], "Nehemiah_ch_7.docx": [3109, 3109]}
 hak	{"Ezra_ch_2.docx": [2050], "Nehemiah_ch_3.docx": [10592, 10612, 10635], "Nehemiah_ch_7.docx": [3109]}

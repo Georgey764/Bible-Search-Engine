@@ -1,4 +1,2 @@
 
-sir!	{"Genesis_ch_23.docx": [498], "Genesis_ch_31.docx": [4666, 4666, 4666], "Matthew_ch_21.docx": [4089, 4089, 4089]}
-sir!	{"Genesis_ch_23.docx": [498], "Genesis_ch_31.docx": [4666, 4666], "Matthew_ch_21.docx": [4089, 4089]}
 sir!	{"Genesis_ch_23.docx": [498], "Genesis_ch_31.docx": [4666], "Matthew_ch_21.docx": [4089]}

@@ -1,3 +1,2 @@
 
-urgin	{"John_ch_4.docx": [4124], "Acts_ch_16.docx": [5375, 5375], "Ephesians_ch_4.docx": [12, 12], "1 Thessalonians_ch_4.docx": [1119, 1119], "Hebrews_ch_10.docx": [186, 186]}
-urgin	{"John_ch_4.docx": [4124], "Acts_ch_16.docx": [5375], "Ephesians_ch_4.docx": [12], "1 Thessalonians_ch_4.docx": [1119], "Hebrews_ch_10.docx": [186]}
+urgin	{"John_ch_4.docx": [4124], "Acts_ch_16.docx": [5375], "Galatians_ch_6.docx": [1384], "Ephesians_ch_4.docx": [12], "1 Thessalonians_ch_4.docx": [1119], "Hebrews_ch_10.docx": [186]}

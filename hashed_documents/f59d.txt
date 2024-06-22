@@ -1,4 +1,2 @@
 
-packed	{"Genesis_ch_13.docx": [2308], "Numbers_ch_10.docx": [1526, 1526, 1526], "Joshua_ch_3.docx": [5543, 5543, 5543], "Isaiah_ch_37.docx": [6023, 6023, 6023], "Luke_ch_6.docx": [4908, 4908]}
-packed	{"Genesis_ch_13.docx": [2308], "Numbers_ch_10.docx": [1526, 1526], "Joshua_ch_3.docx": [5543, 5543], "Isaiah_ch_37.docx": [6023, 6023], "Luke_ch_6.docx": [4908]}
-packed	{"Genesis_ch_13.docx": [2308], "Numbers_ch_10.docx": [1526], "Joshua_ch_3.docx": [5543], "Isaiah_ch_37.docx": [6023], "Luke_ch_6.docx": [4908]}
+packed	{"Genesis_ch_13.docx": [2308], "Exodus_ch_40.docx": [3692], "Numbers_ch_10.docx": [1526], "Joshua_ch_3.docx": [5543], "Isaiah_ch_37.docx": [6023], "Luke_ch_6.docx": [4908]}

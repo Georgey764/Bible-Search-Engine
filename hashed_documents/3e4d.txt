@@ -1,4 +1,2 @@
 
-ahika	{"Jeremiah_ch_26.docx": [3975], "Jeremiah_ch_39.docx": [2100, 2100, 2100], "Jeremiah_ch_40.docx": [710, 2540, 3276, 710, 2540, 3276, 710, 2540, 3276], "Jeremiah_ch_41.docx": [1500, 2385, 1500, 2385, 1500, 2385], "Jeremiah_ch_43.docx": [611, 611, 611]}
-ahika	{"Jeremiah_ch_26.docx": [3975], "Jeremiah_ch_39.docx": [2100, 2100], "Jeremiah_ch_40.docx": [710, 2540, 3276, 710, 2540, 3276], "Jeremiah_ch_41.docx": [1500, 2385, 1500, 2385], "Jeremiah_ch_43.docx": [611, 611]}
 ahika	{"Jeremiah_ch_26.docx": [3975], "Jeremiah_ch_39.docx": [2100], "Jeremiah_ch_40.docx": [710, 2540, 3276], "Jeremiah_ch_41.docx": [1500, 2385], "Jeremiah_ch_43.docx": [611]}

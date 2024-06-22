@@ -1,6 +1,3 @@
 
-segub	{"1 Kings_ch_16.docx": [5297], "1 Chronicles_ch_2.docx": [1781, 1927, 1781, 1927, 1781, 1927]}
-sculp	{"Acts_ch_17.docx": [5935]}
-segub	{"1 Kings_ch_16.docx": [5297], "1 Chronicles_ch_2.docx": [1781, 1927, 1781, 1927]}
 segub	{"1 Kings_ch_16.docx": [5297], "1 Chronicles_ch_2.docx": [1781, 1927]}
 sculp	{"Acts_ch_17.docx": [5935]}

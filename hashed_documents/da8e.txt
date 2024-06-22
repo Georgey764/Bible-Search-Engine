@@ -1,5 +1,2 @@
 
-mobs	{"Ezekiel_ch_16.docx": [6449], "2 Corinthians_ch_6.docx": [430, 430]}
-9‘wak	{"Isaiah_ch_51.docx": [1684]}
-mobs	{"Ezekiel_ch_16.docx": [6449], "2 Corinthians_ch_6.docx": [430]}
 mobs	{"Ezekiel_ch_16.docx": [6449], "2 Corinthians_ch_6.docx": [430]}

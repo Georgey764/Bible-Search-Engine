@@ -1,4 +1,2 @@
 
 zoc	{"Deuteronomy_ch_2.docx": [2590]}
-zoc	{"Deuteronomy_ch_2.docx": [2590]}
-zoc	{"Deuteronomy_ch_2.docx": [2590]}

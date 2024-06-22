@@ -1,4 +1,2 @@
 
-out;	{"1 Kings_ch_9.docx": [3194], "Job_ch_32.docx": [880, 880, 880], "Psalms_ch_105.docx": [3391, 3391, 3391], "Ecclesiastes_ch_3.docx": [562, 562, 562], "Song of Solomon_ch_2.docx": [1446, 1446, 1446], "Joel_ch_2.docx": [1848, 1848, 1848]}
-out;	{"1 Kings_ch_9.docx": [3194], "Job_ch_32.docx": [880, 880], "Psalms_ch_105.docx": [3391, 3391], "Ecclesiastes_ch_3.docx": [562, 562], "Song of Solomon_ch_2.docx": [1446, 1446], "Joel_ch_2.docx": [1848, 1848]}
 out;	{"1 Kings_ch_9.docx": [3194], "Job_ch_32.docx": [880], "Psalms_ch_105.docx": [3391], "Ecclesiastes_ch_3.docx": [562], "Song of Solomon_ch_2.docx": [1446], "Joel_ch_2.docx": [1848]}

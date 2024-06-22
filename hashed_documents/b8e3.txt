@@ -1,2 +1,0 @@
-
-4,00	{"1 Samuel_ch_4.docx": [155], "1 Kings_ch_9.docx": [2400], "1 Chronicles_ch_23.docx": [384], "2 Chronicles_ch_9.docx": [3795], "Matthew_ch_15.docx": [4424]}

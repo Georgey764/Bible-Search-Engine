@@ -1,5 +1,2 @@
 
-paro	{"Ezra_ch_2.docx": [555], "Nehemiah_ch_3.docx": [12321, 12321, 12321], "Nehemiah_ch_7.docx": [1252, 1252, 1252], "Nehemiah_ch_10.docx": [764, 764, 764]}
-61ther	{"Genesis_ch_24.docx": [9099]}
-paro	{"Ezra_ch_2.docx": [555], "Nehemiah_ch_3.docx": [12321, 12321], "Nehemiah_ch_7.docx": [1252, 1252], "Nehemiah_ch_10.docx": [764, 764]}
-paro	{"Ezra_ch_2.docx": [555], "Nehemiah_ch_3.docx": [12321], "Nehemiah_ch_7.docx": [1252], "Nehemiah_ch_10.docx": [764]}
+paro	{"Ezra_ch_2.docx": [555], "Ezra_ch_10.docx": [4373], "Nehemiah_ch_3.docx": [12321], "Nehemiah_ch_7.docx": [1252], "Nehemiah_ch_10.docx": [764]}

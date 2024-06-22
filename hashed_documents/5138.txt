@@ -1,4 +1,2 @@
 
-samir	{"Joshua_ch_15.docx": [5512], "Judges_ch_10.docx": [29, 49, 29, 49, 29, 49]}
-samir	{"Joshua_ch_15.docx": [5512], "Judges_ch_10.docx": [29, 49, 29, 49]}
 samir	{"Joshua_ch_15.docx": [5512], "Judges_ch_10.docx": [29, 49]}

@@ -1,5 +1,2 @@
 
-uncom	{"Leviticus_ch_26.docx": [1921], "Job_ch_9.docx": [2065, 2065, 2065]}
-45‘you	{"Leviticus_ch_25.docx": [6271]}
-uncom	{"Leviticus_ch_26.docx": [1921], "Job_ch_9.docx": [2065, 2065]}
-uncom	{"Leviticus_ch_26.docx": [1921], "Job_ch_9.docx": [2065]}
+uncom	{"Leviticus_ch_26.docx": [1921], "Job_ch_9.docx": [2065], "Acts_ch_28.docx": [61]}

@@ -1,7 +1,3 @@
 
 phalde	{"Genesis_ch_22.docx": [3336]}
-thanki	{"Colossians_ch_3.docx": [2155], "1 Thessalonians_ch_2.docx": [1683, 1683]}
-phalde	{"Genesis_ch_22.docx": [3336]}
-20‘may	{"1 Samuel_ch_26.docx": [3317], "2 Chronicles_ch_6.docx": [3074], "Daniel_ch_2.docx": [3179]}
-phalde	{"Genesis_ch_22.docx": [3336]}
 thanki	{"Colossians_ch_3.docx": [2155], "1 Thessalonians_ch_2.docx": [1683]}

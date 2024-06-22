@@ -1,5 +1,2 @@
 
-ita	{"Joshua_ch_15.docx": [5908], "Acts_ch_10.docx": [20, 20], "Acts_ch_18.docx": [428, 458, 489, 428, 458, 489], "Acts_ch_27.docx": [17, 645, 17, 645]}
-ita	{"Joshua_ch_15.docx": [5908], "Acts_ch_10.docx": [20], "Acts_ch_18.docx": [428, 458, 489], "Acts_ch_27.docx": [17, 645]}
-45‘his	{"Daniel_ch_11.docx": [8141]}
-ita	{"Joshua_ch_15.docx": [5908], "Acts_ch_10.docx": [20], "Acts_ch_18.docx": [428, 458, 489], "Acts_ch_27.docx": [17, 645]}
+ita	{"Joshua_ch_15.docx": [5908], "Ecclesiastes_ch_12.docx": [2554], "Song of Solomon_ch_8.docx": [3941], "Isaiah_ch_66.docx": [7087], "Lamentations_ch_5.docx": [4117], "Daniel_ch_12.docx": [5782], "Hosea_ch_14.docx": [3337], "Joel_ch_3.docx": [6453], "Jonah_ch_4.docx": [3436], "Micah_ch_7.docx": [6305], "Nahum_ch_3.docx": [5513], "Habakkuk_ch_3.docx": [5153], "Zephaniah_ch_3.docx": [6243], "Haggai_ch_2.docx": [6560], "Acts_ch_10.docx": [20], "Acts_ch_18.docx": [428, 458, 489], "Acts_ch_27.docx": [17, 645], "Hebrews_ch_13.docx": [3561]}

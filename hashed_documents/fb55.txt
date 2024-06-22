@@ -1,8 +1,3 @@
 
 mahana	{"Genesis_ch_32.docx": [259]}
 gulley	{"2 Samuel_ch_18.docx": [2649]}
-12[	{"Genesis_ch_12.docx": [1443], "Genesis_ch_20.docx": [1891], "Numbers_ch_1.docx": [1112], "2 Samuel_ch_8.docx": [1522], "2 Kings_ch_18.docx": [1488], "Psalms_ch_105.docx": [928], "Song of Solomon_ch_1.docx": [1610], "Jeremiah_ch_17.docx": [1940], "Hosea_ch_7.docx": [2285], "Habakkuk_ch_1.docx": [1981]}
-mahana	{"Genesis_ch_32.docx": [259]}
-gulley	{"2 Samuel_ch_18.docx": [2649]}
-mahana	{"Genesis_ch_32.docx": [259]}
-gulley	{"2 Samuel_ch_18.docx": [2649]}

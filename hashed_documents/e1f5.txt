@@ -1,3 +1,2 @@
 
-worldl	{"1 Corinthians_ch_7.docx": [4119, 4361, 4361], "1 Timothy_ch_4.docx": [804, 804], "2 Timothy_ch_2.docx": [2025, 2025], "Titus_ch_2.docx": [1287, 1287], "Hebrews_ch_9.docx": [16, 16], "1 John_ch_3.docx": [2353, 2353], "1 John_ch_4.docx": [648, 648]}
-worldl	{"1 Corinthians_ch_7.docx": [4119, 4361], "1 Timothy_ch_4.docx": [804], "2 Timothy_ch_2.docx": [2025], "Titus_ch_2.docx": [1287], "Hebrews_ch_9.docx": [16], "1 John_ch_3.docx": [2353], "1 John_ch_4.docx": [648]}
+worldl	{"1 Corinthians_ch_7.docx": [4119, 4361], "Ephesians_ch_6.docx": [1224], "1 Timothy_ch_4.docx": [804], "1 Timothy_ch_6.docx": [3023], "2 Timothy_ch_2.docx": [2025], "Titus_ch_2.docx": [1287], "Hebrews_ch_9.docx": [16], "1 John_ch_3.docx": [2353], "1 John_ch_4.docx": [648], "Jude_ch_1.docx": [3121]}

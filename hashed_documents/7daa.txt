@@ -1,4 +1,2 @@
 
-wreak	{"Ezekiel_ch_16.docx": [6591], "Ezekiel_ch_25.docx": [1756, 2986, 1756, 2986, 1756, 2986], "Nahum_ch_2.docx": [644, 644, 644]}
-wreak	{"Ezekiel_ch_16.docx": [6591], "Ezekiel_ch_25.docx": [1756, 2986, 1756, 2986], "Nahum_ch_2.docx": [644, 644]}
 wreak	{"Ezekiel_ch_16.docx": [6591], "Ezekiel_ch_25.docx": [1756, 2986], "Nahum_ch_2.docx": [644]}

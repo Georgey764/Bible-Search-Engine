@@ -1,5 +1,3 @@
 
-onesip	{"2 Timothy_ch_1.docx": [2171]}
-gleame	{"Revelation_ch_21.docx": [1573]}
-onesip	{"2 Timothy_ch_1.docx": [2171]}
+onesip	{"2 Timothy_ch_1.docx": [2171], "2 Timothy_ch_4.docx": [2579]}
 gleame	{"Revelation_ch_21.docx": [1573]}

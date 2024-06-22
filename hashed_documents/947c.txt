@@ -1,4 +1,2 @@
 
-unpu	{"Proverbs_ch_11.docx": [2222], "Proverbs_ch_19.docx": [254, 743, 254, 743, 254, 743], "Proverbs_ch_28.docx": [1925, 1925, 1925]}
-unpu	{"Proverbs_ch_11.docx": [2222], "Proverbs_ch_19.docx": [254, 743, 254, 743], "Proverbs_ch_28.docx": [1925, 1925]}
 unpu	{"Proverbs_ch_11.docx": [2222], "Proverbs_ch_19.docx": [254, 743], "Proverbs_ch_28.docx": [1925]}

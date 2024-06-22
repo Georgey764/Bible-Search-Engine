@@ -1,2 +1,0 @@
-
-3find	{"Leviticus_ch_6.docx": [242]}

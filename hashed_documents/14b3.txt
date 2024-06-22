@@ -1,4 +1,2 @@
 
-targ	{"1 Samuel_ch_20.docx": [3099, 5819, 5819, 5819], "Lamentations_ch_3.docx": [974, 974, 974]}
-targ	{"1 Samuel_ch_20.docx": [3099, 5819, 5819], "Lamentations_ch_3.docx": [974, 974]}
 targ	{"1 Samuel_ch_20.docx": [3099, 5819], "Lamentations_ch_3.docx": [974]}

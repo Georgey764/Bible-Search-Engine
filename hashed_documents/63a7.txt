@@ -1,5 +1,2 @@
 
-megi	{"Joshua_ch_17.docx": [1889], "Judges_ch_5.docx": [2976, 2976, 2976], "1 Kings_ch_4.docx": [1222, 1222, 1222], "1 Kings_ch_9.docx": [2433, 2433, 2433], "2 Kings_ch_9.docx": [5578, 5578, 5578], "2 Kings_ch_23.docx": [6694, 6708, 6694, 6708, 6694, 6708], "2 Chronicles_ch_35.docx": [5265, 5265, 5265], "Isaiah_ch_10.docx": [4293, 4293, 4293]}
-9‘whe	{"Leviticus_ch_19.docx": [908], "Numbers_ch_5.docx": [1086], "Job_ch_14.docx": [908], "Zephaniah_ch_1.docx": [1465]}
-megi	{"Joshua_ch_17.docx": [1889], "Judges_ch_5.docx": [2976, 2976], "1 Kings_ch_4.docx": [1222, 1222], "1 Kings_ch_9.docx": [2433, 2433], "2 Kings_ch_9.docx": [5578, 5578], "2 Kings_ch_23.docx": [6694, 6708, 6694, 6708], "2 Chronicles_ch_35.docx": [5265, 5265], "Isaiah_ch_10.docx": [4293, 4293]}
 megi	{"Joshua_ch_17.docx": [1889], "Judges_ch_5.docx": [2976], "1 Kings_ch_4.docx": [1222], "1 Kings_ch_9.docx": [2433], "2 Kings_ch_9.docx": [5578], "2 Kings_ch_23.docx": [6694, 6708], "2 Chronicles_ch_35.docx": [5265], "Isaiah_ch_10.docx": [4293]}

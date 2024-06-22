@@ -1,6 +1,2 @@
 
 flow]	{"Leviticus_ch_12.docx": [403]}
-flow]	{"Leviticus_ch_12.docx": [403]}
-2[jot	{"2 Chronicles_ch_27.docx": [184]}
-17befo	{"Proverbs_ch_18.docx": [1384], "Isaiah_ch_40.docx": [2492]}
-flow]	{"Leviticus_ch_12.docx": [403]}

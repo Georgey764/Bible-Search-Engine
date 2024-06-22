@@ -1,6 +1,3 @@
 
-unload	{"Genesis_ch_24.docx": [4655], "Genesis_ch_43.docx": [2734, 2734, 2734], "Acts_ch_21.docx": [1081, 1081]}
-do.<su	{"Philippians_ch_2.docx": [1402]}
-unload	{"Genesis_ch_24.docx": [4655], "Genesis_ch_43.docx": [2734, 2734], "Acts_ch_21.docx": [1081]}
 unload	{"Genesis_ch_24.docx": [4655], "Genesis_ch_43.docx": [2734], "Acts_ch_21.docx": [1081]}
 do.<su	{"Philippians_ch_2.docx": [1402]}

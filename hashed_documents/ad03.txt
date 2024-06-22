@@ -1,6 +1,3 @@
 
 eseban	{"1 Chronicles_ch_1.docx": [3420]}
 backbi	{"2 Corinthians_ch_12.docx": [3377]}
-eseban	{"1 Chronicles_ch_1.docx": [3420]}
-eseban	{"1 Chronicles_ch_1.docx": [3420]}
-backbi	{"2 Corinthians_ch_12.docx": [3377]}

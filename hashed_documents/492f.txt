@@ -1,2 +1,0 @@
-
-7,3	{"Ezra_ch_2.docx": [3170], "Nehemiah_ch_7.docx": [4216]}

@@ -1,5 +1,2 @@
 
 hadid	{"Ezra_ch_2.docx": [1322]}
-3mose	{"Exodus_ch_36.docx": [430]}
-hadid	{"Ezra_ch_2.docx": [1322]}
-hadid	{"Ezra_ch_2.docx": [1322]}

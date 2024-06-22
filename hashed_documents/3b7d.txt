@@ -1,4 +1,2 @@
 
-justus	{"Acts_ch_1.docx": [4858], "Acts_ch_18.docx": [3031, 3045, 3031, 3045]}
-20h	{"Genesis_ch_26.docx": [2660], "Exodus_ch_16.docx": [3133], "Joshua_ch_10.docx": [7561], "1 Samuel_ch_22.docx": [3254], "2 Samuel_ch_22.docx": [1964], "1 Kings_ch_9.docx": [3160], "1 Chronicles_ch_3.docx": [1754], "2 Chronicles_ch_11.docx": [2231], "2 Chronicles_ch_21.docx": [3024], "2 Chronicles_ch_31.docx": [3771], "Psalms_ch_55.docx": [2045], "Psalms_ch_107.docx": [1674], "Psalms_ch_147.docx": [1756], "Proverbs_ch_1.docx": [1956], "Proverbs_ch_7.docx": [1706], "Isaiah_ch_42.docx": [3018], "Jeremiah_ch_38.docx": [3560], "Matthew_ch_9.docx": [2751], "Matthew_ch_12.docx": [2204]}
-justus	{"Acts_ch_1.docx": [4858], "Acts_ch_18.docx": [3031, 3045]}
+justus	{"Acts_ch_1.docx": [4858], "Acts_ch_18.docx": [3031, 3045], "Colossians_ch_4.docx": [1078]}

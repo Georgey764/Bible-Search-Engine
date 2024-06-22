@@ -1,4 +1,2 @@
 
-willow	{"Leviticus_ch_23.docx": [5867, 5896, 5896, 5896], "Psalms_ch_137.docx": [189, 189, 189], "Isaiah_ch_44.docx": [487, 487, 487]}
-willow	{"Leviticus_ch_23.docx": [5867, 5896, 5896], "Psalms_ch_137.docx": [189, 189], "Isaiah_ch_44.docx": [487, 487]}
 willow	{"Leviticus_ch_23.docx": [5867, 5896], "Psalms_ch_137.docx": [189], "Isaiah_ch_44.docx": [487]}

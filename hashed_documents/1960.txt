@@ -1,4 +1,2 @@
 
-jett	{"1 Chronicles_ch_1.docx": [2364], "2 Chronicles_ch_11.docx": [2315, 2315]}
-jett	{"2 Chronicles_ch_11.docx": [2315, 2315]}
 jett	{"1 Chronicles_ch_1.docx": [2364], "2 Chronicles_ch_11.docx": [2315]}

@@ -1,4 +1,2 @@
 
-dining	{"Jeremiah_ch_35.docx": [331], "1 Corinthians_ch_8.docx": [1532, 1532]}
-dining	{"Jeremiah_ch_35.docx": [331], "1 Corinthians_ch_8.docx": [1532]}
 dining	{"Jeremiah_ch_35.docx": [331], "1 Corinthians_ch_8.docx": [1532]}

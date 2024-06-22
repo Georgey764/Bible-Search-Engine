@@ -1,5 +1,2 @@
 
-costl	{"Isaiah_ch_28.docx": [2467]}
-7‘ret	{"1 Kings_ch_14.docx": [1084]}
-costl	{"Isaiah_ch_28.docx": [2467]}
-costl	{"Isaiah_ch_28.docx": [2467]}
+costl	{"1 Chronicles_ch_29.docx": [605], "Isaiah_ch_28.docx": [2467]}

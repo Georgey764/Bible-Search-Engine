@@ -1,4 +1,2 @@
 
-lawyer	{"Job_ch_9.docx": [3014]}
-lawyer	{"Job_ch_9.docx": [3014]}
-lawyer	{"Job_ch_9.docx": [3014]}
+lawyer	{"Job_ch_9.docx": [3014], "Titus_ch_3.docx": [1746]}

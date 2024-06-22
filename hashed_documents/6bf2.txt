@@ -1,4 +1,2 @@
 
-outc	{"Nehemiah_ch_5.docx": [855], "Psalms_ch_91.docx": [780, 780, 780], "Ecclesiastes_ch_3.docx": [2041, 2041, 2041], "Ezekiel_ch_27.docx": [4172, 4172, 4172]}
-outc	{"Nehemiah_ch_5.docx": [855], "Psalms_ch_91.docx": [780, 780], "Ecclesiastes_ch_3.docx": [2041, 2041], "Ezekiel_ch_27.docx": [4172, 4172]}
 outc	{"Nehemiah_ch_5.docx": [855], "Psalms_ch_91.docx": [780], "Ecclesiastes_ch_3.docx": [2041], "Ezekiel_ch_27.docx": [4172]}

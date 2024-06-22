@@ -1,5 +1,2 @@
 
-ezer	{"Nehemiah_ch_3.docx": [9468, 9489, 9511, 9489, 9511, 9489, 9511], "Nehemiah_ch_12.docx": [11660, 11660, 11660]}
-31jor	{"1 Chronicles_ch_26.docx": [4135]}
-ezer	{"Nehemiah_ch_3.docx": [9468, 9489, 9511, 9489, 9511], "Nehemiah_ch_12.docx": [11660, 11660]}
 ezer	{"Nehemiah_ch_3.docx": [9468, 9489, 9511], "Nehemiah_ch_12.docx": [11660]}

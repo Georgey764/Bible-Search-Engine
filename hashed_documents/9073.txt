@@ -1,8 +1,3 @@
 
 mooli	{"1 Chronicles_ch_23.docx": [2169, 2351]}
 mooli	{"1 Chronicles_ch_24.docx": [2699]}
-mooli	{"1 Chronicles_ch_23.docx": [2169, 2351]}
-mooli	{"1 Chronicles_ch_24.docx": [2699]}
-21‘not	{"Matthew_ch_7.docx": [2375]}
-mooli	{"1 Chronicles_ch_23.docx": [2169, 2351]}
-mooli	{"1 Chronicles_ch_24.docx": [2699]}

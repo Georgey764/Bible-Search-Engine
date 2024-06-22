@@ -1,4 +1,2 @@
 
-chere	{"1 Samuel_ch_30.docx": [1923], "2 Samuel_ch_8.docx": [2707, 2707, 2707], "2 Samuel_ch_15.docx": [2413, 2590, 2413, 2590, 2413, 2590], "2 Samuel_ch_20.docx": [1284, 4413, 1284, 4413, 1284, 4413], "1 Kings_ch_1.docx": [5284, 6226, 5284, 6226, 5284, 6226], "1 Chronicles_ch_18.docx": [2194, 2194, 2194], "Ezekiel_ch_25.docx": [2768, 2768, 2768]}
-chere	{"1 Samuel_ch_30.docx": [1923], "2 Samuel_ch_8.docx": [2707, 2707], "2 Samuel_ch_15.docx": [2413, 2590, 2413, 2590], "2 Samuel_ch_20.docx": [1284, 4413, 1284, 4413], "1 Kings_ch_1.docx": [5284, 6226, 5284, 6226], "1 Chronicles_ch_18.docx": [2194, 2194], "Ezekiel_ch_25.docx": [2768, 2768]}
 chere	{"1 Samuel_ch_30.docx": [1923], "2 Samuel_ch_8.docx": [2707], "2 Samuel_ch_15.docx": [2413, 2590], "2 Samuel_ch_20.docx": [1284, 4413], "1 Kings_ch_1.docx": [5284, 6226], "1 Chronicles_ch_18.docx": [2194], "Ezekiel_ch_25.docx": [2768]}

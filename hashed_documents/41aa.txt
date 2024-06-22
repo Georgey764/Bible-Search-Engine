@@ -1,2 +1,0 @@
-
-31wel	{"Genesis_ch_29.docx": [3840], "Genesis_ch_32.docx": [4125], "Genesis_ch_37.docx": [4162], "Genesis_ch_44.docx": [3899], "Exodus_ch_9.docx": [4338], "Judges_ch_3.docx": [11151], "Judges_ch_16.docx": [5789], "2 Samuel_ch_15.docx": [4780]}

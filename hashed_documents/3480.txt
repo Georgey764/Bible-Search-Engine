@@ -1,5 +1,2 @@
 
 bodyn	{"Psalms_ch_119.docx": [10002]}
-32h	{"Genesis_ch_26.docx": [4494], "Exodus_ch_8.docx": [4948], "Exodus_ch_9.docx": [4356], "1 Kings_ch_16.docx": [4954], "Job_ch_38.docx": [2992], "Psalms_ch_18.docx": [3098], "Psalms_ch_104.docx": [3211]}
-bodyn	{"Psalms_ch_119.docx": [10002]}
-bodyn	{"Psalms_ch_119.docx": [10002]}

@@ -1,2 +1,0 @@
-
-10‘h	{"Leviticus_ch_1.docx": [1309], "Leviticus_ch_11.docx": [1202], "Deuteronomy_ch_29.docx": [1221], "Judges_ch_7.docx": [2821], "2 Samuel_ch_17.docx": [1335], "2 Samuel_ch_19.docx": [1810], "2 Samuel_ch_22.docx": [1022], "2 Chronicles_ch_13.docx": [1528], "Job_ch_1.docx": [1546], "Job_ch_5.docx": [831], "Job_ch_9.docx": [824], "Job_ch_19.docx": [903], "Lamentations_ch_3.docx": [729], "Daniel_ch_3.docx": [1435], "Nahum_ch_1.docx": [2051]}

@@ -1,4 +1,2 @@
 
 galle	{"1 Corinthians_ch_4.docx": [20]}
-1,700	{"1 Chronicles_ch_26.docx": [3898], "Nehemiah_ch_3.docx": [4322, 4361, 4402]}
-galle	{"1 Corinthians_ch_4.docx": [20]}

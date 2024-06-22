@@ -1,5 +1,2 @@
 
-seen!	{"2 Samuel_ch_18.docx": [3563], "Psalms_ch_38.docx": [766, 766, 766], "Isaiah_ch_30.docx": [1612, 1612, 1612]}
-10‘wel	{"Deuteronomy_ch_10.docx": [1495], "Joshua_ch_14.docx": [1311], "Matthew_ch_25.docx": [859]}
-seen!	{"2 Samuel_ch_18.docx": [3563], "Psalms_ch_38.docx": [766, 766], "Isaiah_ch_30.docx": [1612, 1612]}
 seen!	{"2 Samuel_ch_18.docx": [3563], "Psalms_ch_38.docx": [766], "Isaiah_ch_30.docx": [1612]}

@@ -1,5 +1,2 @@
 
 splen	{"Psalms_ch_21.docx": [455]}
-7[o	{"Judges_ch_3.docx": [4413]}
-splen	{"Psalms_ch_21.docx": [455]}
-splen	{"Psalms_ch_21.docx": [455]}

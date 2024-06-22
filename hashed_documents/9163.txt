@@ -1,5 +1,2 @@
 
-mosoll	{"1 Chronicles_ch_3.docx": [1699], "1 Chronicles_ch_5.docx": [1621, 1621, 1621], "1 Chronicles_ch_9.docx": [877, 1045, 1702, 877, 1045, 1702, 877, 1045, 1702]}
-18me	{"Judges_ch_15.docx": [3330], "1 Samuel_ch_9.docx": [2898], "1 Chronicles_ch_3.docx": [1528]}
-mosoll	{"1 Chronicles_ch_3.docx": [1699], "1 Chronicles_ch_5.docx": [1621, 1621], "1 Chronicles_ch_9.docx": [877, 1045, 1702, 877, 1045, 1702]}
 mosoll	{"1 Chronicles_ch_3.docx": [1699], "1 Chronicles_ch_5.docx": [1621], "1 Chronicles_ch_9.docx": [877, 1045, 1702]}

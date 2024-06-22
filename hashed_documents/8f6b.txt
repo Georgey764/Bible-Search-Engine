@@ -1,4 +1,2 @@
 
-esarha	{"Ezra_ch_4.docx": [337], "Isaiah_ch_37.docx": [6069, 6069, 6069]}
-esarha	{"Ezra_ch_4.docx": [337], "Isaiah_ch_37.docx": [6069, 6069]}
 esarha	{"Ezra_ch_4.docx": [337], "Isaiah_ch_37.docx": [6069]}

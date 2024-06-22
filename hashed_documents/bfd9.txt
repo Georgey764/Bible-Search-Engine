@@ -1,4 +1,2 @@
 
-else!	{"1 Samuel_ch_30.docx": [3976], "Romans_ch_7.docx": [581, 581], "Romans_ch_8.docx": [4931, 4931]}
-else!	{"1 Samuel_ch_30.docx": [3976], "Romans_ch_7.docx": [581], "Romans_ch_8.docx": [4931]}
 else!	{"1 Samuel_ch_30.docx": [3976], "Romans_ch_7.docx": [581], "Romans_ch_8.docx": [4931]}

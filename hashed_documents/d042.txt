@@ -1,5 +1,2 @@
 
-irrita	{"Exodus_ch_16.docx": [3164], "Deuteronomy_ch_31.docx": [4600, 4600, 4600], "2 Samuel_ch_19.docx": [6971, 6971, 6971], "Mark_ch_10.docx": [1207, 5059, 1207, 5059], "Ephesians_ch_4.docx": [3532, 3546, 3532, 3546]}
-irrita	{"Exodus_ch_16.docx": [3164], "Deuteronomy_ch_31.docx": [4600, 4600], "2 Samuel_ch_19.docx": [6971, 6971], "Mark_ch_10.docx": [1207, 5059], "Ephesians_ch_4.docx": [3532, 3546]}
-23fr	{"Numbers_ch_34.docx": [2199], "1 Chronicles_ch_24.docx": [2457], "Proverbs_ch_16.docx": [2376]}
 irrita	{"Exodus_ch_16.docx": [3164], "Deuteronomy_ch_31.docx": [4600], "2 Samuel_ch_19.docx": [6971], "Mark_ch_10.docx": [1207, 5059], "Ephesians_ch_4.docx": [3532, 3546]}

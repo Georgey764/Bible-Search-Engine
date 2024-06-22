@@ -1,5 +1,2 @@
 
-asmot	{"1 Chronicles_ch_12.docx": [427], "1 Chronicles_ch_27.docx": [3425, 3425, 3425]}
-asmot	{"1 Chronicles_ch_12.docx": [427], "1 Chronicles_ch_27.docx": [3425, 3425]}
-37wi	{"Psalms_ch_78.docx": [3660]}
 asmot	{"1 Chronicles_ch_12.docx": [427], "1 Chronicles_ch_27.docx": [3425]}

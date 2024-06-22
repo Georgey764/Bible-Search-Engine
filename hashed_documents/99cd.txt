@@ -1,5 +1,3 @@
 
 nabeot	{"Genesis_ch_28.docx": [1217]}
-nabeot	{"Genesis_ch_28.docx": [1217]}
-28:	{"1 Chronicles_ch_24.docx": [25]}
-nabeot	{"Genesis_ch_28.docx": [1217]}
+unex	{"1 Thessalonians_ch_5.docx": [33], "2 Peter_ch_3.docx": [1418]}

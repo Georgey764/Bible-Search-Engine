@@ -1,4 +1,2 @@
 
-rowi	{"1 Kings_ch_9.docx": [4173], "Matthew_ch_14.docx": [2869, 2869, 2869], "Mark_ch_6.docx": [6516, 6516]}
-rowi	{"1 Kings_ch_9.docx": [4173], "Matthew_ch_14.docx": [2869, 2869], "Mark_ch_6.docx": [6516]}
 rowi	{"1 Kings_ch_9.docx": [4173], "Matthew_ch_14.docx": [2869], "Mark_ch_6.docx": [6516]}

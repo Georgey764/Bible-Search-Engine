@@ -1,4 +1,2 @@
 
-stirri	{"Judges_ch_9.docx": [6076], "Daniel_ch_7.docx": [238, 238, 238], "Luke_ch_23.docx": [521, 521], "Acts_ch_15.docx": [5592, 5592], "Acts_ch_24.docx": [535, 546, 558, 535, 546, 558], "Galatians_ch_5.docx": [1458, 1458]}
-stirri	{"Judges_ch_9.docx": [6076], "Daniel_ch_7.docx": [238, 238], "Luke_ch_23.docx": [521], "Acts_ch_15.docx": [5592], "Acts_ch_24.docx": [535, 546, 558], "Galatians_ch_5.docx": [1458]}
 stirri	{"Judges_ch_9.docx": [6076], "Daniel_ch_7.docx": [238], "Luke_ch_23.docx": [521], "Acts_ch_15.docx": [5592], "Acts_ch_24.docx": [535, 546, 558], "Galatians_ch_5.docx": [1458]}

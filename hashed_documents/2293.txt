@@ -1,5 +1,2 @@
 
-slum	{"Psalms_ch_78.docx": [6258], "Psalms_ch_121.docx": [332, 332, 332], "Psalms_ch_132.docx": [303, 303, 303], "Proverbs_ch_6.docx": [495, 1095, 495, 1095, 495, 1095], "Isaiah_ch_5.docx": [4337, 4337, 4337], "Isaiah_ch_56.docx": [1872, 1872, 1872], "Acts_ch_20.docx": [2764, 2764], "Romans_ch_11.docx": [1133, 1133]}
-slum	{"Psalms_ch_78.docx": [6258], "Psalms_ch_121.docx": [332, 332], "Psalms_ch_132.docx": [303, 303], "Proverbs_ch_6.docx": [495, 1095, 495, 1095], "Isaiah_ch_5.docx": [4337, 4337], "Isaiah_ch_56.docx": [1872, 1872], "Acts_ch_20.docx": [2764], "Romans_ch_11.docx": [1133]}
-15egyp	{"Isaiah_ch_19.docx": [2052]}
 slum	{"Psalms_ch_78.docx": [6258], "Psalms_ch_121.docx": [332], "Psalms_ch_132.docx": [303], "Proverbs_ch_6.docx": [495, 1095], "Isaiah_ch_5.docx": [4337], "Isaiah_ch_56.docx": [1872], "Acts_ch_20.docx": [2764], "Romans_ch_11.docx": [1133]}

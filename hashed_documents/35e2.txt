@@ -1,6 +1,3 @@
 
 steak	{"Job_ch_41.docx": [497]}
-dippi	{"Mark_ch_14.docx": [2706], "John_ch_13.docx": [3138, 3138]}
-steak	{"Job_ch_41.docx": [497]}
-steak	{"Job_ch_41.docx": [497]}
 dippi	{"Mark_ch_14.docx": [2706], "John_ch_13.docx": [3138]}

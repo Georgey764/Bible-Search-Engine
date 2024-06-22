@@ -1,4 +1,2 @@
 
-selon	{"1 Kings_ch_11.docx": [4177], "1 Kings_ch_12.docx": [2206, 2206, 2206], "1 Kings_ch_15.docx": [4397, 4397, 4397], "Nehemiah_ch_11.docx": [790, 790, 790]}
-selon	{"1 Kings_ch_11.docx": [4177], "1 Kings_ch_12.docx": [2206, 2206], "1 Kings_ch_15.docx": [4397, 4397], "Nehemiah_ch_11.docx": [790, 790]}
 selon	{"1 Kings_ch_11.docx": [4177], "1 Kings_ch_12.docx": [2206], "1 Kings_ch_15.docx": [4397], "Nehemiah_ch_11.docx": [790]}

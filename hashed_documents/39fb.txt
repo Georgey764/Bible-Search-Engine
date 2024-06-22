@@ -1,4 +1,2 @@
 
-helpin	{"Isaiah_ch_31.docx": [656], "John_ch_9.docx": [4379, 4379], "Acts_ch_9.docx": [6112, 6112], "Romans_ch_8.docx": [3415, 3415]}
-helpin	{"Isaiah_ch_31.docx": [656], "John_ch_9.docx": [4379], "Acts_ch_9.docx": [6112], "Romans_ch_8.docx": [3415]}
-helpin	{"Isaiah_ch_31.docx": [656], "John_ch_9.docx": [4379], "Acts_ch_9.docx": [6112], "Romans_ch_8.docx": [3415]}
+helpin	{"Song of Solomon_ch_8.docx": [3045], "Isaiah_ch_31.docx": [656], "Isaiah_ch_66.docx": [6191], "Lamentations_ch_5.docx": [3221], "Daniel_ch_12.docx": [4886], "Hosea_ch_14.docx": [2441], "Joel_ch_3.docx": [5557], "Amos_ch_9.docx": [4677], "Obadiah_ch_1.docx": [5187], "Jonah_ch_4.docx": [2540], "Micah_ch_7.docx": [5409], "Nahum_ch_3.docx": [4617], "Habakkuk_ch_3.docx": [4257], "Zephaniah_ch_3.docx": [5347], "Haggai_ch_2.docx": [5664], "Zechariah_ch_14.docx": [5514], "John_ch_9.docx": [4379], "Acts_ch_9.docx": [6112], "Romans_ch_8.docx": [3415], "3 John_ch_1.docx": [421]}

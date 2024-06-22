@@ -1,5 +1,2 @@
 
 sannis	{"Genesis_ch_46.docx": [1882]}
-29‘an	{"Genesis_ch_31.docx": [3583], "Leviticus_ch_13.docx": [4143], "Leviticus_ch_14.docx": [4561], "Leviticus_ch_23.docx": [4109], "Jeremiah_ch_23.docx": [5235], "Jeremiah_ch_44.docx": [6308], "Ezekiel_ch_22.docx": [4397], "Ezekiel_ch_32.docx": [5041], "Matthew_ch_13.docx": [3771]}
-sannis	{"Genesis_ch_46.docx": [1882]}
-sannis	{"Genesis_ch_46.docx": [1882]}

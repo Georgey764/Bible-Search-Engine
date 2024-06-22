@@ -1,4 +1,2 @@
 
-distin	{"Ezra_ch_3.docx": [2935], "Isaiah_ch_45.docx": [3290, 3290, 3290], "Romans_ch_2.docx": [1331, 1331], "1 Corinthians_ch_12.docx": [839, 839], "1 Corinthians_ch_14.docx": [1013, 1013], "Colossians_ch_3.docx": [1092, 1092]}
-distin	{"Ezra_ch_3.docx": [2935], "Isaiah_ch_45.docx": [3290, 3290], "Romans_ch_2.docx": [1331], "1 Corinthians_ch_12.docx": [839], "1 Corinthians_ch_14.docx": [1013], "Colossians_ch_3.docx": [1092]}
 distin	{"Ezra_ch_3.docx": [2935], "Isaiah_ch_45.docx": [3290], "Romans_ch_2.docx": [1331], "1 Corinthians_ch_12.docx": [839], "1 Corinthians_ch_14.docx": [1013], "Colossians_ch_3.docx": [1092]}

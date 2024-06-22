@@ -1,4 +1,2 @@
 
-casts	{"Proverbs_ch_18.docx": [947], "Matthew_ch_12.docx": [2928, 2928, 2928], "1 John_ch_4.docx": [2262, 2262]}
-casts	{"Proverbs_ch_18.docx": [947], "Matthew_ch_12.docx": [2928, 2928], "1 John_ch_4.docx": [2262]}
 casts	{"Proverbs_ch_18.docx": [947], "Matthew_ch_12.docx": [2928], "1 John_ch_4.docx": [2262]}

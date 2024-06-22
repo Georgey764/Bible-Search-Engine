@@ -1,5 +1,2 @@
 
-wret	{"Hosea_ch_7.docx": [2529]}
-30ne	{"2 Kings_ch_10.docx": [5593]}
-wret	{"Hosea_ch_7.docx": [2529]}
-wret	{"Hosea_ch_7.docx": [2529]}
+wret	{"Hosea_ch_7.docx": [2529], "Nahum_ch_3.docx": [1157]}

@@ -1,6 +1,3 @@
 
-greedy	{"Numbers_ch_11.docx": [5352, 5360, 5474, 5360, 5474, 5360, 5474], "Numbers_ch_33.docx": [1587, 1659, 1587, 1659, 1587, 1659], "Deuteronomy_ch_9.docx": [3685, 3685, 3685], "1 Corinthians_ch_5.docx": [1214, 1567, 1214, 1567], "1 Corinthians_ch_6.docx": [1195, 1195], "Ephesians_ch_5.docx": [534, 534], "Titus_ch_1.docx": [986, 986]}
-fifte	{"Galatians_ch_1.docx": [2311]}
-greedy	{"Numbers_ch_11.docx": [5352, 5360, 5474, 5360, 5474], "Numbers_ch_33.docx": [1587, 1659, 1587, 1659], "Deuteronomy_ch_9.docx": [3685, 3685], "1 Corinthians_ch_5.docx": [1214, 1567], "1 Corinthians_ch_6.docx": [1195], "Ephesians_ch_5.docx": [534], "Titus_ch_1.docx": [986]}
-greedy	{"Numbers_ch_11.docx": [5352, 5360, 5474], "Numbers_ch_33.docx": [1587, 1659], "Deuteronomy_ch_9.docx": [3685], "1 Corinthians_ch_5.docx": [1214, 1567], "1 Corinthians_ch_6.docx": [1195], "Ephesians_ch_5.docx": [534], "Titus_ch_1.docx": [986]}
+greedy	{"Numbers_ch_11.docx": [5352, 5360, 5474], "Numbers_ch_33.docx": [1587, 1659], "Deuteronomy_ch_9.docx": [3685], "1 Corinthians_ch_5.docx": [1214, 1567], "1 Corinthians_ch_6.docx": [1195], "Ephesians_ch_5.docx": [534], "Titus_ch_1.docx": [986], "James_ch_5.docx": [530, 546]}
 fifte	{"Galatians_ch_1.docx": [2311]}

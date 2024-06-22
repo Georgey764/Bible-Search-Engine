@@ -1,2 +1,0 @@
-
-37b	{"Judges_ch_9.docx": [6862], "2 Kings_ch_23.docx": [8098], "1 Chronicles_ch_7.docx": [4343], "Jeremiah_ch_32.docx": [6467], "Jeremiah_ch_49.docx": [6458], "Matthew_ch_10.docx": [4564]}

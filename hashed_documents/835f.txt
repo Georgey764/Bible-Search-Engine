@@ -1,4 +1,3 @@
 
-vine;	{"Song of Solomon_ch_7.docx": [1084]}
-vine;	{"Song of Solomon_ch_7.docx": [1084]}
+sici	{"Joshua_ch_24.docx": [5218, 5231]}
 vine;	{"Song of Solomon_ch_7.docx": [1084]}

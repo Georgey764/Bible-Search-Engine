@@ -1,5 +1,2 @@
 
 ten-t	{"Daniel_ch_1.docx": [2805]}
-12repa	{"Psalms_ch_79.docx": [1321]}
-ten-t	{"Daniel_ch_1.docx": [2805]}
-ten-t	{"Daniel_ch_1.docx": [2805]}

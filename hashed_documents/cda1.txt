@@ -1,3 +1,0 @@
-
-20it	{"Genesis_ch_7.docx": [2345], "Joshua_ch_4.docx": [2690], "2 Samuel_ch_3.docx": [2753]}
-8leav	{"Daniel_ch_10.docx": [861]}

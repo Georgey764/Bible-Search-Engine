@@ -1,4 +1,2 @@
 
-plum	{"Job_ch_29.docx": [335], "Amos_ch_7.docx": [1090, 1280, 1391, 3486, 1090, 1280, 1391, 3486, 1090, 1280, 1391, 3486], "Zechariah_ch_4.docx": [1346, 1346, 1346]}
-plum	{"Job_ch_29.docx": [335], "Amos_ch_7.docx": [1090, 1280, 1391, 3486, 1090, 1280, 1391, 3486], "Zechariah_ch_4.docx": [1346, 1346]}
 plum	{"Job_ch_29.docx": [335], "Amos_ch_7.docx": [1090, 1280, 1391, 3486], "Zechariah_ch_4.docx": [1346]}

@@ -1,4 +1,2 @@
 
-indiff	{"Psalms_ch_119.docx": [2159], "Jeremiah_ch_48.docx": [1241, 1241, 1241]}
-indiff	{"Psalms_ch_119.docx": [2159], "Jeremiah_ch_48.docx": [1241, 1241]}
 indiff	{"Psalms_ch_119.docx": [2159], "Jeremiah_ch_48.docx": [1241]}

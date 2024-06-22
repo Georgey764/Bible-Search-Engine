@@ -1,5 +1,2 @@
 
-nailed	{"Judges_ch_16.docx": [2276, 2399, 2399, 2399], "Isaiah_ch_8.docx": [1293, 1402, 1497, 1293, 1402, 1497, 1293, 1402, 1497], "Matthew_ch_27.docx": [4166, 4166], "Acts_ch_2.docx": [8716, 8716], "Colossians_ch_2.docx": [2528, 2528]}
-nailed	{"Judges_ch_16.docx": [2276, 2399, 2399], "Isaiah_ch_8.docx": [1293, 1402, 1497, 1293, 1402, 1497], "Matthew_ch_27.docx": [4166], "Acts_ch_2.docx": [8716], "Colossians_ch_2.docx": [2528]}
-33japh	{"1 Chronicles_ch_7.docx": [4029]}
-nailed	{"Judges_ch_16.docx": [2276, 2399], "Isaiah_ch_8.docx": [1293, 1402, 1497], "Matthew_ch_27.docx": [4166], "Acts_ch_2.docx": [8716], "Colossians_ch_2.docx": [2528]}
+nailed	{"Judges_ch_16.docx": [2276, 2399], "1 Samuel_ch_31.docx": [1474], "Isaiah_ch_8.docx": [1293, 1402, 1497], "Matthew_ch_27.docx": [4166], "Acts_ch_2.docx": [8716], "Colossians_ch_2.docx": [2528]}

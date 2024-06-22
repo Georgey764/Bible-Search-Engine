@@ -1,4 +1,2 @@
 
-presi	{"Deuteronomy_ch_17.docx": [1894], "Luke_ch_8.docx": [6194, 7264, 6194, 7264], "Acts_ch_13.docx": [3256, 3256], "Acts_ch_18.docx": [3060, 3080, 3101, 4915, 3060, 3080, 3101, 4915]}
-presi	{"Deuteronomy_ch_17.docx": [1894], "Luke_ch_8.docx": [6194, 7264], "Acts_ch_13.docx": [3256], "Acts_ch_18.docx": [3060, 3080, 3101, 4915]}
 presi	{"Deuteronomy_ch_17.docx": [1894], "Luke_ch_8.docx": [6194, 7264], "Acts_ch_13.docx": [3256], "Acts_ch_18.docx": [3060, 3080, 3101, 4915]}

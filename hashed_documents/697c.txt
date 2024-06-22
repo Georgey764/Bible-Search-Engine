@@ -1,5 +1,2 @@
 
  seln	{"1 Chronicles_ch_6.docx": [4707]}
- seln	{"1 Chronicles_ch_6.docx": [4707]}
-16jeh	{"Psalms_ch_10.docx": [1737]}
- seln	{"1 Chronicles_ch_6.docx": [4707]}

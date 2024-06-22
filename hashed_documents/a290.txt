@@ -1,4 +1,2 @@
 
-chases	{"1 Samuel_ch_25.docx": [4454], "Hosea_ch_2.docx": [1106, 1106, 1106], "Nahum_ch_1.docx": [1860, 1860, 1860]}
-chases	{"1 Samuel_ch_25.docx": [4454], "Hosea_ch_2.docx": [1106, 1106], "Nahum_ch_1.docx": [1860, 1860]}
 chases	{"1 Samuel_ch_25.docx": [4454], "Hosea_ch_2.docx": [1106], "Nahum_ch_1.docx": [1860]}

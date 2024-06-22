@@ -1,4 +1,2 @@
 
-patria	{"1 Chronicles_ch_27.docx": [2989], "2 Chronicles_ch_19.docx": [1084, 1084, 1084], "Acts_ch_2.docx": [9690, 9690]}
-patria	{"1 Chronicles_ch_27.docx": [2989], "2 Chronicles_ch_19.docx": [1084, 1084], "Acts_ch_2.docx": [9690]}
 patria	{"1 Chronicles_ch_27.docx": [2989], "2 Chronicles_ch_19.docx": [1084], "Acts_ch_2.docx": [9690]}

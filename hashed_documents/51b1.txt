@@ -1,4 +1,2 @@
 
-burrow	{"1 Samuel_ch_14.docx": [1756], "Job_ch_30.docx": [761, 761, 761], "Isaiah_ch_2.docx": [2393, 2393, 2393], "Isaiah_ch_7.docx": [2695, 2695, 2695], "Isaiah_ch_11.docx": [1002, 1002, 1002], "Matthew_ch_8.docx": [2562, 2562, 2562], "Luke_ch_9.docx": [7966, 7966]}
-burrow	{"1 Samuel_ch_14.docx": [1756], "Job_ch_30.docx": [761, 761], "Isaiah_ch_2.docx": [2393, 2393], "Isaiah_ch_7.docx": [2695, 2695], "Isaiah_ch_11.docx": [1002, 1002], "Matthew_ch_8.docx": [2562, 2562], "Luke_ch_9.docx": [7966]}
 burrow	{"1 Samuel_ch_14.docx": [1756], "Job_ch_30.docx": [761], "Isaiah_ch_2.docx": [2393], "Isaiah_ch_7.docx": [2695], "Isaiah_ch_11.docx": [1002], "Matthew_ch_8.docx": [2562], "Luke_ch_9.docx": [7966]}

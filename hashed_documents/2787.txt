@@ -1,5 +1,2 @@
 
-left-	{"2 Kings_ch_19.docx": [5328], "2 Corinthians_ch_6.docx": [842, 842]}
-6‘spe	{"Numbers_ch_5.docx": [532]}
-left-	{"2 Kings_ch_19.docx": [5328], "2 Corinthians_ch_6.docx": [842]}
 left-	{"2 Kings_ch_19.docx": [5328], "2 Corinthians_ch_6.docx": [842]}

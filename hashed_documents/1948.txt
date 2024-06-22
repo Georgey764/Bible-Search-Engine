@@ -1,4 +1,2 @@
 
-sided	{"1 Samuel_ch_22.docx": [2740]}
-sided	{"1 Samuel_ch_22.docx": [2740]}
-sided	{"1 Samuel_ch_22.docx": [2740]}
+sided	{"1 Samuel_ch_22.docx": [2740], "2 Kings_ch_25.docx": [1449]}

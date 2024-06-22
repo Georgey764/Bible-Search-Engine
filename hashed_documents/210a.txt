@@ -1,5 +1,2 @@
 
 volume	{"Ecclesiastes_ch_1.docx": [2267]}
-19‘i	{"Genesis_ch_42.docx": [2193], "Joshua_ch_22.docx": [3057], "1 Chronicles_ch_11.docx": [3498], "Job_ch_31.docx": [1711], "Isaiah_ch_1.docx": [3197], "Lamentations_ch_1.docx": [4694], "Ezekiel_ch_3.docx": [2997], "Hosea_ch_2.docx": [3308], "Amos_ch_5.docx": [3496], "Matthew_ch_16.docx": [2423]}
-volume	{"Ecclesiastes_ch_1.docx": [2267]}
-volume	{"Ecclesiastes_ch_1.docx": [2267]}

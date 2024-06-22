@@ -1,5 +1,2 @@
 
-ouriel	{"1 Chronicles_ch_15.docx": [596, 1078, 1078], "2 Chronicles_ch_13.docx": [40, 40, 40]}
-74,	{"Numbers_ch_1.docx": [2414], "Numbers_ch_2.docx": [511]}
-ouriel	{"1 Chronicles_ch_15.docx": [1078, 1078], "2 Chronicles_ch_13.docx": [40, 40]}
 ouriel	{"1 Chronicles_ch_15.docx": [596, 1078], "2 Chronicles_ch_13.docx": [40]}

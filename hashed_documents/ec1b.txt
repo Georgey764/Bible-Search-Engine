@@ -1,0 +1,2 @@
+
+pause	{"Habakkuk_ch_3.docx": [726, 1847, 2647]}

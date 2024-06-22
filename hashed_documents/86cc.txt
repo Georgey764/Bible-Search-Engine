@@ -1,13 +1,5 @@
 
-dowry	{"Exodus_ch_22.docx": [2547], "Joshua_ch_16.docx": [1351, 1351, 1351], "1 Samuel_ch_18.docx": [4012, 4012, 4012], "1 Kings_ch_9.docx": [2672, 2672, 2672]}
-ivor	{"1 Kings_ch_10.docx": [2827], "2 Chronicles_ch_9.docx": [2648, 3297, 2648, 3297, 2648, 3297], "Psalms_ch_45.docx": [1517, 1517, 1517], "Song of Solomon_ch_5.docx": [2435, 2435, 2435], "Song of Solomon_ch_7.docx": [452, 452, 452], "Ezekiel_ch_27.docx": [600, 2128, 600, 2128, 600, 2128], "Amos_ch_3.docx": [3322, 3322, 3322], "Amos_ch_6.docx": [1276, 1276, 1276], "Revelation_ch_18.docx": [2004, 2004]}
-manda	{"Ezra_ch_8.docx": [5324]}
-impl	{"Ezekiel_ch_9.docx": [132], "Hebrews_ch_12.docx": [5035, 5035]}
-dowry	{"Exodus_ch_22.docx": [2547], "Joshua_ch_16.docx": [1351, 1351], "1 Samuel_ch_18.docx": [4012, 4012], "1 Kings_ch_9.docx": [2672, 2672]}
-ivor	{"1 Kings_ch_10.docx": [2827], "2 Chronicles_ch_9.docx": [2648, 3297, 2648, 3297], "Psalms_ch_45.docx": [1517, 1517], "Song of Solomon_ch_5.docx": [2435, 2435], "Song of Solomon_ch_7.docx": [452, 452], "Ezekiel_ch_27.docx": [600, 2128, 600, 2128], "Amos_ch_3.docx": [3322, 3322], "Amos_ch_6.docx": [1276, 1276], "Revelation_ch_18.docx": [2004]}
-manda	{"Ezra_ch_8.docx": [5324]}
-impl	{"Ezekiel_ch_9.docx": [132], "Hebrews_ch_12.docx": [5035]}
 dowry	{"Exodus_ch_22.docx": [2547], "Joshua_ch_16.docx": [1351], "1 Samuel_ch_18.docx": [4012], "1 Kings_ch_9.docx": [2672]}
-ivor	{"1 Kings_ch_10.docx": [2827], "2 Chronicles_ch_9.docx": [2648, 3297], "Psalms_ch_45.docx": [1517], "Song of Solomon_ch_5.docx": [2435], "Song of Solomon_ch_7.docx": [452], "Ezekiel_ch_27.docx": [600, 2128], "Amos_ch_3.docx": [3322], "Amos_ch_6.docx": [1276], "Revelation_ch_18.docx": [2004]}
+ivor	{"1 Kings_ch_10.docx": [2827], "1 Kings_ch_22.docx": [6437], "2 Chronicles_ch_9.docx": [2648, 3297], "Psalms_ch_45.docx": [1517], "Song of Solomon_ch_5.docx": [2435], "Song of Solomon_ch_7.docx": [452], "Ezekiel_ch_27.docx": [600, 2128], "Amos_ch_3.docx": [3322], "Amos_ch_6.docx": [1276], "Revelation_ch_18.docx": [2004]}
 manda	{"Ezra_ch_8.docx": [5324]}
-impl	{"Ezekiel_ch_9.docx": [132], "Hebrews_ch_12.docx": [5035]}
+impl	{"Ezekiel_ch_9.docx": [132], "Ezekiel_ch_48.docx": [7213], "Daniel_ch_12.docx": [3572], "Hebrews_ch_12.docx": [5035]}

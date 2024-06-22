@@ -1,4 +1,2 @@
 
 case;	{"2 Samuel_ch_15.docx": [465]}
-case;	{"2 Samuel_ch_15.docx": [465]}
-case;	{"2 Samuel_ch_15.docx": [465]}

@@ -1,0 +1,2 @@
+
+splits	{"Ezekiel_ch_48.docx": [120]}

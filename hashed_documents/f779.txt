@@ -1,4 +1,2 @@
 
-head-	{"2 Kings_ch_10.docx": [4160], "Daniel_ch_2.docx": [2191, 2191, 2191]}
-head-	{"2 Kings_ch_10.docx": [4160], "Daniel_ch_2.docx": [2191, 2191]}
 head-	{"2 Kings_ch_10.docx": [4160], "Daniel_ch_2.docx": [2191]}

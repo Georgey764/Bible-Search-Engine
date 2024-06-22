@@ -1,4 +1,2 @@
 
-heaps	{"2 Chronicles_ch_31.docx": [1238, 1240, 1503, 1717, 1240, 1503, 1717, 1240, 1503, 1717], "Nehemiah_ch_4.docx": [505, 505, 505], "Job_ch_5.docx": [2390, 2390, 2390], "Job_ch_21.docx": [2858, 2858, 2858], "Proverbs_ch_26.docx": [510, 510, 510], "Hosea_ch_12.docx": [2064, 2064, 2064], "Zephaniah_ch_2.docx": [3358, 3358, 3358]}
-heaps	{"2 Chronicles_ch_31.docx": [1238, 1240, 1503, 1717, 1240, 1503, 1717], "Nehemiah_ch_4.docx": [505, 505], "Job_ch_5.docx": [2390, 2390], "Job_ch_21.docx": [2858, 2858], "Proverbs_ch_26.docx": [510, 510], "Hosea_ch_12.docx": [2064, 2064], "Zephaniah_ch_2.docx": [3358, 3358]}
 heaps	{"2 Chronicles_ch_31.docx": [1238, 1240, 1503, 1717], "Nehemiah_ch_4.docx": [505], "Job_ch_5.docx": [2390], "Job_ch_21.docx": [2858], "Proverbs_ch_26.docx": [510], "Hosea_ch_12.docx": [2064], "Zephaniah_ch_2.docx": [3358]}

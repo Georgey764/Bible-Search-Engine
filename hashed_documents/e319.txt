@@ -1,4 +1,2 @@
 
-raphaj	{"1 Chronicles_ch_9.docx": [5849, 5862, 5862, 5862]}
-raphaj	{"1 Chronicles_ch_9.docx": [5849, 5862, 5862]}
 raphaj	{"1 Chronicles_ch_9.docx": [5849, 5862]}

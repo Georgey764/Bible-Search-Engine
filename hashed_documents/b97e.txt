@@ -1,4 +1,2 @@
 
-excre	{"Deuteronomy_ch_23.docx": [1328], "Isaiah_ch_36.docx": [2119, 2119, 2119]}
-excre	{"Deuteronomy_ch_23.docx": [1328], "Isaiah_ch_36.docx": [2119, 2119]}
 excre	{"Deuteronomy_ch_23.docx": [1328], "Isaiah_ch_36.docx": [2119]}

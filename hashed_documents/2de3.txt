@@ -1,4 +1,2 @@
 
-plowed	{"1 Samuel_ch_22.docx": [790], "Jeremiah_ch_26.docx": [3179, 3179, 3179], "Micah_ch_3.docx": [2123, 2123, 2123]}
-plowed	{"1 Samuel_ch_22.docx": [790], "Jeremiah_ch_26.docx": [3179, 3179], "Micah_ch_3.docx": [2123, 2123]}
-plowed	{"1 Samuel_ch_22.docx": [790], "Jeremiah_ch_26.docx": [3179], "Micah_ch_3.docx": [2123]}
+plowed	{"1 Samuel_ch_22.docx": [790], "1 Samuel_ch_31.docx": [1884], "Jeremiah_ch_26.docx": [3179], "Micah_ch_3.docx": [2123]}

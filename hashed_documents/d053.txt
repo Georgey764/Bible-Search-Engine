@@ -1,5 +1,2 @@
 
-partly	{"Daniel_ch_2.docx": [7035, 7039, 7181, 7185, 7039, 7181, 7185, 7039, 7181, 7185], "1 Corinthians_ch_11.docx": [1976, 1976]}
-20trea	{"Proverbs_ch_21.docx": [1961]}
-partly	{"Daniel_ch_2.docx": [7035, 7039, 7181, 7185, 7039, 7181, 7185], "1 Corinthians_ch_11.docx": [1976]}
 partly	{"Daniel_ch_2.docx": [7035, 7039, 7181, 7185], "1 Corinthians_ch_11.docx": [1976]}

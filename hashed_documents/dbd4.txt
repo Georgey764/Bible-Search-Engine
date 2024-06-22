@@ -1,2 +1,0 @@
-
-10al	{"Numbers_ch_5.docx": [1117], "Judges_ch_2.docx": [2950], "Psalms_ch_9.docx": [927], "Psalms_ch_97.docx": [904], "Psalms_ch_148.docx": [914], "Proverbs_ch_16.docx": [938], "Isaiah_ch_59.docx": [1510], "Daniel_ch_7.docx": [1646]}

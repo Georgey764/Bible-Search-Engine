@@ -1,4 +1,2 @@
 
-asedot	{"Deuteronomy_ch_2.docx": [2774], "Deuteronomy_ch_3.docx": [2380, 2380, 2380], "Joshua_ch_15.docx": [5280, 5280, 5280]}
-asedot	{"Deuteronomy_ch_2.docx": [2774], "Deuteronomy_ch_3.docx": [2380, 2380], "Joshua_ch_15.docx": [5280, 5280]}
 asedot	{"Deuteronomy_ch_2.docx": [2774], "Deuteronomy_ch_3.docx": [2380], "Joshua_ch_15.docx": [5280]}

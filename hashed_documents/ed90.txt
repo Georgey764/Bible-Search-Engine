@@ -1,2 +1,0 @@
-
-19as	{"Genesis_ch_31.docx": [2278], "Exodus_ch_35.docx": [1601], "Numbers_ch_1.docx": [1591], "Job_ch_10.docx": [1847], "Proverbs_ch_27.docx": [1723], "Jeremiah_ch_25.docx": [2987], "Ezekiel_ch_1.docx": [2512]}

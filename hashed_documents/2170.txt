@@ -1,3 +1,2 @@
 
-rumors	{"Acts_ch_21.docx": [7020]}
-rumors	{"Acts_ch_21.docx": [7020]}
+rumors	{"Acts_ch_21.docx": [7020], "3 John_ch_1.docx": [900]}

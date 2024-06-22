@@ -1,8 +1,3 @@
 
 donn	{"Ezra_ch_3.docx": [2151]}
-entwin	{"Job_ch_10.docx": [1060], "Job_ch_40.docx": [3081, 3081, 3081]}
-69c	{"Ezra_ch_2.docx": [3389]}
-donn	{"Ezra_ch_3.docx": [2151]}
-entwin	{"Job_ch_10.docx": [1060], "Job_ch_40.docx": [3081, 3081]}
-donn	{"Ezra_ch_3.docx": [2151]}
 entwin	{"Job_ch_10.docx": [1060], "Job_ch_40.docx": [3081]}

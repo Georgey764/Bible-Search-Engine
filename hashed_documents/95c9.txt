@@ -1,4 +1,2 @@
 
-ming	{"Hosea_ch_4.docx": [315]}
-ming	{"Hosea_ch_4.docx": [315]}
-ming	{"Hosea_ch_4.docx": [315]}
+ming	{"Hosea_ch_4.docx": [315], "2 Thessalonians_ch_3.docx": [2104]}

@@ -1,4 +1,2 @@
 
-stou	{"Job_ch_29.docx": [671], "Isaiah_ch_34.docx": [962, 962]}
-stou	{"Isaiah_ch_34.docx": [962, 962]}
 stou	{"Job_ch_29.docx": [671], "Isaiah_ch_34.docx": [962]}

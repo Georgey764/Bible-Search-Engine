@@ -1,4 +1,2 @@
 
-charme	{"Psalms_ch_58.docx": [505], "Jeremiah_ch_8.docx": [3372, 3372, 3372]}
-charme	{"Psalms_ch_58.docx": [505], "Jeremiah_ch_8.docx": [3372, 3372]}
 charme	{"Psalms_ch_58.docx": [505], "Jeremiah_ch_8.docx": [3372]}

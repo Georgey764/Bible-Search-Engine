@@ -1,4 +1,3 @@
 
-litres	{"Ezekiel_ch_45.docx": [2653]}
-litres	{"Ezekiel_ch_45.docx": [2653]}
+co-r	{"2 Samuel_ch_24.docx": [5627], "1 Kings_ch_22.docx": [9424]}
 litres	{"Ezekiel_ch_45.docx": [2653]}

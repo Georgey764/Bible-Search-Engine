@@ -1,5 +1,2 @@
 
 fires!	{"Deuteronomy_ch_12.docx": [5634]}
-30on	{"Numbers_ch_7.docx": [3581]}
-fires!	{"Deuteronomy_ch_12.docx": [5634]}
-fires!	{"Deuteronomy_ch_12.docx": [5634]}

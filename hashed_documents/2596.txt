@@ -1,5 +1,2 @@
 
-– but	{"1 Timothy_ch_4.docx": [1120], "Hebrews_ch_4.docx": [191, 216, 191, 216]}
-48‘and	{"Exodus_ch_12.docx": [7195], "1 Kings_ch_8.docx": [7694]}
-21‘{lo	{"Deuteronomy_ch_1.docx": [2922], "2 Kings_ch_18.docx": [3356], "Jeremiah_ch_16.docx": [3760]}
-– but	{"1 Timothy_ch_4.docx": [1120], "Hebrews_ch_4.docx": [191, 216]}
+– but	{"Galatians_ch_6.docx": [1076], "1 Timothy_ch_4.docx": [1120], "Hebrews_ch_4.docx": [191, 216]}

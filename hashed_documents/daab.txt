@@ -1,3 +1,2 @@
 
-glowed	{"Revelation_ch_1.docx": [2521], "Revelation_ch_18.docx": [27, 27]}
 glowed	{"Revelation_ch_1.docx": [2521], "Revelation_ch_18.docx": [27]}

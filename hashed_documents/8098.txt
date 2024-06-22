@@ -1,5 +1,2 @@
 
 chelub	{"1 Chronicles_ch_2.docx": [908]}
-chelub	{"1 Chronicles_ch_2.docx": [908]}
-14to	{"Psalms_ch_102.docx": [1200], "Isaiah_ch_52.docx": [2279]}
-chelub	{"1 Chronicles_ch_2.docx": [908]}

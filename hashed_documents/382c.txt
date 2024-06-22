@@ -1,5 +1,2 @@
 
 moneyl	{"2 Kings_ch_4.docx": [133]}
-15da	{"1 Kings_ch_11.docx": [1996]}
-moneyl	{"2 Kings_ch_4.docx": [133]}
-moneyl	{"2 Kings_ch_4.docx": [133]}

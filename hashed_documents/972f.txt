@@ -1,5 +1,2 @@
 
 untest	{"Jeremiah_ch_15.docx": [3450]}
-38alon	{"Exodus_ch_12.docx": [5773], "1 Chronicles_ch_16.docx": [3937]}
-untest	{"Jeremiah_ch_15.docx": [3450]}
-untest	{"Jeremiah_ch_15.docx": [3450]}

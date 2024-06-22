@@ -1,4 +1,2 @@
 
-canana	{"Matthew_ch_10.docx": [523], "Mark_ch_3.docx": [2254, 2254]}
-canana	{"Matthew_ch_10.docx": [523], "Mark_ch_3.docx": [2254]}
 canana	{"Matthew_ch_10.docx": [523], "Mark_ch_3.docx": [2254]}

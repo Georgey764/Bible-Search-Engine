@@ -1,3 +1,0 @@
-
-25plea	{"1 Samuel_ch_25.docx": [3587], "2 Chronicles_ch_6.docx": [3773]}
-4,600	{"1 Chronicles_ch_12.docx": [3479]}

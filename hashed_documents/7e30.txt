@@ -1,5 +1,2 @@
 
 wife’	{"Ruth_ch_1.docx": [50]}
-wife’	{"Ruth_ch_1.docx": [50]}
-146t	{"Psalms_ch_119.docx": [12314]}
-wife’	{"Ruth_ch_1.docx": [50]}

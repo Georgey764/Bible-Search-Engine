@@ -1,4 +1,2 @@
 
-pants	{"Ezekiel_ch_44.docx": [3606], "Daniel_ch_3.docx": [3452, 3452, 3452]}
-pants	{"Ezekiel_ch_44.docx": [3606], "Daniel_ch_3.docx": [3452, 3452]}
 pants	{"Ezekiel_ch_44.docx": [3606], "Daniel_ch_3.docx": [3452]}

@@ -2,9 +2,3 @@
 na	{"1 Chronicles_ch_8.docx": [1965], "1 Chronicles_ch_9.docx": [5230]}
 na	{"1 Chronicles_ch_11.docx": [5865]}
 na	{"1 Chronicles_ch_11.docx": [5977]}
-na	{"1 Chronicles_ch_8.docx": [1965], "1 Chronicles_ch_9.docx": [5230]}
-na	{"1 Chronicles_ch_11.docx": [5865]}
-na	{"1 Chronicles_ch_11.docx": [5977]}
-na	{"1 Chronicles_ch_8.docx": [1965], "1 Chronicles_ch_9.docx": [5230]}
-na	{"1 Chronicles_ch_11.docx": [5865]}
-na	{"1 Chronicles_ch_11.docx": [5977]}

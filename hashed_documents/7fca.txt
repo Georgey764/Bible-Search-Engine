@@ -1,3 +1,2 @@
 
-seared	{"1 Timothy_ch_4.docx": [43], "Revelation_ch_16.docx": [1149, 1149]}
 seared	{"1 Timothy_ch_4.docx": [43], "Revelation_ch_16.docx": [1149]}

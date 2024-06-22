@@ -1,2 +1,0 @@
-
-7in	{"Judges_ch_5.docx": [942], "2 Samuel_ch_7.docx": [709], "1 Chronicles_ch_23.docx": [782], "1 Chronicles_ch_25.docx": [1211], "1 Chronicles_ch_27.docx": [915], "Esther_ch_9.docx": [481], "Psalms_ch_86.docx": [510], "Psalms_ch_114.docx": [605], "Song of Solomon_ch_7.docx": [883]}

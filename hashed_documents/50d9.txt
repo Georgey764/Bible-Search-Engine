@@ -1,4 +1,2 @@
 
-day’	{"Numbers_ch_11.docx": [4811], "Deuteronomy_ch_1.docx": [41, 41, 41], "1 Kings_ch_19.docx": [424, 424, 424], "Luke_ch_2.docx": [8108, 8108]}
-day’	{"Numbers_ch_11.docx": [4811], "Deuteronomy_ch_1.docx": [41, 41], "1 Kings_ch_19.docx": [424, 424], "Luke_ch_2.docx": [8108]}
 day’	{"Numbers_ch_11.docx": [4811], "Deuteronomy_ch_1.docx": [41], "1 Kings_ch_19.docx": [424], "Luke_ch_2.docx": [8108]}

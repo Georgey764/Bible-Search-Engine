@@ -1,4 +1,2 @@
 
-arach	{"2 Samuel_ch_17.docx": [597, 2076, 2277, 2076, 2277, 2076, 2277], "2 Samuel_ch_23.docx": [1896, 1896, 1896]}
-arach	{"2 Samuel_ch_17.docx": [597, 2076, 2277, 2076, 2277], "2 Samuel_ch_23.docx": [1896, 1896]}
 arach	{"2 Samuel_ch_17.docx": [597, 2076, 2277], "2 Samuel_ch_23.docx": [1896]}

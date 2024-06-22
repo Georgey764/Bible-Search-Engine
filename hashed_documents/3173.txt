@@ -1,4 +1,2 @@
 
-four-f	{"Leviticus_ch_7.docx": [3000], "Leviticus_ch_11.docx": [5611, 5611, 5611], "Job_ch_12.docx": [500, 500, 500], "Job_ch_40.docx": [3383, 3383, 3383], "Job_ch_41.docx": [2203, 2203, 2203], "Isaiah_ch_30.docx": [684, 684, 684], "Isaiah_ch_40.docx": [2443, 2443, 2443], "Acts_ch_10.docx": [1095, 1095], "Acts_ch_11.docx": [967, 967], "Romans_ch_1.docx": [2729, 2729]}
-four-f	{"Leviticus_ch_7.docx": [3000], "Leviticus_ch_11.docx": [5611, 5611], "Job_ch_12.docx": [500, 500], "Job_ch_40.docx": [3383, 3383], "Job_ch_41.docx": [2203, 2203], "Isaiah_ch_30.docx": [684, 684], "Isaiah_ch_40.docx": [2443, 2443], "Acts_ch_10.docx": [1095], "Acts_ch_11.docx": [967], "Romans_ch_1.docx": [2729]}
 four-f	{"Leviticus_ch_7.docx": [3000], "Leviticus_ch_11.docx": [5611], "Job_ch_12.docx": [500], "Job_ch_40.docx": [3383], "Job_ch_41.docx": [2203], "Isaiah_ch_30.docx": [684], "Isaiah_ch_40.docx": [2443], "Acts_ch_10.docx": [1095], "Acts_ch_11.docx": [967], "Romans_ch_1.docx": [2729]}

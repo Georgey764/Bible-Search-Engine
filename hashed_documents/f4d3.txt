@@ -1,5 +1,2 @@
 
-basin	{"Exodus_ch_30.docx": [3572], "Exodus_ch_37.docx": [1789, 1938, 1971, 1789, 1938, 1971, 1789, 1938, 1971], "Leviticus_ch_8.docx": [1006, 1006, 1006], "Numbers_ch_4.docx": [1755, 1755, 1755], "1 Chronicles_ch_28.docx": [3254, 3254, 3254], "2 Chronicles_ch_4.docx": [1893, 1893, 1893], "Zechariah_ch_9.docx": [3391, 3391, 3391]}
-basin	{"Exodus_ch_30.docx": [3572], "Exodus_ch_37.docx": [1789, 1938, 1971, 1789, 1938, 1971], "Leviticus_ch_8.docx": [1006, 1006], "Numbers_ch_4.docx": [1755, 1755], "1 Chronicles_ch_28.docx": [3254, 3254], "2 Chronicles_ch_4.docx": [1893, 1893], "Zechariah_ch_9.docx": [3391, 3391]}
-16‘bec	{"Numbers_ch_14.docx": [2319], "Isaiah_ch_28.docx": [2356]}
-basin	{"Exodus_ch_30.docx": [3572], "Exodus_ch_37.docx": [1789, 1938, 1971], "Leviticus_ch_8.docx": [1006], "Numbers_ch_4.docx": [1755], "1 Chronicles_ch_28.docx": [3254], "2 Chronicles_ch_4.docx": [1893], "Zechariah_ch_9.docx": [3391]}
+basin	{"Exodus_ch_30.docx": [3572], "Exodus_ch_37.docx": [1789, 1938, 1971], "Leviticus_ch_8.docx": [1006], "Numbers_ch_4.docx": [1755], "2 Kings_ch_25.docx": [1675], "1 Chronicles_ch_28.docx": [3254], "2 Chronicles_ch_4.docx": [1893], "Zechariah_ch_9.docx": [3391]}

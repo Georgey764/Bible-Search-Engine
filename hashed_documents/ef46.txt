@@ -1,5 +1,2 @@
 
-rhoob	{"Genesis_ch_36.docx": [3820], "Numbers_ch_13.docx": [1814, 1814, 1814]}
-rhoob	{"Genesis_ch_36.docx": [3820], "Numbers_ch_13.docx": [1814, 1814]}
-46‘fo	{"1 Kings_ch_1.docx": [6480], "Matthew_ch_5.docx": [5684]}
 rhoob	{"Genesis_ch_36.docx": [3820], "Numbers_ch_13.docx": [1814]}

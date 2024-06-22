@@ -1,4 +1,2 @@
 
-rust	{"Matthew_ch_6.docx": [2533, 2561, 2561, 2561]}
-rust	{"Matthew_ch_6.docx": [2533, 2561, 2561]}
 rust	{"Matthew_ch_6.docx": [2533, 2561]}

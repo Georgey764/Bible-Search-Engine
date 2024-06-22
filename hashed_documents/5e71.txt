@@ -1,7 +1,3 @@
 
 sorec	{"Judges_ch_16.docx": [710]}
-excess	{"Matthew_ch_23.docx": [3132], "1 Timothy_ch_3.docx": [1016, 1016], "Titus_ch_2.docx": [92, 92]}
-sorec	{"Judges_ch_16.docx": [710]}
-excess	{"Matthew_ch_23.docx": [3132], "1 Timothy_ch_3.docx": [1016], "Titus_ch_2.docx": [92]}
-sorec	{"Judges_ch_16.docx": [710]}
 excess	{"Matthew_ch_23.docx": [3132], "1 Timothy_ch_3.docx": [1016], "Titus_ch_2.docx": [92]}

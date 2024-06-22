@@ -1,4 +1,2 @@
 
-hashum	{"Ezra_ch_2.docx": [965], "Nehemiah_ch_7.docx": [1817, 1817, 1817], "Nehemiah_ch_8.docx": [1437, 1437, 1437], "Nehemiah_ch_10.docx": [935, 935, 935]}
-hashum	{"Ezra_ch_2.docx": [965], "Nehemiah_ch_7.docx": [1817, 1817], "Nehemiah_ch_8.docx": [1437, 1437], "Nehemiah_ch_10.docx": [935, 935]}
-hashum	{"Ezra_ch_2.docx": [965], "Nehemiah_ch_7.docx": [1817], "Nehemiah_ch_8.docx": [1437], "Nehemiah_ch_10.docx": [935]}
+hashum	{"Ezra_ch_2.docx": [965], "Ezra_ch_10.docx": [5217], "Nehemiah_ch_7.docx": [1817], "Nehemiah_ch_8.docx": [1437], "Nehemiah_ch_10.docx": [935]}

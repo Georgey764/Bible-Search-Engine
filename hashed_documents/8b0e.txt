@@ -1,4 +1,2 @@
 
-–thi	{"2 Kings_ch_19.docx": [517], "Acts_ch_24.docx": [533, 544, 556, 533, 544, 556]}
-–thi	{"2 Kings_ch_19.docx": [517], "Acts_ch_24.docx": [533, 544, 556]}
 –thi	{"2 Kings_ch_19.docx": [517], "Acts_ch_24.docx": [533, 544, 556]}

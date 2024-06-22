@@ -1,4 +1,2 @@
 
-bile	{"Job_ch_16.docx": [1352], "Psalms_ch_69.docx": [2299, 2299, 2299], "Proverbs_ch_5.docx": [315, 315, 315], "Jeremiah_ch_8.docx": [2838, 2838, 2838], "Jeremiah_ch_9.docx": [2799, 2799, 2799], "Lamentations_ch_3.docx": [1179, 1547, 1179, 1547, 1179, 1547]}
-bile	{"Job_ch_16.docx": [1352], "Psalms_ch_69.docx": [2299, 2299], "Proverbs_ch_5.docx": [315, 315], "Jeremiah_ch_8.docx": [2838, 2838], "Jeremiah_ch_9.docx": [2799, 2799], "Lamentations_ch_3.docx": [1179, 1547, 1179, 1547]}
 bile	{"Job_ch_16.docx": [1352], "Psalms_ch_69.docx": [2299], "Proverbs_ch_5.docx": [315], "Jeremiah_ch_8.docx": [2838], "Jeremiah_ch_9.docx": [2799], "Lamentations_ch_3.docx": [1179, 1547]}

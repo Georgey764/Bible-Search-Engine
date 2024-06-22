@@ -1,4 +1,2 @@
 
 skirt	{"Genesis_ch_3.docx": [1000]}
-skirt	{"Genesis_ch_3.docx": [1000]}
-skirt	{"Genesis_ch_3.docx": [1000]}

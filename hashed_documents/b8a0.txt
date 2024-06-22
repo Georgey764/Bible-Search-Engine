@@ -1,2 +1,0 @@
-
-12‘but	{"Leviticus_ch_13.docx": [1784], "Leviticus_ch_22.docx": [1668], "Deuteronomy_ch_20.docx": [1734], "Joshua_ch_23.docx": [1553], "Ezra_ch_5.docx": [1885], "Job_ch_36.docx": [1131], "Song of Solomon_ch_4.docx": [1715], "Isaiah_ch_10.docx": [1511], "Jeremiah_ch_48.docx": [1605], "Ezekiel_ch_19.docx": [1575], "Ezekiel_ch_44.docx": [2377], "Hosea_ch_13.docx": [1594], "Amos_ch_2.docx": [3410], "Micah_ch_2.docx": [1984], "Micah_ch_4.docx": [2572], "Malachi_ch_1.docx": [2547], "Matthew_ch_25.docx": [1143]}

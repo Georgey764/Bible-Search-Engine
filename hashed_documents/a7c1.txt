@@ -1,4 +1,2 @@
 
-axel	{"Exodus_ch_14.docx": [4299], "1 Kings_ch_7.docx": [4355, 5671, 4355, 5671, 4355, 5671]}
-axel	{"Exodus_ch_14.docx": [4299], "1 Kings_ch_7.docx": [4355, 5671, 4355, 5671]}
 axel	{"Exodus_ch_14.docx": [4299], "1 Kings_ch_7.docx": [4355, 5671]}

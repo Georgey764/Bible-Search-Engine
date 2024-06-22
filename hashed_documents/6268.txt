@@ -1,4 +1,2 @@
 
 flatb	{"Genesis_ch_19.docx": [502]}
-flatb	{"Genesis_ch_19.docx": [502]}
-flatb	{"Genesis_ch_19.docx": [502]}

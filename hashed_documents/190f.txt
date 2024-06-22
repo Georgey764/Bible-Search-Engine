@@ -1,4 +1,2 @@
 
-poem	{"Genesis_ch_1.docx": [21], "Genesis_ch_2.docx": [352, 352, 352], "Job_ch_42.docx": [4355]}
-poem	{"Genesis_ch_1.docx": [21], "Genesis_ch_2.docx": [352, 352]}
-poem	{"Genesis_ch_1.docx": [21], "Genesis_ch_2.docx": [352]}
+poem	{"Genesis_ch_1.docx": [21], "Genesis_ch_2.docx": [352], "Esther_ch_10.docx": [510, 564, 1258], "Job_ch_42.docx": [4355], "Proverbs_ch_31.docx": [3098], "Ecclesiastes_ch_12.docx": [2233]}

@@ -1,3 +1,2 @@
 
 cityb	{"Luke_ch_2.docx": [2423]}
-cityb	{"Luke_ch_2.docx": [2423]}

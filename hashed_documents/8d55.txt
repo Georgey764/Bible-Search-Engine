@@ -1,4 +1,2 @@
 
-ill;	{"2 Chronicles_ch_16.docx": [1980], "Malachi_ch_1.docx": [1475, 1475, 1475]}
-ill;	{"2 Chronicles_ch_16.docx": [1980], "Malachi_ch_1.docx": [1475, 1475]}
 ill;	{"2 Chronicles_ch_16.docx": [1980], "Malachi_ch_1.docx": [1475]}

@@ -1,7 +1,3 @@
 
-child!	{"Exodus_ch_2.docx": [818], "1 Samuel_ch_3.docx": [882, 2485, 882, 2485, 882, 2485], "Jeremiah_ch_20.docx": [2969, 2969, 2969], "Luke_ch_2.docx": [8859, 8859]}
-hastil	{"Exodus_ch_10.docx": [2879]}
-child!	{"Exodus_ch_2.docx": [818], "1 Samuel_ch_3.docx": [882, 2485, 882, 2485], "Jeremiah_ch_20.docx": [2969, 2969], "Luke_ch_2.docx": [8859]}
-hastil	{"Exodus_ch_10.docx": [2879]}
 child!	{"Exodus_ch_2.docx": [818], "1 Samuel_ch_3.docx": [882, 2485], "Jeremiah_ch_20.docx": [2969], "Luke_ch_2.docx": [8859]}
 hastil	{"Exodus_ch_10.docx": [2879]}

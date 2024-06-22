@@ -1,4 +1,2 @@
 
-elbow	{"Job_ch_31.docx": [2085], "Ezekiel_ch_13.docx": [3524, 3524, 3524]}
-elbow	{"Job_ch_31.docx": [2085], "Ezekiel_ch_13.docx": [3524, 3524]}
 elbow	{"Job_ch_31.docx": [2085], "Ezekiel_ch_13.docx": [3524]}

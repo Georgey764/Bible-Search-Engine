@@ -1,4 +1,2 @@
 
-fum	{"Jeremiah_ch_43.docx": [1948, 1990, 1990, 1990]}
-fum	{"Jeremiah_ch_43.docx": [1948, 1990, 1990]}
 fum	{"Jeremiah_ch_43.docx": [1948, 1990]}

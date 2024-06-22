@@ -1,4 +1,2 @@
 
-ramp	{"2 Samuel_ch_20.docx": [2765], "Jeremiah_ch_51.docx": [5401, 5401, 5401], "Revelation_ch_14.docx": [1312, 1312]}
-ramp	{"2 Samuel_ch_20.docx": [2765], "Jeremiah_ch_51.docx": [5401, 5401], "Revelation_ch_14.docx": [1312]}
-ramp	{"2 Samuel_ch_20.docx": [2765], "Jeremiah_ch_51.docx": [5401], "Revelation_ch_14.docx": [1312]}
+ramp	{"2 Samuel_ch_20.docx": [2765], "Jeremiah_ch_51.docx": [5401], "Jeremiah_ch_52.docx": [493], "Revelation_ch_14.docx": [1312]}

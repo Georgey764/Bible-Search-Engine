@@ -1,2 +1,0 @@
-
-2‘the	{"Exodus_ch_26.docx": [183], "Leviticus_ch_3.docx": [194], "Leviticus_ch_7.docx": [121], "Deuteronomy_ch_9.docx": [230], "Deuteronomy_ch_18.docx": [199], "Deuteronomy_ch_30.docx": [246], "Ecclesiastes_ch_3.docx": [88], "Ecclesiastes_ch_10.docx": [115], "Isaiah_ch_8.docx": [205], "Isaiah_ch_9.docx": [190], "Isaiah_ch_17.docx": [170], "Isaiah_ch_62.docx": [184], "Ezekiel_ch_45.docx": [245], "Hosea_ch_7.docx": [291], "Micah_ch_2.docx": [197], "Micah_ch_5.docx": [277], "Matthew_ch_22.docx": [69]}

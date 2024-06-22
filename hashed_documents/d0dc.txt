@@ -1,3 +1,0 @@
-
-7mesh	{"Nehemiah_ch_10.docx": [317]}
-25do	{"Psalms_ch_35.docx": [2560], "Proverbs_ch_6.docx": [2584], "Proverbs_ch_7.docx": [2220], "Isaiah_ch_28.docx": [3854]}

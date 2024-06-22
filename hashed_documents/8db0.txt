@@ -1,4 +1,2 @@
 
-convul	{"1 Samuel_ch_21.docx": [2242], "Mark_ch_1.docx": [2924, 2924], "Mark_ch_9.docx": [2610, 3515, 2610, 3515], "Luke_ch_9.docx": [5433, 5824, 5433, 5824]}
-convul	{"1 Samuel_ch_21.docx": [2242], "Mark_ch_1.docx": [2924], "Mark_ch_9.docx": [2610, 3515], "Luke_ch_9.docx": [5433, 5824]}
 convul	{"1 Samuel_ch_21.docx": [2242], "Mark_ch_1.docx": [2924], "Mark_ch_9.docx": [2610, 3515], "Luke_ch_9.docx": [5433, 5824]}

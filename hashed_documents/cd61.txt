@@ -1,6 +1,3 @@
 
 catana	{"Joshua_ch_19.docx": [1257]}
 tus	{"2 Chronicles_ch_9.docx": [2649]}
-tus	{"2 Chronicles_ch_9.docx": [2649]}
-catana	{"Joshua_ch_19.docx": [1257]}
-tus	{"2 Chronicles_ch_9.docx": [2649]}

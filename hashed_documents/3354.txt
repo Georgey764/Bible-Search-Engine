@@ -1,7 +1,3 @@
 
-you?!	{"Exodus_ch_32.docx": [3179], "2 Kings_ch_2.docx": [269, 744, 269, 744, 269, 744]}
-diame	{"2 Chronicles_ch_4.docx": [154]}
-you?!	{"Exodus_ch_32.docx": [3179], "2 Kings_ch_2.docx": [269, 744, 269, 744]}
-diame	{"2 Chronicles_ch_4.docx": [154]}
 you?!	{"Exodus_ch_32.docx": [3179], "2 Kings_ch_2.docx": [269, 744]}
 diame	{"2 Chronicles_ch_4.docx": [154]}

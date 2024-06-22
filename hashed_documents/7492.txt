@@ -1,4 +1,2 @@
 
-neares	{"Exodus_ch_32.docx": [4081], "Numbers_ch_27.docx": [1149, 1149, 1149], "Deuteronomy_ch_21.docx": [320, 320, 320]}
-neares	{"Exodus_ch_32.docx": [4081], "Numbers_ch_27.docx": [1149, 1149], "Deuteronomy_ch_21.docx": [320, 320]}
 neares	{"Exodus_ch_32.docx": [4081], "Numbers_ch_27.docx": [1149], "Deuteronomy_ch_21.docx": [320]}

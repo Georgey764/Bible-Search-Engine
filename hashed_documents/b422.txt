@@ -1,4 +1,2 @@
 
-zarij	{"1 Chronicles_ch_6.docx": [408, 432, 432, 432]}
-zarij	{"1 Chronicles_ch_6.docx": [408, 432, 432]}
 zarij	{"1 Chronicles_ch_6.docx": [408, 432]}

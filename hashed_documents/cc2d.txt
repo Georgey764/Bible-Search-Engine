@@ -1,5 +1,2 @@
 
-irot	{"Numbers_ch_33.docx": [764, 879, 879, 879]}
-22must	{"Numbers_ch_11.docx": [3259]}
-irot	{"Numbers_ch_33.docx": [764, 879, 879]}
 irot	{"Numbers_ch_33.docx": [764, 879]}

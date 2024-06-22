@@ -1,4 +1,2 @@
 
-strew	{"Esther_ch_1.docx": [1244], "Job_ch_41.docx": [2635, 2635, 2635], "Psalms_ch_147.docx": [1475, 1475, 1475], "Jeremiah_ch_6.docx": [4690, 4690, 4690], "Ezekiel_ch_31.docx": [2000, 2000, 2000], "Micah_ch_1.docx": [3821, 3821, 3821]}
-strew	{"Esther_ch_1.docx": [1244], "Job_ch_41.docx": [2635, 2635], "Psalms_ch_147.docx": [1475, 1475], "Jeremiah_ch_6.docx": [4690, 4690], "Ezekiel_ch_31.docx": [2000, 2000], "Micah_ch_1.docx": [3821, 3821]}
 strew	{"Esther_ch_1.docx": [1244], "Job_ch_41.docx": [2635], "Psalms_ch_147.docx": [1475], "Jeremiah_ch_6.docx": [4690], "Ezekiel_ch_31.docx": [2000], "Micah_ch_1.docx": [3821]}

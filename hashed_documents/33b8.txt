@@ -1,3 +1,2 @@
 
 self-e	{"Luke_ch_14.docx": [1234]}
-self-e	{"Luke_ch_14.docx": [1234]}

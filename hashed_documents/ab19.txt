@@ -1,5 +1,2 @@
 
 spade	{"Deuteronomy_ch_23.docx": [1296]}
-spade	{"Deuteronomy_ch_23.docx": [1296]}
-3rocks	{"Proverbs_ch_27.docx": [230]}
-spade	{"Deuteronomy_ch_23.docx": [1296]}

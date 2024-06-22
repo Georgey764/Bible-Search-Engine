@@ -1,5 +1,2 @@
 
 thaila	{"2 Samuel_ch_3.docx": [1619]}
-123	{"Numbers_ch_33.docx": [2847], "Ezra_ch_2.docx": [1006], "Nehemiah_ch_7.docx": [1982, 2210], "Psalms_ch_119.docx": [10299], "Psalms_ch_123.docx": [3]}
-thaila	{"2 Samuel_ch_3.docx": [1619]}
-thaila	{"2 Samuel_ch_3.docx": [1619]}

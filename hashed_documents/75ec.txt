@@ -1,5 +1,2 @@
 
 –follo	{"1 Kings_ch_9.docx": [571]}
-35y	{"Joshua_ch_10.docx": [12246], "Nehemiah_ch_9.docx": [7507], "Psalms_ch_18.docx": [3351], "Proverbs_ch_23.docx": [3239], "Jeremiah_ch_2.docx": [6232]}
-–follo	{"1 Kings_ch_9.docx": [571]}
-–follo	{"1 Kings_ch_9.docx": [571]}

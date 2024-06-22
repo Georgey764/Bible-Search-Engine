@@ -1,6 +1,3 @@
 
-said;	{"Genesis_ch_42.docx": [1675], "Job_ch_40.docx": [320, 320, 320], "Jeremiah_ch_25.docx": [1320, 1320, 1320], "Jeremiah_ch_35.docx": [2140, 2140, 2140], "Hosea_ch_13.docx": [10, 10, 10], "Luke_ch_22.docx": [1232, 1232]}
-shamef	{"Luke_ch_18.docx": [3815], "1 Corinthians_ch_13.docx": [497, 497], "2 Corinthians_ch_11.docx": [2944, 2954, 2944, 2954], "Ephesians_ch_5.docx": [382, 1288, 382, 1288], "Titus_ch_2.docx": [411, 411]}
-said;	{"Genesis_ch_42.docx": [1675], "Job_ch_40.docx": [320, 320], "Jeremiah_ch_25.docx": [1320, 1320], "Jeremiah_ch_35.docx": [2140, 2140], "Hosea_ch_13.docx": [10, 10], "Luke_ch_22.docx": [1232]}
 said;	{"Genesis_ch_42.docx": [1675], "Job_ch_40.docx": [320], "Jeremiah_ch_25.docx": [1320], "Jeremiah_ch_35.docx": [2140], "Hosea_ch_13.docx": [10], "Luke_ch_22.docx": [1232]}
-shamef	{"Luke_ch_18.docx": [3815], "1 Corinthians_ch_13.docx": [497], "2 Corinthians_ch_11.docx": [2944, 2954], "Ephesians_ch_5.docx": [382, 1288], "Titus_ch_2.docx": [411]}
+shamef	{"Luke_ch_18.docx": [3815], "1 Corinthians_ch_13.docx": [497], "2 Corinthians_ch_11.docx": [2944, 2954], "Ephesians_ch_5.docx": [382, 1288], "Titus_ch_2.docx": [411], "Jude_ch_1.docx": [2574]}

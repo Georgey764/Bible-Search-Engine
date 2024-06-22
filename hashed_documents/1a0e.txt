@@ -1,5 +1,2 @@
 
 awf	{"2 Samuel_ch_1.docx": [1150]}
-awf	{"2 Samuel_ch_1.docx": [1150]}
-3gl	{"Psalms_ch_34.docx": [298], "Psalms_ch_112.docx": [210]}
-awf	{"2 Samuel_ch_1.docx": [1150]}

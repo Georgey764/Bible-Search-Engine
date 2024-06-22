@@ -1,4 +1,2 @@
 
-sye	{"Ezekiel_ch_29.docx": [1804], "Ezekiel_ch_30.docx": [747, 747, 747]}
-sye	{"Ezekiel_ch_29.docx": [1804], "Ezekiel_ch_30.docx": [747, 747]}
 sye	{"Ezekiel_ch_29.docx": [1804], "Ezekiel_ch_30.docx": [747]}

@@ -1,3 +1,2 @@
 
-tertul	{"Acts_ch_24.docx": [19, 188, 1260, 188, 1260]}
 tertul	{"Acts_ch_24.docx": [19, 188, 1260]}

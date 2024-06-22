@@ -1,4 +1,2 @@
 
-gatei	{"Nehemiah_ch_2.docx": [2336, 2407, 3267, 2407, 3267, 2407, 3267], "Nehemiah_ch_12.docx": [4348, 4348, 4348]}
-gatei	{"Nehemiah_ch_2.docx": [2336, 2407, 3267, 2407, 3267], "Nehemiah_ch_12.docx": [4348, 4348]}
 gatei	{"Nehemiah_ch_2.docx": [2336, 2407, 3267], "Nehemiah_ch_12.docx": [4348]}

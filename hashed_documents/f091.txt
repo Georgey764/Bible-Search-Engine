@@ -1,4 +1,2 @@
 
-east!	{"1 Kings_ch_17.docx": [295], "2 Kings_ch_13.docx": [2634, 2634, 2634], "Psalms_ch_68.docx": [3715, 3715, 3715], "Ezekiel_ch_8.docx": [2601, 2601, 2601]}
-east!	{"1 Kings_ch_17.docx": [295], "2 Kings_ch_13.docx": [2634, 2634], "Psalms_ch_68.docx": [3715, 3715], "Ezekiel_ch_8.docx": [2601, 2601]}
 east!	{"1 Kings_ch_17.docx": [295], "2 Kings_ch_13.docx": [2634], "Psalms_ch_68.docx": [3715], "Ezekiel_ch_8.docx": [2601]}

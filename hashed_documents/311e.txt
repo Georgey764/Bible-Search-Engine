@@ -1,10 +1,4 @@
 
-barij	{"Genesis_ch_46.docx": [2001, 2038, 2038, 2038]}
-dimly	{"1 Kings_ch_8.docx": [1549]}
-abdi	{"1 Kings_ch_18.docx": [206, 589, 837, 842, 993, 1155, 2249, 589, 837, 842, 993, 1155, 2249, 589, 837, 842, 993, 1155, 2249], "1 Chronicles_ch_3.docx": [1955, 1955, 1955], "1 Chronicles_ch_5.docx": [1905, 1905, 1905], "1 Chronicles_ch_6.docx": [3495, 3495, 3495], "1 Chronicles_ch_7.docx": [464, 464, 464], "1 Chronicles_ch_8.docx": [2631, 2631, 2631], "1 Chronicles_ch_27.docx": [2489, 2489, 2489], "2 Chronicles_ch_17.docx": [916, 916, 916], "2 Chronicles_ch_29.docx": [1932, 1932, 1932]}
-barij	{"Genesis_ch_46.docx": [2001, 2038, 2038]}
-dimly	{"1 Kings_ch_8.docx": [1549]}
-abdi	{"1 Kings_ch_18.docx": [206, 589, 837, 842, 993, 1155, 2249, 589, 837, 842, 993, 1155, 2249], "1 Chronicles_ch_3.docx": [1955, 1955], "1 Chronicles_ch_5.docx": [1905, 1905], "1 Chronicles_ch_6.docx": [3495, 3495], "1 Chronicles_ch_7.docx": [464, 464], "1 Chronicles_ch_8.docx": [2631, 2631], "1 Chronicles_ch_27.docx": [2489, 2489], "2 Chronicles_ch_17.docx": [916, 916], "2 Chronicles_ch_29.docx": [1932, 1932]}
 barij	{"Genesis_ch_46.docx": [2001, 2038]}
 dimly	{"1 Kings_ch_8.docx": [1549]}
-abdi	{"1 Kings_ch_18.docx": [206, 589, 837, 842, 993, 1155, 2249], "1 Chronicles_ch_3.docx": [1955], "1 Chronicles_ch_5.docx": [1905], "1 Chronicles_ch_6.docx": [3495], "1 Chronicles_ch_7.docx": [464], "1 Chronicles_ch_8.docx": [2631], "1 Chronicles_ch_27.docx": [2489], "2 Chronicles_ch_17.docx": [916], "2 Chronicles_ch_29.docx": [1932]}
+abdi	{"1 Kings_ch_18.docx": [206, 589, 837, 842, 993, 1155, 2249], "1 Chronicles_ch_3.docx": [1955], "1 Chronicles_ch_5.docx": [1905], "1 Chronicles_ch_6.docx": [3495], "1 Chronicles_ch_7.docx": [464], "1 Chronicles_ch_8.docx": [2631], "1 Chronicles_ch_27.docx": [2489], "2 Chronicles_ch_17.docx": [916], "2 Chronicles_ch_29.docx": [1932], "Ezra_ch_10.docx": [4560]}

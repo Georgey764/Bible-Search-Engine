@@ -1,4 +1,2 @@
 
-– t	{"Exodus_ch_28.docx": [5051], "Ezekiel_ch_17.docx": [3256, 3256, 3256], "Ezekiel_ch_19.docx": [1706, 1706, 1706], "2 Corinthians_ch_1.docx": [3706, 3706]}
-– t	{"Exodus_ch_28.docx": [5051], "Ezekiel_ch_17.docx": [3256, 3256], "Ezekiel_ch_19.docx": [1706, 1706], "2 Corinthians_ch_1.docx": [3706]}
 – t	{"Exodus_ch_28.docx": [5051], "Ezekiel_ch_17.docx": [3256], "Ezekiel_ch_19.docx": [1706], "2 Corinthians_ch_1.docx": [3706]}

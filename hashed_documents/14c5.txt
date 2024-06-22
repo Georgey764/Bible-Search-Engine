@@ -1,4 +1,2 @@
 
-overw	{"Psalms_ch_65.docx": [231], "Ecclesiastes_ch_7.docx": [1833, 1833, 1833], "Daniel_ch_2.docx": [5330, 5330, 5330], "Luke_ch_5.docx": [1167, 1167], "Galatians_ch_3.docx": [2516, 2516]}
-overw	{"Psalms_ch_65.docx": [231], "Ecclesiastes_ch_7.docx": [1833, 1833], "Daniel_ch_2.docx": [5330, 5330], "Luke_ch_5.docx": [1167], "Galatians_ch_3.docx": [2516]}
 overw	{"Psalms_ch_65.docx": [231], "Ecclesiastes_ch_7.docx": [1833], "Daniel_ch_2.docx": [5330], "Luke_ch_5.docx": [1167], "Galatians_ch_3.docx": [2516]}

@@ -1,6 +1,3 @@
 
-asor	{"Joshua_ch_15.docx": [346, 4048, 4178, 4048, 4178, 4048, 4178], "Joshua_ch_19.docx": [3087, 3123, 3087, 3123, 3087, 3123], "2 Kings_ch_19.docx": [6603, 6603, 6603]}
-bodil	{"Colossians_ch_2.docx": [1761]}
-asor	{"Joshua_ch_15.docx": [346, 4048, 4178, 4048, 4178], "Joshua_ch_19.docx": [3087, 3123, 3087, 3123], "2 Kings_ch_19.docx": [6603, 6603]}
 asor	{"Joshua_ch_15.docx": [346, 4048, 4178], "Joshua_ch_19.docx": [3087, 3123], "2 Kings_ch_19.docx": [6603]}
 bodil	{"Colossians_ch_2.docx": [1761]}

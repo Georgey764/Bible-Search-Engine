@@ -1,5 +1,2 @@
 
 tatt	{"Leviticus_ch_19.docx": [3775]}
-tatt	{"Leviticus_ch_19.docx": [3775]}
-58an	{"Numbers_ch_26.docx": [5976]}
-tatt	{"Leviticus_ch_19.docx": [3775]}

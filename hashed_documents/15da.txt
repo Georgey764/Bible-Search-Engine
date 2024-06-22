@@ -1,4 +1,2 @@
 
-diver	{"Proverbs_ch_4.docx": [1460], "Isaiah_ch_22.docx": [1297, 1297, 1297], "Jeremiah_ch_2.docx": [4127, 4127, 4127], "Jeremiah_ch_4.docx": [1605, 1605, 1605], "Colossians_ch_1.docx": [3232, 3232]}
-diver	{"Proverbs_ch_4.docx": [1460], "Isaiah_ch_22.docx": [1297, 1297], "Jeremiah_ch_2.docx": [4127, 4127], "Jeremiah_ch_4.docx": [1605, 1605], "Colossians_ch_1.docx": [3232]}
-diver	{"Proverbs_ch_4.docx": [1460], "Isaiah_ch_22.docx": [1297], "Jeremiah_ch_2.docx": [4127], "Jeremiah_ch_4.docx": [1605], "Colossians_ch_1.docx": [3232]}
+diver	{"Proverbs_ch_4.docx": [1460], "Isaiah_ch_22.docx": [1297], "Isaiah_ch_66.docx": [2347], "Jeremiah_ch_2.docx": [4127], "Jeremiah_ch_4.docx": [1605], "Colossians_ch_1.docx": [3232]}

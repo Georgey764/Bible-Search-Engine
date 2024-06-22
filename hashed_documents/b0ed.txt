@@ -1,4 +1,2 @@
 
-jeriel	{"1 Chronicles_ch_7.docx": [148], "2 Chronicles_ch_20.docx": [2569, 2569, 2569]}
-jeriel	{"1 Chronicles_ch_7.docx": [148], "2 Chronicles_ch_20.docx": [2569, 2569]}
 jeriel	{"1 Chronicles_ch_7.docx": [148], "2 Chronicles_ch_20.docx": [2569]}

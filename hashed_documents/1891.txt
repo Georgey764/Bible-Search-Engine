@@ -1,4 +1,2 @@
 
-mariot	{"1 Chronicles_ch_6.docx": [434, 461, 4214, 461, 4214]}
-mariot	{"1 Chronicles_ch_6.docx": [434, 461, 4214]}
 mariot	{"1 Chronicles_ch_6.docx": [434, 461, 4214]}

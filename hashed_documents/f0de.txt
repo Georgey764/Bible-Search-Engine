@@ -1,3 +1,3 @@
 
-pamp	{"Acts_ch_13.docx": [3056], "Acts_ch_27.docx": [621, 621]}
+ugarit	{"Esther_ch_10.docx": [1250]}
 pamp	{"Acts_ch_13.docx": [3056], "Acts_ch_27.docx": [621]}

@@ -1,8 +1,3 @@
 
 jorah	{"Ezra_ch_2.docx": [944]}
-gold;	{"Isaiah_ch_60.docx": [2702], "Ezekiel_ch_16.docx": [1951, 1951, 1951], "Daniel_ch_2.docx": [5483, 7919, 5483, 7919, 5483, 7919]}
-jorah	{"Ezra_ch_2.docx": [944]}
-35god	{"Psalms_ch_68.docx": [3874]}
-gold;	{"Isaiah_ch_60.docx": [2702], "Ezekiel_ch_16.docx": [1951, 1951], "Daniel_ch_2.docx": [5483, 7919, 5483, 7919]}
-jorah	{"Ezra_ch_2.docx": [944]}
 gold;	{"Isaiah_ch_60.docx": [2702], "Ezekiel_ch_16.docx": [1951], "Daniel_ch_2.docx": [5483, 7919]}

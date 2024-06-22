@@ -1,4 +1,2 @@
 
-this;	{"Genesis_ch_3.docx": [1978], "Numbers_ch_24.docx": [1994, 1994, 1994], "2 Samuel_ch_2.docx": [3938, 3938, 3938], "Job_ch_31.docx": [3681, 3681, 3681], "Isaiah_ch_27.docx": [1142, 1142, 1142], "Isaiah_ch_30.docx": [3227, 3227, 3227], "Ezekiel_ch_47.docx": [2104, 2104, 2104], "Matthew_ch_26.docx": [3124, 3124]}
-this;	{"Genesis_ch_3.docx": [1978], "Numbers_ch_24.docx": [1994, 1994], "2 Samuel_ch_2.docx": [3938, 3938], "Job_ch_31.docx": [3681, 3681], "Isaiah_ch_27.docx": [1142, 1142], "Isaiah_ch_30.docx": [3227, 3227], "Ezekiel_ch_47.docx": [2104, 2104], "Matthew_ch_26.docx": [3124]}
 this;	{"Genesis_ch_3.docx": [1978], "Numbers_ch_24.docx": [1994], "2 Samuel_ch_2.docx": [3938], "Job_ch_31.docx": [3681], "Isaiah_ch_27.docx": [1142], "Isaiah_ch_30.docx": [3227], "Ezekiel_ch_47.docx": [2104], "Matthew_ch_26.docx": [3124]}

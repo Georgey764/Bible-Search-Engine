@@ -1,4 +1,2 @@
 
-balsa	{"1 Kings_ch_10.docx": [3860], "2 Chronicles_ch_9.docx": [3747, 3747, 3747], "Nehemiah_ch_7.docx": [1092, 1092, 1092], "Psalms_ch_45.docx": [1465, 1465, 1465], "Song of Solomon_ch_1.docx": [1783, 1783, 1783], "Isaiah_ch_39.docx": [297, 297, 297], "Ezekiel_ch_27.docx": [2213, 2213, 2213]}
-balsa	{"1 Kings_ch_10.docx": [3860], "2 Chronicles_ch_9.docx": [3747, 3747], "Nehemiah_ch_7.docx": [1092, 1092], "Psalms_ch_45.docx": [1465, 1465], "Song of Solomon_ch_1.docx": [1783, 1783], "Isaiah_ch_39.docx": [297, 297], "Ezekiel_ch_27.docx": [2213, 2213]}
 balsa	{"1 Kings_ch_10.docx": [3860], "2 Chronicles_ch_9.docx": [3747], "Nehemiah_ch_7.docx": [1092], "Psalms_ch_45.docx": [1465], "Song of Solomon_ch_1.docx": [1783], "Isaiah_ch_39.docx": [297], "Ezekiel_ch_27.docx": [2213]}

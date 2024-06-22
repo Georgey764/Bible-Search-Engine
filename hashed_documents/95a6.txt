@@ -1,7 +1,3 @@
 
-paveme	{"2 Chronicles_ch_7.docx": [241], "John_ch_19.docx": [1671, 1671]}
-god’s;	{"Isaiah_ch_44.docx": [611]}
-paveme	{"2 Chronicles_ch_7.docx": [241], "John_ch_19.docx": [1671]}
-god’s;	{"Isaiah_ch_44.docx": [611]}
 paveme	{"2 Chronicles_ch_7.docx": [241], "John_ch_19.docx": [1671]}
 god’s;	{"Isaiah_ch_44.docx": [611]}

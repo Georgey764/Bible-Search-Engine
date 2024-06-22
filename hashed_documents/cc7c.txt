@@ -1,9 +1,3 @@
 
-hassen	{"Nehemiah_ch_3.docx": [1629, 1635, 1643, 1635, 1643, 1635, 1643]}
-ephai	{"Jeremiah_ch_40.docx": [1722]}
-3broug	{"Numbers_ch_7.docx": [260]}
-hassen	{"Nehemiah_ch_3.docx": [1629, 1635, 1643, 1635, 1643]}
-14-22	{"Proverbs_ch_20.docx": [13, 57]}
-ephai	{"Jeremiah_ch_40.docx": [1722]}
 hassen	{"Nehemiah_ch_3.docx": [1629, 1635, 1643]}
 ephai	{"Jeremiah_ch_40.docx": [1722]}

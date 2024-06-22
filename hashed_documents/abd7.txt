@@ -1,0 +1,2 @@
+
+authen	{"Ezekiel_ch_48.docx": [6710], "Daniel_ch_12.docx": [3144], "John_ch_21.docx": [4499], "Hebrews_ch_13.docx": [4192], "1 Peter_ch_5.docx": [2294], "3 John_ch_1.docx": [2060]}

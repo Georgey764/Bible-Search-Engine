@@ -1,4 +1,2 @@
 
-malluc	{"Nehemiah_ch_10.docx": [242, 1254, 1254], "Nehemiah_ch_12.docx": [167, 167, 167]}
-malluc	{"Nehemiah_ch_10.docx": [242, 1254], "Nehemiah_ch_12.docx": [167, 167]}
-malluc	{"Nehemiah_ch_10.docx": [242, 1254], "Nehemiah_ch_12.docx": [167]}
+malluc	{"Ezra_ch_10.docx": [4850, 5186], "Nehemiah_ch_10.docx": [242, 1254], "Nehemiah_ch_12.docx": [167]}

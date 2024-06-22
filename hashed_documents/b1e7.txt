@@ -1,3 +1,2 @@
 
 soure	{"Luke_ch_23.docx": [4422]}
-soure	{"Luke_ch_23.docx": [4422]}

@@ -1,4 +1,2 @@
 
-bethav	{"1 Samuel_ch_13.docx": [739], "1 Samuel_ch_14.docx": [3688, 3688, 3688]}
-bethav	{"1 Samuel_ch_13.docx": [739], "1 Samuel_ch_14.docx": [3688, 3688]}
 bethav	{"1 Samuel_ch_13.docx": [739], "1 Samuel_ch_14.docx": [3688]}

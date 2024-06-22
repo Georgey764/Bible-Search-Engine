@@ -1,5 +1,2 @@
 
 phegg	{"2 Samuel_ch_3.docx": [455]}
-phegg	{"2 Samuel_ch_3.docx": [455]}
-20‘ye	{"Jeremiah_ch_9.docx": [3525], "Jeremiah_ch_29.docx": [3059], "Jeremiah_ch_31.docx": [3597], "Ezekiel_ch_29.docx": [3520], "Daniel_ch_11.docx": [3809]}
-phegg	{"2 Samuel_ch_3.docx": [455]}

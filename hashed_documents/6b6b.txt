@@ -1,5 +1,2 @@
 
-rampa	{"Jeremiah_ch_51.docx": [5401], "Revelation_ch_14.docx": [1312, 1312]}
-14..	{"Genesis_ch_38.docx": [1658]}
-rampa	{"Jeremiah_ch_51.docx": [5401], "Revelation_ch_14.docx": [1312]}
-rampa	{"Jeremiah_ch_51.docx": [5401], "Revelation_ch_14.docx": [1312]}
+rampa	{"Jeremiah_ch_51.docx": [5401], "Jeremiah_ch_52.docx": [493], "Revelation_ch_14.docx": [1312]}

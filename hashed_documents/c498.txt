@@ -1,7 +1,3 @@
 
-sea‘	{"Joshua_ch_13.docx": [10890], "Nehemiah_ch_9.docx": [2069, 2069, 2069]}
-bragga	{"Habakkuk_ch_2.docx": [797], "Romans_ch_1.docx": [3960, 3960], "2 Corinthians_ch_10.docx": [2048, 2048], "2 Corinthians_ch_11.docx": [2502, 2502], "2 Timothy_ch_3.docx": [26, 45, 26, 45]}
-sea‘	{"Joshua_ch_13.docx": [10890], "Nehemiah_ch_9.docx": [2069, 2069]}
-bragga	{"Habakkuk_ch_2.docx": [797], "Romans_ch_1.docx": [3960], "2 Corinthians_ch_10.docx": [2048], "2 Corinthians_ch_11.docx": [2502], "2 Timothy_ch_3.docx": [26, 45]}
 sea‘	{"Joshua_ch_13.docx": [10890], "Nehemiah_ch_9.docx": [2069]}
 bragga	{"Habakkuk_ch_2.docx": [797], "Romans_ch_1.docx": [3960], "2 Corinthians_ch_10.docx": [2048], "2 Corinthians_ch_11.docx": [2502], "2 Timothy_ch_3.docx": [26, 45]}

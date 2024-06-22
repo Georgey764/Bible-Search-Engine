@@ -1,3 +1,0 @@
-
-39aft	{"Genesis_ch_36.docx": [3961], "Psalms_ch_107.docx": [3395]}
-675	{"Numbers_ch_31.docx": [3954, 4139]}

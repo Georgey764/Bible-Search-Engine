@@ -1,4 +1,2 @@
 
-mael	{"Genesis_ch_28.docx": [1213], "1 Chronicles_ch_7.docx": [2372, 2372, 2372]}
-mael	{"Genesis_ch_28.docx": [1213], "1 Chronicles_ch_7.docx": [2372, 2372]}
 mael	{"Genesis_ch_28.docx": [1213], "1 Chronicles_ch_7.docx": [2372]}

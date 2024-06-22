@@ -1,4 +1,2 @@
 
-hasha	{"Ezra_ch_8.docx": [2384, 3228, 3228, 3228], "Nehemiah_ch_3.docx": [3607, 3607, 3607], "Nehemiah_ch_10.docx": [611, 1195, 611, 1195, 611, 1195], "Nehemiah_ch_11.docx": [2255, 2255, 2255], "Nehemiah_ch_12.docx": [1882, 2372, 1882, 2372, 1882, 2372]}
-hasha	{"Ezra_ch_8.docx": [2384, 3228, 3228], "Nehemiah_ch_3.docx": [3607, 3607], "Nehemiah_ch_10.docx": [611, 1195, 611, 1195], "Nehemiah_ch_11.docx": [2255, 2255], "Nehemiah_ch_12.docx": [1882, 2372, 1882, 2372]}
 hasha	{"Ezra_ch_8.docx": [2384, 3228], "Nehemiah_ch_3.docx": [3607], "Nehemiah_ch_10.docx": [611, 1195], "Nehemiah_ch_11.docx": [2255], "Nehemiah_ch_12.docx": [1882, 2372]}

@@ -1,4 +1,2 @@
 
-godt	{"Amos_ch_2.docx": [2286], "Hebrews_ch_11.docx": [1142, 1142]}
-godt	{"Amos_ch_2.docx": [2286], "Hebrews_ch_11.docx": [1142]}
 godt	{"Amos_ch_2.docx": [2286], "Hebrews_ch_11.docx": [1142]}

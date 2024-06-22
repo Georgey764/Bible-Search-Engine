@@ -1,4 +1,2 @@
 
-healer	{"Job_ch_13.docx": [318], "Proverbs_ch_14.docx": [2637, 2637, 2637], "Mark_ch_5.docx": [2897, 2897]}
-healer	{"Job_ch_13.docx": [318], "Proverbs_ch_14.docx": [2637, 2637], "Mark_ch_5.docx": [2897]}
 healer	{"Job_ch_13.docx": [318], "Proverbs_ch_14.docx": [2637], "Mark_ch_5.docx": [2897]}

@@ -1,7 +1,3 @@
 
 songs!	{"1 Kings_ch_4.docx": [3834]}
-estate	{"1 Chronicles_ch_27.docx": [3509], "Psalms_ch_48.docx": [283, 283, 283], "Ecclesiastes_ch_2.docx": [1014, 1014, 1014], "Isaiah_ch_62.docx": [1504, 1504, 1504], "Lamentations_ch_2.docx": [962, 962, 962], "Acts_ch_1.docx": [4423, 4423]}
-songs!	{"1 Kings_ch_4.docx": [3834]}
-estate	{"1 Chronicles_ch_27.docx": [3509], "Psalms_ch_48.docx": [283, 283], "Ecclesiastes_ch_2.docx": [1014, 1014], "Isaiah_ch_62.docx": [1504, 1504], "Lamentations_ch_2.docx": [962, 962], "Acts_ch_1.docx": [4423]}
-songs!	{"1 Kings_ch_4.docx": [3834]}
 estate	{"1 Chronicles_ch_27.docx": [3509], "Psalms_ch_48.docx": [283], "Ecclesiastes_ch_2.docx": [1014], "Isaiah_ch_62.docx": [1504], "Lamentations_ch_2.docx": [962], "Acts_ch_1.docx": [4423]}

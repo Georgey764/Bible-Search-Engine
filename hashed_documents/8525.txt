@@ -1,5 +1,2 @@
 
 gibb	{"Ezra_ch_2.docx": [987]}
-1fr	{"1 Samuel_ch_21.docx": [5], "Psalms_ch_45.docx": [561], "Psalms_ch_59.docx": [207], "Psalms_ch_65.docx": [60], "Isaiah_ch_11.docx": [4]}
-gibb	{"Ezra_ch_2.docx": [987]}
-gibb	{"Ezra_ch_2.docx": [987]}

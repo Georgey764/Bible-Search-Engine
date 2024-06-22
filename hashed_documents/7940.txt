@@ -1,4 +1,2 @@
 
-budd	{"Genesis_ch_40.docx": [961], "2 Samuel_ch_16.docx": [2665, 2665, 2665], "Song of Solomon_ch_7.docx": [1702, 1702, 1702]}
-budd	{"Genesis_ch_40.docx": [961], "2 Samuel_ch_16.docx": [2665, 2665], "Song of Solomon_ch_7.docx": [1702, 1702]}
 budd	{"Genesis_ch_40.docx": [961], "2 Samuel_ch_16.docx": [2665], "Song of Solomon_ch_7.docx": [1702]}

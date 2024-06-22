@@ -1,2 +1,0 @@
-
-6al	{"Leviticus_ch_15.docx": [520], "Joshua_ch_13.docx": [9772], "2 Kings_ch_15.docx": [724], "2 Chronicles_ch_31.docx": [1205], "Nehemiah_ch_11.docx": [922], "Psalms_ch_115.docx": [499]}

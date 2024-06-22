@@ -1,6 +1,3 @@
 
-miph	{"1 Chronicles_ch_2.docx": [4741], "Nehemiah_ch_3.docx": [14523, 14552, 14523, 14552, 14523, 14552]}
-puffs	{"1 Corinthians_ch_8.docx": [93]}
-miph	{"1 Chronicles_ch_2.docx": [4741], "Nehemiah_ch_3.docx": [14523, 14552, 14523, 14552]}
 miph	{"1 Chronicles_ch_2.docx": [4741], "Nehemiah_ch_3.docx": [14523, 14552]}
 puffs	{"1 Corinthians_ch_8.docx": [93]}

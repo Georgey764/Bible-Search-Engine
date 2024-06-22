@@ -1,3 +1,0 @@
-
-10‘wh	{"Leviticus_ch_20.docx": [1323], "Nehemiah_ch_5.docx": [1650], "Job_ch_7.docx": [967], "Psalms_ch_49.docx": [849], "Ecclesiastes_ch_1.docx": [1170], "Ecclesiastes_ch_6.docx": [1235], "Song of Solomon_ch_6.docx": [1409], "Isaiah_ch_50.docx": [1924]}
-8bene	{"Ezekiel_ch_1.docx": [993]}

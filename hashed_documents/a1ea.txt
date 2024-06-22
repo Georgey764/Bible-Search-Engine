@@ -1,7 +1,3 @@
 
-chees	{"1 Samuel_ch_17.docx": [2308], "2 Samuel_ch_17.docx": [4653, 4653, 4653], "Job_ch_10.docx": [965, 965, 965]}
-haname	{"Jeremiah_ch_32.docx": [1097, 1268, 1604, 1905, 1268, 1604, 1905, 1268, 1604, 1905]}
-chees	{"1 Samuel_ch_17.docx": [2308], "2 Samuel_ch_17.docx": [4653, 4653], "Job_ch_10.docx": [965, 965]}
-haname	{"Jeremiah_ch_32.docx": [1097, 1268, 1604, 1905, 1268, 1604, 1905]}
 chees	{"1 Samuel_ch_17.docx": [2308], "2 Samuel_ch_17.docx": [4653], "Job_ch_10.docx": [965]}
 haname	{"Jeremiah_ch_32.docx": [1097, 1268, 1604, 1905]}

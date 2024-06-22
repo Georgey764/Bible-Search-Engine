@@ -1,7 +1,3 @@
 
 ramse	{"Joshua_ch_16.docx": [1037]}
-caia	{"Matthew_ch_26.docx": [250, 6898, 6898], "Luke_ch_3.docx": [419, 419], "John_ch_11.docx": [5721, 5721], "John_ch_18.docx": [1407, 1419, 3010, 3478, 1407, 1419, 3010, 3478], "Acts_ch_4.docx": [521, 521]}
-ramse	{"Joshua_ch_16.docx": [1037]}
-caia	{"Matthew_ch_26.docx": [250, 6898], "Luke_ch_3.docx": [419], "John_ch_11.docx": [5721], "John_ch_18.docx": [1407, 1419, 3010, 3478], "Acts_ch_4.docx": [521]}
-ramse	{"Joshua_ch_16.docx": [1037]}
 caia	{"Matthew_ch_26.docx": [250, 6898], "Luke_ch_3.docx": [419], "John_ch_11.docx": [5721], "John_ch_18.docx": [1407, 1419, 3010, 3478], "Acts_ch_4.docx": [521]}

@@ -1,4 +1,2 @@
 
-loans	{"Deuteronomy_ch_23.docx": [2458], "Psalms_ch_55.docx": [1076, 1076, 1076], "Proverbs_ch_28.docx": [619, 619, 619], "Ezekiel_ch_18.docx": [845, 1022, 2299, 2504, 845, 1022, 2299, 2504, 845, 1022, 2299, 2504]}
-loans	{"Deuteronomy_ch_23.docx": [2458], "Psalms_ch_55.docx": [1076, 1076], "Proverbs_ch_28.docx": [619, 619], "Ezekiel_ch_18.docx": [845, 1022, 2299, 2504, 845, 1022, 2299, 2504]}
 loans	{"Deuteronomy_ch_23.docx": [2458], "Psalms_ch_55.docx": [1076], "Proverbs_ch_28.docx": [619], "Ezekiel_ch_18.docx": [845, 1022, 2299, 2504]}

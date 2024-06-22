@@ -1,5 +1,2 @@
 
-fig-	{"Joel_ch_1.docx": [989, 1741, 1741, 1741], "Joel_ch_2.docx": [4072, 4072, 4072], "Luke_ch_19.docx": [276, 276]}
-6righ	{"Proverbs_ch_13.docx": [568]}
-fig-	{"Joel_ch_1.docx": [989, 1741, 1741], "Joel_ch_2.docx": [4072, 4072], "Luke_ch_19.docx": [276]}
 fig-	{"Joel_ch_1.docx": [989, 1741], "Joel_ch_2.docx": [4072], "Luke_ch_19.docx": [276]}

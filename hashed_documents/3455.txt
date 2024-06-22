@@ -1,4 +1,2 @@
 
-embo	{"Nehemiah_ch_2.docx": [4939], "Isaiah_ch_27.docx": [1095, 1095, 1095], "1 Corinthians_ch_8.docx": [1545, 1545]}
-embo	{"Nehemiah_ch_2.docx": [4939], "Isaiah_ch_27.docx": [1095, 1095], "1 Corinthians_ch_8.docx": [1545]}
 embo	{"Nehemiah_ch_2.docx": [4939], "Isaiah_ch_27.docx": [1095], "1 Corinthians_ch_8.docx": [1545]}

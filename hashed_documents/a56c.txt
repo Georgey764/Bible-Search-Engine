@@ -1,5 +1,2 @@
 
-someh	{"Jeremiah_ch_4.docx": [2635], "Romans_ch_2.docx": [319, 319], "Romans_ch_11.docx": [2054, 2054], "2 Corinthians_ch_11.docx": [278, 278], "Galatians_ch_2.docx": [249, 249]}
-27‘all	{"Job_ch_19.docx": [2405], "Matthew_ch_11.docx": [3286]}
-someh	{"Jeremiah_ch_4.docx": [2635], "Romans_ch_2.docx": [319], "Romans_ch_11.docx": [2054], "2 Corinthians_ch_11.docx": [278], "Galatians_ch_2.docx": [249]}
 someh	{"Jeremiah_ch_4.docx": [2635], "Romans_ch_2.docx": [319], "Romans_ch_11.docx": [2054], "2 Corinthians_ch_11.docx": [278], "Galatians_ch_2.docx": [249]}

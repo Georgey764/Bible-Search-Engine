@@ -1,5 +1,2 @@
 
-stam	{"Isaiah_ch_32.docx": [420], "Isaiah_ch_35.docx": [700, 700, 700], "Ezekiel_ch_6.docx": [1670, 1670, 1670], "Ezekiel_ch_25.docx": [975, 975, 975], "Ezekiel_ch_32.docx": [379, 379, 379]}
-17lik	{"Deuteronomy_ch_33.docx": [2306], "Psalms_ch_88.docx": [1710], "Psalms_ch_147.docx": [1513]}
-stam	{"Isaiah_ch_32.docx": [420], "Isaiah_ch_35.docx": [700, 700], "Ezekiel_ch_6.docx": [1670, 1670], "Ezekiel_ch_25.docx": [975, 975], "Ezekiel_ch_32.docx": [379, 379]}
 stam	{"Isaiah_ch_32.docx": [420], "Isaiah_ch_35.docx": [700], "Ezekiel_ch_6.docx": [1670], "Ezekiel_ch_25.docx": [975], "Ezekiel_ch_32.docx": [379]}

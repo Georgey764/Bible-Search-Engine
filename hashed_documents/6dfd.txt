@@ -1,4 +1,2 @@
 
-perido	{"Exodus_ch_28.docx": [2433], "Ezekiel_ch_1.docx": [2041, 2041, 2041], "Ezekiel_ch_10.docx": [1397, 1397, 1397], "Revelation_ch_21.docx": [3118, 3118]}
-perido	{"Exodus_ch_28.docx": [2433], "Ezekiel_ch_1.docx": [2041, 2041], "Ezekiel_ch_10.docx": [1397, 1397], "Revelation_ch_21.docx": [3118]}
 perido	{"Exodus_ch_28.docx": [2433], "Ezekiel_ch_1.docx": [2041], "Ezekiel_ch_10.docx": [1397], "Revelation_ch_21.docx": [3118]}

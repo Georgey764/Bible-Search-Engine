@@ -1,6 +1,2 @@
 
-retri	{"1 Samuel_ch_20.docx": [6014], "Psalms_ch_31.docx": [2791, 2791, 2791], "Isaiah_ch_59.docx": [2755, 2755, 2755], "Isaiah_ch_63.docx": [586, 967, 586, 967, 586, 967], "Amos_ch_6.docx": [2152, 2152, 2152], "Luke_ch_17.docx": [3677, 3677], "Romans_ch_11.docx": [1496, 1496]}
-34yet	{"Exodus_ch_34.docx": [4957]}
-11af	{"Judges_ch_12.docx": [2298]}
-retri	{"1 Samuel_ch_20.docx": [6014], "Psalms_ch_31.docx": [2791, 2791], "Isaiah_ch_59.docx": [2755, 2755], "Isaiah_ch_63.docx": [586, 967, 586, 967], "Amos_ch_6.docx": [2152, 2152], "Luke_ch_17.docx": [3677], "Romans_ch_11.docx": [1496]}
-retri	{"1 Samuel_ch_20.docx": [6014], "Psalms_ch_31.docx": [2791], "Isaiah_ch_59.docx": [2755], "Isaiah_ch_63.docx": [586, 967], "Amos_ch_6.docx": [2152], "Luke_ch_17.docx": [3677], "Romans_ch_11.docx": [1496]}
+retri	{"1 Samuel_ch_20.docx": [6014], "Psalms_ch_31.docx": [2791], "Isaiah_ch_59.docx": [2755], "Isaiah_ch_63.docx": [586, 967], "Isaiah_ch_66.docx": [1457], "Amos_ch_6.docx": [2152], "Luke_ch_17.docx": [3677], "Romans_ch_11.docx": [1496]}

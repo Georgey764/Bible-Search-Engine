@@ -1,3 +1,2 @@
 
-value!	{"Luke_ch_12.docx": [1000], "2 Corinthians_ch_10.docx": [1384, 1384]}
-value!	{"Luke_ch_12.docx": [1000], "2 Corinthians_ch_10.docx": [1384]}
+value!	{"Proverbs_ch_31.docx": [996], "Luke_ch_12.docx": [1000], "2 Corinthians_ch_10.docx": [1384]}

@@ -1,2 +1,0 @@
-
-3sin	{"Genesis_ch_37.docx": [180], "Psalms_ch_52.docx": [389], "Psalms_ch_58.docx": [321], "Psalms_ch_84.docx": [269], "Jeremiah_ch_32.docx": [275]}

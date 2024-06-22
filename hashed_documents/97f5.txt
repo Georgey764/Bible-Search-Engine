@@ -1,4 +1,2 @@
 
-upward	{"Numbers_ch_18.docx": [2653], "Numbers_ch_26.docx": [135, 135, 135], "Ecclesiastes_ch_3.docx": [2356, 2356, 2356], "Ezekiel_ch_10.docx": [2294, 2521, 2525, 2294, 2521, 2525, 2294, 2521, 2525]}
-upward	{"Numbers_ch_18.docx": [2653], "Numbers_ch_26.docx": [135, 135], "Ecclesiastes_ch_3.docx": [2356, 2356], "Ezekiel_ch_10.docx": [2294, 2521, 2525, 2294, 2521, 2525]}
 upward	{"Numbers_ch_18.docx": [2653], "Numbers_ch_26.docx": [135], "Ecclesiastes_ch_3.docx": [2356], "Ezekiel_ch_10.docx": [2294, 2521, 2525]}

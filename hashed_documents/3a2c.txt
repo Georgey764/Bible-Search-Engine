@@ -1,4 +1,2 @@
 
-melon	{"Numbers_ch_11.docx": [645], "Joel_ch_1.docx": [1776, 1776, 1776]}
-melon	{"Numbers_ch_11.docx": [645], "Joel_ch_1.docx": [1776, 1776]}
 melon	{"Numbers_ch_11.docx": [645], "Joel_ch_1.docx": [1776]}

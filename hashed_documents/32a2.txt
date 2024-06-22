@@ -1,4 +1,0 @@
-
-20yes	{"Genesis_ch_23.docx": [2331], "Exodus_ch_12.docx": [3110], "Exodus_ch_19.docx": [2982], "Judges_ch_5.docx": [3016], "Psalms_ch_68.docx": [2260], "Psalms_ch_74.docx": [1978], "Psalms_ch_118.docx": [1666], "Isaiah_ch_5.docx": [3136]}
-27sinc	{"Exodus_ch_22.docx": [3499], "Job_ch_15.docx": [2490]}
-53and	{"Leviticus_ch_14.docx": [7744], "1 Samuel_ch_17.docx": [8425], "Lamentations_ch_3.docx": [4333]}

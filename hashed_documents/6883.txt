@@ -1,4 +1,2 @@
 
-mars	{"2 Chronicles_ch_32.docx": [1230], "Esther_ch_1.docx": [2505, 2505, 2505], "Isaiah_ch_19.docx": [934, 934, 934], "Isaiah_ch_33.docx": [1365, 1365, 1365], "Isaiah_ch_35.docx": [838, 920, 838, 920, 838, 920], "Isaiah_ch_41.docx": [3188, 3188, 3188], "Isaiah_ch_42.docx": [2222, 2222, 2222]}
-mars	{"2 Chronicles_ch_32.docx": [1230], "Esther_ch_1.docx": [2505, 2505], "Isaiah_ch_19.docx": [934, 934], "Isaiah_ch_33.docx": [1365, 1365], "Isaiah_ch_35.docx": [838, 920, 838, 920], "Isaiah_ch_41.docx": [3188, 3188], "Isaiah_ch_42.docx": [2222, 2222]}
 mars	{"2 Chronicles_ch_32.docx": [1230], "Esther_ch_1.docx": [2505], "Isaiah_ch_19.docx": [934], "Isaiah_ch_33.docx": [1365], "Isaiah_ch_35.docx": [838, 920], "Isaiah_ch_41.docx": [3188], "Isaiah_ch_42.docx": [2222]}

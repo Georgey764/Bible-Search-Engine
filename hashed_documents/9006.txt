@@ -1,2 +1,0 @@
-
-9‘h	{"Leviticus_ch_10.docx": [1379], "Leviticus_ch_22.docx": [1257], "Numbers_ch_30.docx": [1245], "Deuteronomy_ch_33.docx": [1087], "1 Samuel_ch_2.docx": [1210], "Isaiah_ch_32.docx": [1185], "Jeremiah_ch_19.docx": [1698], "Jeremiah_ch_44.docx": [1690], "Lamentations_ch_1.docx": [2126], "Amos_ch_5.docx": [1786]}

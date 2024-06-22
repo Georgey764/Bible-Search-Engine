@@ -1,6 +1,3 @@
 
-ishtob	{"2 Samuel_ch_10.docx": [873, 1087, 1087, 1087]}
-lonely	{"Mark_ch_1.docx": [5039]}
-ishtob	{"2 Samuel_ch_10.docx": [873, 1087, 1087]}
 ishtob	{"2 Samuel_ch_10.docx": [873, 1087]}
 lonely	{"Mark_ch_1.docx": [5039]}

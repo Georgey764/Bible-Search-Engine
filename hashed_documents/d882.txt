@@ -1,2 +1,0 @@
-
-10‘now	{"Deuteronomy_ch_20.docx": [1476], "1 Chronicles_ch_28.docx": [2117], "Nehemiah_ch_1.docx": [1705], "Job_ch_32.docx": [1151], "Jeremiah_ch_2.docx": [1632], "Jeremiah_ch_16.docx": [1568], "Ezekiel_ch_19.docx": [1193], "Ezekiel_ch_33.docx": [1621], "Micah_ch_1.docx": [3440], "Matthew_ch_3.docx": [1071]}

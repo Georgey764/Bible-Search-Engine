@@ -1,4 +1,2 @@
 
-unm	{"Genesis_ch_30.docx": [5171], "Job_ch_42.docx": [2245], "1 Corinthians_ch_7.docx": [812, 1208, 812, 1208]}
-unm	{"Genesis_ch_30.docx": [5171], "1 Corinthians_ch_7.docx": [812, 1208]}
-unm	{"Genesis_ch_30.docx": [5171], "1 Corinthians_ch_7.docx": [812, 1208]}
+unm	{"Genesis_ch_30.docx": [5171], "Job_ch_42.docx": [2245], "1 Corinthians_ch_7.docx": [812, 1208]}

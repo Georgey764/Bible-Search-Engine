@@ -1,4 +1,2 @@
 
-pad	{"Ezra_ch_2.docx": [1758], "Nehemiah_ch_7.docx": [2843, 2843, 2843]}
-pad	{"Ezra_ch_2.docx": [1758], "Nehemiah_ch_7.docx": [2843, 2843]}
 pad	{"Ezra_ch_2.docx": [1758], "Nehemiah_ch_7.docx": [2843]}

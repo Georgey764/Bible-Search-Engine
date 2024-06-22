@@ -1,4 +1,2 @@
 
-helkij	{"1 Chronicles_ch_6.docx": [853, 882, 3569, 882, 3569, 882, 3569], "1 Chronicles_ch_9.docx": [1365, 1365, 1365]}
-helkij	{"1 Chronicles_ch_6.docx": [853, 882, 3569, 882, 3569], "1 Chronicles_ch_9.docx": [1365, 1365]}
 helkij	{"1 Chronicles_ch_6.docx": [853, 882, 3569], "1 Chronicles_ch_9.docx": [1365]}

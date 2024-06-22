@@ -1,4 +1,2 @@
 
-rules!	{"Leviticus_ch_18.docx": [188, 3719, 3719, 3719], "Psalms_ch_119.docx": [7869, 7869, 7869], "2 Timothy_ch_2.docx": [384, 384]}
-rules!	{"Leviticus_ch_18.docx": [188, 3719, 3719], "Psalms_ch_119.docx": [7869, 7869], "2 Timothy_ch_2.docx": [384]}
 rules!	{"Leviticus_ch_18.docx": [188, 3719], "Psalms_ch_119.docx": [7869], "2 Timothy_ch_2.docx": [384]}

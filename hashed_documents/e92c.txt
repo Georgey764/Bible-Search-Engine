@@ -1,7 +1,3 @@
 
 filed	{"Joshua_ch_8.docx": [4015]}
-trees<	{"Judges_ch_1.docx": [2921, 2957, 2994, 2957, 2994, 2957, 2994], "Judges_ch_3.docx": [6536, 6536, 6536]}
-filed	{"Joshua_ch_8.docx": [4015]}
-trees<	{"Judges_ch_1.docx": [2921, 2957, 2994, 2957, 2994], "Judges_ch_3.docx": [6536, 6536]}
-filed	{"Joshua_ch_8.docx": [4015]}
 trees<	{"Judges_ch_1.docx": [2921, 2957, 2994], "Judges_ch_3.docx": [6536]}

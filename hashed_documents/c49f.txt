@@ -1,5 +1,2 @@
 
 sarasa	{"2 Kings_ch_19.docx": [6388]}
-33in	{"Exodus_ch_35.docx": [3489], "Joshua_ch_15.docx": [4529], "1 Kings_ch_7.docx": [4340], "Nehemiah_ch_11.docx": [7702], "Proverbs_ch_14.docx": [2970]}
-sarasa	{"2 Kings_ch_19.docx": [6388]}
-sarasa	{"2 Kings_ch_19.docx": [6388]}

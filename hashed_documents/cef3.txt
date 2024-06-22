@@ -1,4 +1,3 @@
 
-schola	{"Proverbs_ch_20.docx": [51], "Ezekiel_ch_27.docx": [1056, 1056, 1056]}
-schola	{"Proverbs_ch_20.docx": [51], "Ezekiel_ch_27.docx": [1056, 1056]}
-schola	{"Proverbs_ch_20.docx": [51], "Ezekiel_ch_27.docx": [1056]}
+schola	{"2 Samuel_ch_24.docx": [6123], "1 Kings_ch_22.docx": [9920], "Esther_ch_10.docx": [1841, 3442, 3891], "Proverbs_ch_20.docx": [51], "Isaiah_ch_66.docx": [5421], "Ezekiel_ch_27.docx": [1056], "Ezekiel_ch_48.docx": [6128], "Daniel_ch_12.docx": [2559], "Joel_ch_3.docx": [5110], "Obadiah_ch_1.docx": [4453], "Malachi_ch_4.docx": [1331], "Matthew_ch_28.docx": [2896], "Mark_ch_16.docx": [1945], "James_ch_5.docx": [3634], "3 John_ch_1.docx": [2057]}
+carpus	{"2 Timothy_ch_4.docx": [1733]}

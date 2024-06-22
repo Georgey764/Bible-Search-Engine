@@ -1,4 +1,2 @@
 
-tempe	{"Proverbs_ch_16.docx": [3404], "Titus_ch_1.docx": [978, 978]}
-tempe	{"Proverbs_ch_16.docx": [3404], "Titus_ch_1.docx": [978]}
 tempe	{"Proverbs_ch_16.docx": [3404], "Titus_ch_1.docx": [978]}

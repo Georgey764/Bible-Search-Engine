@@ -1,4 +1,2 @@
 
-repays	{"Proverbs_ch_17.docx": [1261], "Proverbs_ch_19.docx": [1570, 1570, 1570], "Matthew_ch_6.docx": [490, 2316, 490, 2316, 490, 2316], "Revelation_ch_2.docx": [3859, 3859]}
-repays	{"Proverbs_ch_17.docx": [1261], "Proverbs_ch_19.docx": [1570, 1570], "Matthew_ch_6.docx": [490, 2316, 490, 2316], "Revelation_ch_2.docx": [3859]}
 repays	{"Proverbs_ch_17.docx": [1261], "Proverbs_ch_19.docx": [1570], "Matthew_ch_6.docx": [490, 2316], "Revelation_ch_2.docx": [3859]}

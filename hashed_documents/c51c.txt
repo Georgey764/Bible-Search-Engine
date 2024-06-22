@@ -1,3 +1,0 @@
-
-20you	{"Exodus_ch_18.docx": [2625], "Exodus_ch_29.docx": [2144], "Numbers_ch_11.docx": [2931], "Numbers_ch_15.docx": [2122], "Job_ch_14.docx": [2207], "Psalms_ch_71.docx": [1904], "Psalms_ch_104.docx": [2044], "Matthew_ch_10.docx": [2073]}
-24whi	{"Exodus_ch_37.docx": [2323]}

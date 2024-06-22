@@ -1,4 +1,2 @@
 
-marki	{"1 Chronicles_ch_11.docx": [6221]}
-marki	{"1 Chronicles_ch_11.docx": [6221]}
-marki	{"1 Chronicles_ch_11.docx": [6221]}
+marki	{"1 Chronicles_ch_11.docx": [6221], "Esther_ch_10.docx": [5182, 5202]}

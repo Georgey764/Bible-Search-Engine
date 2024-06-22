@@ -1,6 +1,2 @@
 
 kez	{"Joshua_ch_15.docx": [5130]}
-13.7m	{"Exodus_ch_36.docx": [2180], "1 Kings_ch_7.docx": [3025]}
-kez	{"Joshua_ch_15.docx": [5130]}
-12dar	{"Job_ch_15.docx": [1042]}
-kez	{"Joshua_ch_15.docx": [5130]}

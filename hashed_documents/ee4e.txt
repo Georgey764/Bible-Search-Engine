@@ -1,9 +1,3 @@
 
-thekem	{"1 Kings_ch_11.docx": [2641, 2649, 2649, 2649]}
-mosell	{"1 Chronicles_ch_26.docx": [73, 155, 909, 155, 909, 155, 909]}
-34afte	{"Genesis_ch_36.docx": [3525], "1 Samuel_ch_15.docx": [5411], "1 Chronicles_ch_27.docx": [4717]}
-thekem	{"1 Kings_ch_11.docx": [2641, 2649, 2649]}
-mosell	{"1 Chronicles_ch_26.docx": [73, 155, 909, 155, 909]}
-8‘sin	{"Psalms_ch_22.docx": [759], "Ezekiel_ch_11.docx": [1153]}
 thekem	{"1 Kings_ch_11.docx": [2641, 2649]}
 mosell	{"1 Chronicles_ch_26.docx": [73, 155, 909]}

@@ -1,4 +1,2 @@
 
-mooli’	{"1 Chronicles_ch_23.docx": [2191], "1 Chronicles_ch_24.docx": [2844, 2844]}
-mooli’	{"1 Chronicles_ch_23.docx": [2191], "1 Chronicles_ch_24.docx": [2844]}
 mooli’	{"1 Chronicles_ch_23.docx": [2191], "1 Chronicles_ch_24.docx": [2844]}

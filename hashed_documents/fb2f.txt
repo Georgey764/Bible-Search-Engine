@@ -1,5 +1,2 @@
 
-shive	{"Job_ch_9.docx": [2587], "Psalms_ch_114.docx": [659, 659, 659]}
-shive	{"Job_ch_9.docx": [2587], "Psalms_ch_114.docx": [659, 659]}
-19i’ve	{"Isaiah_ch_45.docx": [3469], "Jeremiah_ch_46.docx": [2959]}
-shive	{"Job_ch_9.docx": [2587], "Psalms_ch_114.docx": [659]}
+shive	{"Job_ch_9.docx": [2587], "Psalms_ch_114.docx": [659], "Habakkuk_ch_3.docx": [2707]}

@@ -1,6 +1,2 @@
 
-azo	{"Joshua_ch_19.docx": [3479], "1 Chronicles_ch_2.docx": [1428, 1628, 1628, 1428, 1628], "1 Chronicles_ch_5.docx": [999, 999, 999], "1 Chronicles_ch_11.docx": [5868, 5868, 5868], "Matthew_ch_1.docx": [1083, 1105, 1083, 1083, 1105]}
-azo	{"1 Chronicles_ch_2.docx": [1428, 1628, 1428, 1628], "1 Chronicles_ch_5.docx": [999, 999], "1 Chronicles_ch_11.docx": [5868, 5868], "Matthew_ch_1.docx": [1083, 1083, 1105]}
-4res	{"Psalms_ch_82.docx": [298]}
-10heze	{"Matthew_ch_1.docx": [768]}
 azo	{"Joshua_ch_19.docx": [3479], "1 Chronicles_ch_2.docx": [1428, 1628], "1 Chronicles_ch_5.docx": [999], "1 Chronicles_ch_11.docx": [5868], "Matthew_ch_1.docx": [1083, 1105]}

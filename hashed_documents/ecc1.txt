@@ -1,4 +1,2 @@
 
-geo	{"Genesis_ch_2.docx": [1790], "Joshua_ch_12.docx": [18, 18, 18], "Joshua_ch_15.docx": [9, 3056, 9, 3056, 9, 3056], "Joshua_ch_18.docx": [1641, 1641, 1641]}
-geo	{"Genesis_ch_2.docx": [1790], "Joshua_ch_12.docx": [18, 18], "Joshua_ch_15.docx": [9, 3056, 9, 3056], "Joshua_ch_18.docx": [1641, 1641]}
-geo	{"Genesis_ch_2.docx": [1790], "Joshua_ch_12.docx": [18], "Joshua_ch_15.docx": [9, 3056], "Joshua_ch_18.docx": [1641]}
+geo	{"Genesis_ch_2.docx": [1790], "Deuteronomy_ch_34.docx": [2040], "Joshua_ch_12.docx": [18], "Joshua_ch_15.docx": [9, 3056], "Joshua_ch_18.docx": [1641]}

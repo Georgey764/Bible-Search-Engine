@@ -1,4 +1,2 @@
 
-abdia	{"1 Chronicles_ch_8.docx": [2631], "2 Chronicles_ch_17.docx": [916, 916, 916]}
-abdia	{"1 Chronicles_ch_8.docx": [2631], "2 Chronicles_ch_17.docx": [916, 916]}
 abdia	{"1 Chronicles_ch_8.docx": [2631], "2 Chronicles_ch_17.docx": [916]}

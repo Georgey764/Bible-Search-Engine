@@ -1,3 +1,2 @@
 
-pebb	{"Revelation_ch_2.docx": [2878, 2880, 2880]}
 pebb	{"Revelation_ch_2.docx": [2878, 2880]}

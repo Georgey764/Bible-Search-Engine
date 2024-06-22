@@ -1,4 +1,2 @@
 
-shakes	{"Psalms_ch_29.docx": [656], "Psalms_ch_107.docx": [2342, 2342, 2342], "Proverbs_ch_17.docx": [1834, 1834, 1834]}
-shakes	{"Psalms_ch_29.docx": [656], "Psalms_ch_107.docx": [2342, 2342], "Proverbs_ch_17.docx": [1834, 1834]}
 shakes	{"Psalms_ch_29.docx": [656], "Psalms_ch_107.docx": [2342], "Proverbs_ch_17.docx": [1834]}

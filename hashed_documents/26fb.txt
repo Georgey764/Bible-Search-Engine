@@ -1,2 +1,0 @@
-
-17how	{"Genesis_ch_12.docx": [2096], "Exodus_ch_1.docx": [1841], "Exodus_ch_18.docx": [2302], "2 Samuel_ch_5.docx": [2399], "1 Kings_ch_6.docx": [2181], "2 Kings_ch_4.docx": [2671], "1 Chronicles_ch_5.docx": [2022], "2 Chronicles_ch_20.docx": [2571], "2 Chronicles_ch_33.docx": [2941], "Psalms_ch_139.docx": [1606], "Daniel_ch_5.docx": [3220], "Matthew_ch_18.docx": [2135]}

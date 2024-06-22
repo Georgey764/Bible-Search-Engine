@@ -1,4 +1,2 @@
 
-barrel	{"2 Chronicles_ch_2.docx": [2103, 2135, 2135, 2135]}
-barrel	{"2 Chronicles_ch_2.docx": [2103, 2135, 2135]}
 barrel	{"2 Chronicles_ch_2.docx": [2103, 2135]}

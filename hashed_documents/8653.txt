@@ -1,3 +1,2 @@
 
-lys	{"Luke_ch_3.docx": [303, 353, 404, 353, 404], "Acts_ch_16.docx": [31, 31], "Acts_ch_23.docx": [4741, 4741], "Acts_ch_24.docx": [603, 3846, 603, 3846], "2 Timothy_ch_3.docx": [1719, 1719]}
-lys	{"Luke_ch_3.docx": [303, 353, 404], "Acts_ch_16.docx": [31], "Acts_ch_23.docx": [4741], "Acts_ch_24.docx": [603, 3846], "2 Timothy_ch_3.docx": [1719]}
+lys	{"Nehemiah_ch_13.docx": [6810], "Luke_ch_3.docx": [303, 353, 404], "Acts_ch_16.docx": [31], "Acts_ch_23.docx": [4741], "Acts_ch_24.docx": [603, 3846], "2 Timothy_ch_3.docx": [1719]}

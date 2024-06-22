@@ -1,3 +1,0 @@
-
-29fr	{"Joshua_ch_19.docx": [2346], "Psalms_ch_18.docx": [2817], "Proverbs_ch_15.docx": [3012], "Ezekiel_ch_39.docx": [5095]}
-37ge	{"1 Chronicles_ch_9.docx": [5241]}

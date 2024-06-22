@@ -1,4 +1,0 @@
-
-23ma	{"Exodus_ch_28.docx": [2736], "Psalms_ch_69.docx": [2467]}
-10‘l	{"1 Samuel_ch_24.docx": [1441], "Ezekiel_ch_7.docx": [1360]}
-31‘be	{"Jeremiah_ch_48.docx": [3936]}

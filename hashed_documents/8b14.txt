@@ -1,4 +1,2 @@
 
-resent	{"Proverbs_ch_21.docx": [2417], "Ezekiel_ch_25.docx": [1863, 1863, 1863], "Luke_ch_13.docx": [1700, 1700]}
-resent	{"Proverbs_ch_21.docx": [2417], "Ezekiel_ch_25.docx": [1863, 1863], "Luke_ch_13.docx": [1700]}
 resent	{"Proverbs_ch_21.docx": [2417], "Ezekiel_ch_25.docx": [1863], "Luke_ch_13.docx": [1700]}

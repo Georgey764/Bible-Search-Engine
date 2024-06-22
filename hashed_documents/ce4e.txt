@@ -1,6 +1,3 @@
 
 exist!	{"Psalms_ch_104.docx": [3530]}
-speed	{"Luke_ch_18.docx": [830], "2 Corinthians_ch_7.docx": [1783, 1783]}
-exist!	{"Psalms_ch_104.docx": [3530]}
-exist!	{"Psalms_ch_104.docx": [3530]}
 speed	{"Luke_ch_18.docx": [830], "2 Corinthians_ch_7.docx": [1783]}

@@ -1,5 +1,2 @@
 
 will;	{"Psalms_ch_143.docx": [1166]}
-12arp	{"Genesis_ch_11.docx": [1547]}
-will;	{"Psalms_ch_143.docx": [1166]}
-will;	{"Psalms_ch_143.docx": [1166]}

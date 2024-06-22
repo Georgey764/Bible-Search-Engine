@@ -1,8 +1,3 @@
 
 yalama	{"2 Samuel_ch_5.docx": [2270]}
 jereb	{"1 Chronicles_ch_6.docx": [2712]}
-yalama	{"2 Samuel_ch_5.docx": [2270]}
-jereb	{"1 Chronicles_ch_6.docx": [2712]}
-7roar	{"Psalms_ch_98.docx": [646]}
-yalama	{"2 Samuel_ch_5.docx": [2270]}
-jereb	{"1 Chronicles_ch_6.docx": [2712]}

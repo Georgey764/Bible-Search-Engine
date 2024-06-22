@@ -1,2 +1,0 @@
-
-6ho	{"Numbers_ch_9.docx": [555], "Joshua_ch_2.docx": [814], "Judges_ch_1.docx": [575], "1 Samuel_ch_8.docx": [589], "2 Kings_ch_13.docx": [875], "2 Kings_ch_16.docx": [654], "1 Chronicles_ch_21.docx": [792], "Psalms_ch_51.docx": [699], "Matthew_ch_9.docx": [518], "Matthew_ch_14.docx": [590]}

@@ -1,5 +1,2 @@
 
-blasts	{"Psalms_ch_148.docx": [743], "Isaiah_ch_5.docx": [4596, 4596, 4596], "Isaiah_ch_29.docx": [970, 970, 970], "Jeremiah_ch_4.docx": [2445, 3538, 2445, 3538, 2445, 3538], "Revelation_ch_8.docx": [2127, 2127]}
-15‘don	{"Psalms_ch_105.docx": [1177]}
-blasts	{"Psalms_ch_148.docx": [743], "Isaiah_ch_5.docx": [4596, 4596], "Isaiah_ch_29.docx": [970, 970], "Jeremiah_ch_4.docx": [2445, 3538, 2445, 3538], "Revelation_ch_8.docx": [2127]}
 blasts	{"Psalms_ch_148.docx": [743], "Isaiah_ch_5.docx": [4596], "Isaiah_ch_29.docx": [970], "Jeremiah_ch_4.docx": [2445, 3538], "Revelation_ch_8.docx": [2127]}

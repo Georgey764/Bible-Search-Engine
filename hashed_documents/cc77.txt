@@ -1,8 +1,3 @@
 
  29ba	{"1 Chronicles_ch_4.docx": [3437]}
 solut	{"Isaiah_ch_8.docx": [1541]}
- 29ba	{"1 Chronicles_ch_4.docx": [3437]}
-92h	{"Psalms_ch_119.docx": [7665]}
-solut	{"Isaiah_ch_8.docx": [1541]}
- 29ba	{"1 Chronicles_ch_4.docx": [3437]}
-solut	{"Isaiah_ch_8.docx": [1541]}

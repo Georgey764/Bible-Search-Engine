@@ -1,4 +1,2 @@
 
-pasej	{"Nehemiah_ch_3.docx": [2263, 2275, 2290, 2275, 2290, 2275, 2290]}
-pasej	{"Nehemiah_ch_3.docx": [2263, 2275, 2290, 2275, 2290]}
 pasej	{"Nehemiah_ch_3.docx": [2263, 2275, 2290]}

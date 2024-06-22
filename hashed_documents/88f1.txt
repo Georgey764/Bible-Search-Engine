@@ -1,6 +1,2 @@
 
-bindi	{"Matthew_ch_23.docx": [2037, 2239, 2239, 2239]}
-25they	{"Exodus_ch_39.docx": [3086], "Leviticus_ch_18.docx": [2936]}
-50[th	{"Numbers_ch_7.docx": [5937]}
-bindi	{"Matthew_ch_23.docx": [2037, 2239, 2239]}
 bindi	{"Matthew_ch_23.docx": [2037, 2239]}

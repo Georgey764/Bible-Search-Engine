@@ -1,5 +1,2 @@
 
-unthi	{"Psalms_ch_49.docx": [2163], "Psalms_ch_73.docx": [1944, 1944, 1944], "Proverbs_ch_15.docx": [2112, 2112, 2112], "Proverbs_ch_17.docx": [2685, 2685, 2685]}
-13unt	{"Deuteronomy_ch_20.docx": [1758]}
-unthi	{"Psalms_ch_49.docx": [2163], "Psalms_ch_73.docx": [1944, 1944], "Proverbs_ch_15.docx": [2112, 2112], "Proverbs_ch_17.docx": [2685, 2685]}
 unthi	{"Psalms_ch_49.docx": [2163], "Psalms_ch_73.docx": [1944], "Proverbs_ch_15.docx": [2112], "Proverbs_ch_17.docx": [2685]}

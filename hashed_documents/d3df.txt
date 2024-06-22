@@ -1,4 +1,0 @@
-
-18alon	{"Genesis_ch_31.docx": [2244], "1 Samuel_ch_17.docx": [2303]}
-62,7	{"Numbers_ch_1.docx": [3595], "Numbers_ch_2.docx": [2309]}
-9remem	{"Isaiah_ch_46.docx": [1285]}

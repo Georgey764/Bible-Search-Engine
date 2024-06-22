@@ -1,4 +1,2 @@
 
-accaro	{"Joshua_ch_15.docx": [1717, 5217, 5256, 5217, 5217, 5256], "Joshua_ch_19.docx": [3427, 3427, 3427]}
-accaro	{"Joshua_ch_15.docx": [1717, 5217, 5217, 5256], "Joshua_ch_19.docx": [3427, 3427]}
 accaro	{"Joshua_ch_15.docx": [1717, 5217, 5256], "Joshua_ch_19.docx": [3427]}

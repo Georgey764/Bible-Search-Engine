@@ -1,4 +1,2 @@
 
-runne	{"2 Chronicles_ch_30.docx": [837, 1811, 1811, 1811]}
-runne	{"2 Chronicles_ch_30.docx": [837, 1811, 1811]}
 runne	{"2 Chronicles_ch_30.docx": [837, 1811]}

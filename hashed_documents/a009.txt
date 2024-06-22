@@ -1,4 +1,2 @@
 
-misca	{"Numbers_ch_12.docx": [1320], "Job_ch_3.docx": [1467, 1467, 1467], "Ecclesiastes_ch_6.docx": [531, 531, 531], "Isaiah_ch_65.docx": [3474, 3474, 3474], "1 Corinthians_ch_15.docx": [764, 764]}
-misca	{"Numbers_ch_12.docx": [1320], "Job_ch_3.docx": [1467, 1467], "Ecclesiastes_ch_6.docx": [531, 531], "Isaiah_ch_65.docx": [3474, 3474], "1 Corinthians_ch_15.docx": [764]}
 misca	{"Numbers_ch_12.docx": [1320], "Job_ch_3.docx": [1467], "Ecclesiastes_ch_6.docx": [531], "Isaiah_ch_65.docx": [3474], "1 Corinthians_ch_15.docx": [764]}

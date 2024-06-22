@@ -1,3 +1,2 @@
 
-one-w	{"1 Timothy_ch_3.docx": [206, 1395, 1395], "Titus_ch_1.docx": [746, 746]}
 one-w	{"1 Timothy_ch_3.docx": [206, 1395], "Titus_ch_1.docx": [746]}

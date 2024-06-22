@@ -1,6 +1,2 @@
 
 meliku	{"Nehemiah_ch_12.docx": [1160]}
-21‘bu	{"Exodus_ch_18.docx": [2850], "Job_ch_9.docx": [1896], "Isaiah_ch_7.docx": [3028], "Isaiah_ch_41.docx": [3510], "Ezekiel_ch_3.docx": [3451], "Ezekiel_ch_20.docx": [3432]}
-meliku	{"Nehemiah_ch_12.docx": [1160]}
-2[t	{"Song of Solomon_ch_1.docx": [61], "Zechariah_ch_9.docx": [44]}
-meliku	{"Nehemiah_ch_12.docx": [1160]}

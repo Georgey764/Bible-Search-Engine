@@ -1,4 +1,2 @@
 
-joke!	{"Nehemiah_ch_2.docx": [4732], "Ecclesiastes_ch_3.docx": [2229, 2229, 2229]}
-joke!	{"Nehemiah_ch_2.docx": [4732], "Ecclesiastes_ch_3.docx": [2229, 2229]}
 joke!	{"Nehemiah_ch_2.docx": [4732], "Ecclesiastes_ch_3.docx": [2229]}

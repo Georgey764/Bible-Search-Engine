@@ -1,4 +1,2 @@
 
-omega	{"Revelation_ch_1.docx": [1177, 1731, 1731], "Revelation_ch_21.docx": [833, 833]}
-51‘ye	{"Ezekiel_ch_16.docx": [8268]}
-omega	{"Revelation_ch_1.docx": [1177, 1731], "Revelation_ch_21.docx": [833]}
+omega	{"Revelation_ch_1.docx": [1177, 1731], "Revelation_ch_21.docx": [833], "Revelation_ch_22.docx": [1950]}

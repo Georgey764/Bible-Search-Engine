@@ -1,4 +1,2 @@
 
-win!	{"Hosea_ch_11.docx": [655], "Habakkuk_ch_1.docx": [1825, 1825, 1825], "1 Corinthians_ch_9.docx": [3376, 3376]}
-win!	{"Hosea_ch_11.docx": [655], "Habakkuk_ch_1.docx": [1825, 1825], "1 Corinthians_ch_9.docx": [3376]}
-win!	{"Hosea_ch_11.docx": [655], "Habakkuk_ch_1.docx": [1825], "1 Corinthians_ch_9.docx": [3376]}
+win!	{"Hosea_ch_11.docx": [655], "Habakkuk_ch_1.docx": [1825], "Habakkuk_ch_3.docx": [3677], "1 Corinthians_ch_9.docx": [3376]}

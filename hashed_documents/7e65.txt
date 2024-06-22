@@ -1,5 +1,2 @@
 
-sousa	{"1 Chronicles_ch_18.docx": [2160], "Ezra_ch_4.docx": [1460, 1460, 1460]}
-sousa	{"1 Chronicles_ch_18.docx": [2160], "Ezra_ch_4.docx": [1460, 1460]}
-5bal	{"Jeremiah_ch_47.docx": [812]}
 sousa	{"1 Chronicles_ch_18.docx": [2160], "Ezra_ch_4.docx": [1460]}

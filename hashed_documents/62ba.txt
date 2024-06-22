@@ -1,5 +1,2 @@
 
-dry!	{"Judges_ch_6.docx": [10410], "Isaiah_ch_44.docx": [4895, 4895, 4895], "Hosea_ch_9.docx": [2906, 2906, 2906]}
-dry!	{"Judges_ch_6.docx": [10410], "Isaiah_ch_44.docx": [4895, 4895], "Hosea_ch_9.docx": [2906, 2906]}
-15‘[d	{"Job_ch_10.docx": [1403]}
 dry!	{"Judges_ch_6.docx": [10410], "Isaiah_ch_44.docx": [4895], "Hosea_ch_9.docx": [2906]}

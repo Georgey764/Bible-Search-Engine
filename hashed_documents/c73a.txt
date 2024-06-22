@@ -1,5 +1,2 @@
 
-maso	{"Jeremiah_ch_27.docx": [45]}
-4throu	{"Isaiah_ch_64.docx": [353]}
-maso	{"Jeremiah_ch_27.docx": [45]}
-maso	{"Jeremiah_ch_27.docx": [45]}
+maso	{"2 Samuel_ch_24.docx": [6307], "1 Kings_ch_22.docx": [10105], "Ezra_ch_10.docx": [6320, 6596], "Jeremiah_ch_27.docx": [45], "Lamentations_ch_5.docx": [2442]}

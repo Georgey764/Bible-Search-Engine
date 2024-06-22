@@ -1,5 +1,2 @@
 
-shab	{"2 Kings_ch_17.docx": [426], "Nehemiah_ch_8.docx": [1879, 1879, 1879]}
-shab	{"2 Kings_ch_17.docx": [426], "Nehemiah_ch_8.docx": [1879, 1879]}
-134fro	{"Psalms_ch_119.docx": [11214]}
-shab	{"2 Kings_ch_17.docx": [426], "Nehemiah_ch_8.docx": [1879]}
+shab	{"2 Kings_ch_17.docx": [426], "Ezra_ch_10.docx": [3011], "Nehemiah_ch_8.docx": [1879]}

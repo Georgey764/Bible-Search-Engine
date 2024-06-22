@@ -1,5 +1,2 @@
 
 oron	{"2 Samuel_ch_13.docx": [5589]}
-9sa	{"1 Samuel_ch_24.docx": [1286]}
-oron	{"2 Samuel_ch_13.docx": [5589]}
-oron	{"2 Samuel_ch_13.docx": [5589]}

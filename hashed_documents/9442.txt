@@ -1,3 +1,2 @@
 
-everyb	{"John_ch_5.docx": [3673], "Acts_ch_22.docx": [1027, 1063, 1100, 1027, 1063, 1100], "Romans_ch_4.docx": [3305, 3305], "1 Corinthians_ch_10.docx": [3815, 3815], "2 Timothy_ch_3.docx": [2065, 2065], "Hebrews_ch_3.docx": [2106, 2106], "Hebrews_ch_5.docx": [1189, 1189]}
-everyb	{"John_ch_5.docx": [3673], "Acts_ch_22.docx": [1027, 1063, 1100], "Romans_ch_4.docx": [3305], "1 Corinthians_ch_10.docx": [3815], "2 Timothy_ch_3.docx": [2065], "Hebrews_ch_3.docx": [2106], "Hebrews_ch_5.docx": [1189]}
+everyb	{"Ezekiel_ch_48.docx": [6140], "Daniel_ch_12.docx": [2571], "John_ch_5.docx": [3673], "Acts_ch_22.docx": [1027, 1063, 1100], "Romans_ch_4.docx": [3305], "1 Corinthians_ch_10.docx": [3815], "2 Thessalonians_ch_3.docx": [185], "2 Timothy_ch_3.docx": [2065], "Titus_ch_3.docx": [1971], "Hebrews_ch_3.docx": [2106], "Hebrews_ch_5.docx": [1189]}

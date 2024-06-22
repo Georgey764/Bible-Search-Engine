@@ -1,4 +1,2 @@
 
-sheal	{"Ezra_ch_3.docx": [134, 1488, 1488, 1488], "Ezra_ch_5.docx": [181, 181, 181], "Nehemiah_ch_12.docx": [17, 17, 17], "Haggai_ch_1.docx": [193, 2107, 2557, 2600, 2644, 193, 2107, 2557, 2600, 2644, 193, 2107, 2557, 2600, 2644], "Luke_ch_3.docx": [6525, 6525]}
-sheal	{"Ezra_ch_3.docx": [134, 1488, 1488], "Ezra_ch_5.docx": [181, 181], "Nehemiah_ch_12.docx": [17, 17], "Haggai_ch_1.docx": [193, 2107, 2557, 2600, 2644, 193, 2107, 2557, 2600, 2644], "Luke_ch_3.docx": [6525]}
-sheal	{"Ezra_ch_3.docx": [134, 1488], "Ezra_ch_5.docx": [181], "Nehemiah_ch_12.docx": [17], "Haggai_ch_1.docx": [193, 2107, 2557, 2600, 2644], "Luke_ch_3.docx": [6525]}
+sheal	{"Ezra_ch_3.docx": [134, 1488], "Ezra_ch_5.docx": [181], "Ezra_ch_10.docx": [4885], "Nehemiah_ch_12.docx": [17], "Haggai_ch_1.docx": [193, 2107, 2557, 2600, 2644], "Haggai_ch_2.docx": [139, 4008], "Luke_ch_3.docx": [6525]}

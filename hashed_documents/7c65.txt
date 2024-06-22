@@ -1,4 +1,2 @@
 
-goddes	{"1 Kings_ch_11.docx": [715], "Acts_ch_19.docx": [8166, 8188, 11633, 8166, 8188, 11633]}
-goddes	{"1 Kings_ch_11.docx": [715], "Acts_ch_19.docx": [8166, 8188, 11633]}
-goddes	{"1 Kings_ch_11.docx": [715], "Acts_ch_19.docx": [8166, 8188, 11633]}
+goddes	{"1 Samuel_ch_31.docx": [1470], "1 Kings_ch_11.docx": [715], "Acts_ch_19.docx": [8166, 8188, 11633]}

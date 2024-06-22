@@ -1,7 +1,3 @@
 
-clapp	{"Numbers_ch_24.docx": [1231], "2 Kings_ch_11.docx": [1815, 1815, 1815], "Job_ch_27.docx": [2055, 2055, 2055], "Jeremiah_ch_5.docx": [5372, 5372, 5372], "Jeremiah_ch_50.docx": [4071, 4071, 4071], "Ezekiel_ch_25.docx": [971, 971, 971]}
-scheme	{"Nehemiah_ch_4.docx": [2392], "Proverbs_ch_14.docx": [1877, 1877, 1877], "Jeremiah_ch_49.docx": [2813, 2813, 2813], "2 Corinthians_ch_2.docx": [1256, 1256], "Ephesians_ch_4.docx": [1550, 1577, 1550, 1577]}
-clapp	{"Numbers_ch_24.docx": [1231], "2 Kings_ch_11.docx": [1815, 1815], "Job_ch_27.docx": [2055, 2055], "Jeremiah_ch_5.docx": [5372, 5372], "Jeremiah_ch_50.docx": [4071, 4071], "Ezekiel_ch_25.docx": [971, 971]}
-scheme	{"Nehemiah_ch_4.docx": [2392], "Proverbs_ch_14.docx": [1877, 1877], "Jeremiah_ch_49.docx": [2813, 2813], "2 Corinthians_ch_2.docx": [1256], "Ephesians_ch_4.docx": [1550, 1577]}
-clapp	{"Numbers_ch_24.docx": [1231], "2 Kings_ch_11.docx": [1815], "Job_ch_27.docx": [2055], "Jeremiah_ch_5.docx": [5372], "Jeremiah_ch_50.docx": [4071], "Ezekiel_ch_25.docx": [971]}
+clapp	{"Numbers_ch_24.docx": [1231], "2 Kings_ch_11.docx": [1815], "Job_ch_27.docx": [2055], "Jeremiah_ch_5.docx": [5372], "Jeremiah_ch_50.docx": [4071], "Ezekiel_ch_25.docx": [971], "Nahum_ch_3.docx": [4014]}
 scheme	{"Nehemiah_ch_4.docx": [2392], "Proverbs_ch_14.docx": [1877], "Jeremiah_ch_49.docx": [2813], "2 Corinthians_ch_2.docx": [1256], "Ephesians_ch_4.docx": [1550, 1577]}

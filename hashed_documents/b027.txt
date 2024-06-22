@@ -1,4 +1,2 @@
 
-sizes	{"Numbers_ch_33.docx": [4332], "Ezekiel_ch_13.docx": [3568, 3568, 3568]}
-sizes	{"Numbers_ch_33.docx": [4332], "Ezekiel_ch_13.docx": [3568, 3568]}
 sizes	{"Numbers_ch_33.docx": [4332], "Ezekiel_ch_13.docx": [3568]}

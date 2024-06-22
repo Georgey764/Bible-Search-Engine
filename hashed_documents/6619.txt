@@ -1,7 +1,2 @@
 
-oppon	{"2 Chronicles_ch_26.docx": [1784], "Esther_ch_8.docx": [1719, 1719, 1719], "Job_ch_33.docx": [832, 832, 832], "Psalms_ch_8.docx": [319, 319, 319], "Jeremiah_ch_50.docx": [6386, 6386, 6386], "Jeremiah_ch_51.docx": [6143, 6143, 6143], "Lamentations_ch_2.docx": [744, 744, 744], "Ezekiel_ch_35.docx": [564, 564, 564], "Micah_ch_5.docx": [2641, 2641, 2641], "Zechariah_ch_3.docx": [42, 42, 42]}
-10list	{"Deuteronomy_ch_27.docx": [1352]}
-26[‘an	{"Deuteronomy_ch_27.docx": [3994]}
-oppon	{"2 Chronicles_ch_26.docx": [1784], "Esther_ch_8.docx": [1719, 1719], "Job_ch_33.docx": [832, 832], "Psalms_ch_8.docx": [319, 319], "Jeremiah_ch_50.docx": [6386, 6386], "Jeremiah_ch_51.docx": [6143, 6143], "Lamentations_ch_2.docx": [744, 744], "Ezekiel_ch_35.docx": [564, 564], "Micah_ch_5.docx": [2641, 2641], "Zechariah_ch_3.docx": [42, 42]}
-4pove	{"Proverbs_ch_10.docx": [266]}
 oppon	{"2 Chronicles_ch_26.docx": [1784], "Esther_ch_8.docx": [1719], "Job_ch_33.docx": [832], "Psalms_ch_8.docx": [319], "Jeremiah_ch_50.docx": [6386], "Jeremiah_ch_51.docx": [6143], "Lamentations_ch_2.docx": [744], "Ezekiel_ch_35.docx": [564], "Micah_ch_5.docx": [2641], "Zechariah_ch_3.docx": [42]}

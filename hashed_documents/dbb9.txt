@@ -1,4 +1,3 @@
 
-elasa	{"1 Chronicles_ch_8.docx": [2511], "1 Chronicles_ch_9.docx": [5866, 5866, 5866], "Jeremiah_ch_29.docx": [398, 398, 398]}
-elasa	{"1 Chronicles_ch_8.docx": [2511], "1 Chronicles_ch_9.docx": [5866, 5866], "Jeremiah_ch_29.docx": [398, 398]}
-elasa	{"1 Chronicles_ch_8.docx": [2511], "1 Chronicles_ch_9.docx": [5866], "Jeremiah_ch_29.docx": [398]}
+elasa	{"1 Chronicles_ch_8.docx": [2511], "1 Chronicles_ch_9.docx": [5866], "Ezra_ch_10.docx": [4081], "Jeremiah_ch_29.docx": [398]}
+zenas	{"Titus_ch_3.docx": [1744]}

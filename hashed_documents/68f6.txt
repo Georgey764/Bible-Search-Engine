@@ -1,4 +1,2 @@
 
-brush	{"Isaiah_ch_55.docx": [2191], "Lamentations_ch_2.docx": [1483, 1483, 1483], "Ezekiel_ch_23.docx": [2198, 2198, 2198]}
-brush	{"Isaiah_ch_55.docx": [2191], "Lamentations_ch_2.docx": [1483, 1483], "Ezekiel_ch_23.docx": [2198, 2198]}
 brush	{"Isaiah_ch_55.docx": [2191], "Lamentations_ch_2.docx": [1483], "Ezekiel_ch_23.docx": [2198]}

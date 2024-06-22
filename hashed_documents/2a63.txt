@@ -1,4 +1,2 @@
 
-avail	{"Leviticus_ch_25.docx": [4384, 4599, 4599, 4599], "Mark_ch_3.docx": [1259, 1259], "Mark_ch_5.docx": [2906, 2906], "Revelation_ch_18.docx": [2534, 2534]}
-avail	{"Leviticus_ch_25.docx": [4384, 4599, 4599], "Mark_ch_3.docx": [1259], "Mark_ch_5.docx": [2906], "Revelation_ch_18.docx": [2534]}
-avail	{"Leviticus_ch_25.docx": [4384, 4599], "Mark_ch_3.docx": [1259], "Mark_ch_5.docx": [2906], "Revelation_ch_18.docx": [2534]}
+avail	{"Leviticus_ch_25.docx": [4384, 4599], "Matthew_ch_28.docx": [2635], "Mark_ch_3.docx": [1259], "Mark_ch_5.docx": [2906], "Mark_ch_16.docx": [2569], "Revelation_ch_18.docx": [2534]}

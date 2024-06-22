@@ -1,4 +1,2 @@
 
-switch	{"2 Samuel_ch_7.docx": [2074], "Psalms_ch_89.docx": [3094, 3094, 3094]}
-switch	{"2 Samuel_ch_7.docx": [2074], "Psalms_ch_89.docx": [3094, 3094]}
-switch	{"2 Samuel_ch_7.docx": [2074], "Psalms_ch_89.docx": [3094]}
+switch	{"2 Samuel_ch_7.docx": [2074], "Esther_ch_10.docx": [4504], "Psalms_ch_89.docx": [3094]}

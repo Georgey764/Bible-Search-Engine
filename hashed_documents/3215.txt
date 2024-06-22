@@ -1,2 +1,0 @@
-
-16he	{"Genesis_ch_11.docx": [2094], "Genesis_ch_32.docx": [2117], "Exodus_ch_36.docx": [2187], "Exodus_ch_37.docx": [1551], "Deuteronomy_ch_14.docx": [1387], "Deuteronomy_ch_23.docx": [1749], "1 Samuel_ch_4.docx": [2701], "1 Kings_ch_7.docx": [2283], "2 Kings_ch_18.docx": [2289], "2 Kings_ch_24.docx": [2528], "2 Chronicles_ch_11.docx": [1557], "2 Chronicles_ch_33.docx": [2784], "Psalms_ch_78.docx": [1619], "Psalms_ch_132.docx": [1436], "Psalms_ch_147.docx": [1425], "Isaiah_ch_59.docx": [2436], "Ezekiel_ch_42.docx": [978]}

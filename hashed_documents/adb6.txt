@@ -1,4 +1,2 @@
 
-selmo	{"Numbers_ch_33.docx": [2264, 2306, 3072, 3183, 2306, 3072, 3183, 2306, 3072, 3183], "Joshua_ch_15.docx": [359, 359, 359], "Judges_ch_9.docx": [8670, 8670, 8670], "Psalms_ch_68.docx": [1642, 1642, 1642]}
-selmo	{"Numbers_ch_33.docx": [2264, 2306, 3072, 3183, 2306, 3072, 3183], "Joshua_ch_15.docx": [359, 359], "Judges_ch_9.docx": [8670, 8670], "Psalms_ch_68.docx": [1642, 1642]}
 selmo	{"Numbers_ch_33.docx": [2264, 2306, 3072, 3183], "Joshua_ch_15.docx": [359], "Judges_ch_9.docx": [8670], "Psalms_ch_68.docx": [1642]}

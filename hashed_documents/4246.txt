@@ -1,4 +1,2 @@
 
-bethho	{"1 Samuel_ch_13.docx": [2891], "1 Kings_ch_9.docx": [2854, 2854, 2854], "2 Chronicles_ch_8.docx": [392, 392, 392]}
-bethho	{"1 Samuel_ch_13.docx": [2891], "1 Kings_ch_9.docx": [2854, 2854], "2 Chronicles_ch_8.docx": [392, 392]}
 bethho	{"1 Samuel_ch_13.docx": [2891], "1 Kings_ch_9.docx": [2854], "2 Chronicles_ch_8.docx": [392]}

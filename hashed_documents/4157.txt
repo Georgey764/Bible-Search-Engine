@@ -1,4 +1,2 @@
 
-sneers	{"Job_ch_34.docx": [496], "Proverbs_ch_11.docx": [1280, 1280, 1280], "Proverbs_ch_15.docx": [2073, 2073, 2073]}
-sneers	{"Job_ch_34.docx": [496], "Proverbs_ch_11.docx": [1280, 1280], "Proverbs_ch_15.docx": [2073, 2073]}
 sneers	{"Job_ch_34.docx": [496], "Proverbs_ch_11.docx": [1280], "Proverbs_ch_15.docx": [2073]}

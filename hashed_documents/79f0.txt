@@ -1,5 +1,2 @@
 
-fair!	{"Isaiah_ch_1.docx": [2830], "Zephaniah_ch_2.docx": [276, 276, 276]}
-fair!	{"Isaiah_ch_1.docx": [2830], "Zephaniah_ch_2.docx": [276, 276]}
-2‘bl	{"Isaiah_ch_56.docx": [163]}
 fair!	{"Isaiah_ch_1.docx": [2830], "Zephaniah_ch_2.docx": [276]}

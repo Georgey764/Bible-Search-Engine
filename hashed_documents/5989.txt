@@ -1,4 +1,2 @@
 
-hopin	{"Acts_ch_24.docx": [4510], "Romans_ch_8.docx": [3304, 3304], "2 Corinthians_ch_10.docx": [2302, 2302], "1 Timothy_ch_3.docx": [1619, 1619], "Hebrews_ch_6.docx": [1476, 1476]}
-8shem	{"1 Chronicles_ch_15.docx": [833]}
-hopin	{"Acts_ch_24.docx": [4510], "Romans_ch_8.docx": [3304], "2 Corinthians_ch_10.docx": [2302], "1 Timothy_ch_3.docx": [1619], "Hebrews_ch_6.docx": [1476]}
+hopin	{"Luke_ch_24.docx": [2287], "Acts_ch_24.docx": [4510], "Romans_ch_8.docx": [3304], "2 Corinthians_ch_10.docx": [2302], "1 Timothy_ch_3.docx": [1619], "Philemon_ch_1.docx": [2676], "Hebrews_ch_6.docx": [1476], "2 John_ch_1.docx": [1736]}

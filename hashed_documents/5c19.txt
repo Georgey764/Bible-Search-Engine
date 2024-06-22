@@ -1,5 +1,2 @@
 
-achia	{"2 Samuel_ch_8.docx": [2490], "1 Chronicles_ch_8.docx": [409, 409, 409]}
-19‘y	{"Genesis_ch_3.docx": [2999], "Exodus_ch_23.docx": [2518], "Leviticus_ch_18.docx": [2314], "Leviticus_ch_20.docx": [2845], "Numbers_ch_11.docx": [2915], "Deuteronomy_ch_5.docx": [2233], "Deuteronomy_ch_23.docx": [2333], "1 Samuel_ch_10.docx": [3268], "1 Chronicles_ch_16.docx": [2044], "Job_ch_8.docx": [1699], "Isaiah_ch_48.docx": [3169], "Jeremiah_ch_42.docx": [3459], "Ezekiel_ch_13.docx": [3697], "Ezekiel_ch_16.docx": [3047], "Ezekiel_ch_34.docx": [3417], "Zechariah_ch_8.docx": [3162], "Matthew_ch_12.docx": [2114]}
-achia	{"2 Samuel_ch_8.docx": [2490], "1 Chronicles_ch_8.docx": [409, 409]}
 achia	{"2 Samuel_ch_8.docx": [2490], "1 Chronicles_ch_8.docx": [409]}

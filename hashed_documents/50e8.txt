@@ -1,4 +1,2 @@
 
-mostl	{"Deuteronomy_ch_27.docx": [8], "1 Chronicles_ch_9.docx": [428, 428, 428], "Psalms_ch_90.docx": [1076, 1076, 1076], "Psalms_ch_150.docx": [572, 672, 962], "1 Timothy_ch_4.docx": [1121, 1121]}
-mostl	{"Deuteronomy_ch_27.docx": [8], "1 Chronicles_ch_9.docx": [428, 428], "Psalms_ch_90.docx": [1076, 1076], "1 Timothy_ch_4.docx": [1121]}
-mostl	{"Deuteronomy_ch_27.docx": [8], "1 Chronicles_ch_9.docx": [428], "Psalms_ch_90.docx": [1076], "1 Timothy_ch_4.docx": [1121]}
+mostl	{"Numbers_ch_36.docx": [2285], "Deuteronomy_ch_27.docx": [8], "1 Chronicles_ch_9.docx": [428], "Psalms_ch_90.docx": [1076], "Psalms_ch_150.docx": [572, 672, 962], "Luke_ch_24.docx": [6018], "1 Timothy_ch_4.docx": [1121]}

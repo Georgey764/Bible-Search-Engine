@@ -1,4 +1,2 @@
 
-hoopo	{"Leviticus_ch_11.docx": [2017], "Deuteronomy_ch_14.docx": [1471, 1471, 1471], "Zechariah_ch_5.docx": [1198, 1198, 1198]}
-hoopo	{"Leviticus_ch_11.docx": [2017], "Deuteronomy_ch_14.docx": [1471, 1471], "Zechariah_ch_5.docx": [1198, 1198]}
 hoopo	{"Leviticus_ch_11.docx": [2017], "Deuteronomy_ch_14.docx": [1471], "Zechariah_ch_5.docx": [1198]}

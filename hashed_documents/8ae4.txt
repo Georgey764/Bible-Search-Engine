@@ -1,10 +1,3 @@
 
-soba	{"Genesis_ch_36.docx": [2364, 2570, 3100, 2570, 3100, 2570, 3100], "2 Samuel_ch_5.docx": [2126, 2126, 2126], "2 Samuel_ch_8.docx": [402, 693, 1991, 402, 693, 1991, 402, 693, 1991], "2 Samuel_ch_10.docx": [856, 1082, 2183, 2689, 856, 1082, 2183, 2689, 856, 1082, 2183, 2689], "1 Chronicles_ch_1.docx": [2525, 2525, 2525], "1 Chronicles_ch_2.docx": [4530, 4610, 4530, 4610, 4530, 4610], "1 Chronicles_ch_3.docx": [602, 602, 602], "1 Chronicles_ch_14.docx": [510, 510, 510], "1 Chronicles_ch_24.docx": [2279, 2279, 2279], "Psalms_ch_60.docx": [118, 118, 118]}
-thecu	{"Joshua_ch_15.docx": [6099]}
-soba	{"Genesis_ch_36.docx": [2364, 2570, 3100, 2570, 3100], "2 Samuel_ch_5.docx": [2126, 2126], "2 Samuel_ch_8.docx": [402, 693, 1991, 402, 693, 1991], "2 Samuel_ch_10.docx": [856, 1082, 2183, 2689, 856, 1082, 2183, 2689], "1 Chronicles_ch_1.docx": [2525, 2525], "1 Chronicles_ch_2.docx": [4530, 4610, 4530, 4610], "1 Chronicles_ch_3.docx": [602, 602], "1 Chronicles_ch_14.docx": [510, 510], "1 Chronicles_ch_24.docx": [2279, 2279], "Psalms_ch_60.docx": [118, 118]}
-thecu	{"Joshua_ch_15.docx": [6099]}
-35i’ve	{"Job_ch_39.docx": [3103]}
-3‘{loo	{"Jeremiah_ch_30.docx": [207], "Ezekiel_ch_31.docx": [269], "Ezekiel_ch_34.docx": [314], "Micah_ch_1.docx": [1494], "Malachi_ch_2.docx": [366]}
-14‘who	{"Joel_ch_2.docx": [2412]}
 soba	{"Genesis_ch_36.docx": [2364, 2570, 3100], "2 Samuel_ch_5.docx": [2126], "2 Samuel_ch_8.docx": [402, 693, 1991], "2 Samuel_ch_10.docx": [856, 1082, 2183, 2689], "1 Chronicles_ch_1.docx": [2525], "1 Chronicles_ch_2.docx": [4530, 4610], "1 Chronicles_ch_3.docx": [602], "1 Chronicles_ch_14.docx": [510], "1 Chronicles_ch_24.docx": [2279], "Psalms_ch_60.docx": [118]}
 thecu	{"Joshua_ch_15.docx": [6099]}

@@ -1,4 +1,2 @@
 
-aphi	{"Genesis_ch_25.docx": [322], "1 Samuel_ch_9.docx": [28, 28, 28], "1 Chronicles_ch_7.docx": [1482, 1482, 1482]}
-aphi	{"Genesis_ch_25.docx": [322], "1 Samuel_ch_9.docx": [28, 28], "1 Chronicles_ch_7.docx": [1482, 1482]}
 aphi	{"Genesis_ch_25.docx": [322], "1 Samuel_ch_9.docx": [28], "1 Chronicles_ch_7.docx": [1482]}

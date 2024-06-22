@@ -1,5 +1,2 @@
 
-boiled	{"Exodus_ch_12.docx": [1112], "1 Samuel_ch_2.docx": [2410, 3010, 2410, 3010, 2410, 3010], "2 Kings_ch_6.docx": [4404, 4404, 4404], "2 Chronicles_ch_35.docx": [2436, 2436, 2436], "Lamentations_ch_4.docx": [1551, 1551, 1551], "Ezekiel_ch_24.docx": [1712, 1712, 1712], "Ezekiel_ch_46.docx": [4702, 4702, 4702]}
-3‘also	{"Genesis_ch_9.docx": [382], "Numbers_ch_17.docx": [271], "Deuteronomy_ch_14.docx": [258]}
-boiled	{"Exodus_ch_12.docx": [1112], "1 Samuel_ch_2.docx": [2410, 3010, 2410, 3010], "2 Kings_ch_6.docx": [4404, 4404], "2 Chronicles_ch_35.docx": [2436, 2436], "Lamentations_ch_4.docx": [1551, 1551], "Ezekiel_ch_24.docx": [1712, 1712], "Ezekiel_ch_46.docx": [4702, 4702]}
 boiled	{"Exodus_ch_12.docx": [1112], "1 Samuel_ch_2.docx": [2410, 3010], "2 Kings_ch_6.docx": [4404], "2 Chronicles_ch_35.docx": [2436], "Lamentations_ch_4.docx": [1551], "Ezekiel_ch_24.docx": [1712], "Ezekiel_ch_46.docx": [4702]}

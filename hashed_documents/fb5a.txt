@@ -1,4 +1,3 @@
 
 evil-m	{"Proverbs_ch_19.docx": [1716]}
-evil-m	{"Proverbs_ch_19.docx": [1716]}
-evil-m	{"Proverbs_ch_19.docx": [1716]}
+diot	{"3 John_ch_1.docx": [869]}

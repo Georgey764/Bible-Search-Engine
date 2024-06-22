@@ -1,4 +1,2 @@
 
-consul	{"Deuteronomy_ch_18.docx": [1466], "2 Kings_ch_6.docx": [954, 954, 954], "Isaiah_ch_32.docx": [1047, 1047, 1047]}
-consul	{"Deuteronomy_ch_18.docx": [1466], "2 Kings_ch_6.docx": [954, 954], "Isaiah_ch_32.docx": [1047, 1047]}
 consul	{"Deuteronomy_ch_18.docx": [1466], "2 Kings_ch_6.docx": [954], "Isaiah_ch_32.docx": [1047]}

@@ -1,4 +1,2 @@
 
 tangle	{"Proverbs_ch_28.docx": [1748]}
-tangle	{"Proverbs_ch_28.docx": [1748]}
-tangle	{"Proverbs_ch_28.docx": [1748]}

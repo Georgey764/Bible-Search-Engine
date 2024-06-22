@@ -1,7 +1,3 @@
 
-sop	{"Genesis_ch_36.docx": [1283, 1696, 2630, 1696, 2630, 1696, 2630], "Numbers_ch_26.docx": [4501, 4506, 4501, 4506, 4501, 4506], "Numbers_ch_32.docx": [4943, 4943], "1 Kings_ch_9.docx": [4384, 4384, 4384], "1 Chronicles_ch_7.docx": [4220, 4265, 4220, 4265, 4220, 4265], "1 Chronicles_ch_19.docx": [2542, 2967, 2542, 2967, 2542, 2967], "Ezra_ch_2.docx": [2229, 2229, 2229], "Nehemiah_ch_7.docx": [3329, 3329, 3329], "Acts_ch_20.docx": [1711, 1719, 1728, 1711, 1719, 1728]}
-hand-t	{"2 Kings_ch_4.docx": [5200]}
-sop	{"Genesis_ch_36.docx": [1283, 1696, 2630, 1696, 2630], "Numbers_ch_26.docx": [4501, 4506, 4501, 4506], "1 Kings_ch_9.docx": [4384, 4384], "1 Chronicles_ch_7.docx": [4220, 4265, 4220, 4265], "1 Chronicles_ch_19.docx": [2542, 2967, 2542, 2967], "Ezra_ch_2.docx": [2229, 2229], "Nehemiah_ch_7.docx": [3329, 3329], "Numbers_ch_32.docx": [4943], "Acts_ch_20.docx": [1711, 1719, 1728]}
-hand-t	{"2 Kings_ch_4.docx": [5200]}
-sop	{"Genesis_ch_36.docx": [1283, 1696, 2630], "Numbers_ch_26.docx": [4501, 4506], "Numbers_ch_32.docx": [4943], "1 Kings_ch_9.docx": [4384], "1 Chronicles_ch_7.docx": [4220, 4265], "1 Chronicles_ch_19.docx": [2542, 2967], "Ezra_ch_2.docx": [2229], "Nehemiah_ch_7.docx": [3329], "Acts_ch_20.docx": [1711, 1719, 1728]}
-hand-t	{"2 Kings_ch_4.docx": [5200]}
+sop	{"Genesis_ch_36.docx": [1283, 1696, 2630], "Numbers_ch_26.docx": [4501, 4506], "Numbers_ch_32.docx": [4943], "1 Kings_ch_9.docx": [4384], "1 Chronicles_ch_7.docx": [4220, 4265], "1 Chronicles_ch_19.docx": [2542, 2967], "Ezra_ch_2.docx": [2229], "Nehemiah_ch_7.docx": [3329], "Acts_ch_20.docx": [1711, 1719, 1728], "James_ch_5.docx": [3665, 3879]}
+hand-t	{"2 Kings_ch_4.docx": [5200], "Zechariah_ch_14.docx": [2401]}

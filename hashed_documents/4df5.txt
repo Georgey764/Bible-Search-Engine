@@ -1,2 +1,0 @@
-
-50a	{"Genesis_ch_24.docx": [7683], "Leviticus_ch_14.docx": [7311], "Numbers_ch_16.docx": [7037], "Joshua_ch_15.docx": [5587], "Judges_ch_9.docx": [9164], "2 Samuel_ch_22.docx": [4716], "1 Kings_ch_1.docx": [6957], "1 Chronicles_ch_1.docx": [4210], "Ezra_ch_2.docx": [1999], "Matthew_ch_13.docx": [6635]}

@@ -1,4 +1,2 @@
 
-rabi	{"1 Chronicles_ch_23.docx": [1725, 1740, 1740, 1740], "1 Chronicles_ch_26.docx": [3068, 3068, 3068]}
-rabi	{"1 Chronicles_ch_23.docx": [1725, 1740, 1740], "1 Chronicles_ch_26.docx": [3068, 3068]}
 rabi	{"1 Chronicles_ch_23.docx": [1725, 1740], "1 Chronicles_ch_26.docx": [3068]}

@@ -1,4 +1,2 @@
 
-jachi	{"Exodus_ch_6.docx": [2075], "Numbers_ch_26.docx": [1446, 1451, 4451, 4456, 1446, 1451, 4451, 4456, 1446, 1451, 4451, 4456], "Nehemiah_ch_11.docx": [1581, 1581, 1581]}
-jachi	{"Exodus_ch_6.docx": [2075], "Numbers_ch_26.docx": [1446, 1451, 4451, 4456, 1446, 1451, 4451, 4456], "Nehemiah_ch_11.docx": [1581, 1581]}
 jachi	{"Exodus_ch_6.docx": [2075], "Numbers_ch_26.docx": [1446, 1451, 4451, 4456], "Nehemiah_ch_11.docx": [1581]}

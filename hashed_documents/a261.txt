@@ -1,4 +1,2 @@
 
-parche	{"Psalms_ch_102.docx": [357], "Jeremiah_ch_50.docx": [2310, 2310, 2310], "Joel_ch_1.docx": [2797, 2797, 2797]}
-parche	{"Psalms_ch_102.docx": [357], "Jeremiah_ch_50.docx": [2310, 2310], "Joel_ch_1.docx": [2797, 2797]}
 parche	{"Psalms_ch_102.docx": [357], "Jeremiah_ch_50.docx": [2310], "Joel_ch_1.docx": [2797]}

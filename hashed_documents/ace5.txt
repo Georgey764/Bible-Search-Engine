@@ -1,5 +1,2 @@
 
-tall;	{"Exodus_ch_30.docx": [94], "1 Samuel_ch_17.docx": [443, 443, 443]}
-54a	{"Genesis_ch_24.docx": [8006], "Genesis_ch_31.docx": [7726], "Genesis_ch_41.docx": [7019], "Numbers_ch_1.docx": [4968], "Numbers_ch_26.docx": [5399], "Deuteronomy_ch_28.docx": [7387], "1 Kings_ch_8.docx": [8839], "Matthew_ch_13.docx": [7137]}
-tall;	{"Exodus_ch_30.docx": [94], "1 Samuel_ch_17.docx": [443, 443]}
 tall;	{"Exodus_ch_30.docx": [94], "1 Samuel_ch_17.docx": [443]}

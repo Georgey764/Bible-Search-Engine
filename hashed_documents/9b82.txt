@@ -1,4 +1,2 @@
 
-gothom	{"Genesis_ch_36.docx": [1294, 1746, 1746, 1746]}
-gothom	{"Genesis_ch_36.docx": [1294, 1746, 1746]}
 gothom	{"Genesis_ch_36.docx": [1294, 1746]}

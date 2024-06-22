@@ -1,4 +1,2 @@
 
 strut	{"Proverbs_ch_30.docx": [3170]}
-strut	{"Proverbs_ch_30.docx": [3170]}
-strut	{"Proverbs_ch_30.docx": [3170]}

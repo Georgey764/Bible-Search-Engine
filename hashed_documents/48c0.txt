@@ -1,4 +1,2 @@
 
-noos	{"Proverbs_ch_6.docx": [534], "Proverbs_ch_7.docx": [1838, 1838, 1838], "Proverbs_ch_22.docx": [2614, 2614, 2614]}
-noos	{"Proverbs_ch_6.docx": [534], "Proverbs_ch_7.docx": [1838, 1838], "Proverbs_ch_22.docx": [2614, 2614]}
 noos	{"Proverbs_ch_6.docx": [534], "Proverbs_ch_7.docx": [1838], "Proverbs_ch_22.docx": [2614]}

@@ -1,5 +1,2 @@
 
-pedaia	{"Ezekiel_ch_11.docx": [47, 1876, 1876, 1876]}
-24face	{"Proverbs_ch_17.docx": [2355]}
-pedaia	{"Ezekiel_ch_11.docx": [47, 1876, 1876]}
-pedaia	{"Ezekiel_ch_11.docx": [47, 1876]}
+pedaia	{"Nehemiah_ch_13.docx": [1920], "Ezekiel_ch_11.docx": [47, 1876]}

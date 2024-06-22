@@ -1,6 +1,2 @@
 
 bathtu	{"1 Kings_ch_10.docx": [3206]}
-33thei	{"Joshua_ch_19.docx": [2695]}
-bathtu	{"1 Kings_ch_10.docx": [3206]}
-26sol	{"1 Kings_ch_10.docx": [3949]}
-bathtu	{"1 Kings_ch_10.docx": [3206]}

@@ -1,2 +1,0 @@
-
-14bu	{"Exodus_ch_5.docx": [1983], "Leviticus_ch_4.docx": [1675], "Numbers_ch_31.docx": [1590], "Deuteronomy_ch_5.docx": [1367], "2 Samuel_ch_18.docx": [2288], "2 Kings_ch_17.docx": [2383], "2 Chronicles_ch_12.docx": [2119], "2 Chronicles_ch_23.docx": [2859], "Job_ch_1.docx": [2095], "Psalms_ch_10.docx": [1463], "Psalms_ch_86.docx": [1156], "Psalms_ch_105.docx": [1085], "Ezekiel_ch_4.docx": [2142], "Ezekiel_ch_36.docx": [2645], "Ezekiel_ch_44.docx": [2865], "Hosea_ch_10.docx": [3467], "Amos_ch_7.docx": [2878], "Matthew_ch_3.docx": [1676], "Matthew_ch_7.docx": [1700]}

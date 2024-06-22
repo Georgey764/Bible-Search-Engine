@@ -1,4 +1,2 @@
 
-slight	{"Acts_ch_13.docx": [7392]}
-4‘dur	{"Jeremiah_ch_50.docx": [678]}
-slight	{"Acts_ch_13.docx": [7392]}
+slight	{"Isaiah_ch_66.docx": [5291], "Lamentations_ch_5.docx": [2431], "Acts_ch_13.docx": [7392]}

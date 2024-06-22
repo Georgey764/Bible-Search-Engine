@@ -1,2 +1,0 @@
-
-120,0	{"Judges_ch_8.docx": [2099], "1 Kings_ch_5.docx": [1621], "1 Kings_ch_8.docx": [10154], "1 Kings_ch_12.docx": [3450], "1 Chronicles_ch_12.docx": [4613], "2 Chronicles_ch_7.docx": [601], "2 Chronicles_ch_28.docx": [710]}

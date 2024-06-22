@@ -1,3 +1,2 @@
 
 admon	{"Colossians_ch_1.docx": [4241]}
-admon	{"Colossians_ch_1.docx": [4241]}

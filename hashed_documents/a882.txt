@@ -1,5 +1,2 @@
 
-smidge	{"Matthew_ch_6.docx": [3816], "Luke_ch_12.docx": [3238, 3238]}
-20if	{"2 Samuel_ch_11.docx": [2822], "Psalms_ch_44.docx": [1968]}
-smidge	{"Matthew_ch_6.docx": [3816], "Luke_ch_12.docx": [3238]}
 smidge	{"Matthew_ch_6.docx": [3816], "Luke_ch_12.docx": [3238]}

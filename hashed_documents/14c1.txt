@@ -1,4 +1,2 @@
 
-eyeli	{"Job_ch_16.docx": [1607], "Psalms_ch_11.docx": [523, 523, 523], "Psalms_ch_132.docx": [301, 301, 301], "Proverbs_ch_6.docx": [493, 493, 493], "Isaiah_ch_6.docx": [1646, 1646, 1646], "Isaiah_ch_33.docx": [2402, 2402, 2402], "Jeremiah_ch_4.docx": [5264, 5264, 5264], "Jeremiah_ch_9.docx": [3313, 3313, 3313], "John_ch_12.docx": [5543, 5543]}
-eyeli	{"Job_ch_16.docx": [1607], "Psalms_ch_11.docx": [523, 523], "Psalms_ch_132.docx": [301, 301], "Proverbs_ch_6.docx": [493, 493], "Isaiah_ch_6.docx": [1646, 1646], "Isaiah_ch_33.docx": [2402, 2402], "Jeremiah_ch_4.docx": [5264, 5264], "Jeremiah_ch_9.docx": [3313, 3313], "John_ch_12.docx": [5543]}
 eyeli	{"Job_ch_16.docx": [1607], "Psalms_ch_11.docx": [523], "Psalms_ch_132.docx": [301], "Proverbs_ch_6.docx": [493], "Isaiah_ch_6.docx": [1646], "Isaiah_ch_33.docx": [2402], "Jeremiah_ch_4.docx": [5264], "Jeremiah_ch_9.docx": [3313], "John_ch_12.docx": [5543]}

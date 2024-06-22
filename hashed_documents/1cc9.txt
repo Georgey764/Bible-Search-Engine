@@ -1,4 +1,2 @@
 
 uphir	{"Genesis_ch_10.docx": [3048]}
-43son	{"1 Chronicles_ch_6.docx": [3341]}
-uphir	{"Genesis_ch_10.docx": [3048]}

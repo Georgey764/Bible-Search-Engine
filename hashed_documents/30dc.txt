@@ -1,4 +1,2 @@
 
-one;	{"Psalms_ch_4.docx": [335], "Proverbs_ch_6.docx": [605, 605, 605], "Jeremiah_ch_14.docx": [1372, 1372, 1372], "Habakkuk_ch_1.docx": [2015, 2015, 2015]}
-one;	{"Psalms_ch_4.docx": [335], "Proverbs_ch_6.docx": [605, 605], "Jeremiah_ch_14.docx": [1372, 1372], "Habakkuk_ch_1.docx": [2015, 2015]}
-one;	{"Psalms_ch_4.docx": [335], "Proverbs_ch_6.docx": [605], "Jeremiah_ch_14.docx": [1372], "Habakkuk_ch_1.docx": [2015]}
+one;	{"Psalms_ch_4.docx": [335], "Proverbs_ch_6.docx": [605], "Jeremiah_ch_14.docx": [1372], "Nahum_ch_3.docx": [1158], "Habakkuk_ch_1.docx": [2015]}

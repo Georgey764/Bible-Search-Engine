@@ -1,7 +1,3 @@
 
-asht	{"Genesis_ch_14.docx": [565], "Judges_ch_10.docx": [919, 919, 919]}
-this?!	{"Numbers_ch_20.docx": [563]}
-asht	{"Genesis_ch_14.docx": [565], "Judges_ch_10.docx": [919, 919]}
-this?!	{"Numbers_ch_20.docx": [563]}
 asht	{"Genesis_ch_14.docx": [565], "Judges_ch_10.docx": [919]}
 this?!	{"Numbers_ch_20.docx": [563]}

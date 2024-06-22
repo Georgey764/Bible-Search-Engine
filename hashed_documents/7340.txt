@@ -1,4 +1,2 @@
 
-occult	{"Deuteronomy_ch_18.docx": [1343, 1713, 1713, 1713], "Galatians_ch_5.docx": [2411, 2411], "Revelation_ch_9.docx": [2990, 2990]}
-occult	{"Deuteronomy_ch_18.docx": [1343, 1713, 1713], "Galatians_ch_5.docx": [2411], "Revelation_ch_9.docx": [2990]}
 occult	{"Deuteronomy_ch_18.docx": [1343, 1713], "Galatians_ch_5.docx": [2411], "Revelation_ch_9.docx": [2990]}

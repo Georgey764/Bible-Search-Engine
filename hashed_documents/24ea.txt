@@ -1,3 +1,2 @@
 
-foam	{"Mark_ch_9.docx": [2252, 2619, 2619], "Luke_ch_9.docx": [5436, 5436]}
-foam	{"Mark_ch_9.docx": [2252, 2619], "Luke_ch_9.docx": [5436]}
+foam	{"Mark_ch_9.docx": [2252, 2619], "Luke_ch_9.docx": [5436], "Jude_ch_1.docx": [2573]}

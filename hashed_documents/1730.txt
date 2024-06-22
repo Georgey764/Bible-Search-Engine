@@ -1,5 +1,2 @@
 
 us?	{"Judges_ch_14.docx": [2588]}
-us?	{"Judges_ch_14.docx": [2588]}
-1kin	{"1 Kings_ch_1.docx": [5], "1 Kings_ch_11.docx": [5], "1 Chronicles_ch_25.docx": [5]}
-us?	{"Judges_ch_14.docx": [2588]}

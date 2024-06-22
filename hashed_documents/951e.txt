@@ -1,5 +1,2 @@
 
-seized	{"Ezra_ch_9.docx": [1603], "Jeremiah_ch_37.docx": [1688, 1688, 1688], "Jeremiah_ch_48.docx": [5624, 5624, 5624], "Lamentations_ch_4.docx": [3351, 3351, 3351], "Ezekiel_ch_33.docx": [3048, 3048, 3048], "Amos_ch_1.docx": [6398, 6398, 6398], "Nahum_ch_2.docx": [2536, 2536, 2536], "Zechariah_ch_1.docx": [956, 956, 956], "Matthew_ch_11.docx": [1470, 1470, 1470], "Acts_ch_23.docx": [4804, 4804]}
-seized	{"Ezra_ch_9.docx": [1603], "Jeremiah_ch_37.docx": [1688, 1688], "Jeremiah_ch_48.docx": [5624, 5624], "Lamentations_ch_4.docx": [3351, 3351], "Ezekiel_ch_33.docx": [3048, 3048], "Amos_ch_1.docx": [6398, 6398], "Nahum_ch_2.docx": [2536, 2536], "Zechariah_ch_1.docx": [956, 956], "Matthew_ch_11.docx": [1470, 1470], "Acts_ch_23.docx": [4804]}
-17‘[an	{"Zechariah_ch_1.docx": [2944]}
 seized	{"Ezra_ch_9.docx": [1603], "Jeremiah_ch_37.docx": [1688], "Jeremiah_ch_48.docx": [5624], "Lamentations_ch_4.docx": [3351], "Ezekiel_ch_33.docx": [3048], "Amos_ch_1.docx": [6398], "Nahum_ch_2.docx": [2536], "Zechariah_ch_1.docx": [956], "Matthew_ch_11.docx": [1470], "Acts_ch_23.docx": [4804]}

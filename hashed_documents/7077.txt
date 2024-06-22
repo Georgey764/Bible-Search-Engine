@@ -1,4 +1,2 @@
 
-iron;	{"Proverbs_ch_27.docx": [1497], "Daniel_ch_2.docx": [5599, 5599, 5599]}
-iron;	{"Proverbs_ch_27.docx": [1497], "Daniel_ch_2.docx": [5599, 5599]}
 iron;	{"Proverbs_ch_27.docx": [1497], "Daniel_ch_2.docx": [5599]}

@@ -1,4 +1,2 @@
 
-expire	{"Psalms_ch_102.docx": [2699], "Psalms_ch_104.docx": [3481, 3481, 3481], "Isaiah_ch_56.docx": [942, 942, 942], "Hebrews_ch_1.docx": [1835, 1835]}
-expire	{"Psalms_ch_102.docx": [2699], "Psalms_ch_104.docx": [3481, 3481], "Isaiah_ch_56.docx": [942, 942], "Hebrews_ch_1.docx": [1835]}
 expire	{"Psalms_ch_102.docx": [2699], "Psalms_ch_104.docx": [3481], "Isaiah_ch_56.docx": [942], "Hebrews_ch_1.docx": [1835]}

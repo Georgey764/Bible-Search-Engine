@@ -1,2 +1,2 @@
 
-40,	{"Numbers_ch_1.docx": [2956], "Numbers_ch_2.docx": [1804], "Numbers_ch_26.docx": [5141], "Judges_ch_5.docx": [1195], "Judges_ch_12.docx": [1231], "2 Samuel_ch_10.docx": [2677], "1 Kings_ch_4.docx": [3032], "1 Chronicles_ch_12.docx": [4534], "1 Chronicles_ch_19.docx": [2954]}
+implic	{"Ezekiel_ch_48.docx": [7213], "Daniel_ch_12.docx": [3572]}

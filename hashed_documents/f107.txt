@@ -1,3 +1,2 @@
 
-colos	{"Colossians_ch_1.docx": [1, 31, 31], "Colossians_ch_2.docx": [1, 1], "Colossians_ch_3.docx": [1, 1]}
-colos	{"Colossians_ch_1.docx": [1, 31], "Colossians_ch_2.docx": [1], "Colossians_ch_3.docx": [1]}
+colos	{"Philippians_ch_4.docx": [3003, 3020], "Colossians_ch_1.docx": [1, 31], "Colossians_ch_2.docx": [1], "Colossians_ch_3.docx": [1], "Colossians_ch_4.docx": [1]}

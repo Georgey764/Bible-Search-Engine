@@ -1,5 +1,2 @@
 
-gabe	{"Numbers_ch_33.docx": [2565, 2607, 2607, 2607], "Deuteronomy_ch_2.docx": [1033, 1033, 1033], "2 Samuel_ch_23.docx": [4461, 4461, 4461], "1 Kings_ch_4.docx": [1396, 1964, 1396, 1396, 1964], "1 Chronicles_ch_8.docx": [301, 301, 301]}
-57‘ho	{"Leviticus_ch_13.docx": [8048]}
-gabe	{"Numbers_ch_33.docx": [2565, 2607, 2607], "Deuteronomy_ch_2.docx": [1033, 1033], "2 Samuel_ch_23.docx": [4461, 4461], "1 Kings_ch_4.docx": [1396, 1396, 1964], "1 Chronicles_ch_8.docx": [301, 301]}
 gabe	{"Numbers_ch_33.docx": [2565, 2607], "Deuteronomy_ch_2.docx": [1033], "2 Samuel_ch_23.docx": [4461], "1 Kings_ch_4.docx": [1396, 1964], "1 Chronicles_ch_8.docx": [301]}

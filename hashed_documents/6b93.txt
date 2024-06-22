@@ -1,4 +1,2 @@
 
-outcri	{"Nehemiah_ch_5.docx": [855], "Ezekiel_ch_27.docx": [4172, 4172, 4172]}
-outcri	{"Nehemiah_ch_5.docx": [855], "Ezekiel_ch_27.docx": [4172, 4172]}
 outcri	{"Nehemiah_ch_5.docx": [855], "Ezekiel_ch_27.docx": [4172]}

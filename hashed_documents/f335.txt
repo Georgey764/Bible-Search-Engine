@@ -1,5 +1,2 @@
 
 arabe	{"1 Chronicles_ch_11.docx": [5581]}
-1‘onc	{"Deuteronomy_ch_26.docx": [6]}
-arabe	{"1 Chronicles_ch_11.docx": [5581]}
-arabe	{"1 Chronicles_ch_11.docx": [5581]}

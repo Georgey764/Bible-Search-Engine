@@ -1,5 +1,2 @@
 
-vender	{"Nehemiah_ch_3.docx": [15217, 15234, 15253, 15234, 15253, 15234, 15253]}
-vender	{"Nehemiah_ch_3.docx": [15217, 15234, 15253, 15234, 15253]}
-22pra	{"Psalms_ch_103.docx": [1904]}
 vender	{"Nehemiah_ch_3.docx": [15217, 15234, 15253]}

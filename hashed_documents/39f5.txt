@@ -1,7 +1,3 @@
 
 phic	{"Genesis_ch_26.docx": [3667]}
 prol	{"Psalms_ch_144.docx": [1431]}
-phic	{"Genesis_ch_26.docx": [3667]}
-prol	{"Psalms_ch_144.docx": [1431]}
-phic	{"Genesis_ch_26.docx": [3667]}
-prol	{"Psalms_ch_144.docx": [1431]}

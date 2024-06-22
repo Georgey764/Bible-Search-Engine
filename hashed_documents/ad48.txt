@@ -1,4 +1,2 @@
 
-oldes	{"1 Samuel_ch_17.docx": [1528, 1797, 8679, 1797, 8679, 1797, 8679], "1 Samuel_ch_18.docx": [17, 17, 17], "Proverbs_ch_20.docx": [8, 8, 8], "John_ch_8.docx": [854, 854]}
-oldes	{"1 Samuel_ch_17.docx": [1528, 1797, 8679, 1797, 8679], "1 Samuel_ch_18.docx": [17, 17], "Proverbs_ch_20.docx": [8, 8], "John_ch_8.docx": [854]}
-oldes	{"1 Samuel_ch_17.docx": [1528, 1797, 8679], "1 Samuel_ch_18.docx": [17], "Proverbs_ch_20.docx": [8], "John_ch_8.docx": [854]}
+oldes	{"Ruth_ch_4.docx": [4480], "1 Samuel_ch_17.docx": [1528, 1797, 8679], "1 Samuel_ch_18.docx": [17], "Esther_ch_10.docx": [1226], "Proverbs_ch_20.docx": [8], "Isaiah_ch_66.docx": [5277], "Lamentations_ch_5.docx": [2426], "Daniel_ch_12.docx": [2322], "John_ch_8.docx": [854]}

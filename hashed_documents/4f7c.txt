@@ -1,2 +1,0 @@
-
-3now	{"Numbers_ch_12.docx": [261], "2 Chronicles_ch_17.docx": [322], "Job_ch_21.docx": [115], "Job_ch_38.docx": [220], "Psalms_ch_75.docx": [267], "Isaiah_ch_5.docx": [447]}

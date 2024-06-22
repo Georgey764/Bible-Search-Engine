@@ -1,4 +1,0 @@
-
-9jeh	{"Deuteronomy_ch_28.docx": [960], "Psalms_ch_9.docx": [856], "Amos_ch_8.docx": [1398]}
-10u	{"Jeremiah_ch_24.docx": [1660], "Daniel_ch_8.docx": [1422]}
-41kir	{"Jeremiah_ch_48.docx": [5618]}

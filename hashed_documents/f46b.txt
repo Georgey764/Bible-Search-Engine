@@ -1,10 +1,4 @@
 
 raabij	{"1 Chronicles_ch_24.docx": [2315]}
-ginne	{"Nehemiah_ch_10.docx": [292], "Nehemiah_ch_12.docx": [243, 1411, 243, 1411, 243, 1411]}
-curing	{"Matthew_ch_4.docx": [2803], "Matthew_ch_9.docx": [4692, 4692, 4692], "Luke_ch_9.docx": [579, 579]}
-raabij	{"1 Chronicles_ch_24.docx": [2315]}
-ginne	{"Nehemiah_ch_10.docx": [292], "Nehemiah_ch_12.docx": [243, 1411, 243, 1411]}
-curing	{"Matthew_ch_4.docx": [2803], "Matthew_ch_9.docx": [4692, 4692], "Luke_ch_9.docx": [579]}
-raabij	{"1 Chronicles_ch_24.docx": [2315]}
 ginne	{"Nehemiah_ch_10.docx": [292], "Nehemiah_ch_12.docx": [243, 1411]}
 curing	{"Matthew_ch_4.docx": [2803], "Matthew_ch_9.docx": [4692], "Luke_ch_9.docx": [579]}

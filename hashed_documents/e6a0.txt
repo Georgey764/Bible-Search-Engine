@@ -1,4 +1,2 @@
 
-unqua	{"Zechariah_ch_11.docx": [2834], "Titus_ch_1.docx": [2154, 2154]}
-unqua	{"Zechariah_ch_11.docx": [2834], "Titus_ch_1.docx": [2154]}
 unqua	{"Zechariah_ch_11.docx": [2834], "Titus_ch_1.docx": [2154]}

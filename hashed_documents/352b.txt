@@ -1,4 +1,2 @@
 
-steep	{"Joshua_ch_7.docx": [1198], "Matthew_ch_8.docx": [4159, 4159, 4159], "Mark_ch_5.docx": [1266, 1266], "Luke_ch_8.docx": [4977, 4977]}
-steep	{"Joshua_ch_7.docx": [1198], "Matthew_ch_8.docx": [4159, 4159], "Mark_ch_5.docx": [1266], "Luke_ch_8.docx": [4977]}
 steep	{"Joshua_ch_7.docx": [1198], "Matthew_ch_8.docx": [4159], "Mark_ch_5.docx": [1266], "Luke_ch_8.docx": [4977]}

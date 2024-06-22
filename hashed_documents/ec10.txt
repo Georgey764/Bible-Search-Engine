@@ -1,5 +1,2 @@
 
-rowin	{"1 Kings_ch_9.docx": [4173], "Matthew_ch_14.docx": [2869, 2869, 2869], "Mark_ch_6.docx": [6516, 6516]}
-rowin	{"1 Kings_ch_9.docx": [4173], "Matthew_ch_14.docx": [2869, 2869], "Mark_ch_6.docx": [6516]}
-20l	{"2 Kings_ch_21.docx": [3687], "Proverbs_ch_19.docx": [1800]}
 rowin	{"1 Kings_ch_9.docx": [4173], "Matthew_ch_14.docx": [2869], "Mark_ch_6.docx": [6516]}

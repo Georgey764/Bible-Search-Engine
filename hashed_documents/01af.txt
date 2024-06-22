@@ -1,4 +1,2 @@
 
-stems	{"Genesis_ch_40.docx": [959, 1301, 1301, 1301], "Exodus_ch_37.docx": [1787, 1787, 1787]}
-stems	{"Genesis_ch_40.docx": [959, 1301, 1301], "Exodus_ch_37.docx": [1787, 1787]}
 stems	{"Genesis_ch_40.docx": [959, 1301], "Exodus_ch_37.docx": [1787]}

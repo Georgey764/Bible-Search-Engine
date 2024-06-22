@@ -1,4 +1,3 @@
 
-pains	{"Genesis_ch_35.docx": [2254], "Exodus_ch_9.docx": [2403, 2403, 2403], "Job_ch_14.docx": [2388, 2388, 2388], "Psalms_ch_39.docx": [279, 279, 279], "Isaiah_ch_13.docx": [1044, 1044, 1044], "Isaiah_ch_23.docx": [471, 471, 471], "Isaiah_ch_54.docx": [113, 113, 113], "Romans_ch_8.docx": [2844, 2844], "Galatians_ch_4.docx": [2210, 3221, 2210, 3221]}
-pains	{"Genesis_ch_35.docx": [2254], "Exodus_ch_9.docx": [2403, 2403], "Job_ch_14.docx": [2388, 2388], "Psalms_ch_39.docx": [279, 279], "Isaiah_ch_13.docx": [1044, 1044], "Isaiah_ch_23.docx": [471, 471], "Isaiah_ch_54.docx": [113, 113], "Romans_ch_8.docx": [2844], "Galatians_ch_4.docx": [2210, 3221]}
-pains	{"Genesis_ch_35.docx": [2254], "Exodus_ch_9.docx": [2403], "Job_ch_14.docx": [2388], "Psalms_ch_39.docx": [279], "Isaiah_ch_13.docx": [1044], "Isaiah_ch_23.docx": [471], "Isaiah_ch_54.docx": [113], "Romans_ch_8.docx": [2844], "Galatians_ch_4.docx": [2210, 3221]}
+pains	{"Genesis_ch_35.docx": [2254], "Exodus_ch_9.docx": [2403], "Job_ch_14.docx": [2388], "Psalms_ch_39.docx": [279], "Isaiah_ch_13.docx": [1044], "Isaiah_ch_23.docx": [471], "Isaiah_ch_54.docx": [113], "Romans_ch_8.docx": [2844], "Galatians_ch_4.docx": [2210, 3221], "1 Thessalonians_ch_5.docx": [370]}
+mediu	{"Ezekiel_ch_48.docx": [8272]}

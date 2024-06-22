@@ -1,4 +1,2 @@
 
-dreame	{"Genesis_ch_31.docx": [1017], "Genesis_ch_37.docx": [753, 2522, 753, 2522, 753, 2522], "Genesis_ch_41.docx": [101, 101, 101], "Deuteronomy_ch_13.docx": [279, 556, 279, 556, 279, 556], "Jeremiah_ch_29.docx": [1423, 1423, 1423], "Daniel_ch_2.docx": [518, 518, 518]}
-dreame	{"Genesis_ch_31.docx": [1017], "Genesis_ch_37.docx": [753, 2522, 753, 2522], "Genesis_ch_41.docx": [101, 101], "Deuteronomy_ch_13.docx": [279, 556, 279, 556], "Jeremiah_ch_29.docx": [1423, 1423], "Daniel_ch_2.docx": [518, 518]}
 dreame	{"Genesis_ch_31.docx": [1017], "Genesis_ch_37.docx": [753, 2522], "Genesis_ch_41.docx": [101], "Deuteronomy_ch_13.docx": [279, 556], "Jeremiah_ch_29.docx": [1423], "Daniel_ch_2.docx": [518]}

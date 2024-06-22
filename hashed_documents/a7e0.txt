@@ -1,5 +1,2 @@
 
 ignite	{"Psalms_ch_18.docx": [1001]}
-14i	{"2 Samuel_ch_7.docx": [1922], "1 Chronicles_ch_17.docx": [1947], "Nehemiah_ch_2.docx": [3257], "Job_ch_4.docx": [1306], "Psalms_ch_31.docx": [1594], "Psalms_ch_38.docx": [1166], "Psalms_ch_55.docx": [1336], "Psalms_ch_71.docx": [1334], "Psalms_ch_116.docx": [1122], "Psalms_ch_119.docx": [964], "Isaiah_ch_8.docx": [2094], "Jeremiah_ch_7.docx": [2037], "Jeremiah_ch_42.docx": [2153], "Ezekiel_ch_29.docx": [2410], "Ezekiel_ch_37.docx": [2090], "Daniel_ch_5.docx": [2600], "Hosea_ch_7.docx": [2699]}
-ignite	{"Psalms_ch_18.docx": [1001]}
-ignite	{"Psalms_ch_18.docx": [1001]}

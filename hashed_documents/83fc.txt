@@ -1,3 +1,2 @@
 
-convin	{"Acts_ch_12.docx": [4038], "Acts_ch_14.docx": [3950, 3950], "Acts_ch_23.docx": [3603, 3603], "Acts_ch_26.docx": [6335, 6335], "Romans_ch_4.docx": [3129, 3129], "Romans_ch_8.docx": [4997, 4997], "2 Corinthians_ch_5.docx": [746, 754, 746, 754], "2 Timothy_ch_3.docx": [2281, 2281], "Hebrews_ch_6.docx": [1120, 1120]}
 convin	{"Acts_ch_12.docx": [4038], "Acts_ch_14.docx": [3950], "Acts_ch_23.docx": [3603], "Acts_ch_26.docx": [6335], "Romans_ch_4.docx": [3129], "Romans_ch_8.docx": [4997], "2 Corinthians_ch_5.docx": [746, 754], "2 Timothy_ch_3.docx": [2281], "Hebrews_ch_6.docx": [1120]}

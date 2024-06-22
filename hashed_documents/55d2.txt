@@ -1,3 +1,2 @@
 
-purit	{"Ephesians_ch_4.docx": [3203, 3218, 3218], "1 Timothy_ch_4.docx": [1384, 1384], "1 Timothy_ch_5.docx": [38, 38]}
 purit	{"Ephesians_ch_4.docx": [3203, 3218], "1 Timothy_ch_4.docx": [1384], "1 Timothy_ch_5.docx": [38]}

@@ -1,4 +1,2 @@
 
-shebah	{"Judges_ch_20.docx": [17], "Isaiah_ch_43.docx": [572, 572, 572]}
-shebah	{"Judges_ch_20.docx": [17], "Isaiah_ch_43.docx": [572, 572]}
 shebah	{"Judges_ch_20.docx": [17], "Isaiah_ch_43.docx": [572]}

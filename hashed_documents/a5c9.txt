@@ -1,5 +1,2 @@
 
 lye	{"Jeremiah_ch_2.docx": [3551]}
-2,600	{"2 Chronicles_ch_26.docx": [1757], "2 Chronicles_ch_35.docx": [1553]}
-lye	{"Jeremiah_ch_2.docx": [3551]}
-lye	{"Jeremiah_ch_2.docx": [3551]}

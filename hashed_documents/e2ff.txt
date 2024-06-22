@@ -1,5 +1,2 @@
 
-joke	{"Genesis_ch_34.docx": [797], "Nehemiah_ch_1.docx": [358, 358, 358], "Nehemiah_ch_2.docx": [4732, 4732, 4732], "Job_ch_17.docx": [427, 427, 427], "Job_ch_31.docx": [375, 375, 375], "Proverbs_ch_26.docx": [1667, 1667, 1667], "Ecclesiastes_ch_3.docx": [2229, 2229, 2229], "Jeremiah_ch_48.docx": [3366, 3366, 3366], "Acts_ch_2.docx": [7165, 7165], "Ephesians_ch_5.docx": [387, 387]}
-joke	{"Genesis_ch_34.docx": [797], "Nehemiah_ch_1.docx": [358, 358], "Nehemiah_ch_2.docx": [4732, 4732], "Job_ch_17.docx": [427, 427], "Job_ch_31.docx": [375, 375], "Proverbs_ch_26.docx": [1667, 1667], "Ecclesiastes_ch_3.docx": [2229, 2229], "Jeremiah_ch_48.docx": [3366, 3366], "Acts_ch_2.docx": [7165], "Ephesians_ch_5.docx": [387]}
-7tru	{"Proverbs_ch_1.docx": [601], "Proverbs_ch_17.docx": [731]}
 joke	{"Genesis_ch_34.docx": [797], "Nehemiah_ch_1.docx": [358], "Nehemiah_ch_2.docx": [4732], "Job_ch_17.docx": [427], "Job_ch_31.docx": [375], "Proverbs_ch_26.docx": [1667], "Ecclesiastes_ch_3.docx": [2229], "Jeremiah_ch_48.docx": [3366], "Acts_ch_2.docx": [7165], "Ephesians_ch_5.docx": [387]}

@@ -1,4 +1,2 @@
 
-lashe	{"Deuteronomy_ch_25.docx": [204], "Jeremiah_ch_6.docx": [1121, 1121, 1121], "Luke_ch_12.docx": [6203, 6203]}
-lashe	{"Deuteronomy_ch_25.docx": [204], "Jeremiah_ch_6.docx": [1121, 1121], "Luke_ch_12.docx": [6203]}
 lashe	{"Deuteronomy_ch_25.docx": [204], "Jeremiah_ch_6.docx": [1121], "Luke_ch_12.docx": [6203]}

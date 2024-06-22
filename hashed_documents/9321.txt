@@ -1,4 +1,2 @@
 
-sek	{"Joshua_ch_15.docx": [4411], "1 Chronicles_ch_8.docx": [664, 664]}
-sek	{"1 Chronicles_ch_8.docx": [664, 664]}
 sek	{"Joshua_ch_15.docx": [4411], "1 Chronicles_ch_8.docx": [664]}

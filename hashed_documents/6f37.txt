@@ -1,4 +1,2 @@
 
-curry	{"Psalms_ch_45.docx": [1932], "Ezekiel_ch_12.docx": [4180, 4180, 4180]}
-curry	{"Psalms_ch_45.docx": [1932], "Ezekiel_ch_12.docx": [4180, 4180]}
 curry	{"Psalms_ch_45.docx": [1932], "Ezekiel_ch_12.docx": [4180]}

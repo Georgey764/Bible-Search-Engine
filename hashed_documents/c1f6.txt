@@ -1,10 +1,4 @@
 
-gerges	{"Genesis_ch_15.docx": [2704], "Exodus_ch_3.docx": [1117, 2932, 1117, 2932, 1117, 2932], "Exodus_ch_13.docx": [460, 460, 460], "Exodus_ch_23.docx": [3186, 3186, 3186], "Exodus_ch_33.docx": [237, 237, 237], "Exodus_ch_34.docx": [1669, 1669, 1669], "Deuteronomy_ch_7.docx": [33, 33, 33], "Deuteronomy_ch_20.docx": [2527, 2527, 2527], "1 Kings_ch_9.docx": [3169, 3169, 3169], "Nehemiah_ch_9.docx": [1809, 1809, 1809]}
-burial	{"Genesis_ch_23.docx": [983], "Matthew_ch_26.docx": [1099, 1099, 1099], "Mark_ch_14.docx": [967, 967], "John_ch_12.docx": [1009, 1009], "John_ch_19.docx": [5500, 5500]}
-cumi	{"Isaiah_ch_28.docx": [3888, 4135, 4208, 4135, 4208, 4135, 4208], "Matthew_ch_23.docx": [2773, 2773, 2773], "Mark_ch_5.docx": [4808, 4808]}
-gerges	{"Genesis_ch_15.docx": [2704], "Exodus_ch_3.docx": [1117, 2932, 1117, 2932], "Exodus_ch_13.docx": [460, 460], "Exodus_ch_23.docx": [3186, 3186], "Exodus_ch_33.docx": [237, 237], "Exodus_ch_34.docx": [1669, 1669], "Deuteronomy_ch_7.docx": [33, 33], "Deuteronomy_ch_20.docx": [2527, 2527], "1 Kings_ch_9.docx": [3169, 3169], "Nehemiah_ch_9.docx": [1809, 1809]}
-burial	{"Genesis_ch_23.docx": [983], "Matthew_ch_26.docx": [1099, 1099], "Mark_ch_14.docx": [967], "John_ch_12.docx": [1009], "John_ch_19.docx": [5500]}
-cumi	{"Isaiah_ch_28.docx": [3888, 4135, 4208, 4135, 4208], "Matthew_ch_23.docx": [2773, 2773], "Mark_ch_5.docx": [4808]}
-gerges	{"Genesis_ch_15.docx": [2704], "Exodus_ch_3.docx": [1117, 2932], "Exodus_ch_13.docx": [460], "Exodus_ch_23.docx": [3186], "Exodus_ch_33.docx": [237], "Exodus_ch_34.docx": [1669], "Deuteronomy_ch_7.docx": [33], "Deuteronomy_ch_20.docx": [2527], "1 Kings_ch_9.docx": [3169], "Nehemiah_ch_9.docx": [1809]}
-burial	{"Genesis_ch_23.docx": [983], "Matthew_ch_26.docx": [1099], "Mark_ch_14.docx": [967], "John_ch_12.docx": [1009], "John_ch_19.docx": [5500]}
+gerges	{"Genesis_ch_15.docx": [2704], "Exodus_ch_3.docx": [1117, 2932], "Exodus_ch_13.docx": [460], "Exodus_ch_23.docx": [3186], "Exodus_ch_33.docx": [237], "Exodus_ch_34.docx": [1669], "Deuteronomy_ch_7.docx": [33], "Deuteronomy_ch_20.docx": [2527], "Joshua_ch_24.docx": [1807], "1 Kings_ch_9.docx": [3169], "Nehemiah_ch_9.docx": [1809]}
+burial	{"Genesis_ch_23.docx": [983], "Joshua_ch_24.docx": [5717], "Matthew_ch_26.docx": [1099], "Mark_ch_14.docx": [967], "John_ch_12.docx": [1009], "John_ch_19.docx": [5500]}
 cumi	{"Isaiah_ch_28.docx": [3888, 4135, 4208], "Matthew_ch_23.docx": [2773], "Mark_ch_5.docx": [4808]}

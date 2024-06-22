@@ -1,5 +1,2 @@
 
-sustai	{"Genesis_ch_21.docx": [2298], "1 Timothy_ch_2.docx": [1651, 1651]}
-sustai	{"Genesis_ch_21.docx": [2298], "1 Timothy_ch_2.docx": [1651]}
-7‘were	{"Job_ch_15.docx": [566]}
 sustai	{"Genesis_ch_21.docx": [2298], "1 Timothy_ch_2.docx": [1651]}

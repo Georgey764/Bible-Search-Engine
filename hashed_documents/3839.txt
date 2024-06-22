@@ -1,5 +1,2 @@
 
-marrow	{"Numbers_ch_24.docx": [986], "Job_ch_21.docx": [2141, 2141, 2141], "Job_ch_33.docx": [2511, 2511, 2511], "Psalms_ch_66.docx": [1359, 1359, 1359], "Hebrews_ch_4.docx": [1901, 1901]}
-marrow	{"Numbers_ch_24.docx": [986], "Job_ch_21.docx": [2141, 2141], "Job_ch_33.docx": [2511, 2511], "Psalms_ch_66.docx": [1359, 1359], "Hebrews_ch_4.docx": [1901]}
-72fo	{"Psalms_ch_119.docx": [5811]}
 marrow	{"Numbers_ch_24.docx": [986], "Job_ch_21.docx": [2141], "Job_ch_33.docx": [2511], "Psalms_ch_66.docx": [1359], "Hebrews_ch_4.docx": [1901]}

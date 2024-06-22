@@ -1,4 +1,2 @@
 
-jemue	{"Genesis_ch_46.docx": [1225, 1530, 1530, 1530], "Exodus_ch_6.docx": [2046, 2046, 2046]}
-jemue	{"Genesis_ch_46.docx": [1225, 1530, 1530], "Exodus_ch_6.docx": [2046, 2046]}
 jemue	{"Genesis_ch_46.docx": [1225, 1530], "Exodus_ch_6.docx": [2046]}

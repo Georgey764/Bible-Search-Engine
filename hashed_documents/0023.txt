@@ -1,4 +1,2 @@
 
-infer	{"Exodus_ch_23.docx": [3624], "Daniel_ch_2.docx": [6719, 6719, 6719], "John_ch_2.docx": [980, 980], "2 Corinthians_ch_11.docx": [758, 773, 758, 773]}
-infer	{"Exodus_ch_23.docx": [3624], "Daniel_ch_2.docx": [6719, 6719], "John_ch_2.docx": [980], "2 Corinthians_ch_11.docx": [758, 773]}
 infer	{"Exodus_ch_23.docx": [3624], "Daniel_ch_2.docx": [6719], "John_ch_2.docx": [980], "2 Corinthians_ch_11.docx": [758, 773]}

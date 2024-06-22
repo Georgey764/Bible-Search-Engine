@@ -1,4 +1,2 @@
 
-sebo	{"Genesis_ch_10.docx": [2152], "Genesis_ch_14.docx": [309, 1053, 309, 1053, 309, 1053], "Deuteronomy_ch_29.docx": [3231, 3231, 3231], "2 Samuel_ch_21.docx": [3669, 3669, 3669]}
-sebo	{"Genesis_ch_10.docx": [2152], "Genesis_ch_14.docx": [309, 1053, 309, 1053], "Deuteronomy_ch_29.docx": [3231, 3231], "2 Samuel_ch_21.docx": [3669, 3669]}
 sebo	{"Genesis_ch_10.docx": [2152], "Genesis_ch_14.docx": [309, 1053], "Deuteronomy_ch_29.docx": [3231], "2 Samuel_ch_21.docx": [3669]}

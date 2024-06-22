@@ -1,5 +1,2 @@
 
 abram;	{"Genesis_ch_16.docx": [2297]}
-abram;	{"Genesis_ch_16.docx": [2297]}
-10but	{"Genesis_ch_42.docx": [1256], "Exodus_ch_21.docx": [1237], "Numbers_ch_14.docx": [1245], "Deuteronomy_ch_12.docx": [1269], "Deuteronomy_ch_14.docx": [980], "Joshua_ch_7.docx": [2162], "Judges_ch_19.docx": [1551], "1 Samuel_ch_25.docx": [1256], "1 Samuel_ch_28.docx": [1586], "2 Samuel_ch_16.docx": [1669], "1 Kings_ch_1.docx": [1351], "1 Kings_ch_20.docx": [1522], "2 Kings_ch_1.docx": [1841], "Nehemiah_ch_2.docx": [1816], "Nehemiah_ch_4.docx": [1476], "Job_ch_2.docx": [1293], "Job_ch_14.docx": [1031], "Psalms_ch_10.docx": [1109], "Psalms_ch_39.docx": [1055], "Psalms_ch_41.docx": [1007], "Psalms_ch_78.docx": [1033], "Psalms_ch_112.docx": [869], "Isaiah_ch_51.docx": [1908], "Isaiah_ch_57.docx": [1442], "Jeremiah_ch_17.docx": [1572], "Jeremiah_ch_26.docx": [1396], "Ezekiel_ch_2.docx": [1411], "Daniel_ch_2.docx": [1638], "Micah_ch_4.docx": [2133], "Matthew_ch_4.docx": [1127], "Matthew_ch_26.docx": [931]}
-abram;	{"Genesis_ch_16.docx": [2297]}

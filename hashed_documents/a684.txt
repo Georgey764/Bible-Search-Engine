@@ -1,4 +1,2 @@
 
-bread;	{"Leviticus_ch_8.docx": [88], "Proverbs_ch_28.docx": [1800, 1800, 1800], "Isaiah_ch_44.docx": [2442, 3098, 2442, 3098, 2442, 3098], "Ezekiel_ch_4.docx": [2573, 2573, 2573]}
-bread;	{"Leviticus_ch_8.docx": [88], "Proverbs_ch_28.docx": [1800, 1800], "Isaiah_ch_44.docx": [2442, 3098, 2442, 3098], "Ezekiel_ch_4.docx": [2573, 2573]}
 bread;	{"Leviticus_ch_8.docx": [88], "Proverbs_ch_28.docx": [1800], "Isaiah_ch_44.docx": [2442, 3098], "Ezekiel_ch_4.docx": [2573]}

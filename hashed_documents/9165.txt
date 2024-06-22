@@ -1,2 +1,2 @@
 
-17‘isr	{"Jeremiah_ch_50.docx": [3159]}
+church	{"2 Chronicles_ch_36.docx": [6469], "Isaiah_ch_66.docx": [5225], "Mark_ch_16.docx": [1965, 2564], "1 Peter_ch_5.docx": [2306], "Jude_ch_1.docx": [5061]}

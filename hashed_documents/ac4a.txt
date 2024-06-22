@@ -1,4 +1,2 @@
 
-disper	{"Deuteronomy_ch_30.docx": [544], "Jeremiah_ch_15.docx": [1501, 1501, 1501], "Ezekiel_ch_28.docx": [4072, 4072, 4072], "Ezekiel_ch_29.docx": [2365, 2365, 2365]}
-disper	{"Deuteronomy_ch_30.docx": [544], "Jeremiah_ch_15.docx": [1501, 1501], "Ezekiel_ch_28.docx": [4072, 4072], "Ezekiel_ch_29.docx": [2365, 2365]}
 disper	{"Deuteronomy_ch_30.docx": [544], "Jeremiah_ch_15.docx": [1501], "Ezekiel_ch_28.docx": [4072], "Ezekiel_ch_29.docx": [2365]}

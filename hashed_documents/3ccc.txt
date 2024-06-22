@@ -1,4 +1,0 @@
-
-5as	{"Genesis_ch_2.docx": [542], "Genesis_ch_30.docx": [506], "Deuteronomy_ch_5.docx": [391], "1 Samuel_ch_23.docx": [648], "1 Kings_ch_10.docx": [521], "2 Kings_ch_10.docx": [678], "2 Chronicles_ch_5.docx": [499], "2 Chronicles_ch_28.docx": [557], "Psalms_ch_72.docx": [411], "Psalms_ch_81.docx": [405], "Ezekiel_ch_46.docx": [894]}
-28ne	{"Judges_ch_11.docx": [6330], "Proverbs_ch_22.docx": [2770]}
-8sacr	{"Proverbs_ch_15.docx": [779]}

@@ -1,4 +1,0 @@
-
-16tha	{"1 Kings_ch_14.docx": [2906]}
-15‘o	{"Ezra_ch_9.docx": [3278], "Job_ch_17.docx": [1208], "Psalms_ch_92.docx": [1353], "Isaiah_ch_26.docx": [1777], "Jeremiah_ch_5.docx": [2675], "Ezekiel_ch_11.docx": [2157], "Matthew_ch_4.docx": [1729]}
-12g	{"Psalms_ch_2.docx": [1277]}

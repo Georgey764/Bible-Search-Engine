@@ -1,4 +1,2 @@
 
-joc	{"Exodus_ch_6.docx": [2539], "Numbers_ch_26.docx": [6094, 6094, 6094], "1 Chronicles_ch_2.docx": [3203, 3203, 3203]}
-joc	{"Exodus_ch_6.docx": [2539], "Numbers_ch_26.docx": [6094, 6094], "1 Chronicles_ch_2.docx": [3203, 3203]}
 joc	{"Exodus_ch_6.docx": [2539], "Numbers_ch_26.docx": [6094], "1 Chronicles_ch_2.docx": [3203]}

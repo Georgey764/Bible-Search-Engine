@@ -1,4 +1,2 @@
 
-opini	{"Job_ch_40.docx": [1285], "Matthew_ch_26.docx": [8267, 8267], "Mark_ch_14.docx": [8183, 8183], "Luke_ch_3.docx": [6150, 6150], "Acts_ch_15.docx": [451, 451], "1 Corinthians_ch_7.docx": [741, 3072, 5402, 741, 3072, 5402], "2 Corinthians_ch_8.docx": [1537, 1537]}
-opini	{"Job_ch_40.docx": [1285], "Matthew_ch_26.docx": [8267], "Mark_ch_14.docx": [8183], "Luke_ch_3.docx": [6150], "Acts_ch_15.docx": [451], "1 Corinthians_ch_7.docx": [741, 3072, 5402], "2 Corinthians_ch_8.docx": [1537]}
 opini	{"Job_ch_40.docx": [1285], "Matthew_ch_26.docx": [8267], "Mark_ch_14.docx": [8183], "Luke_ch_3.docx": [6150], "Acts_ch_15.docx": [451], "1 Corinthians_ch_7.docx": [741, 3072, 5402], "2 Corinthians_ch_8.docx": [1537]}

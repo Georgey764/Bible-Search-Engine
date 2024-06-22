@@ -1,4 +1,2 @@
 
-zobah	{"1 Samuel_ch_14.docx": [7870], "1 Kings_ch_11.docx": [3317, 3317, 3317], "2 Chronicles_ch_8.docx": [236, 236, 236]}
-zobah	{"1 Samuel_ch_14.docx": [7870], "1 Kings_ch_11.docx": [3317, 3317], "2 Chronicles_ch_8.docx": [236, 236]}
 zobah	{"1 Samuel_ch_14.docx": [7870], "1 Kings_ch_11.docx": [3317], "2 Chronicles_ch_8.docx": [236]}

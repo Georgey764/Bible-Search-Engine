@@ -1,7 +1,3 @@
 
-phinon	{"Genesis_ch_36.docx": [4331], "1 Chronicles_ch_1.docx": [4457, 4457, 4457]}
-kas	{"2 Samuel_ch_23.docx": [2203]}
-phinon	{"Genesis_ch_36.docx": [4331], "1 Chronicles_ch_1.docx": [4457, 4457]}
-kas	{"2 Samuel_ch_23.docx": [2203]}
 phinon	{"Genesis_ch_36.docx": [4331], "1 Chronicles_ch_1.docx": [4457]}
 kas	{"2 Samuel_ch_23.docx": [2203]}

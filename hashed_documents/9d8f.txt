@@ -1,4 +1,2 @@
 
-initi	{"Ezra_ch_7.docx": [1570], "2 Corinthians_ch_8.docx": [882, 882]}
-initi	{"Ezra_ch_7.docx": [1570], "2 Corinthians_ch_8.docx": [882]}
 initi	{"Ezra_ch_7.docx": [1570], "2 Corinthians_ch_8.docx": [882]}

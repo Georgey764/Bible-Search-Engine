@@ -1,4 +1,2 @@
 
-quai	{"Exodus_ch_16.docx": [2113], "Numbers_ch_11.docx": [4792, 4835, 4792, 4835, 4792, 4835], "Psalms_ch_105.docx": [3297, 3297, 3297]}
-quai	{"Exodus_ch_16.docx": [2113], "Numbers_ch_11.docx": [4792, 4835, 4792, 4835], "Psalms_ch_105.docx": [3297, 3297]}
 quai	{"Exodus_ch_16.docx": [2113], "Numbers_ch_11.docx": [4792, 4835], "Psalms_ch_105.docx": [3297]}

@@ -1,4 +1,2 @@
 
-hunter	{"Genesis_ch_10.docx": [1072, 1086, 1086, 1086], "Genesis_ch_25.docx": [2990, 2990, 2990], "Psalms_ch_91.docx": [238, 238, 238], "Jeremiah_ch_16.docx": [2847, 2847, 2847], "Amos_ch_3.docx": [598, 598, 598], "Amos_ch_8.docx": [20, 20, 20]}
-hunter	{"Genesis_ch_10.docx": [1072, 1086, 1086], "Genesis_ch_25.docx": [2990, 2990], "Psalms_ch_91.docx": [238, 238], "Jeremiah_ch_16.docx": [2847, 2847], "Amos_ch_3.docx": [598, 598], "Amos_ch_8.docx": [20, 20]}
 hunter	{"Genesis_ch_10.docx": [1072, 1086], "Genesis_ch_25.docx": [2990], "Psalms_ch_91.docx": [238], "Jeremiah_ch_16.docx": [2847], "Amos_ch_3.docx": [598], "Amos_ch_8.docx": [20]}

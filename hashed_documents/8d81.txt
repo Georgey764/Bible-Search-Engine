@@ -1,4 +1,2 @@
 
 ranges	{"Ecclesiastes_ch_8.docx": [528]}
-ranges	{"Ecclesiastes_ch_8.docx": [528]}
-ranges	{"Ecclesiastes_ch_8.docx": [528]}

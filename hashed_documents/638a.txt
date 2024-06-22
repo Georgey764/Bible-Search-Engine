@@ -1,4 +1,2 @@
 
-tread	{"Psalms_ch_8.docx": [849], "Isaiah_ch_16.docx": [2049, 2049, 2049], "Isaiah_ch_63.docx": [278, 278, 278], "Jeremiah_ch_48.docx": [4389, 4389, 4389], "Zechariah_ch_10.docx": [899, 899, 899]}
-tread	{"Psalms_ch_8.docx": [849], "Isaiah_ch_16.docx": [2049, 2049], "Isaiah_ch_63.docx": [278, 278], "Jeremiah_ch_48.docx": [4389, 4389], "Zechariah_ch_10.docx": [899, 899]}
-tread	{"Psalms_ch_8.docx": [849], "Isaiah_ch_16.docx": [2049], "Isaiah_ch_63.docx": [278], "Jeremiah_ch_48.docx": [4389], "Zechariah_ch_10.docx": [899]}
+tread	{"Nehemiah_ch_13.docx": [2511], "Psalms_ch_8.docx": [849], "Isaiah_ch_16.docx": [2049], "Isaiah_ch_63.docx": [278], "Jeremiah_ch_48.docx": [4389], "Joel_ch_3.docx": [2880], "Nahum_ch_3.docx": [3017], "Zechariah_ch_10.docx": [899]}

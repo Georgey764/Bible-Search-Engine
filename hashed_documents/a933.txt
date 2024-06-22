@@ -1,5 +1,2 @@
 
 ephrad	{"1 Chronicles_ch_4.docx": [2613]}
-30e	{"Joshua_ch_15.docx": [4375], "1 Kings_ch_7.docx": [3966], "1 Kings_ch_18.docx": [4808]}
-ephrad	{"1 Chronicles_ch_4.docx": [2613]}
-ephrad	{"1 Chronicles_ch_4.docx": [2613]}

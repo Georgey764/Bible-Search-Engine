@@ -1,4 +1,2 @@
 
 rect	{"1 Kings_ch_7.docx": [4271]}
-rect	{"1 Kings_ch_7.docx": [4271]}
-rect	{"1 Kings_ch_7.docx": [4271]}

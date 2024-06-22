@@ -1,5 +1,2 @@
 
-gethr	{"Joshua_ch_19.docx": [3506], "1 Chronicles_ch_6.docx": [5848, 5848, 5848]}
-34‘b	{"Exodus_ch_35.docx": [3639], "Jeremiah_ch_50.docx": [6299], "Ezekiel_ch_20.docx": [6039], "Ezekiel_ch_27.docx": [4921]}
-gethr	{"Joshua_ch_19.docx": [3506], "1 Chronicles_ch_6.docx": [5848, 5848]}
 gethr	{"Joshua_ch_19.docx": [3506], "1 Chronicles_ch_6.docx": [5848]}

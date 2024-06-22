@@ -1,4 +1,2 @@
 
 crawls	{"Leviticus_ch_11.docx": [2419]}
-crawls	{"Leviticus_ch_11.docx": [2419]}
-crawls	{"Leviticus_ch_11.docx": [2419]}

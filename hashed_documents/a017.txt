@@ -1,4 +1,2 @@
 
-refers	{"Revelation_ch_11.docx": [1063]}
-18‘{	{"Joshua_ch_2.docx": [2427], "Jeremiah_ch_1.docx": [2618], "Matthew_ch_12.docx": [1943], "Matthew_ch_20.docx": [2216]}
-refers	{"Revelation_ch_11.docx": [1063]}
+refers	{"Micah_ch_7.docx": [4729], "Revelation_ch_11.docx": [1063]}

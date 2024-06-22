@@ -1,7 +1,3 @@
 
 kedamo	{"Deuteronomy_ch_2.docx": [3656]}
 bawli	{"Joel_ch_1.docx": [2876]}
-kedamo	{"Deuteronomy_ch_2.docx": [3656]}
-bawli	{"Joel_ch_1.docx": [2876]}
-kedamo	{"Deuteronomy_ch_2.docx": [3656]}
-bawli	{"Joel_ch_1.docx": [2876]}

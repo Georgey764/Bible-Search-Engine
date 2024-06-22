@@ -1,5 +1,2 @@
 
-doorfr	{"Exodus_ch_12.docx": [778, 3695, 3695, 3695], "Exodus_ch_21.docx": [720, 720, 720]}
-doorfr	{"Exodus_ch_12.docx": [778, 3695, 3695], "Exodus_ch_21.docx": [720, 720]}
-34{lo	{"2 Chronicles_ch_20.docx": [5796]}
 doorfr	{"Exodus_ch_12.docx": [778, 3695], "Exodus_ch_21.docx": [720]}

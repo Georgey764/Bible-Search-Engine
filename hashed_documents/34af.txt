@@ -3,11 +3,3 @@ me	{"1 Chronicles_ch_7.docx": [3625], "1 Chronicles_ch_9.docx": [5515]}
 me	{"1 Chronicles_ch_9.docx": [5658]}
 me	{"1 Chronicles_ch_11.docx": [5924]}
 me	{"Ezra_ch_8.docx": [4775]}
-me	{"1 Chronicles_ch_7.docx": [3625], "1 Chronicles_ch_9.docx": [5515]}
-me	{"1 Chronicles_ch_9.docx": [5658]}
-me	{"1 Chronicles_ch_11.docx": [5924]}
-me	{"Ezra_ch_8.docx": [4775]}
-me	{"1 Chronicles_ch_7.docx": [3625], "1 Chronicles_ch_9.docx": [5515]}
-me	{"1 Chronicles_ch_9.docx": [5658]}
-me	{"1 Chronicles_ch_11.docx": [5924]}
-me	{"Ezra_ch_8.docx": [4775]}

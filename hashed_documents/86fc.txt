@@ -1,5 +1,2 @@
 
-sh	{"1 Chronicles_ch_4.docx": [2699]}
-32i’	{"Genesis_ch_46.docx": [3861], "Leviticus_ch_26.docx": [4006]}
- sh	{"1 Chronicles_ch_4.docx": [2699]}
  sh	{"1 Chronicles_ch_4.docx": [2699]}

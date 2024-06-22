@@ -1,4 +1,2 @@
 
 strapp	{"2 Kings_ch_3.docx": [3122]}
-strapp	{"2 Kings_ch_3.docx": [3122]}
-strapp	{"2 Kings_ch_3.docx": [3122]}

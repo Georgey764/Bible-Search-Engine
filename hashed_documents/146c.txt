@@ -1,5 +1,2 @@
 
 harmfu	{"Job_ch_1.docx": [1560]}
-9bec	{"2 Kings_ch_19.docx": [1238], "Isaiah_ch_37.docx": [1244], "Isaiah_ch_63.docx": [1203]}
-harmfu	{"Job_ch_1.docx": [1560]}
-harmfu	{"Job_ch_1.docx": [1560]}

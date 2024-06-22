@@ -1,4 +1,2 @@
 
-child’	{"Genesis_ch_21.docx": [2128], "Matthew_ch_2.docx": [3024, 3024, 3024]}
-child’	{"Genesis_ch_21.docx": [2128], "Matthew_ch_2.docx": [3024, 3024]}
 child’	{"Genesis_ch_21.docx": [2128], "Matthew_ch_2.docx": [3024]}

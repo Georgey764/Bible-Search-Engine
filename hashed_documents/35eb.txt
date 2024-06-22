@@ -1,4 +1,2 @@
 
-asar	{"Genesis_ch_36.docx": [2406, 2945, 3166, 3166, 2945, 3166], "2 Samuel_ch_23.docx": [4859, 4859], "1 Chronicles_ch_1.docx": [3138, 3457, 3138, 3138, 3457], "Jeremiah_ch_31.docx": [7497, 7497, 7497]}
-asar	{"Genesis_ch_36.docx": [2406, 3166, 2945, 3166], "1 Chronicles_ch_1.docx": [3138, 3138, 3457], "Jeremiah_ch_31.docx": [7497, 7497], "2 Samuel_ch_23.docx": [4859]}
 asar	{"Genesis_ch_36.docx": [2406, 2945, 3166], "2 Samuel_ch_23.docx": [4859], "1 Chronicles_ch_1.docx": [3138, 3457], "Jeremiah_ch_31.docx": [7497]}

@@ -1,2 +1,0 @@
-
-14sh	{"Esther_ch_2.docx": [2807], "Job_ch_11.docx": [1422], "Proverbs_ch_3.docx": [1228], "Proverbs_ch_9.docx": [1423], "Proverbs_ch_27.docx": [1237]}

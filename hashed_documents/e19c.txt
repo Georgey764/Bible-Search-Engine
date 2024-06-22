@@ -1,11 +1,5 @@
 
-misus	{"Exodus_ch_20.docx": [648, 661, 661, 661], "Leviticus_ch_19.docx": [768, 1331, 768, 1331, 768, 1331], "Deuteronomy_ch_5.docx": [1228, 1243, 1228, 1243, 1228, 1243]}
-ostri	{"Leviticus_ch_11.docx": [1814], "Job_ch_30.docx": [2834, 2834], "Job_ch_39.docx": [1162, 1162, 1162], "Isaiah_ch_34.docx": [1983, 1983, 1983], "Isaiah_ch_43.docx": [3189, 3189, 3189], "Jeremiah_ch_10.docx": [3124, 3124, 3124], "Jeremiah_ch_49.docx": [5769, 5769, 5769]}
-chewi	{"Jeremiah_ch_2.docx": [433], "Galatians_ch_5.docx": [1787, 1787]}
-misus	{"Exodus_ch_20.docx": [648, 661, 661], "Leviticus_ch_19.docx": [768, 1331, 768, 1331], "Deuteronomy_ch_5.docx": [1228, 1243, 1228, 1243]}
-18‘lea	{"2 Kings_ch_23.docx": [4484]}
-ostri	{"Job_ch_30.docx": [2834, 2834], "Job_ch_39.docx": [1162, 1162], "Isaiah_ch_34.docx": [1983, 1983], "Isaiah_ch_43.docx": [3189, 3189], "Jeremiah_ch_10.docx": [3124, 3124], "Jeremiah_ch_49.docx": [5769, 5769]}
-chewi	{"Jeremiah_ch_2.docx": [433], "Galatians_ch_5.docx": [1787]}
 misus	{"Exodus_ch_20.docx": [648, 661], "Leviticus_ch_19.docx": [768, 1331], "Deuteronomy_ch_5.docx": [1228, 1243]}
 ostri	{"Leviticus_ch_11.docx": [1814], "Job_ch_30.docx": [2834], "Job_ch_39.docx": [1162], "Isaiah_ch_34.docx": [1983], "Isaiah_ch_43.docx": [3189], "Jeremiah_ch_10.docx": [3124], "Jeremiah_ch_49.docx": [5769]}
-chewi	{"Jeremiah_ch_2.docx": [433], "Galatians_ch_5.docx": [1787]}
+chewi	{"Jeremiah_ch_2.docx": [433], "Micah_ch_7.docx": [580], "Galatians_ch_5.docx": [1787]}
+authe	{"Ezekiel_ch_48.docx": [6710], "Daniel_ch_12.docx": [3144], "John_ch_21.docx": [4499], "Hebrews_ch_13.docx": [4192], "1 Peter_ch_5.docx": [2294], "3 John_ch_1.docx": [2060]}

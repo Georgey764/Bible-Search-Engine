@@ -1,4 +1,2 @@
 
-sea;	{"Acts_ch_27.docx": [5375]}
-19‘[	{"Jeremiah_ch_32.docx": [3071]}
-sea;	{"Acts_ch_27.docx": [5375]}
+sea;	{"Esther_ch_10.docx": [24], "Acts_ch_27.docx": [5375]}

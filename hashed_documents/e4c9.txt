@@ -1,5 +1,2 @@
 
-tips	{"Exodus_ch_28.docx": [3123], "Exodus_ch_29.docx": [2189, 2189, 2189], "Exodus_ch_36.docx": [4274, 4550, 4274, 4550, 4274, 4550], "Exodus_ch_38.docx": [2349, 3396, 3404, 3500, 3519, 2349, 3396, 3404, 3500, 3519, 2349, 3396, 3404, 3500, 3519], "Exodus_ch_39.docx": [2178, 2178, 2178], "Leviticus_ch_8.docx": [2899, 2899, 2899], "1 Samuel_ch_13.docx": [3198, 3198, 3198], "Isaiah_ch_29.docx": [1522, 1522, 1522], "Ezekiel_ch_17.docx": [377, 377, 377]}
-tips	{"Exodus_ch_28.docx": [3123], "Exodus_ch_29.docx": [2189, 2189], "Exodus_ch_36.docx": [4274, 4550, 4274, 4550], "Exodus_ch_38.docx": [2349, 3396, 3404, 3500, 3519, 2349, 3396, 3404, 3500, 3519], "Exodus_ch_39.docx": [2178, 2178], "Leviticus_ch_8.docx": [2899, 2899], "1 Samuel_ch_13.docx": [3198, 3198], "Isaiah_ch_29.docx": [1522, 1522], "Ezekiel_ch_17.docx": [377, 377]}
-27abra	{"1 Chronicles_ch_1.docx": [2152]}
 tips	{"Exodus_ch_28.docx": [3123], "Exodus_ch_29.docx": [2189], "Exodus_ch_36.docx": [4274, 4550], "Exodus_ch_38.docx": [2349, 3396, 3404, 3500, 3519], "Exodus_ch_39.docx": [2178], "Leviticus_ch_8.docx": [2899], "1 Samuel_ch_13.docx": [3198], "Isaiah_ch_29.docx": [1522], "Ezekiel_ch_17.docx": [377]}

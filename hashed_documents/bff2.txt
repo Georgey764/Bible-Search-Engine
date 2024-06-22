@@ -1,6 +1,2 @@
 
 squash	{"Isaiah_ch_33.docx": [214]}
-33all	{"Exodus_ch_12.docx": [5233], "Joshua_ch_21.docx": [4052]}
-2,4	{"Exodus_ch_38.docx": [3672], "Numbers_ch_7.docx": [9987]}
-squash	{"Isaiah_ch_33.docx": [214]}
-squash	{"Isaiah_ch_33.docx": [214]}

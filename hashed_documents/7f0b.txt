@@ -1,4 +1,2 @@
 
-lur	{"Lamentations_ch_3.docx": [780], "2 Timothy_ch_2.docx": [3638, 3638]}
-lur	{"Lamentations_ch_3.docx": [780], "2 Timothy_ch_2.docx": [3638]}
 lur	{"Lamentations_ch_3.docx": [780], "2 Timothy_ch_2.docx": [3638]}

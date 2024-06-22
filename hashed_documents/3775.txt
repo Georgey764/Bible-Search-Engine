@@ -1,4 +1,2 @@
 
-spanki	{"Proverbs_ch_22.docx": [1579], "Proverbs_ch_23.docx": [1168, 1168, 1168], "Proverbs_ch_29.docx": [1321, 1321]}
-spanki	{"Proverbs_ch_22.docx": [1579], "Proverbs_ch_23.docx": [1168, 1168], "Proverbs_ch_29.docx": [1321]}
 spanki	{"Proverbs_ch_22.docx": [1579], "Proverbs_ch_23.docx": [1168], "Proverbs_ch_29.docx": [1321]}

@@ -1,4 +1,2 @@
 
-maasi	{"1 Chronicles_ch_24.docx": [1915], "Nehemiah_ch_12.docx": [11642, 11642, 11642]}
-maasi	{"1 Chronicles_ch_24.docx": [1915], "Nehemiah_ch_12.docx": [11642, 11642]}
 maasi	{"1 Chronicles_ch_24.docx": [1915], "Nehemiah_ch_12.docx": [11642]}

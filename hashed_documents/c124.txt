@@ -1,4 +1,0 @@
-
-28plu	{"Exodus_ch_36.docx": [3161]}
-13zar	{"Numbers_ch_26.docx": [1486]}
-17i’m	{"Psalms_ch_38.docx": [1426], "Jeremiah_ch_6.docx": [3053]}

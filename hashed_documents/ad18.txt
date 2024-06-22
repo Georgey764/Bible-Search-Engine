@@ -1,4 +1,2 @@
 
-diam	{"2 Chronicles_ch_4.docx": [154], "Job_ch_28.docx": [1506, 1506, 1506]}
-diam	{"2 Chronicles_ch_4.docx": [154], "Job_ch_28.docx": [1506, 1506]}
 diam	{"2 Chronicles_ch_4.docx": [154], "Job_ch_28.docx": [1506]}

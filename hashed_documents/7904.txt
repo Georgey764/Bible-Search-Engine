@@ -1,4 +1,2 @@
 
-whales	{"Job_ch_9.docx": [1146], "Job_ch_26.docx": [1105, 1105, 1105]}
-whales	{"Job_ch_9.docx": [1146], "Job_ch_26.docx": [1105, 1105]}
 whales	{"Job_ch_9.docx": [1146], "Job_ch_26.docx": [1105]}

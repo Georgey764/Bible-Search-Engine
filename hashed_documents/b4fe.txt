@@ -1,4 +1,2 @@
 
-qualit	{"1 Samuel_ch_19.docx": [517], "Romans_ch_1.docx": [2297, 2297], "Romans_ch_2.docx": [541, 541], "1 Corinthians_ch_3.docx": [1440, 1440], "2 Peter_ch_1.docx": [1419, 1419]}
-qualit	{"1 Samuel_ch_19.docx": [517], "Romans_ch_1.docx": [2297], "Romans_ch_2.docx": [541], "1 Corinthians_ch_3.docx": [1440], "2 Peter_ch_1.docx": [1419]}
-qualit	{"1 Samuel_ch_19.docx": [517], "Romans_ch_1.docx": [2297], "Romans_ch_2.docx": [541], "1 Corinthians_ch_3.docx": [1440], "2 Peter_ch_1.docx": [1419]}
+qualit	{"1 Samuel_ch_19.docx": [517], "Romans_ch_1.docx": [2297], "Romans_ch_2.docx": [541], "1 Corinthians_ch_3.docx": [1440], "James_ch_5.docx": [3647], "2 Peter_ch_1.docx": [1419]}

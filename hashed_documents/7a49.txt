@@ -1,5 +1,2 @@
 
-och	{"Genesis_ch_21.docx": [2625, 3628, 3628, 3628], "Genesis_ch_26.docx": [3664, 3664, 3664], "1 Chronicles_ch_4.docx": [544, 544, 544]}
-och	{"Genesis_ch_21.docx": [2625, 3628, 3628], "Genesis_ch_26.docx": [3664, 3664], "1 Chronicles_ch_4.docx": [544, 544]}
-3at	{"2 Chronicles_ch_5.docx": [468]}
 och	{"Genesis_ch_21.docx": [2625, 3628], "Genesis_ch_26.docx": [3664], "1 Chronicles_ch_4.docx": [544]}

@@ -1,4 +1,2 @@
 
-chainw	{"2 Chronicles_ch_3.docx": [1823, 1842, 1842, 1842]}
-chainw	{"2 Chronicles_ch_3.docx": [1823, 1842, 1842]}
 chainw	{"2 Chronicles_ch_3.docx": [1823, 1842]}

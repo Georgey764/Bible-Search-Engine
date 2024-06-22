@@ -1,5 +1,2 @@
 
-dryi	{"Ezekiel_ch_26.docx": [2417], "John_ch_13.docx": [568, 568]}
-dryi	{"Ezekiel_ch_26.docx": [2417], "John_ch_13.docx": [568]}
-26‘fro	{"Daniel_ch_6.docx": [4539]}
 dryi	{"Ezekiel_ch_26.docx": [2417], "John_ch_13.docx": [568]}

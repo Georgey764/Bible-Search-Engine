@@ -1,5 +1,2 @@
 
-hoiste	{"Acts_ch_27.docx": [2332, 5385, 5385]}
-7that	{"Psalms_ch_78.docx": [627], "Matthew_ch_14.docx": [611]}
-27what	{"Matthew_ch_10.docx": [3426]}
 hoiste	{"Acts_ch_27.docx": [2332, 5385]}

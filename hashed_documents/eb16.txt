@@ -1,9 +1,3 @@
 
-overhe	{"Genesis_ch_18.docx": [1363], "Genesis_ch_27.docx": [540, 719, 540, 719, 540, 719], "Genesis_ch_31.docx": [8, 8, 8], "Judges_ch_7.docx": [3255, 3255, 3255], "1 Samuel_ch_17.docx": [4080, 4080, 4080], "Matthew_ch_9.docx": [1495, 1495, 1495], "Mark_ch_2.docx": [2193, 2193], "Mark_ch_5.docx": [4134, 4134], "Mark_ch_12.docx": [3767, 3767]}
-chille	{"Genesis_ch_31.docx": [5451]}
-overhe	{"Genesis_ch_18.docx": [1363], "Genesis_ch_27.docx": [540, 719, 540, 719], "Genesis_ch_31.docx": [8, 8], "Judges_ch_7.docx": [3255, 3255], "1 Samuel_ch_17.docx": [4080, 4080], "Matthew_ch_9.docx": [1495, 1495], "Mark_ch_2.docx": [2193], "Mark_ch_5.docx": [4134], "Mark_ch_12.docx": [3767]}
-chille	{"Genesis_ch_31.docx": [5451]}
-211	{"Numbers_ch_7.docx": [2615], "Deuteronomy_ch_1.docx": [40]}
-117	{"Psalms_ch_117.docx": [3], "Psalms_ch_119.docx": [9736]}
 overhe	{"Genesis_ch_18.docx": [1363], "Genesis_ch_27.docx": [540, 719], "Genesis_ch_31.docx": [8], "Judges_ch_7.docx": [3255], "1 Samuel_ch_17.docx": [4080], "Matthew_ch_9.docx": [1495], "Mark_ch_2.docx": [2193], "Mark_ch_5.docx": [4134], "Mark_ch_12.docx": [3767]}
 chille	{"Genesis_ch_31.docx": [5451]}

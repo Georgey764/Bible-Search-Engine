@@ -1,4 +1,2 @@
 
-aila	{"2 Samuel_ch_10.docx": [2179, 2437, 2437, 2437], "1 Chronicles_ch_8.docx": [943, 1554, 2816, 943, 1554, 2816, 943, 1554, 2816], "Nehemiah_ch_12.docx": [11659, 11659, 11659]}
-aila	{"2 Samuel_ch_10.docx": [2179, 2437, 2437], "1 Chronicles_ch_8.docx": [943, 1554, 2816, 943, 1554, 2816], "Nehemiah_ch_12.docx": [11659, 11659]}
 aila	{"2 Samuel_ch_10.docx": [2179, 2437], "1 Chronicles_ch_8.docx": [943, 1554, 2816], "Nehemiah_ch_12.docx": [11659]}

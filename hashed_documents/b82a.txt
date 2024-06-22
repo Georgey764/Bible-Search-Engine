@@ -1,4 +1,2 @@
 
-jaaz	{"Jeremiah_ch_35.docx": [296], "Ezekiel_ch_8.docx": [1872, 1872, 1872], "Ezekiel_ch_11.docx": [42, 42, 42]}
-jaaz	{"Jeremiah_ch_35.docx": [296], "Ezekiel_ch_8.docx": [1872, 1872], "Ezekiel_ch_11.docx": [42, 42]}
 jaaz	{"Jeremiah_ch_35.docx": [296], "Ezekiel_ch_8.docx": [1872], "Ezekiel_ch_11.docx": [42]}

@@ -1,5 +1,2 @@
 
 pelal	{"Nehemiah_ch_11.docx": [1848]}
-1josia	{"2 Kings_ch_22.docx": [5], "2 Chronicles_ch_34.docx": [5]}
-pelal	{"Nehemiah_ch_11.docx": [1848]}
-pelal	{"Nehemiah_ch_11.docx": [1848]}

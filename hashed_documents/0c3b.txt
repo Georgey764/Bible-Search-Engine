@@ -1,2 +1,0 @@
-
-52a	{"Genesis_ch_24.docx": [7964], "Deuteronomy_ch_28.docx": [7027], "Joshua_ch_15.docx": [5698], "1 Samuel_ch_17.docx": [8204], "Psalms_ch_89.docx": [4861]}

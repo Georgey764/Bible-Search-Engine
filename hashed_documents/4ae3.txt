@@ -1,4 +1,2 @@
 
 prompt	{"Jeremiah_ch_2.docx": [1329]}
-prompt	{"Jeremiah_ch_2.docx": [1329]}
-prompt	{"Jeremiah_ch_2.docx": [1329]}

@@ -1,5 +1,2 @@
 
 tochos	{"Genesis_ch_22.docx": [3548]}
-tochos	{"Genesis_ch_22.docx": [3548]}
-3-3	{"Exodus_ch_37.docx": [77, 573]}
-tochos	{"Genesis_ch_22.docx": [3548]}

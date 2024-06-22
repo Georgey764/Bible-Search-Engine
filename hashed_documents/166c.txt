@@ -1,6 +1,2 @@
 
 gothol	{"1 Chronicles_ch_8.docx": [1667]}
-18just	{"Deuteronomy_ch_7.docx": [2756], "2 Samuel_ch_5.docx": [2433]}
-gothol	{"1 Chronicles_ch_8.docx": [1667]}
-5‘do	{"2 Chronicles_ch_13.docx": [588], "Nehemiah_ch_4.docx": [939]}
-gothol	{"1 Chronicles_ch_8.docx": [1667]}

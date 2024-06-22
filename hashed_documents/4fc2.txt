@@ -1,8 +1,3 @@
 
-herb	{"Exodus_ch_12.docx": [1007], "Numbers_ch_9.docx": [1348, 1348, 1348], "Deuteronomy_ch_11.docx": [1393, 1393, 1393]}
-tribun	{"Ezekiel_ch_23.docx": [3752]}
-herb	{"Exodus_ch_12.docx": [1007], "Numbers_ch_9.docx": [1348, 1348], "Deuteronomy_ch_11.docx": [1393, 1393]}
-34‘an	{"Exodus_ch_28.docx": [4449], "Exodus_ch_29.docx": [4609], "Deuteronomy_ch_1.docx": [4926], "2 Chronicles_ch_6.docx": [5722], "Matthew_ch_18.docx": [4480], "Matthew_ch_25.docx": [3913]}
-tribun	{"Ezekiel_ch_23.docx": [3752]}
 herb	{"Exodus_ch_12.docx": [1007], "Numbers_ch_9.docx": [1348], "Deuteronomy_ch_11.docx": [1393]}
 tribun	{"Ezekiel_ch_23.docx": [3752]}

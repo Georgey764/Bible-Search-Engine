@@ -1,5 +1,2 @@
 
-kedm	{"Genesis_ch_15.docx": [2563], "Genesis_ch_25.docx": [1509, 1509, 1509], "1 Chronicles_ch_1.docx": [2393, 2393, 2393]}
-kedm	{"Genesis_ch_15.docx": [2563], "Genesis_ch_25.docx": [1509, 1509], "1 Chronicles_ch_1.docx": [2393, 2393]}
-5‘ea	{"1 Samuel_ch_6.docx": [766]}
 kedm	{"Genesis_ch_15.docx": [2563], "Genesis_ch_25.docx": [1509], "1 Chronicles_ch_1.docx": [2393]}

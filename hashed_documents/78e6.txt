@@ -1,4 +1,2 @@
 
-shudde	{"Job_ch_4.docx": [1426], "Jeremiah_ch_2.docx": [1983, 1983, 1983], "Jeremiah_ch_5.docx": [5266, 5266, 5266], "Jeremiah_ch_18.docx": [1667, 1667, 1667], "Jeremiah_ch_23.docx": [2494, 2494, 2494], "Daniel_ch_7.docx": [2905, 2905, 2905], "Hosea_ch_6.docx": [1320, 1320, 1320]}
-shudde	{"Job_ch_4.docx": [1426], "Jeremiah_ch_2.docx": [1983, 1983], "Jeremiah_ch_5.docx": [5266, 5266], "Jeremiah_ch_18.docx": [1667, 1667], "Jeremiah_ch_23.docx": [2494, 2494], "Daniel_ch_7.docx": [2905, 2905], "Hosea_ch_6.docx": [1320, 1320]}
 shudde	{"Job_ch_4.docx": [1426], "Jeremiah_ch_2.docx": [1983], "Jeremiah_ch_5.docx": [5266], "Jeremiah_ch_18.docx": [1667], "Jeremiah_ch_23.docx": [2494], "Daniel_ch_7.docx": [2905], "Hosea_ch_6.docx": [1320]}

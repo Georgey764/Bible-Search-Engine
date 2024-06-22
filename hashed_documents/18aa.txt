@@ -1,5 +1,2 @@
 
 satra	{"1 Chronicles_ch_27.docx": [4026]}
-satra	{"1 Chronicles_ch_27.docx": [4026]}
-1/6	{"Ezekiel_ch_45.docx": [2579, 2613], "Ezekiel_ch_46.docx": [2808]}
-satra	{"1 Chronicles_ch_27.docx": [4026]}

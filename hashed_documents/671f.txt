@@ -1,4 +1,2 @@
 
-shiv	{"Job_ch_9.docx": [2587], "Psalms_ch_114.docx": [659, 659, 659]}
-shiv	{"Job_ch_9.docx": [2587], "Psalms_ch_114.docx": [659, 659]}
-shiv	{"Job_ch_9.docx": [2587], "Psalms_ch_114.docx": [659]}
+shiv	{"Job_ch_9.docx": [2587], "Psalms_ch_114.docx": [659], "Habakkuk_ch_3.docx": [2707]}

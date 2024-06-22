@@ -1,4 +1,2 @@
 
-ekk	{"2 Samuel_ch_23.docx": [4310], "1 Chronicles_ch_11.docx": [5277, 5277, 5277], "1 Chronicles_ch_27.docx": [1154, 1154, 1154]}
-ekk	{"2 Samuel_ch_23.docx": [4310], "1 Chronicles_ch_11.docx": [5277, 5277], "1 Chronicles_ch_27.docx": [1154, 1154]}
 ekk	{"2 Samuel_ch_23.docx": [4310], "1 Chronicles_ch_11.docx": [5277], "1 Chronicles_ch_27.docx": [1154]}

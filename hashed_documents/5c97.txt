@@ -1,3 +1,2 @@
 
 losses	{"Job_ch_42.docx": [3828], "Acts_ch_27.docx": [1274]}
-losses	{"Acts_ch_27.docx": [1274]}

@@ -1,4 +1,2 @@
 
-blood-	{"Numbers_ch_35.docx": [3504], "Joshua_ch_20.docx": [1033, 1033, 1033]}
-blood-	{"Numbers_ch_35.docx": [3504], "Joshua_ch_20.docx": [1033, 1033]}
 blood-	{"Numbers_ch_35.docx": [3504], "Joshua_ch_20.docx": [1033]}

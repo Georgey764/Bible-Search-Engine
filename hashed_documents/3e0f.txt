@@ -1,5 +1,3 @@
 
 brethr	{"Mark_ch_10.docx": [3331]}
 pisi	{"Acts_ch_13.docx": [3233]}
-brethr	{"Mark_ch_10.docx": [3331]}
-pisi	{"Acts_ch_13.docx": [3233]}

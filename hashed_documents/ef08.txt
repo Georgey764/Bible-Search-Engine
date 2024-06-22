@@ -1,4 +1,3 @@
 
-perche	{"Judges_ch_16.docx": [4990], "Psalms_ch_73.docx": [1559, 1559, 1559], "Lamentations_ch_4.docx": [3254, 3254, 3254], "Ezekiel_ch_17.docx": [329, 329, 329]}
-perche	{"Judges_ch_16.docx": [4990], "Psalms_ch_73.docx": [1559, 1559], "Lamentations_ch_4.docx": [3254, 3254], "Ezekiel_ch_17.docx": [329, 329]}
 perche	{"Judges_ch_16.docx": [4990], "Psalms_ch_73.docx": [1559], "Lamentations_ch_4.docx": [3254], "Ezekiel_ch_17.docx": [329]}
+puzzli	{"Ezra_ch_10.docx": [7228]}

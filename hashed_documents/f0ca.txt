@@ -1,8 +1,3 @@
 
 cheb	{"Exodus_ch_6.docx": [2401]}
-sea’	{"Job_ch_7.docx": [1269], "Job_ch_26.docx": [858, 858, 858]}
-cheb	{"Exodus_ch_6.docx": [2401]}
-9let’	{"Judges_ch_18.docx": [1948]}
-sea’	{"Job_ch_7.docx": [1269], "Job_ch_26.docx": [858, 858]}
-cheb	{"Exodus_ch_6.docx": [2401]}
 sea’	{"Job_ch_7.docx": [1269], "Job_ch_26.docx": [858]}

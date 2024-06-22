@@ -1,5 +1,2 @@
 
-decayi	{"Leviticus_ch_7.docx": [3458], "Psalms_ch_79.docx": [167, 167, 167], "Jeremiah_ch_36.docx": [5406, 5406, 5406], "Ezekiel_ch_4.docx": [2208, 2208, 2208]}
-2.3	{"Exodus_ch_26.docx": [1697], "Exodus_ch_38.docx": [104, 135, 2200], "1 Kings_ch_6.docx": [670, 1274, 2884], "1 Kings_ch_7.docx": [2300, 3019]}
-decayi	{"Leviticus_ch_7.docx": [3458], "Psalms_ch_79.docx": [167, 167], "Jeremiah_ch_36.docx": [5406, 5406], "Ezekiel_ch_4.docx": [2208, 2208]}
 decayi	{"Leviticus_ch_7.docx": [3458], "Psalms_ch_79.docx": [167], "Jeremiah_ch_36.docx": [5406], "Ezekiel_ch_4.docx": [2208]}

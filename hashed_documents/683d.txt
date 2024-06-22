@@ -1,2 +1,2 @@
 
-43nor	{"Leviticus_ch_25.docx": [6062]}
+edited	{"Ruth_ch_4.docx": [4102], "1 Samuel_ch_31.docx": [2222], "Isaiah_ch_66.docx": [4876]}

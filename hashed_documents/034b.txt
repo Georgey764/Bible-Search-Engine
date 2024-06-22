@@ -1,4 +1,2 @@
 
-agit	{"Matthew_ch_8.docx": [2892], "Acts_ch_17.docx": [1646, 2583, 1646, 2583], "Galatians_ch_5.docx": [1125, 1125]}
-agit	{"Matthew_ch_8.docx": [2892], "Acts_ch_17.docx": [1646, 2583], "Galatians_ch_5.docx": [1125]}
 agit	{"Matthew_ch_8.docx": [2892], "Acts_ch_17.docx": [1646, 2583], "Galatians_ch_5.docx": [1125]}

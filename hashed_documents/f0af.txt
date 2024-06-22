@@ -1,4 +1,2 @@
 
-self-s	{"Proverbs_ch_30.docx": [899]}
-self-s	{"Proverbs_ch_30.docx": [899]}
-self-s	{"Proverbs_ch_30.docx": [899]}
+self-s	{"Proverbs_ch_30.docx": [899], "Philippians_ch_4.docx": [1366]}

@@ -1,5 +1,2 @@
 
-seba	{"Numbers_ch_32.docx": [396, 5196, 5196, 5196]}
-seba	{"Numbers_ch_32.docx": [396, 5196, 5196]}
-8must	{"Deuteronomy_ch_18.docx": [901]}
 seba	{"Numbers_ch_32.docx": [396, 5196]}

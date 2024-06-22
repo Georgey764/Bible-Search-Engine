@@ -1,4 +1,2 @@
 
-primar	{"Joshua_ch_10.docx": [62], "Mark_ch_12.docx": [3912, 3973, 3912, 3973], "Acts_ch_5.docx": [4224, 4224], "Hebrews_ch_2.docx": [1666, 1666]}
-primar	{"Joshua_ch_10.docx": [62], "Mark_ch_12.docx": [3912, 3973], "Acts_ch_5.docx": [4224], "Hebrews_ch_2.docx": [1666]}
-primar	{"Joshua_ch_10.docx": [62], "Mark_ch_12.docx": [3912, 3973], "Acts_ch_5.docx": [4224], "Hebrews_ch_2.docx": [1666]}
+primar	{"Joshua_ch_10.docx": [62], "1 Kings_ch_22.docx": [1434], "Daniel_ch_12.docx": [4272], "Mark_ch_12.docx": [3912, 3973], "John_ch_21.docx": [4185], "Acts_ch_5.docx": [4224], "Hebrews_ch_2.docx": [1666]}

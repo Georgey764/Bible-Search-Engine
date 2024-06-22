@@ -1,2 +1,0 @@
-
-19ye	{"Judges_ch_2.docx": [4355], "1 Samuel_ch_30.docx": [2822], "Job_ch_13.docx": [1583], "Psalms_ch_9.docx": [1769], "Psalms_ch_55.docx": [1881], "Psalms_ch_73.docx": [1610], "Proverbs_ch_1.docx": [1816], "Isaiah_ch_44.docx": [3051], "Isaiah_ch_57.docx": [3032], "Jeremiah_ch_51.docx": [3180], "Ezekiel_ch_30.docx": [2804]}

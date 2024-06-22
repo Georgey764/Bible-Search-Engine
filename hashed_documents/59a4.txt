@@ -1,2 +1,0 @@
-
-30m	{"2 Samuel_ch_13.docx": [4700], "1 Chronicles_ch_1.docx": [2310], "Esther_ch_9.docx": [3834], "Job_ch_30.docx": [2871], "Psalms_ch_37.docx": [2884], "Joel_ch_2.docx": [5350]}

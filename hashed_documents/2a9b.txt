@@ -1,7 +1,3 @@
 
-rapid	{"Genesis_ch_47.docx": [4525], "Daniel_ch_8.docx": [1416, 1416, 1416]}
-enwr	{"2 Samuel_ch_22.docx": [584]}
-rapid	{"Genesis_ch_47.docx": [4525], "Daniel_ch_8.docx": [1416, 1416]}
-enwr	{"2 Samuel_ch_22.docx": [584]}
-rapid	{"Genesis_ch_47.docx": [4525], "Daniel_ch_8.docx": [1416]}
+rapid	{"Genesis_ch_47.docx": [4525], "Daniel_ch_8.docx": [1416], "2 Thessalonians_ch_3.docx": [70]}
 enwr	{"2 Samuel_ch_22.docx": [584]}

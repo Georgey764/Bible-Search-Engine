@@ -1,7 +1,3 @@
 
-labe	{"Joshua_ch_17.docx": [755], "Romans_ch_7.docx": [744, 744]}
-stille	{"Jeremiah_ch_47.docx": [977, 1098, 1098, 1098]}
-labe	{"Joshua_ch_17.docx": [755], "Romans_ch_7.docx": [744]}
-stille	{"Jeremiah_ch_47.docx": [977, 1098, 1098]}
 labe	{"Joshua_ch_17.docx": [755], "Romans_ch_7.docx": [744]}
 stille	{"Jeremiah_ch_47.docx": [977, 1098]}

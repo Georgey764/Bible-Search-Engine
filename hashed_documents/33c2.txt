@@ -1,4 +1,2 @@
 
-protr	{"Nehemiah_ch_3.docx": [11458, 11478, 11500, 11526, 11554, 12377, 11478, 11500, 11526, 11554, 12377, 11478, 11500, 11526, 11554, 12377], "Ezekiel_ch_41.docx": [651, 651, 651], "Revelation_ch_1.docx": [2514, 2514], "Revelation_ch_19.docx": [2370, 2370]}
-protr	{"Nehemiah_ch_3.docx": [11458, 11478, 11500, 11526, 11554, 12377, 11478, 11500, 11526, 11554, 12377], "Ezekiel_ch_41.docx": [651, 651], "Revelation_ch_1.docx": [2514], "Revelation_ch_19.docx": [2370]}
 protr	{"Nehemiah_ch_3.docx": [11458, 11478, 11500, 11526, 11554, 12377], "Ezekiel_ch_41.docx": [651], "Revelation_ch_1.docx": [2514], "Revelation_ch_19.docx": [2370]}

@@ -1,5 +1,2 @@
 
-fleec	{"Deuteronomy_ch_18.docx": [346], "Judges_ch_6.docx": [9866, 9924, 10095, 10305, 10408, 9866, 9924, 10095, 10305, 10408, 9866, 9924, 10095, 10305, 10408], "Psalms_ch_72.docx": [500, 500, 500]}
-fleec	{"Deuteronomy_ch_18.docx": [346], "Judges_ch_6.docx": [9866, 9924, 10095, 10305, 10408, 9866, 9924, 10095, 10305, 10408], "Psalms_ch_72.docx": [500, 500]}
-27don’	{"Proverbs_ch_4.docx": [2474]}
 fleec	{"Deuteronomy_ch_18.docx": [346], "Judges_ch_6.docx": [9866, 9924, 10095, 10305, 10408], "Psalms_ch_72.docx": [500]}

@@ -1,4 +1,2 @@
 
-melzar	{"Daniel_ch_1.docx": [1820, 2441, 2441, 2441]}
-melzar	{"Daniel_ch_1.docx": [1820, 2441, 2441]}
 melzar	{"Daniel_ch_1.docx": [1820, 2441]}

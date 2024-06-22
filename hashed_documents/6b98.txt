@@ -1,4 +1,2 @@
 
-sikima	{"1 Kings_ch_12.docx": [11, 4184, 4184, 4184]}
-sikima	{"1 Kings_ch_12.docx": [11, 4184, 4184]}
 sikima	{"1 Kings_ch_12.docx": [11, 4184]}

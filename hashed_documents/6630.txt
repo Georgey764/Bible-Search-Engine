@@ -1,4 +1,2 @@
 
-mockin	{"1 Samuel_ch_17.docx": [1314, 5254, 6960, 5254, 6960, 5254, 6960], "Psalms_ch_38.docx": [535, 535, 535]}
-mockin	{"1 Samuel_ch_17.docx": [1314, 5254, 6960, 5254, 6960], "Psalms_ch_38.docx": [535, 535]}
 mockin	{"1 Samuel_ch_17.docx": [1314, 5254, 6960], "Psalms_ch_38.docx": [535]}

@@ -1,7 +1,3 @@
 
-havin	{"Genesis_ch_34.docx": [47, 801, 801, 801], "Leviticus_ch_20.docx": [2131, 2131, 2131], "Esther_ch_9.docx": [3867, 3867, 3867], "Job_ch_28.docx": [2583, 2632, 2583, 2632, 2583, 2632]}
-pure!	{"Job_ch_15.docx": [1338], "Malachi_ch_1.docx": [2427, 2427, 2427], "1 Timothy_ch_5.docx": [3016, 3016]}
-havin	{"Genesis_ch_34.docx": [47, 801, 801], "Leviticus_ch_20.docx": [2131, 2131], "Esther_ch_9.docx": [3867, 3867], "Job_ch_28.docx": [2583, 2632, 2583, 2632]}
-pure!	{"Job_ch_15.docx": [1338], "Malachi_ch_1.docx": [2427, 2427], "1 Timothy_ch_5.docx": [3016]}
 havin	{"Genesis_ch_34.docx": [47, 801], "Leviticus_ch_20.docx": [2131], "Esther_ch_9.docx": [3867], "Job_ch_28.docx": [2583, 2632]}
 pure!	{"Job_ch_15.docx": [1338], "Malachi_ch_1.docx": [2427], "1 Timothy_ch_5.docx": [3016]}

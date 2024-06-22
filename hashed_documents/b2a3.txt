@@ -1,6 +1,2 @@
 
-bleati	{"Judges_ch_5.docx": [2484], "Jeremiah_ch_25.docx": [6047, 6047, 6047], "Jeremiah_ch_48.docx": [4568, 4568, 4568]}
-bleati	{"Judges_ch_5.docx": [2484], "Jeremiah_ch_25.docx": [6047, 6047], "Jeremiah_ch_48.docx": [4568, 4568]}
-7ju	{"Psalms_ch_44.docx": [817]}
-31alth	{"Proverbs_ch_21.docx": [2993]}
 bleati	{"Judges_ch_5.docx": [2484], "Jeremiah_ch_25.docx": [6047], "Jeremiah_ch_48.docx": [4568]}

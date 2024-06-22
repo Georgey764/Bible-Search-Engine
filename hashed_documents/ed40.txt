@@ -1,4 +1,2 @@
 
-plays	{"Habakkuk_ch_1.docx": [1737], "2 Timothy_ch_2.docx": [381, 381]}
-plays	{"Habakkuk_ch_1.docx": [1737], "2 Timothy_ch_2.docx": [381]}
 plays	{"Habakkuk_ch_1.docx": [1737], "2 Timothy_ch_2.docx": [381]}

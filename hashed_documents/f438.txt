@@ -1,4 +1,2 @@
 
-budded	{"Genesis_ch_40.docx": [961], "Song of Solomon_ch_7.docx": [1702, 1702, 1702]}
-budded	{"Genesis_ch_40.docx": [961], "Song of Solomon_ch_7.docx": [1702, 1702]}
 budded	{"Genesis_ch_40.docx": [961], "Song of Solomon_ch_7.docx": [1702]}

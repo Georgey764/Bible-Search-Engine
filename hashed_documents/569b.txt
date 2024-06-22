@@ -1,4 +1,2 @@
 
 asarai	{"2 Samuel_ch_23.docx": [4859]}
-5wha	{"Job_ch_15.docx": [357], "Hosea_ch_9.docx": [782]}
-asarai	{"2 Samuel_ch_23.docx": [4859]}

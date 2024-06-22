@@ -1,4 +1,2 @@
 
-seash	{"Joshua_ch_11.docx": [2534], "Judges_ch_7.docx": [3037, 3037, 3037], "1 Kings_ch_2.docx": [6479, 6479, 6479], "Mark_ch_2.docx": [1551, 1551], "Mark_ch_4.docx": [14, 14], "Hebrews_ch_11.docx": [2514, 2514], "Revelation_ch_12.docx": [2785, 2785], "Revelation_ch_13.docx": [8, 8]}
-seash	{"Joshua_ch_11.docx": [2534], "Judges_ch_7.docx": [3037, 3037], "1 Kings_ch_2.docx": [6479, 6479], "Mark_ch_2.docx": [1551], "Mark_ch_4.docx": [14], "Hebrews_ch_11.docx": [2514], "Revelation_ch_12.docx": [2785], "Revelation_ch_13.docx": [8]}
 seash	{"Joshua_ch_11.docx": [2534], "Judges_ch_7.docx": [3037], "1 Kings_ch_2.docx": [6479], "Mark_ch_2.docx": [1551], "Mark_ch_4.docx": [14], "Hebrews_ch_11.docx": [2514], "Revelation_ch_12.docx": [2785], "Revelation_ch_13.docx": [8]}

@@ -1,6 +1,2 @@
 
 jahye	{"Proverbs_ch_30.docx": [10]}
-37‘y	{"Exodus_ch_26.docx": [3810], "Leviticus_ch_19.docx": [4911], "Leviticus_ch_25.docx": [5364], "Nehemiah_ch_9.docx": [8068], "Daniel_ch_2.docx": [6318], "Matthew_ch_12.docx": [4461]}
-9unti	{"Judges_ch_20.docx": [1055]}
-jahye	{"Proverbs_ch_30.docx": [10]}
-jahye	{"Proverbs_ch_30.docx": [10]}

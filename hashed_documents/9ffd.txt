@@ -1,3 +1,2 @@
 
-ephesu	{"1 Corinthians_ch_15.docx": [3671], "Ephesians_ch_1.docx": [21, 21], "1 Timothy_ch_1.docx": [383, 383], "2 Timothy_ch_1.docx": [2224, 2224], "Revelation_ch_1.docx": [1883, 1883], "Revelation_ch_2.docx": [15, 15]}
-ephesu	{"1 Corinthians_ch_15.docx": [3671], "Ephesians_ch_1.docx": [21], "1 Timothy_ch_1.docx": [383], "2 Timothy_ch_1.docx": [2224], "Revelation_ch_1.docx": [1883], "Revelation_ch_2.docx": [15]}
+ephesu	{"1 Corinthians_ch_15.docx": [3671], "Galatians_ch_6.docx": [2395], "Ephesians_ch_1.docx": [21], "1 Timothy_ch_1.docx": [383], "2 Timothy_ch_1.docx": [2224], "2 Timothy_ch_4.docx": [1682], "Revelation_ch_1.docx": [1883], "Revelation_ch_2.docx": [15]}

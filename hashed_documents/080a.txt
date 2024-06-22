@@ -1,4 +1,2 @@
 
-adija	{"2 Chronicles_ch_23.docx": [316], "Nehemiah_ch_12.docx": [231, 231]}
-adija	{"2 Chronicles_ch_23.docx": [316], "Nehemiah_ch_12.docx": [231]}
 adija	{"2 Chronicles_ch_23.docx": [316], "Nehemiah_ch_12.docx": [231]}

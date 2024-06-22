@@ -1,4 +1,2 @@
 
-tails	{"Deuteronomy_ch_28.docx": [5925], "Judges_ch_15.docx": [506, 513, 506, 513, 506, 513], "Revelation_ch_9.docx": [1210, 1216, 2437, 2440, 1210, 1216, 2437, 2440]}
-tails	{"Deuteronomy_ch_28.docx": [5925], "Judges_ch_15.docx": [506, 513, 506, 513], "Revelation_ch_9.docx": [1210, 1216, 2437, 2440]}
 tails	{"Deuteronomy_ch_28.docx": [5925], "Judges_ch_15.docx": [506, 513], "Revelation_ch_9.docx": [1210, 1216, 2437, 2440]}

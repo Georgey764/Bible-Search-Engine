@@ -1,2 +1,0 @@
-
-27f	{"Exodus_ch_26.docx": [2440], "Leviticus_ch_7.docx": [3742], "Numbers_ch_34.docx": [2509], "Deuteronomy_ch_1.docx": [3679], "Judges_ch_20.docx": [3301], "2 Kings_ch_23.docx": [6179], "Job_ch_6.docx": [2727], "Psalms_ch_69.docx": [2798], "Psalms_ch_107.docx": [2337], "Isaiah_ch_14.docx": [4449], "Ezekiel_ch_22.docx": [4058], "Matthew_ch_7.docx": [3093]}

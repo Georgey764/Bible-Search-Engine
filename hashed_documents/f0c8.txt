@@ -1,3 +1,2 @@
 
-unfort	{"2 Kings_ch_10.docx": [5882], "Philippians_ch_1.docx": [1723, 1723]}
-unfort	{"2 Kings_ch_10.docx": [5882], "Philippians_ch_1.docx": [1723]}
+unfort	{"2 Samuel_ch_24.docx": [5340], "1 Kings_ch_22.docx": [9127], "2 Kings_ch_10.docx": [5882], "2 Chronicles_ch_36.docx": [7760], "Ezekiel_ch_48.docx": [7392], "Daniel_ch_12.docx": [3751], "Philippians_ch_1.docx": [1723], "2 Timothy_ch_4.docx": [2042]}

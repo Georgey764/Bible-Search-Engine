@@ -1,4 +1,2 @@
 
-gamer	{"Genesis_ch_10.docx": [185, 365, 365]}
-gamer	{"Genesis_ch_10.docx": [185, 365]}
 gamer	{"Genesis_ch_10.docx": [185, 365]}

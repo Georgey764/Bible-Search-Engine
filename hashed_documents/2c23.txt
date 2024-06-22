@@ -1,4 +1,2 @@
 
 sarm	{"Genesis_ch_10.docx": [2959], "Job_ch_42.docx": [4155]}
-sarm	{"Genesis_ch_10.docx": [2959]}
-sarm	{"Genesis_ch_10.docx": [2959]}

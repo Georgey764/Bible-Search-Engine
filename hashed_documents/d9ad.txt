@@ -1,3 +1,2 @@
 
-sosthe	{"Acts_ch_18.docx": [4913], "1 Corinthians_ch_1.docx": [24, 24]}
-sosthe	{"Acts_ch_18.docx": [4913], "1 Corinthians_ch_1.docx": [24]}
+sosthe	{"Acts_ch_18.docx": [4913], "Romans_ch_16.docx": [3924], "1 Corinthians_ch_1.docx": [24]}

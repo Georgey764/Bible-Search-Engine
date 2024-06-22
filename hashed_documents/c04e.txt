@@ -1,3 +1,2 @@
 
 asset	{"Philippians_ch_3.docx": [1011]}
-asset	{"Philippians_ch_3.docx": [1011]}

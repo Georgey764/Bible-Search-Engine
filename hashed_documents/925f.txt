@@ -1,6 +1,2 @@
 
 salemo	{"2 Chronicles_ch_11.docx": [2340]}
-5bot	{"Ruth_ch_1.docx": [571], "Psalms_ch_139.docx": [371]}
-salemo	{"2 Chronicles_ch_11.docx": [2340]}
-5blest	{"Psalms_ch_84.docx": [532], "Psalms_ch_146.docx": [354]}
-salemo	{"2 Chronicles_ch_11.docx": [2340]}

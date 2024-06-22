@@ -1,4 +1,2 @@
 
 null	{"Mark_ch_7.docx": [1696]}
-20don	{"Proverbs_ch_5.docx": [1737], "Proverbs_ch_23.docx": [1668]}
-null	{"Mark_ch_7.docx": [1696]}

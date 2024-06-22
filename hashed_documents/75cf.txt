@@ -1,2 +1,0 @@
-
-27wel	{"Genesis_ch_19.docx": [4151], "Genesis_ch_25.docx": [2980], "Genesis_ch_42.docx": [3392], "Genesis_ch_43.docx": [3657], "Genesis_ch_47.docx": [4501], "Judges_ch_16.docx": [4968], "1 Samuel_ch_2.docx": [4892], "1 Kings_ch_14.docx": [4870], "1 Kings_ch_18.docx": [4369], "1 Kings_ch_21.docx": [4126], "2 Kings_ch_4.docx": [4011], "2 Kings_ch_9.docx": [5411], "Jeremiah_ch_36.docx": [4508]}

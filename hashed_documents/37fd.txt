@@ -1,6 +1,3 @@
 
 slyl	{"Genesis_ch_27.docx": [4580]}
 walk!	{"Acts_ch_3.docx": [550]}
-slyl	{"Genesis_ch_27.docx": [4580]}
-slyl	{"Genesis_ch_27.docx": [4580]}
-walk!	{"Acts_ch_3.docx": [550]}

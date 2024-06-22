@@ -1,4 +1,2 @@
 
-appare	{"Proverbs_ch_14.docx": [351], "Proverbs_ch_16.docx": [208, 208, 208], "Proverbs_ch_25.docx": [1364, 1364, 1364], "Joel_ch_2.docx": [5521, 5521, 5521]}
-appare	{"Proverbs_ch_14.docx": [351], "Proverbs_ch_16.docx": [208, 208], "Proverbs_ch_25.docx": [1364, 1364], "Joel_ch_2.docx": [5521, 5521]}
-appare	{"Proverbs_ch_14.docx": [351], "Proverbs_ch_16.docx": [208], "Proverbs_ch_25.docx": [1364], "Joel_ch_2.docx": [5521]}
+appare	{"Proverbs_ch_14.docx": [351], "Proverbs_ch_16.docx": [208], "Proverbs_ch_25.docx": [1364], "Joel_ch_2.docx": [5521], "Titus_ch_3.docx": [2216]}

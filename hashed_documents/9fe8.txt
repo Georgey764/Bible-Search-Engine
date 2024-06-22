@@ -1,4 +1,2 @@
 
-hope;	{"Psalms_ch_31.docx": [94], "Psalms_ch_60.docx": [1169, 1169, 1169], "Psalms_ch_71.docx": [133, 133, 133], "Isaiah_ch_28.docx": [1785, 1785, 1785], "Isaiah_ch_32.docx": [1265, 1265, 1265], "Jeremiah_ch_17.docx": [833, 833, 833]}
-hope;	{"Psalms_ch_31.docx": [94], "Psalms_ch_60.docx": [1169, 1169], "Psalms_ch_71.docx": [133, 133], "Isaiah_ch_28.docx": [1785, 1785], "Isaiah_ch_32.docx": [1265, 1265], "Jeremiah_ch_17.docx": [833, 833]}
 hope;	{"Psalms_ch_31.docx": [94], "Psalms_ch_60.docx": [1169], "Psalms_ch_71.docx": [133], "Isaiah_ch_28.docx": [1785], "Isaiah_ch_32.docx": [1265], "Jeremiah_ch_17.docx": [833]}

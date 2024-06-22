@@ -1,4 +1,2 @@
 
-toas	{"Ruth_ch_2.docx": [2528], "1 Samuel_ch_17.docx": [2286, 2286, 2286], "1 Samuel_ch_25.docx": [2637, 2637, 2637], "2 Samuel_ch_17.docx": [4574, 4574, 4574], "Esther_ch_3.docx": [2651, 2651, 2651]}
-toas	{"Ruth_ch_2.docx": [2528], "1 Samuel_ch_17.docx": [2286, 2286], "1 Samuel_ch_25.docx": [2637, 2637], "2 Samuel_ch_17.docx": [4574, 4574], "Esther_ch_3.docx": [2651, 2651]}
 toas	{"Ruth_ch_2.docx": [2528], "1 Samuel_ch_17.docx": [2286], "1 Samuel_ch_25.docx": [2637], "2 Samuel_ch_17.docx": [4574], "Esther_ch_3.docx": [2651]}

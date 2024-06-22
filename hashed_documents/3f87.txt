@@ -1,5 +1,2 @@
 
 dirty;	{"Ecclesiastes_ch_7.docx": [2018]}
-dirty;	{"Ecclesiastes_ch_7.docx": [2018]}
-18tell	{"Ezekiel_ch_13.docx": [3443]}
-dirty;	{"Ecclesiastes_ch_7.docx": [2018]}

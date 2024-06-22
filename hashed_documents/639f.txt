@@ -1,7 +1,3 @@
 
 mool	{"1 Chronicles_ch_23.docx": [2169, 2351]}
 mool	{"1 Chronicles_ch_24.docx": [2699]}
-mool	{"1 Chronicles_ch_23.docx": [2169, 2351]}
-mool	{"1 Chronicles_ch_24.docx": [2699]}
-mool	{"1 Chronicles_ch_23.docx": [2169, 2351]}
-mool	{"1 Chronicles_ch_24.docx": [2699]}

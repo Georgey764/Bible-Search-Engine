@@ -1,7 +1,3 @@
 
 eshte	{"1 Samuel_ch_30.docx": [4412]}
 cliffs	{"Job_ch_14.docx": [2109]}
-eshte	{"1 Samuel_ch_30.docx": [4412]}
-cliffs	{"Job_ch_14.docx": [2109]}
-eshte	{"1 Samuel_ch_30.docx": [4412]}
-cliffs	{"Job_ch_14.docx": [2109]}

@@ -1,7 +1,3 @@
 
-espec	{"1 Chronicles_ch_7.docx": [1488], "Nehemiah_ch_5.docx": [9, 9, 9], "Proverbs_ch_23.docx": [104, 104], "Acts_ch_6.docx": [1082, 1082], "Acts_ch_25.docx": [7971, 7971], "2 Corinthians_ch_1.docx": [2296, 2296], "1 Timothy_ch_5.docx": [835, 2203, 835, 2203], "2 Timothy_ch_1.docx": [2029, 2029], "2 Peter_ch_2.docx": [1489, 1489]}
-had,[y	{"Hebrews_ch_12.docx": [397]}
-espec	{"1 Chronicles_ch_7.docx": [1488], "Nehemiah_ch_5.docx": [9, 9], "Proverbs_ch_23.docx": [104], "Acts_ch_6.docx": [1082], "Acts_ch_25.docx": [7971], "2 Corinthians_ch_1.docx": [2296], "1 Timothy_ch_5.docx": [835, 2203], "2 Timothy_ch_1.docx": [2029], "2 Peter_ch_2.docx": [1489]}
-29‘pl	{"Job_ch_19.docx": [2569]}
-espec	{"1 Chronicles_ch_7.docx": [1488], "Nehemiah_ch_5.docx": [9], "Proverbs_ch_23.docx": [104], "Acts_ch_6.docx": [1082], "Acts_ch_25.docx": [7971], "2 Corinthians_ch_1.docx": [2296], "1 Timothy_ch_5.docx": [835, 2203], "2 Timothy_ch_1.docx": [2029], "2 Peter_ch_2.docx": [1489]}
+espec	{"1 Chronicles_ch_7.docx": [1488], "Nehemiah_ch_5.docx": [9], "Proverbs_ch_23.docx": [104], "Obadiah_ch_1.docx": [2221], "Acts_ch_6.docx": [1082], "Acts_ch_25.docx": [7971], "Romans_ch_16.docx": [28], "2 Corinthians_ch_1.docx": [2296], "Galatians_ch_6.docx": [1077], "Philippians_ch_4.docx": [2724], "1 Timothy_ch_5.docx": [835, 2203], "2 Timothy_ch_1.docx": [2029], "2 Timothy_ch_4.docx": [1739], "Philemon_ch_1.docx": [1982], "Hebrews_ch_13.docx": [2730], "2 Peter_ch_2.docx": [1489]}
 had,[y	{"Hebrews_ch_12.docx": [397]}

@@ -1,10 +1,4 @@
 
-oblig	{"Numbers_ch_30.docx": [511, 768, 995, 1028, 1255, 1522, 1778, 2025, 768, 995, 1028, 1255, 1522, 1778, 2025, 768, 995, 1028, 1255, 1522, 1778, 2025], "Acts_ch_1.docx": [4560, 4560], "Galatians_ch_5.docx": [343, 343], "Colossians_ch_1.docx": [3828, 3828], "2 Thessalonians_ch_1.docx": [557, 557], "2 Thessalonians_ch_2.docx": [1995, 1995], "Hebrews_ch_2.docx": [2705, 2705], "1 John_ch_2.docx": [604, 604], "1 John_ch_4.docx": [1422, 1422]}
-elah’	{"1 Kings_ch_16.docx": [1253], "1 Chronicles_ch_4.docx": [1691, 1691, 1691]}
-percei	{"Psalms_ch_82.docx": [383], "Proverbs_ch_1.docx": [396, 396, 396], "Proverbs_ch_5.docx": [133, 133, 133], "Jeremiah_ch_9.docx": [4295, 4295, 4295]}
-oblig	{"Numbers_ch_30.docx": [511, 768, 995, 1028, 1255, 1522, 1778, 2025, 768, 995, 1028, 1255, 1522, 1778, 2025], "Acts_ch_1.docx": [4560], "Galatians_ch_5.docx": [343], "Colossians_ch_1.docx": [3828], "2 Thessalonians_ch_1.docx": [557], "2 Thessalonians_ch_2.docx": [1995], "Hebrews_ch_2.docx": [2705], "1 John_ch_2.docx": [604], "1 John_ch_4.docx": [1422]}
-elah’	{"1 Kings_ch_16.docx": [1253], "1 Chronicles_ch_4.docx": [1691, 1691]}
-percei	{"Psalms_ch_82.docx": [383], "Proverbs_ch_1.docx": [396, 396], "Proverbs_ch_5.docx": [133, 133], "Jeremiah_ch_9.docx": [4295, 4295]}
-oblig	{"Numbers_ch_30.docx": [511, 768, 995, 1028, 1255, 1522, 1778, 2025], "Acts_ch_1.docx": [4560], "Galatians_ch_5.docx": [343], "Colossians_ch_1.docx": [3828], "2 Thessalonians_ch_1.docx": [557], "2 Thessalonians_ch_2.docx": [1995], "Hebrews_ch_2.docx": [2705], "1 John_ch_2.docx": [604], "1 John_ch_4.docx": [1422]}
+oblig	{"Numbers_ch_30.docx": [511, 768, 995, 1028, 1255, 1522, 1778, 2025], "Acts_ch_1.docx": [4560], "Galatians_ch_5.docx": [343], "Colossians_ch_1.docx": [3828], "2 Thessalonians_ch_1.docx": [557], "2 Thessalonians_ch_2.docx": [1995], "Philemon_ch_1.docx": [708], "Hebrews_ch_2.docx": [2705], "1 John_ch_2.docx": [604], "1 John_ch_4.docx": [1422], "3 John_ch_1.docx": [605]}
 elah’	{"1 Kings_ch_16.docx": [1253], "1 Chronicles_ch_4.docx": [1691]}
 percei	{"Psalms_ch_82.docx": [383], "Proverbs_ch_1.docx": [396], "Proverbs_ch_5.docx": [133], "Jeremiah_ch_9.docx": [4295]}

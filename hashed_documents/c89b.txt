@@ -1,4 +1,2 @@
 
-kidna	{"Exodus_ch_21.docx": [2030, 2047, 2047, 2047], "Deuteronomy_ch_24.docx": [1064, 1064, 1064]}
-kidna	{"Exodus_ch_21.docx": [2030, 2047, 2047], "Deuteronomy_ch_24.docx": [1064, 1064]}
 kidna	{"Exodus_ch_21.docx": [2030, 2047], "Deuteronomy_ch_24.docx": [1064]}

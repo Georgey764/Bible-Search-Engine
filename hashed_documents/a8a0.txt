@@ -1,4 +1,2 @@
 
-asab	{"1 Chronicles_ch_4.docx": [3909], "1 Chronicles_ch_8.docx": [2161, 2161, 2161], "1 Chronicles_ch_9.docx": [2085, 2085, 2085], "1 Chronicles_ch_25.docx": [534, 2201, 534, 2201, 534, 2201], "1 Chronicles_ch_26.docx": [3889, 3889], "1 Chronicles_ch_27.docx": [2237, 2237, 2237], "2 Chronicles_ch_35.docx": [1711, 1711, 1711], "Nehemiah_ch_3.docx": [9180, 9180, 9180]}
-asab	{"1 Chronicles_ch_4.docx": [3909], "1 Chronicles_ch_8.docx": [2161, 2161], "1 Chronicles_ch_9.docx": [2085, 2085], "1 Chronicles_ch_25.docx": [534, 2201, 534, 2201], "1 Chronicles_ch_27.docx": [2237, 2237], "2 Chronicles_ch_35.docx": [1711, 1711], "Nehemiah_ch_3.docx": [9180, 9180], "1 Chronicles_ch_26.docx": [3889]}
 asab	{"1 Chronicles_ch_4.docx": [3909], "1 Chronicles_ch_8.docx": [2161], "1 Chronicles_ch_9.docx": [2085], "1 Chronicles_ch_25.docx": [534, 2201], "1 Chronicles_ch_26.docx": [3889], "1 Chronicles_ch_27.docx": [2237], "2 Chronicles_ch_35.docx": [1711], "Nehemiah_ch_3.docx": [9180]}

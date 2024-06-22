@@ -1,4 +1,2 @@
 
-gallim	{"1 Samuel_ch_25.docx": [6976], "Isaiah_ch_10.docx": [4502, 4502, 4502]}
-gallim	{"1 Samuel_ch_25.docx": [6976], "Isaiah_ch_10.docx": [4502, 4502]}
 gallim	{"1 Samuel_ch_25.docx": [6976], "Isaiah_ch_10.docx": [4502]}

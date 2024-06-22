@@ -1,4 +1,2 @@
 
-japhl	{"1 Chronicles_ch_7.docx": [3971, 4029, 4029]}
-japhl	{"1 Chronicles_ch_7.docx": [3971, 4029]}
 japhl	{"1 Chronicles_ch_7.docx": [3971, 4029]}

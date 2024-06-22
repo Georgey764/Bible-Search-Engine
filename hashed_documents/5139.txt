@@ -1,4 +1,3 @@
 
-zaph	{"Genesis_ch_36.docx": [4426], "Genesis_ch_41.docx": [5704, 5704, 5704], "1 Chronicles_ch_1.docx": [4568, 4568, 4568]}
-zaph	{"Genesis_ch_36.docx": [4426], "Genesis_ch_41.docx": [5704, 5704], "1 Chronicles_ch_1.docx": [4568, 4568]}
 zaph	{"Genesis_ch_36.docx": [4426], "Genesis_ch_41.docx": [5704], "1 Chronicles_ch_1.docx": [4568]}
+roughl	{"Isaiah_ch_66.docx": [5014]}

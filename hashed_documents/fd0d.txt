@@ -1,4 +1,2 @@
 
-snuff	{"Exodus_ch_30.docx": [718], "Exodus_ch_37.docx": [2315, 2315, 2315], "Numbers_ch_4.docx": [972, 972, 972], "Isaiah_ch_42.docx": [340, 340, 340], "Isaiah_ch_43.docx": [2806, 2806, 2806]}
-snuff	{"Exodus_ch_30.docx": [718], "Exodus_ch_37.docx": [2315, 2315], "Numbers_ch_4.docx": [972, 972], "Isaiah_ch_42.docx": [340, 340], "Isaiah_ch_43.docx": [2806, 2806]}
-snuff	{"Exodus_ch_30.docx": [718], "Exodus_ch_37.docx": [2315], "Numbers_ch_4.docx": [972], "Isaiah_ch_42.docx": [340], "Isaiah_ch_43.docx": [2806]}
+snuff	{"Exodus_ch_30.docx": [718], "Exodus_ch_37.docx": [2315], "Numbers_ch_4.docx": [972], "Isaiah_ch_42.docx": [340], "Isaiah_ch_43.docx": [2806], "Jeremiah_ch_52.docx": [2849]}

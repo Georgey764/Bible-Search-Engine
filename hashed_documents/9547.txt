@@ -1,4 +1,2 @@
 
-smidg	{"Matthew_ch_6.docx": [3816], "Luke_ch_12.docx": [3238, 3238]}
-smidg	{"Matthew_ch_6.docx": [3816], "Luke_ch_12.docx": [3238]}
 smidg	{"Matthew_ch_6.docx": [3816], "Luke_ch_12.docx": [3238]}

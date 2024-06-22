@@ -1,4 +1,3 @@
 
 zaca	{"Joshua_ch_15.docx": [5941]}
-zaca	{"Joshua_ch_15.docx": [5941]}
-zaca	{"Joshua_ch_15.docx": [5941]}
+shoddy	{"Ezra_ch_10.docx": [6891]}

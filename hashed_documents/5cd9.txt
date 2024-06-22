@@ -1,7 +1,3 @@
 
 gasin	{"Joshua_ch_18.docx": [2422]}
 amoke	{"Joshua_ch_18.docx": [3524]}
-gasin	{"Joshua_ch_18.docx": [2422]}
-amoke	{"Joshua_ch_18.docx": [3524]}
-gasin	{"Joshua_ch_18.docx": [2422]}
-amoke	{"Joshua_ch_18.docx": [3524]}

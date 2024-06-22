@@ -1,6 +1,2 @@
 
-maid	{"Genesis_ch_16.docx": [180, 1215, 1215, 1215], "Genesis_ch_24.docx": [4077, 4077, 4077], "1 Samuel_ch_1.docx": [2775, 2775, 2775], "1 Chronicles_ch_19.docx": [1100, 1100, 1100], "Job_ch_31.docx": [1202, 1202, 1202]}
-maid	{"Genesis_ch_16.docx": [180, 1215, 1215], "Genesis_ch_24.docx": [4077, 4077], "1 Samuel_ch_1.docx": [2775, 2775], "1 Chronicles_ch_19.docx": [1100, 1100], "Job_ch_31.docx": [1202, 1202]}
-29al	{"1 Kings_ch_14.docx": [5195], "1 Chronicles_ch_9.docx": [4211]}
-7‘to	{"Ezra_ch_5.docx": [1133], "Nehemiah_ch_2.docx": [1208], "Isaiah_ch_56.docx": [1291], "Ezekiel_ch_23.docx": [930]}
-maid	{"Genesis_ch_16.docx": [180, 1215], "Genesis_ch_24.docx": [4077], "1 Samuel_ch_1.docx": [2775], "1 Chronicles_ch_19.docx": [1100], "Job_ch_31.docx": [1202]}
+maid	{"Genesis_ch_16.docx": [180, 1215], "Genesis_ch_24.docx": [4077], "Ruth_ch_4.docx": [2632], "1 Samuel_ch_1.docx": [2775], "1 Chronicles_ch_19.docx": [1100], "Job_ch_31.docx": [1202], "Ecclesiastes_ch_12.docx": [2246]}

@@ -1,4 +1,2 @@
 
-prize	{"1 Samuel_ch_3.docx": [28], "Psalms_ch_135.docx": [285, 285, 285], "1 Corinthians_ch_9.docx": [3281, 3281], "Philippians_ch_3.docx": [2117, 2117], "Colossians_ch_2.docx": [2941, 2941], "2 Timothy_ch_2.docx": [378, 378], "Hebrews_ch_10.docx": [5091, 5091]}
-prize	{"1 Samuel_ch_3.docx": [28], "Psalms_ch_135.docx": [285, 285], "1 Corinthians_ch_9.docx": [3281], "Philippians_ch_3.docx": [2117], "Colossians_ch_2.docx": [2941], "2 Timothy_ch_2.docx": [378], "Hebrews_ch_10.docx": [5091]}
 prize	{"1 Samuel_ch_3.docx": [28], "Psalms_ch_135.docx": [285], "1 Corinthians_ch_9.docx": [3281], "Philippians_ch_3.docx": [2117], "Colossians_ch_2.docx": [2941], "2 Timothy_ch_2.docx": [378], "Hebrews_ch_10.docx": [5091]}

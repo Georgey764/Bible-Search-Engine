@@ -1,5 +1,2 @@
 
-forev	{"Job_ch_3.docx": [365, 401, 401, 401], "Job_ch_24.docx": [1937, 1937, 1937], "Psalms_ch_6.docx": [927, 927, 927], "Psalms_ch_66.docx": [1766, 1766, 1766], "Psalms_ch_74.docx": [1939, 1939, 1939], "Psalms_ch_79.docx": [574, 574, 574], "Matthew_ch_6.docx": [1775, 1775, 1775], "Romans_ch_11.docx": [1576, 1576], "Hebrews_ch_10.docx": [1847, 1847]}
-23{loo	{"1 Kings_ch_15.docx": [3196]}
-forev	{"Job_ch_3.docx": [365, 401, 401], "Job_ch_24.docx": [1937, 1937], "Psalms_ch_6.docx": [927, 927], "Psalms_ch_66.docx": [1766, 1766], "Psalms_ch_74.docx": [1939, 1939], "Psalms_ch_79.docx": [574, 574], "Matthew_ch_6.docx": [1775, 1775], "Romans_ch_11.docx": [1576], "Hebrews_ch_10.docx": [1847]}
 forev	{"Job_ch_3.docx": [365, 401], "Job_ch_24.docx": [1937], "Psalms_ch_6.docx": [927], "Psalms_ch_66.docx": [1766], "Psalms_ch_74.docx": [1939], "Psalms_ch_79.docx": [574], "Matthew_ch_6.docx": [1775], "Romans_ch_11.docx": [1576], "Hebrews_ch_10.docx": [1847]}

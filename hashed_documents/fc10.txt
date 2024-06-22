@@ -1,5 +1,2 @@
 
 onam	{"1 Chronicles_ch_1.docx": [3315]}
-10offe	{"Deuteronomy_ch_18.docx": [1293]}
-onam	{"1 Chronicles_ch_1.docx": [3315]}
-onam	{"1 Chronicles_ch_1.docx": [3315]}

@@ -1,7 +1,3 @@
 
-carvi	{"Exodus_ch_35.docx": [3496], "Deuteronomy_ch_4.docx": [2586, 3652, 2586, 3652, 2586, 3652], "1 Kings_ch_7.docx": [5388, 5388, 5388], "2 Kings_ch_21.docx": [1105, 1105, 1105], "2 Kings_ch_23.docx": [1509, 1509, 1509], "2 Chronicles_ch_2.docx": [1341, 2719, 1341, 2719, 1341, 2719], "Psalms_ch_97.docx": [610, 610, 610], "Psalms_ch_106.docx": [3471, 3471, 3471], "Isaiah_ch_10.docx": [1300, 1300, 1300], "Isaiah_ch_44.docx": [2202, 2202, 2202], "Jeremiah_ch_8.docx": [3728, 3728, 3728]}
-pass!	{"Jeremiah_ch_32.docx": [4294], "Ezekiel_ch_33.docx": [6447, 6447, 6447]}
-carvi	{"Exodus_ch_35.docx": [3496], "Deuteronomy_ch_4.docx": [2586, 3652, 2586, 3652], "1 Kings_ch_7.docx": [5388, 5388], "2 Kings_ch_21.docx": [1105, 1105], "2 Kings_ch_23.docx": [1509, 1509], "2 Chronicles_ch_2.docx": [1341, 2719, 1341, 2719], "Psalms_ch_97.docx": [610, 610], "Psalms_ch_106.docx": [3471, 3471], "Isaiah_ch_10.docx": [1300, 1300], "Isaiah_ch_44.docx": [2202, 2202], "Jeremiah_ch_8.docx": [3728, 3728]}
-pass!	{"Jeremiah_ch_32.docx": [4294], "Ezekiel_ch_33.docx": [6447, 6447]}
 carvi	{"Exodus_ch_35.docx": [3496], "Deuteronomy_ch_4.docx": [2586, 3652], "1 Kings_ch_7.docx": [5388], "2 Kings_ch_21.docx": [1105], "2 Kings_ch_23.docx": [1509], "2 Chronicles_ch_2.docx": [1341, 2719], "Psalms_ch_97.docx": [610], "Psalms_ch_106.docx": [3471], "Isaiah_ch_10.docx": [1300], "Isaiah_ch_44.docx": [2202], "Jeremiah_ch_8.docx": [3728]}
 pass!	{"Jeremiah_ch_32.docx": [4294], "Ezekiel_ch_33.docx": [6447]}

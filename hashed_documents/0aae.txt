@@ -1,4 +1,2 @@
 
-issue	{"Ezra_ch_4.docx": [3067], "Ezra_ch_5.docx": [2117, 2845, 2117, 2845, 2117, 2845], "Ezra_ch_6.docx": [17, 17, 17], "Jeremiah_ch_34.docx": [1472, 4224, 1472, 4224, 1472, 4224], "Daniel_ch_3.docx": [5292, 5292, 5292]}
-issue	{"Ezra_ch_4.docx": [3067], "Ezra_ch_5.docx": [2117, 2845, 2117, 2845], "Ezra_ch_6.docx": [17, 17], "Jeremiah_ch_34.docx": [1472, 4224, 1472, 4224], "Daniel_ch_3.docx": [5292, 5292]}
-issue	{"Ezra_ch_4.docx": [3067], "Ezra_ch_5.docx": [2117, 2845], "Ezra_ch_6.docx": [17], "Jeremiah_ch_34.docx": [1472, 4224], "Daniel_ch_3.docx": [5292]}
+issue	{"2 Chronicles_ch_36.docx": [7771], "Ezra_ch_4.docx": [3067], "Ezra_ch_5.docx": [2117, 2845], "Ezra_ch_6.docx": [17], "Jeremiah_ch_34.docx": [1472, 4224], "Daniel_ch_3.docx": [5292], "Amos_ch_9.docx": [2418]}

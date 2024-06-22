@@ -1,4 +1,2 @@
 
-won!	{"2 Kings_ch_13.docx": [2847], "Job_ch_16.docx": [1441, 1441, 1441]}
-won!	{"2 Kings_ch_13.docx": [2847], "Job_ch_16.docx": [1441, 1441]}
 won!	{"2 Kings_ch_13.docx": [2847], "Job_ch_16.docx": [1441]}

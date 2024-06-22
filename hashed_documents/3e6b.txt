@@ -1,4 +1,2 @@
 
-widel	{"Joshua_ch_10.docx": [66], "Ecclesiastes_ch_8.docx": [529, 529, 529], "1 Timothy_ch_5.docx": [3299, 3299]}
-widel	{"Joshua_ch_10.docx": [66], "Ecclesiastes_ch_8.docx": [529, 529], "1 Timothy_ch_5.docx": [3299]}
-widel	{"Joshua_ch_10.docx": [66], "Ecclesiastes_ch_8.docx": [529], "1 Timothy_ch_5.docx": [3299]}
+widel	{"Joshua_ch_10.docx": [66], "Ecclesiastes_ch_8.docx": [529], "Isaiah_ch_66.docx": [5422], "1 Timothy_ch_5.docx": [3299], "1 Peter_ch_5.docx": [2621]}

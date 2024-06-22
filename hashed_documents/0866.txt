@@ -1,8 +1,3 @@
 
-timb	{"Genesis_ch_6.docx": [1751], "Leviticus_ch_14.docx": [6663, 6663, 6663], "1 Kings_ch_5.docx": [769, 801, 2614, 769, 801, 2614, 769, 801, 2614], "1 Kings_ch_6.docx": [1898, 1898, 1898], "1 Kings_ch_10.docx": [1715, 1715, 1715], "1 Kings_ch_15.docx": [2982, 2982, 2982], "2 Kings_ch_6.docx": [107, 107, 107], "2 Chronicles_ch_2.docx": [1527, 1549, 1527, 1549, 1527, 1549], "2 Chronicles_ch_16.docx": [856, 856, 856], "Ezra_ch_5.docx": [1223, 1223, 1223], "Ezra_ch_6.docx": [527, 527, 527], "Galatians_ch_3.docx": [1840, 1840]}
-you]!	{"Deuteronomy_ch_11.docx": [955], "Jeremiah_ch_21.docx": [2568, 2568, 2568]}
-timb	{"Genesis_ch_6.docx": [1751], "Leviticus_ch_14.docx": [6663, 6663], "1 Kings_ch_5.docx": [769, 801, 2614, 769, 801, 2614], "1 Kings_ch_6.docx": [1898, 1898], "1 Kings_ch_10.docx": [1715, 1715], "1 Kings_ch_15.docx": [2982, 2982], "2 Kings_ch_6.docx": [107, 107], "2 Chronicles_ch_2.docx": [1527, 1549, 1527, 1549], "2 Chronicles_ch_16.docx": [856, 856], "Ezra_ch_5.docx": [1223, 1223], "Ezra_ch_6.docx": [527, 527], "Galatians_ch_3.docx": [1840]}
-you]!	{"Deuteronomy_ch_11.docx": [955], "Jeremiah_ch_21.docx": [2568, 2568]}
-57am	{"Nehemiah_ch_7.docx": [3249]}
 timb	{"Genesis_ch_6.docx": [1751], "Leviticus_ch_14.docx": [6663], "1 Kings_ch_5.docx": [769, 801, 2614], "1 Kings_ch_6.docx": [1898], "1 Kings_ch_10.docx": [1715], "1 Kings_ch_15.docx": [2982], "2 Kings_ch_6.docx": [107], "2 Chronicles_ch_2.docx": [1527, 1549], "2 Chronicles_ch_16.docx": [856], "Ezra_ch_5.docx": [1223], "Ezra_ch_6.docx": [527], "Galatians_ch_3.docx": [1840]}
-you]!	{"Deuteronomy_ch_11.docx": [955], "Jeremiah_ch_21.docx": [2568]}
+you]!	{"Deuteronomy_ch_11.docx": [955], "Jeremiah_ch_21.docx": [2568], "Haggai_ch_2.docx": [4281]}

@@ -1,5 +1,2 @@
 
-sise	{"Judges_ch_5.docx": [4018], "1 Samuel_ch_12.docx": [1524, 1524], "Ezra_ch_2.docx": [2122, 2122, 2122], "Nehemiah_ch_7.docx": [3193, 3193, 3193], "Psalms_ch_83.docx": [769, 769, 769]}
-13br	{"Numbers_ch_7.docx": [1532]}
-sise	{"1 Samuel_ch_12.docx": [1524, 1524], "Ezra_ch_2.docx": [2122, 2122], "Nehemiah_ch_7.docx": [3193, 3193], "Psalms_ch_83.docx": [769, 769]}
 sise	{"Judges_ch_5.docx": [4018], "1 Samuel_ch_12.docx": [1524], "Ezra_ch_2.docx": [2122], "Nehemiah_ch_7.docx": [3193], "Psalms_ch_83.docx": [769]}

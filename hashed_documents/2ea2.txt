@@ -1,4 +1,2 @@
 
-explo	{"Joshua_ch_18.docx": [1225, 1416, 1416, 1416], "1 Corinthians_ch_6.docx": [1256, 1259, 1256, 1259], "Philippians_ch_2.docx": [639, 639]}
-explo	{"Joshua_ch_18.docx": [1225, 1416, 1416], "1 Corinthians_ch_6.docx": [1256, 1259], "Philippians_ch_2.docx": [639]}
 explo	{"Joshua_ch_18.docx": [1225, 1416], "1 Corinthians_ch_6.docx": [1256, 1259], "Philippians_ch_2.docx": [639]}

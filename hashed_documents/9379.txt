@@ -1,6 +1,2 @@
 
-women’	{"Deuteronomy_ch_22.docx": [688], "Esther_ch_2.docx": [2306, 2306, 2306], "1 Timothy_ch_2.docx": [966, 966], "Revelation_ch_9.docx": [989, 989]}
-6bl	{"Exodus_ch_35.docx": [710]}
-women’	{"Deuteronomy_ch_22.docx": [688], "Esther_ch_2.docx": [2306, 2306], "1 Timothy_ch_2.docx": [966], "Revelation_ch_9.docx": [989]}
-72davi	{"Psalms_ch_78.docx": [6917]}
 women’	{"Deuteronomy_ch_22.docx": [688], "Esther_ch_2.docx": [2306], "1 Timothy_ch_2.docx": [966], "Revelation_ch_9.docx": [989]}

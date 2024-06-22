@@ -1,3 +1,2 @@
 
-hyac	{"Revelation_ch_9.docx": [2249], "Revelation_ch_21.docx": [3221, 3221]}
 hyac	{"Revelation_ch_9.docx": [2249], "Revelation_ch_21.docx": [3221]}

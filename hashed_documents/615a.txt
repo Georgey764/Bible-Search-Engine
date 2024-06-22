@@ -1,4 +1,2 @@
 
-homele	{"Job_ch_6.docx": [1893], "Isaiah_ch_58.docx": [1514, 1514, 1514], "1 Corinthians_ch_4.docx": [1793, 1793]}
-homele	{"Job_ch_6.docx": [1893], "Isaiah_ch_58.docx": [1514, 1514], "1 Corinthians_ch_4.docx": [1793]}
 homele	{"Job_ch_6.docx": [1893], "Isaiah_ch_58.docx": [1514], "1 Corinthians_ch_4.docx": [1793]}

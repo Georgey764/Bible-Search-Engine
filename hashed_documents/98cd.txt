@@ -1,4 +1,2 @@
 
-awo	{"Genesis_ch_28.docx": [2451], "Ruth_ch_3.docx": [1880, 1880, 1880], "1 Kings_ch_3.docx": [2489, 2489, 2489], "Psalms_ch_3.docx": [426, 426, 426], "Psalms_ch_73.docx": [1752, 1752, 1752], "Isaiah_ch_37.docx": [5848, 5848, 5848], "Luke_ch_8.docx": [3488, 3488]}
-awo	{"Genesis_ch_28.docx": [2451], "Ruth_ch_3.docx": [1880, 1880], "1 Kings_ch_3.docx": [2489, 2489], "Psalms_ch_3.docx": [426, 426], "Psalms_ch_73.docx": [1752, 1752], "Isaiah_ch_37.docx": [5848, 5848], "Luke_ch_8.docx": [3488]}
-awo	{"Genesis_ch_28.docx": [2451], "Ruth_ch_3.docx": [1880], "1 Kings_ch_3.docx": [2489], "Psalms_ch_3.docx": [426], "Psalms_ch_73.docx": [1752], "Isaiah_ch_37.docx": [5848], "Luke_ch_8.docx": [3488]}
+awo	{"Genesis_ch_28.docx": [2451], "Ruth_ch_3.docx": [1880], "1 Kings_ch_3.docx": [2489], "Psalms_ch_3.docx": [426], "Psalms_ch_73.docx": [1752], "Song of Solomon_ch_8.docx": [831], "Isaiah_ch_37.docx": [5848], "Luke_ch_8.docx": [3488]}

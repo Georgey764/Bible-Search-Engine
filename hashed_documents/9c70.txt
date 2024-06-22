@@ -1,4 +1,2 @@
 
-raine	{"Genesis_ch_7.docx": [1371], "Exodus_ch_9.docx": [3276, 3276, 3276], "Psalms_ch_78.docx": [2462, 2727, 2462, 2727, 2462, 2727], "Luke_ch_17.docx": [3379, 3379]}
-raine	{"Genesis_ch_7.docx": [1371], "Exodus_ch_9.docx": [3276, 3276], "Psalms_ch_78.docx": [2462, 2727, 2462, 2727], "Luke_ch_17.docx": [3379]}
 raine	{"Genesis_ch_7.docx": [1371], "Exodus_ch_9.docx": [3276], "Psalms_ch_78.docx": [2462, 2727], "Luke_ch_17.docx": [3379]}

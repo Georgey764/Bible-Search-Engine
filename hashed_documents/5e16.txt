@@ -1,5 +1,2 @@
 
-sasaba	{"Ezra_ch_1.docx": [1226, 1749, 1749, 1749]}
-28chol	{"Joshua_ch_15.docx": [4283]}
-sasaba	{"Ezra_ch_1.docx": [1226, 1749, 1749]}
 sasaba	{"Ezra_ch_1.docx": [1226, 1749]}

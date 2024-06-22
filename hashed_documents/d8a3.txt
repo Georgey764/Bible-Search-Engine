@@ -1,2 +1,0 @@
-
-51a	{"Genesis_ch_41.docx": [6588], "Exodus_ch_12.docx": [7594], "Numbers_ch_26.docx": [5200], "Numbers_ch_31.docx": [5373], "1 Chronicles_ch_2.docx": [4535], "Psalms_ch_89.docx": [4815], "Psalms_ch_119.docx": [4022], "Matthew_ch_24.docx": [5706]}

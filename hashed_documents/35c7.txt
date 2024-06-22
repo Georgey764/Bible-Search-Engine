@@ -1,2 +1,0 @@
-
-25f	{"Exodus_ch_14.docx": [4290], "Numbers_ch_34.docx": [2387], "Judges_ch_5.docx": [3591], "Judges_ch_13.docx": [3898], "1 Chronicles_ch_12.docx": [3389], "Job_ch_3.docx": [2349], "Job_ch_6.docx": [2500], "Psalms_ch_44.docx": [2391], "Psalms_ch_107.docx": [2126], "Proverbs_ch_12.docx": [2357], "Ecclesiastes_ch_2.docx": [3748], "Isaiah_ch_5.docx": [3883], "Isaiah_ch_19.docx": [3560], "Lamentations_ch_3.docx": [1993], "Ezekiel_ch_12.docx": [4221]}

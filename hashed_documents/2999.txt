@@ -1,4 +1,2 @@
 
-kisho	{"1 Kings_ch_18.docx": [6735], "Psalms_ch_83.docx": [734, 734, 734]}
-kisho	{"1 Kings_ch_18.docx": [6735], "Psalms_ch_83.docx": [734, 734]}
 kisho	{"1 Kings_ch_18.docx": [6735], "Psalms_ch_83.docx": [734]}

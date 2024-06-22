@@ -1,4 +1,2 @@
 
-orche	{"1 Chronicles_ch_15.docx": [2990], "1 Chronicles_ch_16.docx": [420, 420, 420], "1 Chronicles_ch_25.docx": [24, 24, 24]}
-orche	{"1 Chronicles_ch_15.docx": [2990], "1 Chronicles_ch_16.docx": [420, 420], "1 Chronicles_ch_25.docx": [24, 24]}
 orche	{"1 Chronicles_ch_15.docx": [2990], "1 Chronicles_ch_16.docx": [420], "1 Chronicles_ch_25.docx": [24]}

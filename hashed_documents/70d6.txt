@@ -1,5 +1,3 @@
 
-hosha	{"Nehemiah_ch_12.docx": [4371], "Jeremiah_ch_42.docx": [21, 21, 21], "Jeremiah_ch_43.docx": [26, 26, 26]}
-hosha	{"Nehemiah_ch_12.docx": [4371], "Jeremiah_ch_42.docx": [21, 21], "Jeremiah_ch_43.docx": [26, 26]}
-8‘will	{"Malachi_ch_3.docx": [1774]}
+micaja	{"1 Kings_ch_22.docx": [1306, 1504, 2045, 2235, 2433, 2659, 3064, 3926, 4075, 4209, 4476]}
 hosha	{"Nehemiah_ch_12.docx": [4371], "Jeremiah_ch_42.docx": [21], "Jeremiah_ch_43.docx": [26]}

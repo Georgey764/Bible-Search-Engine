@@ -1,4 +1,2 @@
 
-tabe	{"Genesis_ch_22.docx": [3529], "1 Kings_ch_15.docx": [2220, 2220, 2220], "Ezra_ch_4.docx": [990, 990, 990], "Isaiah_ch_7.docx": [878, 878, 878]}
-tabe	{"Genesis_ch_22.docx": [3529], "1 Kings_ch_15.docx": [2220, 2220], "Ezra_ch_4.docx": [990, 990], "Isaiah_ch_7.docx": [878, 878]}
 tabe	{"Genesis_ch_22.docx": [3529], "1 Kings_ch_15.docx": [2220], "Ezra_ch_4.docx": [990], "Isaiah_ch_7.docx": [878]}

@@ -1,3 +1,2 @@
 
-anchor	{"Acts_ch_27.docx": [1782, 4023, 4172, 5369, 4023, 4172, 5369], "Hebrews_ch_6.docx": [2579, 2579]}
 anchor	{"Acts_ch_27.docx": [1782, 4023, 4172, 5369], "Hebrews_ch_6.docx": [2579]}

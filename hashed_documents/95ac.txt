@@ -1,3 +1,2 @@
 
-maxim	{"Acts_ch_1.docx": [2574]}
-maxim	{"Acts_ch_1.docx": [2574]}
+maxim	{"Deuteronomy_ch_34.docx": [804], "Acts_ch_1.docx": [2574]}

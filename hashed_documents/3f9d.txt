@@ -1,4 +1,2 @@
 
  go	{"1 Chronicles_ch_6.docx": [6068]}
- go	{"1 Chronicles_ch_6.docx": [6068]}
- go	{"1 Chronicles_ch_6.docx": [6068]}

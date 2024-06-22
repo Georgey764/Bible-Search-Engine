@@ -1,7 +1,3 @@
 
-odouja	{"1 Chronicles_ch_5.docx": [3152], "1 Chronicles_ch_27.docx": [1151, 1151, 1151]}
-astro	{"Isaiah_ch_47.docx": [2406], "Daniel_ch_2.docx": [4557, 4557, 4557], "Daniel_ch_4.docx": [456, 456, 456], "Daniel_ch_5.docx": [941, 1977, 2800, 941, 1977, 2800, 941, 1977, 2800]}
-odouja	{"1 Chronicles_ch_5.docx": [3152], "1 Chronicles_ch_27.docx": [1151, 1151]}
-astro	{"Isaiah_ch_47.docx": [2406], "Daniel_ch_2.docx": [4557, 4557], "Daniel_ch_4.docx": [456, 456], "Daniel_ch_5.docx": [941, 1977, 2800, 941, 1977, 2800]}
 odouja	{"1 Chronicles_ch_5.docx": [3152], "1 Chronicles_ch_27.docx": [1151]}
 astro	{"Isaiah_ch_47.docx": [2406], "Daniel_ch_2.docx": [4557], "Daniel_ch_4.docx": [456], "Daniel_ch_5.docx": [941, 1977, 2800]}

@@ -1,4 +1,2 @@
 
-remote	{"Matthew_ch_14.docx": [1727], "Matthew_ch_15.docx": [3967, 3967, 3967], "Mark_ch_1.docx": [3993, 3993], "Mark_ch_6.docx": [4515, 4515]}
-remote	{"Matthew_ch_14.docx": [1727], "Matthew_ch_15.docx": [3967, 3967], "Mark_ch_1.docx": [3993], "Mark_ch_6.docx": [4515]}
 remote	{"Matthew_ch_14.docx": [1727], "Matthew_ch_15.docx": [3967], "Mark_ch_1.docx": [3993], "Mark_ch_6.docx": [4515]}

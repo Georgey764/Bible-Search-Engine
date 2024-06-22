@@ -1,4 +1,3 @@
 
 ten-	{"Daniel_ch_1.docx": [2805]}
-ten-	{"Daniel_ch_1.docx": [2805]}
-ten-	{"Daniel_ch_1.docx": [2805]}
+woolen	{"Micah_ch_7.docx": [582]}

@@ -1,2 +1,0 @@
-
-13this	{"Genesis_ch_30.docx": [1391], "2 Kings_ch_16.docx": [2099], "Job_ch_27.docx": [1024], "Psalms_ch_73.docx": [1072], "Isaiah_ch_16.docx": [2456], "Isaiah_ch_30.docx": [2070], "Jeremiah_ch_46.docx": [2000]}

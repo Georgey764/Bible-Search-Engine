@@ -1,2 +1,0 @@
-
-1but	{"Genesis_ch_8.docx": [4], "Numbers_ch_16.docx": [58], "Judges_ch_4.docx": [4], "Judges_ch_8.docx": [4], "Judges_ch_13.docx": [4], "1 Samuel_ch_16.docx": [5], "1 Samuel_ch_27.docx": [5], "2 Samuel_ch_15.docx": [5]}

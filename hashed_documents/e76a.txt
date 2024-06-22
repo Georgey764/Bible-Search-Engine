@@ -1,9 +1,3 @@
 
-bagga	{"Genesis_ch_46.docx": [580], "Judges_ch_18.docx": [4795, 4795, 4795]}
-indus	{"Proverbs_ch_15.docx": [1988]}
-9‘nob	{"Genesis_ch_39.docx": [1424]}
-bagga	{"Genesis_ch_46.docx": [580], "Judges_ch_18.docx": [4795, 4795]}
-12.8	{"Exodus_ch_36.docx": [1466]}
-indus	{"Proverbs_ch_15.docx": [1988]}
 bagga	{"Genesis_ch_46.docx": [580], "Judges_ch_18.docx": [4795]}
-indus	{"Proverbs_ch_15.docx": [1988]}
+indus	{"Proverbs_ch_15.docx": [1988], "Proverbs_ch_31.docx": [956]}

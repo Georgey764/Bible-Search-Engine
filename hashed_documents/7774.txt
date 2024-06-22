@@ -1,4 +1,2 @@
 
-fier	{"Deuteronomy_ch_29.docx": [3655], "Judges_ch_20.docx": [5261, 5261, 5261], "2 Kings_ch_3.docx": [3337, 3337, 3337], "Isaiah_ch_35.docx": [1192, 1192, 1192], "Ezekiel_ch_34.docx": [4258, 4258, 4258], "Ezekiel_ch_38.docx": [3659, 3659, 3659], "Matthew_ch_8.docx": [3517, 3517, 3517], "2 Timothy_ch_3.docx": [531, 531], "Revelation_ch_6.docx": [424, 424]}
-fier	{"Deuteronomy_ch_29.docx": [3655], "Judges_ch_20.docx": [5261, 5261], "2 Kings_ch_3.docx": [3337, 3337], "Isaiah_ch_35.docx": [1192, 1192], "Ezekiel_ch_34.docx": [4258, 4258], "Ezekiel_ch_38.docx": [3659, 3659], "Matthew_ch_8.docx": [3517, 3517], "2 Timothy_ch_3.docx": [531], "Revelation_ch_6.docx": [424]}
 fier	{"Deuteronomy_ch_29.docx": [3655], "Judges_ch_20.docx": [5261], "2 Kings_ch_3.docx": [3337], "Isaiah_ch_35.docx": [1192], "Ezekiel_ch_34.docx": [4258], "Ezekiel_ch_38.docx": [3659], "Matthew_ch_8.docx": [3517], "2 Timothy_ch_3.docx": [531], "Revelation_ch_6.docx": [424]}

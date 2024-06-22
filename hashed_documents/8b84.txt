@@ -1,5 +1,2 @@
 
 maches	{"Joshua_ch_15.docx": [4929]}
-22‘you	{"Exodus_ch_22.docx": [3057], "Exodus_ch_34.docx": [3285], "Leviticus_ch_18.docx": [2639], "Deuteronomy_ch_9.docx": [3669], "Deuteronomy_ch_14.docx": [1990], "1 Chronicles_ch_16.docx": [2356], "Job_ch_13.docx": [1856], "Isaiah_ch_37.docx": [3504], "Ezekiel_ch_13.docx": [4371], "Matthew_ch_6.docx": [2851]}
-maches	{"Joshua_ch_15.docx": [4929]}
-maches	{"Joshua_ch_15.docx": [4929]}

@@ -1,4 +1,2 @@
 
-podi	{"2 Chronicles_ch_6.docx": [1488], "2 Chronicles_ch_34.docx": [5664, 5664, 5664], "Nehemiah_ch_8.docx": [1167, 1167, 1167]}
-podi	{"2 Chronicles_ch_6.docx": [1488], "2 Chronicles_ch_34.docx": [5664, 5664], "Nehemiah_ch_8.docx": [1167, 1167]}
 podi	{"2 Chronicles_ch_6.docx": [1488], "2 Chronicles_ch_34.docx": [5664], "Nehemiah_ch_8.docx": [1167]}

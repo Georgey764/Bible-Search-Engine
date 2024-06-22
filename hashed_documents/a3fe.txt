@@ -1,5 +1,2 @@
 
-me);	{"Genesis_ch_22.docx": [2460], "Job_ch_15.docx": [477, 477, 477], "Ecclesiastes_ch_2.docx": [1232, 1232, 1232]}
-me);	{"Genesis_ch_22.docx": [2460], "Job_ch_15.docx": [477, 477], "Ecclesiastes_ch_2.docx": [1232, 1232]}
-4bea	{"Proverbs_ch_25.docx": [259]}
 me);	{"Genesis_ch_22.docx": [2460], "Job_ch_15.docx": [477], "Ecclesiastes_ch_2.docx": [1232]}

@@ -1,6 +1,2 @@
 
-jeshse	{"1 Samuel_ch_26.docx": [111, 205, 205, 205]}
-3ga	{"Genesis_ch_10.docx": [365]}
-jeshse	{"1 Samuel_ch_26.docx": [111, 205, 205]}
-73r	{"1 Chronicles_ch_6.docx": [6237]}
 jeshse	{"1 Samuel_ch_26.docx": [111, 205]}

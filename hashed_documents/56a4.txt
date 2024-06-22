@@ -1,2 +1,0 @@
-
-3they	{"Exodus_ch_16.docx": [339], "Exodus_ch_39.docx": [336], "Numbers_ch_3.docx": [229], "Numbers_ch_6.docx": [136], "Numbers_ch_16.docx": [340], "Numbers_ch_33.docx": [324], "Joshua_ch_20.docx": [83], "2 Samuel_ch_19.docx": [176], "Ezra_ch_3.docx": [438], "Nehemiah_ch_9.docx": [304], "Job_ch_30.docx": [339], "Psalms_ch_2.docx": [484], "Isaiah_ch_6.docx": [426], "Isaiah_ch_18.docx": [268], "Isaiah_ch_58.docx": [450], "Jeremiah_ch_8.docx": [645], "Ezekiel_ch_11.docx": [439]}

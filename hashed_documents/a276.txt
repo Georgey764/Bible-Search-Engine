@@ -1,4 +1,2 @@
 
-zodiac	{"2 Kings_ch_23.docx": [1221], "Jeremiah_ch_10.docx": [124, 124, 124], "Jeremiah_ch_19.docx": [2677, 2677, 2677]}
-zodiac	{"2 Kings_ch_23.docx": [1221], "Jeremiah_ch_10.docx": [124, 124], "Jeremiah_ch_19.docx": [2677, 2677]}
 zodiac	{"2 Kings_ch_23.docx": [1221], "Jeremiah_ch_10.docx": [124], "Jeremiah_ch_19.docx": [2677]}

@@ -1,4 +1,2 @@
 
-cunn	{"Genesis_ch_34.docx": [1581], "Jeremiah_ch_48.docx": [3453, 3453, 3453], "1 Corinthians_ch_3.docx": [2363, 2363], "2 Corinthians_ch_11.docx": [286, 286], "Ephesians_ch_4.docx": [1549, 1576, 1549, 1576]}
-cunn	{"Genesis_ch_34.docx": [1581], "Jeremiah_ch_48.docx": [3453, 3453], "1 Corinthians_ch_3.docx": [2363], "2 Corinthians_ch_11.docx": [286], "Ephesians_ch_4.docx": [1549, 1576]}
 cunn	{"Genesis_ch_34.docx": [1581], "Jeremiah_ch_48.docx": [3453], "1 Corinthians_ch_3.docx": [2363], "2 Corinthians_ch_11.docx": [286], "Ephesians_ch_4.docx": [1549, 1576]}

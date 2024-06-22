@@ -1,4 +1,2 @@
 
-chabra	{"Genesis_ch_35.docx": [2245], "Genesis_ch_48.docx": [971, 971, 971], "Joshua_ch_15.docx": [4916, 4916]}
-chabra	{"Genesis_ch_35.docx": [2245], "Genesis_ch_48.docx": [971, 971], "Joshua_ch_15.docx": [4916]}
 chabra	{"Genesis_ch_35.docx": [2245], "Genesis_ch_48.docx": [971], "Joshua_ch_15.docx": [4916]}

@@ -1,8 +1,3 @@
 
-jesbas	{"1 Chronicles_ch_25.docx": [789, 2524, 2524, 2524]}
-stags	{"Isaiah_ch_34.docx": [2302], "Isaiah_ch_35.docx": [666, 666, 666]}
-2well	{"Numbers_ch_20.docx": [249], "Numbers_ch_24.docx": [209], "Joshua_ch_7.docx": [301], "Judges_ch_13.docx": [28], "Judges_ch_16.docx": [120], "1 Samuel_ch_22.docx": [183]}
-jesbas	{"1 Chronicles_ch_25.docx": [789, 2524, 2524]}
-stags	{"Isaiah_ch_34.docx": [2302], "Isaiah_ch_35.docx": [666, 666]}
 jesbas	{"1 Chronicles_ch_25.docx": [789, 2524]}
 stags	{"Isaiah_ch_34.docx": [2302], "Isaiah_ch_35.docx": [666]}

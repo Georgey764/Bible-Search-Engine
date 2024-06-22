@@ -1,2 +1,0 @@
-
-200,0	{"1 Samuel_ch_15.docx": [562], "2 Chronicles_ch_17.docx": [2082, 2197]}

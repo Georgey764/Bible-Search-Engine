@@ -1,4 +1,2 @@
 
-abirom	{"Joshua_ch_6.docx": [3769], "Psalms_ch_106.docx": [1586, 1586, 1586]}
-abirom	{"Joshua_ch_6.docx": [3769], "Psalms_ch_106.docx": [1586, 1586]}
 abirom	{"Joshua_ch_6.docx": [3769], "Psalms_ch_106.docx": [1586]}

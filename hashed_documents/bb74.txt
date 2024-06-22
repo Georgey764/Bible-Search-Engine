@@ -1,2 +1,0 @@
-
-31:	{"Exodus_ch_25.docx": [25], "Numbers_ch_28.docx": [19], "Matthew_ch_2.docx": [2863]}

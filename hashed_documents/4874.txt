@@ -1,4 +1,2 @@
 
-cucu	{"Numbers_ch_11.docx": [644], "Isaiah_ch_1.docx": [1380, 1380, 1380]}
-cucu	{"Numbers_ch_11.docx": [644], "Isaiah_ch_1.docx": [1380, 1380]}
 cucu	{"Numbers_ch_11.docx": [644], "Isaiah_ch_1.docx": [1380]}

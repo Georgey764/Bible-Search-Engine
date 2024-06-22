@@ -1,4 +1,2 @@
 
-mip	{"1 Chronicles_ch_2.docx": [4741], "Nehemiah_ch_3.docx": [14523, 14552, 14523, 14552, 14523, 14552]}
-mip	{"1 Chronicles_ch_2.docx": [4741], "Nehemiah_ch_3.docx": [14523, 14552, 14523, 14552]}
 mip	{"1 Chronicles_ch_2.docx": [4741], "Nehemiah_ch_3.docx": [14523, 14552]}

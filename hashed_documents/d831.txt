@@ -1,4 +1,2 @@
 
-scy	{"Genesis_ch_10.docx": [197]}
-scy	{"Genesis_ch_10.docx": [197]}
-scy	{"Genesis_ch_10.docx": [197]}
+scy	{"Genesis_ch_10.docx": [197], "Joel_ch_3.docx": [2338, 2797]}

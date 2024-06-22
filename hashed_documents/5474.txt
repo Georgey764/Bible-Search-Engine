@@ -1,4 +1,2 @@
 
-debla	{"Numbers_ch_33.docx": [3389, 3445, 3445, 3445], "2 Kings_ch_23.docx": [7211, 7211, 7211]}
-debla	{"Numbers_ch_33.docx": [3389, 3445, 3445], "2 Kings_ch_23.docx": [7211, 7211]}
-debla	{"Numbers_ch_33.docx": [3389, 3445], "2 Kings_ch_23.docx": [7211]}
+debla	{"Numbers_ch_33.docx": [3389, 3445], "2 Kings_ch_23.docx": [7211], "2 Kings_ch_25.docx": [831, 2844, 2851], "2 Chronicles_ch_36.docx": [349]}

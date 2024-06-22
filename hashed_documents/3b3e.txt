@@ -1,5 +1,2 @@
 
-water;	{"Genesis_ch_21.docx": [2301], "Leviticus_ch_14.docx": [932, 932, 932], "Psalms_ch_107.docx": [2938, 2938, 2938], "John_ch_1.docx": [2606, 2606], "John_ch_5.docx": [399, 399]}
-water;	{"Genesis_ch_21.docx": [2301], "Leviticus_ch_14.docx": [932, 932], "Psalms_ch_107.docx": [2938, 2938], "John_ch_1.docx": [2606], "John_ch_5.docx": [399]}
-2abr	{"Matthew_ch_1.docx": [114]}
 water;	{"Genesis_ch_21.docx": [2301], "Leviticus_ch_14.docx": [932], "Psalms_ch_107.docx": [2938], "John_ch_1.docx": [2606], "John_ch_5.docx": [399]}

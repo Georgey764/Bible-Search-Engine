@@ -1,4 +1,2 @@
 
-yest	{"Genesis_ch_31.docx": [3605], "Exodus_ch_2.docx": [1921, 1921, 1921], "Exodus_ch_5.docx": [2125, 2125, 2125], "2 Kings_ch_9.docx": [5182, 5182, 5182], "Psalms_ch_90.docx": [384, 384, 384], "John_ch_4.docx": [6758, 6758], "Acts_ch_7.docx": [3865, 3865]}
-yest	{"Genesis_ch_31.docx": [3605], "Exodus_ch_2.docx": [1921, 1921], "Exodus_ch_5.docx": [2125, 2125], "2 Kings_ch_9.docx": [5182, 5182], "Psalms_ch_90.docx": [384, 384], "John_ch_4.docx": [6758], "Acts_ch_7.docx": [3865]}
-yest	{"Genesis_ch_31.docx": [3605], "Exodus_ch_2.docx": [1921], "Exodus_ch_5.docx": [2125], "2 Kings_ch_9.docx": [5182], "Psalms_ch_90.docx": [384], "John_ch_4.docx": [6758], "Acts_ch_7.docx": [3865]}
+yest	{"Genesis_ch_31.docx": [3605], "Exodus_ch_2.docx": [1921], "Exodus_ch_5.docx": [2125], "2 Kings_ch_9.docx": [5182], "Psalms_ch_90.docx": [384], "John_ch_4.docx": [6758], "Acts_ch_7.docx": [3865], "Hebrews_ch_13.docx": [1018]}

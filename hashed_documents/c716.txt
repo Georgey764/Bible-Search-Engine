@@ -1,5 +1,2 @@
 
-zoh	{"1 Chronicles_ch_4.docx": [2392, 2395, 2395, 2395]}
-27p	{"Joshua_ch_18.docx": [3534], "2 Chronicles_ch_6.docx": [4100], "2 Chronicles_ch_24.docx": [4663]}
-zoh	{"1 Chronicles_ch_4.docx": [2392, 2395, 2395]}
 zoh	{"1 Chronicles_ch_4.docx": [2392, 2395]}

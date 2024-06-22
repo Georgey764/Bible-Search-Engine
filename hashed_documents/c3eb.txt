@@ -1,3 +1,0 @@
-
-12‘[	{"Genesis_ch_32.docx": [1738], "Exodus_ch_20.docx": [1273], "Zechariah_ch_10.docx": [2218]}
-22,200	{"Numbers_ch_26.docx": [1572]}

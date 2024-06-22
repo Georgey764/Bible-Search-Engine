@@ -1,5 +1,2 @@
 
-pethah	{"Nehemiah_ch_9.docx": [1018], "Nehemiah_ch_11.docx": [4071, 4071]}
-pethah	{"Nehemiah_ch_9.docx": [1018], "Nehemiah_ch_11.docx": [4071]}
-30:	{"Matthew_ch_5.docx": [4217]}
-pethah	{"Nehemiah_ch_9.docx": [1018], "Nehemiah_ch_11.docx": [4071]}
+pethah	{"Ezra_ch_10.docx": [4182], "Nehemiah_ch_9.docx": [1018], "Nehemiah_ch_11.docx": [4071]}

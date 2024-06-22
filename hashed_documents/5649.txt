@@ -1,5 +1,2 @@
 
 sloth	{"Ecclesiastes_ch_10.docx": [1967]}
-6:22	{"Numbers_ch_3.docx": [1952]}
-sloth	{"Ecclesiastes_ch_10.docx": [1967]}
-sloth	{"Ecclesiastes_ch_10.docx": [1967]}

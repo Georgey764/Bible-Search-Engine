@@ -1,3 +1,0 @@
-
-8howe	{"Genesis_ch_6.docx": [1054], "Genesis_ch_24.docx": [1056], "Genesis_ch_39.docx": [1225], "Exodus_ch_5.docx": [1124], "Ruth_ch_3.docx": [918], "1 Samuel_ch_19.docx": [1299], "2 Samuel_ch_2.docx": [1177], "1 Kings_ch_1.docx": [1001], "1 Kings_ch_12.docx": [987], "2 Kings_ch_5.docx": [1390], "2 Chronicles_ch_10.docx": [963], "Daniel_ch_3.docx": [1262], "Matthew_ch_8.docx": [789]}
-30‘no	{"Daniel_ch_2.docx": [5114], "Matthew_ch_25.docx": [3452]}

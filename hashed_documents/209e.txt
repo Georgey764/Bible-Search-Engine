@@ -1,6 +1,2 @@
 
 ausit	{"Job_ch_1.docx": [18]}
-40,3	{"Numbers_ch_26.docx": [5141]}
-2ama	{"Nehemiah_ch_12.docx": [154]}
-ausit	{"Job_ch_1.docx": [18]}
-ausit	{"Job_ch_1.docx": [18]}

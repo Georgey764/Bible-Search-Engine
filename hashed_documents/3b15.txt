@@ -1,3 +1,0 @@
-
-60the	{"Genesis_ch_24.docx": [8826], "1 Chronicles_ch_6.docx": [4885], "Psalms_ch_78.docx": [5835], "Jeremiah_ch_51.docx": [10031]}
-22fr	{"Numbers_ch_34.docx": [2146], "Judges_ch_11.docx": [4461], "1 Chronicles_ch_24.docx": [2379], "Proverbs_ch_15.docx": [2215]}

@@ -1,4 +1,2 @@
 
-mandra	{"Genesis_ch_30.docx": [1530, 1716, 1784, 1888, 2068, 1716, 1784, 1888, 2068, 1716, 1784, 1888, 2068], "Song of Solomon_ch_7.docx": [1843, 1843, 1843]}
-mandra	{"Genesis_ch_30.docx": [1530, 1716, 1784, 1888, 2068, 1716, 1784, 1888, 2068], "Song of Solomon_ch_7.docx": [1843, 1843]}
 mandra	{"Genesis_ch_30.docx": [1530, 1716, 1784, 1888, 2068], "Song of Solomon_ch_7.docx": [1843]}

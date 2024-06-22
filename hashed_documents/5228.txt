@@ -1,2 +1,0 @@
-
-25‘an	{"Exodus_ch_12.docx": [4041], "Leviticus_ch_15.docx": [3379], "Leviticus_ch_22.docx": [3627], "Numbers_ch_35.docx": [3227], "Deuteronomy_ch_29.docx": [3723], "2 Samuel_ch_7.docx": [3650], "2 Samuel_ch_22.docx": [2377], "1 Kings_ch_8.docx": [3634], "2 Kings_ch_18.docx": [4140], "Isaiah_ch_30.docx": [4374], "Isaiah_ch_40.docx": [3523], "Ezekiel_ch_21.docx": [4372], "Ezekiel_ch_43.docx": [4608], "Ezekiel_ch_45.docx": [4623]}

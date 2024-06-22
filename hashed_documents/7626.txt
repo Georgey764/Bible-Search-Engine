@@ -1,5 +1,2 @@
 
-selli	{"Genesis_ch_42.docx": [12], "Deuteronomy_ch_24.docx": [1066, 1066, 1066], "Matthew_ch_21.docx": [1472, 1488, 1472, 1488, 1472, 1488], "Mark_ch_11.docx": [1875, 1875], "Luke_ch_17.docx": [3361, 3361], "John_ch_2.docx": [1463, 1811, 1463, 1811]}
-28eva	{"Genesis_ch_10.docx": [3016]}
-selli	{"Genesis_ch_42.docx": [12], "Deuteronomy_ch_24.docx": [1066, 1066], "Matthew_ch_21.docx": [1472, 1488, 1472, 1488], "Mark_ch_11.docx": [1875], "Luke_ch_17.docx": [3361], "John_ch_2.docx": [1463, 1811]}
-selli	{"Genesis_ch_42.docx": [12], "Deuteronomy_ch_24.docx": [1066], "Matthew_ch_21.docx": [1472, 1488], "Mark_ch_11.docx": [1875], "Luke_ch_17.docx": [3361], "John_ch_2.docx": [1463, 1811]}
+selli	{"Genesis_ch_42.docx": [12], "Deuteronomy_ch_24.docx": [1066], "Nehemiah_ch_13.docx": [2769], "Matthew_ch_21.docx": [1472, 1488], "Mark_ch_11.docx": [1875], "Luke_ch_17.docx": [3361], "John_ch_2.docx": [1463, 1811]}

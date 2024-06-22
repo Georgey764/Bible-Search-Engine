@@ -1,5 +1,2 @@
 
 esede	{"Joshua_ch_19.docx": [799]}
-1.9	{"Leviticus_ch_23.docx": [1509, 2265], "Leviticus_ch_24.docx": [512], "Numbers_ch_15.docx": [690, 700], "Numbers_ch_28.docx": [1130, 1655, 1894, 2809, 3646], "Numbers_ch_29.docx": [448, 1294, 2200]}
-esede	{"Joshua_ch_19.docx": [799]}
-esede	{"Joshua_ch_19.docx": [799]}

@@ -1,4 +1,2 @@
 
 ark	{"1 Chronicles_ch_1.docx": [1227]}
-ark	{"1 Chronicles_ch_1.docx": [1227]}
-ark	{"1 Chronicles_ch_1.docx": [1227]}

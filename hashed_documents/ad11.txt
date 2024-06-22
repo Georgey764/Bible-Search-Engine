@@ -1,6 +1,2 @@
 
 batht	{"1 Kings_ch_10.docx": [3206]}
-34‘m	{"Leviticus_ch_26.docx": [4305]}
-batht	{"1 Kings_ch_10.docx": [3206]}
-14thu	{"Psalms_ch_27.docx": [1891], "Isaiah_ch_28.docx": [1992], "Isaiah_ch_45.docx": [2408]}
-batht	{"1 Kings_ch_10.docx": [3206]}

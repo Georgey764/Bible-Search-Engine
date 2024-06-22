@@ -1,4 +1,2 @@
 
-hilkia	{"Nehemiah_ch_8.docx": [1338], "Nehemiah_ch_11.docx": [1586, 1586, 1586], "Nehemiah_ch_12.docx": [362, 1880, 362, 1880, 362, 1880], "Isaiah_ch_36.docx": [398, 398, 398], "Jeremiah_ch_1.docx": [16, 16, 16]}
-hilkia	{"Nehemiah_ch_8.docx": [1338], "Nehemiah_ch_11.docx": [1586, 1586], "Nehemiah_ch_12.docx": [362, 1880, 362, 1880], "Isaiah_ch_36.docx": [398, 398], "Jeremiah_ch_1.docx": [16, 16]}
 hilkia	{"Nehemiah_ch_8.docx": [1338], "Nehemiah_ch_11.docx": [1586], "Nehemiah_ch_12.docx": [362, 1880], "Isaiah_ch_36.docx": [398], "Jeremiah_ch_1.docx": [16]}

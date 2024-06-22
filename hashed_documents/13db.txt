@@ -1,6 +1,4 @@
 
-idou	{"1 Chronicles_ch_1.docx": [2322]}
-sharer	{"Romans_ch_11.docx": [2568], "1 Corinthians_ch_10.docx": [2342, 2342], "Philippians_ch_1.docx": [642, 642], "1 Timothy_ch_5.docx": [3008, 3008], "Hebrews_ch_3.docx": [1749, 1749], "2 Peter_ch_1.docx": [576, 576]}
-idou	{"1 Chronicles_ch_1.docx": [2322]}
+mumm	{"Genesis_ch_50.docx": [119, 133]}
 idou	{"1 Chronicles_ch_1.docx": [2322]}
 sharer	{"Romans_ch_11.docx": [2568], "1 Corinthians_ch_10.docx": [2342], "Philippians_ch_1.docx": [642], "1 Timothy_ch_5.docx": [3008], "Hebrews_ch_3.docx": [1749], "2 Peter_ch_1.docx": [576]}

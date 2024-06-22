@@ -1,5 +1,2 @@
 
-freque	{"Matthew_ch_19.docx": [1763], "Luke_ch_5.docx": [5944, 5944], "Acts_ch_24.docx": [4527, 4527], "1 Timothy_ch_5.docx": [3158, 3158]}
-8‘som	{"Jonah_ch_2.docx": [1039]}
-freque	{"Matthew_ch_19.docx": [1763], "Luke_ch_5.docx": [5944], "Acts_ch_24.docx": [4527], "1 Timothy_ch_5.docx": [3158]}
 freque	{"Matthew_ch_19.docx": [1763], "Luke_ch_5.docx": [5944], "Acts_ch_24.docx": [4527], "1 Timothy_ch_5.docx": [3158]}

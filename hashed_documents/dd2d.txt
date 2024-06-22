@@ -1,4 +1,2 @@
 
-pheg	{"Numbers_ch_25.docx": [278, 605, 605, 605], "2 Samuel_ch_3.docx": [455, 455, 455]}
-pheg	{"Numbers_ch_25.docx": [278, 605, 605], "2 Samuel_ch_3.docx": [455, 455]}
 pheg	{"Numbers_ch_25.docx": [278, 605], "2 Samuel_ch_3.docx": [455]}

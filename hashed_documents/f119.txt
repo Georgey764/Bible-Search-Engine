@@ -1,4 +1,2 @@
 
-serpen	{"Psalms_ch_58.docx": [400], "Ecclesiastes_ch_10.docx": [1129, 1129, 1129], "Isaiah_ch_14.docx": [4753, 4753, 4753], "Luke_ch_10.docx": [2125, 2125]}
-serpen	{"Psalms_ch_58.docx": [400], "Ecclesiastes_ch_10.docx": [1129, 1129], "Isaiah_ch_14.docx": [4753, 4753], "Luke_ch_10.docx": [2125]}
 serpen	{"Psalms_ch_58.docx": [400], "Ecclesiastes_ch_10.docx": [1129], "Isaiah_ch_14.docx": [4753], "Luke_ch_10.docx": [2125]}

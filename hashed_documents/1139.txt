@@ -1,4 +1,3 @@
 
-joki	{"Genesis_ch_19.docx": [2273], "Jeremiah_ch_4.docx": [1847, 1847, 1847], "Mark_ch_15.docx": [3211, 3211], "Acts_ch_17.docx": [6436, 6436]}
-joki	{"Genesis_ch_19.docx": [2273], "Jeremiah_ch_4.docx": [1847, 1847], "Mark_ch_15.docx": [3211], "Acts_ch_17.docx": [6436]}
 joki	{"Genesis_ch_19.docx": [2273], "Jeremiah_ch_4.docx": [1847], "Mark_ch_15.docx": [3211], "Acts_ch_17.docx": [6436]}
+junia	{"Romans_ch_16.docx": [1077]}

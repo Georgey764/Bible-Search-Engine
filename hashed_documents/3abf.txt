@@ -1,5 +1,2 @@
 
-fry	{"2 Samuel_ch_13.docx": [1212], "Ezekiel_ch_4.docx": [272, 272, 272]}
-fry	{"2 Samuel_ch_13.docx": [1212], "Ezekiel_ch_4.docx": [272, 272]}
-6exc	{"1 Kings_ch_15.docx": [468]}
 fry	{"2 Samuel_ch_13.docx": [1212], "Ezekiel_ch_4.docx": [272]}

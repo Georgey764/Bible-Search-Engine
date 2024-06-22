@@ -1,6 +1,2 @@
 
 psor	{"Leviticus_ch_13.docx": [5741]}
-psor	{"Leviticus_ch_13.docx": [5741]}
-12[fr	{"Numbers_ch_1.docx": [1112]}
-12ni	{"Job_ch_17.docx": [975]}
-psor	{"Leviticus_ch_13.docx": [5741]}

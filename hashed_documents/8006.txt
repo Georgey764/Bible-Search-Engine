@@ -1,4 +1,2 @@
 
-zechri	{"Exodus_ch_6.docx": [2785], "1 Chronicles_ch_8.docx": [1507, 1713, 1507, 1713, 1507, 1713], "1 Chronicles_ch_9.docx": [2221, 2221, 2221], "1 Chronicles_ch_26.docx": [3102, 3102, 3102], "1 Chronicles_ch_27.docx": [2106, 2106, 2106], "2 Chronicles_ch_28.docx": [952, 952, 952], "Nehemiah_ch_11.docx": [2485, 2485, 2485]}
-zechri	{"Exodus_ch_6.docx": [2785], "1 Chronicles_ch_8.docx": [1507, 1713, 1507, 1713], "1 Chronicles_ch_9.docx": [2221, 2221], "1 Chronicles_ch_26.docx": [3102, 3102], "1 Chronicles_ch_27.docx": [2106, 2106], "2 Chronicles_ch_28.docx": [952, 952], "Nehemiah_ch_11.docx": [2485, 2485]}
 zechri	{"Exodus_ch_6.docx": [2785], "1 Chronicles_ch_8.docx": [1507, 1713], "1 Chronicles_ch_9.docx": [2221], "1 Chronicles_ch_26.docx": [3102], "1 Chronicles_ch_27.docx": [2106], "2 Chronicles_ch_28.docx": [952], "Nehemiah_ch_11.docx": [2485]}

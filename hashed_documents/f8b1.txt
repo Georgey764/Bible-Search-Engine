@@ -1,4 +1,2 @@
 
-joah	{"2 Chronicles_ch_34.docx": [1355, 1358, 1358, 1358], "Isaiah_ch_36.docx": [407, 1804, 3650, 407, 1804, 3650, 407, 1804, 3650]}
-joah	{"2 Chronicles_ch_34.docx": [1355, 1358, 1358], "Isaiah_ch_36.docx": [407, 1804, 3650, 407, 1804, 3650]}
 joah	{"2 Chronicles_ch_34.docx": [1355, 1358], "Isaiah_ch_36.docx": [407, 1804, 3650]}

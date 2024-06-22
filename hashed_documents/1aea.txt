@@ -1,4 +1,2 @@
 
 led;	{"Jeremiah_ch_20.docx": [979]}
-led;	{"Jeremiah_ch_20.docx": [979]}
-led;	{"Jeremiah_ch_20.docx": [979]}

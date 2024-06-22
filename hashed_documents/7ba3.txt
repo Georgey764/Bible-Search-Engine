@@ -1,4 +1,2 @@
 
-them:	{"Hebrews_ch_9.docx": [3108, 3112, 3112]}
-23kno	{"Proverbs_ch_27.docx": [2167]}
 them:	{"Hebrews_ch_9.docx": [3108, 3112]}

@@ -1,2 +1,0 @@
-
-15c	{"Genesis_ch_10.docx": [1843], "Genesis_ch_25.docx": [1457], "Exodus_ch_25.docx": [2807], "Joshua_ch_19.docx": [1257]}

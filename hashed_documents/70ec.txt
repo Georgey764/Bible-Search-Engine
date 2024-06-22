@@ -1,3 +1,2 @@
 
-dorca	{"Acts_ch_9.docx": [6097, 6821, 6821]}
 dorca	{"Acts_ch_9.docx": [6097, 6821]}

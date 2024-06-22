@@ -1,4 +1,2 @@
 
-jemu	{"Genesis_ch_46.docx": [1225, 1530, 1530, 1530], "Exodus_ch_6.docx": [2046, 2046, 2046], "2 Kings_ch_12.docx": [3367, 3367, 3367]}
-jemu	{"Genesis_ch_46.docx": [1225, 1530, 1530], "Exodus_ch_6.docx": [2046, 2046], "2 Kings_ch_12.docx": [3367, 3367]}
 jemu	{"Genesis_ch_46.docx": [1225, 1530], "Exodus_ch_6.docx": [2046], "2 Kings_ch_12.docx": [3367]}

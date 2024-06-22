@@ -1,4 +1,2 @@
 
-right-	{"1 Kings_ch_4.docx": [455], "2 Kings_ch_18.docx": [2924, 6343, 2924, 6343, 2924, 6343], "2 Kings_ch_19.docx": [163, 163, 163], "2 Chronicles_ch_28.docx": [975, 975, 975], "Luke_ch_1.docx": [1280, 1280], "2 Corinthians_ch_6.docx": [838, 838], "Hebrews_ch_8.docx": [70, 70], "Hebrews_ch_10.docx": [1361, 1383, 1361, 1383], "Hebrews_ch_12.docx": [433, 433]}
-right-	{"1 Kings_ch_4.docx": [455], "2 Kings_ch_18.docx": [2924, 6343, 2924, 6343], "2 Kings_ch_19.docx": [163, 163], "2 Chronicles_ch_28.docx": [975, 975], "Luke_ch_1.docx": [1280], "2 Corinthians_ch_6.docx": [838], "Hebrews_ch_8.docx": [70], "Hebrews_ch_10.docx": [1361, 1383], "Hebrews_ch_12.docx": [433]}
 right-	{"1 Kings_ch_4.docx": [455], "2 Kings_ch_18.docx": [2924, 6343], "2 Kings_ch_19.docx": [163], "2 Chronicles_ch_28.docx": [975], "Luke_ch_1.docx": [1280], "2 Corinthians_ch_6.docx": [838], "Hebrews_ch_8.docx": [70], "Hebrews_ch_10.docx": [1361, 1383], "Hebrews_ch_12.docx": [433]}

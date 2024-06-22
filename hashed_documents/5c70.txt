@@ -1,7 +1,4 @@
 
 {gi	{"Judges_ch_7.docx": [2707]}
-comra	{"Judges_ch_7.docx": [3260, 3520, 3520, 3520], "Proverbs_ch_11.docx": [1283, 1283, 1283], "Jeremiah_ch_46.docx": [2530, 2530, 2530]}
-{gi	{"Judges_ch_7.docx": [2707]}
-comra	{"Judges_ch_7.docx": [3260, 3520, 3520], "Proverbs_ch_11.docx": [1283, 1283], "Jeremiah_ch_46.docx": [2530, 2530]}
-{gi	{"Judges_ch_7.docx": [2707]}
 comra	{"Judges_ch_7.docx": [3260, 3520], "Proverbs_ch_11.docx": [1283], "Jeremiah_ch_46.docx": [2530]}
+philem	{"Titus_ch_3.docx": [2135, 2147], "Philemon_ch_1.docx": [1, 23]}

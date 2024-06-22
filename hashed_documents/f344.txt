@@ -1,2 +1,2 @@
 
-25ther	{"Exodus_ch_26.docx": [2217], "Exodus_ch_36.docx": [3124], "Deuteronomy_ch_1.docx": [3407], "Joshua_ch_7.docx": [4480], "1 Kings_ch_12.docx": [4181], "Nehemiah_ch_3.docx": [11441], "Proverbs_ch_16.docx": [2572]}
+evil.	{"2 Thessalonians_ch_3.docx": [284, 298]}

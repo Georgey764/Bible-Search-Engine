@@ -1,4 +1,2 @@
 
 color;	{"Leviticus_ch_13.docx": [2707]}
-color;	{"Leviticus_ch_13.docx": [2707]}
-color;	{"Leviticus_ch_13.docx": [2707]}

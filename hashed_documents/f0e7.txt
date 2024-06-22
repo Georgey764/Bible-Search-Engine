@@ -1,4 +1,2 @@
 
-ferve	{"Joel_ch_1.docx": [2402], "Jonah_ch_3.docx": [1032, 1032, 1032]}
-ferve	{"Joel_ch_1.docx": [2402], "Jonah_ch_3.docx": [1032, 1032]}
 ferve	{"Joel_ch_1.docx": [2402], "Jonah_ch_3.docx": [1032]}

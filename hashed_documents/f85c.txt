@@ -1,4 +1,2 @@
 
-pruned	{"Isaiah_ch_5.docx": [832], "Romans_ch_11.docx": [3358, 3358]}
-pruned	{"Isaiah_ch_5.docx": [832], "Romans_ch_11.docx": [3358]}
 pruned	{"Isaiah_ch_5.docx": [832], "Romans_ch_11.docx": [3358]}

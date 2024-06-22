@@ -1,4 +1,2 @@
 
-inform	{"1 Kings_ch_15.docx": [3212], "Ezra_ch_4.docx": [1913, 2697, 1913, 2697, 1913, 2697], "Ezra_ch_5.docx": [1495, 1495, 1495], "Psalms_ch_45.docx": [229, 229, 229], "Acts_ch_25.docx": [5130, 5130]}
-inform	{"1 Kings_ch_15.docx": [3212], "Ezra_ch_4.docx": [1913, 2697, 1913, 2697], "Ezra_ch_5.docx": [1495, 1495], "Psalms_ch_45.docx": [229, 229], "Acts_ch_25.docx": [5130]}
-inform	{"1 Kings_ch_15.docx": [3212], "Ezra_ch_4.docx": [1913, 2697], "Ezra_ch_5.docx": [1495], "Psalms_ch_45.docx": [229], "Acts_ch_25.docx": [5130]}
+inform	{"1 Kings_ch_15.docx": [3212], "2 Kings_ch_25.docx": [4943], "1 Chronicles_ch_29.docx": [5756], "2 Chronicles_ch_36.docx": [6254], "Ezra_ch_4.docx": [1913, 2697], "Ezra_ch_5.docx": [1495], "Nehemiah_ch_13.docx": [6212], "Esther_ch_10.docx": [856], "Psalms_ch_45.docx": [229], "Acts_ch_25.docx": [5130], "3 John_ch_1.docx": [2313], "Jude_ch_1.docx": [5423]}

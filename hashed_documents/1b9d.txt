@@ -1,4 +1,2 @@
 
-invent	{"Genesis_ch_4.docx": [2353], "Numbers_ch_31.docx": [3124, 3124, 3124], "Proverbs_ch_16.docx": [2083, 2083, 2083], "Romans_ch_1.docx": [3961, 3961]}
-invent	{"Genesis_ch_4.docx": [2353], "Numbers_ch_31.docx": [3124, 3124], "Proverbs_ch_16.docx": [2083, 2083], "Romans_ch_1.docx": [3961]}
 invent	{"Genesis_ch_4.docx": [2353], "Numbers_ch_31.docx": [3124], "Proverbs_ch_16.docx": [2083], "Romans_ch_1.docx": [3961]}

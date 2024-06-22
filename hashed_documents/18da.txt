@@ -1,2 +1,2 @@
 
-poetic	{"Job_ch_42.docx": [3434, 3452, 3474]}
+poetic	{"Esther_ch_10.docx": [1513], "Job_ch_42.docx": [3434, 3452, 3474], "Song of Solomon_ch_8.docx": [2770], "Isaiah_ch_66.docx": [5916], "Jeremiah_ch_52.docx": [5397, 5568], "Lamentations_ch_5.docx": [2946], "Ezekiel_ch_48.docx": [8064], "Daniel_ch_12.docx": [4611], "Hosea_ch_14.docx": [2166], "Joel_ch_3.docx": [5282], "Amos_ch_9.docx": [4402], "Obadiah_ch_1.docx": [4969], "Jonah_ch_4.docx": [2265], "Micah_ch_7.docx": [5134], "Nahum_ch_3.docx": [4342], "Habakkuk_ch_3.docx": [3982], "Zephaniah_ch_3.docx": [5072], "Haggai_ch_2.docx": [5389], "Zechariah_ch_14.docx": [5239], "Malachi_ch_4.docx": [2788, 3090], "Matthew_ch_28.docx": [3721, 4023], "Mark_ch_16.docx": [3068, 3370]}

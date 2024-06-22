@@ -1,3 +1,2 @@
 
-age,	{"Hebrews_ch_10.docx": [1368, 1390, 1390]}
 age,	{"Hebrews_ch_10.docx": [1368, 1390]}

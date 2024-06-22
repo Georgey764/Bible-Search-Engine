@@ -1,4 +1,2 @@
 
-smothe	{"1 Samuel_ch_16.docx": [2534, 2684, 2684, 2684]}
-smothe	{"1 Samuel_ch_16.docx": [2534, 2684, 2684]}
 smothe	{"1 Samuel_ch_16.docx": [2534, 2684]}

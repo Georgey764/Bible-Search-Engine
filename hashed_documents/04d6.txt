@@ -1,3 +1,0 @@
-
-17sh	{"Genesis_ch_39.docx": [2319], "1 Chronicles_ch_1.docx": [1456]}
-18by	{"Psalms_ch_118.docx": [1498]}

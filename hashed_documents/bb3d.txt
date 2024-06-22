@@ -1,7 +1,3 @@
 
-thamna	{"Genesis_ch_36.docx": [1318, 2499, 4246, 2499, 4246, 2499, 4246], "Genesis_ch_38.docx": [1374, 1593, 1692, 1374, 1593, 1692, 1374, 1593, 1692], "Joshua_ch_15.docx": [5971, 5971, 5971], "Joshua_ch_19.docx": [3413, 4299, 3413, 4299, 3413, 4299], "Joshua_ch_21.docx": [5102, 5382, 5102, 5382, 5102, 5382], "Judges_ch_14.docx": [14, 218, 774, 14, 218, 774, 14, 218, 774], "1 Chronicles_ch_1.docx": [2939, 3210, 4355, 2939, 3210, 4355, 2939, 3210, 4355], "2 Chronicles_ch_28.docx": [3261, 3261, 3261]}
-most-d	{"Jeremiah_ch_29.docx": [4563]}
-thamna	{"Genesis_ch_36.docx": [1318, 2499, 4246, 2499, 4246], "Genesis_ch_38.docx": [1374, 1593, 1692, 1374, 1593, 1692], "Joshua_ch_15.docx": [5971, 5971], "Joshua_ch_19.docx": [3413, 4299, 3413, 4299], "Joshua_ch_21.docx": [5102, 5382, 5102, 5382], "Judges_ch_14.docx": [14, 218, 774, 14, 218, 774], "1 Chronicles_ch_1.docx": [2939, 3210, 4355, 2939, 3210, 4355], "2 Chronicles_ch_28.docx": [3261, 3261]}
-most-d	{"Jeremiah_ch_29.docx": [4563]}
-thamna	{"Genesis_ch_36.docx": [1318, 2499, 4246], "Genesis_ch_38.docx": [1374, 1593, 1692], "Joshua_ch_15.docx": [5971], "Joshua_ch_19.docx": [3413, 4299], "Joshua_ch_21.docx": [5102, 5382], "Judges_ch_14.docx": [14, 218, 774], "1 Chronicles_ch_1.docx": [2939, 3210, 4355], "2 Chronicles_ch_28.docx": [3261]}
+thamna	{"Genesis_ch_36.docx": [1318, 2499, 4246], "Genesis_ch_38.docx": [1374, 1593, 1692], "Joshua_ch_15.docx": [5971], "Joshua_ch_19.docx": [3413, 4299], "Joshua_ch_21.docx": [5102, 5382], "Joshua_ch_24.docx": [4674], "Judges_ch_14.docx": [14, 218, 774], "1 Chronicles_ch_1.docx": [2939, 3210, 4355], "2 Chronicles_ch_28.docx": [3261]}
 most-d	{"Jeremiah_ch_29.docx": [4563]}

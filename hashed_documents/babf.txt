@@ -1,2 +1,0 @@
-
-14al	{"Genesis_ch_7.docx": [1726], "Numbers_ch_4.docx": [1519], "Joshua_ch_22.docx": [2155], "2 Samuel_ch_23.docx": [2368], "Nehemiah_ch_5.docx": [2617], "Psalms_ch_18.docx": [1448], "Proverbs_ch_19.docx": [1251], "Ezekiel_ch_1.docx": [1803], "Ezekiel_ch_46.docx": [2767]}

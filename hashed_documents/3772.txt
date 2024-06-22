@@ -1,7 +1,3 @@
 
 pharn	{"Numbers_ch_34.docx": [2395]}
 renova	{"2 Chronicles_ch_24.docx": [1493]}
-pharn	{"Numbers_ch_34.docx": [2395]}
-renova	{"2 Chronicles_ch_24.docx": [1493]}
-pharn	{"Numbers_ch_34.docx": [2395]}
-renova	{"2 Chronicles_ch_24.docx": [1493]}

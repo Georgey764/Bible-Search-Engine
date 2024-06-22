@@ -1,5 +1,2 @@
 
-unthin	{"Psalms_ch_49.docx": [2163], "Psalms_ch_73.docx": [1944, 1944, 1944], "Proverbs_ch_15.docx": [2112, 2112, 2112], "Proverbs_ch_17.docx": [2685, 2685, 2685]}
-50t	{"Exodus_ch_12.docx": [7580], "Leviticus_ch_25.docx": [1142, 1456], "Numbers_ch_3.docx": [5999], "Deuteronomy_ch_28.docx": [6779], "1 Chronicles_ch_2.docx": [4406], "1 Chronicles_ch_6.docx": [4070], "Psalms_ch_119.docx": [3938], "Matthew_ch_24.docx": [5692]}
-unthin	{"Psalms_ch_49.docx": [2163], "Psalms_ch_73.docx": [1944, 1944], "Proverbs_ch_15.docx": [2112, 2112], "Proverbs_ch_17.docx": [2685, 2685]}
 unthin	{"Psalms_ch_49.docx": [2163], "Psalms_ch_73.docx": [1944], "Proverbs_ch_15.docx": [2112], "Proverbs_ch_17.docx": [2685]}

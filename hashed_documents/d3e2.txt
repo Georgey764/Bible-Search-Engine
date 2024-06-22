@@ -1,5 +1,2 @@
 
-namu	{"Numbers_ch_26.docx": [914, 1368, 1373, 1368, 1373, 1368, 1373]}
-namu	{"Numbers_ch_26.docx": [914, 1368, 1373, 1368, 1373]}
-10her	{"Jeremiah_ch_3.docx": [1796]}
 namu	{"Numbers_ch_26.docx": [914, 1368, 1373]}

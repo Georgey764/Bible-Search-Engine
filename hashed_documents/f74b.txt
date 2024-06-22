@@ -1,5 +1,2 @@
 
-worms	{"Exodus_ch_16.docx": [3156, 3870, 3870, 3870], "Deuteronomy_ch_28.docx": [5422, 5422, 5422], "Job_ch_7.docx": [551, 551, 551], "Job_ch_25.docx": [476, 476, 476], "Proverbs_ch_25.docx": [1979, 1979, 1979], "Isaiah_ch_14.docx": [1845, 1845, 1845], "Mark_ch_9.docx": [6620, 6620], "Acts_ch_12.docx": [4978, 4978]}
-worms	{"Exodus_ch_16.docx": [3156, 3870, 3870], "Deuteronomy_ch_28.docx": [5422, 5422], "Job_ch_7.docx": [551, 551], "Job_ch_25.docx": [476, 476], "Proverbs_ch_25.docx": [1979, 1979], "Isaiah_ch_14.docx": [1845, 1845], "Mark_ch_9.docx": [6620], "Acts_ch_12.docx": [4978]}
-27‘loo	{"Jeremiah_ch_31.docx": [4961]}
-worms	{"Exodus_ch_16.docx": [3156, 3870], "Deuteronomy_ch_28.docx": [5422], "Job_ch_7.docx": [551], "Job_ch_25.docx": [476], "Proverbs_ch_25.docx": [1979], "Isaiah_ch_14.docx": [1845], "Mark_ch_9.docx": [6620], "Acts_ch_12.docx": [4978]}
+worms	{"Exodus_ch_16.docx": [3156, 3870], "Deuteronomy_ch_28.docx": [5422], "Job_ch_7.docx": [551], "Job_ch_25.docx": [476], "Proverbs_ch_25.docx": [1979], "Isaiah_ch_14.docx": [1845], "Isaiah_ch_66.docx": [4650], "Mark_ch_9.docx": [6620], "Acts_ch_12.docx": [4978]}

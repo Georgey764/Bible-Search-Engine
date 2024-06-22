@@ -1,4 +1,2 @@
 
-gigan	{"Genesis_ch_10.docx": [1071, 1085, 1085, 1085]}
-gigan	{"Genesis_ch_10.docx": [1071, 1085, 1085]}
 gigan	{"Genesis_ch_10.docx": [1071, 1085]}

@@ -1,4 +1,2 @@
 
-grudge	{"Deuteronomy_ch_15.docx": [1412], "Proverbs_ch_14.docx": [2597, 2597, 2597], "Zechariah_ch_7.docx": [1538, 1538, 1538]}
-grudge	{"Deuteronomy_ch_15.docx": [1412], "Proverbs_ch_14.docx": [2597, 2597], "Zechariah_ch_7.docx": [1538, 1538]}
 grudge	{"Deuteronomy_ch_15.docx": [1412], "Proverbs_ch_14.docx": [2597], "Zechariah_ch_7.docx": [1538]}

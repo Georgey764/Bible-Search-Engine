@@ -1,4 +1,2 @@
 
-salpaa	{"Numbers_ch_26.docx": [3782, 3859, 3859, 3859], "Numbers_ch_27.docx": [8, 825, 8, 825, 8, 825], "Joshua_ch_17.docx": [431, 513, 513, 431, 513], "1 Chronicles_ch_7.docx": [1885, 1999, 1885, 1999, 1885, 1999]}
-salpaa	{"Numbers_ch_26.docx": [3782, 3859, 3859], "Numbers_ch_27.docx": [8, 825, 8, 825], "Joshua_ch_17.docx": [513, 431, 513], "1 Chronicles_ch_7.docx": [1885, 1999, 1885, 1999]}
-salpaa	{"Numbers_ch_26.docx": [3782, 3859], "Numbers_ch_27.docx": [8, 825], "Joshua_ch_17.docx": [431, 513], "1 Chronicles_ch_7.docx": [1885, 1999]}
+salpaa	{"Numbers_ch_26.docx": [3782, 3859], "Numbers_ch_27.docx": [8, 825], "Numbers_ch_36.docx": [328, 1046, 1810, 1895], "Joshua_ch_17.docx": [431, 513], "1 Chronicles_ch_7.docx": [1885, 1999]}

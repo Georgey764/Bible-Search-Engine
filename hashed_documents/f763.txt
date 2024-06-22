@@ -1,4 +1,2 @@
 
-one-t	{"Zechariah_ch_13.docx": [1511], "Hebrews_ch_7.docx": [50, 50]}
-one-t	{"Zechariah_ch_13.docx": [1511], "Hebrews_ch_7.docx": [50]}
 one-t	{"Zechariah_ch_13.docx": [1511], "Hebrews_ch_7.docx": [50]}

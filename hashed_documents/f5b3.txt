@@ -1,4 +1,2 @@
 
-sess	{"Numbers_ch_13.docx": [1835], "Judges_ch_1.docx": [1431, 1431, 1431]}
-sess	{"Numbers_ch_13.docx": [1835], "Judges_ch_1.docx": [1431, 1431]}
 sess	{"Numbers_ch_13.docx": [1835], "Judges_ch_1.docx": [1431]}

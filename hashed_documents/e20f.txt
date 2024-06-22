@@ -1,5 +1,2 @@
 
-darken	{"Leviticus_ch_13.docx": [821], "Job_ch_16.docx": [1609, 1609, 1609], "Job_ch_31.docx": [2439, 2439, 2439], "Isaiah_ch_13.docx": [1495, 1495, 1495], "Ezekiel_ch_32.docx": [1141, 1141, 1141], "Micah_ch_3.docx": [1123, 1123, 1123], "Romans_ch_1.docx": [2634, 2634], "Ephesians_ch_4.docx": [2482, 2482], "Revelation_ch_9.docx": [192, 192]}
-darken	{"Leviticus_ch_13.docx": [821], "Job_ch_16.docx": [1609, 1609], "Job_ch_31.docx": [2439, 2439], "Isaiah_ch_13.docx": [1495, 1495], "Ezekiel_ch_32.docx": [1141, 1141], "Micah_ch_3.docx": [1123, 1123], "Romans_ch_1.docx": [2634], "Ephesians_ch_4.docx": [2482], "Revelation_ch_9.docx": [192]}
-6as	{"Numbers_ch_26.docx": [772], "2 Samuel_ch_11.docx": [863], "1 Chronicles_ch_9.docx": [693], "Jeremiah_ch_7.docx": [715], "Jeremiah_ch_43.docx": [572]}
 darken	{"Leviticus_ch_13.docx": [821], "Job_ch_16.docx": [1609], "Job_ch_31.docx": [2439], "Isaiah_ch_13.docx": [1495], "Ezekiel_ch_32.docx": [1141], "Micah_ch_3.docx": [1123], "Romans_ch_1.docx": [2634], "Ephesians_ch_4.docx": [2482], "Revelation_ch_9.docx": [192]}

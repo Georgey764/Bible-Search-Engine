@@ -1,4 +1,2 @@
 
-sheare	{"Genesis_ch_38.docx": [1372], "Isaiah_ch_53.docx": [1115, 1115, 1115], "Acts_ch_8.docx": [6762, 6762], "Acts_ch_18.docx": [5531, 5541, 5552, 5531, 5541, 5552]}
-sheare	{"Genesis_ch_38.docx": [1372], "Isaiah_ch_53.docx": [1115, 1115], "Acts_ch_8.docx": [6762], "Acts_ch_18.docx": [5531, 5541, 5552]}
 sheare	{"Genesis_ch_38.docx": [1372], "Isaiah_ch_53.docx": [1115], "Acts_ch_8.docx": [6762], "Acts_ch_18.docx": [5531, 5541, 5552]}

@@ -1,5 +1,2 @@
 
-devia	{"Deuteronomy_ch_17.docx": [1708], "2 Chronicles_ch_34.docx": [139, 139, 139], "Esther_ch_2.docx": [3933, 3933, 3933]}
-1[w	{"Genesis_ch_3.docx": [4], "Exodus_ch_32.docx": [4], "Daniel_ch_5.docx": [4]}
-devia	{"Deuteronomy_ch_17.docx": [1708], "2 Chronicles_ch_34.docx": [139, 139], "Esther_ch_2.docx": [3933, 3933]}
 devia	{"Deuteronomy_ch_17.docx": [1708], "2 Chronicles_ch_34.docx": [139], "Esther_ch_2.docx": [3933]}

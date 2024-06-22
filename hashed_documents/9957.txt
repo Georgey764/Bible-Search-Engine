@@ -1,4 +1,2 @@
 
-ousat	{"1 Chronicles_ch_20.docx": [837], "1 Chronicles_ch_27.docx": [1403, 1403, 1403]}
-ousat	{"1 Chronicles_ch_20.docx": [837], "1 Chronicles_ch_27.docx": [1403, 1403]}
 ousat	{"1 Chronicles_ch_20.docx": [837], "1 Chronicles_ch_27.docx": [1403]}

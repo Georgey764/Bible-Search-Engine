@@ -1,3 +1,0 @@
-
-24ho	{"Genesis_ch_31.docx": [2961], "Numbers_ch_21.docx": [3252], "1 Samuel_ch_14.docx": [3853], "1 Samuel_ch_17.docx": [3319], "2 Samuel_ch_14.docx": [3942], "2 Kings_ch_21.docx": [4091], "2 Chronicles_ch_32.docx": [4822], "2 Chronicles_ch_33.docx": [4086], "Esther_ch_9.docx": [2693], "Matthew_ch_12.docx": [2612]}
-25pl	{"1 Samuel_ch_25.docx": [3587], "2 Chronicles_ch_6.docx": [3773]}

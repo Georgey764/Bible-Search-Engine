@@ -1,5 +1,2 @@
 
-here?	{"1 Kings_ch_18.docx": [1397, 2061, 2061, 2061]}
-10god	{"Genesis_ch_1.docx": [1383]}
-here?	{"1 Kings_ch_18.docx": [1397, 2061, 2061]}
 here?	{"1 Kings_ch_18.docx": [1397, 2061]}

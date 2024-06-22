@@ -1,5 +1,2 @@
 
-kolaij	{"Nehemiah_ch_11.docx": [1269], "Jeremiah_ch_29.docx": [3184, 3184, 3184]}
-13‘he’	{"2 Samuel_ch_7.docx": [1904], "Jeremiah_ch_43.docx": [2077], "Ezekiel_ch_26.docx": [2274]}
-kolaij	{"Nehemiah_ch_11.docx": [1269], "Jeremiah_ch_29.docx": [3184, 3184]}
 kolaij	{"Nehemiah_ch_11.docx": [1269], "Jeremiah_ch_29.docx": [3184]}

@@ -1,5 +1,2 @@
 
-hands]	{"Deuteronomy_ch_23.docx": [1520], "1 Samuel_ch_14.docx": [1010, 1010, 1010]}
-hands]	{"Deuteronomy_ch_23.docx": [1520], "1 Samuel_ch_14.docx": [1010, 1010]}
-13mo	{"Jeremiah_ch_48.docx": [1823]}
 hands]	{"Deuteronomy_ch_23.docx": [1520], "1 Samuel_ch_14.docx": [1010]}

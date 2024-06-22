@@ -1,8 +1,3 @@
 
 raason	{"2 Kings_ch_16.docx": [656]}
 elyal	{"Jeremiah_ch_48.docx": [4494]}
-35[and	{"Genesis_ch_31.docx": [4493]}
-raason	{"2 Kings_ch_16.docx": [656]}
-elyal	{"Jeremiah_ch_48.docx": [4494]}
-raason	{"2 Kings_ch_16.docx": [656]}
-elyal	{"Jeremiah_ch_48.docx": [4494]}

@@ -1,7 +1,3 @@
 
 joadam	{"2 Chronicles_ch_29.docx": [2022]}
 tali	{"Mark_ch_5.docx": [4807]}
-joadam	{"2 Chronicles_ch_29.docx": [2022]}
-1‘neb	{"Daniel_ch_4.docx": [6]}
-joadam	{"2 Chronicles_ch_29.docx": [2022]}
-tali	{"Mark_ch_5.docx": [4807]}

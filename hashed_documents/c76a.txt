@@ -1,4 +1,2 @@
 
-active	{"Leviticus_ch_13.docx": [2162, 8063, 8063, 8063], "2 Thessalonians_ch_2.docx": [1819, 1819]}
-active	{"Leviticus_ch_13.docx": [2162, 8063, 8063], "2 Thessalonians_ch_2.docx": [1819]}
 active	{"Leviticus_ch_13.docx": [2162, 8063], "2 Thessalonians_ch_2.docx": [1819]}

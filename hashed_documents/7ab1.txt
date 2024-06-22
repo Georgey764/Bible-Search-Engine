@@ -1,4 +1,2 @@
 
-ishi	{"1 Chronicles_ch_4.docx": [2388]}
-ishi	{"1 Chronicles_ch_4.docx": [2388]}
-ishi	{"1 Chronicles_ch_4.docx": [2388]}
+ishi	{"1 Chronicles_ch_4.docx": [2388], "Ezra_ch_10.docx": [5103]}

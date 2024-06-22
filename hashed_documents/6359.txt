@@ -1,5 +1,2 @@
 
-indu	{"Nehemiah_ch_9.docx": [5510], "Proverbs_ch_15.docx": [1988, 1988, 1988], "Ezekiel_ch_16.docx": [5179, 5179, 5179], "1 Peter_ch_2.docx": [1562, 1562]}
-indu	{"Nehemiah_ch_9.docx": [5510], "Proverbs_ch_15.docx": [1988, 1988], "Ezekiel_ch_16.docx": [5179, 5179], "1 Peter_ch_2.docx": [1562]}
-3‘call	{"Jeremiah_ch_33.docx": [230]}
-indu	{"Nehemiah_ch_9.docx": [5510], "Proverbs_ch_15.docx": [1988], "Ezekiel_ch_16.docx": [5179], "1 Peter_ch_2.docx": [1562]}
+indu	{"Nehemiah_ch_9.docx": [5510], "Proverbs_ch_15.docx": [1988], "Proverbs_ch_31.docx": [956], "Isaiah_ch_66.docx": [2262], "Ezekiel_ch_16.docx": [5179], "1 Peter_ch_2.docx": [1562]}

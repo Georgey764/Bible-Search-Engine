@@ -1,5 +1,2 @@
 
-impri	{"Genesis_ch_41.docx": [1137], "Judges_ch_16.docx": [1119, 1119, 1119], "2 Corinthians_ch_6.docx": [428, 428], "Philippians_ch_1.docx": [1422, 2358, 1422, 2358], "2 Timothy_ch_2.docx": [748, 748], "1 Peter_ch_3.docx": [2561, 2561]}
-impri	{"Genesis_ch_41.docx": [1137], "Judges_ch_16.docx": [1119, 1119], "2 Corinthians_ch_6.docx": [428], "Philippians_ch_1.docx": [1422, 2358], "2 Timothy_ch_2.docx": [748], "1 Peter_ch_3.docx": [2561]}
-139b	{"Psalms_ch_119.docx": [11616]}
-impri	{"Genesis_ch_41.docx": [1137], "Judges_ch_16.docx": [1119], "2 Corinthians_ch_6.docx": [428], "Philippians_ch_1.docx": [1422, 2358], "2 Timothy_ch_2.docx": [748], "1 Peter_ch_3.docx": [2561]}
+impri	{"Genesis_ch_41.docx": [1137], "Judges_ch_16.docx": [1119], "2 Chronicles_ch_36.docx": [347], "2 Corinthians_ch_6.docx": [428], "Philippians_ch_1.docx": [1422, 2358], "2 Timothy_ch_2.docx": [748], "1 Peter_ch_3.docx": [2561]}

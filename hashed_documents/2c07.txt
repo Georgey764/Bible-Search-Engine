@@ -1,4 +1,2 @@
 
-embl	{"Judges_ch_17.docx": [742], "Judges_ch_18.docx": [3652, 4082, 4630, 3652, 4082, 4630, 3652, 4082, 4630]}
-embl	{"Judges_ch_17.docx": [742], "Judges_ch_18.docx": [3652, 4082, 4630, 3652, 4082, 4630]}
 embl	{"Judges_ch_17.docx": [742], "Judges_ch_18.docx": [3652, 4082, 4630]}

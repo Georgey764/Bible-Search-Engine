@@ -1,8 +1,3 @@
 
 dara	{"1 Chronicles_ch_2.docx": [649]}
 gadar	{"Matthew_ch_8.docx": [3500]}
-dara	{"1 Chronicles_ch_2.docx": [649]}
-28‘go	{"Jeremiah_ch_7.docx": [4482]}
-gadar	{"Matthew_ch_8.docx": [3500]}
-dara	{"1 Chronicles_ch_2.docx": [649]}
-gadar	{"Matthew_ch_8.docx": [3500]}

@@ -1,7 +1,3 @@
 
 nappek	{"2 Samuel_ch_5.docx": [2183]}
 kalch	{"1 Chronicles_ch_2.docx": [632]}
-nappek	{"2 Samuel_ch_5.docx": [2183]}
-kalch	{"1 Chronicles_ch_2.docx": [632]}
-nappek	{"2 Samuel_ch_5.docx": [2183]}
-kalch	{"1 Chronicles_ch_2.docx": [632]}

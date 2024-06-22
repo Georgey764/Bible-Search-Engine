@@ -1,5 +1,2 @@
 
-fences	{"Psalms_ch_62.docx": [377], "Psalms_ch_80.docx": [1129, 1129, 1129], "Psalms_ch_144.docx": [1555, 1555, 1555]}
-28la	{"Genesis_ch_5.docx": [2019]}
-fences	{"Psalms_ch_62.docx": [377], "Psalms_ch_80.docx": [1129, 1129], "Psalms_ch_144.docx": [1555, 1555]}
-fences	{"Psalms_ch_62.docx": [377], "Psalms_ch_80.docx": [1129], "Psalms_ch_144.docx": [1555]}
+fences	{"Psalms_ch_62.docx": [377], "Psalms_ch_80.docx": [1129], "Psalms_ch_144.docx": [1555], "Nahum_ch_3.docx": [3427]}

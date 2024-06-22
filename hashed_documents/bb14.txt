@@ -1,4 +1,2 @@
 
-dart	{"Numbers_ch_33.docx": [4606], "Joshua_ch_23.docx": [1602, 1602, 1602], "Job_ch_16.docx": [917, 917, 917]}
-dart	{"Numbers_ch_33.docx": [4606], "Joshua_ch_23.docx": [1602, 1602], "Job_ch_16.docx": [917, 917]}
 dart	{"Numbers_ch_33.docx": [4606], "Joshua_ch_23.docx": [1602], "Job_ch_16.docx": [917]}

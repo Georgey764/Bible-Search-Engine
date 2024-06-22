@@ -1,5 +1,2 @@
 
-locati	{"Exodus_ch_26.docx": [442], "Numbers_ch_2.docx": [2950, 2950, 2950], "Numbers_ch_35.docx": [984, 984, 984], "2 Kings_ch_2.docx": [3192, 3192, 3192], "2 Chronicles_ch_33.docx": [3131, 3131, 3131], "Matthew_ch_15.docx": [3968, 3968, 3968]}
-locati	{"Exodus_ch_26.docx": [442], "Numbers_ch_2.docx": [2950, 2950], "Numbers_ch_35.docx": [984, 984], "2 Kings_ch_2.docx": [3192, 3192], "2 Chronicles_ch_33.docx": [3131, 3131], "Matthew_ch_15.docx": [3968, 3968]}
-45p	{"1 Kings_ch_8.docx": [7077]}
 locati	{"Exodus_ch_26.docx": [442], "Numbers_ch_2.docx": [2950], "Numbers_ch_35.docx": [984], "2 Kings_ch_2.docx": [3192], "2 Chronicles_ch_33.docx": [3131], "Matthew_ch_15.docx": [3968]}

@@ -1,9 +1,4 @@
 
-selem	{"Numbers_ch_34.docx": [2517], "1 Chronicles_ch_26.docx": [1729, 1729, 1729]}
-aiei	{"Joshua_ch_18.docx": [3341]}
-winnow	{"Isaiah_ch_41.docx": [2642]}
-selem	{"Numbers_ch_34.docx": [2517], "1 Chronicles_ch_26.docx": [1729, 1729]}
-winnow	{"Isaiah_ch_41.docx": [2642]}
 selem	{"Numbers_ch_34.docx": [2517], "1 Chronicles_ch_26.docx": [1729]}
 aiei	{"Joshua_ch_18.docx": [3341]}
-winnow	{"Isaiah_ch_41.docx": [2642]}
+winnow	{"Isaiah_ch_41.docx": [2642], "Amos_ch_9.docx": [2549]}

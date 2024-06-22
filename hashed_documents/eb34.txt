@@ -1,7 +1,2 @@
 
-shares	{"Proverbs_ch_29.docx": [1855, 2173, 2173, 2173], "Ezekiel_ch_32.docx": [3615, 3615, 3615], "Hebrews_ch_2.docx": [2264, 2264], "Revelation_ch_1.docx": [1322, 1322]}
-25he	{"Exodus_ch_18.docx": [3441], "2 Samuel_ch_18.docx": [4045], "Job_ch_34.docx": [2369], "Joel_ch_2.docx": [4445]}
-9‘ar	{"Job_ch_12.docx": [743], "Jeremiah_ch_14.docx": [1132]}
-6befo	{"Psalms_ch_96.docx": [450]}
-shares	{"Proverbs_ch_29.docx": [1855, 2173, 2173], "Ezekiel_ch_32.docx": [3615, 3615], "Hebrews_ch_2.docx": [2264], "Revelation_ch_1.docx": [1322]}
-shares	{"Proverbs_ch_29.docx": [1855, 2173], "Ezekiel_ch_32.docx": [3615], "Hebrews_ch_2.docx": [2264], "Revelation_ch_1.docx": [1322]}
+shares	{"Proverbs_ch_29.docx": [1855, 2173], "Ezekiel_ch_32.docx": [3615], "Hebrews_ch_2.docx": [2264], "2 John_ch_1.docx": [1415], "Revelation_ch_1.docx": [1322]}

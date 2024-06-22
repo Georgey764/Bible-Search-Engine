@@ -1,5 +1,2 @@
 
 ziv	{"1 Kings_ch_6.docx": [4358]}
-ziv	{"1 Kings_ch_6.docx": [4358]}
-17rat	{"Proverbs_ch_2.docx": [1479], "Ecclesiastes_ch_10.docx": [1766]}
-ziv	{"1 Kings_ch_6.docx": [4358]}

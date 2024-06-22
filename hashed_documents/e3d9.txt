@@ -1,5 +1,3 @@
 
-eni	{"Proverbs_ch_1.docx": [232, 571, 571, 571]}
-25dem	{"2 Kings_ch_3.docx": [3724]}
-eni	{"Proverbs_ch_1.docx": [232, 571, 571]}
+best-	{"2 Samuel_ch_24.docx": [6149], "1 Kings_ch_22.docx": [9947], "Ecclesiastes_ch_12.docx": [2916]}
 eni	{"Proverbs_ch_1.docx": [232, 571]}

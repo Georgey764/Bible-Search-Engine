@@ -1,4 +1,2 @@
 
 ecs	{"Psalms_ch_116.docx": [921]}
-ecs	{"Psalms_ch_116.docx": [921]}
-ecs	{"Psalms_ch_116.docx": [921]}

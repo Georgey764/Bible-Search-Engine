@@ -1,5 +1,2 @@
 
-gedsu	{"2 Samuel_ch_13.docx": [5941, 5964, 5964, 5964], "2 Samuel_ch_14.docx": [3867, 5452, 3867, 5452, 3867, 5452], "2 Samuel_ch_15.docx": [1054, 1054, 1054], "1 Chronicles_ch_2.docx": [1992, 1992, 1992]}
-13ne	{"Exodus_ch_7.docx": [1606], "Jonah_ch_1.docx": [1998]}
-gedsu	{"2 Samuel_ch_13.docx": [5941, 5964, 5964], "2 Samuel_ch_14.docx": [3867, 5452, 3867, 5452], "2 Samuel_ch_15.docx": [1054, 1054], "1 Chronicles_ch_2.docx": [1992, 1992]}
 gedsu	{"2 Samuel_ch_13.docx": [5941, 5964], "2 Samuel_ch_14.docx": [3867, 5452], "2 Samuel_ch_15.docx": [1054], "1 Chronicles_ch_2.docx": [1992]}

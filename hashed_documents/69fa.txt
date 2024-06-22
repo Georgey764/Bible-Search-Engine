@@ -1,4 +1,2 @@
 
-hunti	{"Leviticus_ch_17.docx": [2108], "1 Samuel_ch_26.docx": [3346, 3346, 3346], "Psalms_ch_94.docx": [1789, 1789, 1789], "Psalms_ch_124.docx": [484, 484, 484], "Lamentations_ch_4.docx": [2988, 2988, 2988]}
-hunti	{"Leviticus_ch_17.docx": [2108], "1 Samuel_ch_26.docx": [3346, 3346], "Psalms_ch_94.docx": [1789, 1789], "Psalms_ch_124.docx": [484, 484], "Lamentations_ch_4.docx": [2988, 2988]}
 hunti	{"Leviticus_ch_17.docx": [2108], "1 Samuel_ch_26.docx": [3346], "Psalms_ch_94.docx": [1789], "Psalms_ch_124.docx": [484], "Lamentations_ch_4.docx": [2988]}

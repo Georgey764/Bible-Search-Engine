@@ -1,6 +1,2 @@
 
 ramses	{"Joshua_ch_16.docx": [1037]}
-17in	{"Genesis_ch_40.docx": [2008], "2 Kings_ch_17.docx": [3071], "Nehemiah_ch_5.docx": [3211], "Job_ch_11.docx": [1777]}
-28‘an	{"Leviticus_ch_19.docx": [3756], "Deuteronomy_ch_22.docx": [3894], "2 Samuel_ch_7.docx": [4068], "Jeremiah_ch_25.docx": [4394], "Ezekiel_ch_44.docx": [5243], "Matthew_ch_13.docx": [3637]}
-ramses	{"Joshua_ch_16.docx": [1037]}
-ramses	{"Joshua_ch_16.docx": [1037]}

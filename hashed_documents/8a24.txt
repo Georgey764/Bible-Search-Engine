@@ -1,5 +1,2 @@
 
 aret	{"2 Corinthians_ch_11.docx": [4566]}
-13but	{"Genesis_ch_33.docx": [1564], "Exodus_ch_3.docx": [2004], "Exodus_ch_4.docx": [1903], "Exodus_ch_14.docx": [2411], "Exodus_ch_15.docx": [1600], "Exodus_ch_21.docx": [1533], "Joshua_ch_13.docx": [17903], "Joshua_ch_17.docx": [2034], "Joshua_ch_22.docx": [2119], "1 Samuel_ch_11.docx": [2244], "1 Samuel_ch_13.docx": [2109], "1 Kings_ch_17.docx": [1633], "2 Kings_ch_4.docx": [2167], "2 Kings_ch_5.docx": [2258], "2 Kings_ch_7.docx": [2556], "2 Kings_ch_8.docx": [2547], "2 Chronicles_ch_25.docx": [2013], "Job_ch_23.docx": [1124], "Psalms_ch_37.docx": [1135], "Psalms_ch_38.docx": [1053], "Psalms_ch_55.docx": [1265], "Psalms_ch_69.docx": [1455], "Psalms_ch_106.docx": [1173], "Proverbs_ch_13.docx": [1341], "Isaiah_ch_6.docx": [2190], "Isaiah_ch_60.docx": [1931], "Jeremiah_ch_17.docx": [2046], "Jeremiah_ch_37.docx": [1667], "Matthew_ch_15.docx": [1426]}
-10unti	{"Daniel_ch_8.docx": [1422]}
-aret	{"2 Corinthians_ch_11.docx": [4566]}

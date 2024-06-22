@@ -1,4 +1,2 @@
 
-jabbed	{"2 Samuel_ch_2.docx": [2112], "Matthew_ch_27.docx": [5792, 5792], "John_ch_19.docx": [4612, 4612]}
-jabbed	{"2 Samuel_ch_2.docx": [2112], "Matthew_ch_27.docx": [5792], "John_ch_19.docx": [4612]}
 jabbed	{"2 Samuel_ch_2.docx": [2112], "Matthew_ch_27.docx": [5792], "John_ch_19.docx": [4612]}

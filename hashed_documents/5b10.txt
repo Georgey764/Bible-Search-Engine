@@ -1,3 +1,2 @@
 
-paul’	{"Acts_ch_9.docx": [2890], "Acts_ch_17.docx": [58, 58], "Acts_ch_20.docx": [10142, 10142], "Acts_ch_21.docx": [3305, 3305], "Acts_ch_23.docx": [2879, 3125, 2879, 3125]}
-paul’	{"Acts_ch_9.docx": [2890], "Acts_ch_17.docx": [58], "Acts_ch_20.docx": [10142], "Acts_ch_21.docx": [3305], "Acts_ch_23.docx": [2879, 3125]}
+paul’	{"Mark_ch_16.docx": [2410], "John_ch_21.docx": [4380], "Acts_ch_9.docx": [2890], "Acts_ch_17.docx": [58], "Acts_ch_20.docx": [10142], "Acts_ch_21.docx": [3305], "Acts_ch_23.docx": [2879, 3125], "1 Corinthians_ch_16.docx": [3434], "Ephesians_ch_6.docx": [2992], "Colossians_ch_4.docx": [3219], "2 Thessalonians_ch_3.docx": [2440], "1 Timothy_ch_6.docx": [3347]}

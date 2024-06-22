@@ -1,4 +1,2 @@
 
-judgem	{"Lamentations_ch_3.docx": [4926], "Mark_ch_6.docx": [1562, 1562]}
-judgem	{"Lamentations_ch_3.docx": [4926], "Mark_ch_6.docx": [1562]}
 judgem	{"Lamentations_ch_3.docx": [4926], "Mark_ch_6.docx": [1562]}

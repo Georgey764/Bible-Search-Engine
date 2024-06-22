@@ -1,18 +1,4 @@
 
-asaij	{"1 Chronicles_ch_6.docx": [2187], "1 Chronicles_ch_9.docx": [685, 685, 685], "1 Chronicles_ch_15.docx": [1079, 1079, 1079]}
-el	{"1 Chronicles_ch_9.docx": [996], "1 Chronicles_ch_11.docx": [5369]}
-el	{"1 Chronicles_ch_11.docx": [5629]}
-el	{"1 Chronicles_ch_11.docx": [5763]}
-el	{"1 Chronicles_ch_12.docx": [1343]}
-el	{"1 Chronicles_ch_12.docx": [1387]}
-el	{"1 Chronicles_ch_23.docx": [1706]}
-asaij	{"1 Chronicles_ch_6.docx": [2187], "1 Chronicles_ch_9.docx": [685, 685], "1 Chronicles_ch_15.docx": [1079, 1079]}
-el	{"1 Chronicles_ch_9.docx": [996], "1 Chronicles_ch_11.docx": [5369]}
-el	{"1 Chronicles_ch_11.docx": [5629]}
-el	{"1 Chronicles_ch_11.docx": [5763]}
-el	{"1 Chronicles_ch_12.docx": [1343]}
-el	{"1 Chronicles_ch_12.docx": [1387]}
-el	{"1 Chronicles_ch_23.docx": [1706]}
 asaij	{"1 Chronicles_ch_6.docx": [2187], "1 Chronicles_ch_9.docx": [685], "1 Chronicles_ch_15.docx": [1079]}
 el	{"1 Chronicles_ch_9.docx": [996], "1 Chronicles_ch_11.docx": [5369]}
 el	{"1 Chronicles_ch_11.docx": [5629]}

@@ -1,4 +1,2 @@
 
-cracke	{"Exodus_ch_16.docx": [4833], "Numbers_ch_11.docx": [876, 876, 876], "1 Kings_ch_13.docx": [864, 864, 864], "Proverbs_ch_26.docx": [2056, 2056, 2056], "Jeremiah_ch_2.docx": [2133, 2133, 2133]}
-cracke	{"Exodus_ch_16.docx": [4833], "Numbers_ch_11.docx": [876, 876], "1 Kings_ch_13.docx": [864, 864], "Proverbs_ch_26.docx": [2056, 2056], "Jeremiah_ch_2.docx": [2133, 2133]}
 cracke	{"Exodus_ch_16.docx": [4833], "Numbers_ch_11.docx": [876], "1 Kings_ch_13.docx": [864], "Proverbs_ch_26.docx": [2056], "Jeremiah_ch_2.docx": [2133]}

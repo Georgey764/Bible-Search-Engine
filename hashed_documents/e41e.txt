@@ -1,4 +1,2 @@
 
-uncut	{"1 Kings_ch_6.docx": [4233], "1 Kings_ch_7.docx": [1521, 1521, 1521]}
-uncut	{"1 Kings_ch_6.docx": [4233], "1 Kings_ch_7.docx": [1521, 1521]}
 uncut	{"1 Kings_ch_6.docx": [4233], "1 Kings_ch_7.docx": [1521]}

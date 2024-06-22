@@ -1,6 +1,3 @@
 
-elap	{"Isaiah_ch_23.docx": [1843, 2086, 2086, 2086], "Acts_ch_27.docx": [2785, 2785], "1 Peter_ch_4.docx": [325, 325]}
-pilo	{"Acts_ch_27.docx": [1403], "James_ch_3.docx": [406, 406]}
-elap	{"Isaiah_ch_23.docx": [1843, 2086, 2086], "Acts_ch_27.docx": [2785], "1 Peter_ch_4.docx": [325]}
 elap	{"Isaiah_ch_23.docx": [1843, 2086], "Acts_ch_27.docx": [2785], "1 Peter_ch_4.docx": [325]}
 pilo	{"Acts_ch_27.docx": [1403], "James_ch_3.docx": [406]}

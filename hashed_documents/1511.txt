@@ -1,5 +1,2 @@
 
-hedg	{"Isaiah_ch_13.docx": [3191], "Isaiah_ch_14.docx": [3822, 3822, 3822], "Isaiah_ch_34.docx": [1672, 2194, 1672, 2194, 1672, 2194], "Zephaniah_ch_2.docx": [4460, 4460, 4460]}
-hedg	{"Isaiah_ch_13.docx": [3191], "Isaiah_ch_14.docx": [3822, 3822], "Isaiah_ch_34.docx": [1672, 2194, 1672, 2194], "Zephaniah_ch_2.docx": [4460, 4460]}
-19[and	{"Jeremiah_ch_8.docx": [3495], "Jeremiah_ch_14.docx": [3430]}
 hedg	{"Isaiah_ch_13.docx": [3191], "Isaiah_ch_14.docx": [3822], "Isaiah_ch_34.docx": [1672, 2194], "Zephaniah_ch_2.docx": [4460]}

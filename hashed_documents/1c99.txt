@@ -1,5 +1,2 @@
 
 mata	{"1 Chronicles_ch_18.docx": [903]}
-44h	{"Leviticus_ch_13.docx": [6142], "Psalms_ch_78.docx": [4312]}
-mata	{"1 Chronicles_ch_18.docx": [903]}
-mata	{"1 Chronicles_ch_18.docx": [903]}

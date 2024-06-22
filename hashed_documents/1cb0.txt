@@ -1,9 +1,3 @@
 
 aseni	{"Genesis_ch_10.docx": [2036]}
 dogs!	{"Psalms_ch_22.docx": [1955]}
-aseni	{"Genesis_ch_10.docx": [2036]}
-37elye	{"2 Samuel_ch_23.docx": [4955]}
-dogs!	{"Psalms_ch_22.docx": [1955]}
-8‘he’l	{"Isaiah_ch_10.docx": [1008], "Daniel_ch_11.docx": [1592]}
-aseni	{"Genesis_ch_10.docx": [2036]}
-dogs!	{"Psalms_ch_22.docx": [1955]}

@@ -1,4 +1,2 @@
 
-fumiga	{"Jeremiah_ch_43.docx": [1948, 1990, 1990, 1990]}
-fumiga	{"Jeremiah_ch_43.docx": [1948, 1990, 1990]}
 fumiga	{"Jeremiah_ch_43.docx": [1948, 1990]}

@@ -1,4 +1,2 @@
 
-mina	{"1 Chronicles_ch_4.docx": [4552], "2 Chronicles_ch_20.docx": [18, 18, 18], "2 Chronicles_ch_26.docx": [950, 952, 950, 952, 950, 952], "Job_ch_2.docx": [1691, 1691, 1691], "Job_ch_11.docx": [7, 7, 7], "Job_ch_20.docx": [7, 7, 7]}
-mina	{"1 Chronicles_ch_4.docx": [4552], "2 Chronicles_ch_20.docx": [18, 18], "2 Chronicles_ch_26.docx": [950, 952, 950, 952], "Job_ch_2.docx": [1691, 1691], "Job_ch_11.docx": [7, 7], "Job_ch_20.docx": [7, 7]}
 mina	{"1 Chronicles_ch_4.docx": [4552], "2 Chronicles_ch_20.docx": [18], "2 Chronicles_ch_26.docx": [950, 952], "Job_ch_2.docx": [1691], "Job_ch_11.docx": [7], "Job_ch_20.docx": [7]}

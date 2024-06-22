@@ -1,4 +1,2 @@
 
-homes!	{"Genesis_ch_34.docx": [3764], "Nehemiah_ch_4.docx": [2281, 2281, 2281], "Isaiah_ch_58.docx": [1519, 1519, 1519], "Jeremiah_ch_5.docx": [1525, 1525, 1525], "Jeremiah_ch_23.docx": [6248, 6248, 6248], "Ezekiel_ch_23.docx": [7904, 7904, 7904], "Amos_ch_6.docx": [2539, 2539, 2539], "Luke_ch_16.docx": [519, 519], "Acts_ch_20.docx": [7429, 7429]}
-homes!	{"Genesis_ch_34.docx": [3764], "Nehemiah_ch_4.docx": [2281, 2281], "Isaiah_ch_58.docx": [1519, 1519], "Jeremiah_ch_5.docx": [1525, 1525], "Jeremiah_ch_23.docx": [6248, 6248], "Ezekiel_ch_23.docx": [7904, 7904], "Amos_ch_6.docx": [2539, 2539], "Luke_ch_16.docx": [519], "Acts_ch_20.docx": [7429]}
 homes!	{"Genesis_ch_34.docx": [3764], "Nehemiah_ch_4.docx": [2281], "Isaiah_ch_58.docx": [1519], "Jeremiah_ch_5.docx": [1525], "Jeremiah_ch_23.docx": [6248], "Ezekiel_ch_23.docx": [7904], "Amos_ch_6.docx": [2539], "Luke_ch_16.docx": [519], "Acts_ch_20.docx": [7429]}

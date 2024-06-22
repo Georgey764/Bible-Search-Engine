@@ -1,4 +1,2 @@
 
-prun	{"Leviticus_ch_25.docx": [276, 444, 444, 444], "1 Samuel_ch_13.docx": [3412, 3441, 3412, 3441, 3412, 3441], "Job_ch_15.docx": [3058, 3058, 3058], "Proverbs_ch_30.docx": [1353, 1353, 1353], "Song of Solomon_ch_2.docx": [1401, 1401, 1401], "Isaiah_ch_5.docx": [832, 832, 832], "Romans_ch_11.docx": [3358, 3358]}
-prun	{"Leviticus_ch_25.docx": [276, 444, 444], "1 Samuel_ch_13.docx": [3412, 3441, 3412, 3441], "Job_ch_15.docx": [3058, 3058], "Proverbs_ch_30.docx": [1353, 1353], "Song of Solomon_ch_2.docx": [1401, 1401], "Isaiah_ch_5.docx": [832, 832], "Romans_ch_11.docx": [3358]}
 prun	{"Leviticus_ch_25.docx": [276, 444], "1 Samuel_ch_13.docx": [3412, 3441], "Job_ch_15.docx": [3058], "Proverbs_ch_30.docx": [1353], "Song of Solomon_ch_2.docx": [1401], "Isaiah_ch_5.docx": [832], "Romans_ch_11.docx": [3358]}

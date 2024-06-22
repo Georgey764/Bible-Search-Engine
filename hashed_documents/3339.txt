@@ -1,5 +1,2 @@
 
 asoube	{"1 Chronicles_ch_3.docx": [1783]}
-6,000	{"1 Samuel_ch_13.docx": [871], "2 Kings_ch_5.docx": [848], "1 Chronicles_ch_23.docx": [371]}
-asoube	{"1 Chronicles_ch_3.docx": [1783]}
-asoube	{"1 Chronicles_ch_3.docx": [1783]}

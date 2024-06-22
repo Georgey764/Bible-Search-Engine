@@ -1,2 +1,0 @@
-
-22‘an	{"Genesis_ch_44.docx": [2926], "Exodus_ch_26.docx": [2083], "Leviticus_ch_4.docx": [3027], "Leviticus_ch_13.docx": [3022], "Leviticus_ch_23.docx": [3203], "Deuteronomy_ch_21.docx": [3084], "2 Chronicles_ch_7.docx": [3813], "Isaiah_ch_22.docx": [3140], "Isaiah_ch_29.docx": [3829], "Jeremiah_ch_13.docx": [3656], "Jeremiah_ch_44.docx": [4493], "Ezekiel_ch_36.docx": [3942], "Ezekiel_ch_39.docx": [3848], "Ezekiel_ch_43.docx": [4122], "Matthew_ch_24.docx": [2353]}

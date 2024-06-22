@@ -1,4 +1,2 @@
 
-ribb	{"1 Kings_ch_6.docx": [1906], "Song of Solomon_ch_4.docx": [400, 400, 400], "Song of Solomon_ch_6.docx": [931, 931, 931]}
-ribb	{"1 Kings_ch_6.docx": [1906], "Song of Solomon_ch_4.docx": [400, 400], "Song of Solomon_ch_6.docx": [931, 931]}
 ribb	{"1 Kings_ch_6.docx": [1906], "Song of Solomon_ch_4.docx": [400], "Song of Solomon_ch_6.docx": [931]}

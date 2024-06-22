@@ -1,4 +1,2 @@
 
-jamun	{"Numbers_ch_26.docx": [1846, 1851, 1851, 1851]}
-jamun	{"Numbers_ch_26.docx": [1846, 1851, 1851]}
 jamun	{"Numbers_ch_26.docx": [1846, 1851]}

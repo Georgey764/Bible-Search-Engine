@@ -1,4 +1,2 @@
 
-rhe	{"Genesis_ch_10.docx": [927, 973, 973, 973], "Genesis_ch_22.docx": [3468, 3468, 3468], "Luke_ch_3.docx": [6494, 6494]}
-rhe	{"Genesis_ch_10.docx": [927, 973, 973], "Genesis_ch_22.docx": [3468, 3468], "Luke_ch_3.docx": [6494]}
 rhe	{"Genesis_ch_10.docx": [927, 973], "Genesis_ch_22.docx": [3468], "Luke_ch_3.docx": [6494]}

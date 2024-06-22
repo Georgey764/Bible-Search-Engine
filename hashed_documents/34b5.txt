@@ -1,4 +1,2 @@
 
-chon	{"1 Chronicles_ch_15.docx": [2972, 3749, 3749, 3749], "1 Chronicles_ch_26.docx": [3758, 3758]}
-chon	{"1 Chronicles_ch_15.docx": [2972, 3749, 3749], "1 Chronicles_ch_26.docx": [3758]}
 chon	{"1 Chronicles_ch_15.docx": [2972, 3749], "1 Chronicles_ch_26.docx": [3758]}

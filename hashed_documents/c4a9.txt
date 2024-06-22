@@ -1,4 +1,2 @@
 
-womb!	{"Genesis_ch_25.docx": [2631], "Numbers_ch_25.docx": [974, 974, 974], "Luke_ch_1.docx": [1847, 1847]}
-womb!	{"Genesis_ch_25.docx": [2631], "Numbers_ch_25.docx": [974, 974], "Luke_ch_1.docx": [1847]}
 womb!	{"Genesis_ch_25.docx": [2631], "Numbers_ch_25.docx": [974], "Luke_ch_1.docx": [1847]}

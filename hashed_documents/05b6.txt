@@ -1,2 +1,0 @@
-
-17they	{"Exodus_ch_39.docx": [1834], "Judges_ch_2.docx": [3781], "1 Samuel_ch_8.docx": [2034], "Nehemiah_ch_9.docx": [3557], "Job_ch_41.docx": [1530]}

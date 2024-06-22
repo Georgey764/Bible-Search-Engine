@@ -1,7 +1,3 @@
 
-war;	{"Exodus_ch_15.docx": [367], "Psalms_ch_27.docx": [428, 428, 428], "Proverbs_ch_10.docx": [1147, 1147, 1147], "Proverbs_ch_24.docx": [425, 425, 425]}
-leek	{"Numbers_ch_11.docx": [646]}
-war;	{"Exodus_ch_15.docx": [367], "Psalms_ch_27.docx": [428, 428], "Proverbs_ch_10.docx": [1147, 1147], "Proverbs_ch_24.docx": [425, 425]}
-leek	{"Numbers_ch_11.docx": [646]}
 war;	{"Exodus_ch_15.docx": [367], "Psalms_ch_27.docx": [428], "Proverbs_ch_10.docx": [1147], "Proverbs_ch_24.docx": [425]}
 leek	{"Numbers_ch_11.docx": [646]}

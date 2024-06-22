@@ -1,4 +1,2 @@
 
-speake	{"Exodus_ch_4.docx": [1525], "Exodus_ch_6.docx": [1558, 3746, 1558, 3746, 1558, 3746], "Acts_ch_18.docx": [7779, 7803, 7828, 7779, 7803, 7828], "2 Corinthians_ch_11.docx": [769, 769]}
-speake	{"Exodus_ch_4.docx": [1525], "Exodus_ch_6.docx": [1558, 3746, 1558, 3746], "Acts_ch_18.docx": [7779, 7803, 7828], "2 Corinthians_ch_11.docx": [769]}
 speake	{"Exodus_ch_4.docx": [1525], "Exodus_ch_6.docx": [1558, 3746], "Acts_ch_18.docx": [7779, 7803, 7828], "2 Corinthians_ch_11.docx": [769]}

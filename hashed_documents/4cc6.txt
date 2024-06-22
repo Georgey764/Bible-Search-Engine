@@ -1,5 +1,2 @@
 
-ambe	{"Exodus_ch_39.docx": [1462], "Ezekiel_ch_28.docx": [1863, 1863, 1863]}
-ambe	{"Exodus_ch_39.docx": [1462], "Ezekiel_ch_28.docx": [1863, 1863]}
-20‘kn	{"Isaiah_ch_44.docx": [3290]}
 ambe	{"Exodus_ch_39.docx": [1462], "Ezekiel_ch_28.docx": [1863]}

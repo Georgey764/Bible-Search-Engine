@@ -1,5 +1,3 @@
 
-barely	{"Joshua_ch_2.docx": [1478], "1 Peter_ch_4.docx": [2630, 2630]}
-10‘for	{"Leviticus_ch_10.docx": [1608], "Deuteronomy_ch_11.docx": [1361], "Psalms_ch_50.docx": [923], "Isaiah_ch_47.docx": [1712], "Isaiah_ch_55.docx": [1566], "Jeremiah_ch_8.docx": [1841], "Jeremiah_ch_21.docx": [1628], "Jeremiah_ch_49.docx": [1740], "Ezekiel_ch_5.docx": [1870], "Ezekiel_ch_13.docx": [1729], "Ezekiel_ch_35.docx": [1205], "Habakkuk_ch_2.docx": [1800], "Zechariah_ch_4.docx": [1281], "Matthew_ch_11.docx": [1128]}
 barely	{"Joshua_ch_2.docx": [1478], "1 Peter_ch_4.docx": [2630]}
-barely	{"Joshua_ch_2.docx": [1478], "1 Peter_ch_4.docx": [2630]}
+bread.	{"2 Thessalonians_ch_3.docx": [1696, 1726]}

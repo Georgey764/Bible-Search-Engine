@@ -1,4 +1,2 @@
 
-esh	{"1 Samuel_ch_30.docx": [4412], "1 Chronicles_ch_8.docx": [2698, 2698, 2698]}
-esh	{"1 Samuel_ch_30.docx": [4412], "1 Chronicles_ch_8.docx": [2698, 2698]}
 esh	{"1 Samuel_ch_30.docx": [4412], "1 Chronicles_ch_8.docx": [2698]}

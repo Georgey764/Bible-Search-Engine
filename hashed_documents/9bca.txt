@@ -1,3 +1,2 @@
 
-curren	{"John_ch_2.docx": [1472, 1504, 1504], "Romans_ch_8.docx": [2319, 2319], "1 Peter_ch_1.docx": [2991, 2991], "1 Peter_ch_3.docx": [2863, 2863]}
-curren	{"John_ch_2.docx": [1472, 1504], "Romans_ch_8.docx": [2319], "1 Peter_ch_1.docx": [2991], "1 Peter_ch_3.docx": [2863]}
+curren	{"Esther_ch_10.docx": [4498], "John_ch_2.docx": [1472, 1504], "Romans_ch_8.docx": [2319], "2 Thessalonians_ch_3.docx": [75], "1 Peter_ch_1.docx": [2991], "1 Peter_ch_3.docx": [2863]}

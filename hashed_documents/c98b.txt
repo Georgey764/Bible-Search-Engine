@@ -1,4 +1,2 @@
 
-disso	{"Micah_ch_4.docx": [2896]}
-disso	{"Micah_ch_4.docx": [2896]}
-disso	{"Micah_ch_4.docx": [2896]}
+disso	{"Micah_ch_4.docx": [2896], "Habakkuk_ch_3.docx": [1092], "Zechariah_ch_14.docx": [4775], "2 Peter_ch_3.docx": [1684, 1903]}

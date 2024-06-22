@@ -1,3 +1,0 @@
-
-9they	{"2 Chronicles_ch_17.docx": [1260], "Job_ch_11.docx": [942], "Psalms_ch_10.docx": [938], "Isaiah_ch_31.docx": [1680], "Daniel_ch_3.docx": [1275]}
-6‘thos	{"Matthew_ch_5.docx": [374]}

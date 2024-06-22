@@ -1,7 +1,3 @@
 
-hatc	{"Isaiah_ch_59.docx": [675], "Jeremiah_ch_17.docx": [1738, 1738, 1738], "Hosea_ch_7.docx": [2935, 2935, 2935], "Amos_ch_7.docx": [1885, 1885, 1885]}
-partr	{"Jeremiah_ch_17.docx": [1731]}
-hatc	{"Isaiah_ch_59.docx": [675], "Jeremiah_ch_17.docx": [1738, 1738], "Hosea_ch_7.docx": [2935, 2935], "Amos_ch_7.docx": [1885, 1885]}
-partr	{"Jeremiah_ch_17.docx": [1731]}
 hatc	{"Isaiah_ch_59.docx": [675], "Jeremiah_ch_17.docx": [1738], "Hosea_ch_7.docx": [2935], "Amos_ch_7.docx": [1885]}
 partr	{"Jeremiah_ch_17.docx": [1731]}

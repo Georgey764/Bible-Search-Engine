@@ -1,3 +1,0 @@
-
-21g	{"Genesis_ch_2.docx": [2867], "Exodus_ch_13.docx": [3381], "Numbers_ch_3.docx": [2659]}
-19ple	{"Nehemiah_ch_5.docx": [3652], "Psalms_ch_139.docx": [1822]}

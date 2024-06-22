@@ -1,4 +1,2 @@
 
-nep	{"Genesis_ch_12.docx": [475], "Genesis_ch_14.docx": [1412, 1763, 2270, 1412, 1763, 2270, 1412, 1763, 2270], "2 Samuel_ch_23.docx": [1449, 1449, 1449], "1 Kings_ch_4.docx": [1114, 1114, 1114], "2 Kings_ch_11.docx": [145, 145, 145], "Ezra_ch_2.docx": [2023, 2023, 2023], "Nehemiah_ch_7.docx": [3076, 3076, 3076], "Acts_ch_23.docx": [2880, 3126, 2880, 3126]}
-nep	{"Genesis_ch_12.docx": [475], "Genesis_ch_14.docx": [1412, 1763, 2270, 1412, 1763, 2270], "2 Samuel_ch_23.docx": [1449, 1449], "1 Kings_ch_4.docx": [1114, 1114], "2 Kings_ch_11.docx": [145, 145], "Ezra_ch_2.docx": [2023, 2023], "Nehemiah_ch_7.docx": [3076, 3076], "Acts_ch_23.docx": [2880, 3126]}
 nep	{"Genesis_ch_12.docx": [475], "Genesis_ch_14.docx": [1412, 1763, 2270], "2 Samuel_ch_23.docx": [1449], "1 Kings_ch_4.docx": [1114], "2 Kings_ch_11.docx": [145], "Ezra_ch_2.docx": [2023], "Nehemiah_ch_7.docx": [3076], "Acts_ch_23.docx": [2880, 3126]}

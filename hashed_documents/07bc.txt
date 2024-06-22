@@ -1,5 +1,2 @@
 
-zoa	{"Isaiah_ch_15.docx": [795], "Jeremiah_ch_48.docx": [4564, 4564, 4564]}
-2‘ha	{"Job_ch_12.docx": [43]}
-zoa	{"Isaiah_ch_15.docx": [795], "Jeremiah_ch_48.docx": [4564, 4564]}
 zoa	{"Isaiah_ch_15.docx": [795], "Jeremiah_ch_48.docx": [4564]}

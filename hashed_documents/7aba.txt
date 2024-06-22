@@ -1,5 +1,2 @@
 
-vomite	{"Job_ch_20.docx": [1357], "Jonah_ch_2.docx": [1349, 1349, 1349]}
-41c	{"Genesis_ch_36.docx": [4294]}
-vomite	{"Job_ch_20.docx": [1357], "Jonah_ch_2.docx": [1349, 1349]}
 vomite	{"Job_ch_20.docx": [1357], "Jonah_ch_2.docx": [1349]}

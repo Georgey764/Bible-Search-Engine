@@ -1,2 +1,0 @@
-
-22we	{"Genesis_ch_31.docx": [2760], "Exodus_ch_15.docx": [2925], "Joshua_ch_7.docx": [4048], "Joshua_ch_9.docx": [11131], "Judges_ch_6.docx": [4718], "Judges_ch_8.docx": [4277], "Judges_ch_9.docx": [4526], "Judges_ch_19.docx": [3622], "2 Samuel_ch_14.docx": [3627], "Job_ch_1.docx": [3752], "Matthew_ch_12.docx": [2381], "Matthew_ch_22.docx": [2597]}

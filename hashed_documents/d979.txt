@@ -1,5 +1,2 @@
 
-joanna	{"Luke_ch_8.docx": [222]}
-1no	{"Genesis_ch_6.docx": [4], "Genesis_ch_10.docx": [4], "Genesis_ch_37.docx": [4], "Genesis_ch_42.docx": [4], "Exodus_ch_2.docx": [4], "Numbers_ch_32.docx": [58], "Joshua_ch_17.docx": [4], "Judges_ch_19.docx": [4], "2 Samuel_ch_14.docx": [5], "1 Chronicles_ch_27.docx": [5], "Ezra_ch_8.docx": [4], "Matthew_ch_11.docx": [4]}
-9‘nor	{"Matthew_ch_23.docx": [914]}
-joanna	{"Luke_ch_8.docx": [222]}
+joanna	{"Luke_ch_8.docx": [222], "Luke_ch_24.docx": [979]}

@@ -1,6 +1,3 @@
 
-arai	{"2 Samuel_ch_23.docx": [4714], "Nehemiah_ch_10.docx": [127, 127]}
-annoye	{"Acts_ch_4.docx": [30]}
-arai	{"2 Samuel_ch_23.docx": [4714], "Nehemiah_ch_10.docx": [127]}
 arai	{"2 Samuel_ch_23.docx": [4714], "Nehemiah_ch_10.docx": [127]}
 annoye	{"Acts_ch_4.docx": [30]}

@@ -1,4 +1,2 @@
 
-zaret	{"Deuteronomy_ch_2.docx": [1878, 1954, 1954, 1954], "1 Kings_ch_7.docx": [6211, 6211, 6211]}
-zaret	{"Deuteronomy_ch_2.docx": [1878, 1954, 1954], "1 Kings_ch_7.docx": [6211, 6211]}
 zaret	{"Deuteronomy_ch_2.docx": [1878, 1954], "1 Kings_ch_7.docx": [6211]}

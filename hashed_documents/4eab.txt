@@ -1,5 +1,2 @@
 
-webs	{"Isaiah_ch_59.docx": [682, 805, 805, 805]}
-21al	{"Exodus_ch_1.docx": [2278], "Joshua_ch_13.docx": [24216], "1 Kings_ch_10.docx": [3186], "Proverbs_ch_16.docx": [2173]}
-webs	{"Isaiah_ch_59.docx": [682, 805, 805]}
 webs	{"Isaiah_ch_59.docx": [682, 805]}

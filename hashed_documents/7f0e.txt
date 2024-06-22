@@ -1,4 +1,2 @@
 
-brav	{"Deuteronomy_ch_20.docx": [1235], "2 Samuel_ch_17.docx": [956, 956, 956], "1 Chronicles_ch_19.docx": [2140, 2140, 2140], "Matthew_ch_14.docx": [3315, 3315, 3315], "Mark_ch_6.docx": [7113, 7113]}
-brav	{"Deuteronomy_ch_20.docx": [1235], "2 Samuel_ch_17.docx": [956, 956], "1 Chronicles_ch_19.docx": [2140, 2140], "Matthew_ch_14.docx": [3315, 3315], "Mark_ch_6.docx": [7113]}
 brav	{"Deuteronomy_ch_20.docx": [1235], "2 Samuel_ch_17.docx": [956], "1 Chronicles_ch_19.docx": [2140], "Matthew_ch_14.docx": [3315], "Mark_ch_6.docx": [7113]}

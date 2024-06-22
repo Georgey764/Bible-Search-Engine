@@ -1,8 +1,3 @@
 
 germ	{"Genesis_ch_10.docx": [388]}
-judai	{"Esther_ch_8.docx": [2725], "Galatians_ch_1.docx": [1609, 1755, 1609, 1755]}
-germ	{"Genesis_ch_10.docx": [388]}
-10whil	{"Deuteronomy_ch_5.docx": [962], "Psalms_ch_73.docx": [799]}
-judai	{"Esther_ch_8.docx": [2725], "Galatians_ch_1.docx": [1609, 1755]}
-germ	{"Genesis_ch_10.docx": [388]}
-judai	{"Esther_ch_8.docx": [2725], "Galatians_ch_1.docx": [1609, 1755]}
+judai	{"Judges_ch_21.docx": [4034], "Esther_ch_8.docx": [2725], "Zechariah_ch_14.docx": [4768], "Galatians_ch_1.docx": [1609, 1755]}

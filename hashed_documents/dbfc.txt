@@ -1,4 +1,2 @@
 
-dul	{"Proverbs_ch_12.docx": [744], "Proverbs_ch_22.docx": [2929, 2929, 2929], "Mark_ch_3.docx": [563, 563], "Mark_ch_6.docx": [7233, 7233], "Mark_ch_8.docx": [2131, 2131]}
-dul	{"Proverbs_ch_12.docx": [744], "Proverbs_ch_22.docx": [2929, 2929], "Mark_ch_3.docx": [563], "Mark_ch_6.docx": [7233], "Mark_ch_8.docx": [2131]}
 dul	{"Proverbs_ch_12.docx": [744], "Proverbs_ch_22.docx": [2929], "Mark_ch_3.docx": [563], "Mark_ch_6.docx": [7233], "Mark_ch_8.docx": [2131]}

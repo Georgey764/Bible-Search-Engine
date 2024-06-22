@@ -1,4 +1,2 @@
 
-nas	{"Numbers_ch_2.docx": [386], "Joshua_ch_15.docx": [5096, 5096, 5096], "1 Kings_ch_4.docx": [1993, 1993, 1993], "Matthew_ch_1.docx": [319, 344, 319, 344, 319, 344], "Colossians_ch_3.docx": [2367, 2367], "Revelation_ch_21.docx": [1095, 1095]}
-nas	{"Numbers_ch_2.docx": [386], "Joshua_ch_15.docx": [5096, 5096], "1 Kings_ch_4.docx": [1993, 1993], "Matthew_ch_1.docx": [319, 344, 319, 344], "Colossians_ch_3.docx": [2367], "Revelation_ch_21.docx": [1095]}
-nas	{"Numbers_ch_2.docx": [386], "Joshua_ch_15.docx": [5096], "1 Kings_ch_4.docx": [1993], "Matthew_ch_1.docx": [319, 344], "Colossians_ch_3.docx": [2367], "Revelation_ch_21.docx": [1095]}
+nas	{"Numbers_ch_2.docx": [386], "Joshua_ch_15.docx": [5096], "Ruth_ch_4.docx": [3630, 3659], "1 Kings_ch_4.docx": [1993], "Matthew_ch_1.docx": [319, 344], "Colossians_ch_3.docx": [2367], "Revelation_ch_21.docx": [1095]}

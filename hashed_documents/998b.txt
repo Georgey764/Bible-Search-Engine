@@ -1,2 +1,0 @@
-
-2there	{"1 Samuel_ch_2.docx": [306], "1 Kings_ch_2.docx": [115], "2 Chronicles_ch_5.docx": [220]}

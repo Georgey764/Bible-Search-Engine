@@ -1,5 +1,2 @@
 
-flatt	{"Deuteronomy_ch_29.docx": [2447], "Proverbs_ch_27.docx": [430, 430, 430], "Proverbs_ch_28.docx": [2172, 2172, 2172], "Isaiah_ch_40.docx": [458, 458, 458], "Isaiah_ch_49.docx": [2732, 2732, 2732], "Ezekiel_ch_41.docx": [667, 667, 667], "1 Thessalonians_ch_2.docx": [574, 574]}
-7ar	{"Genesis_ch_34.docx": [503], "Psalms_ch_3.docx": [545]}
-flatt	{"Deuteronomy_ch_29.docx": [2447], "Proverbs_ch_27.docx": [430, 430], "Proverbs_ch_28.docx": [2172, 2172], "Isaiah_ch_40.docx": [458, 458], "Isaiah_ch_49.docx": [2732, 2732], "Ezekiel_ch_41.docx": [667, 667], "1 Thessalonians_ch_2.docx": [574]}
 flatt	{"Deuteronomy_ch_29.docx": [2447], "Proverbs_ch_27.docx": [430], "Proverbs_ch_28.docx": [2172], "Isaiah_ch_40.docx": [458], "Isaiah_ch_49.docx": [2732], "Ezekiel_ch_41.docx": [667], "1 Thessalonians_ch_2.docx": [574]}

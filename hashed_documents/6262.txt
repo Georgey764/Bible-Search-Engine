@@ -1,4 +1,2 @@
 
-guidin	{"Ezekiel_ch_11.docx": [58], "Ezekiel_ch_44.docx": [316, 316, 316], "Ezekiel_ch_46.docx": [257, 1410, 2301, 3099, 3488, 257, 1410, 2301, 3099, 3488, 257, 1410, 2301, 3099, 3488]}
-guidin	{"Ezekiel_ch_11.docx": [58], "Ezekiel_ch_44.docx": [316, 316], "Ezekiel_ch_46.docx": [257, 1410, 2301, 3099, 3488, 257, 1410, 2301, 3099, 3488]}
 guidin	{"Ezekiel_ch_11.docx": [58], "Ezekiel_ch_44.docx": [316], "Ezekiel_ch_46.docx": [257, 1410, 2301, 3099, 3488]}

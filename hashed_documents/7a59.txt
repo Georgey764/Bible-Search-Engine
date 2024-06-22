@@ -1,5 +1,2 @@
 
-golia	{"1 Samuel_ch_17.docx": [433, 3199, 6360, 7980, 3199, 6360, 7980, 3199, 6360, 7980], "1 Samuel_ch_21.docx": [1334, 1334, 1334], "1 Samuel_ch_22.docx": [1529, 1529, 1529], "2 Samuel_ch_21.docx": [3695, 3695, 3695], "1 Chronicles_ch_20.docx": [1027, 1027, 1027], "Psalms_ch_144.docx": [9, 9, 9]}
-8fr	{"Numbers_ch_13.docx": [613], "Joshua_ch_16.docx": [693], "Ezra_ch_8.docx": [833], "Psalms_ch_72.docx": [640], "Psalms_ch_76.docx": [674], "Proverbs_ch_5.docx": [680], "Proverbs_ch_14.docx": [675]}
-golia	{"1 Samuel_ch_17.docx": [433, 3199, 6360, 7980, 3199, 6360, 7980], "1 Samuel_ch_21.docx": [1334, 1334], "1 Samuel_ch_22.docx": [1529, 1529], "2 Samuel_ch_21.docx": [3695, 3695], "1 Chronicles_ch_20.docx": [1027, 1027], "Psalms_ch_144.docx": [9, 9]}
-golia	{"1 Samuel_ch_17.docx": [433, 3199, 6360, 7980], "1 Samuel_ch_21.docx": [1334], "1 Samuel_ch_22.docx": [1529], "2 Samuel_ch_21.docx": [3695], "1 Chronicles_ch_20.docx": [1027], "Psalms_ch_144.docx": [9]}
+golia	{"Ruth_ch_4.docx": [4497], "1 Samuel_ch_17.docx": [433, 3199, 6360, 7980], "1 Samuel_ch_21.docx": [1334], "1 Samuel_ch_22.docx": [1529], "2 Samuel_ch_21.docx": [3695], "1 Chronicles_ch_20.docx": [1027], "Psalms_ch_144.docx": [9]}

@@ -1,4 +1,2 @@
 
-pes	{"Proverbs_ch_23.docx": [2886], "Ezekiel_ch_7.docx": [3528, 3528, 3528], "Ezekiel_ch_28.docx": [804, 804, 804], "Ezekiel_ch_30.docx": [1345, 1345, 1345], "Ezekiel_ch_31.docx": [1873, 1873, 1873], "Ezekiel_ch_32.docx": [1953, 1953, 1953]}
-pes	{"Proverbs_ch_23.docx": [2886], "Ezekiel_ch_7.docx": [3528, 3528], "Ezekiel_ch_28.docx": [804, 804], "Ezekiel_ch_30.docx": [1345, 1345], "Ezekiel_ch_31.docx": [1873, 1873], "Ezekiel_ch_32.docx": [1953, 1953]}
 pes	{"Proverbs_ch_23.docx": [2886], "Ezekiel_ch_7.docx": [3528], "Ezekiel_ch_28.docx": [804], "Ezekiel_ch_30.docx": [1345], "Ezekiel_ch_31.docx": [1873], "Ezekiel_ch_32.docx": [1953]}

@@ -1,4 +1,2 @@
 
-jezie	{"Joshua_ch_17.docx": [354], "1 Chronicles_ch_12.docx": [630, 630, 630], "1 Chronicles_ch_23.docx": [2016, 2016, 2016]}
-jezie	{"Joshua_ch_17.docx": [354], "1 Chronicles_ch_12.docx": [630, 630], "1 Chronicles_ch_23.docx": [2016, 2016]}
 jezie	{"Joshua_ch_17.docx": [354], "1 Chronicles_ch_12.docx": [630], "1 Chronicles_ch_23.docx": [2016]}

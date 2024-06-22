@@ -1,4 +1,2 @@
 
-scorn!	{"Job_ch_19.docx": [614], "Isaiah_ch_4.docx": [204, 204, 204]}
-scorn!	{"Job_ch_19.docx": [614], "Isaiah_ch_4.docx": [204, 204]}
 scorn!	{"Job_ch_19.docx": [614], "Isaiah_ch_4.docx": [204]}

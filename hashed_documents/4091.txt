@@ -1,4 +1,2 @@
 
-ebron	{"Numbers_ch_33.docx": [2517, 2560, 2560, 2560]}
-ebron	{"Numbers_ch_33.docx": [2517, 2560, 2560]}
 ebron	{"Numbers_ch_33.docx": [2517, 2560]}

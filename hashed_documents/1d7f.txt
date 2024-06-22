@@ -1,4 +1,2 @@
 
-rabbi!	{"Matthew_ch_26.docx": [5859], "Mark_ch_14.docx": [5956, 5956]}
-154	{"Psalms_ch_119.docx": [12966]}
 rabbi!	{"Matthew_ch_26.docx": [5859], "Mark_ch_14.docx": [5956]}

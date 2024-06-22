@@ -1,4 +1,2 @@
 
-sin-of	{"Leviticus_ch_8.docx": [1542], "Numbers_ch_5.docx": [920, 920, 920], "Daniel_ch_8.docx": [1676, 1676, 1676]}
-sin-of	{"Leviticus_ch_8.docx": [1542], "Numbers_ch_5.docx": [920, 920], "Daniel_ch_8.docx": [1676, 1676]}
 sin-of	{"Leviticus_ch_8.docx": [1542], "Numbers_ch_5.docx": [920], "Daniel_ch_8.docx": [1676]}

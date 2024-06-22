@@ -1,5 +1,2 @@
 
-kiso	{"Joshua_ch_19.docx": [1593], "Joshua_ch_21.docx": [3525, 3525, 3525], "Judges_ch_5.docx": [3103, 3151, 3103, 3151, 3103, 3151]}
-23aie	{"Joshua_ch_18.docx": [3341]}
-kiso	{"Joshua_ch_19.docx": [1593], "Joshua_ch_21.docx": [3525, 3525], "Judges_ch_5.docx": [3103, 3151, 3103, 3151]}
 kiso	{"Joshua_ch_19.docx": [1593], "Joshua_ch_21.docx": [3525], "Judges_ch_5.docx": [3103, 3151]}

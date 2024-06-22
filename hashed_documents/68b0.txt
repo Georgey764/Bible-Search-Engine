@@ -1,7 +1,3 @@
 
 phiso	{"Genesis_ch_2.docx": [1595]}
 hatche	{"Hosea_ch_7.docx": [2935]}
-phiso	{"Genesis_ch_2.docx": [1595]}
-hatche	{"Hosea_ch_7.docx": [2935]}
-phiso	{"Genesis_ch_2.docx": [1595]}
-hatche	{"Hosea_ch_7.docx": [2935]}

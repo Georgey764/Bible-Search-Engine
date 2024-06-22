@@ -1,2 +1,0 @@
-
-14‘fo	{"Numbers_ch_27.docx": [1760], "1 Kings_ch_17.docx": [1838], "2 Kings_ch_1.docx": [2742], "Job_ch_5.docx": [1177], "Song of Solomon_ch_1.docx": [1854], "Isaiah_ch_49.docx": [3188], "Jeremiah_ch_25.docx": [2456], "Jeremiah_ch_51.docx": [2308], "Ezekiel_ch_6.docx": [2352], "Ezekiel_ch_24.docx": [1876], "Ezekiel_ch_25.docx": [2241], "Zephaniah_ch_1.docx": [2498], "Matthew_ch_6.docx": [1849], "Matthew_ch_22.docx": [1650], "Matthew_ch_24.docx": [1450]}

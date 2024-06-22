@@ -1,3 +1,2 @@
 
-vot	{"Mark_ch_14.docx": [8232], "Acts_ch_26.docx": [2367, 2367]}
 vot	{"Mark_ch_14.docx": [8232], "Acts_ch_26.docx": [2367]}

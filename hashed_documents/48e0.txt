@@ -1,4 +1,2 @@
 
-overca	{"Genesis_ch_43.docx": [4186], "Psalms_ch_55.docx": [459, 459, 459], "Matthew_ch_16.docx": [197, 197, 197]}
-overca	{"Genesis_ch_43.docx": [4186], "Psalms_ch_55.docx": [459, 459], "Matthew_ch_16.docx": [197, 197]}
 overca	{"Genesis_ch_43.docx": [4186], "Psalms_ch_55.docx": [459], "Matthew_ch_16.docx": [197]}

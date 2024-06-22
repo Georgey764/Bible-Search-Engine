@@ -1,4 +1,2 @@
 
-amu	{"Ecclesiastes_ch_2.docx": [1095], "Ecclesiastes_ch_3.docx": [781, 781, 781], "Ecclesiastes_ch_5.docx": [3051, 3051, 3051], "Jeremiah_ch_46.docx": [4055, 4055, 4055]}
-amu	{"Ecclesiastes_ch_2.docx": [1095], "Ecclesiastes_ch_3.docx": [781, 781], "Ecclesiastes_ch_5.docx": [3051, 3051], "Jeremiah_ch_46.docx": [4055, 4055]}
-amu	{"Ecclesiastes_ch_2.docx": [1095], "Ecclesiastes_ch_3.docx": [781], "Ecclesiastes_ch_5.docx": [3051], "Jeremiah_ch_46.docx": [4055]}
+amu	{"Ecclesiastes_ch_2.docx": [1095], "Ecclesiastes_ch_3.docx": [781], "Ecclesiastes_ch_5.docx": [3051], "Jeremiah_ch_46.docx": [4055], "Nahum_ch_3.docx": [1328]}

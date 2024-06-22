@@ -1,4 +1,2 @@
 
-lifes	{"Matthew_ch_6.docx": [3821], "2 Peter_ch_2.docx": [2955, 2955]}
-lifes	{"Matthew_ch_6.docx": [3821], "2 Peter_ch_2.docx": [2955]}
 lifes	{"Matthew_ch_6.docx": [3821], "2 Peter_ch_2.docx": [2955]}

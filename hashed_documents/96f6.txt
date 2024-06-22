@@ -1,4 +1,2 @@
 
-cance	{"Numbers_ch_30.docx": [1772, 2312, 2312, 2312], "Deuteronomy_ch_15.docx": [11, 98, 121, 288, 11, 98, 121, 288, 11, 98, 121, 288], "Matthew_ch_18.docx": [4298, 4298, 4298], "Hebrews_ch_10.docx": [2258, 2264, 2258, 2264]}
-cance	{"Numbers_ch_30.docx": [1772, 2312, 2312], "Deuteronomy_ch_15.docx": [11, 98, 121, 288, 11, 98, 121, 288], "Matthew_ch_18.docx": [4298, 4298], "Hebrews_ch_10.docx": [2258, 2264]}
 cance	{"Numbers_ch_30.docx": [1772, 2312], "Deuteronomy_ch_15.docx": [11, 98, 121, 288], "Matthew_ch_18.docx": [4298], "Hebrews_ch_10.docx": [2258, 2264]}

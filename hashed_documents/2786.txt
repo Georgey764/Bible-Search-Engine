@@ -1,4 +1,2 @@
 
-ejacu	{"Leviticus_ch_15.docx": [2274, 4567, 4680, 4567, 4680, 4567, 4680], "Leviticus_ch_22.docx": [573, 573, 573]}
-ejacu	{"Leviticus_ch_15.docx": [2274, 4567, 4680, 4567, 4680], "Leviticus_ch_22.docx": [573, 573]}
 ejacu	{"Leviticus_ch_15.docx": [2274, 4567, 4680], "Leviticus_ch_22.docx": [573]}

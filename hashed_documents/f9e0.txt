@@ -1,4 +1,2 @@
 
-lof	{"1 Kings_ch_9.docx": [1333], "Job_ch_41.docx": [3069, 3069, 3069], "Psalms_ch_131.docx": [135, 135, 135], "Isaiah_ch_2.docx": [1606, 1606, 1606], "Isaiah_ch_6.docx": [20, 20, 20], "Ezekiel_ch_31.docx": [2048, 2048, 2048]}
-lof	{"1 Kings_ch_9.docx": [1333], "Job_ch_41.docx": [3069, 3069], "Psalms_ch_131.docx": [135, 135], "Isaiah_ch_2.docx": [1606, 1606], "Isaiah_ch_6.docx": [20, 20], "Ezekiel_ch_31.docx": [2048, 2048]}
 lof	{"1 Kings_ch_9.docx": [1333], "Job_ch_41.docx": [3069], "Psalms_ch_131.docx": [135], "Isaiah_ch_2.docx": [1606], "Isaiah_ch_6.docx": [20], "Ezekiel_ch_31.docx": [2048]}

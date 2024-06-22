@@ -1,4 +1,2 @@
 
-child;	{"1 Samuel_ch_3.docx": [1265], "Isaiah_ch_44.docx": [12, 12, 12], "Matthew_ch_9.docx": [286, 286, 286]}
-child;	{"1 Samuel_ch_3.docx": [1265], "Isaiah_ch_44.docx": [12, 12], "Matthew_ch_9.docx": [286, 286]}
 child;	{"1 Samuel_ch_3.docx": [1265], "Isaiah_ch_44.docx": [12], "Matthew_ch_9.docx": [286]}

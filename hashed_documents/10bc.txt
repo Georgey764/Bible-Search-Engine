@@ -1,5 +1,2 @@
 
 siphmo	{"1 Samuel_ch_30.docx": [4399]}
-siphmo	{"1 Samuel_ch_30.docx": [4399]}
-34both	{"1 Kings_ch_6.docx": [3958]}
-siphmo	{"1 Samuel_ch_30.docx": [4399]}

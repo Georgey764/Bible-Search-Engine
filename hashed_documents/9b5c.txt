@@ -1,2 +1,0 @@
-
-12al	{"Genesis_ch_36.docx": [1317], "Joshua_ch_4.docx": [1709], "2 Kings_ch_13.docx": [1826], "1 Chronicles_ch_8.docx": [799], "1 Chronicles_ch_10.docx": [1697], "Esther_ch_8.docx": [1727], "Isaiah_ch_64.docx": [1462]}

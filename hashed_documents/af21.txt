@@ -1,4 +1,2 @@
 
-sword;	{"Jeremiah_ch_15.docx": [462], "Jeremiah_ch_31.docx": [201, 201, 201], "Ezekiel_ch_6.docx": [1952, 1952, 1952], "Ezekiel_ch_33.docx": [171, 171, 171]}
-sword;	{"Jeremiah_ch_15.docx": [462], "Jeremiah_ch_31.docx": [201, 201], "Ezekiel_ch_6.docx": [1952, 1952], "Ezekiel_ch_33.docx": [171, 171]}
 sword;	{"Jeremiah_ch_15.docx": [462], "Jeremiah_ch_31.docx": [201], "Ezekiel_ch_6.docx": [1952], "Ezekiel_ch_33.docx": [171]}

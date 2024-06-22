@@ -1,4 +1,2 @@
 
-dressi	{"Lamentations_ch_2.docx": [2245], "Ezekiel_ch_30.docx": [3150, 3150, 3150], "Luke_ch_23.docx": [1201, 1201]}
-dressi	{"Lamentations_ch_2.docx": [2245], "Ezekiel_ch_30.docx": [3150, 3150], "Luke_ch_23.docx": [1201]}
 dressi	{"Lamentations_ch_2.docx": [2245], "Ezekiel_ch_30.docx": [3150], "Luke_ch_23.docx": [1201]}

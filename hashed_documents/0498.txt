@@ -1,4 +1,2 @@
 
-macha	{"Deuteronomy_ch_3.docx": [1973, 2367, 2367, 2367], "Joshua_ch_15.docx": [4425, 4425, 4425], "1 Chronicles_ch_2.docx": [4371, 4371, 4371]}
-macha	{"Deuteronomy_ch_3.docx": [1973, 2367, 2367], "Joshua_ch_15.docx": [4425, 4425], "1 Chronicles_ch_2.docx": [4371, 4371]}
 macha	{"Deuteronomy_ch_3.docx": [1973, 2367], "Joshua_ch_15.docx": [4425], "1 Chronicles_ch_2.docx": [4371]}

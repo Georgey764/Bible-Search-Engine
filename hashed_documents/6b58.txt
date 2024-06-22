@@ -1,4 +1,2 @@
 
-jun	{"1 Kings_ch_6.docx": [3657, 3953, 3953, 3953], "2 Chronicles_ch_2.docx": [1512, 1512, 1512]}
-jun	{"1 Kings_ch_6.docx": [3657, 3953, 3953], "2 Chronicles_ch_2.docx": [1512, 1512]}
-jun	{"1 Kings_ch_6.docx": [3657, 3953], "2 Chronicles_ch_2.docx": [1512]}
+jun	{"1 Kings_ch_6.docx": [3657, 3953], "2 Chronicles_ch_2.docx": [1512], "Hosea_ch_14.docx": [1407], "Romans_ch_16.docx": [1077]}

@@ -1,4 +1,2 @@
 
-co-wo	{"2 Corinthians_ch_8.docx": [3143], "Philippians_ch_2.docx": [3012, 3012]}
-5‘befo	{"Nahum_ch_1.docx": [1294]}
-co-wo	{"2 Corinthians_ch_8.docx": [3143], "Philippians_ch_2.docx": [3012]}
+co-wo	{"2 Corinthians_ch_8.docx": [3143], "Philippians_ch_2.docx": [3012], "Philemon_ch_1.docx": [2817]}

@@ -1,5 +1,2 @@
 
-mercen	{"Judges_ch_8.docx": [2096], "Jeremiah_ch_51.docx": [511, 511, 511]}
-mercen	{"Judges_ch_8.docx": [2096], "Jeremiah_ch_51.docx": [511, 511]}
-4abi	{"1 Chronicles_ch_8.docx": [215]}
 mercen	{"Judges_ch_8.docx": [2096], "Jeremiah_ch_51.docx": [511]}

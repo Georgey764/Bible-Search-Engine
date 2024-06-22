@@ -1,2 +1,0 @@
-
-17wh	{"Genesis_ch_22.docx": [2461], "Deuteronomy_ch_29.docx": [2015], "Joshua_ch_8.docx": [1351], "1 Kings_ch_5.docx": [2300], "1 Chronicles_ch_11.docx": [2937], "Job_ch_4.docx": [1619], "Psalms_ch_25.docx": [1499], "Psalms_ch_50.docx": [1569], "Psalms_ch_51.docx": [1758], "Song of Solomon_ch_1.docx": [2172]}

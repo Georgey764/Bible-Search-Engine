@@ -1,7 +1,3 @@
 
  46t	{"1 Chronicles_ch_1.docx": [3849]}
  rap	{"1 Chronicles_ch_8.docx": [2496]}
- 46t	{"1 Chronicles_ch_1.docx": [3849]}
- rap	{"1 Chronicles_ch_8.docx": [2496]}
- 46t	{"1 Chronicles_ch_1.docx": [3849]}
- rap	{"1 Chronicles_ch_8.docx": [2496]}

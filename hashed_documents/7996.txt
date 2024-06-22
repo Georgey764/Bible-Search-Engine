@@ -1,5 +1,2 @@
 
 novice	{"1 Chronicles_ch_25.docx": [1353]}
-48‘fo	{"2 Samuel_ch_22.docx": [4493]}
-novice	{"1 Chronicles_ch_25.docx": [1353]}
-novice	{"1 Chronicles_ch_25.docx": [1353]}

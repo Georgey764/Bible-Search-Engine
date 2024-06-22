@@ -1,10 +1,4 @@
 
-bonda	{"Leviticus_ch_26.docx": [4603], "2 Kings_ch_13.docx": [571, 571, 571], "Job_ch_39.docx": [442, 442, 442], "Ezekiel_ch_4.docx": [1191, 1191, 1191], "Luke_ch_13.docx": [2090, 2090], "Romans_ch_8.docx": [1862, 2512, 1862, 2512]}
-ressan	{"Numbers_ch_33.docx": [1884, 1927, 1927, 1927]}
-demon!	{"Matthew_ch_11.docx": [1998], "Luke_ch_7.docx": [4789, 4789]}
-bonda	{"Leviticus_ch_26.docx": [4603], "2 Kings_ch_13.docx": [571, 571], "Job_ch_39.docx": [442, 442], "Ezekiel_ch_4.docx": [1191, 1191], "Luke_ch_13.docx": [2090], "Romans_ch_8.docx": [1862, 2512]}
-ressan	{"Numbers_ch_33.docx": [1884, 1927, 1927]}
-demon!	{"Matthew_ch_11.docx": [1998], "Luke_ch_7.docx": [4789]}
-bonda	{"Leviticus_ch_26.docx": [4603], "2 Kings_ch_13.docx": [571], "Job_ch_39.docx": [442], "Ezekiel_ch_4.docx": [1191], "Luke_ch_13.docx": [2090], "Romans_ch_8.docx": [1862, 2512]}
+bonda	{"Leviticus_ch_26.docx": [4603], "2 Kings_ch_13.docx": [571], "Esther_ch_10.docx": [1247], "Job_ch_39.docx": [442], "Ezekiel_ch_4.docx": [1191], "Luke_ch_13.docx": [2090], "Romans_ch_8.docx": [1862, 2512], "1 Timothy_ch_6.docx": [10]}
 ressan	{"Numbers_ch_33.docx": [1884, 1927]}
 demon!	{"Matthew_ch_11.docx": [1998], "Luke_ch_7.docx": [4789]}

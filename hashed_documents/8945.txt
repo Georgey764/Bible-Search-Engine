@@ -1,2 +1,0 @@
-
-12m	{"1 Chronicles_ch_22.docx": [1900], "Job_ch_31.docx": [1068], "Psalms_ch_36.docx": [1195], "Psalms_ch_109.docx": [948], "Psalms_ch_119.docx": [827], "Jeremiah_ch_37.docx": [1647]}

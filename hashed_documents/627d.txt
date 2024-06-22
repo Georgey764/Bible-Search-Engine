@@ -1,5 +1,2 @@
 
-joiad	{"Nehemiah_ch_12.docx": [531, 768, 795, 2025, 768, 2025, 768, 795, 2025]}
-2‘t	{"Exodus_ch_12.docx": [135], "Exodus_ch_14.docx": [50], "Exodus_ch_26.docx": [183], "Leviticus_ch_3.docx": [194], "Leviticus_ch_7.docx": [121], "Leviticus_ch_14.docx": [63], "Leviticus_ch_24.docx": [63], "Numbers_ch_1.docx": [217], "Numbers_ch_4.docx": [70], "Numbers_ch_9.docx": [166], "Numbers_ch_17.docx": [61], "Numbers_ch_19.docx": [71], "Numbers_ch_26.docx": [115], "Numbers_ch_34.docx": [194], "Deuteronomy_ch_9.docx": [230], "Deuteronomy_ch_18.docx": [199], "Deuteronomy_ch_30.docx": [246], "2 Samuel_ch_23.docx": [245], "Job_ch_11.docx": [57], "Job_ch_16.docx": [42], "Ecclesiastes_ch_2.docx": [164], "Ecclesiastes_ch_3.docx": [88], "Ecclesiastes_ch_10.docx": [115], "Isaiah_ch_8.docx": [205], "Isaiah_ch_9.docx": [190], "Isaiah_ch_17.docx": [170], "Isaiah_ch_31.docx": [320], "Isaiah_ch_62.docx": [184], "Ezekiel_ch_45.docx": [245], "Hosea_ch_7.docx": [291], "Micah_ch_2.docx": [197], "Micah_ch_5.docx": [277], "Matthew_ch_22.docx": [69]}
-joiad	{"Nehemiah_ch_12.docx": [531, 768, 2025, 768, 795, 2025]}
-joiad	{"Nehemiah_ch_12.docx": [531, 768, 795, 2025]}
+joiad	{"Nehemiah_ch_12.docx": [531, 768, 795, 2025], "Nehemiah_ch_13.docx": [4992]}

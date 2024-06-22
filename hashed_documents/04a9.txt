@@ -1,2 +1,0 @@
-
-16who	{"2 Samuel_ch_3.docx": [2212], "1 Chronicles_ch_22.docx": [2643], "Job_ch_22.docx": [1395], "Psalms_ch_94.docx": [1356]}

@@ -1,7 +1,3 @@
 
-ashken	{"Genesis_ch_10.docx": [387], "1 Chronicles_ch_1.docx": [321, 321, 321], "Jeremiah_ch_51.docx": [4526, 4526, 4526]}
-athat	{"1 Chronicles_ch_4.docx": [1484]}
-ashken	{"Genesis_ch_10.docx": [387], "1 Chronicles_ch_1.docx": [321, 321], "Jeremiah_ch_51.docx": [4526, 4526]}
-athat	{"1 Chronicles_ch_4.docx": [1484]}
 ashken	{"Genesis_ch_10.docx": [387], "1 Chronicles_ch_1.docx": [321], "Jeremiah_ch_51.docx": [4526]}
 athat	{"1 Chronicles_ch_4.docx": [1484]}

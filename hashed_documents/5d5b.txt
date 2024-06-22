@@ -1,5 +1,2 @@
 
-foods	{"Matthew_ch_11.docx": [2007], "Revelation_ch_18.docx": [2526, 2526]}
-9:2	{"Leviticus_ch_1.docx": [21]}
-foods	{"Matthew_ch_11.docx": [2007], "Revelation_ch_18.docx": [2526]}
 foods	{"Matthew_ch_11.docx": [2007], "Revelation_ch_18.docx": [2526]}

@@ -1,4 +1,2 @@
 
-idl	{"Exodus_ch_5.docx": [1316], "Proverbs_ch_13.docx": [387, 387, 387], "Proverbs_ch_19.docx": [1381, 1381, 1381], "Ecclesiastes_ch_10.docx": [2017, 2017, 2017]}
-idl	{"Exodus_ch_5.docx": [1316], "Proverbs_ch_13.docx": [387, 387], "Proverbs_ch_19.docx": [1381, 1381], "Ecclesiastes_ch_10.docx": [2017, 2017]}
-idl	{"Exodus_ch_5.docx": [1316], "Proverbs_ch_13.docx": [387], "Proverbs_ch_19.docx": [1381], "Ecclesiastes_ch_10.docx": [2017]}
+idl	{"Exodus_ch_5.docx": [1316], "Proverbs_ch_13.docx": [387], "Proverbs_ch_19.docx": [1381], "Ecclesiastes_ch_10.docx": [2017], "2 Thessalonians_ch_3.docx": [1459, 1474]}

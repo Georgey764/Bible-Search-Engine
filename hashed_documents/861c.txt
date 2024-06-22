@@ -1,4 +1,3 @@
 
 decam	{"Numbers_ch_2.docx": [10]}
-decam	{"Numbers_ch_2.docx": [10]}
-decam	{"Numbers_ch_2.docx": [10]}
+denom	{"2 Chronicles_ch_36.docx": [6081]}

@@ -1,5 +1,2 @@
 
 ingr	{"Exodus_ch_25.docx": [642]}
-ingr	{"Exodus_ch_25.docx": [642]}
-171th	{"Psalms_ch_119.docx": [14487]}
-ingr	{"Exodus_ch_25.docx": [642]}

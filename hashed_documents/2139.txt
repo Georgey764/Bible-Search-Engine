@@ -1,4 +1,2 @@
 
-argo	{"Deuteronomy_ch_3.docx": [582, 1664, 1964, 1664, 1964, 1664, 1964], "Joshua_ch_14.docx": [2095, 2095, 2095], "2 Kings_ch_15.docx": [3563, 3563, 3563]}
-argo	{"Deuteronomy_ch_3.docx": [582, 1664, 1964, 1664, 1964], "Joshua_ch_14.docx": [2095, 2095], "2 Kings_ch_15.docx": [3563, 3563]}
 argo	{"Deuteronomy_ch_3.docx": [582, 1664, 1964], "Joshua_ch_14.docx": [2095], "2 Kings_ch_15.docx": [3563]}

@@ -1,4 +1,2 @@
 
-orderl	{"Ezekiel_ch_33.docx": [3097], "1 Corinthians_ch_14.docx": [5306, 5306], "Colossians_ch_2.docx": [1166, 1166], "1 Timothy_ch_3.docx": [214, 214]}
-orderl	{"Ezekiel_ch_33.docx": [3097], "1 Corinthians_ch_14.docx": [5306], "Colossians_ch_2.docx": [1166], "1 Timothy_ch_3.docx": [214]}
 orderl	{"Ezekiel_ch_33.docx": [3097], "1 Corinthians_ch_14.docx": [5306], "Colossians_ch_2.docx": [1166], "1 Timothy_ch_3.docx": [214]}

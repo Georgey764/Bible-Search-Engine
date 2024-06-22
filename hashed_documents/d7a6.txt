@@ -3,11 +3,3 @@ eli	{"1 Chronicles_ch_11.docx": [5369, 5629]}
 eli	{"1 Chronicles_ch_12.docx": [1343]}
 eli	{"1 Chronicles_ch_12.docx": [1387]}
 eli	{"1 Chronicles_ch_23.docx": [1706]}
-eli	{"1 Chronicles_ch_11.docx": [5369, 5629]}
-eli	{"1 Chronicles_ch_12.docx": [1343]}
-eli	{"1 Chronicles_ch_12.docx": [1387]}
-eli	{"1 Chronicles_ch_23.docx": [1706]}
-eli	{"1 Chronicles_ch_11.docx": [5369, 5629]}
-eli	{"1 Chronicles_ch_12.docx": [1343]}
-eli	{"1 Chronicles_ch_12.docx": [1387]}
-eli	{"1 Chronicles_ch_23.docx": [1706]}

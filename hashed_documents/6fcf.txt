@@ -1,5 +1,2 @@
 
-jarimo	{"1 Chronicles_ch_12.docx": [694], "1 Chronicles_ch_24.docx": [2973, 2973, 2973]}
-14‘w	{"Deuteronomy_ch_32.docx": [1813], "Job_ch_15.docx": [1196], "Psalms_ch_50.docx": [1253], "Isaiah_ch_1.docx": [2314], "Jeremiah_ch_18.docx": [1750], "Hosea_ch_13.docx": [1896], "Joel_ch_2.docx": [2412], "Matthew_ch_10.docx": [1590], "Matthew_ch_23.docx": [1484]}
-jarimo	{"1 Chronicles_ch_12.docx": [694], "1 Chronicles_ch_24.docx": [2973, 2973]}
 jarimo	{"1 Chronicles_ch_12.docx": [694], "1 Chronicles_ch_24.docx": [2973]}

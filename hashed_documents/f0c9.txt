@@ -1,5 +1,2 @@
 
-mna	{"Acts_ch_13.docx": [94], "Acts_ch_21.docx": [5048, 5075, 5103, 5048, 5075, 5103]}
-19ga	{"1 Kings_ch_4.docx": [1964]}
-10la	{"Psalms_ch_55.docx": [938]}
 mna	{"Acts_ch_13.docx": [94], "Acts_ch_21.docx": [5048, 5075, 5103]}

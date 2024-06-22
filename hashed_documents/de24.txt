@@ -1,4 +1,2 @@
 
-uncult	{"Isaiah_ch_5.docx": [949], "Isaiah_ch_7.docx": [3567, 3567, 3567]}
-uncult	{"Isaiah_ch_5.docx": [949], "Isaiah_ch_7.docx": [3567, 3567]}
 uncult	{"Isaiah_ch_5.docx": [949], "Isaiah_ch_7.docx": [3567]}

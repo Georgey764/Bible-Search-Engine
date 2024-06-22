@@ -1,7 +1,3 @@
 
-allott	{"Numbers_ch_26.docx": [5395], "Joshua_ch_1.docx": [2346, 2346, 2346]}
-pepp	{"Isaiah_ch_28.docx": [3886, 4086, 4172, 4086, 4172, 4086, 4172]}
-allott	{"Numbers_ch_26.docx": [5395], "Joshua_ch_1.docx": [2346, 2346]}
-pepp	{"Isaiah_ch_28.docx": [3886, 4086, 4172, 4086, 4172]}
 allott	{"Numbers_ch_26.docx": [5395], "Joshua_ch_1.docx": [2346]}
 pepp	{"Isaiah_ch_28.docx": [3886, 4086, 4172]}

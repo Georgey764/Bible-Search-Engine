@@ -1,4 +1,2 @@
 
-peacea	{"Genesis_ch_34.docx": [2531], "Romans_ch_12.docx": [2085, 2085], "1 Timothy_ch_3.docx": [443, 443], "James_ch_3.docx": [2071, 2071]}
-peacea	{"Genesis_ch_34.docx": [2531], "Romans_ch_12.docx": [2085], "1 Timothy_ch_3.docx": [443], "James_ch_3.docx": [2071]}
-peacea	{"Genesis_ch_34.docx": [2531], "Romans_ch_12.docx": [2085], "1 Timothy_ch_3.docx": [443], "James_ch_3.docx": [2071]}
+peacea	{"Genesis_ch_34.docx": [2531], "Romans_ch_12.docx": [2085], "2 Corinthians_ch_13.docx": [1840], "1 Timothy_ch_3.docx": [443], "James_ch_3.docx": [2071]}

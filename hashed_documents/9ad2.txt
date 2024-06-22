@@ -1,5 +1,2 @@
 
 apta	{"Joshua_ch_16.docx": [234]}
-apta	{"Joshua_ch_16.docx": [234]}
-4pov	{"Proverbs_ch_10.docx": [266]}
-apta	{"Joshua_ch_16.docx": [234]}

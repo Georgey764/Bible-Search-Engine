@@ -1,7 +1,3 @@
 
  aaro	{"1 Chronicles_ch_23.docx": [1373]}
 tind	{"Ecclesiastes_ch_7.docx": [612]}
- aaro	{"1 Chronicles_ch_23.docx": [1373]}
-tind	{"Ecclesiastes_ch_7.docx": [612]}
- aaro	{"1 Chronicles_ch_23.docx": [1373]}
-tind	{"Ecclesiastes_ch_7.docx": [612]}

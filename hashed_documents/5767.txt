@@ -1,4 +1,2 @@
 
-fare	{"2 Samuel_ch_18.docx": [1117, 5440, 5440, 5440], "Jonah_ch_1.docx": [251, 251, 251]}
-fare	{"2 Samuel_ch_18.docx": [1117, 5440, 5440], "Jonah_ch_1.docx": [251, 251]}
 fare	{"2 Samuel_ch_18.docx": [1117, 5440], "Jonah_ch_1.docx": [251]}

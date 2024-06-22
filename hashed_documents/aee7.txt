@@ -1,10 +1,4 @@
 
-hides	{"Exodus_ch_27.docx": [2434], "Exodus_ch_30.docx": [582, 582, 582], "Numbers_ch_5.docx": [1508, 1508, 1508], "Job_ch_26.docx": [777, 777, 777], "Job_ch_34.docx": [2783, 2783, 2783], "Psalms_ch_27.docx": [740, 740, 740], "Proverbs_ch_26.docx": [1288, 1288, 1288], "Nahum_ch_2.docx": [2185, 2185, 2185], "Zechariah_ch_13.docx": [802, 802, 802], "Luke_ch_8.docx": [2251, 2251], "Luke_ch_11.docx": [4627, 4627]}
-bani;	{"Ezra_ch_2.docx": [746]}
-dibl	{"Jeremiah_ch_48.docx": [2888], "Hosea_ch_1.docx": [496, 496, 496]}
-hides	{"Exodus_ch_27.docx": [2434], "Exodus_ch_30.docx": [582, 582], "Numbers_ch_5.docx": [1508, 1508], "Job_ch_26.docx": [777, 777], "Job_ch_34.docx": [2783, 2783], "Psalms_ch_27.docx": [740, 740], "Proverbs_ch_26.docx": [1288, 1288], "Nahum_ch_2.docx": [2185, 2185], "Zechariah_ch_13.docx": [802, 802], "Luke_ch_8.docx": [2251], "Luke_ch_11.docx": [4627]}
-bani;	{"Ezra_ch_2.docx": [746]}
-dibl	{"Jeremiah_ch_48.docx": [2888], "Hosea_ch_1.docx": [496, 496]}
 hides	{"Exodus_ch_27.docx": [2434], "Exodus_ch_30.docx": [582], "Numbers_ch_5.docx": [1508], "Job_ch_26.docx": [777], "Job_ch_34.docx": [2783], "Psalms_ch_27.docx": [740], "Proverbs_ch_26.docx": [1288], "Nahum_ch_2.docx": [2185], "Zechariah_ch_13.docx": [802], "Luke_ch_8.docx": [2251], "Luke_ch_11.docx": [4627]}
 bani;	{"Ezra_ch_2.docx": [746]}
 dibl	{"Jeremiah_ch_48.docx": [2888], "Hosea_ch_1.docx": [496]}

@@ -1,7 +1,3 @@
 
-wind-b	{"Genesis_ch_41.docx": [2633], "2 Chronicles_ch_6.docx": [4526, 4526, 4526]}
-house–	{"Matthew_ch_13.docx": [6970]}
-wind-b	{"Genesis_ch_41.docx": [2633], "2 Chronicles_ch_6.docx": [4526, 4526]}
-house–	{"Matthew_ch_13.docx": [6970]}
 wind-b	{"Genesis_ch_41.docx": [2633], "2 Chronicles_ch_6.docx": [4526]}
 house–	{"Matthew_ch_13.docx": [6970]}

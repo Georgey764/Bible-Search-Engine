@@ -1,4 +1,2 @@
 
-bante	{"Job_ch_19.docx": [650], "Job_ch_37.docx": [1781, 1781, 1781]}
-bante	{"Job_ch_19.docx": [650], "Job_ch_37.docx": [1781, 1781]}
 bante	{"Job_ch_19.docx": [650], "Job_ch_37.docx": [1781]}

@@ -1,5 +1,2 @@
 
-cara	{"Genesis_ch_37.docx": [3272], "Joshua_ch_17.docx": [1346, 1346, 1346], "Joshua_ch_18.docx": [3376, 3376]}
-cara	{"Genesis_ch_37.docx": [3272], "Joshua_ch_17.docx": [1346, 1346], "Joshua_ch_18.docx": [3376]}
-2‘boaz	{"Ruth_ch_3.docx": [186]}
 cara	{"Genesis_ch_37.docx": [3272], "Joshua_ch_17.docx": [1346], "Joshua_ch_18.docx": [3376]}

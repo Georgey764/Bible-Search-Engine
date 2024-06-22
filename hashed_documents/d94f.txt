@@ -1,3 +1,0 @@
-
-4‘bu	{"Exodus_ch_10.docx": [630], "Exodus_ch_22.docx": [487], "Leviticus_ch_13.docx": [441], "Job_ch_20.docx": [271], "Job_ch_40.docx": [205], "Ecclesiastes_ch_9.docx": [879], "Song of Solomon_ch_3.docx": [538], "Isaiah_ch_49.docx": [646], "Jeremiah_ch_5.docx": [627], "Jeremiah_ch_7.docx": [410], "Ezekiel_ch_19.docx": [295], "Ezekiel_ch_20.docx": [475], "Daniel_ch_11.docx": [592], "Matthew_ch_18.docx": [391]}
-2‘w	{"Leviticus_ch_6.docx": [48], "Job_ch_18.docx": [57], "Job_ch_25.docx": [58], "Job_ch_26.docx": [42], "Job_ch_35.docx": [40], "Job_ch_38.docx": [122], "Ecclesiastes_ch_8.docx": [97], "Isaiah_ch_50.docx": [519], "Isaiah_ch_53.docx": [123], "Isaiah_ch_54.docx": [287], "Isaiah_ch_55.docx": [197], "Zephaniah_ch_1.docx": [211], "Matthew_ch_15.docx": [130]}

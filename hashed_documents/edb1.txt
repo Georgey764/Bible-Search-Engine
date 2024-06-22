@@ -1,4 +1,3 @@
 
-ars	{"Numbers_ch_34.docx": [983, 1072, 1072, 1072], "Joshua_ch_19.docx": [185, 185], "Esther_ch_9.docx": [656, 656, 656]}
-ars	{"Numbers_ch_34.docx": [983, 1072, 1072], "Esther_ch_9.docx": [656, 656], "Joshua_ch_19.docx": [185]}
 ars	{"Numbers_ch_34.docx": [983, 1072], "Joshua_ch_19.docx": [185], "Esther_ch_9.docx": [656]}
+co-e	{"Esther_ch_10.docx": [3702]}

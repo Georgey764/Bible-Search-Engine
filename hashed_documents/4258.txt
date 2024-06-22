@@ -1,4 +1,2 @@
 
-scoop	{"Genesis_ch_18.docx": [776], "Leviticus_ch_6.docx": [1866, 1866, 1866], "2 Kings_ch_7.docx": [108, 120, 3458, 3469, 108, 120, 3458, 3469, 108, 120, 3458, 3469], "Matthew_ch_13.docx": [4512, 4512, 4512], "Luke_ch_13.docx": [2802, 2802]}
-scoop	{"Genesis_ch_18.docx": [776], "Leviticus_ch_6.docx": [1866, 1866], "2 Kings_ch_7.docx": [108, 120, 3458, 3469, 108, 120, 3458, 3469], "Matthew_ch_13.docx": [4512, 4512], "Luke_ch_13.docx": [2802]}
 scoop	{"Genesis_ch_18.docx": [776], "Leviticus_ch_6.docx": [1866], "2 Kings_ch_7.docx": [108, 120, 3458, 3469], "Matthew_ch_13.docx": [4512], "Luke_ch_13.docx": [2802]}

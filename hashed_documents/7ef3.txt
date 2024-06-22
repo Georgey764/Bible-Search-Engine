@@ -1,6 +1,3 @@
 
 batha	{"Joshua_ch_19.docx": [296]}
 hamach	{"2 Samuel_ch_13.docx": [5946]}
-hamach	{"2 Samuel_ch_13.docx": [5946]}
-batha	{"Joshua_ch_19.docx": [296]}
-hamach	{"2 Samuel_ch_13.docx": [5946]}

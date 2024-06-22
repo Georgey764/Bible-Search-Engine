@@ -1,4 +1,2 @@
 
-disple	{"Numbers_ch_22.docx": [4944], "2 Chronicles_ch_20.docx": [5982, 5982, 5982], "Psalms_ch_78.docx": [4748, 4748, 4748], "Proverbs_ch_12.docx": [2001, 2001, 2001], "Proverbs_ch_24.docx": [1733, 1733, 1733], "Mark_ch_14.docx": [775, 775], "Acts_ch_6.docx": [300, 300]}
-disple	{"Numbers_ch_22.docx": [4944], "2 Chronicles_ch_20.docx": [5982, 5982], "Psalms_ch_78.docx": [4748, 4748], "Proverbs_ch_12.docx": [2001, 2001], "Proverbs_ch_24.docx": [1733, 1733], "Mark_ch_14.docx": [775], "Acts_ch_6.docx": [300]}
-disple	{"Numbers_ch_22.docx": [4944], "2 Chronicles_ch_20.docx": [5982], "Psalms_ch_78.docx": [4748], "Proverbs_ch_12.docx": [2001], "Proverbs_ch_24.docx": [1733], "Mark_ch_14.docx": [775], "Acts_ch_6.docx": [300]}
+disple	{"Numbers_ch_22.docx": [4944], "2 Chronicles_ch_20.docx": [5982], "Psalms_ch_78.docx": [4748], "Proverbs_ch_12.docx": [2001], "Proverbs_ch_24.docx": [1733], "Zechariah_ch_14.docx": [4625], "Mark_ch_14.docx": [775], "Acts_ch_6.docx": [300]}

@@ -1,4 +1,2 @@
 
-gabat	{"1 Kings_ch_15.docx": [3945, 3958, 3958, 3958], "1 Kings_ch_16.docx": [2314, 2586, 2314, 2586, 2314, 2586], "1 Chronicles_ch_12.docx": [387, 387, 387]}
-gabat	{"1 Kings_ch_15.docx": [3945, 3958, 3958], "1 Kings_ch_16.docx": [2314, 2586, 2314, 2586], "1 Chronicles_ch_12.docx": [387, 387]}
 gabat	{"1 Kings_ch_15.docx": [3945, 3958], "1 Kings_ch_16.docx": [2314, 2586], "1 Chronicles_ch_12.docx": [387]}

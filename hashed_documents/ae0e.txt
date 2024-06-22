@@ -1,4 +1,2 @@
 
 bug	{"Amos_ch_4.docx": [2288]}
-bug	{"Amos_ch_4.docx": [2288]}
-bug	{"Amos_ch_4.docx": [2288]}

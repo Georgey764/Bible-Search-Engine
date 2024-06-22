@@ -1,6 +1,2 @@
 
 zophim	{"1 Samuel_ch_1.docx": [12]}
-zophim	{"1 Samuel_ch_1.docx": [12]}
-5elio	{"1 Chronicles_ch_12.docx": [682]}
-149in	{"Psalms_ch_119.docx": [12548]}
-zophim	{"1 Samuel_ch_1.docx": [12]}

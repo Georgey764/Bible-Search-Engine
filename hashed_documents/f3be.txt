@@ -1,4 +1,2 @@
 
-holl	{"Exodus_ch_27.docx": [766], "Exodus_ch_38.docx": [669, 669, 669], "Leviticus_ch_13.docx": [4561, 5038, 4561, 5038, 4561, 5038], "Ezekiel_ch_43.docx": [2675, 2675, 2675]}
-holl	{"Exodus_ch_27.docx": [766], "Exodus_ch_38.docx": [669, 669], "Leviticus_ch_13.docx": [4561, 5038, 4561, 5038], "Ezekiel_ch_43.docx": [2675, 2675]}
 holl	{"Exodus_ch_27.docx": [766], "Exodus_ch_38.docx": [669], "Leviticus_ch_13.docx": [4561, 5038], "Ezekiel_ch_43.docx": [2675]}

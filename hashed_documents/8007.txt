@@ -1,2 +1,0 @@
-
-18‘b	{"Genesis_ch_3.docx": [2907], "Genesis_ch_39.docx": [2521], "Numbers_ch_8.docx": [2308], "1 Kings_ch_1.docx": [2447], "Nehemiah_ch_9.docx": [4041], "Proverbs_ch_8.docx": [1505], "Ecclesiastes_ch_10.docx": [1966], "Isaiah_ch_57.docx": [2933], "Jeremiah_ch_38.docx": [3172], "Jeremiah_ch_50.docx": [3337], "Lamentations_ch_2.docx": [3979], "Ezekiel_ch_18.docx": [2647], "Ezekiel_ch_28.docx": [2813], "Matthew_ch_25.docx": [1768]}

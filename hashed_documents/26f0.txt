@@ -1,7 +1,3 @@
 
-today;	{"Exodus_ch_16.docx": [4042], "Deuteronomy_ch_11.docx": [154, 154, 154]}
-pov	{"Job_ch_36.docx": [683], "Proverbs_ch_6.docx": [1164, 1164, 1164], "Proverbs_ch_10.docx": [266, 1430, 1430, 266, 1430], "Proverbs_ch_13.docx": [1944, 1944], "Proverbs_ch_16.docx": [2706, 2706, 2706], "Proverbs_ch_28.docx": [2087, 2087, 2087], "Proverbs_ch_30.docx": [822, 822, 822], "Isaiah_ch_48.docx": [1910, 1910, 1910], "2 Corinthians_ch_8.docx": [74, 1373, 74, 1373], "Revelation_ch_2.docx": [1310, 1310]}
-today;	{"Exodus_ch_16.docx": [4042], "Deuteronomy_ch_11.docx": [154, 154]}
-pov	{"Job_ch_36.docx": [683], "Proverbs_ch_6.docx": [1164, 1164], "Proverbs_ch_10.docx": [1430, 266, 1430], "Proverbs_ch_16.docx": [2706, 2706], "Proverbs_ch_28.docx": [2087, 2087], "Proverbs_ch_30.docx": [822, 822], "Isaiah_ch_48.docx": [1910, 1910], "Proverbs_ch_13.docx": [1944], "2 Corinthians_ch_8.docx": [74, 1373], "Revelation_ch_2.docx": [1310]}
 today;	{"Exodus_ch_16.docx": [4042], "Deuteronomy_ch_11.docx": [154]}
 pov	{"Job_ch_36.docx": [683], "Proverbs_ch_6.docx": [1164], "Proverbs_ch_10.docx": [266, 1430], "Proverbs_ch_13.docx": [1944], "Proverbs_ch_16.docx": [2706], "Proverbs_ch_28.docx": [2087], "Proverbs_ch_30.docx": [822], "Isaiah_ch_48.docx": [1910], "2 Corinthians_ch_8.docx": [74, 1373], "Revelation_ch_2.docx": [1310]}

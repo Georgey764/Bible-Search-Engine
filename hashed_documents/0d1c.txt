@@ -1,5 +1,2 @@
 
-acquit	{"Exodus_ch_34.docx": [817], "Numbers_ch_14.docx": [2564, 2564, 2564], "Jeremiah_ch_46.docx": [5102, 5102, 5102], "Nahum_ch_1.docx": [581, 581, 581]}
-acquit	{"Exodus_ch_34.docx": [817], "Numbers_ch_14.docx": [2564, 2564], "Jeremiah_ch_46.docx": [5102, 5102], "Nahum_ch_1.docx": [581, 581]}
-10ev	{"Psalms_ch_27.docx": [1505]}
 acquit	{"Exodus_ch_34.docx": [817], "Numbers_ch_14.docx": [2564], "Jeremiah_ch_46.docx": [5102], "Nahum_ch_1.docx": [581]}

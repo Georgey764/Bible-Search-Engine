@@ -1,4 +1,2 @@
 
-foresk	{"Genesis_ch_17.docx": [1411, 2027, 3393, 3609, 3627, 2027, 3393, 3609, 3627, 2027, 3393, 3609, 3627], "Genesis_ch_34.docx": [3045, 3045, 3045], "Exodus_ch_4.docx": [3632, 3632, 3632], "Leviticus_ch_12.docx": [324, 324, 324], "Joshua_ch_5.docx": [546, 576, 546, 576, 546, 576], "1 Samuel_ch_18.docx": [4020, 4331, 4020, 4331, 4020, 4331], "2 Samuel_ch_3.docx": [2124, 2124, 2124]}
-foresk	{"Genesis_ch_17.docx": [1411, 2027, 3393, 3609, 3627, 2027, 3393, 3609, 3627], "Genesis_ch_34.docx": [3045, 3045], "Exodus_ch_4.docx": [3632, 3632], "Leviticus_ch_12.docx": [324, 324], "Joshua_ch_5.docx": [546, 576, 546, 576], "1 Samuel_ch_18.docx": [4020, 4331, 4020, 4331], "2 Samuel_ch_3.docx": [2124, 2124]}
 foresk	{"Genesis_ch_17.docx": [1411, 2027, 3393, 3609, 3627], "Genesis_ch_34.docx": [3045], "Exodus_ch_4.docx": [3632], "Leviticus_ch_12.docx": [324], "Joshua_ch_5.docx": [546, 576], "1 Samuel_ch_18.docx": [4020, 4331], "2 Samuel_ch_3.docx": [2124]}

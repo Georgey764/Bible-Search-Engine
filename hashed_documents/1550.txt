@@ -1,4 +1,2 @@
 
-bottl	{"Genesis_ch_21.docx": [1421, 1638, 1638, 1638]}
-bottl	{"Genesis_ch_21.docx": [1421, 1638, 1638]}
 bottl	{"Genesis_ch_21.docx": [1421, 1638]}

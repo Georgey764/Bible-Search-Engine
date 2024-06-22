@@ -1,4 +1,2 @@
 
-pale	{"Genesis_ch_10.docx": [818], "Deuteronomy_ch_28.docx": [2903, 2903, 2903]}
-pale	{"Genesis_ch_10.docx": [818], "Deuteronomy_ch_28.docx": [2903, 2903]}
 pale	{"Genesis_ch_10.docx": [818], "Deuteronomy_ch_28.docx": [2903]}

@@ -1,4 +1,2 @@
 
-life’	{"Psalms_ch_27.docx": [149], "Psalms_ch_103.docx": [317, 317, 317], "Lamentations_ch_4.docx": [3297, 3297, 3297]}
-life’	{"Psalms_ch_27.docx": [149], "Psalms_ch_103.docx": [317, 317], "Lamentations_ch_4.docx": [3297, 3297]}
 life’	{"Psalms_ch_27.docx": [149], "Psalms_ch_103.docx": [317], "Lamentations_ch_4.docx": [3297]}

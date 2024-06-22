@@ -1,7 +1,3 @@
 
-arisin	{"Genesis_ch_19.docx": [4191], "1 Kings_ch_18.docx": [7484, 7484, 7484], "Psalms_ch_92.docx": [562, 562, 562], "Psalms_ch_108.docx": [153, 153, 153], "Song of Solomon_ch_3.docx": [983, 983, 983], "Revelation_ch_7.docx": [234, 234], "Revelation_ch_8.docx": [510, 510]}
-adora	{"2 Chronicles_ch_11.docx": [879]}
-arisin	{"Genesis_ch_19.docx": [4191], "1 Kings_ch_18.docx": [7484, 7484], "Psalms_ch_92.docx": [562, 562], "Psalms_ch_108.docx": [153, 153], "Song of Solomon_ch_3.docx": [983, 983], "Revelation_ch_7.docx": [234], "Revelation_ch_8.docx": [510]}
-31u	{"2 Kings_ch_10.docx": [5882]}
 arisin	{"Genesis_ch_19.docx": [4191], "1 Kings_ch_18.docx": [7484], "Psalms_ch_92.docx": [562], "Psalms_ch_108.docx": [153], "Song of Solomon_ch_3.docx": [983], "Revelation_ch_7.docx": [234], "Revelation_ch_8.docx": [510]}
 adora	{"2 Chronicles_ch_11.docx": [879]}

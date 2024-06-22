@@ -1,4 +1,2 @@
 
-sinit	{"Genesis_ch_10.docx": [2009], "1 Chronicles_ch_1.docx": [1243, 1243, 1243]}
-sinit	{"Genesis_ch_10.docx": [2009], "1 Chronicles_ch_1.docx": [1243, 1243]}
 sinit	{"Genesis_ch_10.docx": [2009], "1 Chronicles_ch_1.docx": [1243]}

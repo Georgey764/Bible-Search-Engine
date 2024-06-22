@@ -1,4 +1,2 @@
 
-shabbe	{"Nehemiah_ch_8.docx": [1879]}
-shabbe	{"Nehemiah_ch_8.docx": [1879]}
-shabbe	{"Nehemiah_ch_8.docx": [1879]}
+shabbe	{"Ezra_ch_10.docx": [3011], "Nehemiah_ch_8.docx": [1879]}

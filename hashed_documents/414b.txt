@@ -1,4 +1,2 @@
 
-voided	{"Jeremiah_ch_31.docx": [6795], "Jeremiah_ch_34.docx": [3428, 3428, 3428], "Galatians_ch_5.docx": [464, 464]}
-voided	{"Jeremiah_ch_31.docx": [6795], "Jeremiah_ch_34.docx": [3428, 3428], "Galatians_ch_5.docx": [464]}
 voided	{"Jeremiah_ch_31.docx": [6795], "Jeremiah_ch_34.docx": [3428], "Galatians_ch_5.docx": [464]}

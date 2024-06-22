@@ -1,4 +1,2 @@
 
-firmly	{"2 Chronicles_ch_12.docx": [12], "Jeremiah_ch_8.docx": [971, 971, 971], "Daniel_ch_11.docx": [5333, 5333, 5333], "Luke_ch_9.docx": [2953, 2953], "Ephesians_ch_4.docx": [2059, 2090, 2059, 2090], "Colossians_ch_1.docx": [3221, 3221], "2 Peter_ch_1.docx": [1881, 1881]}
-firmly	{"2 Chronicles_ch_12.docx": [12], "Jeremiah_ch_8.docx": [971, 971], "Daniel_ch_11.docx": [5333, 5333], "Luke_ch_9.docx": [2953], "Ephesians_ch_4.docx": [2059, 2090], "Colossians_ch_1.docx": [3221], "2 Peter_ch_1.docx": [1881]}
-firmly	{"2 Chronicles_ch_12.docx": [12], "Jeremiah_ch_8.docx": [971], "Daniel_ch_11.docx": [5333], "Luke_ch_9.docx": [2953], "Ephesians_ch_4.docx": [2059, 2090], "Colossians_ch_1.docx": [3221], "2 Peter_ch_1.docx": [1881]}
+firmly	{"2 Chronicles_ch_12.docx": [12], "Jeremiah_ch_8.docx": [971], "Daniel_ch_11.docx": [5333], "Luke_ch_9.docx": [2953], "Ephesians_ch_4.docx": [2059, 2090], "Colossians_ch_1.docx": [3221], "1 Peter_ch_5.docx": [1502], "2 Peter_ch_1.docx": [1881]}

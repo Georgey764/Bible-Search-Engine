@@ -1,3 +1,2 @@
 
-guaran	{"2 Corinthians_ch_1.docx": [3931], "Ephesians_ch_1.docx": [1782, 1782], "Hebrews_ch_7.docx": [3117, 3117]}
 guaran	{"2 Corinthians_ch_1.docx": [3931], "Ephesians_ch_1.docx": [1782], "Hebrews_ch_7.docx": [3117]}

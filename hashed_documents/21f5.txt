@@ -1,4 +1,2 @@
 
-sooths	{"Exodus_ch_7.docx": [1347, 3244, 3244, 3244], "Exodus_ch_8.docx": [873, 2592, 2774, 873, 2592, 2774, 873, 2592, 2774], "Exodus_ch_9.docx": [1440, 1440, 1440]}
-sooths	{"Exodus_ch_7.docx": [1347, 3244, 3244], "Exodus_ch_8.docx": [873, 2592, 2774, 873, 2592, 2774], "Exodus_ch_9.docx": [1440, 1440]}
 sooths	{"Exodus_ch_7.docx": [1347, 3244], "Exodus_ch_8.docx": [873, 2592, 2774], "Exodus_ch_9.docx": [1440]}

@@ -1,3 +1,3 @@
 
-arist	{"Acts_ch_19.docx": [8878, 8892, 8907, 8892, 8907], "Acts_ch_20.docx": [1871, 1871], "Acts_ch_27.docx": [222, 222]}
-arist	{"Acts_ch_19.docx": [8878, 8892, 8907], "Acts_ch_20.docx": [1871], "Acts_ch_27.docx": [222]}
+rando	{"Ezra_ch_10.docx": [7224]}
+arist	{"Acts_ch_19.docx": [8878, 8892, 8907], "Acts_ch_20.docx": [1871], "Acts_ch_27.docx": [222], "Romans_ch_16.docx": [1455], "Colossians_ch_4.docx": [963], "Philemon_ch_1.docx": [2812]}

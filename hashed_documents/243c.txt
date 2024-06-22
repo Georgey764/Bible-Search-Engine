@@ -1,4 +1,2 @@
 
 46	{"1 Chronicles_ch_1.docx": [3849], "1 Chronicles_ch_11.docx": [6507]}
-46	{"1 Chronicles_ch_1.docx": [3849], "1 Chronicles_ch_11.docx": [6507]}
-46	{"1 Chronicles_ch_1.docx": [3849], "1 Chronicles_ch_11.docx": [6507]}

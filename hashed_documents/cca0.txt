@@ -1,4 +1,2 @@
 
-winesk	{"Matthew_ch_9.docx": [2261, 2268, 2287, 2268, 2287, 2268, 2287], "Mark_ch_2.docx": [3009, 3035, 3009, 3035], "Luke_ch_5.docx": [6529, 6667, 6529, 6667]}
-winesk	{"Matthew_ch_9.docx": [2261, 2268, 2287, 2268, 2287], "Mark_ch_2.docx": [3009, 3035], "Luke_ch_5.docx": [6529, 6667]}
 winesk	{"Matthew_ch_9.docx": [2261, 2268, 2287], "Mark_ch_2.docx": [3009, 3035], "Luke_ch_5.docx": [6529, 6667]}

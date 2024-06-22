@@ -1,4 +1,2 @@
 
-mosel	{"1 Chronicles_ch_26.docx": [73, 155, 909, 155, 909, 155, 909]}
-mosel	{"1 Chronicles_ch_26.docx": [73, 155, 909, 155, 909]}
 mosel	{"1 Chronicles_ch_26.docx": [73, 155, 909]}

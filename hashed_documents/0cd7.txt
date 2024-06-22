@@ -1,5 +1,2 @@
 
-uniqu	{"Exodus_ch_35.docx": [3697], "2 Chronicles_ch_4.docx": [1011, 2314, 1011, 2314, 1011, 2314]}
-uniqu	{"Exodus_ch_35.docx": [3697], "2 Chronicles_ch_4.docx": [1011, 2314, 1011, 2314]}
-3altho	{"Psalms_ch_65.docx": [228]}
-uniqu	{"Exodus_ch_35.docx": [3697], "2 Chronicles_ch_4.docx": [1011, 2314]}
+uniqu	{"Exodus_ch_35.docx": [3697], "2 Chronicles_ch_4.docx": [1011, 2314], "Esther_ch_10.docx": [5175, 5195]}

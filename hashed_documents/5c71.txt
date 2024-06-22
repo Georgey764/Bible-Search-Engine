@@ -1,4 +1,2 @@
 
-mese	{"2 Kings_ch_19.docx": [6383], "1 Chronicles_ch_2.docx": [5142, 5142, 5142]}
-mese	{"2 Kings_ch_19.docx": [6383], "1 Chronicles_ch_2.docx": [5142, 5142]}
 mese	{"2 Kings_ch_19.docx": [6383], "1 Chronicles_ch_2.docx": [5142]}

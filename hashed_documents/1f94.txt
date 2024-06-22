@@ -1,3 +1,0 @@
-
-21des	{"Genesis_ch_36.docx": [2394]}
-16next	{"Leviticus_ch_9.docx": [2012], "Joshua_ch_11.docx": [6825]}

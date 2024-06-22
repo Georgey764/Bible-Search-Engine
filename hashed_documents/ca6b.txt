@@ -1,4 +1,2 @@
 
-salim	{"Joshua_ch_19.docx": [1678], "John_ch_3.docx": [2833, 2833]}
-salim	{"Joshua_ch_19.docx": [1678], "John_ch_3.docx": [2833]}
 salim	{"Joshua_ch_19.docx": [1678], "John_ch_3.docx": [2833]}

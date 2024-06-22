@@ -1,3 +1,2 @@
 
-figura	{"John_ch_2.docx": [2414], "Hebrews_ch_11.docx": [3919, 3947, 3919, 3947]}
-figura	{"John_ch_2.docx": [2414], "Hebrews_ch_11.docx": [3919, 3947]}
+figura	{"Ecclesiastes_ch_12.docx": [2909], "John_ch_2.docx": [2414], "Hebrews_ch_11.docx": [3919, 3947]}

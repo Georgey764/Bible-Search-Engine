@@ -1,5 +1,2 @@
 
-incli	{"Psalms_ch_31.docx": [247], "Psalms_ch_45.docx": [1728, 1728], "Psalms_ch_49.docx": [304, 304, 304], "Psalms_ch_71.docx": [263, 263, 263], "Psalms_ch_78.docx": [82, 82, 82], "Psalms_ch_102.docx": [245, 245, 245], "Psalms_ch_119.docx": [9330, 9330, 9330], "Acts_ch_13.docx": [8612, 8612]}
-4(also	{"2 Samuel_ch_4.docx": [495]}
-incli	{"Psalms_ch_45.docx": [1728, 1728], "Psalms_ch_49.docx": [304, 304], "Psalms_ch_71.docx": [263, 263], "Psalms_ch_78.docx": [82, 82], "Psalms_ch_102.docx": [245, 245], "Psalms_ch_119.docx": [9330, 9330], "Acts_ch_13.docx": [8612]}
-incli	{"Psalms_ch_31.docx": [247], "Psalms_ch_45.docx": [1728], "Psalms_ch_49.docx": [304], "Psalms_ch_71.docx": [263], "Psalms_ch_78.docx": [82], "Psalms_ch_102.docx": [245], "Psalms_ch_119.docx": [9330], "Acts_ch_13.docx": [8612]}
+incli	{"2 Samuel_ch_24.docx": [6324], "1 Kings_ch_22.docx": [10122], "Psalms_ch_31.docx": [247], "Psalms_ch_45.docx": [1728], "Psalms_ch_49.docx": [304], "Psalms_ch_71.docx": [263], "Psalms_ch_78.docx": [82], "Psalms_ch_102.docx": [245], "Psalms_ch_119.docx": [9330], "Acts_ch_13.docx": [8612]}

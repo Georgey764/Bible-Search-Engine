@@ -1,2 +1,0 @@
-
-7as	{"Leviticus_ch_11.docx": [696], "Numbers_ch_21.docx": [906], "Judges_ch_10.docx": [1211], "Psalms_ch_33.docx": [518], "Isaiah_ch_65.docx": [995], "Jeremiah_ch_27.docx": [1101]}

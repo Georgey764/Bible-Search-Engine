@@ -1,4 +1,2 @@
 
-fate	{"Ecclesiastes_ch_2.docx": [2168, 3279, 3279, 3279], "Jeremiah_ch_50.docx": [2566, 2566, 2566]}
-fate	{"Ecclesiastes_ch_2.docx": [2168, 3279, 3279], "Jeremiah_ch_50.docx": [2566, 2566]}
 fate	{"Ecclesiastes_ch_2.docx": [2168, 3279], "Jeremiah_ch_50.docx": [2566]}

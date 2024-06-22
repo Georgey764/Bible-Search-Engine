@@ -1,4 +1,2 @@
 
-symae	{"Numbers_ch_26.docx": [3703, 3708, 3708]}
-symae	{"Numbers_ch_26.docx": [3708, 3708]}
 symae	{"Numbers_ch_26.docx": [3703, 3708]}

@@ -1,2 +1,0 @@
-
-35ther	{"Genesis_ch_29.docx": [4546], "Exodus_ch_25.docx": [3812], "Numbers_ch_31.docx": [4011], "Joshua_ch_8.docx": [4604]}

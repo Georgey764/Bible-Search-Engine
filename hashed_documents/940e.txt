@@ -1,4 +1,2 @@
 
-saphat	{"Numbers_ch_13.docx": [434], "1 Chronicles_ch_9.docx": [1075, 1075, 1075], "1 Chronicles_ch_12.docx": [733, 733, 733], "1 Chronicles_ch_27.docx": [2169, 2169, 2169]}
-saphat	{"Numbers_ch_13.docx": [434], "1 Chronicles_ch_9.docx": [1075, 1075], "1 Chronicles_ch_12.docx": [733, 733], "1 Chronicles_ch_27.docx": [2169, 2169]}
 saphat	{"Numbers_ch_13.docx": [434], "1 Chronicles_ch_9.docx": [1075], "1 Chronicles_ch_12.docx": [733], "1 Chronicles_ch_27.docx": [2169]}

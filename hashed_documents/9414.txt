@@ -1,4 +1,2 @@
 
-light;	{"Genesis_ch_1.docx": [2420], "Matthew_ch_10.docx": [3436, 3436, 3436], "John_ch_1.docx": [561, 561]}
-light;	{"Genesis_ch_1.docx": [2420], "Matthew_ch_10.docx": [3436, 3436], "John_ch_1.docx": [561]}
 light;	{"Genesis_ch_1.docx": [2420], "Matthew_ch_10.docx": [3436], "John_ch_1.docx": [561]}

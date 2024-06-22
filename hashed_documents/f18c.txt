@@ -1,5 +1,2 @@
 
-pans	{"Exodus_ch_37.docx": [1613], "Numbers_ch_4.docx": [1531, 1531, 1531], "1 Kings_ch_7.docx": [6465, 6465, 6465], "2 Chronicles_ch_4.docx": [2619, 2619, 2619], "2 Chronicles_ch_24.docx": [2183, 2183, 2183]}
-49‘now	{"Genesis_ch_24.docx": [7584], "Deuteronomy_ch_32.docx": [7342]}
-pans	{"Exodus_ch_37.docx": [1613], "Numbers_ch_4.docx": [1531, 1531], "1 Kings_ch_7.docx": [6465, 6465], "2 Chronicles_ch_4.docx": [2619, 2619], "2 Chronicles_ch_24.docx": [2183, 2183]}
-pans	{"Exodus_ch_37.docx": [1613], "Numbers_ch_4.docx": [1531], "1 Kings_ch_7.docx": [6465], "2 Chronicles_ch_4.docx": [2619], "2 Chronicles_ch_24.docx": [2183]}
+pans	{"Exodus_ch_37.docx": [1613], "Numbers_ch_4.docx": [1531], "1 Kings_ch_7.docx": [6465], "2 Kings_ch_25.docx": [1899], "2 Chronicles_ch_4.docx": [2619], "2 Chronicles_ch_24.docx": [2183], "Jeremiah_ch_52.docx": [2906]}

@@ -1,4 +1,2 @@
 
-abh	{"Psalms_ch_119.docx": [13810], "Isaiah_ch_14.docx": [3077, 3077, 3077], "Isaiah_ch_49.docx": [1678, 1678, 1678], "Amos_ch_6.docx": [1869, 1869, 1869]}
-abh	{"Psalms_ch_119.docx": [13810], "Isaiah_ch_14.docx": [3077, 3077], "Isaiah_ch_49.docx": [1678, 1678], "Amos_ch_6.docx": [1869, 1869]}
 abh	{"Psalms_ch_119.docx": [13810], "Isaiah_ch_14.docx": [3077], "Isaiah_ch_49.docx": [1678], "Amos_ch_6.docx": [1869]}

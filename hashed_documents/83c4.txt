@@ -1,4 +1,2 @@
 
-wise;	{"Proverbs_ch_17.docx": [999, 2360, 2731, 2360, 2731, 2360, 2731], "Proverbs_ch_28.docx": [951, 951, 951]}
-wise;	{"Proverbs_ch_17.docx": [999, 2360, 2731, 2360, 2731], "Proverbs_ch_28.docx": [951, 951]}
 wise;	{"Proverbs_ch_17.docx": [999, 2360, 2731], "Proverbs_ch_28.docx": [951]}

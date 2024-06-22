@@ -3,11 +3,3 @@ ab	{"1 Chronicles_ch_8.docx": [774], "1 Chronicles_ch_11.docx": [5313]}
 ab	{"1 Chronicles_ch_11.docx": [5579]}
 ab	{"1 Chronicles_ch_12.docx": [1213]}
 ab	{"2 Chronicles_ch_16.docx": [766]}
-ab	{"1 Chronicles_ch_8.docx": [774], "1 Chronicles_ch_11.docx": [5313]}
-ab	{"1 Chronicles_ch_11.docx": [5579]}
-ab	{"1 Chronicles_ch_12.docx": [1213]}
-ab	{"2 Chronicles_ch_16.docx": [766]}
-ab	{"1 Chronicles_ch_8.docx": [774], "1 Chronicles_ch_11.docx": [5313]}
-ab	{"1 Chronicles_ch_11.docx": [5579]}
-ab	{"1 Chronicles_ch_12.docx": [1213]}
-ab	{"2 Chronicles_ch_16.docx": [766]}

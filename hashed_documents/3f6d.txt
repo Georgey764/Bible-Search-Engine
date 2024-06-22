@@ -1,4 +1,2 @@
 
-famis	{"1 Samuel_ch_14.docx": [4709], "Job_ch_22.docx": [615, 615, 615], "Job_ch_24.docx": [991, 991, 991], "Isaiah_ch_40.docx": [4275, 4275, 4275]}
-famis	{"1 Samuel_ch_14.docx": [4709], "Job_ch_22.docx": [615, 615], "Job_ch_24.docx": [991, 991], "Isaiah_ch_40.docx": [4275, 4275]}
 famis	{"1 Samuel_ch_14.docx": [4709], "Job_ch_22.docx": [615], "Job_ch_24.docx": [991], "Isaiah_ch_40.docx": [4275]}

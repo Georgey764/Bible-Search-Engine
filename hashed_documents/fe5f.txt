@@ -1,2 +1,2 @@
 
-50for	{"Psalms_ch_18.docx": [4780], "Matthew_ch_12.docx": [6346]}
+issues	{"2 Chronicles_ch_36.docx": [7771]}

@@ -1,4 +1,2 @@
 
-aith	{"Joshua_ch_18.docx": [2751], "1 Chronicles_ch_2.docx": [611, 799, 4728, 611, 799, 4728, 611, 799, 4728], "Jeremiah_ch_49.docx": [3458, 3458, 3458], "Jeremiah_ch_50.docx": [8311, 8311, 8311]}
-aith	{"Joshua_ch_18.docx": [2751], "1 Chronicles_ch_2.docx": [611, 799, 4728, 611, 799, 4728], "Jeremiah_ch_49.docx": [3458, 3458], "Jeremiah_ch_50.docx": [8311, 8311]}
 aith	{"Joshua_ch_18.docx": [2751], "1 Chronicles_ch_2.docx": [611, 799, 4728], "Jeremiah_ch_49.docx": [3458], "Jeremiah_ch_50.docx": [8311]}

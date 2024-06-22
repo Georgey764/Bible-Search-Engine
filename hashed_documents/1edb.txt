@@ -1,4 +1,2 @@
 
-gidd	{"Ezra_ch_2.docx": [1765, 2291, 2291], "Nehemiah_ch_7.docx": [2848, 3385, 2848, 3385, 2848, 3385]}
-gidd	{"Ezra_ch_2.docx": [2291, 2291], "Nehemiah_ch_7.docx": [2848, 3385, 2848, 3385]}
 gidd	{"Ezra_ch_2.docx": [1765, 2291], "Nehemiah_ch_7.docx": [2848, 3385]}

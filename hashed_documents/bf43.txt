@@ -1,4 +1,2 @@
 
-wolf	{"Genesis_ch_49.docx": [3551], "Proverbs_ch_28.docx": [1362, 1362, 1362], "Isaiah_ch_11.docx": [689, 689, 689], "Jeremiah_ch_5.docx": [1014, 1014, 1014], "John_ch_10.docx": [1116, 1120, 1116, 1120]}
-wolf	{"Genesis_ch_49.docx": [3551], "Proverbs_ch_28.docx": [1362, 1362], "Isaiah_ch_11.docx": [689, 689], "Jeremiah_ch_5.docx": [1014, 1014], "John_ch_10.docx": [1116, 1120]}
 wolf	{"Genesis_ch_49.docx": [3551], "Proverbs_ch_28.docx": [1362], "Isaiah_ch_11.docx": [689], "Jeremiah_ch_5.docx": [1014], "John_ch_10.docx": [1116, 1120]}

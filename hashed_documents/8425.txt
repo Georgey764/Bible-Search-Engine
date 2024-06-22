@@ -1,4 +1,2 @@
 
-stac	{"Judges_ch_12.docx": [1147, 1173, 1204, 1173, 1204, 1173, 1204]}
-stac	{"Judges_ch_12.docx": [1147, 1173, 1204, 1173, 1204]}
-stac	{"Judges_ch_12.docx": [1147, 1173, 1204]}
+stac	{"Judges_ch_12.docx": [1147, 1173, 1204], "Romans_ch_16.docx": [1317]}

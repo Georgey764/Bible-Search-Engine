@@ -1,4 +1,2 @@
 
-fights	{"Proverbs_ch_17.docx": [69, 1389, 1389, 1389], "Proverbs_ch_21.docx": [1891, 1891, 1891], "Proverbs_ch_25.docx": [674, 674, 674], "Proverbs_ch_30.docx": [3489, 3489, 3489], "Hosea_ch_10.docx": [2567, 2567, 2567], "James_ch_4.docx": [9, 9], "Revelation_ch_19.docx": [1854, 1854]}
-fights	{"Proverbs_ch_17.docx": [69, 1389, 1389], "Proverbs_ch_21.docx": [1891, 1891], "Proverbs_ch_25.docx": [674, 674], "Proverbs_ch_30.docx": [3489, 3489], "Hosea_ch_10.docx": [2567, 2567], "James_ch_4.docx": [9], "Revelation_ch_19.docx": [1854]}
-fights	{"Proverbs_ch_17.docx": [69, 1389], "Proverbs_ch_21.docx": [1891], "Proverbs_ch_25.docx": [674], "Proverbs_ch_30.docx": [3489], "Hosea_ch_10.docx": [2567], "James_ch_4.docx": [9], "Revelation_ch_19.docx": [1854]}
+fights	{"Proverbs_ch_17.docx": [69, 1389], "Proverbs_ch_21.docx": [1891], "Proverbs_ch_25.docx": [674], "Proverbs_ch_30.docx": [3489], "Hosea_ch_10.docx": [2567], "Titus_ch_3.docx": [1232], "James_ch_4.docx": [9], "Revelation_ch_19.docx": [1854]}

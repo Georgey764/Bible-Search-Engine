@@ -1,5 +1,2 @@
 
-uncu	{"1 Kings_ch_6.docx": [4233], "1 Kings_ch_7.docx": [1521, 1521, 1521], "Isaiah_ch_5.docx": [949, 949, 949], "Isaiah_ch_7.docx": [3567, 3567, 3567]}
-10sti	{"Genesis_ch_39.docx": [1592]}
-uncu	{"1 Kings_ch_6.docx": [4233], "1 Kings_ch_7.docx": [1521, 1521], "Isaiah_ch_5.docx": [949, 949], "Isaiah_ch_7.docx": [3567, 3567]}
 uncu	{"1 Kings_ch_6.docx": [4233], "1 Kings_ch_7.docx": [1521], "Isaiah_ch_5.docx": [949], "Isaiah_ch_7.docx": [3567]}

@@ -1,4 +1,2 @@
 
-unbl	{"2 Samuel_ch_22.docx": [2300], "Psalms_ch_19.docx": [1469, 1469, 1469], "Psalms_ch_64.docx": [399, 399, 399], "Ephesians_ch_1.docx": [358, 358]}
-unbl	{"2 Samuel_ch_22.docx": [2300], "Psalms_ch_19.docx": [1469, 1469], "Psalms_ch_64.docx": [399, 399], "Ephesians_ch_1.docx": [358]}
 unbl	{"2 Samuel_ch_22.docx": [2300], "Psalms_ch_19.docx": [1469], "Psalms_ch_64.docx": [399], "Ephesians_ch_1.docx": [358]}

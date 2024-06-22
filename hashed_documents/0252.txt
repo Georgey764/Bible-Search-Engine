@@ -1,2 +1,0 @@
-
-134	{"Genesis_ch_11.docx": [2096], "Joshua_ch_4.docx": [1735], "Psalms_ch_119.docx": [11214], "Psalms_ch_134.docx": [3]}

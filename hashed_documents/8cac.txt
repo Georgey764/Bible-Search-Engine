@@ -1,10 +1,4 @@
 
-dona	{"Exodus_ch_35.docx": [1765, 3059, 3059, 3059], "Exodus_ch_36.docx": [269, 269, 269], "Numbers_ch_5.docx": [1127, 1127, 1127], "2 Kings_ch_12.docx": [514, 514, 514], "2 Chronicles_ch_31.docx": [2648, 2648, 2648], "2 Chronicles_ch_34.docx": [1593, 1593, 1593], "Ezra_ch_7.docx": [1847, 1847, 1847], "2 Corinthians_ch_8.docx": [577, 2580, 577, 2580]}
-mara	{"2 Kings_ch_20.docx": [1644], "1 Chronicles_ch_9.docx": [1435, 1435, 1435], "Nehemiah_ch_11.docx": [1595, 1595, 1595], "Nehemiah_ch_12.docx": [1310, 1310, 1310], "Job_ch_16.docx": [875, 875, 875], "Job_ch_19.docx": [1075, 1075, 1075], "Psalms_ch_18.docx": [2820, 2820, 2820]}
-happy;	{"Proverbs_ch_27.docx": [727]}
-dona	{"Exodus_ch_35.docx": [1765, 3059, 3059], "Exodus_ch_36.docx": [269, 269], "Numbers_ch_5.docx": [1127, 1127], "2 Kings_ch_12.docx": [514, 514], "2 Chronicles_ch_31.docx": [2648, 2648], "2 Chronicles_ch_34.docx": [1593, 1593], "Ezra_ch_7.docx": [1847, 1847], "2 Corinthians_ch_8.docx": [577, 2580]}
-mara	{"2 Kings_ch_20.docx": [1644], "1 Chronicles_ch_9.docx": [1435, 1435], "Nehemiah_ch_11.docx": [1595, 1595], "Nehemiah_ch_12.docx": [1310, 1310], "Job_ch_16.docx": [875, 875], "Job_ch_19.docx": [1075, 1075], "Psalms_ch_18.docx": [2820, 2820]}
-happy;	{"Proverbs_ch_27.docx": [727]}
-dona	{"Exodus_ch_35.docx": [1765, 3059], "Exodus_ch_36.docx": [269], "Numbers_ch_5.docx": [1127], "2 Kings_ch_12.docx": [514], "2 Chronicles_ch_31.docx": [2648], "2 Chronicles_ch_34.docx": [1593], "Ezra_ch_7.docx": [1847], "2 Corinthians_ch_8.docx": [577, 2580]}
+dona	{"Exodus_ch_35.docx": [1765, 3059], "Exodus_ch_36.docx": [269], "Leviticus_ch_27.docx": [2259], "Numbers_ch_5.docx": [1127], "2 Kings_ch_12.docx": [514], "2 Chronicles_ch_31.docx": [2648], "2 Chronicles_ch_34.docx": [1593], "Ezra_ch_7.docx": [1847], "2 Corinthians_ch_8.docx": [577, 2580]}
 mara	{"2 Kings_ch_20.docx": [1644], "1 Chronicles_ch_9.docx": [1435], "Nehemiah_ch_11.docx": [1595], "Nehemiah_ch_12.docx": [1310], "Job_ch_16.docx": [875], "Job_ch_19.docx": [1075], "Psalms_ch_18.docx": [2820]}
 happy;	{"Proverbs_ch_27.docx": [727]}

@@ -1,3 +1,0 @@
-
-10‘but	{"Exodus_ch_15.docx": [1237], "1 Samuel_ch_12.docx": [1795], "1 Samuel_ch_14.docx": [1519], "2 Chronicles_ch_20.docx": [1446], "Job_ch_36.docx": [810], "Ecclesiastes_ch_5.docx": [1479], "Isaiah_ch_43.docx": [1662], "Ezekiel_ch_18.docx": [1399], "Ezekiel_ch_31.docx": [1560], "Micah_ch_5.docx": [2737]}
-15joan	{"2 Chronicles_ch_17.docx": [2021]}

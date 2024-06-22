@@ -1,4 +1,2 @@
 
-crawle	{"Genesis_ch_7.docx": [1008], "1 Samuel_ch_14.docx": [1752, 2122, 1752, 2122, 1752, 2122], "1 Samuel_ch_21.docx": [1970, 1970, 1970], "Psalms_ch_105.docx": [2468, 2468, 2468], "Jeremiah_ch_3.docx": [1135, 1135, 1135], "Lamentations_ch_1.docx": [3459, 3459, 3459], "Ezekiel_ch_12.docx": [1038, 1038, 1038]}
-crawle	{"Genesis_ch_7.docx": [1008], "1 Samuel_ch_14.docx": [1752, 2122, 1752, 2122], "1 Samuel_ch_21.docx": [1970, 1970], "Psalms_ch_105.docx": [2468, 2468], "Jeremiah_ch_3.docx": [1135, 1135], "Lamentations_ch_1.docx": [3459, 3459], "Ezekiel_ch_12.docx": [1038, 1038]}
 crawle	{"Genesis_ch_7.docx": [1008], "1 Samuel_ch_14.docx": [1752, 2122], "1 Samuel_ch_21.docx": [1970], "Psalms_ch_105.docx": [2468], "Jeremiah_ch_3.docx": [1135], "Lamentations_ch_1.docx": [3459], "Ezekiel_ch_12.docx": [1038]}

@@ -1,4 +1,2 @@
 
-roofto	{"Jeremiah_ch_48.docx": [5235], "Matthew_ch_10.docx": [3539, 3539, 3539], "Mark_ch_13.docx": [1990, 1990], "Luke_ch_12.docx": [492, 492]}
-roofto	{"Jeremiah_ch_48.docx": [5235], "Matthew_ch_10.docx": [3539, 3539], "Mark_ch_13.docx": [1990], "Luke_ch_12.docx": [492]}
 roofto	{"Jeremiah_ch_48.docx": [5235], "Matthew_ch_10.docx": [3539], "Mark_ch_13.docx": [1990], "Luke_ch_12.docx": [492]}

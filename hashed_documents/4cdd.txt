@@ -1,4 +1,2 @@
 
-noe	{"Genesis_ch_4.docx": [2567], "Genesis_ch_46.docx": [2694, 2694, 2694], "Numbers_ch_26.docx": [4543, 4551, 4556, 4543, 4551, 4556, 4543, 4551, 4556]}
-noe	{"Genesis_ch_4.docx": [2567], "Genesis_ch_46.docx": [2694, 2694], "Numbers_ch_26.docx": [4543, 4551, 4556, 4543, 4551, 4556]}
 noe	{"Genesis_ch_4.docx": [2567], "Genesis_ch_46.docx": [2694], "Numbers_ch_26.docx": [4543, 4551, 4556]}

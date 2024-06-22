@@ -1,4 +1,2 @@
 
-musta	{"2 Samuel_ch_19.docx": [4035], "Matthew_ch_13.docx": [4130, 4130, 4130], "Matthew_ch_17.docx": [2296, 2296, 2296], "Mark_ch_4.docx": [3527, 3527], "Luke_ch_13.docx": [2506, 2506], "Luke_ch_17.docx": [683, 683]}
-musta	{"2 Samuel_ch_19.docx": [4035], "Matthew_ch_13.docx": [4130, 4130], "Matthew_ch_17.docx": [2296, 2296], "Mark_ch_4.docx": [3527], "Luke_ch_13.docx": [2506], "Luke_ch_17.docx": [683]}
 musta	{"2 Samuel_ch_19.docx": [4035], "Matthew_ch_13.docx": [4130], "Matthew_ch_17.docx": [2296], "Mark_ch_4.docx": [3527], "Luke_ch_13.docx": [2506], "Luke_ch_17.docx": [683]}

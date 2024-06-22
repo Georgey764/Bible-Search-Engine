@@ -1,4 +1,2 @@
 
-chills	{"Deuteronomy_ch_28.docx": [2899], "Jeremiah_ch_31.docx": [5406, 5535, 5406, 5535, 5406, 5535]}
-chills	{"Deuteronomy_ch_28.docx": [2899], "Jeremiah_ch_31.docx": [5406, 5535, 5406, 5535]}
 chills	{"Deuteronomy_ch_28.docx": [2899], "Jeremiah_ch_31.docx": [5406, 5535]}

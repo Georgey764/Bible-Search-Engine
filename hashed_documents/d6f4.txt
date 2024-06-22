@@ -1,4 +1,2 @@
 
-jadie	{"1 Chronicles_ch_7.docx": [826, 1328, 1466, 1328, 1466, 1328, 1466], "1 Chronicles_ch_26.docx": [217, 217, 217]}
-jadie	{"1 Chronicles_ch_7.docx": [826, 1328, 1466, 1328, 1466], "1 Chronicles_ch_26.docx": [217, 217]}
 jadie	{"1 Chronicles_ch_7.docx": [826, 1328, 1466], "1 Chronicles_ch_26.docx": [217]}

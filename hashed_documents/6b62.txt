@@ -1,4 +1,2 @@
 
 drown!	{"Luke_ch_8.docx": [3455]}
-15o	{"Genesis_ch_12.docx": [1753], "Leviticus_ch_11.docx": [1814], "Numbers_ch_20.docx": [2204], "Joshua_ch_18.docx": [2409], "Psalms_ch_51.docx": [1593], "Psalms_ch_102.docx": [1287], "Psalms_ch_119.docx": [1059], "Proverbs_ch_5.docx": [1256], "Isaiah_ch_47.docx": [2694], "Jeremiah_ch_9.docx": [2663]}
-drown!	{"Luke_ch_8.docx": [3455]}

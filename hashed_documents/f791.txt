@@ -1,5 +1,2 @@
 
-smash	{"Exodus_ch_15.docx": [783], "Exodus_ch_34.docx": [2006, 2006, 2006], "2 Kings_ch_11.docx": [2871, 2871, 2871], "Psalms_ch_74.docx": [1299, 1299, 1299], "Psalms_ch_107.docx": [1371, 1371, 1371], "Jeremiah_ch_48.docx": [5326, 5326, 5326], "Jeremiah_ch_50.docx": [4290, 4290, 4290], "Matthew_ch_21.docx": [6175, 6175, 6175], "Mark_ch_5.docx": [254, 254], "Luke_ch_20.docx": [2275, 2275]}
-smash	{"Exodus_ch_15.docx": [783], "Exodus_ch_34.docx": [2006, 2006], "2 Kings_ch_11.docx": [2871, 2871], "Psalms_ch_74.docx": [1299, 1299], "Psalms_ch_107.docx": [1371, 1371], "Jeremiah_ch_48.docx": [5326, 5326], "Jeremiah_ch_50.docx": [4290, 4290], "Matthew_ch_21.docx": [6175, 6175], "Mark_ch_5.docx": [254], "Luke_ch_20.docx": [2275]}
-16it’	{"Proverbs_ch_15.docx": [1572], "Ezekiel_ch_13.docx": [3089]}
 smash	{"Exodus_ch_15.docx": [783], "Exodus_ch_34.docx": [2006], "2 Kings_ch_11.docx": [2871], "Psalms_ch_74.docx": [1299], "Psalms_ch_107.docx": [1371], "Jeremiah_ch_48.docx": [5326], "Jeremiah_ch_50.docx": [4290], "Matthew_ch_21.docx": [6175], "Mark_ch_5.docx": [254], "Luke_ch_20.docx": [2275]}

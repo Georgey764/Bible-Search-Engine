@@ -1,4 +1,2 @@
 
-son;	{"Proverbs_ch_9.docx": [1205], "Jeremiah_ch_2.docx": [2195, 2195, 2195], "Amos_ch_7.docx": [2921, 2921, 2921], "Mark_ch_9.docx": [872, 872], "Hebrews_ch_1.docx": [703, 703]}
-son;	{"Proverbs_ch_9.docx": [1205], "Jeremiah_ch_2.docx": [2195, 2195], "Amos_ch_7.docx": [2921, 2921], "Mark_ch_9.docx": [872], "Hebrews_ch_1.docx": [703]}
 son;	{"Proverbs_ch_9.docx": [1205], "Jeremiah_ch_2.docx": [2195], "Amos_ch_7.docx": [2921], "Mark_ch_9.docx": [872], "Hebrews_ch_1.docx": [703]}

@@ -1,4 +1,2 @@
 
 booths	{"Amos_ch_2.docx": [2184]}
-booths	{"Amos_ch_2.docx": [2184]}
-booths	{"Amos_ch_2.docx": [2184]}

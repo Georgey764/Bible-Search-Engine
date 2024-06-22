@@ -1,4 +1,2 @@
 
-stamme	{"Isaiah_ch_32.docx": [420], "Isaiah_ch_35.docx": [700, 700, 700]}
-stamme	{"Isaiah_ch_32.docx": [420], "Isaiah_ch_35.docx": [700, 700]}
 stamme	{"Isaiah_ch_32.docx": [420], "Isaiah_ch_35.docx": [700]}

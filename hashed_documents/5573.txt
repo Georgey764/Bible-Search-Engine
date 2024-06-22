@@ -1,4 +1,2 @@
 
-flamin	{"Genesis_ch_3.docx": [3735], "Psalms_ch_7.docx": [1326, 1326, 1326], "Zechariah_ch_12.docx": [1092, 1092, 1092], "Matthew_ch_13.docx": [5516, 6642, 5516, 6642, 5516, 6642], "2 Thessalonians_ch_1.docx": [1146, 1146], "Revelation_ch_4.docx": [763, 763]}
-flamin	{"Genesis_ch_3.docx": [3735], "Psalms_ch_7.docx": [1326, 1326], "Zechariah_ch_12.docx": [1092, 1092], "Matthew_ch_13.docx": [5516, 6642, 5516, 6642], "2 Thessalonians_ch_1.docx": [1146], "Revelation_ch_4.docx": [763]}
-flamin	{"Genesis_ch_3.docx": [3735], "Psalms_ch_7.docx": [1326], "Zechariah_ch_12.docx": [1092], "Matthew_ch_13.docx": [5516, 6642], "2 Thessalonians_ch_1.docx": [1146], "Revelation_ch_4.docx": [763]}
+flamin	{"Genesis_ch_3.docx": [3735], "Psalms_ch_7.docx": [1326], "Zechariah_ch_12.docx": [1092], "Matthew_ch_13.docx": [5516, 6642], "Ephesians_ch_6.docx": [1706], "2 Thessalonians_ch_1.docx": [1146], "Revelation_ch_4.docx": [763]}

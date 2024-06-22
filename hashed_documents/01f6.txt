@@ -1,6 +1,2 @@
 
-pater	{"Numbers_ch_1.docx": [480], "1 Chronicles_ch_9.docx": [2611, 2611, 2611], "Jeremiah_ch_32.docx": [1095, 1266, 1602, 1095, 1266, 1602, 1095, 1266, 1602], "Ephesians_ch_3.docx": [1704, 1704]}
-pater	{"Numbers_ch_1.docx": [480], "1 Chronicles_ch_9.docx": [2611, 2611], "Jeremiah_ch_32.docx": [1095, 1266, 1602, 1095, 1266, 1602], "Ephesians_ch_3.docx": [1704]}
-26{	{"2 Chronicles_ch_28.docx": [4527], "2 Chronicles_ch_35.docx": [6004]}
-7wis	{"Proverbs_ch_4.docx": [572], "Proverbs_ch_24.docx": [500]}
 pater	{"Numbers_ch_1.docx": [480], "1 Chronicles_ch_9.docx": [2611], "Jeremiah_ch_32.docx": [1095, 1266, 1602], "Ephesians_ch_3.docx": [1704]}

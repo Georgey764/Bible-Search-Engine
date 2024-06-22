@@ -1,6 +1,3 @@
 
-winno	{"Isaiah_ch_41.docx": [2642]}
-funct	{"Romans_ch_12.docx": [586]}
-winno	{"Isaiah_ch_41.docx": [2642]}
-winno	{"Isaiah_ch_41.docx": [2642]}
-funct	{"Romans_ch_12.docx": [586]}
+funct	{"Deuteronomy_ch_34.docx": [719], "Romans_ch_12.docx": [586]}
+winno	{"Isaiah_ch_41.docx": [2642], "Amos_ch_9.docx": [2549]}

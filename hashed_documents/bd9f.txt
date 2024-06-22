@@ -1,5 +1,2 @@
 
 siha	{"Ezra_ch_2.docx": [1753]}
-35they	{"Exodus_ch_35.docx": [3655], "1 Kings_ch_6.docx": [3974], "Psalms_ch_78.docx": [3474], "Psalms_ch_106.docx": [3240]}
-siha	{"Ezra_ch_2.docx": [1753]}
-siha	{"Ezra_ch_2.docx": [1753]}

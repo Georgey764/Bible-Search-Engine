@@ -1,11 +1,4 @@
 
-evilat	{"Genesis_ch_2.docx": [1602], "Genesis_ch_10.docx": [904, 904, 904], "Genesis_ch_25.docx": [1768, 1768, 1768]}
-dimen	{"1 Kings_ch_7.docx": [4786], "2 Kings_ch_16.docx": [1513, 1513, 1513], "Ezekiel_ch_43.docx": [1804, 1804, 1804]}
-lodh	{"Nehemiah_ch_7.docx": [2345]}
-22so	{"Genesis_ch_1.docx": [3362], "Genesis_ch_29.docx": [2867], "Genesis_ch_38.docx": [2996], "Exodus_ch_4.docx": [3289], "Exodus_ch_10.docx": [3604], "Exodus_ch_14.docx": [3821], "Leviticus_ch_8.docx": [2746], "Numbers_ch_27.docx": [3005], "Deuteronomy_ch_3.docx": [3236], "Deuteronomy_ch_31.docx": [3945], "Judges_ch_18.docx": [4798], "Judges_ch_20.docx": [2646], "1 Samuel_ch_10.docx": [3841], "1 Samuel_ch_15.docx": [3275], "1 Samuel_ch_16.docx": [3704], "1 Samuel_ch_17.docx": [3033], "1 Samuel_ch_19.docx": [3321], "1 Samuel_ch_24.docx": [3289], "2 Samuel_ch_11.docx": [3303], "2 Samuel_ch_20.docx": [4037], "2 Kings_ch_17.docx": [3950], "1 Chronicles_ch_7.docx": [2597], "2 Chronicles_ch_9.docx": [3300], "2 Chronicles_ch_11.docx": [2380], "2 Chronicles_ch_32.docx": [4404], "2 Chronicles_ch_34.docx": [3857], "Job_ch_15.docx": [1935], "Psalms_ch_25.docx": [1938], "Psalms_ch_37.docx": [2031], "Psalms_ch_50.docx": [2117], "Psalms_ch_55.docx": [2328], "Psalms_ch_71.docx": [2218], "Psalms_ch_74.docx": [2239], "Psalms_ch_105.docx": [1752], "Psalms_ch_118.docx": [1811], "Psalms_ch_119.docx": [1604], "Isaiah_ch_7.docx": [3107], "Isaiah_ch_33.docx": [3468], "Jeremiah_ch_3.docx": [4118], "Jeremiah_ch_11.docx": [4283], "Jeremiah_ch_29.docx": [3460]}
-evilat	{"Genesis_ch_2.docx": [1602], "Genesis_ch_10.docx": [904, 904], "Genesis_ch_25.docx": [1768, 1768]}
-dimen	{"1 Kings_ch_7.docx": [4786], "2 Kings_ch_16.docx": [1513, 1513], "Ezekiel_ch_43.docx": [1804, 1804]}
-lodh	{"Nehemiah_ch_7.docx": [2345]}
 evilat	{"Genesis_ch_2.docx": [1602], "Genesis_ch_10.docx": [904], "Genesis_ch_25.docx": [1768]}
 dimen	{"1 Kings_ch_7.docx": [4786], "2 Kings_ch_16.docx": [1513], "Ezekiel_ch_43.docx": [1804]}
 lodh	{"Nehemiah_ch_7.docx": [2345]}

@@ -1,4 +1,2 @@
 
-armeni	{"Genesis_ch_10.docx": [465], "Isaiah_ch_37.docx": [6065, 6065, 6065]}
-armeni	{"Genesis_ch_10.docx": [465], "Isaiah_ch_37.docx": [6065, 6065]}
 armeni	{"Genesis_ch_10.docx": [465], "Isaiah_ch_37.docx": [6065]}

@@ -1,4 +1,2 @@
 
-corps	{"Numbers_ch_6.docx": [605], "Numbers_ch_19.docx": [1454, 1454, 1454], "Jeremiah_ch_16.docx": [584, 584, 584], "Mark_ch_6.docx": [4146, 4146], "Revelation_ch_11.docx": [1049, 1339, 1049, 1339]}
-corps	{"Numbers_ch_6.docx": [605], "Numbers_ch_19.docx": [1454, 1454], "Jeremiah_ch_16.docx": [584, 584], "Mark_ch_6.docx": [4146], "Revelation_ch_11.docx": [1049, 1339]}
 corps	{"Numbers_ch_6.docx": [605], "Numbers_ch_19.docx": [1454], "Jeremiah_ch_16.docx": [584], "Mark_ch_6.docx": [4146], "Revelation_ch_11.docx": [1049, 1339]}

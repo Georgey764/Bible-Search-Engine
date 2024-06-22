@@ -1,3 +1,2 @@
 
-eagern	{"2 Corinthians_ch_8.docx": [998, 1611, 1611]}
-eagern	{"2 Corinthians_ch_8.docx": [998, 1611]}
+eagern	{"1 Chronicles_ch_29.docx": [1827, 2755, 3323], "2 Corinthians_ch_8.docx": [998, 1611]}

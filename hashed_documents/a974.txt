@@ -1,4 +1,2 @@
 
 jarib	{"1 Chronicles_ch_4.docx": [2993], "1 Chronicles_ch_11.docx": [6530]}
-jarib	{"1 Chronicles_ch_4.docx": [2993], "1 Chronicles_ch_11.docx": [6530]}
-jarib	{"1 Chronicles_ch_4.docx": [2993], "1 Chronicles_ch_11.docx": [6530]}

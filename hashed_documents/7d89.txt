@@ -1,3 +1,2 @@
 
-books	{"Psalms_ch_150.docx": [994], "Acts_ch_19.docx": [4463]}
-books	{"Acts_ch_19.docx": [4463]}
+books	{"Ruth_ch_4.docx": [3925, 4086], "2 Samuel_ch_24.docx": [5673], "1 Kings_ch_22.docx": [9470], "2 Kings_ch_25.docx": [4916, 4948, 5582], "1 Chronicles_ch_29.docx": [5739, 5763, 6193], "Esther_ch_10.docx": [4340, 4534, 4546], "Psalms_ch_150.docx": [994], "John_ch_21.docx": [4001], "Acts_ch_19.docx": [4463], "Hebrews_ch_13.docx": [4231], "3 John_ch_1.docx": [2046]}

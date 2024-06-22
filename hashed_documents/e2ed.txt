@@ -1,4 +1,2 @@
 
-stin	{"Exodus_ch_7.docx": [2335], "Exodus_ch_8.docx": [1832, 1832, 1832], "Exodus_ch_16.docx": [3865, 3865, 3865], "Job_ch_6.docx": [378, 378, 378], "Job_ch_31.docx": [3716, 3716, 3716], "Hosea_ch_13.docx": [2037, 2037, 2037], "1 Corinthians_ch_15.docx": [6649, 6711, 6649, 6711], "Revelation_ch_9.docx": [495, 683, 1212, 1225, 495, 683, 1212, 1225]}
-stin	{"Exodus_ch_7.docx": [2335], "Exodus_ch_8.docx": [1832, 1832], "Exodus_ch_16.docx": [3865, 3865], "Job_ch_6.docx": [378, 378], "Job_ch_31.docx": [3716, 3716], "Hosea_ch_13.docx": [2037, 2037], "1 Corinthians_ch_15.docx": [6649, 6711], "Revelation_ch_9.docx": [495, 683, 1212, 1225]}
 stin	{"Exodus_ch_7.docx": [2335], "Exodus_ch_8.docx": [1832], "Exodus_ch_16.docx": [3865], "Job_ch_6.docx": [378], "Job_ch_31.docx": [3716], "Hosea_ch_13.docx": [2037], "1 Corinthians_ch_15.docx": [6649, 6711], "Revelation_ch_9.docx": [495, 683, 1212, 1225]}

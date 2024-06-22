@@ -1,8 +1,3 @@
 
-center	{"Exodus_ch_25.docx": [1978], "Exodus_ch_26.docx": [1277, 2471, 1277, 2471, 1277, 2471], "Exodus_ch_27.docx": [443, 443, 443], "Exodus_ch_37.docx": [1961, 1966, 1961, 1966, 1961, 1966], "Numbers_ch_35.docx": [683, 683, 683], "1 Samuel_ch_9.docx": [2247, 2908, 2247, 2908, 2247, 2908], "1 Kings_ch_6.docx": [2424, 2424, 2424], "Daniel_ch_4.docx": [1365, 1365, 1365], "Mark_ch_3.docx": [362, 362], "Luke_ch_6.docx": [1003, 1003]}
-ahie	{"Numbers_ch_2.docx": [2208]}
-center	{"Exodus_ch_25.docx": [1978], "Exodus_ch_26.docx": [1277, 2471, 1277, 2471], "Exodus_ch_27.docx": [443, 443], "Exodus_ch_37.docx": [1961, 1966, 1961, 1966], "Numbers_ch_35.docx": [683, 683], "1 Samuel_ch_9.docx": [2247, 2908, 2247, 2908], "1 Kings_ch_6.docx": [2424, 2424], "Daniel_ch_4.docx": [1365, 1365], "Mark_ch_3.docx": [362], "Luke_ch_6.docx": [1003]}
-ahie	{"Numbers_ch_2.docx": [2208]}
-36also	{"Nehemiah_ch_11.docx": [10365]}
 center	{"Exodus_ch_25.docx": [1978], "Exodus_ch_26.docx": [1277, 2471], "Exodus_ch_27.docx": [443], "Exodus_ch_37.docx": [1961, 1966], "Numbers_ch_35.docx": [683], "1 Samuel_ch_9.docx": [2247, 2908], "1 Kings_ch_6.docx": [2424], "Daniel_ch_4.docx": [1365], "Mark_ch_3.docx": [362], "Luke_ch_6.docx": [1003]}
 ahie	{"Numbers_ch_2.docx": [2208]}

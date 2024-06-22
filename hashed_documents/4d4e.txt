@@ -1,2 +1,0 @@
-
-14they	{"Exodus_ch_39.docx": [1585], "1 Samuel_ch_2.docx": [2427], "1 Samuel_ch_8.docx": [1720], "1 Chronicles_ch_8.docx": [1040], "2 Chronicles_ch_11.docx": [1222], "Job_ch_21.docx": [1192], "Job_ch_39.docx": [1248], "Psalms_ch_81.docx": [1395], "Isaiah_ch_48.docx": [2357], "Jeremiah_ch_39.docx": [2082]}

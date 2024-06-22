@@ -1,4 +1,2 @@
 
-histor	{"Exodus_ch_9.docx": [3460], "Daniel_ch_11.docx": [28, 28, 28]}
-histor	{"Exodus_ch_9.docx": [3460], "Daniel_ch_11.docx": [28, 28]}
-histor	{"Exodus_ch_9.docx": [3460], "Daniel_ch_11.docx": [28]}
+histor	{"Genesis_ch_50.docx": [3723], "Exodus_ch_9.docx": [3460], "Exodus_ch_40.docx": [4061], "Leviticus_ch_27.docx": [4610, 4907], "Numbers_ch_36.docx": [2233], "Deuteronomy_ch_34.docx": [1453], "Joshua_ch_24.docx": [6106, 6137], "Ruth_ch_4.docx": [3796], "1 Samuel_ch_31.docx": [1992], "2 Samuel_ch_24.docx": [4807, 4841], "1 Kings_ch_22.docx": [8602, 8637], "2 Kings_ch_25.docx": [4693, 4924, 5553], "1 Chronicles_ch_29.docx": [5531, 5747, 6164], "2 Chronicles_ch_36.docx": [5650], "Ezra_ch_10.docx": [5936], "Song of Solomon_ch_8.docx": [2486], "Ezekiel_ch_48.docx": [5897], "Daniel_ch_11.docx": [28], "Obadiah_ch_1.docx": [4322], "Malachi_ch_4.docx": [1072], "Matthew_ch_28.docx": [2552], "Mark_ch_16.docx": [2338, 2565], "Luke_ch_24.docx": [5971], "John_ch_21.docx": [4177, 4504]}

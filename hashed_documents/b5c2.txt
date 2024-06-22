@@ -1,4 +1,2 @@
 
-heaped	{"Ruth_ch_2.docx": [2799], "2 Chronicles_ch_31.docx": [1479, 1479, 1479], "Psalms_ch_57.docx": [487, 487, 487]}
-heaped	{"Ruth_ch_2.docx": [2799], "2 Chronicles_ch_31.docx": [1479, 1479], "Psalms_ch_57.docx": [487, 487]}
 heaped	{"Ruth_ch_2.docx": [2799], "2 Chronicles_ch_31.docx": [1479], "Psalms_ch_57.docx": [487]}

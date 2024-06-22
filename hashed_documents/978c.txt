@@ -1,5 +1,2 @@
 
 rye	{"Exodus_ch_9.docx": [4360]}
-rye	{"Exodus_ch_9.docx": [4360]}
-27‘re	{"Deuteronomy_ch_9.docx": [4440]}
-rye	{"Exodus_ch_9.docx": [4360]}

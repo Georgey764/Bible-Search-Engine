@@ -1,4 +1,2 @@
 
-cheat	{"Psalms_ch_62.docx": [1040], "1 Corinthians_ch_6.docx": [756, 756]}
-cheat	{"Psalms_ch_62.docx": [1040], "1 Corinthians_ch_6.docx": [756]}
 cheat	{"Psalms_ch_62.docx": [1040], "1 Corinthians_ch_6.docx": [756]}

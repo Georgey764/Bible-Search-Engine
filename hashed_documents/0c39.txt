@@ -1,7 +1,3 @@
 
-lydian	{"Genesis_ch_10.docx": [1550], "Jeremiah_ch_46.docx": [1277, 1277, 1277], "Ezekiel_ch_27.docx": [1222, 1222, 1222], "Ezekiel_ch_30.docx": [510, 510]}
-indif	{"Psalms_ch_119.docx": [2159], "Jeremiah_ch_48.docx": [1241, 1241, 1241]}
-lydian	{"Genesis_ch_10.docx": [1550], "Jeremiah_ch_46.docx": [1277, 1277], "Ezekiel_ch_27.docx": [1222, 1222], "Ezekiel_ch_30.docx": [510]}
-indif	{"Psalms_ch_119.docx": [2159], "Jeremiah_ch_48.docx": [1241, 1241]}
 lydian	{"Genesis_ch_10.docx": [1550], "Jeremiah_ch_46.docx": [1277], "Ezekiel_ch_27.docx": [1222], "Ezekiel_ch_30.docx": [510]}
 indif	{"Psalms_ch_119.docx": [2159], "Jeremiah_ch_48.docx": [1241]}

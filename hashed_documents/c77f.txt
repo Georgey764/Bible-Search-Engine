@@ -1,5 +1,2 @@
 
-bay	{"Mark_ch_3.docx": [1247], "Acts_ch_27.docx": [5209, 5209]}
-45‘t	{"Leviticus_ch_13.docx": [6379], "Leviticus_ch_26.docx": [6263], "Matthew_ch_13.docx": [6109]}
-5while	{"Psalms_ch_76.docx": [370]}
 bay	{"Mark_ch_3.docx": [1247], "Acts_ch_27.docx": [5209]}

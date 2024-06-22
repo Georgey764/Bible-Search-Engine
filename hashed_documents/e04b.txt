@@ -1,3 +1,2 @@
 
-adopti	{"Romans_ch_8.docx": [1872, 2935, 2935], "Romans_ch_9.docx": [370, 370]}
 adopti	{"Romans_ch_8.docx": [1872, 2935], "Romans_ch_9.docx": [370]}

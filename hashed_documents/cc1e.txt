@@ -1,5 +1,2 @@
 
 huf	{"2 Kings_ch_5.docx": [2242]}
-5they’	{"Exodus_ch_10.docx": [654], "Psalms_ch_14.docx": [855], "Psalms_ch_64.docx": [466], "Jeremiah_ch_50.docx": [958]}
-huf	{"2 Kings_ch_5.docx": [2242]}
-huf	{"2 Kings_ch_5.docx": [2242]}

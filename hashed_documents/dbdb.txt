@@ -1,3 +1,2 @@
 
-arpac	{"1 Chronicles_ch_1.docx": [1502], "Luke_ch_3.docx": [7123, 7123]}
 arpac	{"1 Chronicles_ch_1.docx": [1502], "Luke_ch_3.docx": [7123]}

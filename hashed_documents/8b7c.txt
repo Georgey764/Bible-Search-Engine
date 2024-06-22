@@ -1,5 +1,2 @@
 
-knu	{"Daniel_ch_5.docx": [909, 4888, 4888, 4888]}
-26ra	{"Proverbs_ch_30.docx": [2698]}
-knu	{"Daniel_ch_5.docx": [909, 4888, 4888]}
 knu	{"Daniel_ch_5.docx": [909, 4888]}

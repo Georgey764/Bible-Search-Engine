@@ -1,4 +1,2 @@
 
-subsid	{"Isaiah_ch_60.docx": [3366], "Matthew_ch_14.docx": [3839, 3839, 3839]}
-subsid	{"Isaiah_ch_60.docx": [3366], "Matthew_ch_14.docx": [3839, 3839]}
 subsid	{"Isaiah_ch_60.docx": [3366], "Matthew_ch_14.docx": [3839]}

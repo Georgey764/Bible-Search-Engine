@@ -1,7 +1,3 @@
 
 choth	{"1 Chronicles_ch_7.docx": [3993]}
-alley	{"Job_ch_24.docx": [1029], "Luke_ch_14.docx": [2714, 2714]}
-choth	{"1 Chronicles_ch_7.docx": [3993]}
-alley	{"Job_ch_24.docx": [1029], "Luke_ch_14.docx": [2714]}
-choth	{"1 Chronicles_ch_7.docx": [3993]}
 alley	{"Job_ch_24.docx": [1029], "Luke_ch_14.docx": [2714]}

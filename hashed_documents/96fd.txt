@@ -1,9 +1,3 @@
 
-ourse	{"Genesis_ch_11.docx": [418], "Judges_ch_19.docx": [1415, 1415, 1415], "Ezra_ch_8.docx": [2683, 2683, 2683], "Nehemiah_ch_8.docx": [3741, 3741, 3741], "Job_ch_34.docx": [192, 192, 192], "Psalms_ch_136.docx": [2294, 2294, 2294], "Ezekiel_ch_11.docx": [489, 489, 489], "John_ch_4.docx": [5459, 5459], "Romans_ch_14.docx": [1134, 1144, 1134, 1144], "Romans_ch_15.docx": [29, 29], "2 Corinthians_ch_1.docx": [1523, 1523], "2 Corinthians_ch_3.docx": [634, 634], "2 Corinthians_ch_4.docx": [646, 646], "1 John_ch_1.docx": [1053, 1053]}
-jore	{"1 Chronicles_ch_5.docx": [1644]}
-ourse	{"Genesis_ch_11.docx": [418], "Judges_ch_19.docx": [1415, 1415], "Ezra_ch_8.docx": [2683, 2683], "Nehemiah_ch_8.docx": [3741, 3741], "Job_ch_34.docx": [192, 192], "Psalms_ch_136.docx": [2294, 2294], "Ezekiel_ch_11.docx": [489, 489], "John_ch_4.docx": [5459], "Romans_ch_14.docx": [1134, 1144], "Romans_ch_15.docx": [29], "2 Corinthians_ch_1.docx": [1523], "2 Corinthians_ch_3.docx": [634], "2 Corinthians_ch_4.docx": [646], "1 John_ch_1.docx": [1053]}
-17who	{"1 Kings_ch_5.docx": [2300], "Psalms_ch_25.docx": [1499]}
-jore	{"1 Chronicles_ch_5.docx": [1644]}
-10wo	{"Psalms_ch_94.docx": [826], "Micah_ch_6.docx": [2223]}
-ourse	{"Genesis_ch_11.docx": [418], "Judges_ch_19.docx": [1415], "Ezra_ch_8.docx": [2683], "Nehemiah_ch_8.docx": [3741], "Job_ch_34.docx": [192], "Psalms_ch_136.docx": [2294], "Ezekiel_ch_11.docx": [489], "John_ch_4.docx": [5459], "Romans_ch_14.docx": [1134, 1144], "Romans_ch_15.docx": [29], "2 Corinthians_ch_1.docx": [1523], "2 Corinthians_ch_3.docx": [634], "2 Corinthians_ch_4.docx": [646], "1 John_ch_1.docx": [1053]}
+ourse	{"Genesis_ch_11.docx": [418], "Judges_ch_19.docx": [1415], "Ezra_ch_8.docx": [2683], "Nehemiah_ch_8.docx": [3741], "Job_ch_34.docx": [192], "Psalms_ch_136.docx": [2294], "Ezekiel_ch_11.docx": [489], "John_ch_4.docx": [5459], "Romans_ch_14.docx": [1134, 1144], "Romans_ch_15.docx": [29], "2 Corinthians_ch_1.docx": [1523], "2 Corinthians_ch_3.docx": [634], "2 Corinthians_ch_4.docx": [646], "Galatians_ch_6.docx": [432], "1 John_ch_1.docx": [1053]}
 jore	{"1 Chronicles_ch_5.docx": [1644]}

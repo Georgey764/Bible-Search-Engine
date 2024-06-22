@@ -1,7 +1,3 @@
 
-trades	{"1 Chronicles_ch_14.docx": [21], "Ezekiel_ch_27.docx": [2641, 2641, 2641], "Revelation_ch_18.docx": [4007, 4007]}
-jeijah	{"1 Chronicles_ch_15.docx": [3370]}
-trades	{"1 Chronicles_ch_14.docx": [21], "Ezekiel_ch_27.docx": [2641, 2641], "Revelation_ch_18.docx": [4007]}
-jeijah	{"1 Chronicles_ch_15.docx": [3370]}
-trades	{"1 Chronicles_ch_14.docx": [21], "Ezekiel_ch_27.docx": [2641], "Revelation_ch_18.docx": [4007]}
+trades	{"1 Chronicles_ch_14.docx": [21], "Proverbs_ch_31.docx": [1284], "Ezekiel_ch_27.docx": [2641], "Revelation_ch_18.docx": [4007]}
 jeijah	{"1 Chronicles_ch_15.docx": [3370]}

@@ -1,4 +1,2 @@
 
-peda	{"Numbers_ch_2.docx": [1851], "Nehemiah_ch_3.docx": [12318, 12318, 12318], "Nehemiah_ch_8.docx": [1398, 1398, 1398], "Nehemiah_ch_11.docx": [1266, 1266, 1266], "Ezekiel_ch_11.docx": [47, 1876, 47, 1876, 47, 1876]}
-peda	{"Numbers_ch_2.docx": [1851], "Nehemiah_ch_3.docx": [12318, 12318], "Nehemiah_ch_8.docx": [1398, 1398], "Nehemiah_ch_11.docx": [1266, 1266], "Ezekiel_ch_11.docx": [47, 1876, 47, 1876]}
-peda	{"Numbers_ch_2.docx": [1851], "Nehemiah_ch_3.docx": [12318], "Nehemiah_ch_8.docx": [1398], "Nehemiah_ch_11.docx": [1266], "Ezekiel_ch_11.docx": [47, 1876]}
+peda	{"Numbers_ch_2.docx": [1851], "Ezra_ch_10.docx": [7203], "Nehemiah_ch_3.docx": [12318], "Nehemiah_ch_8.docx": [1398], "Nehemiah_ch_11.docx": [1266], "Nehemiah_ch_13.docx": [1920], "Ezekiel_ch_11.docx": [47, 1876]}

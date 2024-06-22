@@ -1,2 +1,0 @@
-
-10‘i	{"Genesis_ch_43.docx": [1147], "Numbers_ch_10.docx": [1260], "Deuteronomy_ch_23.docx": [983], "Deuteronomy_ch_24.docx": [1504], "2 Samuel_ch_3.docx": [1389], "Psalms_ch_40.docx": [1206], "Ecclesiastes_ch_3.docx": [778], "Ecclesiastes_ch_8.docx": [1007], "Ecclesiastes_ch_10.docx": [1024], "Isaiah_ch_38.docx": [1294], "Isaiah_ch_53.docx": [1550], "Jeremiah_ch_20.docx": [1873], "Ezekiel_ch_24.docx": [1293], "Hosea_ch_2.docx": [1780]}

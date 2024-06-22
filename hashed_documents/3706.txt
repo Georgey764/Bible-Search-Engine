@@ -1,3 +1,2 @@
 
-impet	{"2 Timothy_ch_3.docx": [536, 537, 537]}
 impet	{"2 Timothy_ch_3.docx": [536, 537]}

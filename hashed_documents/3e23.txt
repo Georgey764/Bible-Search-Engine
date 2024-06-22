@@ -1,2 +1,0 @@
-
-5‘and	{"Exodus_ch_22.docx": [634], "Leviticus_ch_4.docx": [597], "Numbers_ch_17.docx": [562], "Deuteronomy_ch_24.docx": [724], "Joshua_ch_20.docx": [600], "Nehemiah_ch_5.docx": [595], "Isaiah_ch_7.docx": [850], "Ezekiel_ch_15.docx": [453], "Ezekiel_ch_20.docx": [598], "Micah_ch_4.docx": [1169], "Micah_ch_5.docx": [1341], "Haggai_ch_1.docx": [745], "Zechariah_ch_2.docx": [477], "Zechariah_ch_13.docx": [890], "Malachi_ch_1.docx": [743], "Matthew_ch_6.docx": [673]}

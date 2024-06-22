@@ -1,4 +1,2 @@
 
-phalet	{"Numbers_ch_16.docx": [79], "1 Chronicles_ch_3.docx": [1881, 1881, 1881]}
-phalet	{"Numbers_ch_16.docx": [79], "1 Chronicles_ch_3.docx": [1881, 1881]}
 phalet	{"Numbers_ch_16.docx": [79], "1 Chronicles_ch_3.docx": [1881]}

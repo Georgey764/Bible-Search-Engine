@@ -1,4 +1,2 @@
 
-galaa	{"Genesis_ch_46.docx": [2450], "Numbers_ch_26.docx": [3439, 3447, 3504, 3439, 3447, 3504, 3439, 3447, 3504], "Numbers_ch_27.docx": [14, 14, 14], "Numbers_ch_32.docx": [81, 3487, 3852, 5279, 5293, 81, 3487, 3852, 5279, 5293, 81, 3487, 3852, 5279, 5293], "2 Samuel_ch_23.docx": [4908, 4908, 4908], "1 Chronicles_ch_9.docx": [2144, 2315, 2144, 2315, 2144, 2315]}
-galaa	{"Genesis_ch_46.docx": [2450], "Numbers_ch_26.docx": [3439, 3447, 3504, 3439, 3447, 3504], "Numbers_ch_27.docx": [14, 14], "Numbers_ch_32.docx": [81, 3487, 3852, 5279, 5293, 81, 3487, 3852, 5279, 5293], "2 Samuel_ch_23.docx": [4908, 4908], "1 Chronicles_ch_9.docx": [2144, 2315, 2144, 2315]}
-galaa	{"Genesis_ch_46.docx": [2450], "Numbers_ch_26.docx": [3439, 3447, 3504], "Numbers_ch_27.docx": [14], "Numbers_ch_32.docx": [81, 3487, 3852, 5279, 5293], "2 Samuel_ch_23.docx": [4908], "1 Chronicles_ch_9.docx": [2144, 2315]}
+galaa	{"Genesis_ch_46.docx": [2450], "Numbers_ch_26.docx": [3439, 3447, 3504], "Numbers_ch_27.docx": [14], "Numbers_ch_32.docx": [81, 3487, 3852, 5279, 5293], "Numbers_ch_36.docx": [68], "2 Samuel_ch_23.docx": [4908], "1 Chronicles_ch_9.docx": [2144, 2315]}

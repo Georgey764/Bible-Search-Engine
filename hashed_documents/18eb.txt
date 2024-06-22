@@ -1,6 +1,3 @@
 
 gazit	{"Judges_ch_16.docx": [127]}
 unavo	{"Luke_ch_17.docx": [73]}
-gazit	{"Judges_ch_16.docx": [127]}
-gazit	{"Judges_ch_16.docx": [127]}
-unavo	{"Luke_ch_17.docx": [73]}

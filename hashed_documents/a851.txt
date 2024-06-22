@@ -1,4 +1,2 @@
 
-dys	{"Deuteronomy_ch_28.docx": [2897]}
-dys	{"Deuteronomy_ch_28.docx": [2897]}
-dys	{"Deuteronomy_ch_28.docx": [2897]}
+dys	{"Deuteronomy_ch_28.docx": [2897], "Acts_ch_28.docx": [1321]}

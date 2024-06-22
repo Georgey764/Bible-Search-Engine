@@ -1,2 +1,2 @@
 
-7pl	{"Psalms_ch_25.docx": [593]}
+clemen	{"Philippians_ch_4.docx": [386], "1 Peter_ch_5.docx": [2603]}

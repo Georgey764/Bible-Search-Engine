@@ -1,4 +1,2 @@
 
-elderl	{"Genesis_ch_44.docx": [4102], "Leviticus_ch_19.docx": [4282, 4282, 4282], "1 Kings_ch_13.docx": [4068, 4068, 4068]}
-elderl	{"Genesis_ch_44.docx": [4102], "Leviticus_ch_19.docx": [4282, 4282], "1 Kings_ch_13.docx": [4068, 4068]}
 elderl	{"Genesis_ch_44.docx": [4102], "Leviticus_ch_19.docx": [4282], "1 Kings_ch_13.docx": [4068]}

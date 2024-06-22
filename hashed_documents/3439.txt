@@ -1,5 +1,2 @@
 
-wide!	{"Deuteronomy_ch_3.docx": [1483], "Zechariah_ch_5.docx": [165, 165, 165]}
-52that	{"Genesis_ch_31.docx": [7487]}
-wide!	{"Deuteronomy_ch_3.docx": [1483], "Zechariah_ch_5.docx": [165, 165]}
 wide!	{"Deuteronomy_ch_3.docx": [1483], "Zechariah_ch_5.docx": [165]}

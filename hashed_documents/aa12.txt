@@ -1,4 +1,2 @@
 
-obad	{"1 Chronicles_ch_9.docx": [2259], "2 Chronicles_ch_34.docx": [2157, 2157, 2157], "Ezra_ch_8.docx": [983, 983, 983], "Nehemiah_ch_10.docx": [268, 268, 268], "Nehemiah_ch_12.docx": [2695, 2695, 2695]}
-obad	{"1 Chronicles_ch_9.docx": [2259], "2 Chronicles_ch_34.docx": [2157, 2157], "Ezra_ch_8.docx": [983, 983], "Nehemiah_ch_10.docx": [268, 268], "Nehemiah_ch_12.docx": [2695, 2695]}
-obad	{"1 Chronicles_ch_9.docx": [2259], "2 Chronicles_ch_34.docx": [2157], "Ezra_ch_8.docx": [983], "Nehemiah_ch_10.docx": [268], "Nehemiah_ch_12.docx": [2695]}
+obad	{"1 Chronicles_ch_9.docx": [2259], "2 Chronicles_ch_34.docx": [2157], "Ezra_ch_8.docx": [983], "Nehemiah_ch_10.docx": [268], "Nehemiah_ch_12.docx": [2695], "Amos_ch_9.docx": [4003, 4004, 4013], "Obadiah_ch_1.docx": [1, 9]}

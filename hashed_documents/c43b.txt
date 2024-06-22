@@ -1,4 +1,2 @@
 
-asmoth	{"1 Chronicles_ch_12.docx": [427], "1 Chronicles_ch_27.docx": [3425, 3425, 3425]}
-asmoth	{"1 Chronicles_ch_12.docx": [427], "1 Chronicles_ch_27.docx": [3425, 3425]}
 asmoth	{"1 Chronicles_ch_12.docx": [427], "1 Chronicles_ch_27.docx": [3425]}

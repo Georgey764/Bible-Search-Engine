@@ -1,2 +1,0 @@
-
-10‘d	{"2 Kings_ch_19.docx": [1561], "Ecclesiastes_ch_7.docx": [1048], "Malachi_ch_2.docx": [1692], "Matthew_ch_23.docx": [1034]}

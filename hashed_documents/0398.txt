@@ -1,4 +1,2 @@
 
-lec	{"Judges_ch_15.docx": [1637, 3621, 3621, 3621], "1 Chronicles_ch_4.docx": [2489, 2489, 2489], "Acts_ch_12.docx": [4748, 4748], "Acts_ch_19.docx": [1496, 1496]}
-lec	{"Judges_ch_15.docx": [1637, 3621, 3621], "1 Chronicles_ch_4.docx": [2489, 2489], "Acts_ch_12.docx": [4748], "Acts_ch_19.docx": [1496]}
 lec	{"Judges_ch_15.docx": [1637, 3621], "1 Chronicles_ch_4.docx": [2489], "Acts_ch_12.docx": [4748], "Acts_ch_19.docx": [1496]}

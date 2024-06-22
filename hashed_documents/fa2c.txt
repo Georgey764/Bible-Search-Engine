@@ -1,4 +1,2 @@
 
 signs;	{"Psalms_ch_119.docx": [6737]}
-signs;	{"Psalms_ch_119.docx": [6737]}
-signs;	{"Psalms_ch_119.docx": [6737]}

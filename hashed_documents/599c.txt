@@ -1,4 +1,2 @@
 
-angry!	{"Exodus_ch_22.docx": [3089], "Numbers_ch_32.docx": [978, 978, 978], "Deuteronomy_ch_1.docx": [4939, 4939, 4939], "1 Kings_ch_21.docx": [3004, 3004, 3004], "2 Kings_ch_21.docx": [941, 941, 941], "Esther_ch_3.docx": [719, 719, 719], "James_ch_1.docx": [2138, 2138]}
-angry!	{"Exodus_ch_22.docx": [3089], "Numbers_ch_32.docx": [978, 978], "Deuteronomy_ch_1.docx": [4939, 4939], "1 Kings_ch_21.docx": [3004, 3004], "2 Kings_ch_21.docx": [941, 941], "Esther_ch_3.docx": [719, 719], "James_ch_1.docx": [2138]}
 angry!	{"Exodus_ch_22.docx": [3089], "Numbers_ch_32.docx": [978], "Deuteronomy_ch_1.docx": [4939], "1 Kings_ch_21.docx": [3004], "2 Kings_ch_21.docx": [941], "Esther_ch_3.docx": [719], "James_ch_1.docx": [2138]}

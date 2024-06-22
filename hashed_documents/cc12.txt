@@ -1,3 +1,0 @@
-
-30w	{"Genesis_ch_18.docx": [3975], "Genesis_ch_19.docx": [4638], "Genesis_ch_27.docx": [3814], "Genesis_ch_34.docx": [3891], "Genesis_ch_43.docx": [4183], "Exodus_ch_16.docx": [4700], "Numbers_ch_14.docx": [4320], "Judges_ch_9.docx": [5899], "1 Samuel_ch_20.docx": [4787], "1 Kings_ch_2.docx": [5038], "2 Kings_ch_6.docx": [4539], "1 Chronicles_ch_6.docx": [2133], "Isaiah_ch_14.docx": [4787], "Matthew_ch_8.docx": [3864]}
-8passi	{"Proverbs_ch_7.docx": [710]}

@@ -1,6 +1,2 @@
 
-gersam	{"Exodus_ch_2.docx": [3038], "Exodus_ch_18.docx": [313, 313, 313], "1 Chronicles_ch_23.docx": [1716, 1716], "1 Chronicles_ch_26.docx": [2951, 2951, 2951]}
-gersam	{"Exodus_ch_2.docx": [3038], "Exodus_ch_18.docx": [313, 313], "1 Chronicles_ch_26.docx": [2951, 2951], "1 Chronicles_ch_23.docx": [1716]}
-19fro	{"Numbers_ch_34.docx": [1971], "Deuteronomy_ch_6.docx": [2368], "Job_ch_41.docx": [1695], "Ezekiel_ch_32.docx": [3093]}
-2men	{"Job_ch_28.docx": [100]}
 gersam	{"Exodus_ch_2.docx": [3038], "Exodus_ch_18.docx": [313], "1 Chronicles_ch_23.docx": [1716], "1 Chronicles_ch_26.docx": [2951]}

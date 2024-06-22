@@ -1,4 +1,2 @@
 
-newbor	{"Deuteronomy_ch_28.docx": [7940], "Deuteronomy_ch_32.docx": [3808, 3808, 3808], "1 Samuel_ch_7.docx": [1758, 1758, 1758], "1 Peter_ch_2.docx": [118, 118]}
-newbor	{"Deuteronomy_ch_28.docx": [7940], "Deuteronomy_ch_32.docx": [3808, 3808], "1 Samuel_ch_7.docx": [1758, 1758], "1 Peter_ch_2.docx": [118]}
 newbor	{"Deuteronomy_ch_28.docx": [7940], "Deuteronomy_ch_32.docx": [3808], "1 Samuel_ch_7.docx": [1758], "1 Peter_ch_2.docx": [118]}

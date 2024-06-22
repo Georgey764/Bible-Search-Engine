@@ -1,7 +1,3 @@
 
-cheese	{"1 Samuel_ch_17.docx": [2308], "2 Samuel_ch_17.docx": [4653, 4653, 4653], "Job_ch_10.docx": [965, 965, 965]}
-normal	{"Psalms_ch_45.docx": [193], "Psalms_ch_102.docx": [2214, 2214, 2214], "Mark_ch_7.docx": [4469, 4469], "Hebrews_ch_11.docx": [2905, 2919, 2905, 2919], "Hebrews_ch_12.docx": [1316, 1316]}
-cheese	{"1 Samuel_ch_17.docx": [2308], "2 Samuel_ch_17.docx": [4653, 4653], "Job_ch_10.docx": [965, 965]}
-normal	{"Psalms_ch_45.docx": [193], "Psalms_ch_102.docx": [2214, 2214], "Mark_ch_7.docx": [4469], "Hebrews_ch_11.docx": [2905, 2919], "Hebrews_ch_12.docx": [1316]}
 cheese	{"1 Samuel_ch_17.docx": [2308], "2 Samuel_ch_17.docx": [4653], "Job_ch_10.docx": [965]}
-normal	{"Psalms_ch_45.docx": [193], "Psalms_ch_102.docx": [2214], "Mark_ch_7.docx": [4469], "Hebrews_ch_11.docx": [2905, 2919], "Hebrews_ch_12.docx": [1316]}
+normal	{"Esther_ch_10.docx": [4326], "Psalms_ch_45.docx": [193], "Psalms_ch_102.docx": [2214], "Ezekiel_ch_48.docx": [6697], "Daniel_ch_12.docx": [3131], "Mark_ch_7.docx": [4469], "Hebrews_ch_11.docx": [2905, 2919], "Hebrews_ch_12.docx": [1316]}

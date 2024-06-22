@@ -1,4 +1,2 @@
 
-rims	{"1 Kings_ch_7.docx": [5672], "Ezekiel_ch_1.docx": [2077, 2077, 2077]}
-rims	{"1 Kings_ch_7.docx": [5672], "Ezekiel_ch_1.docx": [2077, 2077]}
 rims	{"1 Kings_ch_7.docx": [5672], "Ezekiel_ch_1.docx": [2077]}

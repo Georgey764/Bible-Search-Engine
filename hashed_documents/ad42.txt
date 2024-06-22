@@ -1,3 +1,0 @@
-
-18‘i	{"Exodus_ch_21.docx": [2163], "Numbers_ch_21.docx": [2388], "Joshua_ch_1.docx": [2668], "1 Chronicles_ch_16.docx": [1939], "1 Chronicles_ch_22.docx": [3009], "Job_ch_28.docx": [1599], "Job_ch_29.docx": [1524], "Job_ch_32.docx": [1821], "Job_ch_34.docx": [1599], "Job_ch_38.docx": [1689], "Psalms_ch_50.docx": [1654], "Psalms_ch_66.docx": [1605], "Ecclesiastes_ch_2.docx": [2681], "Ecclesiastes_ch_3.docx": [1952], "Ecclesiastes_ch_7.docx": [1966], "Isaiah_ch_37.docx": [2770], "Jeremiah_ch_29.docx": [2606], "Ezekiel_ch_20.docx": [2999], "Ezekiel_ch_30.docx": [2580], "Ezekiel_ch_33.docx": [3556], "Matthew_ch_5.docx": [1768], "Matthew_ch_16.docx": [2251], "Matthew_ch_18.docx": [2467]}
-18‘not	{"Leviticus_ch_10.docx": [3183]}

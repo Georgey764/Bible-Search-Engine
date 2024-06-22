@@ -1,6 +1,3 @@
 
 becho	{"1 Samuel_ch_9.docx": [23]}
-such-a	{"Acts_ch_5.docx": [991, 1063, 1063]}
-becho	{"1 Samuel_ch_9.docx": [23]}
-becho	{"1 Samuel_ch_9.docx": [23]}
 such-a	{"Acts_ch_5.docx": [991, 1063]}

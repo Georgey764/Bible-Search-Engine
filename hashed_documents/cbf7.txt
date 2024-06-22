@@ -1,5 +1,2 @@
 
 tabee	{"Ezra_ch_4.docx": [990]}
-tabee	{"Ezra_ch_4.docx": [990]}
-12‘by	{"Job_ch_26.docx": [1043], "Ezekiel_ch_31.docx": [1824], "Ezekiel_ch_39.docx": [2089], "Hosea_ch_11.docx": [1931]}
-tabee	{"Ezra_ch_4.docx": [990]}

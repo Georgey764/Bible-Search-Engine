@@ -1,2 +1,0 @@
-
-24‘no	{"Exodus_ch_12.docx": [3952], "Deuteronomy_ch_14.docx": [2326], "1 Samuel_ch_2.docx": [4373], "Ecclesiastes_ch_2.docx": [3614], "Ezekiel_ch_24.docx": [3568], "Matthew_ch_6.docx": [3122], "Matthew_ch_7.docx": [2767]}

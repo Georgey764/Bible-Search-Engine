@@ -1,4 +1,2 @@
 
-naphth	{"Joshua_ch_15.docx": [1378], "Joshua_ch_18.docx": [2428, 2428, 2428]}
-naphth	{"Joshua_ch_15.docx": [1378], "Joshua_ch_18.docx": [2428, 2428]}
 naphth	{"Joshua_ch_15.docx": [1378], "Joshua_ch_18.docx": [2428]}

@@ -1,2 +1,0 @@
-
-1bac	{"Ruth_ch_1.docx": [4], "1 Kings_ch_4.docx": [5], "1 Chronicles_ch_10.docx": [148]}

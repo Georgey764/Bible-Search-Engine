@@ -1,5 +1,2 @@
 
-chiefd	{"1 Kings_ch_8.docx": [2062], "Ezekiel_ch_30.docx": [2630, 2630, 2630]}
-chiefd	{"1 Kings_ch_8.docx": [2062], "Ezekiel_ch_30.docx": [2630, 2630]}
-8‘e	{"Song of Solomon_ch_3.docx": [1232], "Hosea_ch_9.docx": [1694]}
 chiefd	{"1 Kings_ch_8.docx": [2062], "Ezekiel_ch_30.docx": [2630]}

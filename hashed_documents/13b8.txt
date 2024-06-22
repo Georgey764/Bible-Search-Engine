@@ -1,2 +1,0 @@
-
-29well	{"Joshua_ch_10.docx": [11074], "Judges_ch_19.docx": [4832], "1 Samuel_ch_23.docx": [4358], "2 Samuel_ch_2.docx": [4154], "1 Kings_ch_2.docx": [4672], "1 Kings_ch_4.docx": [3443], "1 Kings_ch_15.docx": [4306], "1 Kings_ch_20.docx": [4996], "1 Chronicles_ch_15.docx": [4155], "1 Chronicles_ch_21.docx": [4743], "Jeremiah_ch_29.docx": [4734], "Daniel_ch_5.docx": [5340]}

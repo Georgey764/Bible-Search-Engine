@@ -1,0 +1,2 @@
+
+rhythm	{"Song of Solomon_ch_8.docx": [3037], "Isaiah_ch_66.docx": [6183], "Lamentations_ch_5.docx": [3213], "Daniel_ch_12.docx": [4878], "Hosea_ch_14.docx": [2433], "Joel_ch_3.docx": [5549], "Amos_ch_9.docx": [4669], "Obadiah_ch_1.docx": [5179], "Jonah_ch_4.docx": [2532], "Micah_ch_7.docx": [5401], "Nahum_ch_3.docx": [4609], "Habakkuk_ch_3.docx": [4249], "Zephaniah_ch_3.docx": [5339], "Haggai_ch_2.docx": [5656], "Zechariah_ch_14.docx": [5506]}

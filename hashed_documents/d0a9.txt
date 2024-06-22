@@ -1,10 +1,4 @@
 
-chober	{"Numbers_ch_26.docx": [3068, 3073, 3073]}
-banis	{"Judges_ch_11.docx": [943], "2 Samuel_ch_14.docx": [2029, 2029, 2029], "Psalms_ch_49.docx": [1585, 1585, 1585], "Proverbs_ch_2.docx": [2095, 2095, 2095], "Jeremiah_ch_22.docx": [4853, 4853, 4853], "Micah_ch_6.docx": [2719, 2719, 2719]}
-resol	{"Nehemiah_ch_4.docx": [1511], "Ecclesiastes_ch_1.docx": [2188, 2188, 2188], "Ecclesiastes_ch_2.docx": [3393, 3393, 3393], "Jeremiah_ch_8.docx": [974, 974, 974], "Ezekiel_ch_7.docx": [1489, 1489, 1489], "Luke_ch_9.docx": [7123, 7123], "Luke_ch_12.docx": [7693, 7693], "Acts_ch_19.docx": [4772, 4786, 4801, 4818, 4836, 4860, 4885, 4772, 4786, 4801, 4818, 4836, 4860, 4885], "2 Corinthians_ch_1.docx": [1518, 1518], "2 Corinthians_ch_9.docx": [893, 893], "1 Peter_ch_4.docx": [330, 330]}
-chober	{"Numbers_ch_26.docx": [3073, 3073]}
-banis	{"Judges_ch_11.docx": [943], "2 Samuel_ch_14.docx": [2029, 2029], "Psalms_ch_49.docx": [1585, 1585], "Proverbs_ch_2.docx": [2095, 2095], "Jeremiah_ch_22.docx": [4853, 4853], "Micah_ch_6.docx": [2719, 2719]}
-resol	{"Nehemiah_ch_4.docx": [1511], "Ecclesiastes_ch_1.docx": [2188, 2188], "Ecclesiastes_ch_2.docx": [3393, 3393], "Jeremiah_ch_8.docx": [974, 974], "Ezekiel_ch_7.docx": [1489, 1489], "Luke_ch_9.docx": [7123], "Luke_ch_12.docx": [7693], "Acts_ch_19.docx": [4772, 4786, 4801, 4818, 4836, 4860, 4885], "2 Corinthians_ch_1.docx": [1518], "2 Corinthians_ch_9.docx": [893], "1 Peter_ch_4.docx": [330]}
 chober	{"Numbers_ch_26.docx": [3068, 3073]}
 banis	{"Judges_ch_11.docx": [943], "2 Samuel_ch_14.docx": [2029], "Psalms_ch_49.docx": [1585], "Proverbs_ch_2.docx": [2095], "Jeremiah_ch_22.docx": [4853], "Micah_ch_6.docx": [2719]}
 resol	{"Nehemiah_ch_4.docx": [1511], "Ecclesiastes_ch_1.docx": [2188], "Ecclesiastes_ch_2.docx": [3393], "Jeremiah_ch_8.docx": [974], "Ezekiel_ch_7.docx": [1489], "Luke_ch_9.docx": [7123], "Luke_ch_12.docx": [7693], "Acts_ch_19.docx": [4772, 4786, 4801, 4818, 4836, 4860, 4885], "2 Corinthians_ch_1.docx": [1518], "2 Corinthians_ch_9.docx": [893], "1 Peter_ch_4.docx": [330]}

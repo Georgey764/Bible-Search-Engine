@@ -1,13 +1,4 @@
 
-removi	{"Deuteronomy_ch_28.docx": [8936], "1 Samuel_ch_6.docx": [1945, 1945, 1945], "1 Samuel_ch_15.docx": [4195, 4195, 4195], "1 Samuel_ch_18.docx": [38, 38, 38], "2 Kings_ch_15.docx": [3276, 4059, 3276, 4059, 3276, 4059]}
-habaij	{"Ezra_ch_2.docx": [2695], "Nehemiah_ch_7.docx": [3818, 3818, 3818]}
-intimi	{"Proverbs_ch_17.docx": [992], "Proverbs_ch_19.docx": [1036, 1036], "Proverbs_ch_20.docx": [535, 535], "Zechariah_ch_9.docx": [3156, 3156, 3156]}
-coachi	{"Matthew_ch_14.docx": [788]}
-removi	{"Deuteronomy_ch_28.docx": [8936], "1 Samuel_ch_6.docx": [1945, 1945], "1 Samuel_ch_15.docx": [4195, 4195], "1 Samuel_ch_18.docx": [38, 38], "2 Kings_ch_15.docx": [3276, 4059, 3276, 4059]}
-habaij	{"Ezra_ch_2.docx": [2695], "Nehemiah_ch_7.docx": [3818, 3818]}
-1‘why	{"Job_ch_24.docx": [6]}
-intimi	{"Proverbs_ch_20.docx": [535, 535], "Zechariah_ch_9.docx": [3156, 3156], "Proverbs_ch_19.docx": [1036]}
-coachi	{"Matthew_ch_14.docx": [788]}
 removi	{"Deuteronomy_ch_28.docx": [8936], "1 Samuel_ch_6.docx": [1945], "1 Samuel_ch_15.docx": [4195], "1 Samuel_ch_18.docx": [38], "2 Kings_ch_15.docx": [3276, 4059]}
 habaij	{"Ezra_ch_2.docx": [2695], "Nehemiah_ch_7.docx": [3818]}
 intimi	{"Proverbs_ch_17.docx": [992], "Proverbs_ch_19.docx": [1036], "Proverbs_ch_20.docx": [535], "Zechariah_ch_9.docx": [3156]}

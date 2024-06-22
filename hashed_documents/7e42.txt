@@ -1,4 +1,2 @@
 
-fren	{"Judges_ch_16.docx": [4531], "2 Kings_ch_9.docx": [4099, 4099, 4099]}
-fren	{"Judges_ch_16.docx": [4531], "2 Kings_ch_9.docx": [4099, 4099]}
 fren	{"Judges_ch_16.docx": [4531], "2 Kings_ch_9.docx": [4099]}

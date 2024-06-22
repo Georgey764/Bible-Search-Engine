@@ -1,4 +1,2 @@
 
-work;	{"Leviticus_ch_11.docx": [3575], "Jeremiah_ch_17.docx": [4042, 4042, 4042]}
-work;	{"Leviticus_ch_11.docx": [3575], "Jeremiah_ch_17.docx": [4042, 4042]}
 work;	{"Leviticus_ch_11.docx": [3575], "Jeremiah_ch_17.docx": [4042]}

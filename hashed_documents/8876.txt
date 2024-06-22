@@ -1,4 +1,2 @@
 
-woes	{"Job_ch_40.docx": [1511], "Proverbs_ch_23.docx": [2447, 2447, 2447], "Revelation_ch_9.docx": [1591, 1591]}
-woes	{"Job_ch_40.docx": [1511], "Proverbs_ch_23.docx": [2447, 2447], "Revelation_ch_9.docx": [1591]}
 woes	{"Job_ch_40.docx": [1511], "Proverbs_ch_23.docx": [2447], "Revelation_ch_9.docx": [1591]}

@@ -1,4 +1,3 @@
 
 asimat	{"2 Kings_ch_17.docx": [5636]}
-asimat	{"2 Kings_ch_17.docx": [5636]}
-asimat	{"2 Kings_ch_17.docx": [5636]}
+notabl	{"Romans_ch_16.docx": [1085]}

@@ -1,5 +1,2 @@
 
-mall	{"2 Kings_ch_12.docx": [3361], "1 Chronicles_ch_25.docx": [803, 2654, 803, 2654, 803, 2654], "Nehemiah_ch_10.docx": [242, 1254, 242, 242, 1254], "Nehemiah_ch_12.docx": [167, 167, 167], "Job_ch_24.docx": [2604, 2604, 2604]}
-mall	{"2 Kings_ch_12.docx": [3361], "1 Chronicles_ch_25.docx": [803, 2654, 803, 2654], "Nehemiah_ch_10.docx": [242, 242, 1254], "Nehemiah_ch_12.docx": [167, 167], "Job_ch_24.docx": [2604, 2604]}
-8zi	{"Psalms_ch_97.docx": [734]}
-mall	{"2 Kings_ch_12.docx": [3361], "1 Chronicles_ch_25.docx": [803, 2654], "Nehemiah_ch_10.docx": [242, 1254], "Nehemiah_ch_12.docx": [167], "Job_ch_24.docx": [2604]}
+mall	{"2 Kings_ch_12.docx": [3361], "1 Chronicles_ch_25.docx": [803, 2654], "Ezra_ch_10.docx": [4850, 5186], "Nehemiah_ch_10.docx": [242, 1254], "Nehemiah_ch_12.docx": [167], "Job_ch_24.docx": [2604]}

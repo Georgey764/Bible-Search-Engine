@@ -1,4 +1,2 @@
 
-waits	{"Job_ch_24.docx": [1492], "Ezekiel_ch_29.docx": [353, 353, 353], "Hebrews_ch_10.docx": [1395, 1395]}
-waits	{"Job_ch_24.docx": [1492], "Ezekiel_ch_29.docx": [353, 353], "Hebrews_ch_10.docx": [1395]}
 waits	{"Job_ch_24.docx": [1492], "Ezekiel_ch_29.docx": [353], "Hebrews_ch_10.docx": [1395]}

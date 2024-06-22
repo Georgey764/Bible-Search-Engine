@@ -1,6 +1,3 @@
 
 rodi	{"1 Chronicles_ch_12.docx": [2777]}
 seali	{"Matthew_ch_27.docx": [7805]}
-rodi	{"1 Chronicles_ch_12.docx": [2777]}
-rodi	{"1 Chronicles_ch_12.docx": [2777]}
-seali	{"Matthew_ch_27.docx": [7805]}

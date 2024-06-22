@@ -1,4 +1,2 @@
 
-eli’	{"1 Samuel_ch_2.docx": [2227], "1 Samuel_ch_4.docx": [1760, 3302, 1760, 3302, 1760, 3302]}
-eli’	{"1 Samuel_ch_2.docx": [2227], "1 Samuel_ch_4.docx": [1760, 3302, 1760, 3302]}
 eli’	{"1 Samuel_ch_2.docx": [2227], "1 Samuel_ch_4.docx": [1760, 3302]}

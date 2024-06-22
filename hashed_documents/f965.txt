@@ -1,4 +1,2 @@
 
-vines;	{"Song of Solomon_ch_2.docx": [1924], "Ezekiel_ch_36.docx": [1676, 1676, 1676]}
-vines;	{"Song of Solomon_ch_2.docx": [1924], "Ezekiel_ch_36.docx": [1676, 1676]}
 vines;	{"Song of Solomon_ch_2.docx": [1924], "Ezekiel_ch_36.docx": [1676]}

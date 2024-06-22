@@ -1,4 +1,2 @@
 
-heads!	{"Judges_ch_8.docx": [5694], "1 Samuel_ch_29.docx": [762, 762, 762], "Nehemiah_ch_4.docx": [791, 791, 791]}
-heads!	{"Judges_ch_8.docx": [5694], "1 Samuel_ch_29.docx": [762, 762], "Nehemiah_ch_4.docx": [791, 791]}
-heads!	{"Judges_ch_8.docx": [5694], "1 Samuel_ch_29.docx": [762], "Nehemiah_ch_4.docx": [791]}
+heads!	{"Judges_ch_8.docx": [5694], "1 Samuel_ch_29.docx": [762], "Nehemiah_ch_4.docx": [791], "Obadiah_ch_1.docx": [2741], "Habakkuk_ch_3.docx": [2615]}

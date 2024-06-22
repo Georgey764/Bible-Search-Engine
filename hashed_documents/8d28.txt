@@ -1,4 +1,2 @@
 
-aboa	{"Acts_ch_8.docx": [6579], "Acts_ch_20.docx": [3730, 3749, 3769, 3730, 3749, 3769], "Acts_ch_21.docx": [855, 855], "Acts_ch_27.docx": [2334, 2334]}
-26ahi	{"Nehemiah_ch_10.docx": [1222]}
-aboa	{"Acts_ch_8.docx": [6579], "Acts_ch_20.docx": [3730, 3749, 3769], "Acts_ch_21.docx": [855], "Acts_ch_27.docx": [2334]}
+aboa	{"Acts_ch_8.docx": [6579], "Acts_ch_20.docx": [3730, 3749, 3769], "Acts_ch_21.docx": [855], "Acts_ch_27.docx": [2334], "Acts_ch_28.docx": [1689]}

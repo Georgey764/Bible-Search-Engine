@@ -1,4 +1,2 @@
 
-ebene	{"1 Samuel_ch_4.docx": [131], "1 Samuel_ch_5.docx": [14, 14, 14], "1 Samuel_ch_7.docx": [2314, 2314, 2314]}
-ebene	{"1 Samuel_ch_4.docx": [131], "1 Samuel_ch_5.docx": [14, 14], "1 Samuel_ch_7.docx": [2314, 2314]}
 ebene	{"1 Samuel_ch_4.docx": [131], "1 Samuel_ch_5.docx": [14], "1 Samuel_ch_7.docx": [2314]}

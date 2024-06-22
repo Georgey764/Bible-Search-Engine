@@ -1,4 +1,2 @@
 
-resid	{"Exodus_ch_12.docx": [3102, 7227, 7467, 7227, 7467, 7227, 7467], "1 Chronicles_ch_11.docx": [1070, 1070, 1070], "Esther_ch_5.docx": [35, 35, 35], "Lamentations_ch_4.docx": [3568, 3568, 3568]}
-resid	{"Exodus_ch_12.docx": [3102, 7227, 7467, 7227, 7467], "1 Chronicles_ch_11.docx": [1070, 1070], "Esther_ch_5.docx": [35, 35], "Lamentations_ch_4.docx": [3568, 3568]}
 resid	{"Exodus_ch_12.docx": [3102, 7227, 7467], "1 Chronicles_ch_11.docx": [1070], "Esther_ch_5.docx": [35], "Lamentations_ch_4.docx": [3568]}

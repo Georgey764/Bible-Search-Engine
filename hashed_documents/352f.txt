@@ -1,4 +1,2 @@
 
-ainea	{"Acts_ch_9.docx": [5364, 5488, 5488]}
-18bena	{"2 Samuel_ch_8.docx": [2647]}
 ainea	{"Acts_ch_9.docx": [5364, 5488]}

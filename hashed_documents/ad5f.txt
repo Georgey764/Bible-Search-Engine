@@ -1,6 +1,2 @@
 
-domain	{"Psalms_ch_66.docx": [599], "Psalms_ch_105.docx": [1720, 1720, 1720]}
-14[f	{"Numbers_ch_1.docx": [1228]}
-16‘i’	{"Job_ch_10.docx": [1542], "Ecclesiastes_ch_3.docx": [1645], "Isaiah_ch_42.docx": [2264], "Isaiah_ch_57.docx": [2610], "Ezekiel_ch_5.docx": [3041], "Ezekiel_ch_34.docx": [2823]}
-domain	{"Psalms_ch_66.docx": [599], "Psalms_ch_105.docx": [1720, 1720]}
 domain	{"Psalms_ch_66.docx": [599], "Psalms_ch_105.docx": [1720]}

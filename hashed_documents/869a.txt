@@ -1,5 +1,2 @@
 
-quara	{"Leviticus_ch_13.docx": [473, 507, 1565, 2712, 3373, 4522, 4583, 7042, 7510, 507, 1565, 2712, 3373, 4522, 4583, 7042, 7510, 507, 1565, 2712, 3373, 4522, 4583, 7042, 7510], "Leviticus_ch_14.docx": [5758, 5758, 5758]}
-27‘an	{"Genesis_ch_44.docx": [3504], "Exodus_ch_21.docx": [3233], "Leviticus_ch_4.docx": [3793], "Leviticus_ch_6.docx": [3576], "Leviticus_ch_15.docx": [3807], "Leviticus_ch_20.docx": [4167], "Leviticus_ch_26.docx": [3539], "Numbers_ch_28.docx": [3389], "Ezekiel_ch_18.docx": [4388], "Ezekiel_ch_20.docx": [4509]}
-quara	{"Leviticus_ch_13.docx": [473, 507, 1565, 2712, 3373, 4522, 4583, 7042, 7510, 507, 1565, 2712, 3373, 4522, 4583, 7042, 7510], "Leviticus_ch_14.docx": [5758, 5758]}
 quara	{"Leviticus_ch_13.docx": [473, 507, 1565, 2712, 3373, 4522, 4583, 7042, 7510], "Leviticus_ch_14.docx": [5758]}

@@ -1,4 +1,2 @@
 
-jair’	{"Judges_ch_10.docx": [409], "1 Chronicles_ch_2.docx": [1996, 1996, 1996]}
-jair’	{"Judges_ch_10.docx": [409], "1 Chronicles_ch_2.docx": [1996, 1996]}
 jair’	{"Judges_ch_10.docx": [409], "1 Chronicles_ch_2.docx": [1996]}

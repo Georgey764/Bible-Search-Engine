@@ -1,3 +1,2 @@
 
-–whi	{"Ephesians_ch_3.docx": [968]}
-–whi	{"Ephesians_ch_3.docx": [968]}
+–whi	{"Ephesians_ch_3.docx": [968], "Philippians_ch_4.docx": [773]}

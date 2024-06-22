@@ -1,4 +1,2 @@
 
-jacob;	{"Isaiah_ch_2.docx": [809], "Isaiah_ch_43.docx": [62, 62, 62], "Isaiah_ch_44.docx": [3510, 3510, 3510], "Jeremiah_ch_10.docx": [2136, 2136, 2136], "Jeremiah_ch_30.docx": [1314, 1314, 1314]}
-jacob;	{"Isaiah_ch_2.docx": [809], "Isaiah_ch_43.docx": [62, 62], "Isaiah_ch_44.docx": [3510, 3510], "Jeremiah_ch_10.docx": [2136, 2136], "Jeremiah_ch_30.docx": [1314, 1314]}
 jacob;	{"Isaiah_ch_2.docx": [809], "Isaiah_ch_43.docx": [62], "Isaiah_ch_44.docx": [3510], "Jeremiah_ch_10.docx": [2136], "Jeremiah_ch_30.docx": [1314]}

@@ -1,7 +1,4 @@
 
-anam	{"Genesis_ch_10.docx": [1618], "1 Chronicles_ch_1.docx": [969, 969, 969]}
-henad	{"Ezra_ch_3.docx": [1945], "Nehemiah_ch_3.docx": [9353, 11315, 9353, 11315, 9353, 11315], "Nehemiah_ch_10.docx": [464, 464, 464]}
-anam	{"Genesis_ch_10.docx": [1618], "1 Chronicles_ch_1.docx": [969, 969]}
-henad	{"Ezra_ch_3.docx": [1945], "Nehemiah_ch_3.docx": [9353, 11315, 9353, 11315], "Nehemiah_ch_10.docx": [464, 464]}
 anam	{"Genesis_ch_10.docx": [1618], "1 Chronicles_ch_1.docx": [969]}
 henad	{"Ezra_ch_3.docx": [1945], "Nehemiah_ch_3.docx": [9353, 11315], "Nehemiah_ch_10.docx": [464]}
+of&n	{"2 Peter_ch_3.docx": [1078]}

@@ -1,5 +1,2 @@
 
-reck	{"2 Chronicles_ch_23.docx": [17], "Hosea_ch_1.docx": [1978, 1978, 1978], "2 Corinthians_ch_10.docx": [276, 276]}
-4how	{"Genesis_ch_42.docx": [273], "Exodus_ch_21.docx": [325], "Leviticus_ch_11.docx": [226], "Leviticus_ch_25.docx": [286], "Numbers_ch_3.docx": [302], "Judges_ch_17.docx": [517], "1 Samuel_ch_29.docx": [513], "2 Kings_ch_13.docx": [532], "2 Kings_ch_15.docx": [310], "2 Kings_ch_17.docx": [405], "1 Chronicles_ch_20.docx": [816], "1 Chronicles_ch_21.docx": [502], "2 Chronicles_ch_13.docx": [458], "2 Chronicles_ch_18.docx": [615], "Jeremiah_ch_18.docx": [184], "Matthew_ch_12.docx": [324]}
-reck	{"2 Chronicles_ch_23.docx": [17], "Hosea_ch_1.docx": [1978, 1978], "2 Corinthians_ch_10.docx": [276]}
-reck	{"2 Chronicles_ch_23.docx": [17], "Hosea_ch_1.docx": [1978], "2 Corinthians_ch_10.docx": [276]}
+reck	{"Numbers_ch_36.docx": [2545], "2 Chronicles_ch_23.docx": [17], "Hosea_ch_1.docx": [1978], "2 Corinthians_ch_10.docx": [276]}

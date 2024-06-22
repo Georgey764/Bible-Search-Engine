@@ -1,2 +1,0 @@
-
-9yes	{"1 Chronicles_ch_16.docx": [1118], "Psalms_ch_24.docx": [833], "Psalms_ch_34.docx": [783], "Psalms_ch_90.docx": [820], "Psalms_ch_137.docx": [926], "Isaiah_ch_2.docx": [1341], "Isaiah_ch_59.docx": [1269]}

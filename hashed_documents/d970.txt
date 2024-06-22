@@ -1,6 +1,2 @@
 
-hills!	{"2 Kings_ch_2.docx": [2649], "Isaiah_ch_10.docx": [4855, 4855, 4855]}
-15‘any	{"Leviticus_ch_20.docx": [2105], "Deuteronomy_ch_27.docx": [1989]}
-hills!	{"2 Kings_ch_2.docx": [2649], "Isaiah_ch_10.docx": [4855, 4855]}
-57befo	{"Ezekiel_ch_16.docx": [9425]}
 hills!	{"2 Kings_ch_2.docx": [2649], "Isaiah_ch_10.docx": [4855]}

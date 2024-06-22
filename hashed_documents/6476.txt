@@ -1,4 +1,2 @@
 
-hindq	{"Leviticus_ch_9.docx": [2343], "1 Samuel_ch_9.docx": [3961, 3961, 3961]}
-hindq	{"Leviticus_ch_9.docx": [2343], "1 Samuel_ch_9.docx": [3961, 3961]}
 hindq	{"Leviticus_ch_9.docx": [2343], "1 Samuel_ch_9.docx": [3961]}

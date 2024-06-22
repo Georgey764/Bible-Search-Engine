@@ -1,4 +1,2 @@
 
-mustn’	{"Leviticus_ch_4.docx": [120], "Deuteronomy_ch_13.docx": [1304, 1304, 1304]}
-mustn’	{"Leviticus_ch_4.docx": [120], "Deuteronomy_ch_13.docx": [1304, 1304]}
 mustn’	{"Leviticus_ch_4.docx": [120], "Deuteronomy_ch_13.docx": [1304]}

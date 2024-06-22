@@ -1,5 +1,2 @@
 
-hurri	{"1 Samuel_ch_25.docx": [5346], "2 Samuel_ch_19.docx": [2863, 2863, 2863], "Esther_ch_2.docx": [1751, 1751, 1751], "Psalms_ch_16.docx": [332, 332, 332], "Proverbs_ch_7.docx": [2057, 2057, 2057], "Jeremiah_ch_31.docx": [3752, 3752, 3752]}
-21‘don	{"Deuteronomy_ch_19.docx": [3008], "Ecclesiastes_ch_7.docx": [2261], "Isaiah_ch_40.docx": [2887]}
-hurri	{"1 Samuel_ch_25.docx": [5346], "2 Samuel_ch_19.docx": [2863, 2863], "Esther_ch_2.docx": [1751, 1751], "Psalms_ch_16.docx": [332, 332], "Proverbs_ch_7.docx": [2057, 2057], "Jeremiah_ch_31.docx": [3752, 3752]}
 hurri	{"1 Samuel_ch_25.docx": [5346], "2 Samuel_ch_19.docx": [2863], "Esther_ch_2.docx": [1751], "Psalms_ch_16.docx": [332], "Proverbs_ch_7.docx": [2057], "Jeremiah_ch_31.docx": [3752]}

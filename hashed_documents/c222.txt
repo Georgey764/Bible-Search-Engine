@@ -1,4 +1,2 @@
 
-combat	{"2 Samuel_ch_2.docx": [1987], "2 Kings_ch_19.docx": [4254, 4254, 4254]}
-combat	{"2 Samuel_ch_2.docx": [1987], "2 Kings_ch_19.docx": [4254, 4254]}
 combat	{"2 Samuel_ch_2.docx": [1987], "2 Kings_ch_19.docx": [4254]}

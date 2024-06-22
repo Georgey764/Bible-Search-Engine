@@ -1,5 +1,2 @@
 
-cree	{"Joshua_ch_18.docx": [2940], "1 Samuel_ch_15.docx": [584, 584, 584], "Psalms_ch_74.docx": [1527, 1527, 1527]}
-cree	{"Joshua_ch_18.docx": [2940], "1 Samuel_ch_15.docx": [584, 584], "Psalms_ch_74.docx": [1527, 1527]}
-1‘ac	{"Hosea_ch_13.docx": [6]}
-cree	{"Joshua_ch_18.docx": [2940], "1 Samuel_ch_15.docx": [584], "Psalms_ch_74.docx": [1527]}
+cree	{"Joshua_ch_18.docx": [2940], "1 Samuel_ch_15.docx": [584], "Psalms_ch_74.docx": [1527], "Malachi_ch_4.docx": [1933]}

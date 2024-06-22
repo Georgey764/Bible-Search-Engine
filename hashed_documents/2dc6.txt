@@ -1,4 +1,2 @@
 
-resona	{"Jeremiah_ch_48.docx": [4832, 4883, 4954, 4883, 4954, 4883, 4954]}
-resona	{"Jeremiah_ch_48.docx": [4832, 4883, 4954, 4883, 4954]}
 resona	{"Jeremiah_ch_48.docx": [4832, 4883, 4954]}

@@ -1,4 +1,2 @@
 
-azek	{"1 Samuel_ch_17.docx": [29], "2 Chronicles_ch_11.docx": [904, 904, 904], "Jeremiah_ch_34.docx": [1209, 1209, 1209]}
-azek	{"1 Samuel_ch_17.docx": [29], "2 Chronicles_ch_11.docx": [904, 904], "Jeremiah_ch_34.docx": [1209, 1209]}
 azek	{"1 Samuel_ch_17.docx": [29], "2 Chronicles_ch_11.docx": [904], "Jeremiah_ch_34.docx": [1209]}

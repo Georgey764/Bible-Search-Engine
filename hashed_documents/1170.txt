@@ -1,5 +1,2 @@
 
-seira	{"2 Samuel_ch_3.docx": [3784], "2 Samuel_ch_23.docx": [1480, 1480, 1480]}
-seira	{"2 Samuel_ch_3.docx": [3784], "2 Samuel_ch_23.docx": [1480, 1480]}
-5gr	{"Psalms_ch_147.docx": [359]}
 seira	{"2 Samuel_ch_3.docx": [3784], "2 Samuel_ch_23.docx": [1480]}

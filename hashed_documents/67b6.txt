@@ -1,4 +1,2 @@
 
-lastly	{"Genesis_ch_31.docx": [4472], "Joshua_ch_12.docx": [14524, 14524, 14524], "1 Corinthians_ch_15.docx": [760, 760]}
-lastly	{"Genesis_ch_31.docx": [4472], "Joshua_ch_12.docx": [14524, 14524], "1 Corinthians_ch_15.docx": [760]}
 lastly	{"Genesis_ch_31.docx": [4472], "Joshua_ch_12.docx": [14524], "1 Corinthians_ch_15.docx": [760]}

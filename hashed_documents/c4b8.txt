@@ -1,5 +1,2 @@
 
-crew	{"Ezekiel_ch_27.docx": [4299], "Mark_ch_1.docx": [2122, 2122], "Acts_ch_27.docx": [4151, 4151]}
-crew	{"Ezekiel_ch_27.docx": [4299], "Mark_ch_1.docx": [2122], "Acts_ch_27.docx": [4151]}
-11‘bef	{"Joel_ch_2.docx": [1841]}
 crew	{"Ezekiel_ch_27.docx": [4299], "Mark_ch_1.docx": [2122], "Acts_ch_27.docx": [4151]}

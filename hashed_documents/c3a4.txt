@@ -1,4 +1,2 @@
 
-sunlig	{"Numbers_ch_25.docx": [414], "Luke_ch_23.docx": [5263, 5263]}
-sunlig	{"Numbers_ch_25.docx": [414], "Luke_ch_23.docx": [5263]}
-sunlig	{"Numbers_ch_25.docx": [414], "Luke_ch_23.docx": [5263]}
+sunlig	{"Numbers_ch_25.docx": [414], "Luke_ch_23.docx": [5263], "Revelation_ch_22.docx": [640]}

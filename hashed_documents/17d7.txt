@@ -1,4 +1,3 @@
 
 alima	{"2 Chronicles_ch_22.docx": [34]}
-alima	{"2 Chronicles_ch_22.docx": [34]}
-alima	{"2 Chronicles_ch_22.docx": [34]}
+symmac	{"Esther_ch_10.docx": [1845]}

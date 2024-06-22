@@ -1,5 +1,2 @@
 
-meshw	{"2 Chronicles_ch_4.docx": [1630, 1645, 1645, 1645]}
-meshw	{"2 Chronicles_ch_4.docx": [1630, 1645, 1645]}
-12yet	{"Job_ch_11.docx": [1207], "Psalms_ch_19.docx": [1313]}
 meshw	{"2 Chronicles_ch_4.docx": [1630, 1645]}

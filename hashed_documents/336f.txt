@@ -1,4 +1,2 @@
 
-delici	{"Genesis_ch_49.docx": [2356], "Job_ch_24.docx": [408, 408, 408], "Song of Solomon_ch_7.docx": [793, 793, 793], "Hosea_ch_9.docx": [529, 529, 529]}
-delici	{"Genesis_ch_49.docx": [2356], "Job_ch_24.docx": [408, 408], "Song of Solomon_ch_7.docx": [793, 793], "Hosea_ch_9.docx": [529, 529]}
 delici	{"Genesis_ch_49.docx": [2356], "Job_ch_24.docx": [408], "Song of Solomon_ch_7.docx": [793], "Hosea_ch_9.docx": [529]}

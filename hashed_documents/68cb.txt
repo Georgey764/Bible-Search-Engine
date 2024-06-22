@@ -1,4 +1,2 @@
 
-chorri	{"Genesis_ch_36.docx": [3046, 3203, 3203, 3203]}
-chorri	{"Genesis_ch_36.docx": [3046, 3203, 3203]}
 chorri	{"Genesis_ch_36.docx": [3046, 3203]}

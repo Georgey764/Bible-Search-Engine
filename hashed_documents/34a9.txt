@@ -1,4 +1,2 @@
 
 –inc	{"Hebrews_ch_3.docx": [1586]}
-56‘	{"Deuteronomy_ch_28.docx": [7905], "1 Kings_ch_8.docx": [9097], "Jeremiah_ch_51.docx": [9198], "Ezekiel_ch_16.docx": [9340]}
-–inc	{"Hebrews_ch_3.docx": [1586]}

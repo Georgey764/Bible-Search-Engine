@@ -1,4 +1,2 @@
 
 ocr	{"Numbers_ch_2.docx": [2356]}
-ocr	{"Numbers_ch_2.docx": [2356]}
-ocr	{"Numbers_ch_2.docx": [2356]}

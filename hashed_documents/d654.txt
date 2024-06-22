@@ -1,2 +1,0 @@
-
-21it	{"Genesis_ch_35.docx": [2911], "Leviticus_ch_6.docx": [2774], "1 Chronicles_ch_2.docx": [1746], "Job_ch_28.docx": [1881], "Psalms_ch_104.docx": [2118], "Jeremiah_ch_11.docx": [4046], "Ezekiel_ch_33.docx": [3938]}

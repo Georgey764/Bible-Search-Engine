@@ -1,4 +1,2 @@
 
-sucke	{"Deuteronomy_ch_32.docx": [1744, 1783, 1783, 1783], "Job_ch_15.docx": [2174, 2174, 2174]}
-sucke	{"Deuteronomy_ch_32.docx": [1744, 1783, 1783], "Job_ch_15.docx": [2174, 2174]}
 sucke	{"Deuteronomy_ch_32.docx": [1744, 1783], "Job_ch_15.docx": [2174]}

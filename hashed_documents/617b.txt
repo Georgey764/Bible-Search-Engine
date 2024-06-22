@@ -1,4 +1,2 @@
 
-jal	{"2 Samuel_ch_3.docx": [771], "2 Chronicles_ch_29.docx": [1937, 1937, 1937]}
-jal	{"2 Samuel_ch_3.docx": [771], "2 Chronicles_ch_29.docx": [1937, 1937]}
 jal	{"2 Samuel_ch_3.docx": [771], "2 Chronicles_ch_29.docx": [1937]}

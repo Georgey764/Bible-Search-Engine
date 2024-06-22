@@ -1,4 +1,2 @@
 
 sites	{"Amos_ch_7.docx": [1503]}
-sites	{"Amos_ch_7.docx": [1503]}
-sites	{"Amos_ch_7.docx": [1503]}

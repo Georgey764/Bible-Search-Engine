@@ -1,5 +1,2 @@
 
 envio	{"1 Corinthians_ch_13.docx": [487]}
-17phar	{"Numbers_ch_26.docx": [1836]}
-9yet	{"Psalms_ch_50.docx": [843]}
-envio	{"1 Corinthians_ch_13.docx": [487]}

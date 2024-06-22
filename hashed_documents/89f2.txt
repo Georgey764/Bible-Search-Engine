@@ -1,5 +1,2 @@
 
-lily	{"Exodus_ch_25.docx": [3542], "Exodus_ch_37.docx": [1946, 1946, 1946], "1 Kings_ch_7.docx": [2327, 3315, 2327, 3315, 2327, 3315], "2 Chronicles_ch_4.docx": [606, 606, 606], "Song of Solomon_ch_2.docx": [66, 118, 66, 118, 66, 118]}
-lily	{"Exodus_ch_25.docx": [3542], "Exodus_ch_37.docx": [1946, 1946], "1 Kings_ch_7.docx": [2327, 3315, 2327, 3315], "2 Chronicles_ch_4.docx": [606, 606], "Song of Solomon_ch_2.docx": [66, 118, 66, 118]}
-26look	{"Isaiah_ch_40.docx": [3646]}
-lily	{"Exodus_ch_25.docx": [3542], "Exodus_ch_37.docx": [1946], "1 Kings_ch_7.docx": [2327, 3315], "2 Chronicles_ch_4.docx": [606], "Song of Solomon_ch_2.docx": [66, 118]}
+lily	{"Exodus_ch_25.docx": [3542], "Exodus_ch_37.docx": [1946], "1 Kings_ch_7.docx": [2327, 3315], "2 Chronicles_ch_4.docx": [606], "Song of Solomon_ch_2.docx": [66, 118], "Hosea_ch_14.docx": [744]}

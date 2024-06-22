@@ -1,4 +1,2 @@
 
-arabs	{"Isaiah_ch_13.docx": [2948], "Isaiah_ch_15.docx": [1169, 1435, 1169, 1435, 1169, 1435]}
-arabs	{"Isaiah_ch_13.docx": [2948], "Isaiah_ch_15.docx": [1169, 1435, 1169, 1435]}
 arabs	{"Isaiah_ch_13.docx": [2948], "Isaiah_ch_15.docx": [1169, 1435]}

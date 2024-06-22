@@ -1,5 +1,2 @@
 
-expell	{"Nehemiah_ch_7.docx": [3848], "Mark_ch_1.docx": [3681, 3681], "John_ch_9.docx": [2530, 2530], "John_ch_12.docx": [5859, 5859]}
-20[in	{"1 Chronicles_ch_27.docx": [2616]}
-expell	{"Nehemiah_ch_7.docx": [3848], "Mark_ch_1.docx": [3681], "John_ch_9.docx": [2530], "John_ch_12.docx": [5859]}
-expell	{"Nehemiah_ch_7.docx": [3848], "Mark_ch_1.docx": [3681], "John_ch_9.docx": [2530], "John_ch_12.docx": [5859]}
+expell	{"Nehemiah_ch_7.docx": [3848], "Mark_ch_1.docx": [3681], "John_ch_9.docx": [2530], "John_ch_12.docx": [5859], "3 John_ch_1.docx": [934]}

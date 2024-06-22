@@ -1,4 +1,2 @@
 
-neckl	{"Exodus_ch_35.docx": [2214], "Isaiah_ch_3.docx": [2789, 2789, 2789], "Ezekiel_ch_16.docx": [1780, 1780, 1780], "Daniel_ch_5.docx": [1219, 1219, 1219], "Hosea_ch_2.docx": [2351, 2351, 2351]}
-neckl	{"Exodus_ch_35.docx": [2214], "Isaiah_ch_3.docx": [2789, 2789], "Ezekiel_ch_16.docx": [1780, 1780], "Daniel_ch_5.docx": [1219, 1219], "Hosea_ch_2.docx": [2351, 2351]}
 neckl	{"Exodus_ch_35.docx": [2214], "Isaiah_ch_3.docx": [2789], "Ezekiel_ch_16.docx": [1780], "Daniel_ch_5.docx": [1219], "Hosea_ch_2.docx": [2351]}

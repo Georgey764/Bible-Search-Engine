@@ -1,5 +1,3 @@
 
-nimr	{"Genesis_ch_10.docx": [1060, 1082, 1082, 1082], "1 Chronicles_ch_1.docx": [621, 621, 621], "Isaiah_ch_15.docx": [1033, 1033, 1033], "Jeremiah_ch_48.docx": [4654, 4654, 4654], "Micah_ch_5.docx": [1726, 1735, 1726, 1735, 1726, 1735]}
-nimr	{"Genesis_ch_10.docx": [1060, 1082, 1082], "1 Chronicles_ch_1.docx": [621, 621], "Isaiah_ch_15.docx": [1033, 1033], "Jeremiah_ch_48.docx": [4654, 4654], "Micah_ch_5.docx": [1726, 1735, 1726, 1735]}
-2[‘god	{"Zechariah_ch_8.docx": [100]}
 nimr	{"Genesis_ch_10.docx": [1060, 1082], "1 Chronicles_ch_1.docx": [621], "Isaiah_ch_15.docx": [1033], "Jeremiah_ch_48.docx": [4654], "Micah_ch_5.docx": [1726, 1735]}
+nonsen	{"Luke_ch_24.docx": [1004]}

@@ -1,4 +1,2 @@
 
-pots!	{"Nahum_ch_2.docx": [2098], "Revelation_ch_2.docx": [4511, 4511]}
-pots!	{"Nahum_ch_2.docx": [2098], "Revelation_ch_2.docx": [4511]}
 pots!	{"Nahum_ch_2.docx": [2098], "Revelation_ch_2.docx": [4511]}

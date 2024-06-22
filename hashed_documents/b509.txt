@@ -1,4 +1,2 @@
 
-chart	{"Daniel_ch_11.docx": [19]}
-chart	{"Daniel_ch_11.docx": [19]}
-chart	{"Daniel_ch_11.docx": [19]}
+chart	{"Esther_ch_10.docx": [1507], "Daniel_ch_11.docx": [19]}

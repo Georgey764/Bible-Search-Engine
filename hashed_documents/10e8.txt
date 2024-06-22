@@ -1,5 +1,2 @@
 
-idola	{"2 Kings_ch_23.docx": [1175], "Colossians_ch_3.docx": [495, 495]}
-6[o	{"Joshua_ch_5.docx": [1431]}
-idola	{"2 Kings_ch_23.docx": [1175], "Colossians_ch_3.docx": [495]}
 idola	{"2 Kings_ch_23.docx": [1175], "Colossians_ch_3.docx": [495]}

@@ -1,4 +1,2 @@
 
-arboc	{"Genesis_ch_23.docx": [20], "Joshua_ch_15.docx": [2069, 5788, 2069, 5788, 2069, 5788], "Joshua_ch_20.docx": [1250, 1250, 1250]}
-arboc	{"Genesis_ch_23.docx": [20], "Joshua_ch_15.docx": [2069, 5788, 2069, 5788], "Joshua_ch_20.docx": [1250, 1250]}
 arboc	{"Genesis_ch_23.docx": [20], "Joshua_ch_15.docx": [2069, 5788], "Joshua_ch_20.docx": [1250]}

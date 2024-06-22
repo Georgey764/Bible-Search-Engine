@@ -1,4 +1,2 @@
 
-cleane	{"Exodus_ch_29.docx": [5082], "2 Chronicles_ch_34.docx": [761, 761, 761], "John_ch_15.docx": [237, 237], "Hebrews_ch_9.docx": [3485, 3485], "Hebrews_ch_10.docx": [2632, 2632]}
-cleane	{"Exodus_ch_29.docx": [5082], "2 Chronicles_ch_34.docx": [761, 761], "John_ch_15.docx": [237], "Hebrews_ch_9.docx": [3485], "Hebrews_ch_10.docx": [2632]}
 cleane	{"Exodus_ch_29.docx": [5082], "2 Chronicles_ch_34.docx": [761], "John_ch_15.docx": [237], "Hebrews_ch_9.docx": [3485], "Hebrews_ch_10.docx": [2632]}

@@ -1,4 +1,2 @@
 
-charr	{"Genesis_ch_36.docx": [2935], "1 Chronicles_ch_1.docx": [3448, 3448, 3448]}
-charr	{"Genesis_ch_36.docx": [2935], "1 Chronicles_ch_1.docx": [3448, 3448]}
 charr	{"Genesis_ch_36.docx": [2935], "1 Chronicles_ch_1.docx": [3448]}

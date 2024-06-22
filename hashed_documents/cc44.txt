@@ -1,4 +1,2 @@
 
-licked	{"1 Kings_ch_18.docx": [6361], "1 Kings_ch_21.docx": [2693, 2693, 2693]}
-licked	{"1 Kings_ch_18.docx": [6361], "1 Kings_ch_21.docx": [2693, 2693]}
-licked	{"1 Kings_ch_18.docx": [6361], "1 Kings_ch_21.docx": [2693]}
+licked	{"1 Kings_ch_18.docx": [6361], "1 Kings_ch_21.docx": [2693], "1 Kings_ch_22.docx": [6156]}

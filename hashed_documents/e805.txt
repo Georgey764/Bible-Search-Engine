@@ -1,5 +1,2 @@
 
-lowly	{"Esther_ch_4.docx": [1494], "Job_ch_36.docx": [2137, 2137, 2137], "Psalms_ch_138.docx": [739, 739, 739], "Isaiah_ch_11.docx": [418, 418, 418], "Isaiah_ch_32.docx": [1003, 1003, 1003], "Luke_ch_1.docx": [5535, 5535], "2 Corinthians_ch_7.docx": [920, 920], "2 Corinthians_ch_10.docx": [12, 12], "Colossians_ch_2.docx": [2945, 2945], "James_ch_1.docx": [849, 849]}
-34ram	{"Joshua_ch_15.docx": [4601]}
-lowly	{"Esther_ch_4.docx": [1494], "Job_ch_36.docx": [2137, 2137], "Psalms_ch_138.docx": [739, 739], "Isaiah_ch_11.docx": [418, 418], "Isaiah_ch_32.docx": [1003, 1003], "Luke_ch_1.docx": [5535], "2 Corinthians_ch_7.docx": [920], "2 Corinthians_ch_10.docx": [12], "Colossians_ch_2.docx": [2945], "James_ch_1.docx": [849]}
 lowly	{"Esther_ch_4.docx": [1494], "Job_ch_36.docx": [2137], "Psalms_ch_138.docx": [739], "Isaiah_ch_11.docx": [418], "Isaiah_ch_32.docx": [1003], "Luke_ch_1.docx": [5535], "2 Corinthians_ch_7.docx": [920], "2 Corinthians_ch_10.docx": [12], "Colossians_ch_2.docx": [2945], "James_ch_1.docx": [849]}

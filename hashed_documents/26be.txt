@@ -1,4 +1,2 @@
 
-snip	{"Jeremiah_ch_4.docx": [676], "Galatians_ch_4.docx": [1911, 1911]}
-snip	{"Jeremiah_ch_4.docx": [676], "Galatians_ch_4.docx": [1911]}
 snip	{"Jeremiah_ch_4.docx": [676], "Galatians_ch_4.docx": [1911]}

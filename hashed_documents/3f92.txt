@@ -1,5 +1,2 @@
 
 sachar	{"1 Chronicles_ch_26.docx": [473]}
-29,	{"1 Kings_ch_10.docx": [2264]}
-sachar	{"1 Chronicles_ch_26.docx": [473]}
-sachar	{"1 Chronicles_ch_26.docx": [473]}

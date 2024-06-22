@@ -1,2 +1,0 @@
-
-28‘s	{"Leviticus_ch_18.docx": [3528], "Numbers_ch_14.docx": [4163], "Deuteronomy_ch_1.docx": [3962], "Judges_ch_5.docx": [4018], "2 Kings_ch_19.docx": [4768], "Job_ch_15.docx": [2584], "Jeremiah_ch_46.docx": [4722], "Ezekiel_ch_21.docx": [4928], "Ezekiel_ch_22.docx": [4152], "Matthew_ch_11.docx": [3469], "Matthew_ch_22.docx": [3211], "Matthew_ch_25.docx": [3245]}

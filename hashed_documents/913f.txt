@@ -1,5 +1,2 @@
 
-device	{"Psalms_ch_33.docx": [810], "Isaiah_ch_41.docx": [2444, 2444, 2444]}
-601st	{"Genesis_ch_8.docx": [1566]}
-device	{"Psalms_ch_33.docx": [810], "Isaiah_ch_41.docx": [2444, 2444]}
-device	{"Psalms_ch_33.docx": [810], "Isaiah_ch_41.docx": [2444]}
+device	{"2 Chronicles_ch_36.docx": [6663], "Psalms_ch_33.docx": [810], "Isaiah_ch_41.docx": [2444]}

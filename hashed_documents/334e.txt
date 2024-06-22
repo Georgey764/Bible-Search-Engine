@@ -1,4 +1,2 @@
 
-faul	{"1 Samuel_ch_6.docx": [783], "1 Samuel_ch_29.docx": [453, 453, 453], "John_ch_19.docx": [395, 740, 395, 740], "Romans_ch_9.docx": [2303, 2303]}
-faul	{"1 Samuel_ch_6.docx": [783], "1 Samuel_ch_29.docx": [453, 453], "John_ch_19.docx": [395, 740], "Romans_ch_9.docx": [2303]}
 faul	{"1 Samuel_ch_6.docx": [783], "1 Samuel_ch_29.docx": [453], "John_ch_19.docx": [395, 740], "Romans_ch_9.docx": [2303]}

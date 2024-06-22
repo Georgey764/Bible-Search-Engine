@@ -1,6 +1,2 @@
 
 zombra	{"Genesis_ch_25.docx": [110]}
-zombra	{"Genesis_ch_25.docx": [110]}
-8ye	{"1 Kings_ch_14.docx": [1195], "Job_ch_31.docx": [718], "Job_ch_32.docx": [972], "Psalms_ch_27.docx": [1116], "Psalms_ch_44.docx": [888], "Psalms_ch_99.docx": [758], "Psalms_ch_106.docx": [758], "Isaiah_ch_3.docx": [1176], "Zechariah_ch_8.docx": [1083], "Matthew_ch_11.docx": [878], "Matthew_ch_24.docx": [726]}
-34‘don	{"Matthew_ch_10.docx": [4277]}
-zombra	{"Genesis_ch_25.docx": [110]}

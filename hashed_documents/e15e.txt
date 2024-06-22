@@ -1,4 +1,2 @@
 
-kettur	{"Genesis_ch_25.docx": [15, 371, 371, 371]}
-kettur	{"Genesis_ch_25.docx": [15, 371, 371]}
 kettur	{"Genesis_ch_25.docx": [15, 371]}

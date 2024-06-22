@@ -1,5 +1,2 @@
 
-mercil	{"Proverbs_ch_11.docx": [1848], "Proverbs_ch_17.docx": [1122, 1122, 1122], "James_ch_2.docx": [1488, 1488]}
-42i	{"Leviticus_ch_26.docx": [5315]}
-mercil	{"Proverbs_ch_11.docx": [1848], "Proverbs_ch_17.docx": [1122, 1122], "James_ch_2.docx": [1488]}
 mercil	{"Proverbs_ch_11.docx": [1848], "Proverbs_ch_17.docx": [1122], "James_ch_2.docx": [1488]}

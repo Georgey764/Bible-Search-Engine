@@ -1,7 +1,3 @@
 
 adl	{"1 Chronicles_ch_27.docx": [4121]}
-behavi	{"Psalms_ch_114.docx": [335, 566, 566, 566], "Romans_ch_13.docx": [313, 313]}
-adl	{"1 Chronicles_ch_27.docx": [4121]}
-behavi	{"Psalms_ch_114.docx": [335, 566, 566], "Romans_ch_13.docx": [313]}
-adl	{"1 Chronicles_ch_27.docx": [4121]}
 behavi	{"Psalms_ch_114.docx": [335, 566], "Romans_ch_13.docx": [313]}

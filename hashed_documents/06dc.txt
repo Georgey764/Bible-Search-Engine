@@ -1,5 +1,2 @@
 
-swind	{"Proverbs_ch_22.docx": [1629], "Ecclesiastes_ch_4.docx": [205, 205, 205]}
-32[dur	{"1 Kings_ch_4.docx": [3823]}
-swind	{"Proverbs_ch_22.docx": [1629], "Ecclesiastes_ch_4.docx": [205, 205]}
 swind	{"Proverbs_ch_22.docx": [1629], "Ecclesiastes_ch_4.docx": [205]}

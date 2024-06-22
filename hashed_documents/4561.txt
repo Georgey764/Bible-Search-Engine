@@ -1,4 +1,2 @@
 
-stagge	{"Isaiah_ch_19.docx": [1973], "Isaiah_ch_28.docx": [918, 1134, 918, 1134, 918, 1134]}
-stagge	{"Isaiah_ch_19.docx": [1973], "Isaiah_ch_28.docx": [918, 1134, 918, 1134]}
 stagge	{"Isaiah_ch_19.docx": [1973], "Isaiah_ch_28.docx": [918, 1134]}

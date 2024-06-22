@@ -1,4 +1,2 @@
 
 sinsn	{"Hebrews_ch_10.docx": [2260]}
-10‘p	{"Psalms_ch_144.docx": [947], "Song of Solomon_ch_4.docx": [1403]}
-sinsn	{"Hebrews_ch_10.docx": [2260]}

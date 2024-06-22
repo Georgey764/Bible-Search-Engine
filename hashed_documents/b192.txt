@@ -1,4 +1,2 @@
 
-moda	{"Numbers_ch_11.docx": [4086, 4419, 4419, 4419]}
-moda	{"Numbers_ch_11.docx": [4086, 4419, 4419]}
 moda	{"Numbers_ch_11.docx": [4086, 4419]}

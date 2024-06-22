@@ -1,4 +1,2 @@
 
-sarath	{"Joshua_ch_19.docx": [3321], "1 Chronicles_ch_2.docx": [4792, 4792, 4792], "1 Chronicles_ch_4.docx": [189, 189, 189]}
-sarath	{"Joshua_ch_19.docx": [3321], "1 Chronicles_ch_2.docx": [4792, 4792], "1 Chronicles_ch_4.docx": [189, 189]}
 sarath	{"Joshua_ch_19.docx": [3321], "1 Chronicles_ch_2.docx": [4792], "1 Chronicles_ch_4.docx": [189]}

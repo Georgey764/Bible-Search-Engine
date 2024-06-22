@@ -1,5 +1,2 @@
 
-swindl	{"Proverbs_ch_22.docx": [1629], "Ecclesiastes_ch_4.docx": [205, 205, 205]}
-45‘an	{"Deuteronomy_ch_1.docx": [6474], "Matthew_ch_25.docx": [5359]}
-swindl	{"Proverbs_ch_22.docx": [1629], "Ecclesiastes_ch_4.docx": [205, 205]}
 swindl	{"Proverbs_ch_22.docx": [1629], "Ecclesiastes_ch_4.docx": [205]}

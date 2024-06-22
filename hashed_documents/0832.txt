@@ -1,4 +1,2 @@
 
 exorci	{"Acts_ch_19.docx": [2841]}
-12can	{"Job_ch_39.docx": [1071], "Psalms_ch_88.docx": [1262]}
-exorci	{"Acts_ch_19.docx": [2841]}

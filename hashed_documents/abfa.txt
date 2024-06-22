@@ -1,6 +1,2 @@
 
 maredo	{"Joshua_ch_12.docx": [14415]}
-34wel	{"Genesis_ch_30.docx": [4147], "Numbers_ch_16.docx": [4745], "Judges_ch_11.docx": [7904], "2 Kings_ch_9.docx": [6590], "2 Chronicles_ch_29.docx": [5997], "Jeremiah_ch_49.docx": [5944]}
-16‘b	{"Leviticus_ch_17.docx": [2758], "Numbers_ch_14.docx": [2319], "Numbers_ch_30.docx": [2300], "Deuteronomy_ch_12.docx": [3042], "Nehemiah_ch_9.docx": [3540], "Job_ch_31.docx": [1422], "Job_ch_34.docx": [1365], "Proverbs_ch_8.docx": [1352], "Isaiah_ch_7.docx": [2117], "Isaiah_ch_28.docx": [2356], "Isaiah_ch_30.docx": [2721], "Jeremiah_ch_10.docx": [2130], "Jeremiah_ch_30.docx": [2630], "Lamentations_ch_2.docx": [3503], "Ezekiel_ch_14.docx": [2687], "Matthew_ch_18.docx": [2104]}
-maredo	{"Joshua_ch_12.docx": [14415]}
-maredo	{"Joshua_ch_12.docx": [14415]}

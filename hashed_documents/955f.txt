@@ -1,6 +1,2 @@
 
 themar	{"2 Samuel_ch_14.docx": [4453]}
-24la	{"Genesis_ch_29.docx": [2897]}
-themar	{"2 Samuel_ch_14.docx": [4453]}
-18,140	{"2 Chronicles_ch_9.docx": [2132]}
-themar	{"2 Samuel_ch_14.docx": [4453]}

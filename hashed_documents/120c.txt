@@ -1,4 +1,2 @@
 
-ony	{"Exodus_ch_28.docx": [2438], "Exodus_ch_39.docx": [1527, 1527, 1527], "Job_ch_28.docx": [1470, 1470, 1470], "Ezekiel_ch_28.docx": [1826, 1945, 1826, 1945, 1826, 1945]}
-ony	{"Exodus_ch_28.docx": [2438], "Exodus_ch_39.docx": [1527, 1527], "Job_ch_28.docx": [1470, 1470], "Ezekiel_ch_28.docx": [1826, 1945, 1826, 1945]}
-ony	{"Exodus_ch_28.docx": [2438], "Exodus_ch_39.docx": [1527], "Job_ch_28.docx": [1470], "Ezekiel_ch_28.docx": [1826, 1945]}
+ony	{"Exodus_ch_28.docx": [2438], "Exodus_ch_39.docx": [1527], "1 Chronicles_ch_29.docx": [599], "Job_ch_28.docx": [1470], "Ezekiel_ch_28.docx": [1826, 1945]}

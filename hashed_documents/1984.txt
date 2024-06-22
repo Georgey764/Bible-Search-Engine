@@ -1,4 +1,2 @@
 
-none!	{"Isaiah_ch_45.docx": [1049, 4276, 4276, 4276], "Isaiah_ch_47.docx": [1792, 1970, 1792, 1970, 1792, 1970]}
-none!	{"Isaiah_ch_45.docx": [1049, 4276, 4276], "Isaiah_ch_47.docx": [1792, 1970, 1792, 1970]}
 none!	{"Isaiah_ch_45.docx": [1049, 4276], "Isaiah_ch_47.docx": [1792, 1970]}

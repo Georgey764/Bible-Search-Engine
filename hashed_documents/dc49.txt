@@ -1,3 +1,2 @@
 
-racha	{"1 Samuel_ch_30.docx": [4425]}
-racha	{"1 Samuel_ch_30.docx": [4425]}
+racha	{"Ruth_ch_4.docx": [2389], "1 Samuel_ch_30.docx": [4425]}

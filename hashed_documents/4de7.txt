@@ -1,4 +1,2 @@
 
-hannon	{"2 Samuel_ch_10.docx": [117, 516, 516, 516]}
-hannon	{"2 Samuel_ch_10.docx": [117, 516, 516]}
 hannon	{"2 Samuel_ch_10.docx": [117, 516]}

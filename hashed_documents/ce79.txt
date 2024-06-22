@@ -1,3 +1,2 @@
 
-occa	{"Mark_ch_3.docx": [6], "Mark_ch_4.docx": [7, 7], "Luke_ch_5.docx": [8, 1532, 8, 1532], "Luke_ch_13.docx": [1270, 1270], "Romans_ch_9.docx": [1195, 1195], "Romans_ch_15.docx": [3255, 3255], "1 Thessalonians_ch_2.docx": [2661, 2661]}
 occa	{"Mark_ch_3.docx": [6], "Mark_ch_4.docx": [7], "Luke_ch_5.docx": [8, 1532], "Luke_ch_13.docx": [1270], "Romans_ch_9.docx": [1195], "Romans_ch_15.docx": [3255], "1 Thessalonians_ch_2.docx": [2661]}

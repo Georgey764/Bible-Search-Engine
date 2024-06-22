@@ -1,4 +1,2 @@
 
-herod’	{"Matthew_ch_14.docx": [592], "Luke_ch_8.docx": [227, 227], "Luke_ch_23.docx": [707, 707]}
-herod’	{"Matthew_ch_14.docx": [592], "Luke_ch_8.docx": [227], "Luke_ch_23.docx": [707]}
 herod’	{"Matthew_ch_14.docx": [592], "Luke_ch_8.docx": [227], "Luke_ch_23.docx": [707]}

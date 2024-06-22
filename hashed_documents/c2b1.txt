@@ -1,5 +1,2 @@
 
-millio	{"Psalms_ch_68.docx": [1851], "Daniel_ch_7.docx": [1659, 1667, 1659, 1667, 1659, 1667], "Hebrews_ch_12.docx": [3984, 3984], "Revelation_ch_5.docx": [1708, 1712, 1708, 1712], "Revelation_ch_9.docx": [2010, 2010]}
-21aod	{"Judges_ch_3.docx": [8374]}
-millio	{"Psalms_ch_68.docx": [1851], "Daniel_ch_7.docx": [1659, 1667, 1659, 1667], "Hebrews_ch_12.docx": [3984], "Revelation_ch_5.docx": [1708, 1712], "Revelation_ch_9.docx": [2010]}
-millio	{"Psalms_ch_68.docx": [1851], "Daniel_ch_7.docx": [1659, 1667], "Hebrews_ch_12.docx": [3984], "Revelation_ch_5.docx": [1708, 1712], "Revelation_ch_9.docx": [2010]}
+millio	{"Psalms_ch_68.docx": [1851], "Daniel_ch_7.docx": [1659, 1667], "Hebrews_ch_12.docx": [3984], "Jude_ch_1.docx": [3094], "Revelation_ch_5.docx": [1708, 1712], "Revelation_ch_9.docx": [2010]}

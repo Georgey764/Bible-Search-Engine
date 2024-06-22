@@ -1,2 +1,0 @@
-
-10wh	{"Exodus_ch_24.docx": [1299], "Numbers_ch_33.docx": [1190], "Deuteronomy_ch_5.docx": [962], "2 Kings_ch_4.docx": [1550], "Psalms_ch_73.docx": [799], "Song of Solomon_ch_3.docx": [1470], "Matthew_ch_12.docx": [927]}

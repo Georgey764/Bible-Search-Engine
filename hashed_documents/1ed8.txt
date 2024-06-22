@@ -1,10 +1,4 @@
 
 asima	{"2 Kings_ch_17.docx": [5636]}
-well-v	{"Ezra_ch_7.docx": [510], "Matthew_ch_22.docx": [3875, 3875, 3875]}
-nost	{"Job_ch_41.docx": [1782]}
-asima	{"2 Kings_ch_17.docx": [5636]}
-well-v	{"Ezra_ch_7.docx": [510], "Matthew_ch_22.docx": [3875, 3875]}
-nost	{"Job_ch_41.docx": [1782]}
-asima	{"2 Kings_ch_17.docx": [5636]}
 well-v	{"Ezra_ch_7.docx": [510], "Matthew_ch_22.docx": [3875]}
 nost	{"Job_ch_41.docx": [1782]}

@@ -1,3 +1,2 @@
 
-tenan	{"Mark_ch_12.docx": [120, 1107, 1107]}
 tenan	{"Mark_ch_12.docx": [120, 1107]}

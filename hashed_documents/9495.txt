@@ -1,4 +1,2 @@
 
-socoh	{"1 Samuel_ch_17.docx": [23, 27, 27, 27]}
-socoh	{"1 Samuel_ch_17.docx": [23, 27, 27]}
 socoh	{"1 Samuel_ch_17.docx": [23, 27]}

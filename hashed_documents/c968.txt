@@ -1,7 +1,3 @@
 
-lappe	{"Judges_ch_7.docx": [2188, 2348, 2348, 2348]}
-merath	{"1 Chronicles_ch_27.docx": [4274]}
-lappe	{"Judges_ch_7.docx": [2188, 2348, 2348]}
-merath	{"1 Chronicles_ch_27.docx": [4274]}
 lappe	{"Judges_ch_7.docx": [2188, 2348]}
 merath	{"1 Chronicles_ch_27.docx": [4274]}

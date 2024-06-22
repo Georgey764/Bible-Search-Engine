@@ -1,4 +1,2 @@
 
-set;	{"Ezekiel_ch_14.docx": [198], "Ezekiel_ch_45.docx": [253, 253, 253]}
-set;	{"Ezekiel_ch_14.docx": [198], "Ezekiel_ch_45.docx": [253, 253]}
 set;	{"Ezekiel_ch_14.docx": [198], "Ezekiel_ch_45.docx": [253]}

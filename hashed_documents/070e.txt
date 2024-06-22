@@ -1,4 +1,2 @@
 
-face;	{"1 Samuel_ch_28.docx": [1157], "Ezekiel_ch_7.docx": [3629, 3629, 3629]}
-face;	{"1 Samuel_ch_28.docx": [1157], "Ezekiel_ch_7.docx": [3629, 3629]}
 face;	{"1 Samuel_ch_28.docx": [1157], "Ezekiel_ch_7.docx": [3629]}

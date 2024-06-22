@@ -1,4 +1,2 @@
 
-jechem	{"1 Chronicles_ch_2.docx": [3673, 3704, 3704, 3704]}
-jechem	{"1 Chronicles_ch_2.docx": [3673, 3704, 3704]}
 jechem	{"1 Chronicles_ch_2.docx": [3673, 3704]}

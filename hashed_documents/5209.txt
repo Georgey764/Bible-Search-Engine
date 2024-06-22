@@ -1,4 +1,2 @@
 
-goings	{"Psalms_ch_68.docx": [2725], "Psalms_ch_121.docx": [599, 599, 599], "Isaiah_ch_37.docx": [4640, 4640, 4640]}
-goings	{"Psalms_ch_68.docx": [2725], "Psalms_ch_121.docx": [599, 599], "Isaiah_ch_37.docx": [4640, 4640]}
 goings	{"Psalms_ch_68.docx": [2725], "Psalms_ch_121.docx": [599], "Isaiah_ch_37.docx": [4640]}

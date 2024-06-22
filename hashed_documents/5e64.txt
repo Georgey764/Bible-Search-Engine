@@ -1,4 +1,2 @@
 
-toler	{"Job_ch_34.docx": [2124], "Mark_ch_6.docx": [1553, 1553], "Romans_ch_2.docx": [334, 334], "Romans_ch_3.docx": [2912, 2921, 2912, 2921], "2 Corinthians_ch_11.docx": [496, 496], "Revelation_ch_2.docx": [226, 226]}
-toler	{"Job_ch_34.docx": [2124], "Mark_ch_6.docx": [1553], "Romans_ch_2.docx": [334], "Romans_ch_3.docx": [2912, 2921], "2 Corinthians_ch_11.docx": [496], "Revelation_ch_2.docx": [226]}
 toler	{"Job_ch_34.docx": [2124], "Mark_ch_6.docx": [1553], "Romans_ch_2.docx": [334], "Romans_ch_3.docx": [2912, 2921], "2 Corinthians_ch_11.docx": [496], "Revelation_ch_2.docx": [226]}

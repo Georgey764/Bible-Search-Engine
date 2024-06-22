@@ -1,6 +1,3 @@
 
 herea	{"Leviticus_ch_10.docx": [1379]}
-amuse	{"Ecclesiastes_ch_2.docx": [1095], "Ecclesiastes_ch_3.docx": [781, 781, 781], "Ecclesiastes_ch_5.docx": [3051, 3051, 3051]}
-amuse	{"Ecclesiastes_ch_2.docx": [1095], "Ecclesiastes_ch_3.docx": [781, 781], "Ecclesiastes_ch_5.docx": [3051, 3051]}
-herea	{"Leviticus_ch_10.docx": [1379]}
 amuse	{"Ecclesiastes_ch_2.docx": [1095], "Ecclesiastes_ch_3.docx": [781], "Ecclesiastes_ch_5.docx": [3051]}

@@ -1,6 +1,3 @@
 
-penda	{"Proverbs_ch_25.docx": [1070], "Song of Solomon_ch_1.docx": [1516, 1516, 1516], "Song of Solomon_ch_7.docx": [111, 111, 111]}
-felix	{"Acts_ch_23.docx": [4184, 4688, 4746, 5998, 6020, 6043, 4688, 4746, 5998, 6020, 6043], "Acts_ch_24.docx": [267, 3732, 3948, 4104, 4283, 4629, 4637, 4648, 4656, 4668, 4676, 267, 3732, 3948, 4104, 4283, 4629, 4637, 4648, 4656, 4668, 4676], "Acts_ch_25.docx": [5037, 5037]}
-penda	{"Proverbs_ch_25.docx": [1070], "Song of Solomon_ch_1.docx": [1516, 1516], "Song of Solomon_ch_7.docx": [111, 111]}
 penda	{"Proverbs_ch_25.docx": [1070], "Song of Solomon_ch_1.docx": [1516], "Song of Solomon_ch_7.docx": [111]}
 felix	{"Acts_ch_23.docx": [4184, 4688, 4746, 5998, 6020, 6043], "Acts_ch_24.docx": [267, 3732, 3948, 4104, 4283, 4629, 4637, 4648, 4656, 4668, 4676], "Acts_ch_25.docx": [5037]}

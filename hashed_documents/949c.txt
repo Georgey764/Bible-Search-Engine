@@ -1,8 +1,3 @@
 
 ~50cm	{"Genesis_ch_6.docx": [2087]}
-lanter	{"Numbers_ch_4.docx": [971], "Numbers_ch_8.docx": [75, 75, 75], "John_ch_18.docx": [167, 167]}
-~50cm	{"Genesis_ch_6.docx": [2087]}
-lanter	{"Numbers_ch_4.docx": [971], "Numbers_ch_8.docx": [75, 75], "John_ch_18.docx": [167]}
-23[‘f	{"Jeremiah_ch_22.docx": [3900]}
-~50cm	{"Genesis_ch_6.docx": [2087]}
 lanter	{"Numbers_ch_4.docx": [971], "Numbers_ch_8.docx": [75], "John_ch_18.docx": [167]}

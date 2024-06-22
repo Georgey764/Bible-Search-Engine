@@ -1,4 +1,2 @@
 
-azu	{"2 Chronicles_ch_20.docx": [5379], "Jeremiah_ch_28.docx": [26, 26, 26], "Ezekiel_ch_11.docx": [45, 45, 45]}
-azu	{"2 Chronicles_ch_20.docx": [5379], "Jeremiah_ch_28.docx": [26, 26], "Ezekiel_ch_11.docx": [45, 45]}
-azu	{"2 Chronicles_ch_20.docx": [5379], "Jeremiah_ch_28.docx": [26], "Ezekiel_ch_11.docx": [45]}
+azu	{"1 Kings_ch_22.docx": [6809], "2 Chronicles_ch_20.docx": [5379], "Jeremiah_ch_28.docx": [26], "Ezekiel_ch_11.docx": [45]}

@@ -1,4 +1,2 @@
 
-almon	{"Exodus_ch_25.docx": [3526, 3799, 3845, 3799, 3845, 3799, 3845], "Exodus_ch_37.docx": [1940, 1970, 1940, 1970, 1940, 1970], "Numbers_ch_17.docx": [1047, 1047, 1047]}
-almon	{"Exodus_ch_25.docx": [3526, 3799, 3845, 3799, 3845], "Exodus_ch_37.docx": [1940, 1970, 1940, 1970], "Numbers_ch_17.docx": [1047, 1047]}
-almon	{"Exodus_ch_25.docx": [3526, 3799, 3845], "Exodus_ch_37.docx": [1940, 1970], "Numbers_ch_17.docx": [1047]}
+almon	{"Exodus_ch_25.docx": [3526, 3799, 3845], "Exodus_ch_37.docx": [1940, 1970], "Numbers_ch_17.docx": [1047], "Ecclesiastes_ch_12.docx": [823]}

@@ -1,4 +1,2 @@
 
-garr	{"2 Samuel_ch_8.docx": [710], "2 Samuel_ch_11.docx": [4130, 4130, 4130], "2 Kings_ch_15.docx": [2828, 2828, 2828], "1 Chronicles_ch_18.docx": [507, 1722, 507, 1722, 507, 1722], "Acts_ch_21.docx": [9310, 9329, 9349, 10307, 10507, 10733, 9310, 9329, 9349, 10307, 10507, 10733], "Acts_ch_22.docx": [5158, 5158], "Acts_ch_23.docx": [1689, 2893, 5718, 1689, 2893, 5718]}
-garr	{"2 Samuel_ch_8.docx": [710], "2 Samuel_ch_11.docx": [4130, 4130], "2 Kings_ch_15.docx": [2828, 2828], "1 Chronicles_ch_18.docx": [507, 1722, 507, 1722], "Acts_ch_21.docx": [9310, 9329, 9349, 10307, 10507, 10733], "Acts_ch_22.docx": [5158], "Acts_ch_23.docx": [1689, 2893, 5718]}
 garr	{"2 Samuel_ch_8.docx": [710], "2 Samuel_ch_11.docx": [4130], "2 Kings_ch_15.docx": [2828], "1 Chronicles_ch_18.docx": [507, 1722], "Acts_ch_21.docx": [9310, 9329, 9349, 10307, 10507, 10733], "Acts_ch_22.docx": [5158], "Acts_ch_23.docx": [1689, 2893, 5718]}

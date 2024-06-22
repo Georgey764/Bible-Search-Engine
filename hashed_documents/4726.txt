@@ -1,4 +1,2 @@
 
-summar	{"Deuteronomy_ch_12.docx": [2645], "Deuteronomy_ch_27.docx": [11, 11, 11]}
-summar	{"Deuteronomy_ch_12.docx": [2645], "Deuteronomy_ch_27.docx": [11, 11]}
-summar	{"Deuteronomy_ch_12.docx": [2645], "Deuteronomy_ch_27.docx": [11]}
+summar	{"Deuteronomy_ch_12.docx": [2645], "Deuteronomy_ch_27.docx": [11], "Obadiah_ch_1.docx": [95]}

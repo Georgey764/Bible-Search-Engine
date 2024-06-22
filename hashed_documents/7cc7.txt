@@ -1,7 +1,3 @@
 
-valuat	{"2 Kings_ch_12.docx": [506]}
-usefu	{"Proverbs_ch_15.docx": [2333], "Jeremiah_ch_13.docx": [1363, 1363, 1363], "Ezekiel_ch_15.docx": [458, 458, 458], "2 Timothy_ch_2.docx": [2888, 2888], "Hebrews_ch_6.docx": [821, 821]}
-valuat	{"2 Kings_ch_12.docx": [506]}
-usefu	{"Proverbs_ch_15.docx": [2333], "Jeremiah_ch_13.docx": [1363, 1363], "Ezekiel_ch_15.docx": [458, 458], "2 Timothy_ch_2.docx": [2888], "Hebrews_ch_6.docx": [821]}
-valuat	{"2 Kings_ch_12.docx": [506]}
-usefu	{"Proverbs_ch_15.docx": [2333], "Jeremiah_ch_13.docx": [1363], "Ezekiel_ch_15.docx": [458], "2 Timothy_ch_2.docx": [2888], "Hebrews_ch_6.docx": [821]}
+valuat	{"Leviticus_ch_27.docx": [1850, 2286, 3466], "2 Kings_ch_12.docx": [506]}
+usefu	{"Proverbs_ch_15.docx": [2333], "Jeremiah_ch_13.docx": [1363], "Ezekiel_ch_15.docx": [458], "2 Timothy_ch_2.docx": [2888], "2 Timothy_ch_4.docx": [1604], "Philemon_ch_1.docx": [1230], "Hebrews_ch_6.docx": [821]}

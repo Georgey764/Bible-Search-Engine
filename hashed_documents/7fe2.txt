@@ -1,3 +1,2 @@
 
-ah!	{"Luke_ch_4.docx": [4828], "Luke_ch_16.docx": [498, 498]}
 ah!	{"Luke_ch_4.docx": [4828], "Luke_ch_16.docx": [498]}

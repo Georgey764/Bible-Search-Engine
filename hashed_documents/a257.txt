@@ -1,4 +1,2 @@
 
-titu	{"2 Corinthians_ch_2.docx": [1466, 1490, 1515, 1490, 1515], "2 Corinthians_ch_7.docx": [930, 2319, 2602, 930, 2319, 2602], "2 Corinthians_ch_8.docx": [875, 2366, 3134, 875, 2366, 3134], "2 Corinthians_ch_12.docx": [2828, 2842, 2828, 2842], "Galatians_ch_2.docx": [17, 414, 17, 414], "Titus_ch_1.docx": [1, 418, 1, 418], "Titus_ch_2.docx": [1, 1]}
-28je	{"Deuteronomy_ch_28.docx": [3723], "Joshua_ch_18.docx": [3592]}
-titu	{"2 Corinthians_ch_2.docx": [1466, 1490, 1515], "2 Corinthians_ch_7.docx": [930, 2319, 2602], "2 Corinthians_ch_8.docx": [875, 2366, 3134], "2 Corinthians_ch_12.docx": [2828, 2842], "Galatians_ch_2.docx": [17, 414], "Titus_ch_1.docx": [1, 418], "Titus_ch_2.docx": [1]}
+titu	{"2 Corinthians_ch_2.docx": [1466, 1490, 1515], "2 Corinthians_ch_7.docx": [930, 2319, 2602], "2 Corinthians_ch_8.docx": [875, 2366, 3134], "2 Corinthians_ch_12.docx": [2828, 2842], "Galatians_ch_2.docx": [17, 414], "2 Timothy_ch_4.docx": [1393, 2965, 2971], "Titus_ch_1.docx": [1, 418], "Titus_ch_2.docx": [1], "Titus_ch_3.docx": [1]}

@@ -1,4 +1,2 @@
 
-amiel	{"Numbers_ch_13.docx": [881], "Joshua_ch_19.docx": [2034, 2034, 2034], "2 Samuel_ch_9.docx": [612, 612, 612], "2 Samuel_ch_17.docx": [4327, 4327, 4327], "1 Chronicles_ch_3.docx": [472, 472, 472], "1 Chronicles_ch_26.docx": [518, 518]}
-amiel	{"Numbers_ch_13.docx": [881], "Joshua_ch_19.docx": [2034, 2034], "2 Samuel_ch_9.docx": [612, 612], "2 Samuel_ch_17.docx": [4327, 4327], "1 Chronicles_ch_3.docx": [472, 472], "1 Chronicles_ch_26.docx": [518]}
 amiel	{"Numbers_ch_13.docx": [881], "Joshua_ch_19.docx": [2034], "2 Samuel_ch_9.docx": [612], "2 Samuel_ch_17.docx": [4327], "1 Chronicles_ch_3.docx": [472], "1 Chronicles_ch_26.docx": [518]}

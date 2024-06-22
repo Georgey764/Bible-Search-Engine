@@ -1,2 +1,0 @@
-
-3,00	{"Exodus_ch_32.docx": [4255], "Numbers_ch_35.docx": [377, 507, 548, 590, 635], "Joshua_ch_3.docx": [422], "Joshua_ch_7.docx": [1115], "Judges_ch_15.docx": [1926], "Judges_ch_16.docx": [4986], "1 Samuel_ch_13.docx": [123], "1 Samuel_ch_24.docx": [26], "1 Samuel_ch_25.docx": [168], "1 Samuel_ch_26.docx": [182], "1 Kings_ch_4.docx": [3828], "1 Chronicles_ch_12.docx": [3761], "2 Chronicles_ch_25.docx": [2046], "2 Chronicles_ch_29.docx": [5936], "2 Chronicles_ch_35.docx": [1278], "Job_ch_1.docx": [259]}

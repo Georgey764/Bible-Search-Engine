@@ -1,4 +1,2 @@
 
-ponder	{"Psalms_ch_77.docx": [594], "Psalms_ch_119.docx": [1754, 3714, 5703, 12054, 1754, 3714, 5703, 12054, 1754, 3714, 5703, 12054], "Psalms_ch_143.docx": [638, 638, 638]}
-ponder	{"Psalms_ch_77.docx": [594], "Psalms_ch_119.docx": [1754, 3714, 5703, 12054, 1754, 3714, 5703, 12054], "Psalms_ch_143.docx": [638, 638]}
-ponder	{"Psalms_ch_77.docx": [594], "Psalms_ch_119.docx": [1754, 3714, 5703, 12054], "Psalms_ch_143.docx": [638]}
+ponder	{"Psalms_ch_77.docx": [594], "Psalms_ch_119.docx": [1754, 3714, 5703, 12054], "Psalms_ch_143.docx": [638], "Hebrews_ch_13.docx": [3241]}

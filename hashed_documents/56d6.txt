@@ -1,3 +1,0 @@
-
-4‘h	{"Leviticus_ch_1.docx": [590], "Leviticus_ch_4.docx": [441], "Leviticus_ch_16.docx": [512], "Leviticus_ch_21.docx": [384], "Leviticus_ch_23.docx": [426], "Deuteronomy_ch_5.docx": [375], "Deuteronomy_ch_12.docx": [567], "Joshua_ch_20.docx": [378], "1 Samuel_ch_2.docx": [589], "2 Samuel_ch_22.docx": [282], "Job_ch_15.docx": [295], "Jeremiah_ch_12.docx": [565], "Jonah_ch_2.docx": [481]}
-20‘moa	{"Jeremiah_ch_48.docx": [2636]}

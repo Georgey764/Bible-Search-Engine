@@ -1,5 +1,2 @@
 
-flap	{"Ezekiel_ch_1.docx": [3064], "Ezekiel_ch_3.docx": [1806, 1806, 1806], "Revelation_ch_9.docx": [1193, 1193]}
-62y	{"Lamentations_ch_3.docx": [5142]}
-flap	{"Ezekiel_ch_1.docx": [3064], "Ezekiel_ch_3.docx": [1806, 1806], "Revelation_ch_9.docx": [1193]}
 flap	{"Ezekiel_ch_1.docx": [3064], "Ezekiel_ch_3.docx": [1806], "Revelation_ch_9.docx": [1193]}

@@ -1,4 +1,2 @@
 
-seeks	{"1 Samuel_ch_2.docx": [1919], "Psalms_ch_94.docx": [62, 101, 62, 101, 62, 101]}
-seeks	{"1 Samuel_ch_2.docx": [1919], "Psalms_ch_94.docx": [62, 101, 62, 101]}
 seeks	{"1 Samuel_ch_2.docx": [1919], "Psalms_ch_94.docx": [62, 101]}

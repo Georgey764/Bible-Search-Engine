@@ -1,4 +1,2 @@
 
-sensel	{"Psalms_ch_92.docx": [513], "Proverbs_ch_11.docx": [1278, 1278, 1278], "Ezekiel_ch_45.docx": [3950, 3950, 3950]}
-sensel	{"Psalms_ch_92.docx": [513], "Proverbs_ch_11.docx": [1278, 1278], "Ezekiel_ch_45.docx": [3950, 3950]}
-sensel	{"Psalms_ch_92.docx": [513], "Proverbs_ch_11.docx": [1278], "Ezekiel_ch_45.docx": [3950]}
+sensel	{"Psalms_ch_92.docx": [513], "Proverbs_ch_11.docx": [1278], "Ezekiel_ch_45.docx": [3950], "Luke_ch_24.docx": [2803], "Titus_ch_3.docx": [370], "Jude_ch_1.docx": [2057]}

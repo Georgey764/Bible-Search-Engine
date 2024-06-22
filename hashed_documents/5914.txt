@@ -1,7 +1,3 @@
 
-amalek	{"Exodus_ch_17.docx": [1347, 1446, 1622, 1790, 2085, 2276, 2398, 1446, 1622, 1790, 2085, 2276, 2398, 1446, 1622, 1790, 2085, 2276, 2398], "1 Chronicles_ch_4.docx": [3859, 3859, 3859], "Psalms_ch_83.docx": [593, 593, 593]}
-phac	{"Joshua_ch_15.docx": [5764]}
-amalek	{"Exodus_ch_17.docx": [1347, 1446, 1622, 1790, 2085, 2276, 2398, 1446, 1622, 1790, 2085, 2276, 2398], "1 Chronicles_ch_4.docx": [3859, 3859], "Psalms_ch_83.docx": [593, 593]}
-phac	{"Joshua_ch_15.docx": [5764]}
 amalek	{"Exodus_ch_17.docx": [1347, 1446, 1622, 1790, 2085, 2276, 2398], "1 Chronicles_ch_4.docx": [3859], "Psalms_ch_83.docx": [593]}
 phac	{"Joshua_ch_15.docx": [5764]}

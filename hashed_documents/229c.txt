@@ -1,3 +1,0 @@
-
-32fin	{"Genesis_ch_18.docx": [4362]}
-22‘bu	{"Deuteronomy_ch_1.docx": [3110], "1 Samuel_ch_20.docx": [3492], "Ezekiel_ch_30.docx": [3236], "Daniel_ch_7.docx": [4132], "Matthew_ch_11.docx": [2598]}

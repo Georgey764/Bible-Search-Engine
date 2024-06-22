@@ -1,5 +1,2 @@
 
-elizab	{"1 Chronicles_ch_26.docx": [814], "Luke_ch_1.docx": [522, 818, 1488, 3016, 4447, 4816, 4951, 4962, 6223, 6311, 522, 818, 1488, 3016, 4447, 4816, 4951, 4962, 6223, 6311]}
-2‘this	{"Exodus_ch_12.docx": [135], "Leviticus_ch_14.docx": [63], "Numbers_ch_19.docx": [71], "Job_ch_11.docx": [57]}
-elizab	{"1 Chronicles_ch_26.docx": [814], "Luke_ch_1.docx": [522, 818, 1488, 3016, 4447, 4816, 4951, 4962, 6223, 6311]}
 elizab	{"1 Chronicles_ch_26.docx": [814], "Luke_ch_1.docx": [522, 818, 1488, 3016, 4447, 4816, 4951, 4962, 6223, 6311]}

@@ -1,4 +1,2 @@
 
-propo	{"Numbers_ch_32.docx": [3237], "1 Kings_ch_18.docx": [3801, 3801, 3801], "1 Kings_ch_20.docx": [4310, 4310, 4310], "2 Chronicles_ch_34.docx": [5666, 5666, 5666], "Nehemiah_ch_2.docx": [1086, 1086, 1086], "Esther_ch_1.docx": [3755, 3755, 3755], "Job_ch_15.docx": [1001, 1001, 1001]}
-propo	{"Numbers_ch_32.docx": [3237], "1 Kings_ch_18.docx": [3801, 3801], "1 Kings_ch_20.docx": [4310, 4310], "2 Chronicles_ch_34.docx": [5666, 5666], "Nehemiah_ch_2.docx": [1086, 1086], "Esther_ch_1.docx": [3755, 3755], "Job_ch_15.docx": [1001, 1001]}
-propo	{"Numbers_ch_32.docx": [3237], "1 Kings_ch_18.docx": [3801], "1 Kings_ch_20.docx": [4310], "2 Chronicles_ch_34.docx": [5666], "Nehemiah_ch_2.docx": [1086], "Esther_ch_1.docx": [3755], "Job_ch_15.docx": [1001]}
+propo	{"Numbers_ch_32.docx": [3237], "1 Kings_ch_18.docx": [3801], "1 Kings_ch_20.docx": [4310], "2 Chronicles_ch_34.docx": [5666], "Ezra_ch_10.docx": [988], "Nehemiah_ch_2.docx": [1086], "Esther_ch_1.docx": [3755], "Job_ch_15.docx": [1001]}

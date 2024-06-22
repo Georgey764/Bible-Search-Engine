@@ -3,11 +3,3 @@ be	{"1 Chronicles_ch_4.docx": [3388, 4037]}
 be	{"1 Chronicles_ch_7.docx": [3353]}
 be	{"1 Chronicles_ch_7.docx": [3814]}
 be	{"1 Chronicles_ch_11.docx": [5518]}
-be	{"1 Chronicles_ch_4.docx": [3388, 4037]}
-be	{"1 Chronicles_ch_7.docx": [3353]}
-be	{"1 Chronicles_ch_7.docx": [3814]}
-be	{"1 Chronicles_ch_11.docx": [5518]}
-be	{"1 Chronicles_ch_4.docx": [3388, 4037]}
-be	{"1 Chronicles_ch_7.docx": [3353]}
-be	{"1 Chronicles_ch_7.docx": [3814]}
-be	{"1 Chronicles_ch_11.docx": [5518]}

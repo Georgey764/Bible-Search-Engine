@@ -1,4 +1,2 @@
 
-swan	{"Leviticus_ch_11.docx": [1921], "Deuteronomy_ch_14.docx": [1402, 1402, 1402]}
-swan	{"Leviticus_ch_11.docx": [1921], "Deuteronomy_ch_14.docx": [1402, 1402]}
 swan	{"Leviticus_ch_11.docx": [1921], "Deuteronomy_ch_14.docx": [1402]}

@@ -1,7 +1,3 @@
 
 vest!	{"1 Samuel_ch_23.docx": [1370]}
 gnawe	{"Job_ch_30.docx": [666]}
-vest!	{"1 Samuel_ch_23.docx": [1370]}
-gnawe	{"Job_ch_30.docx": [666]}
-vest!	{"1 Samuel_ch_23.docx": [1370]}
-gnawe	{"Job_ch_30.docx": [666]}

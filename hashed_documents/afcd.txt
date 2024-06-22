@@ -1,4 +1,2 @@
 
-phogor	{"Genesis_ch_36.docx": [3979], "Numbers_ch_23.docx": [3677, 3677, 3677], "Numbers_ch_25.docx": [2365, 2365, 2365], "Numbers_ch_31.docx": [1904, 1904, 1904], "Deuteronomy_ch_3.docx": [4299, 4299, 4299], "Deuteronomy_ch_4.docx": [441, 6893, 441, 6893, 441, 6893], "Joshua_ch_22.docx": [2792, 2792, 2792], "1 Chronicles_ch_1.docx": [4228, 4228, 4228]}
-phogor	{"Genesis_ch_36.docx": [3979], "Numbers_ch_23.docx": [3677, 3677], "Numbers_ch_25.docx": [2365, 2365], "Numbers_ch_31.docx": [1904, 1904], "Deuteronomy_ch_3.docx": [4299, 4299], "Deuteronomy_ch_4.docx": [441, 6893, 441, 6893], "Joshua_ch_22.docx": [2792, 2792], "1 Chronicles_ch_1.docx": [4228, 4228]}
 phogor	{"Genesis_ch_36.docx": [3979], "Numbers_ch_23.docx": [3677], "Numbers_ch_25.docx": [2365], "Numbers_ch_31.docx": [1904], "Deuteronomy_ch_3.docx": [4299], "Deuteronomy_ch_4.docx": [441, 6893], "Joshua_ch_22.docx": [2792], "1 Chronicles_ch_1.docx": [4228]}

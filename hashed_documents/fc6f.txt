@@ -1,3 +1,0 @@
-
-3yes	{"Deuteronomy_ch_29.docx": [327], "Psalms_ch_11.docx": [302], "Psalms_ch_126.docx": [369], "Ezekiel_ch_7.docx": [203]}
-11gu	{"Psalms_ch_86.docx": [839]}

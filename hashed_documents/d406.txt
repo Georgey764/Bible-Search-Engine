@@ -1,4 +1,2 @@
 
-adda	{"1 Chronicles_ch_2.docx": [4144], "Ezra_ch_2.docx": [2454, 2454, 2454]}
-adda	{"1 Chronicles_ch_2.docx": [4144], "Ezra_ch_2.docx": [2454, 2454]}
 adda	{"1 Chronicles_ch_2.docx": [4144], "Ezra_ch_2.docx": [2454]}

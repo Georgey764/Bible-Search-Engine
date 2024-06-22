@@ -1,5 +1,2 @@
 
 spying	{"Numbers_ch_14.docx": [4786]}
-9next	{"Exodus_ch_38.docx": [1012], "Leviticus_ch_8.docx": [816], "2 Chronicles_ch_4.docx": [1237]}
-spying	{"Numbers_ch_14.docx": [4786]}
-spying	{"Numbers_ch_14.docx": [4786]}

@@ -1,5 +1,2 @@
 
-aphar	{"Ezra_ch_4.docx": [1455, 1457, 1457, 1457], "Ezra_ch_5.docx": [931, 931, 931], "Ezra_ch_6.docx": [980, 980, 980]}
-6af	{"2 Chronicles_ch_4.docx": [752], "Psalms_ch_48.docx": [525]}
-aphar	{"Ezra_ch_4.docx": [1455, 1457, 1457], "Ezra_ch_5.docx": [931, 931], "Ezra_ch_6.docx": [980, 980]}
 aphar	{"Ezra_ch_4.docx": [1455, 1457], "Ezra_ch_5.docx": [931], "Ezra_ch_6.docx": [980]}

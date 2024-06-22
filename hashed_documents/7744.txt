@@ -1,7 +1,3 @@
 
-donat	{"Exodus_ch_35.docx": [1765, 3059, 3059, 3059], "Exodus_ch_36.docx": [269, 269, 269], "Numbers_ch_5.docx": [1127, 1127, 1127], "2 Kings_ch_12.docx": [514, 514, 514], "2 Chronicles_ch_31.docx": [2648, 2648, 2648], "2 Chronicles_ch_34.docx": [1593, 1593, 1593], "Ezra_ch_7.docx": [1847, 1847, 1847], "2 Corinthians_ch_8.docx": [577, 2580, 577, 2580]}
-looko	{"1 Kings_ch_15.docx": [3001], "2 Kings_ch_9.docx": [3136, 3136, 3136], "Mark_ch_12.docx": [107, 107]}
-donat	{"Exodus_ch_35.docx": [1765, 3059, 3059], "Exodus_ch_36.docx": [269, 269], "Numbers_ch_5.docx": [1127, 1127], "2 Kings_ch_12.docx": [514, 514], "2 Chronicles_ch_31.docx": [2648, 2648], "2 Chronicles_ch_34.docx": [1593, 1593], "Ezra_ch_7.docx": [1847, 1847], "2 Corinthians_ch_8.docx": [577, 2580]}
-looko	{"1 Kings_ch_15.docx": [3001], "2 Kings_ch_9.docx": [3136, 3136], "Mark_ch_12.docx": [107]}
-donat	{"Exodus_ch_35.docx": [1765, 3059], "Exodus_ch_36.docx": [269], "Numbers_ch_5.docx": [1127], "2 Kings_ch_12.docx": [514], "2 Chronicles_ch_31.docx": [2648], "2 Chronicles_ch_34.docx": [1593], "Ezra_ch_7.docx": [1847], "2 Corinthians_ch_8.docx": [577, 2580]}
+donat	{"Exodus_ch_35.docx": [1765, 3059], "Exodus_ch_36.docx": [269], "Leviticus_ch_27.docx": [2259], "Numbers_ch_5.docx": [1127], "2 Kings_ch_12.docx": [514], "2 Chronicles_ch_31.docx": [2648], "2 Chronicles_ch_34.docx": [1593], "Ezra_ch_7.docx": [1847], "2 Corinthians_ch_8.docx": [577, 2580]}
 looko	{"1 Kings_ch_15.docx": [3001], "2 Kings_ch_9.docx": [3136], "Mark_ch_12.docx": [107]}

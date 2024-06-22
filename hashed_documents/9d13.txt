@@ -2,8 +2,3 @@
 achiad	{"2 Samuel_ch_8.docx": [2490]}
 phalae	{"1 Chronicles_ch_4.docx": [4933]}
 hopef	{"Ephesians_ch_3.docx": [352]}
-achiad	{"2 Samuel_ch_8.docx": [2490]}
-phalae	{"1 Chronicles_ch_4.docx": [4933]}
-achiad	{"2 Samuel_ch_8.docx": [2490]}
-phalae	{"1 Chronicles_ch_4.docx": [4933]}
-hopef	{"Ephesians_ch_3.docx": [352]}

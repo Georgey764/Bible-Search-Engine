@@ -1,3 +1,2 @@
 
-wrappi	{"John_ch_11.docx": [5089], "John_ch_19.docx": [5489, 5489], "John_ch_20.docx": [400, 619, 635, 400, 619, 635], "Acts_ch_27.docx": [2337, 2337]}
-wrappi	{"John_ch_11.docx": [5089], "John_ch_19.docx": [5489], "John_ch_20.docx": [400, 619, 635], "Acts_ch_27.docx": [2337]}
+wrappi	{"Luke_ch_24.docx": [1199], "John_ch_11.docx": [5089], "John_ch_19.docx": [5489], "John_ch_20.docx": [400, 619, 635], "Acts_ch_27.docx": [2337]}

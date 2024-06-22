@@ -1,4 +1,2 @@
 
-mooc	{"1 Chronicles_ch_7.docx": [1880, 2004, 2004, 2004], "1 Chronicles_ch_11.docx": [6301, 6301, 6301], "1 Chronicles_ch_19.docx": [1073, 1087, 1073, 1087, 1073, 1087]}
-mooc	{"1 Chronicles_ch_7.docx": [1880, 2004, 2004], "1 Chronicles_ch_11.docx": [6301, 6301], "1 Chronicles_ch_19.docx": [1073, 1087, 1073, 1087]}
 mooc	{"1 Chronicles_ch_7.docx": [1880, 2004], "1 Chronicles_ch_11.docx": [6301], "1 Chronicles_ch_19.docx": [1073, 1087]}

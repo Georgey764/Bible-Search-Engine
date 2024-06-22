@@ -1,3 +1,0 @@
-
-28how	{"Genesis_ch_18.docx": [3664], "Daniel_ch_2.docx": [4566]}
-1[‘and	{"Hosea_ch_2.docx": [6], "Hosea_ch_7.docx": [6], "Amos_ch_6.docx": [6], "Micah_ch_3.docx": [6]}

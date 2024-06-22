@@ -1,3 +1,2 @@
 
-vag	{"Hebrews_ch_11.docx": [7212, 7228, 7228]}
 vag	{"Hebrews_ch_11.docx": [7212, 7228]}

@@ -1,11 +1,4 @@
 
-profe	{"Exodus_ch_30.docx": [3129, 4364, 4364, 4364]}
-board	{"Exodus_ch_38.docx": [673], "Deuteronomy_ch_10.docx": [339, 339, 339], "1 Kings_ch_9.docx": [1933, 1933, 1933], "2 Chronicles_ch_2.docx": [1515, 1515, 1515], "Ezra_ch_3.docx": [1231, 1231, 1231], "Ezra_ch_6.docx": [2030, 2030, 2030], "Jonah_ch_1.docx": [252, 252, 252], "Acts_ch_21.docx": [2224, 2224], "Acts_ch_27.docx": [217, 650, 217, 650]}
-whin	{"Job_ch_39.docx": [2293], "Jeremiah_ch_12.docx": [940, 940, 940]}
-profe	{"Exodus_ch_30.docx": [3129, 4364, 4364]}
-board	{"Exodus_ch_38.docx": [673], "Deuteronomy_ch_10.docx": [339, 339], "1 Kings_ch_9.docx": [1933, 1933], "2 Chronicles_ch_2.docx": [1515, 1515], "Ezra_ch_3.docx": [1231, 1231], "Ezra_ch_6.docx": [2030, 2030], "Jonah_ch_1.docx": [252, 252], "Acts_ch_21.docx": [2224], "Acts_ch_27.docx": [217, 650]}
-1[th	{"Judges_ch_14.docx": [4], "1 Samuel_ch_15.docx": [5], "Jeremiah_ch_23.docx": [4]}
-whin	{"Job_ch_39.docx": [2293], "Jeremiah_ch_12.docx": [940, 940]}
 profe	{"Exodus_ch_30.docx": [3129, 4364]}
-board	{"Exodus_ch_38.docx": [673], "Deuteronomy_ch_10.docx": [339], "1 Kings_ch_9.docx": [1933], "2 Chronicles_ch_2.docx": [1515], "Ezra_ch_3.docx": [1231], "Ezra_ch_6.docx": [2030], "Jonah_ch_1.docx": [252], "Acts_ch_21.docx": [2224], "Acts_ch_27.docx": [217, 650]}
+board	{"Exodus_ch_38.docx": [673], "Deuteronomy_ch_10.docx": [339], "1 Kings_ch_9.docx": [1933], "2 Chronicles_ch_2.docx": [1515], "Ezra_ch_3.docx": [1231], "Ezra_ch_6.docx": [2030], "Song of Solomon_ch_8.docx": [1548], "Jonah_ch_1.docx": [252], "Acts_ch_21.docx": [2224], "Acts_ch_27.docx": [217, 650]}
 whin	{"Job_ch_39.docx": [2293], "Jeremiah_ch_12.docx": [940]}

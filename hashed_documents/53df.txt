@@ -1,6 +1,3 @@
 
-nursin	{"Genesis_ch_21.docx": [563], "Numbers_ch_11.docx": [1474, 1474, 1474], "1 Kings_ch_3.docx": [4050, 4050, 4050], "Lamentations_ch_2.docx": [2538, 4551, 2538, 4551, 2538, 4551], "Lamentations_ch_4.docx": [357, 551, 357, 551, 357, 551], "Joel_ch_2.docx": [2808, 2808, 2808], "Matthew_ch_24.docx": [2010, 2010, 2010], "Mark_ch_13.docx": [2175, 2175], "Luke_ch_21.docx": [2612, 2612]}
-with<s	{"2 Corinthians_ch_5.docx": [1125]}
-nursin	{"Genesis_ch_21.docx": [563], "Numbers_ch_11.docx": [1474, 1474], "1 Kings_ch_3.docx": [4050, 4050], "Lamentations_ch_2.docx": [2538, 4551, 2538, 4551], "Lamentations_ch_4.docx": [357, 551, 357, 551], "Joel_ch_2.docx": [2808, 2808], "Matthew_ch_24.docx": [2010, 2010], "Mark_ch_13.docx": [2175], "Luke_ch_21.docx": [2612]}
 nursin	{"Genesis_ch_21.docx": [563], "Numbers_ch_11.docx": [1474], "1 Kings_ch_3.docx": [4050], "Lamentations_ch_2.docx": [2538, 4551], "Lamentations_ch_4.docx": [357, 551], "Joel_ch_2.docx": [2808], "Matthew_ch_24.docx": [2010], "Mark_ch_13.docx": [2175], "Luke_ch_21.docx": [2612]}
 with<s	{"2 Corinthians_ch_5.docx": [1125]}

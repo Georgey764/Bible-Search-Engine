@@ -1,4 +1,2 @@
 
-fast-	{"Deuteronomy_ch_28.docx": [6771], "Job_ch_28.docx": [352, 352, 352]}
-fast-	{"Deuteronomy_ch_28.docx": [6771], "Job_ch_28.docx": [352, 352]}
 fast-	{"Deuteronomy_ch_28.docx": [6771], "Job_ch_28.docx": [352]}

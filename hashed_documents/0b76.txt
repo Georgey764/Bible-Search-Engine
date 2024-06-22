@@ -1,2 +1,0 @@
-
-29h	{"Genesis_ch_18.docx": [3912], "Numbers_ch_32.docx": [3807], "Deuteronomy_ch_5.docx": [3736], "Joshua_ch_13.docx": [31779], "1 Samuel_ch_20.docx": [4477], "2 Samuel_ch_17.docx": [4614], "2 Kings_ch_10.docx": [5440], "2 Kings_ch_23.docx": [6525], "1 Chronicles_ch_24.docx": [2849], "Job_ch_41.docx": [2540], "Daniel_ch_11.docx": [5438]}

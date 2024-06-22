@@ -1,4 +1,2 @@
 
-flayed	{"Micah_ch_2.docx": [1435], "Micah_ch_3.docx": [397, 397, 397], "Mark_ch_12.docx": [608, 608]}
-flayed	{"Micah_ch_2.docx": [1435], "Micah_ch_3.docx": [397, 397], "Mark_ch_12.docx": [608]}
 flayed	{"Micah_ch_2.docx": [1435], "Micah_ch_3.docx": [397], "Mark_ch_12.docx": [608]}

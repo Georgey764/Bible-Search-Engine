@@ -1,7 +1,3 @@
 
-untr	{"Proverbs_ch_20.docx": [1549], "Ezekiel_ch_13.docx": [1117, 1117, 1117]}
-obsol	{"Hebrews_ch_8.docx": [2132]}
-untr	{"Proverbs_ch_20.docx": [1549], "Ezekiel_ch_13.docx": [1117, 1117]}
-110:	{"Matthew_ch_22.docx": [4827]}
-untr	{"Proverbs_ch_20.docx": [1549], "Ezekiel_ch_13.docx": [1117]}
+untr	{"Proverbs_ch_20.docx": [1549], "Lamentations_ch_5.docx": [2666], "Ezekiel_ch_13.docx": [1117]}
 obsol	{"Hebrews_ch_8.docx": [2132]}

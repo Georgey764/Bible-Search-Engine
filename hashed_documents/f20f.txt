@@ -1,6 +1,3 @@
 
 jere	{"1 Chronicles_ch_12.docx": [1297]}
 logica	{"Job_ch_42.docx": [3842], "Acts_ch_9.docx": [3508]}
- jere	{"1 Chronicles_ch_12.docx": [1297]}
- jere	{"1 Chronicles_ch_12.docx": [1297]}
-logica	{"Acts_ch_9.docx": [3508]}

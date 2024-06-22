@@ -1,3 +1,2 @@
 
 clang	{"1 Corinthians_ch_13.docx": [25]}
-clang	{"1 Corinthians_ch_13.docx": [25]}

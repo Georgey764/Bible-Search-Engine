@@ -1,5 +1,2 @@
 
-moldi	{"Isaiah_ch_44.docx": [1576], "Ezekiel_ch_43.docx": [2598, 3130, 2598, 3130, 2598, 3130]}
-29was	{"Numbers_ch_1.docx": [2621]}
-moldi	{"Isaiah_ch_44.docx": [1576], "Ezekiel_ch_43.docx": [2598, 3130, 2598, 3130]}
-moldi	{"Isaiah_ch_44.docx": [1576], "Ezekiel_ch_43.docx": [2598, 3130]}
+moldi	{"Isaiah_ch_44.docx": [1576], "Jeremiah_ch_52.docx": [3219, 3241, 3255], "Ezekiel_ch_43.docx": [2598, 3130]}

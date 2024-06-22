@@ -1,4 +1,2 @@
 
-babb	{"Matthew_ch_6.docx": [1086]}
-babb	{"Matthew_ch_6.docx": [1086]}
-babb	{"Matthew_ch_6.docx": [1086]}
+babb	{"Matthew_ch_6.docx": [1086], "1 Timothy_ch_6.docx": [3024]}

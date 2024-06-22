@@ -1,5 +1,2 @@
 
-storag	{"Deuteronomy_ch_28.docx": [542, 2308, 2308, 2308], "2 Kings_ch_9.docx": [299, 299, 299], "2 Kings_ch_11.docx": [169, 169, 169], "Matthew_ch_6.docx": [3617, 3617, 3617], "Luke_ch_12.docx": [3060, 3060]}
-storag	{"Deuteronomy_ch_28.docx": [542, 2308, 2308], "2 Kings_ch_9.docx": [299, 299], "2 Kings_ch_11.docx": [169, 169], "Matthew_ch_6.docx": [3617, 3617], "Luke_ch_12.docx": [3060]}
-3elia	{"1 Kings_ch_4.docx": [180]}
 storag	{"Deuteronomy_ch_28.docx": [542, 2308], "2 Kings_ch_9.docx": [299], "2 Kings_ch_11.docx": [169], "Matthew_ch_6.docx": [3617], "Luke_ch_12.docx": [3060]}

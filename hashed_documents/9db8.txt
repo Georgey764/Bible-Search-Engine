@@ -1,2 +1,0 @@
-
-15as	{"2 Samuel_ch_3.docx": [2196], "2 Samuel_ch_6.docx": [2192], "1 Kings_ch_1.docx": [2065], "1 Chronicles_ch_2.docx": [1257], "Proverbs_ch_27.docx": [1327]}

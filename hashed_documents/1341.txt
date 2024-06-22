@@ -1,2 +1,0 @@
-
-17but	{"Genesis_ch_2.docx": [2172], "Genesis_ch_44.docx": [2205], "Exodus_ch_7.docx": [2135], "Exodus_ch_22.docx": [2524], "Joshua_ch_17.docx": [2802], "Judges_ch_4.docx": [6447], "Judges_ch_6.docx": [3784], "2 Samuel_ch_16.docx": [2582], "2 Samuel_ch_21.docx": [3252], "1 Kings_ch_17.docx": [2297], "2 Kings_ch_2.docx": [2811], "2 Kings_ch_18.docx": [2617], "2 Chronicles_ch_24.docx": [2805], "Nehemiah_ch_2.docx": [4580], "Psalms_ch_7.docx": [1699], "Psalms_ch_78.docx": [1694], "Ezekiel_ch_46.docx": [3241]}

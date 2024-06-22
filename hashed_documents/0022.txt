@@ -1,5 +1,2 @@
 
 penuel	{"1 Kings_ch_12.docx": [4198]}
-penuel	{"1 Kings_ch_12.docx": [4198]}
-5ye	{"Psalms_ch_24.docx": [460], "Psalms_ch_82.docx": [375], "Psalms_ch_128.docx": [449], "Proverbs_ch_1.docx": [441], "Isaiah_ch_65.docx": [656], "Amos_ch_8.docx": [617]}
-penuel	{"1 Kings_ch_12.docx": [4198]}

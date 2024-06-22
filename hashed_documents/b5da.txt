@@ -1,2 +1,0 @@
-
-5,0	{"Judges_ch_20.docx": [7396, 7435, 7475], "1 Kings_ch_4.docx": [3833], "1 Chronicles_ch_5.docx": [2733], "2 Chronicles_ch_35.docx": [1721], "Ezra_ch_2.docx": [3394], "Ezekiel_ch_45.docx": [1073], "Matthew_ch_14.docx": [2412]}

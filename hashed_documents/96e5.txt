@@ -1,8 +1,3 @@
 
-jerah	{"1 Samuel_ch_27.docx": [1460], "1 Samuel_ch_30.docx": [4442, 4442, 4442], "1 Chronicles_ch_1.docx": [1788, 1788, 1788], "Jeremiah_ch_36.docx": [4064, 4064, 4064]}
-jostl	{"Isaiah_ch_51.docx": [2932]}
-15ea	{"Exodus_ch_36.docx": [2174]}
-jerah	{"1 Samuel_ch_27.docx": [1460], "1 Samuel_ch_30.docx": [4442, 4442], "1 Chronicles_ch_1.docx": [1788, 1788], "Jeremiah_ch_36.docx": [4064, 4064]}
-jostl	{"Isaiah_ch_51.docx": [2932]}
 jerah	{"1 Samuel_ch_27.docx": [1460], "1 Samuel_ch_30.docx": [4442], "1 Chronicles_ch_1.docx": [1788], "Jeremiah_ch_36.docx": [4064]}
 jostl	{"Isaiah_ch_51.docx": [2932]}

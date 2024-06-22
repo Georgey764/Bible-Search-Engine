@@ -1,4 +1,2 @@
 
-slave!	{"Isaiah_ch_44.docx": [3622], "Matthew_ch_18.docx": [4296, 4296, 4296], "Matthew_ch_25.docx": [2189, 2517, 2994, 2189, 2517, 2994, 2189, 2517, 2994], "Luke_ch_19.docx": [2020, 2637, 2020, 2637]}
-slave!	{"Isaiah_ch_44.docx": [3622], "Matthew_ch_18.docx": [4296, 4296], "Matthew_ch_25.docx": [2189, 2517, 2994, 2189, 2517, 2994], "Luke_ch_19.docx": [2020, 2637]}
 slave!	{"Isaiah_ch_44.docx": [3622], "Matthew_ch_18.docx": [4296], "Matthew_ch_25.docx": [2189, 2517, 2994], "Luke_ch_19.docx": [2020, 2637]}

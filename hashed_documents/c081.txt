@@ -1,5 +1,2 @@
 
 capped	{"Exodus_ch_26.docx": [3820]}
-capped	{"Exodus_ch_26.docx": [3820]}
-87,00	{"1 Chronicles_ch_7.docx": [553]}
-capped	{"Exodus_ch_26.docx": [3820]}

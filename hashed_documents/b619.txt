@@ -1,7 +1,3 @@
 
 romett	{"1 Chronicles_ch_25.docx": [2977]}
-achbo	{"Jeremiah_ch_26.docx": [3929], "Jeremiah_ch_36.docx": [2161, 2161, 2161]}
-romett	{"1 Chronicles_ch_25.docx": [2977]}
-achbo	{"Jeremiah_ch_26.docx": [3929], "Jeremiah_ch_36.docx": [2161, 2161]}
-romett	{"1 Chronicles_ch_25.docx": [2977]}
 achbo	{"Jeremiah_ch_26.docx": [3929], "Jeremiah_ch_36.docx": [2161]}

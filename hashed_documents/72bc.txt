@@ -1,4 +1,2 @@
 
-aroa	{"Numbers_ch_26.docx": [2750, 2755, 2755]}
-aroa	{"Numbers_ch_26.docx": [2755, 2755]}
 aroa	{"Numbers_ch_26.docx": [2750, 2755]}

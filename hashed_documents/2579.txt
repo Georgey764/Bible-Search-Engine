@@ -1,4 +1,2 @@
 
-jehoha	{"Nehemiah_ch_12.docx": [1110, 11657, 11657, 11657]}
-jehoha	{"Nehemiah_ch_12.docx": [1110, 11657, 11657]}
-jehoha	{"Nehemiah_ch_12.docx": [1110, 11657]}
+jehoha	{"Ezra_ch_10.docx": [4747], "Nehemiah_ch_12.docx": [1110, 11657]}

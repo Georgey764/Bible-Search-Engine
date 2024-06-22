@@ -1,2 +1,0 @@
-
-11‘and	{"Exodus_ch_12.docx": [1356], "Exodus_ch_13.docx": [1479], "Leviticus_ch_5.docx": [1587], "Leviticus_ch_10.docx": [1750], "Leviticus_ch_14.docx": [1484], "Leviticus_ch_20.docx": [1513], "Numbers_ch_28.docx": [1418], "2 Samuel_ch_4.docx": [1777], "2 Samuel_ch_12.docx": [1929], "Ezra_ch_5.docx": [1666], "Isaiah_ch_42.docx": [1461], "Jeremiah_ch_11.docx": [1987], "Jeremiah_ch_16.docx": [1743], "Ezekiel_ch_6.docx": [1630], "Ezekiel_ch_39.docx": [1855], "Ezekiel_ch_46.docx": [2055], "Amos_ch_1.docx": [6083], "Matthew_ch_20.docx": [1328]}

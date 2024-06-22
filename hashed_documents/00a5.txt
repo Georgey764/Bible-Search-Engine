@@ -1,6 +1,3 @@
 
-laad	{"1 Chronicles_ch_4.docx": [179, 2491, 2491, 2491], "1 Chronicles_ch_23.docx": [999, 999, 999]}
-tappe	{"Acts_ch_12.docx": [1116]}
-laad	{"1 Chronicles_ch_4.docx": [179, 2491, 2491], "1 Chronicles_ch_23.docx": [999, 999]}
 laad	{"1 Chronicles_ch_4.docx": [179, 2491], "1 Chronicles_ch_23.docx": [999]}
 tappe	{"Acts_ch_12.docx": [1116]}

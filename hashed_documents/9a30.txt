@@ -1,6 +1,3 @@
 
-empow	{"Genesis_ch_27.docx": [4938], "Exodus_ch_28.docx": [5288, 5288, 5288], "Exodus_ch_29.docx": [1043, 3947, 4470, 4870, 1043, 3947, 4470, 4870, 1043, 3947, 4470, 4870], "Deuteronomy_ch_17.docx": [2459, 2459, 2459], "Judges_ch_9.docx": [4892, 4892, 4892], "1 Chronicles_ch_15.docx": [3457, 3457, 3457], "Ezekiel_ch_43.docx": [4863, 4863, 4863], "Acts_ch_9.docx": [162, 2288, 162, 2288], "Acts_ch_25.docx": [1908, 1908], "Revelation_ch_12.docx": [1543, 1543]}
-magist	{"Acts_ch_16.docx": [8111, 8223, 8223]}
-empow	{"Genesis_ch_27.docx": [4938], "Exodus_ch_28.docx": [5288, 5288], "Exodus_ch_29.docx": [1043, 3947, 4470, 4870, 1043, 3947, 4470, 4870], "Deuteronomy_ch_17.docx": [2459, 2459], "Judges_ch_9.docx": [4892, 4892], "1 Chronicles_ch_15.docx": [3457, 3457], "Ezekiel_ch_43.docx": [4863, 4863], "Acts_ch_9.docx": [162, 2288], "Acts_ch_25.docx": [1908], "Revelation_ch_12.docx": [1543]}
 empow	{"Genesis_ch_27.docx": [4938], "Exodus_ch_28.docx": [5288], "Exodus_ch_29.docx": [1043, 3947, 4470, 4870], "Deuteronomy_ch_17.docx": [2459], "Judges_ch_9.docx": [4892], "1 Chronicles_ch_15.docx": [3457], "Ezekiel_ch_43.docx": [4863], "Acts_ch_9.docx": [162, 2288], "Acts_ch_25.docx": [1908], "Revelation_ch_12.docx": [1543]}
 magist	{"Acts_ch_16.docx": [8111, 8223]}

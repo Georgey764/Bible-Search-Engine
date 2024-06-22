@@ -1,7 +1,3 @@
 
-liqu	{"Leviticus_ch_10.docx": [1390], "Leviticus_ch_19.docx": [4784, 4784, 4784], "Deuteronomy_ch_14.docx": [2400, 2400, 2400], "Deuteronomy_ch_29.docx": [535, 535, 535], "Judges_ch_13.docx": [582, 2309, 582, 2309, 582, 2309], "1 Samuel_ch_1.docx": [2380, 2380, 2380], "Isaiah_ch_5.docx": [1850, 3511, 1850, 3511, 1850, 3511], "Isaiah_ch_24.docx": [1457, 1457, 1457], "Isaiah_ch_28.docx": [967, 1005, 967, 1005, 967, 1005], "Isaiah_ch_29.docx": [1566, 1566, 1566], "Luke_ch_1.docx": [1830, 1830]}
-kedem’	{"Jeremiah_ch_49.docx": [5057]}
-liqu	{"Leviticus_ch_10.docx": [1390], "Leviticus_ch_19.docx": [4784, 4784], "Deuteronomy_ch_14.docx": [2400, 2400], "Deuteronomy_ch_29.docx": [535, 535], "Judges_ch_13.docx": [582, 2309, 582, 2309], "1 Samuel_ch_1.docx": [2380, 2380], "Isaiah_ch_5.docx": [1850, 3511, 1850, 3511], "Isaiah_ch_24.docx": [1457, 1457], "Isaiah_ch_28.docx": [967, 1005, 967, 1005], "Isaiah_ch_29.docx": [1566, 1566], "Luke_ch_1.docx": [1830]}
-kedem’	{"Jeremiah_ch_49.docx": [5057]}
-liqu	{"Leviticus_ch_10.docx": [1390], "Leviticus_ch_19.docx": [4784], "Deuteronomy_ch_14.docx": [2400], "Deuteronomy_ch_29.docx": [535], "Judges_ch_13.docx": [582, 2309], "1 Samuel_ch_1.docx": [2380], "Isaiah_ch_5.docx": [1850, 3511], "Isaiah_ch_24.docx": [1457], "Isaiah_ch_28.docx": [967, 1005], "Isaiah_ch_29.docx": [1566], "Luke_ch_1.docx": [1830]}
+liqu	{"Leviticus_ch_10.docx": [1390], "Leviticus_ch_19.docx": [4784], "Deuteronomy_ch_14.docx": [2400], "Deuteronomy_ch_29.docx": [535], "Judges_ch_13.docx": [582, 2309], "1 Samuel_ch_1.docx": [2380], "Proverbs_ch_31.docx": [648], "Isaiah_ch_5.docx": [1850, 3511], "Isaiah_ch_24.docx": [1457], "Isaiah_ch_28.docx": [967, 1005], "Isaiah_ch_29.docx": [1566], "Luke_ch_1.docx": [1830]}
 kedem’	{"Jeremiah_ch_49.docx": [5057]}

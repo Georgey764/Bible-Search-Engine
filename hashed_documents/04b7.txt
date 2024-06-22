@@ -1,4 +1,2 @@
 
 gara	{"Mark_ch_5.docx": [20]}
-30thes	{"Exodus_ch_25.docx": [3187]}
-gara	{"Mark_ch_5.docx": [20]}

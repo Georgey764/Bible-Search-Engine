@@ -1,5 +1,2 @@
 
 chobo	{"Genesis_ch_46.docx": [2060]}
-chobo	{"Genesis_ch_46.docx": [2060]}
-5gaini	{"Proverbs_ch_24.docx": [322]}
-chobo	{"Genesis_ch_46.docx": [2060]}

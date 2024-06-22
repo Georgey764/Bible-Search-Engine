@@ -1,4 +1,2 @@
 
-uzza	{"Ezra_ch_2.docx": [1968], "Nehemiah_ch_7.docx": [2854, 2854, 2854]}
-uzza	{"Ezra_ch_2.docx": [1968], "Nehemiah_ch_7.docx": [2854, 2854]}
 uzza	{"Ezra_ch_2.docx": [1968], "Nehemiah_ch_7.docx": [2854]}

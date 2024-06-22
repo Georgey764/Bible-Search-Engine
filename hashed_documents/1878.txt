@@ -1,3 +1,2 @@
 
-juliu	{"Acts_ch_27.docx": [31, 323, 323]}
 juliu	{"Acts_ch_27.docx": [31, 323]}

@@ -1,4 +1,2 @@
 
-maad	{"Nehemiah_ch_12.docx": [279]}
-maad	{"Nehemiah_ch_12.docx": [279]}
-maad	{"Nehemiah_ch_12.docx": [279]}
+maad	{"Ezra_ch_10.docx": [5373], "Nehemiah_ch_12.docx": [279]}

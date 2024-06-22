@@ -1,4 +1,2 @@
 
-sweat	{"Genesis_ch_3.docx": [3007], "Jeremiah_ch_8.docx": [1296, 1296, 1296], "Micah_ch_2.docx": [1936, 1936, 1936], "Luke_ch_22.docx": [4989, 4989]}
-sweat	{"Genesis_ch_3.docx": [3007], "Jeremiah_ch_8.docx": [1296, 1296], "Micah_ch_2.docx": [1936, 1936], "Luke_ch_22.docx": [4989]}
 sweat	{"Genesis_ch_3.docx": [3007], "Jeremiah_ch_8.docx": [1296], "Micah_ch_2.docx": [1936], "Luke_ch_22.docx": [4989]}

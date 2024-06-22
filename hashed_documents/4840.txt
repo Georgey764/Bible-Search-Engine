@@ -1,4 +1,2 @@
 
-aser	{"Joshua_ch_15.docx": [4173], "1 Chronicles_ch_6.docx": [1610, 1668, 2933, 1610, 1668, 2933, 1610, 1668, 2933], "1 Chronicles_ch_7.docx": [1758, 1758, 1758]}
-aser	{"Joshua_ch_15.docx": [4173], "1 Chronicles_ch_6.docx": [1610, 1668, 2933, 1610, 1668, 2933], "1 Chronicles_ch_7.docx": [1758, 1758]}
 aser	{"Joshua_ch_15.docx": [4173], "1 Chronicles_ch_6.docx": [1610, 1668, 2933], "1 Chronicles_ch_7.docx": [1758]}

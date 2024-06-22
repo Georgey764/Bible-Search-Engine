@@ -1,5 +1,2 @@
 
-ichab	{"1 Samuel_ch_4.docx": [3658], "1 Samuel_ch_14.docx": [391, 391, 391]}
-ichab	{"1 Samuel_ch_4.docx": [3658], "1 Samuel_ch_14.docx": [391, 391]}
-16rat	{"2 Samuel_ch_7.docx": [2243]}
 ichab	{"1 Samuel_ch_4.docx": [3658], "1 Samuel_ch_14.docx": [391]}

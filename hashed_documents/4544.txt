@@ -1,6 +1,3 @@
 
-sill	{"2 Kings_ch_17.docx": [2603], "1 Corinthians_ch_3.docx": [2272, 2272]}
-pamph	{"Acts_ch_13.docx": [3056], "Acts_ch_27.docx": [621, 621]}
-sill	{"2 Kings_ch_17.docx": [2603], "1 Corinthians_ch_3.docx": [2272]}
-sill	{"2 Kings_ch_17.docx": [2603], "1 Corinthians_ch_3.docx": [2272]}
+sill	{"2 Kings_ch_17.docx": [2603], "Ecclesiastes_ch_12.docx": [1440], "1 Corinthians_ch_3.docx": [2272]}
 pamph	{"Acts_ch_13.docx": [3056], "Acts_ch_27.docx": [621]}

@@ -1,2 +1,3 @@
 
-15i’v	{"Psalms_ch_88.docx": [1536]}
+stated	{"Leviticus_ch_27.docx": [3480], "James_ch_5.docx": [2884]}
+adassa	{"2 Samuel_ch_24.docx": [769]}

@@ -1,3 +1,2 @@
 
-lysani	{"Luke_ch_3.docx": [303, 353, 404, 353, 404]}
 lysani	{"Luke_ch_3.docx": [303, 353, 404]}

@@ -1,4 +1,2 @@
 
-presum	{"Numbers_ch_15.docx": [3757], "Proverbs_ch_21.docx": [2338, 2338, 2338], "Jeremiah_ch_49.docx": [827, 827, 827], "Daniel_ch_2.docx": [2413, 2413, 2413], "1 Timothy_ch_1.docx": [1298, 1298]}
-presum	{"Numbers_ch_15.docx": [3757], "Proverbs_ch_21.docx": [2338, 2338], "Jeremiah_ch_49.docx": [827, 827], "Daniel_ch_2.docx": [2413, 2413], "1 Timothy_ch_1.docx": [1298]}
 presum	{"Numbers_ch_15.docx": [3757], "Proverbs_ch_21.docx": [2338], "Jeremiah_ch_49.docx": [827], "Daniel_ch_2.docx": [2413], "1 Timothy_ch_1.docx": [1298]}

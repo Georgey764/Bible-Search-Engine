@@ -1,7 +1,3 @@
 
-symaer	{"Numbers_ch_26.docx": [3703, 3708, 3708]}
-tastin	{"Daniel_ch_5.docx": [180]}
-symaer	{"Numbers_ch_26.docx": [3708, 3708]}
-tastin	{"Daniel_ch_5.docx": [180]}
 symaer	{"Numbers_ch_26.docx": [3703, 3708]}
 tastin	{"Daniel_ch_5.docx": [180]}

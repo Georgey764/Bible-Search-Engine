@@ -1,4 +1,2 @@
 
-embarr	{"Judges_ch_3.docx": [8944], "Job_ch_32.docx": [2093, 2093, 2093], "Romans_ch_5.docx": [502, 502], "1 Corinthians_ch_15.docx": [3982, 3982]}
-embarr	{"Judges_ch_3.docx": [8944], "Job_ch_32.docx": [2093, 2093], "Romans_ch_5.docx": [502], "1 Corinthians_ch_15.docx": [3982]}
 embarr	{"Judges_ch_3.docx": [8944], "Job_ch_32.docx": [2093], "Romans_ch_5.docx": [502], "1 Corinthians_ch_15.docx": [3982]}

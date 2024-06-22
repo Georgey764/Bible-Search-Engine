@@ -1,4 +1,2 @@
 
-triu	{"Proverbs_ch_19.docx": [985], "Proverbs_ch_28.docx": [1030, 1030, 1030], "Matthew_ch_12.docx": [2289, 2289, 2289]}
-triu	{"Proverbs_ch_19.docx": [985], "Proverbs_ch_28.docx": [1030, 1030], "Matthew_ch_12.docx": [2289, 2289]}
 triu	{"Proverbs_ch_19.docx": [985], "Proverbs_ch_28.docx": [1030], "Matthew_ch_12.docx": [2289]}

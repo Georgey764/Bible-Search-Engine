@@ -1,5 +1,2 @@
 
-achisa	{"Exodus_ch_31.docx": [538], "Exodus_ch_35.docx": [3644, 3644, 3644], "1 Chronicles_ch_2.docx": [3000, 3000, 3000], "1 Chronicles_ch_7.docx": [1452, 1452, 1452]}
-10y	{"Genesis_ch_45.docx": [1346], "Exodus_ch_11.docx": [1545], "Deuteronomy_ch_7.docx": [1418], "Nehemiah_ch_9.docx": [2091], "Job_ch_17.docx": [798], "Job_ch_34.docx": [732], "Psalms_ch_65.docx": [1103], "Psalms_ch_66.docx": [906], "Psalms_ch_68.docx": [1177], "Psalms_ch_80.docx": [956], "Psalms_ch_89.docx": [1016], "Psalms_ch_104.docx": [989], "Psalms_ch_139.docx": [909], "Psalms_ch_143.docx": [1159], "Proverbs_ch_6.docx": [1043], "Isaiah_ch_30.docx": [1472], "Isaiah_ch_40.docx": [1443], "Isaiah_ch_64.docx": [1254], "Jeremiah_ch_51.docx": [1591], "Amos_ch_6.docx": [2095], "Micah_ch_3.docx": [1737]}
-achisa	{"Exodus_ch_31.docx": [538], "Exodus_ch_35.docx": [3644, 3644], "1 Chronicles_ch_2.docx": [3000, 3000], "1 Chronicles_ch_7.docx": [1452, 1452]}
 achisa	{"Exodus_ch_31.docx": [538], "Exodus_ch_35.docx": [3644], "1 Chronicles_ch_2.docx": [3000], "1 Chronicles_ch_7.docx": [1452]}

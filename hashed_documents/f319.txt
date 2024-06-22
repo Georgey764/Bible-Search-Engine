@@ -1,5 +1,2 @@
 
 basedo	{"Joshua_ch_15.docx": [4889]}
-basedo	{"Joshua_ch_15.docx": [4889]}
-5it’s	{"Proverbs_ch_18.docx": [406], "Proverbs_ch_27.docx": [392]}
-basedo	{"Joshua_ch_15.docx": [4889]}

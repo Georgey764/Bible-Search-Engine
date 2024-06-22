@@ -1,4 +1,2 @@
 
-telha	{"Ezra_ch_2.docx": [2452], "Nehemiah_ch_7.docx": [3563, 3563, 3563]}
-telha	{"Ezra_ch_2.docx": [2452], "Nehemiah_ch_7.docx": [3563, 3563]}
 telha	{"Ezra_ch_2.docx": [2452], "Nehemiah_ch_7.docx": [3563]}

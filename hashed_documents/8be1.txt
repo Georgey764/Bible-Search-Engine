@@ -1,8 +1,3 @@
 
-phino	{"Genesis_ch_36.docx": [4331], "Numbers_ch_33.docx": [3187, 3224, 3187, 3224, 3187, 3224], "1 Chronicles_ch_1.docx": [4457, 4457, 4457]}
-marisi	{"2 Chronicles_ch_20.docx": [6009]}
-phino	{"Genesis_ch_36.docx": [4331], "Numbers_ch_33.docx": [3187, 3224, 3187, 3224], "1 Chronicles_ch_1.docx": [4457, 4457]}
-16ao	{"Judges_ch_3.docx": [7648]}
-marisi	{"2 Chronicles_ch_20.docx": [6009]}
 phino	{"Genesis_ch_36.docx": [4331], "Numbers_ch_33.docx": [3187, 3224], "1 Chronicles_ch_1.docx": [4457]}
 marisi	{"2 Chronicles_ch_20.docx": [6009]}

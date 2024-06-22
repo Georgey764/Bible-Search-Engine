@@ -1,6 +1,3 @@
 
 tern	{"Deuteronomy_ch_14.docx": [1347]}
-junipe	{"1 Kings_ch_6.docx": [3657, 3953, 3953, 3953], "2 Chronicles_ch_2.docx": [1512, 1512, 1512]}
-junipe	{"1 Kings_ch_6.docx": [3657, 3953, 3953], "2 Chronicles_ch_2.docx": [1512, 1512]}
-tern	{"Deuteronomy_ch_14.docx": [1347]}
-junipe	{"1 Kings_ch_6.docx": [3657, 3953], "2 Chronicles_ch_2.docx": [1512]}
+junipe	{"1 Kings_ch_6.docx": [3657, 3953], "2 Chronicles_ch_2.docx": [1512], "Hosea_ch_14.docx": [1407]}

@@ -1,3 +1,2 @@
 
-side-	{"Philippians_ch_1.docx": [3584]}
-side-	{"Philippians_ch_1.docx": [3584]}
+side-	{"Ezekiel_ch_48.docx": [7788], "Daniel_ch_12.docx": [4106], "Philippians_ch_1.docx": [3584], "Philippians_ch_4.docx": [193]}

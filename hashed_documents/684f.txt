@@ -1,4 +1,2 @@
 
-two-e	{"Judges_ch_3.docx": [7652], "Revelation_ch_1.docx": [2511, 2511], "Revelation_ch_2.docx": [1928, 1928]}
-two-e	{"Judges_ch_3.docx": [7652], "Revelation_ch_1.docx": [2511], "Revelation_ch_2.docx": [1928]}
 two-e	{"Judges_ch_3.docx": [7652], "Revelation_ch_1.docx": [2511], "Revelation_ch_2.docx": [1928]}

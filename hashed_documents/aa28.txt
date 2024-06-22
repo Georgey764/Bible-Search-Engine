@@ -1,5 +1,2 @@
 
-golan	{"1 Chronicles_ch_6.docx": [6068]}
-13‘as	{"1 Samuel_ch_24.docx": [2131], "Job_ch_8.docx": [1105]}
-golan	{"1 Chronicles_ch_6.docx": [6068]}
  golan	{"1 Chronicles_ch_6.docx": [6068]}

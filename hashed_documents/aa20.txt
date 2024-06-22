@@ -1,7 +1,2 @@
 
-saar	{"Genesis_ch_23.docx": [836], "Genesis_ch_25.docx": [805, 805, 805], "Genesis_ch_46.docx": [1264, 1264, 1264], "Exodus_ch_6.docx": [2086, 2086, 2086], "1 Chronicles_ch_4.docx": [658, 658, 658], "1 Chronicles_ch_8.docx": [475, 1654, 475, 1654, 475, 1654]}
-saar	{"Genesis_ch_23.docx": [836], "Genesis_ch_25.docx": [805, 805], "Genesis_ch_46.docx": [1264, 1264], "Exodus_ch_6.docx": [2086, 2086], "1 Chronicles_ch_4.docx": [658, 658], "1 Chronicles_ch_8.docx": [475, 1654, 475, 1654]}
-44‘co	{"Genesis_ch_31.docx": [6301]}
-40‘yo	{"2 Samuel_ch_22.docx": [3775]}
-2ishm	{"Jeremiah_ch_41.docx": [45]}
 saar	{"Genesis_ch_23.docx": [836], "Genesis_ch_25.docx": [805], "Genesis_ch_46.docx": [1264], "Exodus_ch_6.docx": [2086], "1 Chronicles_ch_4.docx": [658], "1 Chronicles_ch_8.docx": [475, 1654]}

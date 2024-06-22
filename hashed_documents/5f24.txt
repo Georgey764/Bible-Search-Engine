@@ -1,4 +1,2 @@
 
-gelm	{"Numbers_ch_33.docx": [3388, 3444, 3444, 3444]}
-gelm	{"Numbers_ch_33.docx": [3388, 3444, 3444]}
 gelm	{"Numbers_ch_33.docx": [3388, 3444]}

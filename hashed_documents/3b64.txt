@@ -1,4 +1,2 @@
 
-crafty	{"Exodus_ch_1.docx": [778], "Job_ch_5.docx": [1143, 1143, 1143]}
-crafty	{"Exodus_ch_1.docx": [778], "Job_ch_5.docx": [1143, 1143]}
 crafty	{"Exodus_ch_1.docx": [778], "Job_ch_5.docx": [1143]}

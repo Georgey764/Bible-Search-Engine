@@ -1,2 +1,0 @@
-
-27‘b	{"Genesis_ch_49.docx": [3532], "Judges_ch_5.docx": [3886], "2 Chronicles_ch_34.docx": [4750], "Jeremiah_ch_17.docx": [4674], "Ezekiel_ch_3.docx": [4444], "Ezekiel_ch_27.docx": [3820], "Ezekiel_ch_32.docx": [4568], "Daniel_ch_4.docx": [5188], "Matthew_ch_17.docx": [3306]}

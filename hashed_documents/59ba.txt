@@ -1,3 +1,2 @@
 
-barsab	{"Acts_ch_1.docx": [4854], "Acts_ch_15.docx": [4406, 4406]}
 barsab	{"Acts_ch_1.docx": [4854], "Acts_ch_15.docx": [4406]}

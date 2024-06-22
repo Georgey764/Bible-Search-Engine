@@ -1,10 +1,4 @@
 
 aggres	{"Numbers_ch_13.docx": [2942]}
-debtor	{"1 Samuel_ch_22.docx": [190], "Proverbs_ch_29.docx": [1169, 1169, 1169], "Isaiah_ch_24.docx": [384, 384, 384], "Matthew_ch_6.docx": [1649, 1649, 1649]}
-horona	{"Isaiah_ch_15.docx": [950], "Jeremiah_ch_48.docx": [372, 577, 4566, 372, 577, 4566, 372, 577, 4566]}
-aggres	{"Numbers_ch_13.docx": [2942]}
-debtor	{"1 Samuel_ch_22.docx": [190], "Proverbs_ch_29.docx": [1169, 1169], "Isaiah_ch_24.docx": [384, 384], "Matthew_ch_6.docx": [1649, 1649]}
-horona	{"Isaiah_ch_15.docx": [950], "Jeremiah_ch_48.docx": [372, 577, 4566, 372, 577, 4566]}
-aggres	{"Numbers_ch_13.docx": [2942]}
 debtor	{"1 Samuel_ch_22.docx": [190], "Proverbs_ch_29.docx": [1169], "Isaiah_ch_24.docx": [384], "Matthew_ch_6.docx": [1649]}
 horona	{"Isaiah_ch_15.docx": [950], "Jeremiah_ch_48.docx": [372, 577, 4566]}

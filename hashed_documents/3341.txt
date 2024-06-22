@@ -1,4 +1,2 @@
 
-river!	{"Psalms_ch_66.docx": [487], "Revelation_ch_9.docx": [1901, 1901]}
-river!	{"Psalms_ch_66.docx": [487], "Revelation_ch_9.docx": [1901]}
-river!	{"Psalms_ch_66.docx": [487], "Revelation_ch_9.docx": [1901]}
+river!	{"Psalms_ch_66.docx": [487], "Joel_ch_3.docx": [3932], "Revelation_ch_9.docx": [1901]}

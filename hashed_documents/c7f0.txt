@@ -1,7 +1,3 @@
 
-evila	{"Genesis_ch_2.docx": [1602], "Genesis_ch_10.docx": [904, 3060, 904, 3060, 904, 3060], "Genesis_ch_25.docx": [1768, 1768, 1768]}
-forded	{"1 Samuel_ch_14.docx": [586]}
-evila	{"Genesis_ch_2.docx": [1602], "Genesis_ch_10.docx": [904, 3060, 904, 3060], "Genesis_ch_25.docx": [1768, 1768]}
-forded	{"1 Samuel_ch_14.docx": [586]}
 evila	{"Genesis_ch_2.docx": [1602], "Genesis_ch_10.docx": [904, 3060], "Genesis_ch_25.docx": [1768]}
 forded	{"1 Samuel_ch_14.docx": [586]}

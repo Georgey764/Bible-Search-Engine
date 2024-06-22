@@ -1,4 +1,2 @@
 
-samega	{"Judges_ch_3.docx": [11158], "Judges_ch_5.docx": [789, 789, 789]}
-samega	{"Judges_ch_3.docx": [11158], "Judges_ch_5.docx": [789, 789]}
 samega	{"Judges_ch_3.docx": [11158], "Judges_ch_5.docx": [789]}

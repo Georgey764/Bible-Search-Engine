@@ -1,6 +1,3 @@
 
-chush	{"Judges_ch_3.docx": [4575, 4597, 4621, 4597, 4621, 4597, 4621]}
-backb	{"2 Corinthians_ch_12.docx": [3377]}
-chush	{"Judges_ch_3.docx": [4575, 4597, 4621, 4597, 4621]}
 chush	{"Judges_ch_3.docx": [4575, 4597, 4621]}
 backb	{"2 Corinthians_ch_12.docx": [3377]}

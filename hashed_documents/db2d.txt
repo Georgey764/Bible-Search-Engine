@@ -1,3 +1,2 @@
 
 lockup	{"Acts_ch_5.docx": [3210]}
-lockup	{"Acts_ch_5.docx": [3210]}

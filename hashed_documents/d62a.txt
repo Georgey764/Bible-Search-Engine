@@ -1,5 +1,2 @@
 
-pahath	{"Ezra_ch_2.docx": [623], "Ezra_ch_8.docx": [452, 452, 452], "Nehemiah_ch_3.docx": [3682, 3705, 3731, 3682, 3705, 3731, 3682, 3705, 3731], "Nehemiah_ch_7.docx": [1360, 1360, 1360], "Nehemiah_ch_10.docx": [775, 775, 775]}
-9‘here	{"Leviticus_ch_10.docx": [1379], "Jeremiah_ch_19.docx": [1698]}
-pahath	{"Ezra_ch_2.docx": [623], "Ezra_ch_8.docx": [452, 452], "Nehemiah_ch_3.docx": [3682, 3705, 3731, 3682, 3705, 3731], "Nehemiah_ch_7.docx": [1360, 1360], "Nehemiah_ch_10.docx": [775, 775]}
-pahath	{"Ezra_ch_2.docx": [623], "Ezra_ch_8.docx": [452], "Nehemiah_ch_3.docx": [3682, 3705, 3731], "Nehemiah_ch_7.docx": [1360], "Nehemiah_ch_10.docx": [775]}
+pahath	{"Ezra_ch_2.docx": [623], "Ezra_ch_8.docx": [452], "Ezra_ch_10.docx": [4912], "Nehemiah_ch_3.docx": [3682, 3705, 3731], "Nehemiah_ch_7.docx": [1360], "Nehemiah_ch_10.docx": [775]}

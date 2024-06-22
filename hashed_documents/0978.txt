@@ -1,4 +1,2 @@
 
-mindi	{"1 Thessalonians_ch_4.docx": [1201], "1 Peter_ch_4.docx": [2190, 2190]}
-4og	{"Joshua_ch_12.docx": [5369]}
 mindi	{"1 Thessalonians_ch_4.docx": [1201], "1 Peter_ch_4.docx": [2190]}

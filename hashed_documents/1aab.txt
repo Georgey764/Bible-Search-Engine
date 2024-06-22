@@ -1,7 +1,3 @@
 
-party	{"Exodus_ch_32.docx": [2690], "Matthew_ch_14.docx": [594, 594, 594], "Romans_ch_13.docx": [2024, 2024], "Galatians_ch_5.docx": [2561, 2561], "1 Peter_ch_4.docx": [353, 353]}
-love!	{"Song of Solomon_ch_2.docx": [451], "Song of Solomon_ch_5.docx": [1673, 2701, 1673, 2701, 1673, 2701], "Jeremiah_ch_2.docx": [4342, 4342, 4342], "Jeremiah_ch_11.docx": [2810, 2810, 2810], "Galatians_ch_5.docx": [722, 1571, 722, 1571], "1 John_ch_4.docx": [1084, 1170, 1084, 1170]}
-party	{"Exodus_ch_32.docx": [2690], "Matthew_ch_14.docx": [594, 594], "Romans_ch_13.docx": [2024], "Galatians_ch_5.docx": [2561], "1 Peter_ch_4.docx": [353]}
-love!	{"Song of Solomon_ch_2.docx": [451], "Song of Solomon_ch_5.docx": [1673, 2701, 1673, 2701], "Jeremiah_ch_2.docx": [4342, 4342], "Jeremiah_ch_11.docx": [2810, 2810], "Galatians_ch_5.docx": [722, 1571], "1 John_ch_4.docx": [1084, 1170]}
 party	{"Exodus_ch_32.docx": [2690], "Matthew_ch_14.docx": [594], "Romans_ch_13.docx": [2024], "Galatians_ch_5.docx": [2561], "1 Peter_ch_4.docx": [353]}
-love!	{"Song of Solomon_ch_2.docx": [451], "Song of Solomon_ch_5.docx": [1673, 2701], "Jeremiah_ch_2.docx": [4342], "Jeremiah_ch_11.docx": [2810], "Galatians_ch_5.docx": [722, 1571], "1 John_ch_4.docx": [1084, 1170]}
+love!	{"Song of Solomon_ch_2.docx": [451], "Song of Solomon_ch_5.docx": [1673, 2701], "Jeremiah_ch_2.docx": [4342], "Jeremiah_ch_11.docx": [2810], "Galatians_ch_5.docx": [722, 1571], "1 Peter_ch_5.docx": [1960], "1 John_ch_4.docx": [1084, 1170]}

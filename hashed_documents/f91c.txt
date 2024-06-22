@@ -1,3 +1,2 @@
 
-cargo	{"Acts_ch_21.docx": [1083], "Acts_ch_27.docx": [1279, 1279]}
 cargo	{"Acts_ch_21.docx": [1083], "Acts_ch_27.docx": [1279]}

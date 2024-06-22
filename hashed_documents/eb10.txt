@@ -1,10 +1,4 @@
 
-ourie	{"1 Chronicles_ch_15.docx": [596, 1078, 1078], "2 Chronicles_ch_13.docx": [40, 40, 40]}
-preced	{"1 Chronicles_ch_17.docx": [1945], "Jonah_ch_1.docx": [254, 254, 254], "John_ch_1.docx": [1358, 3074, 1358, 3074]}
-ingen	{"Proverbs_ch_14.docx": [3210]}
-ourie	{"1 Chronicles_ch_15.docx": [1078, 1078], "2 Chronicles_ch_13.docx": [40, 40]}
-preced	{"1 Chronicles_ch_17.docx": [1945], "Jonah_ch_1.docx": [254, 254], "John_ch_1.docx": [1358, 3074]}
-ingen	{"Proverbs_ch_14.docx": [3210]}
 ourie	{"1 Chronicles_ch_15.docx": [596, 1078], "2 Chronicles_ch_13.docx": [40]}
 preced	{"1 Chronicles_ch_17.docx": [1945], "Jonah_ch_1.docx": [254], "John_ch_1.docx": [1358, 3074]}
 ingen	{"Proverbs_ch_14.docx": [3210]}

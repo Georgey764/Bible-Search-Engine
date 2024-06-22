@@ -1,4 +1,2 @@
 
-shady	{"Numbers_ch_24.docx": [630], "1 Kings_ch_14.docx": [3995, 3995, 3995], "2 Kings_ch_5.docx": [4471, 4471, 4471], "Ezekiel_ch_20.docx": [4837, 4837, 4837]}
-shady	{"Numbers_ch_24.docx": [630], "1 Kings_ch_14.docx": [3995, 3995], "2 Kings_ch_5.docx": [4471, 4471], "Ezekiel_ch_20.docx": [4837, 4837]}
 shady	{"Numbers_ch_24.docx": [630], "1 Kings_ch_14.docx": [3995], "2 Kings_ch_5.docx": [4471], "Ezekiel_ch_20.docx": [4837]}

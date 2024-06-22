@@ -1,4 +1,2 @@
 
-mattat	{"1 Chronicles_ch_9.docx": [4470], "1 Chronicles_ch_15.docx": [2351, 2887, 2351, 2351, 2887], "1 Chronicles_ch_16.docx": [429, 429, 429], "1 Chronicles_ch_25.docx": [552, 2328, 552, 2328, 552, 2328], "Luke_ch_3.docx": [6334, 6420, 6791, 6334, 6420, 6791]}
-mattat	{"1 Chronicles_ch_9.docx": [4470], "1 Chronicles_ch_15.docx": [2351, 2351, 2887], "1 Chronicles_ch_16.docx": [429, 429], "1 Chronicles_ch_25.docx": [552, 2328, 552, 2328], "Luke_ch_3.docx": [6334, 6420, 6791]}
-mattat	{"1 Chronicles_ch_9.docx": [4470], "1 Chronicles_ch_15.docx": [2351, 2887], "1 Chronicles_ch_16.docx": [429], "1 Chronicles_ch_25.docx": [552, 2328], "Luke_ch_3.docx": [6334, 6420, 6791]}
+mattat	{"1 Chronicles_ch_9.docx": [4470], "1 Chronicles_ch_15.docx": [2351, 2887], "1 Chronicles_ch_16.docx": [429], "1 Chronicles_ch_25.docx": [552, 2328], "Ezra_ch_10.docx": [5265], "Luke_ch_3.docx": [6334, 6420, 6791]}

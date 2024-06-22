@@ -1,4 +1,2 @@
 
-testin	{"Deuteronomy_ch_13.docx": [286], "Matthew_ch_22.docx": [2296, 2296, 2296], "Mark_ch_12.docx": [2272, 2272], "Luke_ch_8.docx": [1687, 1687], "Acts_ch_15.docx": [2327, 2327], "Hebrews_ch_3.docx": [905, 1913, 905, 1913], "1 Peter_ch_4.docx": [1688, 1688]}
-testin	{"Deuteronomy_ch_13.docx": [286], "Matthew_ch_22.docx": [2296, 2296], "Mark_ch_12.docx": [2272], "Luke_ch_8.docx": [1687], "Acts_ch_15.docx": [2327], "Hebrews_ch_3.docx": [905, 1913], "1 Peter_ch_4.docx": [1688]}
-testin	{"Deuteronomy_ch_13.docx": [286], "Matthew_ch_22.docx": [2296], "Mark_ch_12.docx": [2272], "Luke_ch_8.docx": [1687], "Acts_ch_15.docx": [2327], "Hebrews_ch_3.docx": [905, 1913], "1 Peter_ch_4.docx": [1688]}
+testin	{"Deuteronomy_ch_13.docx": [286], "Matthew_ch_22.docx": [2296], "Mark_ch_12.docx": [2272], "Luke_ch_8.docx": [1687], "Acts_ch_15.docx": [2327], "2 Corinthians_ch_13.docx": [858], "Hebrews_ch_3.docx": [905, 1913], "1 Peter_ch_4.docx": [1688]}

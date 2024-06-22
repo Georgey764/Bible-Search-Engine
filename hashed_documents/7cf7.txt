@@ -1,4 +1,2 @@
 
-merr	{"Exodus_ch_15.docx": [2965]}
-merr	{"Exodus_ch_15.docx": [2965]}
-merr	{"Exodus_ch_15.docx": [2965]}
+merr	{"Exodus_ch_15.docx": [2965], "James_ch_5.docx": [526, 542]}

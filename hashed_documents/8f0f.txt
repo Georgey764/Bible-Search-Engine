@@ -1,4 +1,2 @@
 
-refor	{"2 Chronicles_ch_11.docx": [724], "Acts_ch_24.docx": [249, 249]}
-refor	{"2 Chronicles_ch_11.docx": [724], "Acts_ch_24.docx": [249]}
 refor	{"2 Chronicles_ch_11.docx": [724], "Acts_ch_24.docx": [249]}

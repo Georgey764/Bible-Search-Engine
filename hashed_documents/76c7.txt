@@ -1,5 +1,2 @@
 
 arches	{"1 Kings_ch_7.docx": [348]}
-21‘i	{"Exodus_ch_3.docx": [3660], "Exodus_ch_30.docx": [2608], "Leviticus_ch_7.docx": [2982], "Joshua_ch_7.docx": [3869], "1 Samuel_ch_15.docx": [3118], "1 Kings_ch_8.docx": [2965], "Ezra_ch_7.docx": [2900], "Job_ch_1.docx": [3551], "Job_ch_15.docx": [1850], "Job_ch_32.docx": [2091], "Job_ch_39.docx": [1885], "Jeremiah_ch_22.docx": [3551], "Ezekiel_ch_11.docx": [3183], "Ezekiel_ch_13.docx": [4195], "Ezekiel_ch_29.docx": [3670]}
-arches	{"1 Kings_ch_7.docx": [348]}
-arches	{"1 Kings_ch_7.docx": [348]}

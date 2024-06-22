@@ -1,4 +1,2 @@
 
-gazzam	{"Ezra_ch_2.docx": [1917], "Nehemiah_ch_7.docx": [2853, 2853]}
-gazzam	{"Ezra_ch_2.docx": [1917], "Nehemiah_ch_7.docx": [2853]}
 gazzam	{"Ezra_ch_2.docx": [1917], "Nehemiah_ch_7.docx": [2853]}

@@ -1,6 +1,2 @@
 
 elipal	{"1 Chronicles_ch_14.docx": [565]}
-53bu	{"Numbers_ch_1.docx": [4711], "Judges_ch_9.docx": [9432]}
-13say	{"Deuteronomy_ch_13.docx": [1860], "Matthew_ch_21.docx": [1490]}
-elipal	{"1 Chronicles_ch_14.docx": [565]}
-elipal	{"1 Chronicles_ch_14.docx": [565]}

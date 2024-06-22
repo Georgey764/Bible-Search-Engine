@@ -1,4 +1,0 @@
-
-9-1	{"Joshua_ch_14.docx": [294]}
-31m	{"Job_ch_15.docx": [2970], "Psalms_ch_51.docx": [1544]}
-38ye	{"Psalms_ch_78.docx": [3754]}

@@ -1,5 +1,2 @@
 
-tophe	{"2 Kings_ch_23.docx": [2532], "Jeremiah_ch_7.docx": [5028, 5379, 5510, 5028, 5379, 5510, 5028, 5379, 5510]}
-tophe	{"2 Kings_ch_23.docx": [2532], "Jeremiah_ch_7.docx": [5028, 5379, 5510, 5028, 5379, 5510]}
-2‘may	{"Job_ch_15.docx": [60], "Jeremiah_ch_42.docx": [235]}
 tophe	{"2 Kings_ch_23.docx": [2532], "Jeremiah_ch_7.docx": [5028, 5379, 5510]}

@@ -1,3 +1,2 @@
 
-vagra	{"Hebrews_ch_11.docx": [7212, 7228, 7228]}
 vagra	{"Hebrews_ch_11.docx": [7212, 7228]}

@@ -1,5 +1,2 @@
 
-azg	{"Ezra_ch_2.docx": [787], "Ezra_ch_8.docx": [1238, 1238, 1238], "Nehemiah_ch_7.docx": [1614, 1614, 1614]}
-10‘br	{"Exodus_ch_29.docx": [1090]}
-azg	{"Ezra_ch_2.docx": [787], "Ezra_ch_8.docx": [1238, 1238], "Nehemiah_ch_7.docx": [1614, 1614]}
 azg	{"Ezra_ch_2.docx": [787], "Ezra_ch_8.docx": [1238], "Nehemiah_ch_7.docx": [1614]}

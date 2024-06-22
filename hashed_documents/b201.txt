@@ -1,4 +1,2 @@
 
-misa	{"Exodus_ch_6.docx": [2825], "Leviticus_ch_10.docx": [518, 518, 518], "Deuteronomy_ch_10.docx": [849, 849, 849], "1 Chronicles_ch_8.docx": [632, 833, 632, 833, 632, 833]}
-misa	{"Exodus_ch_6.docx": [2825], "Leviticus_ch_10.docx": [518, 518], "Deuteronomy_ch_10.docx": [849, 849], "1 Chronicles_ch_8.docx": [632, 833, 632, 833]}
 misa	{"Exodus_ch_6.docx": [2825], "Leviticus_ch_10.docx": [518], "Deuteronomy_ch_10.docx": [849], "1 Chronicles_ch_8.docx": [632, 833]}

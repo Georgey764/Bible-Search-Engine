@@ -1,4 +1,2 @@
 
-wailed	{"1 Samuel_ch_30.docx": [338], "2 Samuel_ch_13.docx": [5777, 5777, 5777], "Hosea_ch_10.docx": [1060, 1060, 1060], "Matthew_ch_11.docx": [1930, 1930, 1930], "Luke_ch_7.docx": [4671, 4671]}
-wailed	{"1 Samuel_ch_30.docx": [338], "2 Samuel_ch_13.docx": [5777, 5777], "Hosea_ch_10.docx": [1060, 1060], "Matthew_ch_11.docx": [1930, 1930], "Luke_ch_7.docx": [4671]}
-wailed	{"1 Samuel_ch_30.docx": [338], "2 Samuel_ch_13.docx": [5777], "Hosea_ch_10.docx": [1060], "Matthew_ch_11.docx": [1930], "Luke_ch_7.docx": [4671]}
+wailed	{"Genesis_ch_50.docx": [1261], "1 Samuel_ch_30.docx": [338], "2 Samuel_ch_13.docx": [5777], "Hosea_ch_10.docx": [1060], "Matthew_ch_11.docx": [1930], "Luke_ch_7.docx": [4671]}

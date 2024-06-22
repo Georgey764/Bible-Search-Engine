@@ -1,7 +1,3 @@
 
-syma	{"Numbers_ch_26.docx": [3703, 3708, 3708], "Joshua_ch_17.docx": [377, 377, 377]}
-sekel	{"Joshua_ch_15.docx": [4411]}
-syma	{"Numbers_ch_26.docx": [3708, 3708], "Joshua_ch_17.docx": [377, 377]}
-29‘we	{"Deuteronomy_ch_3.docx": [4288]}
 syma	{"Numbers_ch_26.docx": [3703, 3708], "Joshua_ch_17.docx": [377]}
 sekel	{"Joshua_ch_15.docx": [4411]}

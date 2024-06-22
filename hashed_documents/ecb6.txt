@@ -1,4 +1,2 @@
 
-rips	{"Proverbs_ch_14.docx": [71], "Ecclesiastes_ch_2.docx": [3893, 3893, 3893]}
-rips	{"Proverbs_ch_14.docx": [71], "Ecclesiastes_ch_2.docx": [3893, 3893]}
-rips	{"Proverbs_ch_14.docx": [71], "Ecclesiastes_ch_2.docx": [3893]}
+rips	{"2 Chronicles_ch_36.docx": [6685], "Proverbs_ch_14.docx": [71], "Ecclesiastes_ch_2.docx": [3893]}

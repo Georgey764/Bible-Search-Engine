@@ -6,16 +6,3 @@ the	{"1 Chronicles_ch_9.docx": [1747]}
 the	{"1 Chronicles_ch_9.docx": [4315]}
 the	{"1 Chronicles_ch_26.docx": [1799]}
 high-c	{"Acts_ch_4.docx": [2014]}
-the	{"1 Chronicles_ch_3.docx": [1356], "1 Chronicles_ch_4.docx": [2627]}
-the	{"1 Chronicles_ch_9.docx": [661]}
-the	{"1 Chronicles_ch_9.docx": [1579]}
-the	{"1 Chronicles_ch_9.docx": [1747]}
-the	{"1 Chronicles_ch_9.docx": [4315]}
-the	{"1 Chronicles_ch_26.docx": [1799]}
-the	{"1 Chronicles_ch_3.docx": [1356], "1 Chronicles_ch_4.docx": [2627]}
-the	{"1 Chronicles_ch_9.docx": [661]}
-the	{"1 Chronicles_ch_9.docx": [1579]}
-the	{"1 Chronicles_ch_9.docx": [1747]}
-the	{"1 Chronicles_ch_9.docx": [4315]}
-the	{"1 Chronicles_ch_26.docx": [1799]}
-high-c	{"Acts_ch_4.docx": [2014]}

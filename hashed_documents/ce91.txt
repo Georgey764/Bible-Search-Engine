@@ -1,2 +1,0 @@
-
-21[	{"Genesis_ch_9.docx": [2556], "Genesis_ch_22.docx": [3194], "Deuteronomy_ch_27.docx": [3051], "1 Kings_ch_18.docx": [2889], "1 Chronicles_ch_27.docx": [2761], "Proverbs_ch_20.docx": [2799], "Matthew_ch_9.docx": [2783]}

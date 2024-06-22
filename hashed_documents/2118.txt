@@ -1,4 +1,2 @@
 
-harmo	{"Psalms_ch_150.docx": [990], "Ecclesiastes_ch_7.docx": [1553], "Ezekiel_ch_23.docx": [6896, 6896, 6896], "2 Corinthians_ch_6.docx": [1842, 1842], "Ephesians_ch_3.docx": [813, 813]}
-harmo	{"Ecclesiastes_ch_7.docx": [1553], "Ezekiel_ch_23.docx": [6896, 6896], "2 Corinthians_ch_6.docx": [1842], "Ephesians_ch_3.docx": [813]}
-harmo	{"Ecclesiastes_ch_7.docx": [1553], "Ezekiel_ch_23.docx": [6896], "2 Corinthians_ch_6.docx": [1842], "Ephesians_ch_3.docx": [813]}
+harmo	{"Psalms_ch_150.docx": [990], "Ecclesiastes_ch_7.docx": [1553], "Ezekiel_ch_23.docx": [6896], "2 Corinthians_ch_6.docx": [1842], "Ephesians_ch_3.docx": [813]}

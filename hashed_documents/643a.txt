@@ -1,4 +1,2 @@
 
-angri	{"Numbers_ch_32.docx": [1839], "Mark_ch_3.docx": [556, 556], "Luke_ch_23.docx": [4181, 4181]}
-angri	{"Numbers_ch_32.docx": [1839], "Mark_ch_3.docx": [556], "Luke_ch_23.docx": [4181]}
 angri	{"Numbers_ch_32.docx": [1839], "Mark_ch_3.docx": [556], "Luke_ch_23.docx": [4181]}

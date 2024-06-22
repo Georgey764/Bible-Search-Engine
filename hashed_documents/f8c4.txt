@@ -1,5 +1,2 @@
 
-sku	{"Judges_ch_9.docx": [9451], "2 Kings_ch_9.docx": [6781, 6781, 6781], "Matthew_ch_27.docx": [4001, 4001], "Mark_ch_15.docx": [2217, 2217], "Luke_ch_23.docx": [3840, 3840], "John_ch_19.docx": [2239, 2239]}
-sku	{"Judges_ch_9.docx": [9451], "2 Kings_ch_9.docx": [6781, 6781], "Matthew_ch_27.docx": [4001], "Mark_ch_15.docx": [2217], "Luke_ch_23.docx": [3840], "John_ch_19.docx": [2239]}
-3wi	{"2 Kings_ch_19.docx": [189], "Psalms_ch_88.docx": [292], "Psalms_ch_104.docx": [280], "Proverbs_ch_24.docx": [167], "Micah_ch_4.docx": [711]}
 sku	{"Judges_ch_9.docx": [9451], "2 Kings_ch_9.docx": [6781], "Matthew_ch_27.docx": [4001], "Mark_ch_15.docx": [2217], "Luke_ch_23.docx": [3840], "John_ch_19.docx": [2239]}

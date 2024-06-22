@@ -1,4 +1,2 @@
 
-dust!	{"2 Kings_ch_9.docx": [3285], "Isaiah_ch_29.docx": [806, 806, 806], "Daniel_ch_6.docx": [4158, 4158, 4158], "Matthew_ch_21.docx": [6177, 6177, 6177]}
-dust!	{"2 Kings_ch_9.docx": [3285], "Isaiah_ch_29.docx": [806, 806], "Daniel_ch_6.docx": [4158, 4158], "Matthew_ch_21.docx": [6177, 6177]}
 dust!	{"2 Kings_ch_9.docx": [3285], "Isaiah_ch_29.docx": [806], "Daniel_ch_6.docx": [4158], "Matthew_ch_21.docx": [6177]}

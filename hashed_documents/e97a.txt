@@ -1,4 +1,2 @@
 
-breeze	{"1 Kings_ch_19.docx": [2250], "Job_ch_4.docx": [1573, 1573, 1573], "Job_ch_7.docx": [760, 760, 760], "Psalms_ch_104.docx": [394, 394, 394], "Psalms_ch_107.docx": [2563, 2563, 2563], "Isaiah_ch_25.docx": [618, 618, 618], "Ephesians_ch_4.docx": [1540, 1567, 1540, 1567]}
-breeze	{"1 Kings_ch_19.docx": [2250], "Job_ch_4.docx": [1573, 1573], "Job_ch_7.docx": [760, 760], "Psalms_ch_104.docx": [394, 394], "Psalms_ch_107.docx": [2563, 2563], "Isaiah_ch_25.docx": [618, 618], "Ephesians_ch_4.docx": [1540, 1567]}
 breeze	{"1 Kings_ch_19.docx": [2250], "Job_ch_4.docx": [1573], "Job_ch_7.docx": [760], "Psalms_ch_104.docx": [394], "Psalms_ch_107.docx": [2563], "Isaiah_ch_25.docx": [618], "Ephesians_ch_4.docx": [1540, 1567]}

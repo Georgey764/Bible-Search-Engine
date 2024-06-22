@@ -1,6 +1,3 @@
 
 magb	{"Ezra_ch_2.docx": [1255]}
-paul!	{"Acts_ch_23.docx": [2575], "Acts_ch_26.docx": [5849, 5849]}
-magb	{"Ezra_ch_2.docx": [1255]}
-magb	{"Ezra_ch_2.docx": [1255]}
 paul!	{"Acts_ch_23.docx": [2575], "Acts_ch_26.docx": [5849]}

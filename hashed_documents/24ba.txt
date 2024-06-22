@@ -1,7 +1,3 @@
 
-dibla	{"Jeremiah_ch_48.docx": [2888], "Hosea_ch_1.docx": [496, 496, 496]}
-wrath;	{"Ezekiel_ch_20.docx": [4944]}
-dibla	{"Jeremiah_ch_48.docx": [2888], "Hosea_ch_1.docx": [496, 496]}
-wrath;	{"Ezekiel_ch_20.docx": [4944]}
 dibla	{"Jeremiah_ch_48.docx": [2888], "Hosea_ch_1.docx": [496]}
 wrath;	{"Ezekiel_ch_20.docx": [4944]}

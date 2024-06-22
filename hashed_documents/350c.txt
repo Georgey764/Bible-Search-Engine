@@ -1,2 +1,0 @@
-
-22‘h	{"Numbers_ch_35.docx": [2902], "Deuteronomy_ch_7.docx": [3408], "Job_ch_12.docx": [2035], "Job_ch_27.docx": [1957], "Job_ch_38.docx": [2103], "Psalms_ch_89.docx": [2166], "Matthew_ch_5.docx": [2422]}

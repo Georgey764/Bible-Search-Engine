@@ -1,5 +1,2 @@
 
-proves	{"Genesis_ch_41.docx": [3785], "Leviticus_ch_13.docx": [2154, 2154, 2154], "Deuteronomy_ch_22.docx": [2669, 2669, 2669], "Matthew_ch_3.docx": [816, 816, 816], "Romans_ch_3.docx": [3151, 3151], "Galatians_ch_2.docx": [2936, 2936], "Hebrews_ch_12.docx": [1287, 1287], "1 Peter_ch_4.docx": [2023, 2023], "1 John_ch_2.docx": [2717, 2717]}
-proves	{"Genesis_ch_41.docx": [3785], "Leviticus_ch_13.docx": [2154, 2154], "Deuteronomy_ch_22.docx": [2669, 2669], "Matthew_ch_3.docx": [816, 816], "Romans_ch_3.docx": [3151], "Galatians_ch_2.docx": [2936], "Hebrews_ch_12.docx": [1287], "1 Peter_ch_4.docx": [2023], "1 John_ch_2.docx": [2717]}
-23li	{"Psalms_ch_109.docx": [1983]}
-proves	{"Genesis_ch_41.docx": [3785], "Leviticus_ch_13.docx": [2154], "Deuteronomy_ch_22.docx": [2669], "Matthew_ch_3.docx": [816], "Romans_ch_3.docx": [3151], "Galatians_ch_2.docx": [2936], "Hebrews_ch_12.docx": [1287], "1 Peter_ch_4.docx": [2023], "1 John_ch_2.docx": [2717]}
+proves	{"Genesis_ch_41.docx": [3785], "Leviticus_ch_13.docx": [2154], "Deuteronomy_ch_22.docx": [2669], "Matthew_ch_3.docx": [816], "Romans_ch_3.docx": [3151], "Galatians_ch_2.docx": [2936], "2 Thessalonians_ch_3.docx": [2444], "Hebrews_ch_12.docx": [1287], "James_ch_5.docx": [1548], "1 Peter_ch_4.docx": [2023], "1 John_ch_2.docx": [2717]}

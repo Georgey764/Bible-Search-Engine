@@ -1,4 +1,2 @@
 
-auto	{"Leviticus_ch_25.docx": [4392], "Hebrews_ch_8.docx": [2121, 2121]}
-auto	{"Leviticus_ch_25.docx": [4392], "Hebrews_ch_8.docx": [2121]}
 auto	{"Leviticus_ch_25.docx": [4392], "Hebrews_ch_8.docx": [2121]}

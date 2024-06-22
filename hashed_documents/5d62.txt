@@ -1,4 +1,2 @@
 
-shames	{"1 Samuel_ch_20.docx": [4898, 4902, 4902, 4902], "1 Corinthians_ch_11.docx": [449, 466, 449, 466]}
-shames	{"1 Samuel_ch_20.docx": [4898, 4902, 4902], "1 Corinthians_ch_11.docx": [449, 466]}
 shames	{"1 Samuel_ch_20.docx": [4898, 4902], "1 Corinthians_ch_11.docx": [449, 466]}

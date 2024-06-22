@@ -1,4 +1,3 @@
 
-sosth	{"Acts_ch_18.docx": [4913], "1 Corinthians_ch_1.docx": [24, 24]}
-6bec	{"Genesis_ch_39.docx": [589], "2 Samuel_ch_7.docx": [556], "2 Samuel_ch_20.docx": [1046], "2 Chronicles_ch_29.docx": [562], "Micah_ch_3.docx": [928]}
-sosth	{"Acts_ch_18.docx": [4913], "1 Corinthians_ch_1.docx": [24]}
+tele	{"Ezra_ch_10.docx": [4322]}
+sosth	{"Acts_ch_18.docx": [4913], "Romans_ch_16.docx": [3924], "1 Corinthians_ch_1.docx": [24]}

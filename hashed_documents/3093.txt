@@ -1,4 +1,2 @@
 
-leah’s	{"Genesis_ch_30.docx": [1040, 1314, 1314, 1314], "Genesis_ch_31.docx": [4246, 4246, 4246], "Genesis_ch_35.docx": [3123, 3353, 3353, 3123, 3353]}
-leah’s	{"Genesis_ch_30.docx": [1040, 1314, 1314], "Genesis_ch_31.docx": [4246, 4246], "Genesis_ch_35.docx": [3353, 3123, 3353]}
 leah’s	{"Genesis_ch_30.docx": [1040, 1314], "Genesis_ch_31.docx": [4246], "Genesis_ch_35.docx": [3123, 3353]}

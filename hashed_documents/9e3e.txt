@@ -1,4 +1,2 @@
 
-interr	{"Esther_ch_2.docx": [4243], "Acts_ch_12.docx": [3311, 3311]}
-interr	{"Esther_ch_2.docx": [4243], "Acts_ch_12.docx": [3311]}
 interr	{"Esther_ch_2.docx": [4243], "Acts_ch_12.docx": [3311]}

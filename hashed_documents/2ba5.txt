@@ -1,4 +1,0 @@
-
-28as	{"2 Kings_ch_17.docx": [5179], "2 Chronicles_ch_29.docx": [4780], "Proverbs_ch_25.docx": [2761]}
-17isn	{"Isaiah_ch_14.docx": [2752]}
-25‘{	{"Jeremiah_ch_9.docx": [4492]}

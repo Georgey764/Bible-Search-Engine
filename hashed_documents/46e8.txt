@@ -1,4 +1,2 @@
 
-chisl	{"Nehemiah_ch_1.docx": [82], "Zechariah_ch_7.docx": [26, 26, 26]}
-chisl	{"Nehemiah_ch_1.docx": [82], "Zechariah_ch_7.docx": [26, 26]}
 chisl	{"Nehemiah_ch_1.docx": [82], "Zechariah_ch_7.docx": [26]}

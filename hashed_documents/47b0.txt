@@ -1,7 +1,3 @@
 
-silo	{"Nehemiah_ch_3.docx": [5475, 5516, 5559, 5604, 5652, 5701, 5516, 5559, 5604, 5652, 5701, 5516, 5559, 5604, 5652, 5701], "Isaiah_ch_8.docx": [818, 818, 818], "Luke_ch_13.docx": [399, 399], "John_ch_9.docx": [677, 1173, 677, 1173]}
-legs!	{"Isaiah_ch_47.docx": [360]}
-silo	{"Nehemiah_ch_3.docx": [5475, 5516, 5559, 5604, 5652, 5701, 5516, 5559, 5604, 5652, 5701], "Isaiah_ch_8.docx": [818, 818], "Luke_ch_13.docx": [399], "John_ch_9.docx": [677, 1173]}
-legs!	{"Isaiah_ch_47.docx": [360]}
 silo	{"Nehemiah_ch_3.docx": [5475, 5516, 5559, 5604, 5652, 5701], "Isaiah_ch_8.docx": [818], "Luke_ch_13.docx": [399], "John_ch_9.docx": [677, 1173]}
 legs!	{"Isaiah_ch_47.docx": [360]}

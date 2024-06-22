@@ -1,3 +1,2 @@
 
-/5th	{"Leviticus_ch_5.docx": [2527], "Leviticus_ch_6.docx": [358, 358], "Leviticus_ch_22.docx": [1998, 1998], "Numbers_ch_5.docx": [811, 811]}
-/5th	{"Leviticus_ch_5.docx": [2527], "Leviticus_ch_6.docx": [358], "Leviticus_ch_22.docx": [1998], "Numbers_ch_5.docx": [811]}
+/5th	{"Leviticus_ch_5.docx": [2527], "Leviticus_ch_6.docx": [358], "Leviticus_ch_22.docx": [1998], "Leviticus_ch_27.docx": [1586, 1844, 2458, 3462, 4086], "Numbers_ch_5.docx": [811]}

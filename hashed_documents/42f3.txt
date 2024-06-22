@@ -1,7 +1,3 @@
 
-latch	{"Job_ch_16.docx": [633], "Luke_ch_13.docx": [3244, 3244]}
-faiths	{"Acts_ch_18.docx": [4427]}
-latch	{"Job_ch_16.docx": [633], "Luke_ch_13.docx": [3244]}
-18her	{"Ezekiel_ch_23.docx": [2757]}
 latch	{"Job_ch_16.docx": [633], "Luke_ch_13.docx": [3244]}
 faiths	{"Acts_ch_18.docx": [4427]}

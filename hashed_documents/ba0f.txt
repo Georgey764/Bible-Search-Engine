@@ -1,5 +1,2 @@
 
-togar	{"1 Chronicles_ch_1.docx": [351], "Ezekiel_ch_27.docx": [1932, 1932, 1932], "Ezekiel_ch_38.docx": [762, 762, 762]}
-26me	{"Judges_ch_3.docx": [9187], "1 Samuel_ch_2.docx": [4710]}
-togar	{"1 Chronicles_ch_1.docx": [351], "Ezekiel_ch_27.docx": [1932, 1932], "Ezekiel_ch_38.docx": [762, 762]}
 togar	{"1 Chronicles_ch_1.docx": [351], "Ezekiel_ch_27.docx": [1932], "Ezekiel_ch_38.docx": [762]}

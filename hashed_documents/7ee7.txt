@@ -1,4 +1,2 @@
 
-phase	{"1 Chronicles_ch_7.docx": [4054], "Nehemiah_ch_7.docx": [2856, 2856, 2856]}
-phase	{"1 Chronicles_ch_7.docx": [4054], "Nehemiah_ch_7.docx": [2856, 2856]}
 phase	{"1 Chronicles_ch_7.docx": [4054], "Nehemiah_ch_7.docx": [2856]}

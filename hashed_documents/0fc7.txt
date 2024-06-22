@@ -1,7 +1,3 @@
 
-rephai	{"2 Samuel_ch_23.docx": [2219], "Nehemiah_ch_3.docx": [3413, 3413, 3413]}
-lada	{"1 Chronicles_ch_7.docx": [3179], "1 Chronicles_ch_26.docx": [2540, 2540, 2540]}
-rephai	{"2 Samuel_ch_23.docx": [2219], "Nehemiah_ch_3.docx": [3413, 3413]}
-lada	{"1 Chronicles_ch_7.docx": [3179], "1 Chronicles_ch_26.docx": [2540, 2540]}
 rephai	{"2 Samuel_ch_23.docx": [2219], "Nehemiah_ch_3.docx": [3413]}
 lada	{"1 Chronicles_ch_7.docx": [3179], "1 Chronicles_ch_26.docx": [2540]}

@@ -1,3 +1,0 @@
-
-23j	{"Genesis_ch_3.docx": [3505], "Numbers_ch_18.docx": [3857], "Deuteronomy_ch_12.docx": [4212], "Job_ch_6.docx": [2342], "Psalms_ch_37.docx": [2127]}
-63wel	{"Joshua_ch_15.docx": [6567]}

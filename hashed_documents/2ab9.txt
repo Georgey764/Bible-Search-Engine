@@ -1,2 +1,0 @@
-
-2,700	{"1 Chronicles_ch_26.docx": [4245], "2 Chronicles_ch_25.docx": [903, 1394], "2 Chronicles_ch_27.docx": [722], "Ezra_ch_7.docx": [3164], "Ezra_ch_8.docx": [3658]}

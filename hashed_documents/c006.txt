@@ -1,4 +1,2 @@
 
-ost	{"Leviticus_ch_11.docx": [1814], "Job_ch_30.docx": [2834, 2834], "Job_ch_39.docx": [1162, 1162, 1162], "Isaiah_ch_34.docx": [1983, 1983, 1983], "Isaiah_ch_43.docx": [3189, 3189, 3189], "Jeremiah_ch_10.docx": [3124, 3124, 3124], "Jeremiah_ch_49.docx": [5769, 5769, 5769]}
-ost	{"Job_ch_30.docx": [2834, 2834], "Job_ch_39.docx": [1162, 1162], "Isaiah_ch_34.docx": [1983, 1983], "Isaiah_ch_43.docx": [3189, 3189], "Jeremiah_ch_10.docx": [3124, 3124], "Jeremiah_ch_49.docx": [5769, 5769]}
 ost	{"Leviticus_ch_11.docx": [1814], "Job_ch_30.docx": [2834], "Job_ch_39.docx": [1162], "Isaiah_ch_34.docx": [1983], "Isaiah_ch_43.docx": [3189], "Jeremiah_ch_10.docx": [3124], "Jeremiah_ch_49.docx": [5769]}

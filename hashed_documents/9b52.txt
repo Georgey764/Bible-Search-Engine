@@ -1,4 +1,2 @@
 
-makel	{"Numbers_ch_33.docx": [1931, 1973, 2070, 2116, 1973, 2070, 2116, 1973, 2070, 2116], "1 Chronicles_ch_8.docx": [2008, 2008, 2008], "1 Chronicles_ch_9.docx": [5343, 5354, 5343, 5354, 5343, 5354], "1 Chronicles_ch_27.docx": [532, 532, 532]}
-makel	{"Numbers_ch_33.docx": [1931, 1973, 2070, 2116, 1973, 2070, 2116], "1 Chronicles_ch_8.docx": [2008, 2008], "1 Chronicles_ch_9.docx": [5343, 5354, 5343, 5354], "1 Chronicles_ch_27.docx": [532, 532]}
 makel	{"Numbers_ch_33.docx": [1931, 1973, 2070, 2116], "1 Chronicles_ch_8.docx": [2008], "1 Chronicles_ch_9.docx": [5343, 5354], "1 Chronicles_ch_27.docx": [532]}

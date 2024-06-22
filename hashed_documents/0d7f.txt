@@ -1,5 +1,2 @@
 
-stupef	{"Jeremiah_ch_18.docx": [2217], "Jeremiah_ch_51.docx": [6561, 6561, 6561]}
-9while	{"Job_ch_37.docx": [855]}
-stupef	{"Jeremiah_ch_18.docx": [2217], "Jeremiah_ch_51.docx": [6561, 6561]}
 stupef	{"Jeremiah_ch_18.docx": [2217], "Jeremiah_ch_51.docx": [6561]}

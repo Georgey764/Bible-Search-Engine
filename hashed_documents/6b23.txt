@@ -1,5 +1,2 @@
 
-like;	{"Leviticus_ch_11.docx": [1755, 1819, 1865, 1893, 1926, 1819, 1865, 1893, 1926, 1819, 1865, 1893, 1926]}
-like;	{"Leviticus_ch_11.docx": [1755, 1819, 1865, 1893, 1926, 1819, 1865, 1893, 1926]}
-8if	{"Deuteronomy_ch_30.docx": [1028], "Psalms_ch_139.docx": [700], "Jeremiah_ch_18.docx": [811]}
 like;	{"Leviticus_ch_11.docx": [1755, 1819, 1865, 1893, 1926]}

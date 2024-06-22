@@ -1,2 +1,0 @@
-
-19‘b	{"1 Samuel_ch_20.docx": [3071], "1 Kings_ch_18.docx": [2597], "2 Kings_ch_3.docx": [2778], "2 Kings_ch_22.docx": [3306], "Job_ch_6.docx": [1929], "Job_ch_9.docx": [1662], "Ecclesiastes_ch_10.docx": [2064], "Isaiah_ch_9.docx": [3152], "Jeremiah_ch_16.docx": [3324], "Lamentations_ch_3.docx": [1464], "Ezekiel_ch_18.docx": [2825], "Matthew_ch_23.docx": [2353]}

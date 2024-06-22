@@ -1,5 +1,2 @@
 
-wheat!	{"Matthew_ch_13.docx": [3842], "Luke_ch_22.docx": [3394, 3394]}
-28to	{"Jeremiah_ch_49.docx": [4862]}
-wheat!	{"Matthew_ch_13.docx": [3842], "Luke_ch_22.docx": [3394]}
 wheat!	{"Matthew_ch_13.docx": [3842], "Luke_ch_22.docx": [3394]}

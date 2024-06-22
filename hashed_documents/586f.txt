@@ -1,3 +1,0 @@
-
-618,5	{"Numbers_ch_1.docx": [4073]}
-38mo	{"Numbers_ch_3.docx": [4452]}

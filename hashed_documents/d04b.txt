@@ -1,5 +1,2 @@
 
-enos	{"Genesis_ch_4.docx": [3130], "Genesis_ch_5.docx": [502, 506, 685, 713, 502, 506, 713, 502, 506, 685, 713], "1 Chronicles_ch_1.docx": [46, 46, 46], "Luke_ch_3.docx": [7257, 7257]}
-enos	{"Genesis_ch_4.docx": [3130], "Genesis_ch_5.docx": [502, 506, 713, 502, 506, 685, 713], "1 Chronicles_ch_1.docx": [46, 46], "Luke_ch_3.docx": [7257]}
-4als	{"Proverbs_ch_7.docx": [367]}
 enos	{"Genesis_ch_4.docx": [3130], "Genesis_ch_5.docx": [502, 506, 685, 713], "1 Chronicles_ch_1.docx": [46], "Luke_ch_3.docx": [7257]}

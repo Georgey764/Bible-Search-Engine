@@ -1,4 +1,0 @@
-
-7‘d	{"Leviticus_ch_17.docx": [1122], "2 Chronicles_ch_30.docx": [1137], "Ecclesiastes_ch_11.docx": [875], "Micah_ch_3.docx": [1159]}
-9melc	{"1 Chronicles_ch_24.docx": [1435]}
-18look	{"Job_ch_13.docx": [1454]}

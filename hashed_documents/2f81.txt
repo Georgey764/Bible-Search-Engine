@@ -1,4 +1,2 @@
 
-agreea	{"Genesis_ch_34.docx": [2180]}
-agreea	{"Genesis_ch_34.docx": [2180]}
-agreea	{"Genesis_ch_34.docx": [2180]}
+agreea	{"Genesis_ch_34.docx": [2180], "Ecclesiastes_ch_12.docx": [1769]}

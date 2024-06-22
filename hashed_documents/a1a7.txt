@@ -1,10 +1,4 @@
 
 error;	{"Numbers_ch_6.docx": [1556]}
 maeber	{"1 Kings_ch_4.docx": [1240]}
-glut	{"Isaiah_ch_65.docx": [2618], "Matthew_ch_11.docx": [2016, 2016, 2016], "Luke_ch_7.docx": [4905, 4905], "Titus_ch_1.docx": [1620, 1620]}
-error;	{"Numbers_ch_6.docx": [1556]}
-maeber	{"1 Kings_ch_4.docx": [1240]}
-glut	{"Isaiah_ch_65.docx": [2618], "Matthew_ch_11.docx": [2016, 2016], "Luke_ch_7.docx": [4905], "Titus_ch_1.docx": [1620]}
-error;	{"Numbers_ch_6.docx": [1556]}
-maeber	{"1 Kings_ch_4.docx": [1240]}
 glut	{"Isaiah_ch_65.docx": [2618], "Matthew_ch_11.docx": [2016], "Luke_ch_7.docx": [4905], "Titus_ch_1.docx": [1620]}

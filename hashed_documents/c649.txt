@@ -1,5 +1,2 @@
 
 aroed	{"Genesis_ch_46.docx": [1916]}
-aroed	{"Genesis_ch_46.docx": [1916]}
-7‘[	{"Exodus_ch_20.docx": [644], "Exodus_ch_31.docx": [712], "Numbers_ch_28.docx": [794], "2 Chronicles_ch_24.docx": [958], "Jeremiah_ch_7.docx": [768], "Lamentations_ch_2.docx": [1442], "Habakkuk_ch_1.docx": [1042], "Matthew_ch_10.docx": [774]}
-aroed	{"Genesis_ch_46.docx": [1916]}

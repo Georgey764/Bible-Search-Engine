@@ -1,4 +1,2 @@
 
-hard-w	{"Proverbs_ch_10.docx": [292], "Proverbs_ch_21.docx": [438, 438, 438]}
-hard-w	{"Proverbs_ch_10.docx": [292], "Proverbs_ch_21.docx": [438, 438]}
 hard-w	{"Proverbs_ch_10.docx": [292], "Proverbs_ch_21.docx": [438]}

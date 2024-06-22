@@ -1,4 +1,2 @@
 
-nodd	{"Isaiah_ch_37.docx": [3643], "Matthew_ch_25.docx": [338, 338, 338], "Luke_ch_1.docx": [6784, 6784], "John_ch_13.docx": [2758, 2758], "Acts_ch_24.docx": [1361, 1361]}
-nodd	{"Isaiah_ch_37.docx": [3643], "Matthew_ch_25.docx": [338, 338], "Luke_ch_1.docx": [6784], "John_ch_13.docx": [2758], "Acts_ch_24.docx": [1361]}
 nodd	{"Isaiah_ch_37.docx": [3643], "Matthew_ch_25.docx": [338], "Luke_ch_1.docx": [6784], "John_ch_13.docx": [2758], "Acts_ch_24.docx": [1361]}

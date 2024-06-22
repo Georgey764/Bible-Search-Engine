@@ -1,5 +1,2 @@
 
-leis	{"Judges_ch_18.docx": [1027, 1052, 1078, 1052, 1078, 1052, 1078], "Acts_ch_17.docx": [4383, 4383]}
-leis	{"Judges_ch_18.docx": [1027, 1052, 1078, 1052, 1078], "Acts_ch_17.docx": [4383]}
-22this	{"Matthew_ch_1.docx": [2281]}
 leis	{"Judges_ch_18.docx": [1027, 1052, 1078], "Acts_ch_17.docx": [4383]}

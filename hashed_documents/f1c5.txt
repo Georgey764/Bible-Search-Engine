@@ -1,4 +1,2 @@
 
-deadly	{"Deuteronomy_ch_32.docx": [4917], "2 Samuel_ch_22.docx": [493, 493, 493], "2 Chronicles_ch_7.docx": [2356, 2356, 2356], "James_ch_3.docx": [944, 944], "1 Peter_ch_4.docx": [584, 584]}
-deadly	{"Deuteronomy_ch_32.docx": [4917], "2 Samuel_ch_22.docx": [493, 493], "2 Chronicles_ch_7.docx": [2356, 2356], "James_ch_3.docx": [944], "1 Peter_ch_4.docx": [584]}
-deadly	{"Deuteronomy_ch_32.docx": [4917], "2 Samuel_ch_22.docx": [493], "2 Chronicles_ch_7.docx": [2356], "James_ch_3.docx": [944], "1 Peter_ch_4.docx": [584]}
+deadly	{"Deuteronomy_ch_32.docx": [4917], "2 Samuel_ch_22.docx": [493], "2 Chronicles_ch_7.docx": [2356], "James_ch_3.docx": [944], "1 Peter_ch_4.docx": [584], "1 John_ch_5.docx": [2094, 2143]}

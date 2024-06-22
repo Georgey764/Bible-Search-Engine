@@ -1,6 +1,2 @@
 
-magni	{"Deuteronomy_ch_33.docx": [3828], "1 Chronicles_ch_17.docx": [2786, 3509, 2786, 3509, 2786, 3509], "Psalms_ch_71.docx": [1813, 1813, 1813], "Jeremiah_ch_31.docx": [2439, 2439, 2439], "Jeremiah_ch_48.docx": [2296, 2296, 2296], "Ezekiel_ch_38.docx": [4451, 4451, 4451], "Malachi_ch_1.docx": [794, 794, 794], "Luke_ch_1.docx": [6333, 6333], "Acts_ch_19.docx": [8193, 8193], "2 Peter_ch_1.docx": [2401, 2401]}
-magni	{"Deuteronomy_ch_33.docx": [3828], "1 Chronicles_ch_17.docx": [2786, 3509, 2786, 3509], "Psalms_ch_71.docx": [1813, 1813], "Jeremiah_ch_31.docx": [2439, 2439], "Jeremiah_ch_48.docx": [2296, 2296], "Ezekiel_ch_38.docx": [4451, 4451], "Malachi_ch_1.docx": [794, 794], "Luke_ch_1.docx": [6333], "Acts_ch_19.docx": [8193], "2 Peter_ch_1.docx": [2401]}
-55n	{"1 Samuel_ch_17.docx": [9095]}
-5don’t	{"Psalms_ch_75.docx": [543], "Psalms_ch_105.docx": [326]}
 magni	{"Deuteronomy_ch_33.docx": [3828], "1 Chronicles_ch_17.docx": [2786, 3509], "Psalms_ch_71.docx": [1813], "Jeremiah_ch_31.docx": [2439], "Jeremiah_ch_48.docx": [2296], "Ezekiel_ch_38.docx": [4451], "Malachi_ch_1.docx": [794], "Luke_ch_1.docx": [6333], "Acts_ch_19.docx": [8193], "2 Peter_ch_1.docx": [2401]}

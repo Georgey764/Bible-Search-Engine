@@ -16,7 +16,7 @@ def make_json(keyword, inverse_index, current_document, starting_index):
 	max_ngram = 6
 	for i in range(3, min(max_ngram, len(keyword)) + 1):
 		ngram = keyword[:i]
-		if (not ngram in inverse_index) and len(ngram) != 0:
+		if (ngram not in inverse_index) and len(ngram) != 0:
 			file_name = make_name(ngram.lower())
 			inverse_index[ngram] = file_name
 			txt_json = {
@@ -36,7 +36,7 @@ def make_json(keyword, inverse_index, current_document, starting_index):
 				if line.split("\t")[0].lower() == ngram.lower():
 					found = True
 					txt_json = json.loads(line.split("\t")[1])
-					if not current_document in txt_json:
+					if current_document not in txt_json:
 						txt_json[current_document] = [starting_index]
 					else:
 						txt_json[current_document].append(starting_index)
@@ -53,7 +53,7 @@ def make_json(keyword, inverse_index, current_document, starting_index):
 
 def hash_book(book_name):
 	num_of_chap = len(os.listdir(f"./Books/{book_name}")) - 1
-	for i in range(1, num_of_chap):
+	for i in range(1, num_of_chap + 1):
 		print("book: " + book_name + "\nchapter: " + str(i))
 		document_name = f"{book_name}_ch_{i}.docx"
 		document = Document(f"./Books/{book_name}/{document_name}")

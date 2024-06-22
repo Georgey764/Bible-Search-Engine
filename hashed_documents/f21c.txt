@@ -1,5 +1,2 @@
 
-smoth	{"1 Samuel_ch_16.docx": [2534, 2684, 2684, 2684]}
-smoth	{"1 Samuel_ch_16.docx": [2534, 2684, 2684]}
-7sal	{"Nehemiah_ch_12.docx": [342]}
 smoth	{"1 Samuel_ch_16.docx": [2534, 2684]}

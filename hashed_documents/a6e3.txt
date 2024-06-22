@@ -1,4 +1,2 @@
 
-edom’	{"Judges_ch_5.docx": [472], "Isaiah_ch_34.docx": [684, 684, 684], "Ezekiel_ch_25.docx": [2243, 2243, 2243], "Ezekiel_ch_35.docx": [90, 2149, 90, 2149, 90, 2149]}
-edom’	{"Judges_ch_5.docx": [472], "Isaiah_ch_34.docx": [684, 684], "Ezekiel_ch_25.docx": [2243, 2243], "Ezekiel_ch_35.docx": [90, 2149, 90, 2149]}
-edom’	{"Judges_ch_5.docx": [472], "Isaiah_ch_34.docx": [684], "Ezekiel_ch_25.docx": [2243], "Ezekiel_ch_35.docx": [90, 2149]}
+edom’	{"Judges_ch_5.docx": [472], "Isaiah_ch_34.docx": [684], "Ezekiel_ch_25.docx": [2243], "Ezekiel_ch_35.docx": [90, 2149], "Obadiah_ch_1.docx": [1239]}

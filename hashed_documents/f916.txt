@@ -1,4 +1,2 @@
 
-dice	{"Psalms_ch_22.docx": [1767], "Mark_ch_15.docx": [2423, 2423], "Luke_ch_23.docx": [4164, 4164], "John_ch_19.docx": [3209, 3362, 3209, 3362]}
-dice	{"Psalms_ch_22.docx": [1767], "Mark_ch_15.docx": [2423], "Luke_ch_23.docx": [4164], "John_ch_19.docx": [3209, 3362]}
 dice	{"Psalms_ch_22.docx": [1767], "Mark_ch_15.docx": [2423], "Luke_ch_23.docx": [4164], "John_ch_19.docx": [3209, 3362]}

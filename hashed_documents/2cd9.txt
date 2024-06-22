@@ -1,2 +1,0 @@
-
-10no	{"Genesis_ch_14.docx": [1361], "Genesis_ch_23.docx": [1115], "Genesis_ch_48.docx": [1428], "Exodus_ch_12.docx": [1126], "2 Samuel_ch_15.docx": [1240], "Ezra_ch_7.docx": [1100], "Psalms_ch_62.docx": [1110], "Psalms_ch_85.docx": [864], "Psalms_ch_91.docx": [894], "Proverbs_ch_2.docx": [811], "Proverbs_ch_5.docx": [849], "Zechariah_ch_7.docx": [1388]}

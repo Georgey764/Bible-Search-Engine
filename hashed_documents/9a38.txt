@@ -1,2 +1,0 @@
-
-1,70	{"1 Chronicles_ch_26.docx": [3898], "Nehemiah_ch_3.docx": [4322, 4361, 4402]}

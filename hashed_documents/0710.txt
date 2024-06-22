@@ -1,5 +1,2 @@
 
-ebr	{"Numbers_ch_33.docx": [2517, 2560, 2560, 2560]}
-ebr	{"Numbers_ch_33.docx": [2517, 2560, 2560]}
-11m	{"1 Chronicles_ch_1.docx": [934], "Nehemiah_ch_10.docx": [589], "Psalms_ch_7.docx": [1090], "Psalms_ch_36.docx": [1105], "Psalms_ch_38.docx": [880], "Psalms_ch_63.docx": [1015], "Psalms_ch_72.docx": [917], "Psalms_ch_83.docx": [876], "Psalms_ch_109.docx": [850], "Psalms_ch_140.docx": [1083], "Psalms_ch_145.docx": [1018], "Proverbs_ch_10.docx": [1044]}
 ebr	{"Numbers_ch_33.docx": [2517, 2560]}

@@ -1,7 +1,3 @@
 
 compri	{"Joshua_ch_13.docx": [34911]}
-shop	{"1 Chronicles_ch_27.docx": [4118]}
-compri	{"Joshua_ch_13.docx": [34911]}
-shop	{"1 Chronicles_ch_27.docx": [4118]}
-compri	{"Joshua_ch_13.docx": [34911]}
-shop	{"1 Chronicles_ch_27.docx": [4118]}
+shop	{"1 Chronicles_ch_27.docx": [4118], "Acts_ch_28.docx": [3445, 3471]}

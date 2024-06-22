@@ -1,4 +1,2 @@
 
-esau’	{"Genesis_ch_27.docx": [1660], "Genesis_ch_36.docx": [351, 1037, 1471, 2083, 351, 1037, 1471, 2083, 351, 1037, 1471, 2083], "1 Chronicles_ch_1.docx": [2769, 2769]}
-esau’	{"Genesis_ch_27.docx": [1660], "Genesis_ch_36.docx": [351, 1037, 1471, 2083, 351, 1037, 1471, 2083], "1 Chronicles_ch_1.docx": [2769]}
 esau’	{"Genesis_ch_27.docx": [1660], "Genesis_ch_36.docx": [351, 1037, 1471, 2083], "1 Chronicles_ch_1.docx": [2769]}

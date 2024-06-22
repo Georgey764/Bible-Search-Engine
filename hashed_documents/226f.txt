@@ -1,3 +1,2 @@
 
-towel	{"John_ch_13.docx": [549, 572, 572]}
 towel	{"John_ch_13.docx": [549, 572]}

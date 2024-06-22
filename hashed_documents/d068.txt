@@ -1,4 +1,2 @@
 
-zic	{"Nehemiah_ch_11.docx": [1476], "Nehemiah_ch_12.docx": [1467, 1467, 1467]}
-zic	{"Nehemiah_ch_11.docx": [1476], "Nehemiah_ch_12.docx": [1467, 1467]}
 zic	{"Nehemiah_ch_11.docx": [1476], "Nehemiah_ch_12.docx": [1467]}

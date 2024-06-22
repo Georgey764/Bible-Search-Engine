@@ -1,5 +1,2 @@
 
-dela	{"Genesis_ch_34.docx": [2192], "Genesis_ch_43.docx": [1151, 1151, 1151], "Genesis_ch_45.docx": [1345, 1345, 1345], "Joshua_ch_17.docx": [1095, 1095, 1095], "Psalms_ch_40.docx": [2343, 2343, 2343], "Psalms_ch_70.docx": [553, 553, 553], "Luke_ch_12.docx": [5835, 5835], "Acts_ch_25.docx": [5847, 5847], "1 Timothy_ch_3.docx": [1629, 1629], "2 Peter_ch_2.docx": [472, 472]}
-dela	{"Genesis_ch_34.docx": [2192], "Genesis_ch_43.docx": [1151, 1151], "Genesis_ch_45.docx": [1345, 1345], "Joshua_ch_17.docx": [1095, 1095], "Psalms_ch_40.docx": [2343, 2343], "Psalms_ch_70.docx": [553, 553], "Luke_ch_12.docx": [5835], "Acts_ch_25.docx": [5847], "1 Timothy_ch_3.docx": [1629], "2 Peter_ch_2.docx": [472]}
-25‘ar	{"Judges_ch_11.docx": [5438]}
 dela	{"Genesis_ch_34.docx": [2192], "Genesis_ch_43.docx": [1151], "Genesis_ch_45.docx": [1345], "Joshua_ch_17.docx": [1095], "Psalms_ch_40.docx": [2343], "Psalms_ch_70.docx": [553], "Luke_ch_12.docx": [5835], "Acts_ch_25.docx": [5847], "1 Timothy_ch_3.docx": [1629], "2 Peter_ch_2.docx": [472]}

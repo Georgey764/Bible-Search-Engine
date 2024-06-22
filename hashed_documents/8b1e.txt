@@ -1,7 +1,3 @@
 
 gaudi	{"Numbers_ch_13.docx": [1065]}
 vows];	{"Jeremiah_ch_3.docx": [1354]}
-gaudi	{"Numbers_ch_13.docx": [1065]}
-vows];	{"Jeremiah_ch_3.docx": [1354]}
-gaudi	{"Numbers_ch_13.docx": [1065]}
-vows];	{"Jeremiah_ch_3.docx": [1354]}

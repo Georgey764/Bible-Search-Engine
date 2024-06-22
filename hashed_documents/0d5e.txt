@@ -1,4 +1,2 @@
 
-usher	{"Matthew_ch_9.docx": [3398], "Mark_ch_5.docx": [4586, 4586]}
-usher	{"Matthew_ch_9.docx": [3398], "Mark_ch_5.docx": [4586]}
 usher	{"Matthew_ch_9.docx": [3398], "Mark_ch_5.docx": [4586]}

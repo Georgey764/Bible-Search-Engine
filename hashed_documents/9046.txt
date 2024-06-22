@@ -1,4 +1,2 @@
 
-equip	{"1 Samuel_ch_30.docx": [3732], "1 Chronicles_ch_9.docx": [4218, 4218, 4218], "Jeremiah_ch_50.docx": [8591, 8591, 8591]}
-equip	{"1 Samuel_ch_30.docx": [3732], "1 Chronicles_ch_9.docx": [4218, 4218], "Jeremiah_ch_50.docx": [8591, 8591]}
 equip	{"1 Samuel_ch_30.docx": [3732], "1 Chronicles_ch_9.docx": [4218], "Jeremiah_ch_50.docx": [8591]}

@@ -1,4 +1,2 @@
 
-fors	{"Deuteronomy_ch_31.docx": [1125], "Isaiah_ch_3.docx": [1180, 1180, 1180], "Isaiah_ch_17.docx": [1432, 1432, 1432], "Isaiah_ch_35.docx": [355, 355, 355], "Isaiah_ch_38.docx": [1611, 1611, 1611], "Isaiah_ch_54.docx": [969, 969, 969], "Isaiah_ch_62.docx": [461, 461, 461], "Jeremiah_ch_12.docx": [1218, 1218, 1218]}
-fors	{"Deuteronomy_ch_31.docx": [1125], "Isaiah_ch_3.docx": [1180, 1180], "Isaiah_ch_17.docx": [1432, 1432], "Isaiah_ch_35.docx": [355, 355], "Isaiah_ch_38.docx": [1611, 1611], "Isaiah_ch_54.docx": [969, 969], "Isaiah_ch_62.docx": [461, 461], "Jeremiah_ch_12.docx": [1218, 1218]}
-fors	{"Deuteronomy_ch_31.docx": [1125], "Isaiah_ch_3.docx": [1180], "Isaiah_ch_17.docx": [1432], "Isaiah_ch_35.docx": [355], "Isaiah_ch_38.docx": [1611], "Isaiah_ch_54.docx": [969], "Isaiah_ch_62.docx": [461], "Jeremiah_ch_12.docx": [1218]}
+fors	{"Deuteronomy_ch_31.docx": [1125], "Isaiah_ch_3.docx": [1180], "Isaiah_ch_17.docx": [1432], "Isaiah_ch_35.docx": [355], "Isaiah_ch_38.docx": [1611], "Isaiah_ch_54.docx": [969], "Isaiah_ch_62.docx": [461], "Jeremiah_ch_12.docx": [1218], "Lamentations_ch_5.docx": [1708]}

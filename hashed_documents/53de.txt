@@ -1,2 +1,0 @@
-
-11‘but	{"Leviticus_ch_22.docx": [1539], "Judges_ch_9.docx": [2857], "Ruth_ch_3.docx": [1380], "Psalms_ch_81.docx": [1144], "Isaiah_ch_9.docx": [1870], "Isaiah_ch_65.docx": [1744], "Ezekiel_ch_23.docx": [1597], "Ezekiel_ch_44.docx": [2056], "Ezekiel_ch_47.docx": [1812], "Habakkuk_ch_1.docx": [1865], "Zechariah_ch_8.docx": [1751], "Matthew_ch_22.docx": [1270]}

@@ -2,8 +2,3 @@
 acisa	{"1 Kings_ch_4.docx": [506]}
 army!	{"1 Chronicles_ch_19.docx": [2972]}
 meshil	{"Nehemiah_ch_11.docx": [1879]}
-army!	{"1 Chronicles_ch_19.docx": [2972]}
-meshil	{"Nehemiah_ch_11.docx": [1879]}
-acisa	{"1 Kings_ch_4.docx": [506]}
-army!	{"1 Chronicles_ch_19.docx": [2972]}
-meshil	{"Nehemiah_ch_11.docx": [1879]}

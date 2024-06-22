@@ -1,4 +1,2 @@
 
-awning	{"Exodus_ch_27.docx": [1580, 1608, 1608, 1608]}
-awning	{"Exodus_ch_27.docx": [1580, 1608, 1608]}
-awning	{"Exodus_ch_27.docx": [1580, 1608]}
+awning	{"Exodus_ch_27.docx": [1580, 1608], "Isaiah_ch_66.docx": [4051]}

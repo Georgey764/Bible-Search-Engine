@@ -1,4 +1,2 @@
 
-admiri	{"Matthew_ch_24.docx": [20], "Revelation_ch_13.docx": [423, 423]}
-admiri	{"Matthew_ch_24.docx": [20], "Revelation_ch_13.docx": [423]}
 admiri	{"Matthew_ch_24.docx": [20], "Revelation_ch_13.docx": [423]}

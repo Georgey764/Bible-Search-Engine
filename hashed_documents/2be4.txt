@@ -1,4 +1,2 @@
 
-new,	{"Hebrews_ch_8.docx": [2113, 2118, 2118]}
-17we’	{"Numbers_ch_32.docx": [2164]}
 new,	{"Hebrews_ch_8.docx": [2113, 2118]}

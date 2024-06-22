@@ -1,4 +1,2 @@
 
-cane	{"Genesis_ch_47.docx": [5209], "Exodus_ch_21.docx": [2216, 2486, 2216, 2486, 2216, 2486], "Isaiah_ch_36.docx": [866, 866, 866], "Zechariah_ch_8.docx": [538, 538, 538], "Matthew_ch_27.docx": [3299, 3654, 3299, 3654], "Hebrews_ch_11.docx": [4383, 4383], "Revelation_ch_11.docx": [9, 9]}
-cane	{"Genesis_ch_47.docx": [5209], "Exodus_ch_21.docx": [2216, 2486, 2216, 2486], "Isaiah_ch_36.docx": [866, 866], "Zechariah_ch_8.docx": [538, 538], "Matthew_ch_27.docx": [3299, 3654], "Hebrews_ch_11.docx": [4383], "Revelation_ch_11.docx": [9]}
 cane	{"Genesis_ch_47.docx": [5209], "Exodus_ch_21.docx": [2216, 2486], "Isaiah_ch_36.docx": [866], "Zechariah_ch_8.docx": [538], "Matthew_ch_27.docx": [3299, 3654], "Hebrews_ch_11.docx": [4383], "Revelation_ch_11.docx": [9]}

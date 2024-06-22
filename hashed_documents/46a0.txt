@@ -1,4 +1,2 @@
 
-impat	{"Judges_ch_10.docx": [5613], "Luke_ch_23.docx": [2531, 2531]}
-impat	{"Judges_ch_10.docx": [5613], "Luke_ch_23.docx": [2531]}
 impat	{"Judges_ch_10.docx": [5613], "Luke_ch_23.docx": [2531]}

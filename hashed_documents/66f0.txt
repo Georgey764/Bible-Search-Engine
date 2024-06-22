@@ -1,4 +1,2 @@
 
-gatean	{"Nehemiah_ch_3.docx": [12359, 13508, 15248, 13508, 15248, 13508, 15248]}
-gatean	{"Nehemiah_ch_3.docx": [12359, 13508, 15248, 13508, 15248]}
 gatean	{"Nehemiah_ch_3.docx": [12359, 13508, 15248]}

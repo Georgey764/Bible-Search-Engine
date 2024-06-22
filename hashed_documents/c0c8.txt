@@ -1,8 +1,3 @@
 
-depar	{"Genesis_ch_24.docx": [9121], "Numbers_ch_1.docx": [25, 25, 25], "1 Chronicles_ch_28.docx": [92, 92, 92], "Psalms_ch_18.docx": [2275, 2275, 2275], "Ecclesiastes_ch_8.docx": [168, 168, 168], "Isaiah_ch_59.docx": [2006, 2006, 2006], "Luke_ch_9.docx": [4190, 4190], "Acts_ch_15.docx": [7797, 7817, 7838, 7797, 7817, 7838], "Hebrews_ch_11.docx": [1820, 4479, 1820, 4479]}
-bull’s	{"Exodus_ch_21.docx": [3382]}
-depar	{"Genesis_ch_24.docx": [9121], "Numbers_ch_1.docx": [25, 25], "1 Chronicles_ch_28.docx": [92, 92], "Psalms_ch_18.docx": [2275, 2275], "Ecclesiastes_ch_8.docx": [168, 168], "Isaiah_ch_59.docx": [2006, 2006], "Luke_ch_9.docx": [4190], "Acts_ch_15.docx": [7797, 7817, 7838], "Hebrews_ch_11.docx": [1820, 4479]}
-bull’s	{"Exodus_ch_21.docx": [3382]}
-1disho	{"Proverbs_ch_11.docx": [4]}
 depar	{"Genesis_ch_24.docx": [9121], "Numbers_ch_1.docx": [25], "1 Chronicles_ch_28.docx": [92], "Psalms_ch_18.docx": [2275], "Ecclesiastes_ch_8.docx": [168], "Isaiah_ch_59.docx": [2006], "Luke_ch_9.docx": [4190], "Acts_ch_15.docx": [7797, 7817, 7838], "Hebrews_ch_11.docx": [1820, 4479]}
 bull’s	{"Exodus_ch_21.docx": [3382]}

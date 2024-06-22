@@ -1,5 +1,2 @@
 
-38	{"1 Chronicles_ch_11.docx": [5893]}
-38	{"1 Chronicles_ch_11.docx": [5893]}
-1‘yes	{"Ecclesiastes_ch_4.docx": [6], "Hosea_ch_8.docx": [6]}
  38	{"1 Chronicles_ch_11.docx": [5893]}

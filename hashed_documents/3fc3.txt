@@ -1,4 +1,2 @@
 
-ennom	{"Joshua_ch_15.docx": [1159, 1182, 1182, 1182]}
-ennom	{"Joshua_ch_15.docx": [1159, 1182, 1182]}
 ennom	{"Joshua_ch_15.docx": [1159, 1182]}

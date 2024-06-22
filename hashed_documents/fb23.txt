@@ -1,7 +1,3 @@
 
-shamm	{"1 Samuel_ch_16.docx": [1617], "1 Samuel_ch_17.docx": [1802, 1802, 1802], "1 Chronicles_ch_11.docx": [2532, 2532, 2532], "Nehemiah_ch_11.docx": [2517, 2517, 2517], "Nehemiah_ch_12.docx": [1582, 1582, 1582]}
-zatthu	{"Nehemiah_ch_10.docx": [799]}
-shamm	{"1 Samuel_ch_16.docx": [1617], "1 Samuel_ch_17.docx": [1802, 1802], "1 Chronicles_ch_11.docx": [2532, 2532], "Nehemiah_ch_11.docx": [2517, 2517], "Nehemiah_ch_12.docx": [1582, 1582]}
-zatthu	{"Nehemiah_ch_10.docx": [799]}
 shamm	{"1 Samuel_ch_16.docx": [1617], "1 Samuel_ch_17.docx": [1802], "1 Chronicles_ch_11.docx": [2532], "Nehemiah_ch_11.docx": [2517], "Nehemiah_ch_12.docx": [1582]}
 zatthu	{"Nehemiah_ch_10.docx": [799]}

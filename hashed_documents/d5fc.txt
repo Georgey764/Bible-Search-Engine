@@ -1,4 +1,2 @@
 
-somep	{"1 Samuel_ch_19.docx": [225], "Isaiah_ch_22.docx": [449, 449, 449]}
-somep	{"1 Samuel_ch_19.docx": [225], "Isaiah_ch_22.docx": [449, 449]}
 somep	{"1 Samuel_ch_19.docx": [225], "Isaiah_ch_22.docx": [449]}

@@ -1,3 +1,0 @@
-
-8beca	{"Genesis_ch_31.docx": [514], "Nehemiah_ch_9.docx": [1646], "Psalms_ch_129.docx": [696], "Jeremiah_ch_4.docx": [1486]}
-26ye	{"2 Kings_ch_19.docx": [4261], "Psalms_ch_102.docx": [2541], "Isaiah_ch_14.docx": [4325], "Ezekiel_ch_20.docx": [4342]}

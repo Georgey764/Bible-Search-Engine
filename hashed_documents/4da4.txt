@@ -1,5 +1,2 @@
 
-apply	{"Exodus_ch_12.docx": [7462], "Deuteronomy_ch_29.docx": [1809, 1809, 1809], "Nehemiah_ch_5.docx": [2908, 2908, 2908], "Ezekiel_ch_13.docx": [3051, 3051, 3051], "Ezekiel_ch_18.docx": [88, 88, 88], "Mark_ch_12.docx": [1518, 1518], "Luke_ch_4.docx": [3129, 3129], "Romans_ch_4.docx": [949, 949]}
-apply	{"Exodus_ch_12.docx": [7462], "Deuteronomy_ch_29.docx": [1809, 1809], "Nehemiah_ch_5.docx": [2908, 2908], "Ezekiel_ch_13.docx": [3051, 3051], "Ezekiel_ch_18.docx": [88, 88], "Mark_ch_12.docx": [1518], "Luke_ch_4.docx": [3129], "Romans_ch_4.docx": [949]}
-4wi	{"Job_ch_22.docx": [272], "Job_ch_41.docx": [249], "Psalms_ch_63.docx": [407], "Psalms_ch_91.docx": [322], "Hosea_ch_12.docx": [808]}
 apply	{"Exodus_ch_12.docx": [7462], "Deuteronomy_ch_29.docx": [1809], "Nehemiah_ch_5.docx": [2908], "Ezekiel_ch_13.docx": [3051], "Ezekiel_ch_18.docx": [88], "Mark_ch_12.docx": [1518], "Luke_ch_4.docx": [3129], "Romans_ch_4.docx": [949]}

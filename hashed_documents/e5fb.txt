@@ -1,4 +1,2 @@
 
-penal	{"Genesis_ch_4.docx": [1813], "Proverbs_ch_17.docx": [2519, 2519, 2519]}
-penal	{"Genesis_ch_4.docx": [1813], "Proverbs_ch_17.docx": [2519, 2519]}
-penal	{"Genesis_ch_4.docx": [1813], "Proverbs_ch_17.docx": [2519]}
+penal	{"Genesis_ch_4.docx": [1813], "2 Samuel_ch_24.docx": [1896], "Proverbs_ch_17.docx": [2519], "Jude_ch_1.docx": [1478]}

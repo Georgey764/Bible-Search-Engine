@@ -1,5 +1,2 @@
 
-unhea	{"Isaiah_ch_1.docx": [956], "1 Corinthians_ch_11.docx": [3677, 3677]}
-unhea	{"Isaiah_ch_1.docx": [956], "1 Corinthians_ch_11.docx": [3677]}
-37f	{"Matthew_ch_24.docx": [4196]}
 unhea	{"Isaiah_ch_1.docx": [956], "1 Corinthians_ch_11.docx": [3677]}

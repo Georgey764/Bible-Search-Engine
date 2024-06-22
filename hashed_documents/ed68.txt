@@ -1,4 +1,2 @@
 
-elim	{"Joshua_ch_19.docx": [2018], "Ruth_ch_1.docx": [48, 351, 48, 351], "Ruth_ch_2.docx": [24, 24, 24], "2 Thessalonians_ch_2.docx": [1019, 1049, 1019, 1049]}
-elim	{"Ruth_ch_1.docx": [48, 48, 351], "Ruth_ch_2.docx": [24, 24], "2 Thessalonians_ch_2.docx": [1019, 1049]}
-elim	{"Joshua_ch_19.docx": [2018], "Ruth_ch_1.docx": [48, 351], "Ruth_ch_2.docx": [24], "2 Thessalonians_ch_2.docx": [1019, 1049]}
+elim	{"Joshua_ch_19.docx": [2018], "Ruth_ch_1.docx": [48, 351], "Ruth_ch_2.docx": [24], "Ruth_ch_4.docx": [363, 512, 1945], "2 Thessalonians_ch_2.docx": [1019, 1049]}

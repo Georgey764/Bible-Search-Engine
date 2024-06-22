@@ -1,5 +1,2 @@
 
-influ	{"2 Chronicles_ch_11.docx": [1859], "Job_ch_40.docx": [2703, 2703, 2703], "Jeremiah_ch_29.docx": [1341, 1341, 1341], "Mark_ch_1.docx": [2577, 2577], "Mark_ch_3.docx": [2585, 2585], "Acts_ch_14.docx": [328, 328], "1 Corinthians_ch_14.docx": [5008, 5008], "2 Corinthians_ch_5.docx": [1716, 1716], "Galatians_ch_2.docx": [1935, 1935]}
-9meanw	{"Exodus_ch_11.docx": [1343], "Esther_ch_1.docx": [1740]}
-influ	{"2 Chronicles_ch_11.docx": [1859], "Job_ch_40.docx": [2703, 2703], "Jeremiah_ch_29.docx": [1341, 1341], "Mark_ch_1.docx": [2577], "Mark_ch_3.docx": [2585], "Acts_ch_14.docx": [328], "1 Corinthians_ch_14.docx": [5008], "2 Corinthians_ch_5.docx": [1716], "Galatians_ch_2.docx": [1935]}
-influ	{"2 Chronicles_ch_11.docx": [1859], "Job_ch_40.docx": [2703], "Jeremiah_ch_29.docx": [1341], "Mark_ch_1.docx": [2577], "Mark_ch_3.docx": [2585], "Acts_ch_14.docx": [328], "1 Corinthians_ch_14.docx": [5008], "2 Corinthians_ch_5.docx": [1716], "Galatians_ch_2.docx": [1935]}
+influ	{"2 Chronicles_ch_11.docx": [1859], "Job_ch_40.docx": [2703], "Jeremiah_ch_29.docx": [1341], "Obadiah_ch_1.docx": [4107], "Mark_ch_1.docx": [2577], "Mark_ch_3.docx": [2585], "Acts_ch_14.docx": [328], "1 Corinthians_ch_14.docx": [5008], "2 Corinthians_ch_5.docx": [1716], "Galatians_ch_2.docx": [1935], "1 John_ch_5.docx": [2602]}

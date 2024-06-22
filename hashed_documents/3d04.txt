@@ -1,4 +1,2 @@
 
-thalee	{"1 Chronicles_ch_7.docx": [3101, 3168, 3168, 3168]}
-thalee	{"1 Chronicles_ch_7.docx": [3101, 3168, 3168]}
 thalee	{"1 Chronicles_ch_7.docx": [3101, 3168]}

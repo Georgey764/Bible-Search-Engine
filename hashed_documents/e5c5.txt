@@ -1,4 +1,2 @@
 
-patch	{"Joshua_ch_9.docx": [5676], "Matthew_ch_9.docx": [2101, 2101, 2101], "Mark_ch_2.docx": [2832, 2832], "Luke_ch_5.docx": [6360, 6436, 6477, 6360, 6436, 6477]}
-patch	{"Joshua_ch_9.docx": [5676], "Matthew_ch_9.docx": [2101, 2101], "Mark_ch_2.docx": [2832], "Luke_ch_5.docx": [6360, 6436, 6477]}
 patch	{"Joshua_ch_9.docx": [5676], "Matthew_ch_9.docx": [2101], "Mark_ch_2.docx": [2832], "Luke_ch_5.docx": [6360, 6436, 6477]}

@@ -1,7 +1,3 @@
 
 dogmat	{"Job_ch_40.docx": [2686]}
-pathro	{"Jeremiah_ch_44.docx": [43, 3061, 3061, 3061], "Ezekiel_ch_30.docx": [1971, 1971, 1971]}
-dogmat	{"Job_ch_40.docx": [2686]}
-pathro	{"Jeremiah_ch_44.docx": [43, 3061, 3061], "Ezekiel_ch_30.docx": [1971, 1971]}
-dogmat	{"Job_ch_40.docx": [2686]}
 pathro	{"Jeremiah_ch_44.docx": [43, 3061], "Ezekiel_ch_30.docx": [1971]}

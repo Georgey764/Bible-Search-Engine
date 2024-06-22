@@ -1,4 +1,2 @@
 
-bount	{"Ecclesiastes_ch_5.docx": [1382], "Isaiah_ch_5.docx": [164, 164, 164], "Isaiah_ch_17.docx": [609, 609, 609]}
-bount	{"Ecclesiastes_ch_5.docx": [1382], "Isaiah_ch_5.docx": [164, 164], "Isaiah_ch_17.docx": [609, 609]}
-bount	{"Ecclesiastes_ch_5.docx": [1382], "Isaiah_ch_5.docx": [164], "Isaiah_ch_17.docx": [609]}
+bount	{"Ecclesiastes_ch_5.docx": [1382], "Isaiah_ch_5.docx": [164], "Isaiah_ch_17.docx": [609], "Lamentations_ch_5.docx": [494]}

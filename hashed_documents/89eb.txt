@@ -1,3 +1,0 @@
-
-17‘yo	{"Exodus_ch_9.docx": [2400], "Exodus_ch_12.docx": [2554], "Exodus_ch_25.docx": [1738], "Exodus_ch_34.docx": [2577], "Leviticus_ch_18.docx": [1952], "Leviticus_ch_19.docx": [2030], "Leviticus_ch_23.docx": [2248], "Deuteronomy_ch_5.docx": [2165], "Deuteronomy_ch_6.docx": [2319], "Deuteronomy_ch_20.docx": [2402], "Deuteronomy_ch_24.docx": [2577], "Joshua_ch_6.docx": [1883], "Proverbs_ch_9.docx": [1710], "Jeremiah_ch_46.docx": [2680], "Ezekiel_ch_37.docx": [2627], "Malachi_ch_2.docx": [3400]}
-31af	{"Numbers_ch_33.docx": [2346]}

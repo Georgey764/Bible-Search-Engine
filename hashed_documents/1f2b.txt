@@ -1,3 +1,2 @@
 
 curves	{"Luke_ch_3.docx": [3664]}
-curves	{"Luke_ch_3.docx": [3664]}

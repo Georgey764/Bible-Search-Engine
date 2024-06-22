@@ -1,7 +1,3 @@
 
 selch	{"1 Chronicles_ch_5.docx": [1404]}
 baasi	{"1 Chronicles_ch_6.docx": [3195]}
-selch	{"1 Chronicles_ch_5.docx": [1404]}
-baasi	{"1 Chronicles_ch_6.docx": [3195]}
-selch	{"1 Chronicles_ch_5.docx": [1404]}
-baasi	{"1 Chronicles_ch_6.docx": [3195]}

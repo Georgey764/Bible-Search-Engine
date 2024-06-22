@@ -1,4 +1,2 @@
 
-luza	{"Genesis_ch_35.docx": [928, 1381, 1381, 1381], "Genesis_ch_48.docx": [337, 337, 337], "Joshua_ch_16.docx": [39, 39, 39]}
-luza	{"Genesis_ch_35.docx": [928, 1381, 1381], "Genesis_ch_48.docx": [337, 337], "Joshua_ch_16.docx": [39, 39]}
 luza	{"Genesis_ch_35.docx": [928, 1381], "Genesis_ch_48.docx": [337], "Joshua_ch_16.docx": [39]}

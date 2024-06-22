@@ -1,5 +1,2 @@
 
-genu	{"Proverbs_ch_20.docx": [59], "Mark_ch_14.docx": [314, 314], "John_ch_12.docx": [385, 385], "2 Corinthians_ch_8.docx": [1206, 1206], "Philippians_ch_2.docx": [2448, 2448], "1 Timothy_ch_1.docx": [29, 29]}
-36so	{"Numbers_ch_15.docx": [4510], "Judges_ch_1.docx": [19665], "1 Kings_ch_20.docx": [6588], "2 Kings_ch_4.docx": [5480], "1 Chronicles_ch_6.docx": [2834], "2 Chronicles_ch_20.docx": [6003], "Jeremiah_ch_25.docx": [5997]}
-genu	{"Proverbs_ch_20.docx": [59], "Mark_ch_14.docx": [314], "John_ch_12.docx": [385], "2 Corinthians_ch_8.docx": [1206], "Philippians_ch_2.docx": [2448], "1 Timothy_ch_1.docx": [29]}
 genu	{"Proverbs_ch_20.docx": [59], "Mark_ch_14.docx": [314], "John_ch_12.docx": [385], "2 Corinthians_ch_8.docx": [1206], "Philippians_ch_2.docx": [2448], "1 Timothy_ch_1.docx": [29]}

@@ -1,5 +1,2 @@
 
-plaza	{"Jeremiah_ch_17.docx": [4893], "Jeremiah_ch_49.docx": [4824, 4824, 4824]}
-3sa	{"Joshua_ch_17.docx": [431], "Zechariah_ch_8.docx": [172]}
-plaza	{"Jeremiah_ch_17.docx": [4893], "Jeremiah_ch_49.docx": [4824, 4824]}
 plaza	{"Jeremiah_ch_17.docx": [4893], "Jeremiah_ch_49.docx": [4824]}

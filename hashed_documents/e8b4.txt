@@ -1,4 +1,2 @@
 
-mid-d	{"Genesis_ch_29.docx": [916], "Zephaniah_ch_2.docx": [684, 684, 684]}
-mid-d	{"Genesis_ch_29.docx": [916], "Zephaniah_ch_2.docx": [684, 684]}
 mid-d	{"Genesis_ch_29.docx": [916], "Zephaniah_ch_2.docx": [684]}

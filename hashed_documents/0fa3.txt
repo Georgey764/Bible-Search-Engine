@@ -1,4 +1,2 @@
 
-achima	{"Numbers_ch_13.docx": [1834], "Joshua_ch_15.docx": [2275, 2275, 2275], "Judges_ch_1.docx": [1432, 1432, 1432], "1 Kings_ch_4.docx": [1635, 1635], "1 Chronicles_ch_4.docx": [163, 163, 163], "1 Chronicles_ch_6.docx": [550, 576, 4301, 550, 4301, 550, 576, 4301]}
-achima	{"Numbers_ch_13.docx": [1834], "Joshua_ch_15.docx": [2275, 2275], "Judges_ch_1.docx": [1432, 1432], "1 Chronicles_ch_4.docx": [163, 163], "1 Chronicles_ch_6.docx": [550, 4301, 550, 576, 4301], "1 Kings_ch_4.docx": [1635]}
 achima	{"Numbers_ch_13.docx": [1834], "Joshua_ch_15.docx": [2275], "Judges_ch_1.docx": [1432], "1 Kings_ch_4.docx": [1635], "1 Chronicles_ch_4.docx": [163], "1 Chronicles_ch_6.docx": [550, 576, 4301]}

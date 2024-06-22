@@ -1,6 +1,2 @@
 
 maiz	{"Genesis_ch_36.docx": [3994]}
-maiz	{"Genesis_ch_36.docx": [3994]}
-3outs	{"Leviticus_ch_14.docx": [112], "Leviticus_ch_24.docx": [91]}
-3under	{"1 Chronicles_ch_25.docx": [454]}
-maiz	{"Genesis_ch_36.docx": [3994]}

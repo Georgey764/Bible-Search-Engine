@@ -1,4 +1,2 @@
 
-eliud	{"Matthew_ch_1.docx": [1154, 1175, 1175]}
-eliud	{"Matthew_ch_1.docx": [1154, 1175]}
 eliud	{"Matthew_ch_1.docx": [1154, 1175]}

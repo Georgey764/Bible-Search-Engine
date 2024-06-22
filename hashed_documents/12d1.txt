@@ -1,5 +1,2 @@
 
-bathed	{"Esther_ch_2.docx": [2622], "Song of Solomon_ch_5.docx": [2176, 2176, 2176], "Ezekiel_ch_16.docx": [1453, 1453, 1453], "Ezekiel_ch_23.docx": [6661, 6661, 6661], "Daniel_ch_4.docx": [2442, 4150, 4748, 6281, 2442, 4150, 4748, 6281, 2442, 4150, 4748, 6281], "Daniel_ch_5.docx": [3873, 3873, 3873]}
-41‘al	{"Leviticus_ch_11.docx": [4862]}
-bathed	{"Esther_ch_2.docx": [2622], "Song of Solomon_ch_5.docx": [2176, 2176], "Ezekiel_ch_16.docx": [1453, 1453], "Ezekiel_ch_23.docx": [6661, 6661], "Daniel_ch_4.docx": [2442, 4150, 4748, 6281, 2442, 4150, 4748, 6281], "Daniel_ch_5.docx": [3873, 3873]}
-bathed	{"Esther_ch_2.docx": [2622], "Song of Solomon_ch_5.docx": [2176], "Ezekiel_ch_16.docx": [1453], "Ezekiel_ch_23.docx": [6661], "Daniel_ch_4.docx": [2442, 4150, 4748, 6281], "Daniel_ch_5.docx": [3873]}
+bathed	{"1 Kings_ch_22.docx": [6162], "Esther_ch_2.docx": [2622], "Song of Solomon_ch_5.docx": [2176], "Ezekiel_ch_16.docx": [1453], "Ezekiel_ch_23.docx": [6661], "Daniel_ch_4.docx": [2442, 4150, 4748, 6281], "Daniel_ch_5.docx": [3873]}

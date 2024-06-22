@@ -1,5 +1,4 @@
 
 joela	{"1 Chronicles_ch_12.docx": [822]}
-jambr	{"2 Timothy_ch_3.docx": [1351, 1576, 1576]}
-joela	{"1 Chronicles_ch_12.docx": [822]}
+tether	{"Nahum_ch_3.docx": [2393]}
 jambr	{"2 Timothy_ch_3.docx": [1351, 1576]}

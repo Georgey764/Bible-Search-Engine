@@ -1,4 +1,2 @@
 
-mere	{"Nehemiah_ch_10.docx": [254], "Nehemiah_ch_12.docx": [218, 218], "Esther_ch_1.docx": [2504, 2504, 2504]}
-mere	{"Nehemiah_ch_12.docx": [218, 218], "Esther_ch_1.docx": [2504, 2504]}
-mere	{"Nehemiah_ch_10.docx": [254], "Nehemiah_ch_12.docx": [218], "Esther_ch_1.docx": [2504]}
+mere	{"Ezra_ch_10.docx": [5456], "Nehemiah_ch_10.docx": [254], "Nehemiah_ch_12.docx": [218], "Esther_ch_1.docx": [2504], "Philemon_ch_1.docx": [3050]}

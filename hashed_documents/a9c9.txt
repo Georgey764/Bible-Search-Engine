@@ -1,4 +1,2 @@
 
-sarep	{"1 Kings_ch_17.docx": [802, 924, 924, 924]}
-sarep	{"1 Kings_ch_17.docx": [802, 924, 924]}
 sarep	{"1 Kings_ch_17.docx": [802, 924]}

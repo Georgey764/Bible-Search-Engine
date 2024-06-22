@@ -1,4 +1,2 @@
 
-baals!	{"Judges_ch_2.docx": [2998], "1 Kings_ch_18.docx": [2514, 2514, 2514]}
-baals!	{"Judges_ch_2.docx": [2998], "1 Kings_ch_18.docx": [2514, 2514]}
 baals!	{"Judges_ch_2.docx": [2998], "1 Kings_ch_18.docx": [2514]}

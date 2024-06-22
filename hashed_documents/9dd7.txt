@@ -1,4 +1,2 @@
 
-door;	{"Job_ch_31.docx": [860], "Ezekiel_ch_37.docx": [2953, 2953, 2953], "Luke_ch_13.docx": [3246, 3246]}
-door;	{"Job_ch_31.docx": [860], "Ezekiel_ch_37.docx": [2953, 2953], "Luke_ch_13.docx": [3246]}
 door;	{"Job_ch_31.docx": [860], "Ezekiel_ch_37.docx": [2953], "Luke_ch_13.docx": [3246]}

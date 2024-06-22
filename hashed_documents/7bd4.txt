@@ -1,2 +1,0 @@
-
-32‘b	{"Leviticus_ch_4.docx": [4658], "Deuteronomy_ch_1.docx": [4718], "Proverbs_ch_1.docx": [3273], "Ezekiel_ch_21.docx": [5772], "Ezekiel_ch_36.docx": [5722]}

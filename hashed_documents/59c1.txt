@@ -1,4 +1,2 @@
 
-henc	{"Hebrews_ch_4.docx": [973]}
-74th	{"1 Chronicles_ch_6.docx": [6305]}
-henc	{"Hebrews_ch_4.docx": [973]}
+henc	{"Exodus_ch_40.docx": [4076], "Leviticus_ch_27.docx": [4619], "Hebrews_ch_4.docx": [973]}

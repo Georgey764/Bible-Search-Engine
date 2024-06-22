@@ -1,7 +1,3 @@
 
-ruler!	{"Judges_ch_8.docx": [4510], "2 Samuel_ch_19.docx": [3845, 3845, 3845], "Hosea_ch_13.docx": [1486, 1486, 1486], "Luke_ch_19.docx": [1682, 1682]}
-dissat	{"Proverbs_ch_28.docx": [2329]}
-ruler!	{"Judges_ch_8.docx": [4510], "2 Samuel_ch_19.docx": [3845, 3845], "Hosea_ch_13.docx": [1486, 1486], "Luke_ch_19.docx": [1682]}
-dissat	{"Proverbs_ch_28.docx": [2329]}
 ruler!	{"Judges_ch_8.docx": [4510], "2 Samuel_ch_19.docx": [3845], "Hosea_ch_13.docx": [1486], "Luke_ch_19.docx": [1682]}
 dissat	{"Proverbs_ch_28.docx": [2329]}

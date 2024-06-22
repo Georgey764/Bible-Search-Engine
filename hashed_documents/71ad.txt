@@ -1,4 +1,3 @@
 
-live;	{"Numbers_ch_14.docx": [4209], "Deuteronomy_ch_33.docx": [1681, 1681, 1681], "Psalms_ch_9.docx": [767, 767, 767], "Ezekiel_ch_33.docx": [5127, 5127, 5127], "Zephaniah_ch_2.docx": [2598, 2598, 2598]}
-live;	{"Numbers_ch_14.docx": [4209], "Deuteronomy_ch_33.docx": [1681, 1681], "Psalms_ch_9.docx": [767, 767], "Ezekiel_ch_33.docx": [5127, 5127], "Zephaniah_ch_2.docx": [2598, 2598]}
 live;	{"Numbers_ch_14.docx": [4209], "Deuteronomy_ch_33.docx": [1681], "Psalms_ch_9.docx": [767], "Ezekiel_ch_33.docx": [5127], "Zephaniah_ch_2.docx": [2598]}
+eliwe	{"Ezra_ch_10.docx": [4011, 4633]}

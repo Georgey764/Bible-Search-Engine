@@ -1,5 +1,2 @@
 
-traded	{"Job_ch_16.docx": [301], "Isaiah_ch_24.docx": [848, 848, 848], "Isaiah_ch_43.docx": [695, 695, 695], "Lamentations_ch_1.docx": [2707, 2707, 2707], "Hosea_ch_12.docx": [387, 387, 387]}
-49re	{"Joshua_ch_15.docx": [5543], "Psalms_ch_119.docx": [3869]}
-traded	{"Job_ch_16.docx": [301], "Isaiah_ch_24.docx": [848, 848], "Isaiah_ch_43.docx": [695, 695], "Lamentations_ch_1.docx": [2707, 2707], "Hosea_ch_12.docx": [387, 387]}
-traded	{"Job_ch_16.docx": [301], "Isaiah_ch_24.docx": [848], "Isaiah_ch_43.docx": [695], "Lamentations_ch_1.docx": [2707], "Hosea_ch_12.docx": [387]}
+traded	{"2 Chronicles_ch_36.docx": [3518], "Job_ch_16.docx": [301], "Isaiah_ch_24.docx": [848], "Isaiah_ch_43.docx": [695], "Lamentations_ch_1.docx": [2707], "Hosea_ch_12.docx": [387]}

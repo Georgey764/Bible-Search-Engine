@@ -1,4 +1,2 @@
 
-sophan	{"Numbers_ch_26.docx": [4501, 4506, 4506, 4506]}
-sophan	{"Numbers_ch_26.docx": [4501, 4506, 4506]}
 sophan	{"Numbers_ch_26.docx": [4501, 4506]}

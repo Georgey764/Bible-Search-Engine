@@ -1,7 +1,3 @@
 
-misada	{"Leviticus_ch_10.docx": [518], "Deuteronomy_ch_10.docx": [849, 849, 849]}
-sawe	{"1 Chronicles_ch_20.docx": [614], "Hebrews_ch_11.docx": [7142, 7142]}
-misada	{"Leviticus_ch_10.docx": [518], "Deuteronomy_ch_10.docx": [849, 849]}
-sawe	{"1 Chronicles_ch_20.docx": [614], "Hebrews_ch_11.docx": [7142]}
 misada	{"Leviticus_ch_10.docx": [518], "Deuteronomy_ch_10.docx": [849]}
 sawe	{"1 Chronicles_ch_20.docx": [614], "Hebrews_ch_11.docx": [7142]}

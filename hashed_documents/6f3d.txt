@@ -1,5 +1,2 @@
 
 latus	{"Genesis_ch_25.docx": [222]}
-latus	{"Genesis_ch_25.docx": [222]}
-37op	{"Numbers_ch_26.docx": [3780]}
-latus	{"Genesis_ch_25.docx": [222]}

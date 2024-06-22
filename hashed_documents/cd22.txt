@@ -1,5 +1,2 @@
 
-sella	{"Genesis_ch_4.docx": [2327, 2550, 2653, 2653, 2550, 2653], "Joshua_ch_21.docx": [4278, 4278]}
-sella	{"Genesis_ch_4.docx": [2327, 2653, 2550, 2653], "Joshua_ch_21.docx": [4278]}
-19show	{"Matthew_ch_22.docx": [2300]}
 sella	{"Genesis_ch_4.docx": [2327, 2550, 2653], "Joshua_ch_21.docx": [4278]}

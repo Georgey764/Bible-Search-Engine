@@ -1,2 +1,0 @@
-
-39an	{"Genesis_ch_30.docx": [4885], "Judges_ch_11.docx": [8829], "Judges_ch_20.docx": [5921], "1 Kings_ch_20.docx": [6998], "1 Chronicles_ch_8.docx": [2692], "Ezekiel_ch_16.docx": [6201], "Matthew_ch_12.docx": [4664], "Matthew_ch_13.docx": [5268]}

@@ -1,4 +1,2 @@
 
-blest;	{"Ezekiel_ch_26.docx": [3246], "Matthew_ch_5.docx": [381, 381, 381], "Luke_ch_10.docx": [3000, 3000]}
-blest;	{"Ezekiel_ch_26.docx": [3246], "Matthew_ch_5.docx": [381, 381], "Luke_ch_10.docx": [3000]}
 blest;	{"Ezekiel_ch_26.docx": [3246], "Matthew_ch_5.docx": [381], "Luke_ch_10.docx": [3000]}

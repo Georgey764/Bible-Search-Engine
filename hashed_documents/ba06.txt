@@ -1,4 +1,2 @@
 
-lic	{"Numbers_ch_22.docx": [379], "1 Kings_ch_18.docx": [6361, 6361, 6361], "1 Kings_ch_21.docx": [2693, 2700, 2693, 2700, 2693, 2700], "Psalms_ch_72.docx": [756, 756, 756], "Isaiah_ch_49.docx": [5078, 5078, 5078], "Luke_ch_16.docx": [3032, 3032]}
-lic	{"Numbers_ch_22.docx": [379], "1 Kings_ch_18.docx": [6361, 6361], "1 Kings_ch_21.docx": [2693, 2700, 2693, 2700], "Psalms_ch_72.docx": [756, 756], "Isaiah_ch_49.docx": [5078, 5078], "Luke_ch_16.docx": [3032]}
-lic	{"Numbers_ch_22.docx": [379], "1 Kings_ch_18.docx": [6361], "1 Kings_ch_21.docx": [2693, 2700], "Psalms_ch_72.docx": [756], "Isaiah_ch_49.docx": [5078], "Luke_ch_16.docx": [3032]}
+lic	{"Numbers_ch_22.docx": [379], "1 Kings_ch_18.docx": [6361], "1 Kings_ch_21.docx": [2693, 2700], "1 Kings_ch_22.docx": [6156], "Psalms_ch_72.docx": [756], "Isaiah_ch_49.docx": [5078], "Micah_ch_7.docx": [3715], "Luke_ch_16.docx": [3032]}

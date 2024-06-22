@@ -1,4 +1,2 @@
 
-moment	{"Isaiah_ch_29.docx": [841], "Matthew_ch_15.docx": [3132, 3132, 3132], "Matthew_ch_17.docx": [2053, 2053, 2053], "Acts_ch_11.docx": [1495, 1515, 1536, 1495, 1515, 1536], "Acts_ch_12.docx": [2055, 2055], "1 Corinthians_ch_4.docx": [1784, 1784], "1 Corinthians_ch_15.docx": [6158, 6158]}
-moment	{"Isaiah_ch_29.docx": [841], "Matthew_ch_15.docx": [3132, 3132], "Matthew_ch_17.docx": [2053, 2053], "Acts_ch_11.docx": [1495, 1515, 1536], "Acts_ch_12.docx": [2055], "1 Corinthians_ch_4.docx": [1784], "1 Corinthians_ch_15.docx": [6158]}
 moment	{"Isaiah_ch_29.docx": [841], "Matthew_ch_15.docx": [3132], "Matthew_ch_17.docx": [2053], "Acts_ch_11.docx": [1495, 1515, 1536], "Acts_ch_12.docx": [2055], "1 Corinthians_ch_4.docx": [1784], "1 Corinthians_ch_15.docx": [6158]}

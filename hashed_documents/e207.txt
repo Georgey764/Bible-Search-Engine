@@ -1,7 +1,3 @@
 
-brui	{"Leviticus_ch_24.docx": [2487, 2489, 2489], "Job_ch_9.docx": [1543, 1543, 1543], "Proverbs_ch_20.docx": [3471, 3471, 3471], "Isaiah_ch_53.docx": [745, 745, 745], "Matthew_ch_12.docx": [2208, 2208, 2208], "Luke_ch_9.docx": [5450, 5450]}
-hezron	{"1 Chronicles_ch_2.docx": [549, 831, 1424, 1752, 2149, 2157, 2303, 831, 1424, 1752, 2149, 2157, 2303, 831, 1424, 1752, 2149, 2157, 2303], "Matthew_ch_1.docx": [248, 270, 248, 270, 248, 270], "Luke_ch_3.docx": [6932, 6932]}
-brui	{"Leviticus_ch_24.docx": [2489, 2489], "Job_ch_9.docx": [1543, 1543], "Proverbs_ch_20.docx": [3471, 3471], "Isaiah_ch_53.docx": [745, 745], "Matthew_ch_12.docx": [2208, 2208], "Luke_ch_9.docx": [5450]}
-hezron	{"1 Chronicles_ch_2.docx": [549, 831, 1424, 1752, 2149, 2157, 2303, 831, 1424, 1752, 2149, 2157, 2303], "Matthew_ch_1.docx": [248, 270, 248, 270], "Luke_ch_3.docx": [6932]}
 brui	{"Leviticus_ch_24.docx": [2487, 2489], "Job_ch_9.docx": [1543], "Proverbs_ch_20.docx": [3471], "Isaiah_ch_53.docx": [745], "Matthew_ch_12.docx": [2208], "Luke_ch_9.docx": [5450]}
-hezron	{"1 Chronicles_ch_2.docx": [549, 831, 1424, 1752, 2149, 2157, 2303], "Matthew_ch_1.docx": [248, 270], "Luke_ch_3.docx": [6932]}
+hezron	{"Ruth_ch_4.docx": [3550, 3574], "1 Chronicles_ch_2.docx": [549, 831, 1424, 1752, 2149, 2157, 2303], "Matthew_ch_1.docx": [248, 270], "Luke_ch_3.docx": [6932]}

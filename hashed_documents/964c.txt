@@ -1,2 +1,0 @@
-
-37h	{"Genesis_ch_30.docx": [4506], "Numbers_ch_7.docx": [4276], "2 Samuel_ch_22.docx": [3517], "1 Kings_ch_7.docx": [4775], "2 Kings_ch_15.docx": [5457]}

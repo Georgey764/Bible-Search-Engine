@@ -1,5 +1,2 @@
 
-malal	{"Genesis_ch_4.docx": [2222, 2249, 2249, 2249]}
-malal	{"Genesis_ch_4.docx": [2222, 2249, 2249]}
-19do	{"Proverbs_ch_20.docx": [2550], "Jeremiah_ch_7.docx": [2893]}
 malal	{"Genesis_ch_4.docx": [2222, 2249]}

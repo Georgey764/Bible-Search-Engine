@@ -1,2 +1,2 @@
 
-compil	{"Psalms_ch_150.docx": [675]}
+compil	{"Genesis_ch_50.docx": [3833], "Exodus_ch_40.docx": [4202], "Leviticus_ch_27.docx": [4709], "Numbers_ch_36.docx": [2287, 2522], "Ruth_ch_4.docx": [4079], "Psalms_ch_150.docx": [675], "Lamentations_ch_5.docx": [2129], "Malachi_ch_4.docx": [1140], "Luke_ch_24.docx": [6033, 6237]}

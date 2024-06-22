@@ -1,5 +1,2 @@
 
-unsha	{"Isaiah_ch_33.docx": [3172], "Acts_ch_22.docx": [6872, 6872], "Romans_ch_1.docx": [1088, 1088]}
-unsha	{"Isaiah_ch_33.docx": [3172], "Acts_ch_22.docx": [6872], "Romans_ch_1.docx": [1088]}
-12‘je	{"Jeremiah_ch_19.docx": [2324], "Jeremiah_ch_30.docx": [1948], "Amos_ch_3.docx": [2058]}
 unsha	{"Isaiah_ch_33.docx": [3172], "Acts_ch_22.docx": [6872], "Romans_ch_1.docx": [1088]}

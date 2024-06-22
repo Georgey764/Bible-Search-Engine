@@ -1,4 +1,2 @@
 
 slave;	{"Psalms_ch_119.docx": [10463]}
-slave;	{"Psalms_ch_119.docx": [10463]}
-slave;	{"Psalms_ch_119.docx": [10463]}

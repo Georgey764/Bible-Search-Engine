@@ -1,7 +1,3 @@
 
 blotch	{"Leviticus_ch_13.docx": [5996]}
 ιησούν	{"Zechariah_ch_3.docx": [12]}
-blotch	{"Leviticus_ch_13.docx": [5996]}
-ιησούν	{"Zechariah_ch_3.docx": [12]}
-blotch	{"Leviticus_ch_13.docx": [5996]}
-ιησούν	{"Zechariah_ch_3.docx": [12]}

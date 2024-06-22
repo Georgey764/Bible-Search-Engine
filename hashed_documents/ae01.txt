@@ -1,4 +1,2 @@
 
-azub	{"2 Chronicles_ch_20.docx": [5379]}
-azub	{"2 Chronicles_ch_20.docx": [5379]}
-azub	{"2 Chronicles_ch_20.docx": [5379]}
+azub	{"1 Kings_ch_22.docx": [6809], "2 Chronicles_ch_20.docx": [5379]}

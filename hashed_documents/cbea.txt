@@ -1,4 +1,2 @@
 
 splash	{"Exodus_ch_12.docx": [768]}
-splash	{"Exodus_ch_12.docx": [768]}
-splash	{"Exodus_ch_12.docx": [768]}

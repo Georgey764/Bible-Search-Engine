@@ -1,10 +1,4 @@
 
-eagles	{"Exodus_ch_19.docx": [480], "Leviticus_ch_11.docx": [1747, 1750, 1747, 1750, 1747, 1750], "Deuteronomy_ch_14.docx": [1238, 1238, 1238], "Deuteronomy_ch_28.docx": [6772, 6772, 6772], "2 Samuel_ch_1.docx": [3289, 3289, 3289], "Job_ch_9.docx": [2429, 2429, 2429], "Job_ch_28.docx": [694, 694, 694], "Job_ch_39.docx": [2448, 2448, 2448], "Psalms_ch_103.docx": [439, 439, 439], "Isaiah_ch_40.docx": [4534, 4534, 4534], "Jeremiah_ch_4.docx": [2488, 2488, 2488], "Jeremiah_ch_49.docx": [2999, 2999, 2999], "Lamentations_ch_4.docx": [3160, 3160, 3160], "Habakkuk_ch_1.docx": [1443, 1443, 1443]}
-ruby	{"Exodus_ch_28.docx": [2221]}
-misfor	{"Jeremiah_ch_15.docx": [1872]}
-eagles	{"Exodus_ch_19.docx": [480], "Leviticus_ch_11.docx": [1747, 1750, 1747, 1750], "Deuteronomy_ch_14.docx": [1238, 1238], "Deuteronomy_ch_28.docx": [6772, 6772], "2 Samuel_ch_1.docx": [3289, 3289], "Job_ch_9.docx": [2429, 2429], "Job_ch_28.docx": [694, 694], "Job_ch_39.docx": [2448, 2448], "Psalms_ch_103.docx": [439, 439], "Isaiah_ch_40.docx": [4534, 4534], "Jeremiah_ch_4.docx": [2488, 2488], "Jeremiah_ch_49.docx": [2999, 2999], "Lamentations_ch_4.docx": [3160, 3160], "Habakkuk_ch_1.docx": [1443, 1443]}
-ruby	{"Exodus_ch_28.docx": [2221]}
-misfor	{"Jeremiah_ch_15.docx": [1872]}
 eagles	{"Exodus_ch_19.docx": [480], "Leviticus_ch_11.docx": [1747, 1750], "Deuteronomy_ch_14.docx": [1238], "Deuteronomy_ch_28.docx": [6772], "2 Samuel_ch_1.docx": [3289], "Job_ch_9.docx": [2429], "Job_ch_28.docx": [694], "Job_ch_39.docx": [2448], "Psalms_ch_103.docx": [439], "Isaiah_ch_40.docx": [4534], "Jeremiah_ch_4.docx": [2488], "Jeremiah_ch_49.docx": [2999], "Lamentations_ch_4.docx": [3160], "Habakkuk_ch_1.docx": [1443]}
 ruby	{"Exodus_ch_28.docx": [2221]}
 misfor	{"Jeremiah_ch_15.docx": [1872]}

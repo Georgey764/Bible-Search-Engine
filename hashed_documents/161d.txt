@@ -1,4 +1,2 @@
 
-bathue	{"Genesis_ch_22.docx": [3365, 3366, 3366, 3366], "Genesis_ch_24.docx": [2282, 3635, 7220, 7688, 2282, 3635, 7220, 7688, 2282, 3635, 7220, 7688], "Genesis_ch_25.docx": [1988, 1988, 1988], "Genesis_ch_28.docx": [106, 637, 106, 637, 106, 637], "Genesis_ch_29.docx": [20, 20, 20], "Joel_ch_1.docx": [15, 15, 15]}
-bathue	{"Genesis_ch_22.docx": [3365, 3366, 3366], "Genesis_ch_24.docx": [2282, 3635, 7220, 7688, 2282, 3635, 7220, 7688], "Genesis_ch_25.docx": [1988, 1988], "Genesis_ch_28.docx": [106, 637, 106, 637], "Genesis_ch_29.docx": [20, 20], "Joel_ch_1.docx": [15, 15]}
 bathue	{"Genesis_ch_22.docx": [3365, 3366], "Genesis_ch_24.docx": [2282, 3635, 7220, 7688], "Genesis_ch_25.docx": [1988], "Genesis_ch_28.docx": [106, 637], "Genesis_ch_29.docx": [20], "Joel_ch_1.docx": [15]}

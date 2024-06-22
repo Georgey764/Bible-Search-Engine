@@ -1,4 +1,2 @@
 
-snow!	{"Exodus_ch_4.docx": [867], "Numbers_ch_12.docx": [1129, 1129, 1129]}
-snow!	{"Exodus_ch_4.docx": [867], "Numbers_ch_12.docx": [1129, 1129]}
 snow!	{"Exodus_ch_4.docx": [867], "Numbers_ch_12.docx": [1129]}

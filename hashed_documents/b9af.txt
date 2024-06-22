@@ -1,4 +1,2 @@
 
-esthao	{"Judges_ch_18.docx": [236, 1870, 2399, 1870, 2399, 1870, 2399]}
-esthao	{"Judges_ch_18.docx": [236, 1870, 2399, 1870, 2399]}
 esthao	{"Judges_ch_18.docx": [236, 1870, 2399]}

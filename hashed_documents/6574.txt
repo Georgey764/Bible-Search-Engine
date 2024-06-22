@@ -1,3 +1,0 @@
-
-35wel	{"Genesis_ch_19.docx": [5500], "1 Kings_ch_2.docx": [6213], "1 Kings_ch_20.docx": [6413], "Matthew_ch_9.docx": [4669]}
-2ther	{"1 Samuel_ch_2.docx": [306], "1 Kings_ch_2.docx": [115], "2 Chronicles_ch_5.docx": [220]}

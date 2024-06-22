@@ -1,4 +1,2 @@
 
-choked	{"Matthew_ch_13.docx": [661], "Mark_ch_4.docx": [708, 1952, 708, 1952], "Luke_ch_8.docx": [927, 1898, 927, 1898]}
-choked	{"Matthew_ch_13.docx": [661], "Mark_ch_4.docx": [708, 1952], "Luke_ch_8.docx": [927, 1898]}
 choked	{"Matthew_ch_13.docx": [661], "Mark_ch_4.docx": [708, 1952], "Luke_ch_8.docx": [927, 1898]}

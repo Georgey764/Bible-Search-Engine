@@ -8,21 +8,3 @@ so	{"1 Chronicles_ch_6.docx": [3659]}
 so	{"1 Chronicles_ch_6.docx": [3676]}
 so	{"1 Chronicles_ch_6.docx": [3694]}
 so	{"1 Chronicles_ch_7.docx": [3794]}
-so	{"1 Chronicles_ch_6.docx": [3493, 3509]}
-so	{"1 Chronicles_ch_6.docx": [3567]}
-so	{"1 Chronicles_ch_6.docx": [3587]}
-so	{"1 Chronicles_ch_6.docx": [3607]}
-so	{"1 Chronicles_ch_6.docx": [3623]}
-so	{"1 Chronicles_ch_6.docx": [3659]}
-so	{"1 Chronicles_ch_6.docx": [3676]}
-so	{"1 Chronicles_ch_6.docx": [3694]}
-so	{"1 Chronicles_ch_7.docx": [3794]}
-so	{"1 Chronicles_ch_6.docx": [3493, 3509]}
-so	{"1 Chronicles_ch_6.docx": [3567]}
-so	{"1 Chronicles_ch_6.docx": [3587]}
-so	{"1 Chronicles_ch_6.docx": [3607]}
-so	{"1 Chronicles_ch_6.docx": [3623]}
-so	{"1 Chronicles_ch_6.docx": [3659]}
-so	{"1 Chronicles_ch_6.docx": [3676]}
-so	{"1 Chronicles_ch_6.docx": [3694]}
-so	{"1 Chronicles_ch_7.docx": [3794]}

@@ -1,7 +1,3 @@
 
-mod	{"Numbers_ch_11.docx": [4086, 4419, 4419, 4419], "1 Chronicles_ch_2.docx": [2781, 2781, 2781], "Esther_ch_4.docx": [1793, 1793, 1793], "1 Timothy_ch_2.docx": [970, 970], "1 Timothy_ch_3.docx": [209, 1290, 209, 1290]}
-rooft	{"Jeremiah_ch_48.docx": [5235], "Matthew_ch_10.docx": [3539, 3539, 3539], "Mark_ch_13.docx": [1990, 1990], "Luke_ch_12.docx": [492, 492]}
-mod	{"Numbers_ch_11.docx": [4086, 4419, 4419], "1 Chronicles_ch_2.docx": [2781, 2781], "Esther_ch_4.docx": [1793, 1793], "1 Timothy_ch_2.docx": [970], "1 Timothy_ch_3.docx": [209, 1290]}
-rooft	{"Jeremiah_ch_48.docx": [5235], "Matthew_ch_10.docx": [3539, 3539], "Mark_ch_13.docx": [1990], "Luke_ch_12.docx": [492]}
-mod	{"Numbers_ch_11.docx": [4086, 4419], "1 Chronicles_ch_2.docx": [2781], "Esther_ch_4.docx": [1793], "1 Timothy_ch_2.docx": [970], "1 Timothy_ch_3.docx": [209, 1290]}
+mod	{"Numbers_ch_11.docx": [4086, 4419], "1 Samuel_ch_31.docx": [2193], "2 Samuel_ch_24.docx": [6122], "1 Kings_ch_22.docx": [9919], "1 Chronicles_ch_2.docx": [2781], "Esther_ch_4.docx": [1793], "Ezekiel_ch_48.docx": [7195], "Daniel_ch_12.docx": [3554], "Obadiah_ch_1.docx": [4451], "Micah_ch_7.docx": [4786], "Malachi_ch_4.docx": [1330, 3075], "Matthew_ch_28.docx": [2895, 4008], "Mark_ch_16.docx": [3355], "John_ch_21.docx": [4671], "1 Timothy_ch_2.docx": [970], "1 Timothy_ch_3.docx": [209, 1290], "James_ch_5.docx": [3633]}
 rooft	{"Jeremiah_ch_48.docx": [5235], "Matthew_ch_10.docx": [3539], "Mark_ch_13.docx": [1990], "Luke_ch_12.docx": [492]}

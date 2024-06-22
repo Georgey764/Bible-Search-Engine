@@ -1,4 +1,2 @@
 
-offens	{"Leviticus_ch_18.docx": [2186], "Proverbs_ch_17.docx": [901, 901, 901], "Isaiah_ch_59.docx": [1932, 1932, 1932], "Jeremiah_ch_16.docx": [3020, 3020, 3020], "Acts_ch_25.docx": [2707, 2707], "Romans_ch_9.docx": [4342, 4342]}
-offens	{"Leviticus_ch_18.docx": [2186], "Proverbs_ch_17.docx": [901, 901], "Isaiah_ch_59.docx": [1932, 1932], "Jeremiah_ch_16.docx": [3020, 3020], "Acts_ch_25.docx": [2707], "Romans_ch_9.docx": [4342]}
-offens	{"Leviticus_ch_18.docx": [2186], "Proverbs_ch_17.docx": [901], "Isaiah_ch_59.docx": [1932], "Jeremiah_ch_16.docx": [3020], "Acts_ch_25.docx": [2707], "Romans_ch_9.docx": [4342]}
+offens	{"Leviticus_ch_18.docx": [2186], "Proverbs_ch_17.docx": [901], "Isaiah_ch_59.docx": [1932], "Jeremiah_ch_16.docx": [3020], "Zephaniah_ch_3.docx": [3208], "Acts_ch_25.docx": [2707], "Romans_ch_9.docx": [4342]}

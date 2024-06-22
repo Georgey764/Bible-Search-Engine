@@ -1,2 +1,0 @@
-
-2sayi	{"Job_ch_3.docx": [15], "Jonah_ch_2.docx": [19], "Matthew_ch_3.docx": [21]}

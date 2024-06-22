@@ -1,4 +1,2 @@
 
-ephah	{"Exodus_ch_16.docx": [5486], "Isaiah_ch_60.docx": [830, 830, 830]}
-ephah	{"Exodus_ch_16.docx": [5486], "Isaiah_ch_60.docx": [830, 830]}
 ephah	{"Exodus_ch_16.docx": [5486], "Isaiah_ch_60.docx": [830]}

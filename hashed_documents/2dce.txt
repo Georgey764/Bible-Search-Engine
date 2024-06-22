@@ -1,4 +1,2 @@
 
-undo	{"Nehemiah_ch_4.docx": [1181], "Esther_ch_8.docx": [420, 420, 420], "Job_ch_14.docx": [1072, 1711, 1072, 1711, 1072, 1711], "Job_ch_15.docx": [1900, 1900, 1900], "Job_ch_40.docx": [641, 641, 641], "Proverbs_ch_1.docx": [2807, 2807, 2807], "Jeremiah_ch_49.docx": [1383, 1383, 1383], "Luke_ch_4.docx": [3126, 3126]}
-undo	{"Nehemiah_ch_4.docx": [1181], "Esther_ch_8.docx": [420, 420], "Job_ch_14.docx": [1072, 1711, 1072, 1711], "Job_ch_15.docx": [1900, 1900], "Job_ch_40.docx": [641, 641], "Proverbs_ch_1.docx": [2807, 2807], "Jeremiah_ch_49.docx": [1383, 1383], "Luke_ch_4.docx": [3126]}
-undo	{"Nehemiah_ch_4.docx": [1181], "Esther_ch_8.docx": [420], "Job_ch_14.docx": [1072, 1711], "Job_ch_15.docx": [1900], "Job_ch_40.docx": [641], "Proverbs_ch_1.docx": [2807], "Jeremiah_ch_49.docx": [1383], "Luke_ch_4.docx": [3126]}
+undo	{"Nehemiah_ch_4.docx": [1181], "Esther_ch_8.docx": [420], "Job_ch_14.docx": [1072, 1711], "Job_ch_15.docx": [1900], "Job_ch_40.docx": [641], "Proverbs_ch_1.docx": [2807], "Jeremiah_ch_49.docx": [1383], "Luke_ch_4.docx": [3126], "2 Timothy_ch_4.docx": [889, 904]}

@@ -1,4 +1,2 @@
 
-maoch	{"1 Samuel_ch_27.docx": [275], "1 Chronicles_ch_6.docx": [3511, 3511, 3511]}
-maoch	{"1 Samuel_ch_27.docx": [275], "1 Chronicles_ch_6.docx": [3511, 3511]}
 maoch	{"1 Samuel_ch_27.docx": [275], "1 Chronicles_ch_6.docx": [3511]}

@@ -1,6 +1,2 @@
 
 logs	{"Ecclesiastes_ch_10.docx": [987]}
-36hal	{"Numbers_ch_31.docx": [4021]}
-logs	{"Ecclesiastes_ch_10.docx": [987]}
-39‘i’l	{"Jeremiah_ch_32.docx": [6738]}
-logs	{"Ecclesiastes_ch_10.docx": [987]}

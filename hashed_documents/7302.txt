@@ -1,4 +1,2 @@
 
-addic	{"Isaiah_ch_19.docx": [1931], "Isaiah_ch_22.docx": [489, 489, 489], "Isaiah_ch_30.docx": [1698, 5053, 1698, 5053, 1698, 5053], "Jeremiah_ch_4.docx": [2120, 2120, 2120], "2 Timothy_ch_3.docx": [528, 528]}
-addic	{"Isaiah_ch_19.docx": [1931], "Isaiah_ch_22.docx": [489, 489], "Isaiah_ch_30.docx": [1698, 5053, 1698, 5053], "Jeremiah_ch_4.docx": [2120, 2120], "2 Timothy_ch_3.docx": [528]}
 addic	{"Isaiah_ch_19.docx": [1931], "Isaiah_ch_22.docx": [489], "Isaiah_ch_30.docx": [1698, 5053], "Jeremiah_ch_4.docx": [2120], "2 Timothy_ch_3.docx": [528]}

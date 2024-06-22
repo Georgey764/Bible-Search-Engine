@@ -1,10 +1,4 @@
 
-fresh	{"Numbers_ch_6.docx": [150], "1 Chronicles_ch_16.docx": [230, 230, 230], "Song of Solomon_ch_4.docx": [240, 240, 240], "Song of Solomon_ch_5.docx": [2269, 2269, 2269], "Song of Solomon_ch_6.docx": [767, 767, 767], "Jeremiah_ch_24.docx": [55, 55, 55]}
-ridden	{"Numbers_ch_22.docx": [4214], "2 Kings_ch_19.docx": [3911, 3911, 3911], "Jeremiah_ch_12.docx": [852, 852, 852], "Mark_ch_11.docx": [202, 202], "Luke_ch_19.docx": [3635, 3635]}
-eseli	{"2 Kings_ch_22.docx": [376], "2 Chronicles_ch_34.docx": [1346, 1346, 1346]}
-fresh	{"Numbers_ch_6.docx": [150], "1 Chronicles_ch_16.docx": [230, 230], "Song of Solomon_ch_4.docx": [240, 240], "Song of Solomon_ch_5.docx": [2269, 2269], "Song of Solomon_ch_6.docx": [767, 767], "Jeremiah_ch_24.docx": [55, 55]}
-ridden	{"Numbers_ch_22.docx": [4214], "2 Kings_ch_19.docx": [3911, 3911], "Jeremiah_ch_12.docx": [852, 852], "Mark_ch_11.docx": [202], "Luke_ch_19.docx": [3635]}
-eseli	{"2 Kings_ch_22.docx": [376], "2 Chronicles_ch_34.docx": [1346, 1346]}
-fresh	{"Numbers_ch_6.docx": [150], "1 Chronicles_ch_16.docx": [230], "Song of Solomon_ch_4.docx": [240], "Song of Solomon_ch_5.docx": [2269], "Song of Solomon_ch_6.docx": [767], "Jeremiah_ch_24.docx": [55]}
+fresh	{"Numbers_ch_6.docx": [150], "1 Chronicles_ch_16.docx": [230], "Song of Solomon_ch_4.docx": [240], "Song of Solomon_ch_5.docx": [2269], "Song of Solomon_ch_6.docx": [767], "Jeremiah_ch_24.docx": [55], "1 Corinthians_ch_16.docx": [2851]}
 ridden	{"Numbers_ch_22.docx": [4214], "2 Kings_ch_19.docx": [3911], "Jeremiah_ch_12.docx": [852], "Mark_ch_11.docx": [202], "Luke_ch_19.docx": [3635]}
 eseli	{"2 Kings_ch_22.docx": [376], "2 Chronicles_ch_34.docx": [1346]}

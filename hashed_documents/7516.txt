@@ -1,4 +1,2 @@
 
-school	{"Daniel_ch_1.docx": [453], "Acts_ch_13.docx": [99, 99], "Acts_ch_19.docx": [1499, 1499], "Acts_ch_22.docx": [318, 318]}
-school	{"Daniel_ch_1.docx": [453], "Acts_ch_13.docx": [99], "Acts_ch_19.docx": [1499], "Acts_ch_22.docx": [318]}
-school	{"Daniel_ch_1.docx": [453], "Acts_ch_13.docx": [99], "Acts_ch_19.docx": [1499], "Acts_ch_22.docx": [318]}
+school	{"2 Chronicles_ch_36.docx": [7508], "Daniel_ch_1.docx": [453], "Acts_ch_13.docx": [99], "Acts_ch_19.docx": [1499], "Acts_ch_22.docx": [318]}

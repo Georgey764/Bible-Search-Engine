@@ -1,0 +1,2 @@
+
+critic	{"Ezra_ch_10.docx": [6560], "John_ch_21.docx": [4672], "2 Timothy_ch_4.docx": [268]}

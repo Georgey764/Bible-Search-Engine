@@ -1,5 +1,2 @@
 
 mends	{"Psalms_ch_147.docx": [219]}
-52ma	{"1 Chronicles_ch_6.docx": [4214]}
-mends	{"Psalms_ch_147.docx": [219]}
-mends	{"Psalms_ch_147.docx": [219]}

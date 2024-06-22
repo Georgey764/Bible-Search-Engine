@@ -1,2 +1,0 @@
-
-21‘you	{"Exodus_ch_22.docx": [2954], "Exodus_ch_34.docx": [3161], "Leviticus_ch_11.docx": [2134], "Leviticus_ch_18.docx": [2530], "Leviticus_ch_23.docx": [3011], "Deuteronomy_ch_5.docx": [2315], "Deuteronomy_ch_6.docx": [2802], "Deuteronomy_ch_16.docx": [3424], "Jeremiah_ch_32.docx": [3539], "Lamentations_ch_2.docx": [4689], "Ezekiel_ch_24.docx": [2875], "Matthew_ch_5.docx": [2306]}

@@ -1,4 +1,2 @@
 
-now;	{"Numbers_ch_24.docx": [2221], "2 Chronicles_ch_15.docx": [653, 653, 653], "Ecclesiastes_ch_2.docx": [58, 58, 58], "Matthew_ch_12.docx": [3466, 3466, 3466], "Matthew_ch_25.docx": [3246, 3246, 3246], "Luke_ch_22.docx": [4090, 4090]}
-now;	{"Numbers_ch_24.docx": [2221], "2 Chronicles_ch_15.docx": [653, 653], "Ecclesiastes_ch_2.docx": [58, 58], "Matthew_ch_12.docx": [3466, 3466], "Matthew_ch_25.docx": [3246, 3246], "Luke_ch_22.docx": [4090]}
 now;	{"Numbers_ch_24.docx": [2221], "2 Chronicles_ch_15.docx": [653], "Ecclesiastes_ch_2.docx": [58], "Matthew_ch_12.docx": [3466], "Matthew_ch_25.docx": [3246], "Luke_ch_22.docx": [4090]}

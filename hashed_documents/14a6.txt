@@ -1,4 +1,2 @@
 
-impu	{"Genesis_ch_31.docx": [4665], "Job_ch_25.docx": [394, 394, 394], "Proverbs_ch_7.docx": [1157, 1157, 1157], "Proverbs_ch_19.docx": [1183, 1183, 1183], "Proverbs_ch_21.docx": [2823, 2823, 2823], "Proverbs_ch_25.docx": [2319, 2319, 2319], "Ecclesiastes_ch_8.docx": [65, 65, 65], "Isaiah_ch_56.docx": [1918, 1918, 1918]}
-impu	{"Genesis_ch_31.docx": [4665], "Job_ch_25.docx": [394, 394], "Proverbs_ch_7.docx": [1157, 1157], "Proverbs_ch_19.docx": [1183, 1183], "Proverbs_ch_21.docx": [2823, 2823], "Proverbs_ch_25.docx": [2319, 2319], "Ecclesiastes_ch_8.docx": [65, 65], "Isaiah_ch_56.docx": [1918, 1918]}
 impu	{"Genesis_ch_31.docx": [4665], "Job_ch_25.docx": [394], "Proverbs_ch_7.docx": [1157], "Proverbs_ch_19.docx": [1183], "Proverbs_ch_21.docx": [2823], "Proverbs_ch_25.docx": [2319], "Ecclesiastes_ch_8.docx": [65], "Isaiah_ch_56.docx": [1918]}

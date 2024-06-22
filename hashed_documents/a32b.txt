@@ -1,3 +1,2 @@
 
-gaiu	{"Acts_ch_19.docx": [8876, 8890, 8905, 8890, 8905], "Acts_ch_20.docx": [2033, 2038, 2044, 2033, 2038, 2044], "1 Corinthians_ch_1.docx": [1788, 1788]}
-gaiu	{"Acts_ch_19.docx": [8876, 8890, 8905], "Acts_ch_20.docx": [2033, 2038, 2044], "1 Corinthians_ch_1.docx": [1788]}
+gaiu	{"Acts_ch_19.docx": [8876, 8890, 8905], "Acts_ch_20.docx": [2033, 2038, 2044], "Romans_ch_16.docx": [3012], "1 Corinthians_ch_1.docx": [1788], "3 John_ch_1.docx": [11]}

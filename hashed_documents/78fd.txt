@@ -1,2 +1,0 @@
-
-15‘b	{"2 Samuel_ch_7.docx": [2224], "2 Kings_ch_3.docx": [2339], "Job_ch_13.docx": [1219], "Isaiah_ch_32.docx": [2135], "Isaiah_ch_49.docx": [3314], "Isaiah_ch_60.docx": [2356], "Jeremiah_ch_12.docx": [2589], "Jeremiah_ch_16.docx": [2445], "Jeremiah_ch_29.docx": [2089], "Ezekiel_ch_17.docx": [2484], "Ezekiel_ch_29.docx": [2576], "Habakkuk_ch_2.docx": [2395], "Malachi_ch_2.docx": [2869], "Matthew_ch_7.docx": [1786]}

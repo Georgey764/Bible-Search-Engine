@@ -1,4 +1,3 @@
 
-rudel	{"Judges_ch_8.docx": [3193], "John_ch_9.docx": [3239, 3239]}
 rudel	{"Judges_ch_8.docx": [3193], "John_ch_9.docx": [3239]}
-rudel	{"Judges_ch_8.docx": [3193], "John_ch_9.docx": [3239]}
+synty	{"Philippians_ch_4.docx": [161]}

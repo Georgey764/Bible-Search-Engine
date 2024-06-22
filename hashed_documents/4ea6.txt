@@ -1,4 +1,2 @@
 
-ablaz	{"Jeremiah_ch_51.docx": [5061], "Lamentations_ch_2.docx": [618, 618, 618], "James_ch_3.docx": [778, 778]}
-ablaz	{"Jeremiah_ch_51.docx": [5061], "Lamentations_ch_2.docx": [618, 618], "James_ch_3.docx": [778]}
 ablaz	{"Jeremiah_ch_51.docx": [5061], "Lamentations_ch_2.docx": [618], "James_ch_3.docx": [778]}

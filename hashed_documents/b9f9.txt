@@ -1,5 +1,2 @@
 
-horo	{"Nehemiah_ch_2.docx": [1820, 4995, 4995, 4995], "Isaiah_ch_15.docx": [950, 950, 950], "Jeremiah_ch_48.docx": [372, 577, 4566, 372, 577, 4566, 372, 577, 4566]}
-40‘i’l	{"Genesis_ch_41.docx": [4984], "Jeremiah_ch_51.docx": [6699]}
-horo	{"Nehemiah_ch_2.docx": [1820, 4995, 4995], "Isaiah_ch_15.docx": [950, 950], "Jeremiah_ch_48.docx": [372, 577, 4566, 372, 577, 4566]}
 horo	{"Nehemiah_ch_2.docx": [1820, 4995], "Isaiah_ch_15.docx": [950], "Jeremiah_ch_48.docx": [372, 577, 4566]}

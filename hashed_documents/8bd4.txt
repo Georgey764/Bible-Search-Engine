@@ -1,8 +1,3 @@
 
-draggi	{"Genesis_ch_38.docx": [3469], "Acts_ch_8.docx": [1761, 1761], "James_ch_2.docx": [750, 750], "Revelation_ch_12.docx": [340, 340]}
-renami	{"Judges_ch_18.docx": [6009, 6012, 6038, 6038, 6012, 6038], "2 Kings_ch_14.docx": [982, 982, 982]}
-draggi	{"Genesis_ch_38.docx": [3469], "Acts_ch_8.docx": [1761], "James_ch_2.docx": [750], "Revelation_ch_12.docx": [340]}
-renami	{"Judges_ch_18.docx": [6012, 6038, 6012, 6038], "2 Kings_ch_14.docx": [982, 982]}
-37‘le	{"Matthew_ch_5.docx": [4675]}
-draggi	{"Genesis_ch_38.docx": [3469], "Acts_ch_8.docx": [1761], "James_ch_2.docx": [750], "Revelation_ch_12.docx": [340]}
+draggi	{"Genesis_ch_38.docx": [3469], "John_ch_21.docx": [1323], "Acts_ch_8.docx": [1761], "James_ch_2.docx": [750], "Revelation_ch_12.docx": [340]}
 renami	{"Judges_ch_18.docx": [6009, 6012, 6038], "2 Kings_ch_14.docx": [982]}

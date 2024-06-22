@@ -2,8 +2,3 @@
 /50th	{"Numbers_ch_31.docx": [4804]}
 sea‘it	{"Joshua_ch_13.docx": [10890]}
 induc	{"Ezekiel_ch_16.docx": [5179]}
-sea‘it	{"Joshua_ch_13.docx": [10890]}
-induc	{"Ezekiel_ch_16.docx": [5179]}
-/50th	{"Numbers_ch_31.docx": [4804]}
-sea‘it	{"Joshua_ch_13.docx": [10890]}
-induc	{"Ezekiel_ch_16.docx": [5179]}

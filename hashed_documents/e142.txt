@@ -1,6 +1,2 @@
 
-formi	{"Genesis_ch_5.docx": [18], "2 Samuel_ch_5.docx": [2438, 2438, 2438], "2 Chronicles_ch_13.docx": [2385, 2385, 2385]}
-formi	{"Genesis_ch_5.docx": [18], "2 Samuel_ch_5.docx": [2438, 2438], "2 Chronicles_ch_13.docx": [2385, 2385]}
-22bu	{"Genesis_ch_9.docx": [2575], "Genesis_ch_14.docx": [3100], "Genesis_ch_19.docx": [3487], "Genesis_ch_32.docx": [3039], "Numbers_ch_16.docx": [3078], "Numbers_ch_22.docx": [2959], "2 Samuel_ch_5.docx": [3263], "1 Kings_ch_2.docx": [3366], "1 Kings_ch_3.docx": [3648], "1 Kings_ch_14.docx": [3942], "2 Kings_ch_3.docx": [3315], "2 Kings_ch_6.docx": [3253], "2 Chronicles_ch_28.docx": [3566], "Psalms_ch_34.docx": [1871], "Psalms_ch_104.docx": [2187], "Isaiah_ch_48.docx": [3864], "Matthew_ch_8.docx": [2782], "Matthew_ch_16.docx": [2978], "Matthew_ch_18.docx": [2993], "Matthew_ch_20.docx": [2806]}
-3-1/2	{"2 Kings_ch_15.docx": [2627], "2 Chronicles_ch_9.docx": [1402], "Daniel_ch_7.docx": [4830]}
 formi	{"Genesis_ch_5.docx": [18], "2 Samuel_ch_5.docx": [2438], "2 Chronicles_ch_13.docx": [2385]}

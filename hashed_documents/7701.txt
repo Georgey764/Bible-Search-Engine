@@ -1,4 +1,2 @@
 
-uproa	{"1 Kings_ch_1.docx": [5900], "Esther_ch_3.docx": [2661, 2661, 2661], "Mark_ch_5.docx": [4482, 4482], "Acts_ch_17.docx": [1027, 1027], "Acts_ch_21.docx": [9185, 9313, 9332, 9352, 9185, 9313, 9332, 9352]}
-uproa	{"1 Kings_ch_1.docx": [5900], "Esther_ch_3.docx": [2661, 2661], "Mark_ch_5.docx": [4482], "Acts_ch_17.docx": [1027], "Acts_ch_21.docx": [9185, 9313, 9332, 9352]}
 uproa	{"1 Kings_ch_1.docx": [5900], "Esther_ch_3.docx": [2661], "Mark_ch_5.docx": [4482], "Acts_ch_17.docx": [1027], "Acts_ch_21.docx": [9185, 9313, 9332, 9352]}

@@ -1,10 +1,4 @@
 
-obl	{"Numbers_ch_30.docx": [511, 768, 995, 1028, 1255, 1522, 1778, 2025, 768, 995, 1028, 1255, 1522, 1778, 2025, 768, 995, 1028, 1255, 1522, 1778, 2025], "Acts_ch_1.docx": [4560, 4560], "Galatians_ch_5.docx": [343, 343], "Colossians_ch_1.docx": [3828, 3828], "2 Thessalonians_ch_1.docx": [557, 557], "2 Thessalonians_ch_2.docx": [1995, 1995], "Hebrews_ch_2.docx": [2705, 2705], "1 John_ch_2.docx": [604, 604], "1 John_ch_4.docx": [1422, 1422]}
-ford	{"Joshua_ch_2.docx": [922], "Judges_ch_12.docx": [918, 1195, 1226, 918, 1195, 1226, 918, 1195, 1226], "1 Samuel_ch_14.docx": [586, 586, 586], "2 Samuel_ch_19.docx": [3111, 3111, 3111], "Isaiah_ch_51.docx": [2034, 2034, 2034]}
-cheer!	{"Psalms_ch_33.docx": [231]}
-obl	{"Numbers_ch_30.docx": [511, 768, 995, 1028, 1255, 1522, 1778, 2025, 768, 995, 1028, 1255, 1522, 1778, 2025], "Acts_ch_1.docx": [4560], "Galatians_ch_5.docx": [343], "Colossians_ch_1.docx": [3828], "2 Thessalonians_ch_1.docx": [557], "2 Thessalonians_ch_2.docx": [1995], "Hebrews_ch_2.docx": [2705], "1 John_ch_2.docx": [604], "1 John_ch_4.docx": [1422]}
-ford	{"Joshua_ch_2.docx": [922], "Judges_ch_12.docx": [918, 1195, 1226, 918, 1195, 1226], "1 Samuel_ch_14.docx": [586, 586], "2 Samuel_ch_19.docx": [3111, 3111], "Isaiah_ch_51.docx": [2034, 2034]}
-cheer!	{"Psalms_ch_33.docx": [231]}
-obl	{"Numbers_ch_30.docx": [511, 768, 995, 1028, 1255, 1522, 1778, 2025], "Acts_ch_1.docx": [4560], "Galatians_ch_5.docx": [343], "Colossians_ch_1.docx": [3828], "2 Thessalonians_ch_1.docx": [557], "2 Thessalonians_ch_2.docx": [1995], "Hebrews_ch_2.docx": [2705], "1 John_ch_2.docx": [604], "1 John_ch_4.docx": [1422]}
+obl	{"Numbers_ch_30.docx": [511, 768, 995, 1028, 1255, 1522, 1778, 2025], "Acts_ch_1.docx": [4560], "Galatians_ch_5.docx": [343], "Colossians_ch_1.docx": [3828], "2 Thessalonians_ch_1.docx": [557], "2 Thessalonians_ch_2.docx": [1995], "Philemon_ch_1.docx": [708], "Hebrews_ch_2.docx": [2705], "1 John_ch_2.docx": [604], "1 John_ch_4.docx": [1422], "3 John_ch_1.docx": [605]}
 ford	{"Joshua_ch_2.docx": [922], "Judges_ch_12.docx": [918, 1195, 1226], "1 Samuel_ch_14.docx": [586], "2 Samuel_ch_19.docx": [3111], "Isaiah_ch_51.docx": [2034]}
 cheer!	{"Psalms_ch_33.docx": [231]}

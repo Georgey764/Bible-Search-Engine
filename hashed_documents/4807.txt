@@ -1,4 +1,2 @@
 
-fulln	{"Psalms_ch_89.docx": [1168], "Ezekiel_ch_30.docx": [1656, 1656, 1656], "Ezekiel_ch_32.docx": [2464, 2464, 2464], "Ephesians_ch_1.docx": [2773, 2773], "Ephesians_ch_3.docx": [2235, 2235]}
-fulln	{"Psalms_ch_89.docx": [1168], "Ezekiel_ch_30.docx": [1656, 1656], "Ezekiel_ch_32.docx": [2464, 2464], "Ephesians_ch_1.docx": [2773], "Ephesians_ch_3.docx": [2235]}
 fulln	{"Psalms_ch_89.docx": [1168], "Ezekiel_ch_30.docx": [1656], "Ezekiel_ch_32.docx": [2464], "Ephesians_ch_1.docx": [2773], "Ephesians_ch_3.docx": [2235]}

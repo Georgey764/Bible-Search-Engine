@@ -1,4 +1,2 @@
 
-–and	{"1 Chronicles_ch_28.docx": [1045], "Mark_ch_8.docx": [4657, 4657]}
-–and	{"1 Chronicles_ch_28.docx": [1045], "Mark_ch_8.docx": [4657]}
 –and	{"1 Chronicles_ch_28.docx": [1045], "Mark_ch_8.docx": [4657]}

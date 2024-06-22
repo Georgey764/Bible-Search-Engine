@@ -1,2 +1,0 @@
-
-6this	{"Leviticus_ch_7.docx": [565], "Numbers_ch_28.docx": [566], "Ezra_ch_5.docx": [901], "Psalms_ch_24.docx": [547], "Psalms_ch_87.docx": [543], "Isaiah_ch_30.docx": [678]}

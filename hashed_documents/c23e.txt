@@ -1,5 +1,2 @@
 
-joat	{"Judges_ch_9.docx": [1042, 1390, 4438, 10111, 1390, 4438, 10111, 1390, 4438, 10111], "1 Chronicles_ch_2.docx": [4195, 4195, 4195], "1 Chronicles_ch_26.docx": [453, 453, 453]}
-joat	{"Judges_ch_9.docx": [1042, 1390, 4438, 10111, 1390, 4438, 10111], "1 Chronicles_ch_2.docx": [4195, 4195], "1 Chronicles_ch_26.docx": [453, 453]}
-80,00	{"1 Kings_ch_5.docx": [2273], "2 Chronicles_ch_2.docx": [206, 3309]}
 joat	{"Judges_ch_9.docx": [1042, 1390, 4438, 10111], "1 Chronicles_ch_2.docx": [4195], "1 Chronicles_ch_26.docx": [453]}

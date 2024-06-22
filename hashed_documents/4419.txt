@@ -1,4 +1,2 @@
 
-seaw	{"Joshua_ch_15.docx": [1176], "Job_ch_30.docx": [480, 480, 480]}
-seaw	{"Joshua_ch_15.docx": [1176], "Job_ch_30.docx": [480, 480]}
 seaw	{"Joshua_ch_15.docx": [1176], "Job_ch_30.docx": [480]}

@@ -2,12 +2,4 @@
 ba	{"1 Chronicles_ch_8.docx": [45, 2482]}
 ba	{"1 Chronicles_ch_9.docx": [2121]}
 ba	{"1 Chronicles_ch_12.docx": [463]}
-mithra	{"Ezra_ch_1.docx": [1217], "Ezra_ch_4.docx": [989, 989, 989]}
-ba	{"1 Chronicles_ch_8.docx": [45, 2482]}
-ba	{"1 Chronicles_ch_9.docx": [2121]}
-ba	{"1 Chronicles_ch_12.docx": [463]}
-mithra	{"Ezra_ch_1.docx": [1217], "Ezra_ch_4.docx": [989, 989]}
-ba	{"1 Chronicles_ch_8.docx": [45, 2482]}
-ba	{"1 Chronicles_ch_9.docx": [2121]}
-ba	{"1 Chronicles_ch_12.docx": [463]}
 mithra	{"Ezra_ch_1.docx": [1217], "Ezra_ch_4.docx": [989]}

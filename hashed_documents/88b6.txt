@@ -1,2 +1,0 @@
-
-36,000	{"Numbers_ch_31.docx": [4209, 4740], "1 Chronicles_ch_7.docx": [540]}

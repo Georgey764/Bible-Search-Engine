@@ -1,4 +1,2 @@
 
-flash	{"2 Samuel_ch_22.docx": [1499], "Psalms_ch_144.docx": [606, 606, 606], "Ezekiel_ch_1.docx": [500, 561, 500, 561, 500, 561], "Matthew_ch_24.docx": [2974, 2974, 2974], "Luke_ch_17.docx": [2704, 2704], "Acts_ch_9.docx": [741, 741], "Acts_ch_22.docx": [2067, 2067], "Acts_ch_26.docx": [2875, 2875]}
-flash	{"2 Samuel_ch_22.docx": [1499], "Psalms_ch_144.docx": [606, 606], "Ezekiel_ch_1.docx": [500, 561, 500, 561], "Matthew_ch_24.docx": [2974, 2974], "Luke_ch_17.docx": [2704], "Acts_ch_9.docx": [741], "Acts_ch_22.docx": [2067], "Acts_ch_26.docx": [2875]}
-flash	{"2 Samuel_ch_22.docx": [1499], "Psalms_ch_144.docx": [606], "Ezekiel_ch_1.docx": [500, 561], "Matthew_ch_24.docx": [2974], "Luke_ch_17.docx": [2704], "Acts_ch_9.docx": [741], "Acts_ch_22.docx": [2067], "Acts_ch_26.docx": [2875]}
+flash	{"2 Samuel_ch_22.docx": [1499], "Psalms_ch_144.docx": [606], "Ezekiel_ch_1.docx": [500, 561], "Nahum_ch_3.docx": [374], "Habakkuk_ch_3.docx": [2196], "Matthew_ch_24.docx": [2974], "Luke_ch_17.docx": [2704], "Acts_ch_9.docx": [741], "Acts_ch_22.docx": [2067], "Acts_ch_26.docx": [2875]}

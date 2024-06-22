@@ -1,5 +1,2 @@
 
-punc	{"Exodus_ch_21.docx": [712], "Deuteronomy_ch_15.docx": [2330, 2330, 2330], "2 Kings_ch_18.docx": [3379, 3379, 3379]}
-punc	{"Exodus_ch_21.docx": [712], "Deuteronomy_ch_15.docx": [2330, 2330], "2 Kings_ch_18.docx": [3379, 3379]}
-4ez	{"Nehemiah_ch_8.docx": [1157]}
 punc	{"Exodus_ch_21.docx": [712], "Deuteronomy_ch_15.docx": [2330], "2 Kings_ch_18.docx": [3379]}

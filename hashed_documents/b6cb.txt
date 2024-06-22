@@ -1,5 +1,2 @@
 
-abari	{"Numbers_ch_33.docx": [3452, 3543, 3543, 3543]}
-abari	{"Numbers_ch_33.docx": [3452, 3543, 3543]}
-32he’	{"Psalms_ch_18.docx": [3098]}
 abari	{"Numbers_ch_33.docx": [3452, 3543]}

@@ -1,4 +1,2 @@
 
-stiff	{"2 Chronicles_ch_30.docx": [1320], "Nehemiah_ch_9.docx": [3547, 3787, 6471, 3547, 3787, 6471, 3547, 3787, 6471], "Job_ch_15.docx": [2328, 2328, 2328], "Jeremiah_ch_7.docx": [4271, 4271, 4271], "Jeremiah_ch_17.docx": [3761, 3761, 3761], "Lamentations_ch_2.docx": [746, 746, 746], "Ezekiel_ch_4.docx": [1097, 1097, 1097]}
-stiff	{"2 Chronicles_ch_30.docx": [1320], "Nehemiah_ch_9.docx": [3547, 3787, 6471, 3547, 3787, 6471], "Job_ch_15.docx": [2328, 2328], "Jeremiah_ch_7.docx": [4271, 4271], "Jeremiah_ch_17.docx": [3761, 3761], "Lamentations_ch_2.docx": [746, 746], "Ezekiel_ch_4.docx": [1097, 1097]}
-stiff	{"2 Chronicles_ch_30.docx": [1320], "Nehemiah_ch_9.docx": [3547, 3787, 6471], "Job_ch_15.docx": [2328], "Jeremiah_ch_7.docx": [4271], "Jeremiah_ch_17.docx": [3761], "Lamentations_ch_2.docx": [746], "Ezekiel_ch_4.docx": [1097]}
+stiff	{"2 Chronicles_ch_30.docx": [1320], "2 Chronicles_ch_36.docx": [3299], "Nehemiah_ch_9.docx": [3547, 3787, 6471], "Job_ch_15.docx": [2328], "Jeremiah_ch_7.docx": [4271], "Jeremiah_ch_17.docx": [3761], "Lamentations_ch_2.docx": [746], "Ezekiel_ch_4.docx": [1097]}

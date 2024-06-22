@@ -1,4 +1,2 @@
 
-suk	{"2 Kings_ch_17.docx": [5514], "2 Chronicles_ch_12.docx": [316, 316, 316]}
-suk	{"2 Kings_ch_17.docx": [5514], "2 Chronicles_ch_12.docx": [316, 316]}
 suk	{"2 Kings_ch_17.docx": [5514], "2 Chronicles_ch_12.docx": [316]}

@@ -1,5 +1,2 @@
 
-claimi	{"Genesis_ch_26.docx": [2669, 2930, 2930, 2930], "John_ch_8.docx": [6667, 6667], "Acts_ch_25.docx": [5914, 5914]}
-claimi	{"Genesis_ch_26.docx": [2669, 2930, 2930], "John_ch_8.docx": [6667], "Acts_ch_25.docx": [5914]}
-47that	{"Numbers_ch_4.docx": [5899]}
 claimi	{"Genesis_ch_26.docx": [2669, 2930], "John_ch_8.docx": [6667], "Acts_ch_25.docx": [5914]}

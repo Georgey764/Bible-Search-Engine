@@ -1,7 +1,3 @@
 
-died!	{"2 Samuel_ch_14.docx": [631], "John_ch_11.docx": [3920, 3920]}
-fool’	{"Proverbs_ch_18.docx": [484]}
-died!	{"2 Samuel_ch_14.docx": [631], "John_ch_11.docx": [3920]}
-fool’	{"Proverbs_ch_18.docx": [484]}
 died!	{"2 Samuel_ch_14.docx": [631], "John_ch_11.docx": [3920]}
 fool’	{"Proverbs_ch_18.docx": [484]}

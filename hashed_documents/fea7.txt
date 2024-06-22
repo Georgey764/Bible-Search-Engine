@@ -1,2 +1,0 @@
-
-3show	{"Psalms_ch_123.docx": [321]}

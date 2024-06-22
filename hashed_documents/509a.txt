@@ -1,2 +1,0 @@
-
-10yo	{"Genesis_ch_45.docx": [1346], "Nehemiah_ch_9.docx": [2091], "Psalms_ch_68.docx": [1177], "Psalms_ch_80.docx": [956], "Psalms_ch_89.docx": [1016], "Psalms_ch_104.docx": [989], "Psalms_ch_139.docx": [909], "Psalms_ch_143.docx": [1159], "Proverbs_ch_6.docx": [1043], "Isaiah_ch_30.docx": [1472], "Isaiah_ch_40.docx": [1443], "Isaiah_ch_64.docx": [1254], "Micah_ch_3.docx": [1737]}

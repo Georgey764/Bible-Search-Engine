@@ -1,4 +1,2 @@
 
-shoes	{"Deuteronomy_ch_8.docx": [660], "Joshua_ch_9.docx": [5688, 8581, 5688, 8581, 5688, 8581], "Luke_ch_15.docx": [2927, 2927]}
-shoes	{"Deuteronomy_ch_8.docx": [660], "Joshua_ch_9.docx": [5688, 8581, 5688, 8581], "Luke_ch_15.docx": [2927]}
 shoes	{"Deuteronomy_ch_8.docx": [660], "Joshua_ch_9.docx": [5688, 8581], "Luke_ch_15.docx": [2927]}

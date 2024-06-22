@@ -1,5 +1,2 @@
 
-wrecke	{"2 Chronicles_ch_24.docx": [973]}
-wrecke	{"2 Chronicles_ch_24.docx": [973]}
-2gre	{"Psalms_ch_99.docx": [170]}
-wrecke	{"2 Chronicles_ch_24.docx": [973]}
+wrecke	{"1 Kings_ch_22.docx": [7681], "2 Chronicles_ch_24.docx": [973]}

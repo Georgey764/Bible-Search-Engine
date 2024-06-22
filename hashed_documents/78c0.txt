@@ -1,4 +1,2 @@
 
-offend	{"Leviticus_ch_18.docx": [3184, 3530, 3530, 3530], "Leviticus_ch_20.docx": [3320, 3320, 3320], "Deuteronomy_ch_7.docx": [3939, 3939, 3939], "1 Samuel_ch_25.docx": [4731, 4731, 4731], "Psalms_ch_106.docx": [3304, 3304, 3304], "Jeremiah_ch_2.docx": [428, 428, 428], "Acts_ch_24.docx": [2524, 2524], "2 Corinthians_ch_6.docx": [398, 398]}
-offend	{"Leviticus_ch_18.docx": [3184, 3530, 3530], "Leviticus_ch_20.docx": [3320, 3320], "Deuteronomy_ch_7.docx": [3939, 3939], "1 Samuel_ch_25.docx": [4731, 4731], "Psalms_ch_106.docx": [3304, 3304], "Jeremiah_ch_2.docx": [428, 428], "Acts_ch_24.docx": [2524], "2 Corinthians_ch_6.docx": [398]}
 offend	{"Leviticus_ch_18.docx": [3184, 3530], "Leviticus_ch_20.docx": [3320], "Deuteronomy_ch_7.docx": [3939], "1 Samuel_ch_25.docx": [4731], "Psalms_ch_106.docx": [3304], "Jeremiah_ch_2.docx": [428], "Acts_ch_24.docx": [2524], "2 Corinthians_ch_6.docx": [398]}

@@ -1,0 +1,2 @@
+
+confo	{"Song of Solomon_ch_8.docx": [3033], "Isaiah_ch_66.docx": [6179], "Lamentations_ch_5.docx": [3209], "Daniel_ch_12.docx": [4874], "Hosea_ch_14.docx": [2429], "Joel_ch_3.docx": [5545], "Amos_ch_9.docx": [4665], "Obadiah_ch_1.docx": [5175], "Jonah_ch_4.docx": [2528], "Micah_ch_7.docx": [5397], "Nahum_ch_3.docx": [4605], "Habakkuk_ch_3.docx": [4245], "Zephaniah_ch_3.docx": [5335], "Haggai_ch_2.docx": [5652], "Zechariah_ch_14.docx": [5502]}

@@ -1,3 +1,2 @@
 
-golgot	{"Matthew_ch_27.docx": [4000], "Mark_ch_15.docx": [2213, 2213], "John_ch_19.docx": [2243, 2243]}
 golgot	{"Matthew_ch_27.docx": [4000], "Mark_ch_15.docx": [2213], "John_ch_19.docx": [2243]}

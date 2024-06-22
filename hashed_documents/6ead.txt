@@ -1,4 +1,2 @@
 
 ob	{"1 Chronicles_ch_8.docx": [823], "1 Chronicles_ch_11.docx": [6607]}
-ob	{"1 Chronicles_ch_8.docx": [823], "1 Chronicles_ch_11.docx": [6607]}
-ob	{"1 Chronicles_ch_8.docx": [823], "1 Chronicles_ch_11.docx": [6607]}

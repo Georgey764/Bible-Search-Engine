@@ -1,4 +1,2 @@
 
-buc	{"Exodus_ch_2.docx": [2426], "1 Kings_ch_18.docx": [5607, 5607, 5607], "Song of Solomon_ch_2.docx": [2244, 2244, 2244], "Isaiah_ch_40.docx": [2265, 2265, 2265]}
-buc	{"Exodus_ch_2.docx": [2426], "1 Kings_ch_18.docx": [5607, 5607], "Song of Solomon_ch_2.docx": [2244, 2244], "Isaiah_ch_40.docx": [2265, 2265]}
-buc	{"Exodus_ch_2.docx": [2426], "1 Kings_ch_18.docx": [5607], "Song of Solomon_ch_2.docx": [2244], "Isaiah_ch_40.docx": [2265]}
+buc	{"Exodus_ch_2.docx": [2426], "1 Kings_ch_18.docx": [5607], "Ecclesiastes_ch_12.docx": [1163], "Song of Solomon_ch_2.docx": [2244], "Isaiah_ch_40.docx": [2265]}

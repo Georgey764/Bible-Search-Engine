@@ -1,4 +1,2 @@
 
-mint	{"Matthew_ch_23.docx": [2770], "Luke_ch_11.docx": [5689, 5689]}
-mint	{"Matthew_ch_23.docx": [2770], "Luke_ch_11.docx": [5689]}
 mint	{"Matthew_ch_23.docx": [2770], "Luke_ch_11.docx": [5689]}

@@ -1,4 +1,2 @@
 
-eyes;	{"1 Samuel_ch_11.docx": [214], "Proverbs_ch_10.docx": [2433, 2433, 2433], "Mark_ch_8.docx": [2273, 2273]}
-eyes;	{"1 Samuel_ch_11.docx": [214], "Proverbs_ch_10.docx": [2433, 2433], "Mark_ch_8.docx": [2273]}
 eyes;	{"1 Samuel_ch_11.docx": [214], "Proverbs_ch_10.docx": [2433], "Mark_ch_8.docx": [2273]}

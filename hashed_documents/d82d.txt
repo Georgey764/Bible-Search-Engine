@@ -1,5 +1,2 @@
 
-back-	{"Proverbs_ch_10.docx": [788]}
-back-	{"Proverbs_ch_10.docx": [788]}
-24‘un	{"Matthew_ch_10.docx": [2941]}
-back-	{"Proverbs_ch_10.docx": [788]}
+back-	{"Proverbs_ch_10.docx": [788], "1 Peter_ch_5.docx": [2786], "1 John_ch_5.docx": [3382], "2 John_ch_1.docx": [2340], "3 John_ch_1.docx": [2532], "Jude_ch_1.docx": [5403]}

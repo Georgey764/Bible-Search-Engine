@@ -1,4 +1,2 @@
 
-money!	{"Genesis_ch_31.docx": [2031], "Genesis_ch_43.docx": [3231, 3231, 3231], "Proverbs_ch_1.docx": [1512, 1512, 1512]}
-money!	{"Genesis_ch_31.docx": [2031], "Genesis_ch_43.docx": [3231, 3231], "Proverbs_ch_1.docx": [1512, 1512]}
 money!	{"Genesis_ch_31.docx": [2031], "Genesis_ch_43.docx": [3231], "Proverbs_ch_1.docx": [1512]}

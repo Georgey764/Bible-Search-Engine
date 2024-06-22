@@ -1,4 +1,2 @@
 
-agate	{"Exodus_ch_28.docx": [2362], "Exodus_ch_39.docx": [1464, 1464, 1464], "Ezekiel_ch_28.docx": [1865, 1865, 1865]}
-agate	{"Exodus_ch_28.docx": [2362], "Exodus_ch_39.docx": [1464, 1464], "Ezekiel_ch_28.docx": [1865, 1865]}
 agate	{"Exodus_ch_28.docx": [2362], "Exodus_ch_39.docx": [1464], "Ezekiel_ch_28.docx": [1865]}

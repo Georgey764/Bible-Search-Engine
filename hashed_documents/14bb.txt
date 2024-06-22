@@ -1,5 +1,2 @@
 
-deepe	{"Nehemiah_ch_8.docx": [2079], "Job_ch_11.docx": [885, 885, 885], "Jeremiah_ch_17.docx": [1492, 1492, 1492], "Matthew_ch_23.docx": [2777, 2777, 2777]}
-8‘afte	{"Leviticus_ch_14.docx": [912], "1 Samuel_ch_10.docx": [1505], "1 Samuel_ch_12.docx": [1290]}
-deepe	{"Nehemiah_ch_8.docx": [2079], "Job_ch_11.docx": [885, 885], "Jeremiah_ch_17.docx": [1492, 1492], "Matthew_ch_23.docx": [2777, 2777]}
 deepe	{"Nehemiah_ch_8.docx": [2079], "Job_ch_11.docx": [885], "Jeremiah_ch_17.docx": [1492], "Matthew_ch_23.docx": [2777]}

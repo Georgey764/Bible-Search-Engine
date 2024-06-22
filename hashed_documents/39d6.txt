@@ -1,2 +1,0 @@
-
-5howev	{"Genesis_ch_25.docx": [400], "Genesis_ch_27.docx": [538], "Deuteronomy_ch_29.docx": [500], "1 Samuel_ch_1.docx": [625], "2 Chronicles_ch_1.docx": [574], "Jeremiah_ch_37.docx": [532], "Jeremiah_ch_39.docx": [861], "Matthew_ch_26.docx": [413]}

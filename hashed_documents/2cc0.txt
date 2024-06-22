@@ -1,4 +1,2 @@
 
-enlive	{"Psalms_ch_119.docx": [1210, 2967, 2967, 2967]}
-enlive	{"Psalms_ch_119.docx": [1210, 2967, 2967]}
 enlive	{"Psalms_ch_119.docx": [1210, 2967]}

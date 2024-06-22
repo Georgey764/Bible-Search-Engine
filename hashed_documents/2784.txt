@@ -1,5 +1,2 @@
 
 abagth	{"Esther_ch_1.docx": [1894]}
-abagth	{"Esther_ch_1.docx": [1894]}
-32‘if	{"Matthew_ch_10.docx": [4030], "Matthew_ch_12.docx": [3712]}
-abagth	{"Esther_ch_1.docx": [1894]}

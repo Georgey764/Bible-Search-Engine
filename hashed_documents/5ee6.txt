@@ -1,6 +1,3 @@
 
-phagee	{"Numbers_ch_7.docx": [8386, 9025, 9025, 9025], "Numbers_ch_10.docx": [2846, 2846, 2846]}
-pheta	{"1 Chronicles_ch_24.docx": [1780]}
-phagee	{"Numbers_ch_7.docx": [8386, 9025, 9025], "Numbers_ch_10.docx": [2846, 2846]}
 phagee	{"Numbers_ch_7.docx": [8386, 9025], "Numbers_ch_10.docx": [2846]}
 pheta	{"1 Chronicles_ch_24.docx": [1780]}

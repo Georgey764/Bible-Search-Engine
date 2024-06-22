@@ -1,4 +1,2 @@
 
-adjoin	{"2 Chronicles_ch_3.docx": [437], "Nehemiah_ch_3.docx": [1534, 1880, 1534, 1880, 1534, 1880], "Acts_ch_18.docx": [3052, 3052]}
-adjoin	{"2 Chronicles_ch_3.docx": [437], "Nehemiah_ch_3.docx": [1534, 1880, 1534, 1880], "Acts_ch_18.docx": [3052]}
 adjoin	{"2 Chronicles_ch_3.docx": [437], "Nehemiah_ch_3.docx": [1534, 1880], "Acts_ch_18.docx": [3052]}

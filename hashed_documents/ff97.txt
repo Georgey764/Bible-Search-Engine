@@ -1,4 +1,2 @@
 
-wagons	{"Genesis_ch_45.docx": [2486, 2770, 3000, 2770, 3000, 2770, 3000], "Genesis_ch_46.docx": [586, 586, 586], "Numbers_ch_7.docx": [269, 611, 814, 826, 840, 269, 611, 814, 826, 840, 269, 611, 814, 826, 840], "Isaiah_ch_25.docx": [1555, 1555, 1555], "Isaiah_ch_28.docx": [4133, 4133, 4133]}
-wagons	{"Genesis_ch_45.docx": [2486, 2770, 3000, 2770, 3000], "Genesis_ch_46.docx": [586, 586], "Numbers_ch_7.docx": [269, 611, 814, 826, 840, 269, 611, 814, 826, 840], "Isaiah_ch_25.docx": [1555, 1555], "Isaiah_ch_28.docx": [4133, 4133]}
-wagons	{"Genesis_ch_45.docx": [2486, 2770, 3000], "Genesis_ch_46.docx": [586], "Numbers_ch_7.docx": [269, 611, 814, 826, 840], "Isaiah_ch_25.docx": [1555], "Isaiah_ch_28.docx": [4133]}
+wagons	{"Genesis_ch_45.docx": [2486, 2770, 3000], "Genesis_ch_46.docx": [586], "Numbers_ch_7.docx": [269, 611, 814, 826, 840], "Isaiah_ch_25.docx": [1555], "Isaiah_ch_28.docx": [4133], "Isaiah_ch_66.docx": [4018]}

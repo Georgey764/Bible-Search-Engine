@@ -1,5 +1,2 @@
 
 wartim	{"1 Kings_ch_2.docx": [908]}
-17for	{"Exodus_ch_31.docx": [1838], "Numbers_ch_11.docx": [2196], "Numbers_ch_22.docx": [2295], "Deuteronomy_ch_10.docx": [2261], "Joshua_ch_1.docx": [2483], "1 Samuel_ch_23.docx": [2475], "2 Samuel_ch_23.docx": [2853], "2 Kings_ch_3.docx": [2528], "Job_ch_23.docx": [1468], "Job_ch_24.docx": [1754], "Job_ch_31.docx": [1519], "Psalms_ch_37.docx": [1543], "Psalms_ch_49.docx": [1826], "Psalms_ch_94.docx": [1438], "Isaiah_ch_8.docx": [2635], "Isaiah_ch_45.docx": [3064], "Jeremiah_ch_18.docx": [2302], "Jeremiah_ch_20.docx": [3169], "Jeremiah_ch_37.docx": [2403], "Daniel_ch_3.docx": [2714], "Hosea_ch_2.docx": [2905], "Zephaniah_ch_1.docx": [2966]}
-wartim	{"1 Kings_ch_2.docx": [908]}
-wartim	{"1 Kings_ch_2.docx": [908]}

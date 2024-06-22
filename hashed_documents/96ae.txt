@@ -1,4 +1,2 @@
 
-weak!	{"2 Kings_ch_19.docx": [4273], "Romans_ch_5.docx": [671, 671], "1 Corinthians_ch_8.docx": [1441, 1441]}
-weak!	{"2 Kings_ch_19.docx": [4273], "Romans_ch_5.docx": [671], "1 Corinthians_ch_8.docx": [1441]}
-weak!	{"2 Kings_ch_19.docx": [4273], "Romans_ch_5.docx": [671], "1 Corinthians_ch_8.docx": [1441]}
+weak!	{"2 Kings_ch_19.docx": [4273], "Proverbs_ch_31.docx": [926], "Zephaniah_ch_3.docx": [3692], "Romans_ch_5.docx": [671], "1 Corinthians_ch_8.docx": [1441]}

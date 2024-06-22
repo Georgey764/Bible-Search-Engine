@@ -1,6 +1,2 @@
 
 sandp	{"Leviticus_ch_11.docx": [1923]}
-sandp	{"Leviticus_ch_11.docx": [1923]}
-5‘al	{"Deuteronomy_ch_27.docx": [838], "Proverbs_ch_8.docx": [306]}
-3swin	{"Psalms_ch_35.docx": [200]}
-sandp	{"Leviticus_ch_11.docx": [1923]}

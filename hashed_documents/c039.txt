@@ -1,4 +1,2 @@
 
-wine-c	{"Ezra_ch_1.docx": [1553, 1581, 1581, 1581]}
-wine-c	{"Ezra_ch_1.docx": [1553, 1581, 1581]}
 wine-c	{"Ezra_ch_1.docx": [1553, 1581]}

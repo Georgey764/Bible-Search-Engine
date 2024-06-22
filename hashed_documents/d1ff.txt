@@ -1,6 +1,3 @@
 
 yohana	{"Luke_ch_1.docx": [1505]}
-lydda	{"Acts_ch_9.docx": [6458, 6464, 6471, 6464, 6471]}
-16‘how	{"Numbers_ch_35.docx": [2055], "Deuteronomy_ch_15.docx": [2298], "Matthew_ch_13.docx": [1964]}
-yohana	{"Luke_ch_1.docx": [1505]}
 lydda	{"Acts_ch_9.docx": [6458, 6464, 6471]}

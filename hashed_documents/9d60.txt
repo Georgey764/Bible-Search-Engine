@@ -1,5 +1,2 @@
 
-floodi	{"Jeremiah_ch_47.docx": [207], "Ezekiel_ch_47.docx": [547, 547, 547]}
-15whe	{"1 Chronicles_ch_26.docx": [1891], "Job_ch_1.docx": [2264], "Job_ch_14.docx": [1658], "Proverbs_ch_17.docx": [1423], "Proverbs_ch_26.docx": [1284], "Matthew_ch_2.docx": [1995]}
-floodi	{"Jeremiah_ch_47.docx": [207], "Ezekiel_ch_47.docx": [547, 547]}
 floodi	{"Jeremiah_ch_47.docx": [207], "Ezekiel_ch_47.docx": [547]}

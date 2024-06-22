@@ -1,4 +1,2 @@
 
-jah!	{"Judges_ch_5.docx": [131], "Psalms_ch_106.docx": [5, 5, 5], "Psalms_ch_107.docx": [5, 5, 5], "Psalms_ch_111.docx": [5, 5, 5], "Revelation_ch_19.docx": [128, 461, 673, 980, 128, 461, 673, 980]}
-jah!	{"Judges_ch_5.docx": [131], "Psalms_ch_106.docx": [5, 5], "Psalms_ch_107.docx": [5, 5], "Psalms_ch_111.docx": [5, 5], "Revelation_ch_19.docx": [128, 461, 673, 980]}
 jah!	{"Judges_ch_5.docx": [131], "Psalms_ch_106.docx": [5], "Psalms_ch_107.docx": [5], "Psalms_ch_111.docx": [5], "Revelation_ch_19.docx": [128, 461, 673, 980]}

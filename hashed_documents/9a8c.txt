@@ -1,5 +1,2 @@
 
-stage	{"Numbers_ch_33.docx": [287], "Joshua_ch_3.docx": [5597, 5597, 5597]}
-stage	{"Numbers_ch_33.docx": [287], "Joshua_ch_3.docx": [5597, 5597]}
-16‘ev	{"Lamentations_ch_4.docx": [2631], "Ezekiel_ch_45.docx": [2966]}
 stage	{"Numbers_ch_33.docx": [287], "Joshua_ch_3.docx": [5597]}

@@ -1,5 +1,2 @@
 
-jaddua	{"Nehemiah_ch_10.docx": [1058], "Nehemiah_ch_12.docx": [831, 2061, 831, 2061, 831, 2061]}
-49sau	{"1 Samuel_ch_14.docx": [8044]}
-jaddua	{"Nehemiah_ch_10.docx": [1058], "Nehemiah_ch_12.docx": [831, 2061, 831, 2061]}
 jaddua	{"Nehemiah_ch_10.docx": [1058], "Nehemiah_ch_12.docx": [831, 2061]}

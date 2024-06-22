@@ -1,4 +1,2 @@
 
-lust	{"Proverbs_ch_28.docx": [568], "Lamentations_ch_4.docx": [12, 12, 12], "Romans_ch_1.docx": [3473, 3473], "2 Timothy_ch_3.docx": [530, 530], "James_ch_4.docx": [734, 734], "2 Peter_ch_2.docx": [1501, 1501], "1 John_ch_2.docx": [2299, 2299]}
-lust	{"Proverbs_ch_28.docx": [568], "Lamentations_ch_4.docx": [12, 12], "Romans_ch_1.docx": [3473], "2 Timothy_ch_3.docx": [530], "James_ch_4.docx": [734], "2 Peter_ch_2.docx": [1501], "1 John_ch_2.docx": [2299]}
 lust	{"Proverbs_ch_28.docx": [568], "Lamentations_ch_4.docx": [12], "Romans_ch_1.docx": [3473], "2 Timothy_ch_3.docx": [530], "James_ch_4.docx": [734], "2 Peter_ch_2.docx": [1501], "1 John_ch_2.docx": [2299]}

@@ -1,4 +1,2 @@
 
-godwh	{"Nehemiah_ch_12.docx": [7522]}
-godwh	{"Nehemiah_ch_12.docx": [7522]}
-godwh	{"Nehemiah_ch_12.docx": [7522]}
+godwh	{"Nehemiah_ch_12.docx": [7522], "1 Timothy_ch_6.docx": [1994]}

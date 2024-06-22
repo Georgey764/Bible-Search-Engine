@@ -1,3 +1,2 @@
 
 do.for	{"Philippians_ch_2.docx": [1387]}
-do.for	{"Philippians_ch_2.docx": [1387]}

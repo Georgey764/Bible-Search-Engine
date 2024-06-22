@@ -1,4 +1,2 @@
 
-silva	{"2 Corinthians_ch_1.docx": [3513], "1 Thessalonians_ch_1.docx": [6, 6], "2 Thessalonians_ch_1.docx": [7, 31, 7, 31]}
-34just	{"Proverbs_ch_14.docx": [3059]}
-silva	{"2 Corinthians_ch_1.docx": [3513], "1 Thessalonians_ch_1.docx": [6], "2 Thessalonians_ch_1.docx": [7, 31]}
+silva	{"2 Corinthians_ch_1.docx": [3513], "Colossians_ch_4.docx": [3327], "1 Thessalonians_ch_1.docx": [6], "1 Thessalonians_ch_5.docx": [2799], "2 Thessalonians_ch_1.docx": [7, 31], "1 Peter_ch_5.docx": [1696]}

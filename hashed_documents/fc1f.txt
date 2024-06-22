@@ -1,2 +1,0 @@
-
-18yo	{"Exodus_ch_26.docx": [1713], "Numbers_ch_31.docx": [2120], "Deuteronomy_ch_12.docx": [3169], "Judges_ch_9.docx": [3738], "2 Samuel_ch_3.docx": [2480], "Psalms_ch_88.docx": [1790], "Ezekiel_ch_16.docx": [2952]}

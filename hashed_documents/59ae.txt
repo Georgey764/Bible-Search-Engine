@@ -1,4 +1,2 @@
 
-fain	{"Psalms_ch_77.docx": [368], "Proverbs_ch_14.docx": [2593, 2593, 2593], "Isaiah_ch_35.docx": [404, 404, 404], "Isaiah_ch_46.docx": [169, 169, 169], "Isaiah_ch_51.docx": [3940, 3940, 3940], "Jeremiah_ch_4.docx": [5580, 5580, 5580], "Habakkuk_ch_2.docx": [2231, 2231, 2231], "Mark_ch_8.docx": [298, 298]}
-fain	{"Psalms_ch_77.docx": [368], "Proverbs_ch_14.docx": [2593, 2593], "Isaiah_ch_35.docx": [404, 404], "Isaiah_ch_46.docx": [169, 169], "Isaiah_ch_51.docx": [3940, 3940], "Jeremiah_ch_4.docx": [5580, 5580], "Habakkuk_ch_2.docx": [2231, 2231], "Mark_ch_8.docx": [298]}
 fain	{"Psalms_ch_77.docx": [368], "Proverbs_ch_14.docx": [2593], "Isaiah_ch_35.docx": [404], "Isaiah_ch_46.docx": [169], "Isaiah_ch_51.docx": [3940], "Jeremiah_ch_4.docx": [5580], "Habakkuk_ch_2.docx": [2231], "Mark_ch_8.docx": [298]}

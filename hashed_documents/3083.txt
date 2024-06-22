@@ -1,2 +1,0 @@
-
-24‘h	{"Exodus_ch_23.docx": [3366], "Leviticus_ch_4.docx": [3272], "Deuteronomy_ch_7.docx": [3758], "Job_ch_28.docx": [2127], "Job_ch_41.docx": [2113], "Jeremiah_ch_3.docx": [4406], "Daniel_ch_7.docx": [4523]}

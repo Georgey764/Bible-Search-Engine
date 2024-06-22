@@ -1,4 +1,2 @@
 
-windba	{"Jeremiah_ch_5.docx": [2332], "Titus_ch_1.docx": [1317, 1317]}
-windba	{"Jeremiah_ch_5.docx": [2332], "Titus_ch_1.docx": [1317]}
 windba	{"Jeremiah_ch_5.docx": [2332], "Titus_ch_1.docx": [1317]}

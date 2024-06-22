@@ -1,4 +1,2 @@
 
-abdo	{"Judges_ch_12.docx": [2608, 2703, 2716, 2730, 2751, 2774, 2703, 2716, 2730, 2751, 2774, 2703, 2716, 2730, 2751, 2774], "1 Chronicles_ch_6.docx": [6368, 6368, 6368], "1 Chronicles_ch_8.docx": [1495, 1495], "2 Chronicles_ch_34.docx": [3363, 3363, 3363]}
-abdo	{"Judges_ch_12.docx": [2608, 2703, 2716, 2730, 2751, 2774, 2703, 2716, 2730, 2751, 2774], "1 Chronicles_ch_6.docx": [6368, 6368], "2 Chronicles_ch_34.docx": [3363, 3363], "1 Chronicles_ch_8.docx": [1495]}
 abdo	{"Judges_ch_12.docx": [2608, 2703, 2716, 2730, 2751, 2774], "1 Chronicles_ch_6.docx": [6368], "1 Chronicles_ch_8.docx": [1495], "2 Chronicles_ch_34.docx": [3363]}

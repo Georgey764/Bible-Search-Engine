@@ -1,5 +1,2 @@
 
-stompe	{"Ezekiel_ch_34.docx": [3375], "Malachi_ch_3.docx": [1778, 1778, 1778]}
-2after	{"2 Chronicles_ch_4.docx": [138], "Jeremiah_ch_29.docx": [47]}
-stompe	{"Ezekiel_ch_34.docx": [3375], "Malachi_ch_3.docx": [1778, 1778]}
 stompe	{"Ezekiel_ch_34.docx": [3375], "Malachi_ch_3.docx": [1778]}

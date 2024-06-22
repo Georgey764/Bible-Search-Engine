@@ -1,4 +1,3 @@
 
 abdee	{"Jeremiah_ch_36.docx": [4076]}
-abdee	{"Jeremiah_ch_36.docx": [4076]}
-abdee	{"Jeremiah_ch_36.docx": [4076]}
+meters	{"John_ch_21.docx": [1343]}

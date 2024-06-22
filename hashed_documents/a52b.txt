@@ -1,4 +1,2 @@
 
-abidan	{"Numbers_ch_1.docx": [1057], "Numbers_ch_2.docx": [1978, 1978, 1978], "Numbers_ch_7.docx": [7010, 7651, 7010, 7651, 7010, 7651], "Numbers_ch_10.docx": [2581, 2581, 2581]}
-abidan	{"Numbers_ch_1.docx": [1057], "Numbers_ch_2.docx": [1978, 1978], "Numbers_ch_7.docx": [7010, 7651, 7010, 7651], "Numbers_ch_10.docx": [2581, 2581]}
 abidan	{"Numbers_ch_1.docx": [1057], "Numbers_ch_2.docx": [1978], "Numbers_ch_7.docx": [7010, 7651], "Numbers_ch_10.docx": [2581]}

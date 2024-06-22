@@ -1,6 +1,2 @@
 
 ashcha	{"1 Chronicles_ch_2.docx": [4405]}
-ashcha	{"1 Chronicles_ch_2.docx": [4405]}
-22re	{"Job_ch_22.docx": [2023], "Psalms_ch_109.docx": [1910]}
-47w	{"Lamentations_ch_3.docx": [3839]}
-ashcha	{"1 Chronicles_ch_2.docx": [4405]}

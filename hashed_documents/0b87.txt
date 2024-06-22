@@ -1,2 +1,0 @@
-
-25rule	{"Psalms_ch_68.docx": [2766]}

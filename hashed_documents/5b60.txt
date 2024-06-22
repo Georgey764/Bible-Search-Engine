@@ -1,3 +1,2 @@
 
 detr	{"Philippians_ch_3.docx": [1129]}
-detr	{"Philippians_ch_3.docx": [1129]}

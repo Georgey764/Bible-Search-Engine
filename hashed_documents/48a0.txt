@@ -1,2 +1,0 @@
-
-34ther	{"Genesis_ch_25.docx": [3738], "Numbers_ch_32.docx": [4857], "Joshua_ch_22.docx": [6062], "Judges_ch_9.docx": [6422], "1 Kings_ch_7.docx": [4525], "Psalms_ch_106.docx": [3152]}

@@ -1,5 +1,2 @@
 
 splint	{"Joel_ch_1.docx": [991]}
-63pr	{"Nehemiah_ch_7.docx": [3813]}
-splint	{"Joel_ch_1.docx": [991]}
-splint	{"Joel_ch_1.docx": [991]}

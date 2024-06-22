@@ -1,2 +1,0 @@
-
-25‘h	{"Exodus_ch_20.docx": [2863], "Deuteronomy_ch_22.docx": [3500], "Job_ch_28.docx": [2264], "Daniel_ch_8.docx": [3753]}

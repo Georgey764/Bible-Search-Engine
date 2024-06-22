@@ -1,7 +1,3 @@
 
-grope	{"Deuteronomy_ch_28.docx": [3735, 3743, 3743, 3743], "Job_ch_5.docx": [1244, 1244, 1244], "Isaiah_ch_59.docx": [1517, 1561, 1517, 1561, 1517, 1561], "Acts_ch_17.docx": [5499, 5499]}
-laud	{"Psalms_ch_9.docx": [1314], "Psalms_ch_26.docx": [638, 638, 638]}
-grope	{"Deuteronomy_ch_28.docx": [3735, 3743, 3743], "Job_ch_5.docx": [1244, 1244], "Isaiah_ch_59.docx": [1517, 1561, 1517, 1561], "Acts_ch_17.docx": [5499]}
-laud	{"Psalms_ch_9.docx": [1314], "Psalms_ch_26.docx": [638, 638]}
 grope	{"Deuteronomy_ch_28.docx": [3735, 3743], "Job_ch_5.docx": [1244], "Isaiah_ch_59.docx": [1517, 1561], "Acts_ch_17.docx": [5499]}
 laud	{"Psalms_ch_9.docx": [1314], "Psalms_ch_26.docx": [638]}

@@ -1,10 +1,4 @@
 
-jaram	{"1 Chronicles_ch_2.docx": [838, 2302, 2431, 2553, 3151, 3774, 2302, 2431, 2553, 3151, 3774, 2302, 2431, 2553, 3151, 3774], "1 Chronicles_ch_24.docx": [2857, 2857, 2857]}
-jarame	{"1 Chronicles_ch_2.docx": [838, 2302, 2431, 2553, 3151, 3774, 2302, 2431, 2553, 3151, 3774, 2302, 2431, 2553, 3151, 3774], "1 Chronicles_ch_24.docx": [2857, 2857, 2857]}
-zattu	{"Ezra_ch_2.docx": [705], "Nehemiah_ch_7.docx": [1476, 1476, 1476]}
-jaram	{"1 Chronicles_ch_2.docx": [838, 2302, 2431, 2553, 3151, 3774, 2302, 2431, 2553, 3151, 3774], "1 Chronicles_ch_24.docx": [2857, 2857]}
-jarame	{"1 Chronicles_ch_2.docx": [838, 2302, 2431, 2553, 3151, 3774, 2302, 2431, 2553, 3151, 3774], "1 Chronicles_ch_24.docx": [2857, 2857]}
-zattu	{"Ezra_ch_2.docx": [705], "Nehemiah_ch_7.docx": [1476, 1476]}
 jaram	{"1 Chronicles_ch_2.docx": [838, 2302, 2431, 2553, 3151, 3774], "1 Chronicles_ch_24.docx": [2857]}
 jarame	{"1 Chronicles_ch_2.docx": [838, 2302, 2431, 2553, 3151, 3774], "1 Chronicles_ch_24.docx": [2857]}
-zattu	{"Ezra_ch_2.docx": [705], "Nehemiah_ch_7.docx": [1476]}
+zattu	{"Ezra_ch_2.docx": [705], "Ezra_ch_10.docx": [4599], "Nehemiah_ch_7.docx": [1476]}

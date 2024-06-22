@@ -1,4 +1,2 @@
 
-aadai	{"1 Chronicles_ch_2.docx": [2857, 2975, 2975, 2975]}
-aadai	{"1 Chronicles_ch_2.docx": [2857, 2975, 2975]}
 aadai	{"1 Chronicles_ch_2.docx": [2857, 2975]}

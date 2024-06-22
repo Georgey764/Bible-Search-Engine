@@ -1,7 +1,2 @@
 
-gate!	{"Judges_ch_9.docx": [7612], "Judges_ch_18.docx": [3836, 3836, 3836]}
-3‘e	{"Leviticus_ch_19.docx": [189], "Isaiah_ch_31.docx": [480]}
-24‘ble	{"Judges_ch_5.docx": [3492]}
-gate!	{"Judges_ch_9.docx": [7612], "Judges_ch_18.docx": [3836, 3836]}
-11‘wi	{"Micah_ch_6.docx": [2366]}
 gate!	{"Judges_ch_9.docx": [7612], "Judges_ch_18.docx": [3836]}

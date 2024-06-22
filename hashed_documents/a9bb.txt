@@ -1,5 +1,2 @@
 
-taxes	{"2 Chronicles_ch_10.docx": [2523], "Ezra_ch_4.docx": [2141, 3262, 2141, 3262, 2141, 3262], "Nehemiah_ch_5.docx": [391, 391, 391], "Matthew_ch_17.docx": [3083, 3083, 3083], "Luke_ch_20.docx": [2974, 2974], "Luke_ch_23.docx": [148, 148], "Romans_ch_13.docx": [886, 886]}
-13‘ye	{"2 Kings_ch_19.docx": [2114], "Ezekiel_ch_17.docx": [2166], "Ezekiel_ch_44.docx": [2609], "Hosea_ch_2.docx": [2260], "Hosea_ch_7.docx": [2476], "Habakkuk_ch_2.docx": [2144], "Malachi_ch_2.docx": [2239]}
-taxes	{"2 Chronicles_ch_10.docx": [2523], "Ezra_ch_4.docx": [2141, 3262, 2141, 3262], "Nehemiah_ch_5.docx": [391, 391], "Matthew_ch_17.docx": [3083, 3083], "Luke_ch_20.docx": [2974], "Luke_ch_23.docx": [148], "Romans_ch_13.docx": [886]}
 taxes	{"2 Chronicles_ch_10.docx": [2523], "Ezra_ch_4.docx": [2141, 3262], "Nehemiah_ch_5.docx": [391], "Matthew_ch_17.docx": [3083], "Luke_ch_20.docx": [2974], "Luke_ch_23.docx": [148], "Romans_ch_13.docx": [886]}

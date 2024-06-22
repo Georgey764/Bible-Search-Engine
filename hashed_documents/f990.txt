@@ -1,4 +1,2 @@
 
-dine	{"Genesis_ch_43.docx": [3395], "1 Kings_ch_13.docx": [1404, 1404, 1404], "Proverbs_ch_15.docx": [1741, 1741, 1741], "Proverbs_ch_23.docx": [8, 524, 8, 524, 8, 524], "Luke_ch_7.docx": [5042, 5042], "Luke_ch_11.docx": [5125, 5125], "Luke_ch_14.docx": [1848, 2006, 1848, 2006], "Revelation_ch_3.docx": [3482, 3482]}
-dine	{"Genesis_ch_43.docx": [3395], "1 Kings_ch_13.docx": [1404, 1404], "Proverbs_ch_15.docx": [1741, 1741], "Proverbs_ch_23.docx": [8, 524, 8, 524], "Luke_ch_7.docx": [5042], "Luke_ch_11.docx": [5125], "Luke_ch_14.docx": [1848, 2006], "Revelation_ch_3.docx": [3482]}
 dine	{"Genesis_ch_43.docx": [3395], "1 Kings_ch_13.docx": [1404], "Proverbs_ch_15.docx": [1741], "Proverbs_ch_23.docx": [8, 524], "Luke_ch_7.docx": [5042], "Luke_ch_11.docx": [5125], "Luke_ch_14.docx": [1848, 2006], "Revelation_ch_3.docx": [3482]}

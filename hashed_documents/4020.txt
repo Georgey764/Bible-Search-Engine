@@ -1,4 +1,3 @@
 
-shes	{"Ezra_ch_5.docx": [2423, 2667, 2667, 2667], "Jeremiah_ch_51.docx": [6797, 6797, 6797]}
-shes	{"Ezra_ch_5.docx": [2423, 2667, 2667], "Jeremiah_ch_51.docx": [6797, 6797]}
 shes	{"Ezra_ch_5.docx": [2423, 2667], "Jeremiah_ch_51.docx": [6797]}
+mouse	{"Isaiah_ch_66.docx": [3391]}

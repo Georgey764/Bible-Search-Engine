@@ -1,5 +1,2 @@
 
-byp	{"Isaiah_ch_10.docx": [4292], "Luke_ch_11.docx": [5841, 5841]}
-63prie	{"Nehemiah_ch_7.docx": [3813]}
-byp	{"Isaiah_ch_10.docx": [4292], "Luke_ch_11.docx": [5841]}
 byp	{"Isaiah_ch_10.docx": [4292], "Luke_ch_11.docx": [5841]}

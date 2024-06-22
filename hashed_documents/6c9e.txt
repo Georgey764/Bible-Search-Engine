@@ -1,4 +1,2 @@
 
-zebai	{"Ezra_ch_2.docx": [2345], "Nehemiah_ch_7.docx": [3452, 3452, 3452]}
-zebai	{"Ezra_ch_2.docx": [2345], "Nehemiah_ch_7.docx": [3452, 3452]}
 zebai	{"Ezra_ch_2.docx": [2345], "Nehemiah_ch_7.docx": [3452]}

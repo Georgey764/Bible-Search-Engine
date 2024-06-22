@@ -1,4 +1,2 @@
 
-salai	{"1 Chronicles_ch_8.docx": [2399]}
-salai	{"1 Chronicles_ch_8.docx": [2399]}
-salai	{"1 Chronicles_ch_8.docx": [2399]}
+salai	{"1 Kings_ch_22.docx": [6816], "1 Chronicles_ch_8.docx": [2399]}

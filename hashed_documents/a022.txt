@@ -1,4 +1,2 @@
 
-alik	{"1 Kings_ch_7.docx": [4781], "2 Kings_ch_3.docx": [916, 916, 916]}
-alik	{"1 Kings_ch_7.docx": [4781], "2 Kings_ch_3.docx": [916, 916]}
 alik	{"1 Kings_ch_7.docx": [4781], "2 Kings_ch_3.docx": [916]}

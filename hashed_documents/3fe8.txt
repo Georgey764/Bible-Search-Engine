@@ -1,4 +1,2 @@
 
-mao	{"Joshua_ch_15.docx": [5879], "1 Samuel_ch_23.docx": [3587, 3625, 3587, 3625, 3587, 3625], "1 Samuel_ch_25.docx": [152, 152, 152], "1 Samuel_ch_27.docx": [275, 275, 275], "1 Chronicles_ch_2.docx": [3954, 3954, 3954], "1 Chronicles_ch_6.docx": [3511, 3511, 3511], "1 Chronicles_ch_11.docx": [6509, 6509, 6509]}
-mao	{"Joshua_ch_15.docx": [5879], "1 Samuel_ch_23.docx": [3587, 3625, 3587, 3625], "1 Samuel_ch_25.docx": [152, 152], "1 Samuel_ch_27.docx": [275, 275], "1 Chronicles_ch_2.docx": [3954, 3954], "1 Chronicles_ch_6.docx": [3511, 3511], "1 Chronicles_ch_11.docx": [6509, 6509]}
 mao	{"Joshua_ch_15.docx": [5879], "1 Samuel_ch_23.docx": [3587, 3625], "1 Samuel_ch_25.docx": [152], "1 Samuel_ch_27.docx": [275], "1 Chronicles_ch_2.docx": [3954], "1 Chronicles_ch_6.docx": [3511], "1 Chronicles_ch_11.docx": [6509]}

@@ -1,4 +1,2 @@
 
-koz	{"Ezra_ch_2.docx": [2696], "Nehemiah_ch_7.docx": [3819, 3819, 3819]}
-koz	{"Ezra_ch_2.docx": [2696], "Nehemiah_ch_7.docx": [3819, 3819]}
 koz	{"Ezra_ch_2.docx": [2696], "Nehemiah_ch_7.docx": [3819]}

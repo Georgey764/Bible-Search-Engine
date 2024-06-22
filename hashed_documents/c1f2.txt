@@ -1,2 +1,0 @@
-
-17it	{"Genesis_ch_35.docx": [2262], "2 Samuel_ch_17.docx": [2556], "2 Chronicles_ch_31.docx": [3285], "Psalms_ch_104.docx": [1772], "Proverbs_ch_15.docx": [1675], "Matthew_ch_17.docx": [1854]}

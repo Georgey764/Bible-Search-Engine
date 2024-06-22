@@ -1,4 +1,2 @@
 
 judge!	{"2 Chronicles_ch_24.docx": [3851]}
-judge!	{"2 Chronicles_ch_24.docx": [3851]}
-judge!	{"2 Chronicles_ch_24.docx": [3851]}

@@ -1,4 +1,2 @@
 
-hezir	{"1 Chronicles_ch_24.docx": [1731], "Nehemiah_ch_10.docx": [1020, 1020]}
-hezir	{"Nehemiah_ch_10.docx": [1020, 1020]}
 hezir	{"1 Chronicles_ch_24.docx": [1731], "Nehemiah_ch_10.docx": [1020]}

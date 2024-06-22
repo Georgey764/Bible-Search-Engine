@@ -1,7 +1,3 @@
 
 ahir	{"Numbers_ch_2.docx": [2475]}
 cubes	{"Esther_ch_1.docx": [1047]}
-ahir	{"Numbers_ch_2.docx": [2475]}
-cubes	{"Esther_ch_1.docx": [1047]}
-ahir	{"Numbers_ch_2.docx": [2475]}
-cubes	{"Esther_ch_1.docx": [1047]}

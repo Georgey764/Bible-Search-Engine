@@ -1,7 +1,3 @@
 
-imper	{"Leviticus_ch_21.docx": [2091, 2489, 2502, 2489, 2502, 2489, 2502], "Leviticus_ch_22.docx": [3654, 3654, 3654], "Job_ch_34.docx": [1600, 1600, 1600], "Malachi_ch_1.docx": [3218, 3218, 3218], "1 Peter_ch_1.docx": [5867, 5867]}
-wadi<	{"Judges_ch_4.docx": [2290, 5006, 5006, 5006]}
-imper	{"Leviticus_ch_21.docx": [2091, 2489, 2502, 2489, 2502], "Leviticus_ch_22.docx": [3654, 3654], "Job_ch_34.docx": [1600, 1600], "Malachi_ch_1.docx": [3218, 3218], "1 Peter_ch_1.docx": [5867]}
-wadi<	{"Judges_ch_4.docx": [2290, 5006, 5006]}
 imper	{"Leviticus_ch_21.docx": [2091, 2489, 2502], "Leviticus_ch_22.docx": [3654], "Job_ch_34.docx": [1600], "Malachi_ch_1.docx": [3218], "1 Peter_ch_1.docx": [5867]}
 wadi<	{"Judges_ch_4.docx": [2290, 5006]}

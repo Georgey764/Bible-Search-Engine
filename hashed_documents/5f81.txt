@@ -1,4 +1,2 @@
 
-over!	{"Numbers_ch_16.docx": [4514], "Proverbs_ch_8.docx": [3120, 3120, 3120], "Hosea_ch_10.docx": [2132, 2132, 2132], "Luke_ch_19.docx": [833, 833], "Luke_ch_23.docx": [3641, 3641], "John_ch_2.docx": [1510, 1510]}
-over!	{"Numbers_ch_16.docx": [4514], "Proverbs_ch_8.docx": [3120, 3120], "Hosea_ch_10.docx": [2132, 2132], "Luke_ch_19.docx": [833], "Luke_ch_23.docx": [3641], "John_ch_2.docx": [1510]}
 over!	{"Numbers_ch_16.docx": [4514], "Proverbs_ch_8.docx": [3120], "Hosea_ch_10.docx": [2132], "Luke_ch_19.docx": [833], "Luke_ch_23.docx": [3641], "John_ch_2.docx": [1510]}

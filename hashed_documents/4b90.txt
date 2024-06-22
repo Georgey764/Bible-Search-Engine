@@ -1,4 +1,2 @@
 
-vain!	{"Isaiah_ch_28.docx": [4474], "Isaiah_ch_30.docx": [1127, 1127, 1127], "Jeremiah_ch_4.docx": [5305, 5305, 5305], "Jeremiah_ch_8.docx": [1656, 1656, 1656], "Malachi_ch_3.docx": [2921, 2921, 2921], "1 Corinthians_ch_15.docx": [1549, 1549]}
-vain!	{"Isaiah_ch_28.docx": [4474], "Isaiah_ch_30.docx": [1127, 1127], "Jeremiah_ch_4.docx": [5305, 5305], "Jeremiah_ch_8.docx": [1656, 1656], "Malachi_ch_3.docx": [2921, 2921], "1 Corinthians_ch_15.docx": [1549]}
 vain!	{"Isaiah_ch_28.docx": [4474], "Isaiah_ch_30.docx": [1127], "Jeremiah_ch_4.docx": [5305], "Jeremiah_ch_8.docx": [1656], "Malachi_ch_3.docx": [2921], "1 Corinthians_ch_15.docx": [1549]}

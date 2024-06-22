@@ -1,4 +1,2 @@
 
-earthe	{"Jeremiah_ch_19.docx": [62], "Jeremiah_ch_32.docx": [2298, 2298, 2298], "Lamentations_ch_4.docx": [273, 273, 273], "Ezekiel_ch_4.docx": [1431, 1431, 1431]}
-earthe	{"Jeremiah_ch_19.docx": [62], "Jeremiah_ch_32.docx": [2298, 2298], "Lamentations_ch_4.docx": [273, 273], "Ezekiel_ch_4.docx": [1431, 1431]}
 earthe	{"Jeremiah_ch_19.docx": [62], "Jeremiah_ch_32.docx": [2298], "Lamentations_ch_4.docx": [273], "Ezekiel_ch_4.docx": [1431]}

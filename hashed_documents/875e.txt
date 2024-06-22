@@ -1,4 +1,2 @@
 
-skins!	{"Joshua_ch_9.docx": [8565], "1 Chronicles_ch_17.docx": [125, 125, 125]}
-skins!	{"Joshua_ch_9.docx": [8565], "1 Chronicles_ch_17.docx": [125, 125]}
 skins!	{"Joshua_ch_9.docx": [8565], "1 Chronicles_ch_17.docx": [125]}

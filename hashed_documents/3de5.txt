@@ -1,4 +1,2 @@
 
 poses	{"Ezekiel_ch_44.docx": [5372]}
-poses	{"Ezekiel_ch_44.docx": [5372]}
-poses	{"Ezekiel_ch_44.docx": [5372]}

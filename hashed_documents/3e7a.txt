@@ -1,7 +1,3 @@
 
 non-i	{"1 Kings_ch_9.docx": [3494]}
 harup	{"1 Chronicles_ch_12.docx": [735]}
-non-i	{"1 Kings_ch_9.docx": [3494]}
-harup	{"1 Chronicles_ch_12.docx": [735]}
-non-i	{"1 Kings_ch_9.docx": [3494]}
-harup	{"1 Chronicles_ch_12.docx": [735]}

@@ -1,5 +1,2 @@
 
-telm	{"1 Chronicles_ch_9.docx": [2551], "Ezra_ch_2.docx": [1679, 2451, 1679, 2451, 1679, 2451], "Nehemiah_ch_7.docx": [3562, 3562, 3562]}
-3ishsa	{"Exodus_ch_1.docx": [168]}
-telm	{"1 Chronicles_ch_9.docx": [2551], "Ezra_ch_2.docx": [1679, 2451, 1679, 2451], "Nehemiah_ch_7.docx": [3562, 3562]}
 telm	{"1 Chronicles_ch_9.docx": [2551], "Ezra_ch_2.docx": [1679, 2451], "Nehemiah_ch_7.docx": [3562]}

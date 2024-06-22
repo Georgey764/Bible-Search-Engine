@@ -1,7 +1,3 @@
 
 hela	{"Genesis_ch_36.docx": [4315]}
 gehe	{"2 Chronicles_ch_33.docx": [759]}
-hela	{"Genesis_ch_36.docx": [4315]}
-gehe	{"2 Chronicles_ch_33.docx": [759]}
-hela	{"Genesis_ch_36.docx": [4315]}
-gehe	{"2 Chronicles_ch_33.docx": [759]}

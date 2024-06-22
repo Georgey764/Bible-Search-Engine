@@ -1,5 +1,2 @@
 
-reph	{"2 Samuel_ch_23.docx": [2219], "1 Chronicles_ch_4.docx": [1316, 1316, 1316], "Nehemiah_ch_3.docx": [3413, 3413, 3413], "Acts_ch_7.docx": [6420, 6420]}
-14ma	{"Genesis_ch_25.docx": [1426], "Genesis_ch_43.docx": [1594], "Job_ch_3.docx": [1254], "Psalms_ch_40.docx": [1764], "Psalms_ch_109.docx": [1106], "Psalms_ch_115.docx": [1258], "Jeremiah_ch_17.docx": [2267]}
-reph	{"2 Samuel_ch_23.docx": [2219], "1 Chronicles_ch_4.docx": [1316, 1316], "Nehemiah_ch_3.docx": [3413, 3413], "Acts_ch_7.docx": [6420]}
 reph	{"2 Samuel_ch_23.docx": [2219], "1 Chronicles_ch_4.docx": [1316], "Nehemiah_ch_3.docx": [3413], "Acts_ch_7.docx": [6420]}

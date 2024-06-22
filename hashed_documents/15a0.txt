@@ -1,4 +1,2 @@
 
-soma	{"Joshua_ch_15.docx": [5728], "1 Kings_ch_1.docx": [287, 2135, 287, 2135, 287, 2135], "1 Kings_ch_2.docx": [2695, 3298, 2695, 3298, 2695, 3298], "2 Kings_ch_4.docx": [1299, 1937, 3840, 5517, 1299, 1937, 3840, 5517, 1299, 1937, 3840, 5517], "2 Chronicles_ch_24.docx": [4660, 4660, 4660]}
-soma	{"Joshua_ch_15.docx": [5728], "1 Kings_ch_1.docx": [287, 2135, 287, 2135], "1 Kings_ch_2.docx": [2695, 3298, 2695, 3298], "2 Kings_ch_4.docx": [1299, 1937, 3840, 5517, 1299, 1937, 3840, 5517], "2 Chronicles_ch_24.docx": [4660, 4660]}
 soma	{"Joshua_ch_15.docx": [5728], "1 Kings_ch_1.docx": [287, 2135], "1 Kings_ch_2.docx": [2695, 3298], "2 Kings_ch_4.docx": [1299, 1937, 3840, 5517], "2 Chronicles_ch_24.docx": [4660]}

@@ -1,6 +1,2 @@
 
 grazes	{"Job_ch_39.docx": [1889]}
-grazes	{"Job_ch_39.docx": [1889]}
-12of	{"Psalms_ch_77.docx": [1138]}
-19[an	{"Jeremiah_ch_8.docx": [3495], "Jeremiah_ch_14.docx": [3430]}
-grazes	{"Job_ch_39.docx": [1889]}

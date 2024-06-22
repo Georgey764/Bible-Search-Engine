@@ -1,7 +1,3 @@
 
 rivet	{"Isaiah_ch_41.docx": [1217]}
 iron!	{"Jeremiah_ch_28.docx": [1903]}
-rivet	{"Isaiah_ch_41.docx": [1217]}
-iron!	{"Jeremiah_ch_28.docx": [1903]}
-rivet	{"Isaiah_ch_41.docx": [1217]}
-iron!	{"Jeremiah_ch_28.docx": [1903]}

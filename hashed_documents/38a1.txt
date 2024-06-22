@@ -1,5 +1,2 @@
 
-30mo	{"1 Chronicles_ch_11.docx": [5390]}
-30mo	{"1 Chronicles_ch_11.docx": [5390]}
-27n	{"Nehemiah_ch_3.docx": [12837], "Proverbs_ch_24.docx": [2550]}
  30mo	{"1 Chronicles_ch_11.docx": [5390]}

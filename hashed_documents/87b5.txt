@@ -1,7 +1,3 @@
 
 duma	{"Genesis_ch_25.docx": [1438]}
 nem	{"Joshua_ch_21.docx": [3973]}
-duma	{"Genesis_ch_25.docx": [1438]}
-nem	{"Joshua_ch_21.docx": [3973]}
-duma	{"Genesis_ch_25.docx": [1438]}
-nem	{"Joshua_ch_21.docx": [3973]}

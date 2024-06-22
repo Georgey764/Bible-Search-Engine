@@ -1,2 +1,0 @@
-
-21go	{"Genesis_ch_2.docx": [2867], "Exodus_ch_13.docx": [3381]}

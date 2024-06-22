@@ -1,10 +1,4 @@
 
 luca	{"1 Kings_ch_4.docx": [1242]}
-river;	{"Ezra_ch_4.docx": [1866], "Ezekiel_ch_47.docx": [1032, 1032, 1032]}
-nettle	{"Job_ch_31.docx": [3717]}
-luca	{"1 Kings_ch_4.docx": [1242]}
-river;	{"Ezra_ch_4.docx": [1866], "Ezekiel_ch_47.docx": [1032, 1032]}
-nettle	{"Job_ch_31.docx": [3717]}
-luca	{"1 Kings_ch_4.docx": [1242]}
 river;	{"Ezra_ch_4.docx": [1866], "Ezekiel_ch_47.docx": [1032]}
 nettle	{"Job_ch_31.docx": [3717]}

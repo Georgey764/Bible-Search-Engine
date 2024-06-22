@@ -1,4 +1,2 @@
 
-lawsu	{"Proverbs_ch_6.docx": [1983], "Proverbs_ch_15.docx": [1865, 1865, 1865], "Proverbs_ch_28.docx": [126, 126, 126], "Ecclesiastes_ch_5.docx": [1212, 1212, 1212], "Isaiah_ch_58.docx": [730, 730, 730], "1 Corinthians_ch_6.docx": [727, 727]}
-lawsu	{"Proverbs_ch_6.docx": [1983], "Proverbs_ch_15.docx": [1865, 1865], "Proverbs_ch_28.docx": [126, 126], "Ecclesiastes_ch_5.docx": [1212, 1212], "Isaiah_ch_58.docx": [730, 730], "1 Corinthians_ch_6.docx": [727]}
 lawsu	{"Proverbs_ch_6.docx": [1983], "Proverbs_ch_15.docx": [1865], "Proverbs_ch_28.docx": [126], "Ecclesiastes_ch_5.docx": [1212], "Isaiah_ch_58.docx": [730], "1 Corinthians_ch_6.docx": [727]}

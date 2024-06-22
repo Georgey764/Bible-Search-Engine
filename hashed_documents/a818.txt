@@ -1,4 +1,2 @@
 
-soub	{"1 Chronicles_ch_1.docx": [3097, 3241, 3241], "1 Chronicles_ch_2.docx": [1605, 1605, 1605], "1 Chronicles_ch_4.docx": [89, 120, 89, 120, 89, 120], "1 Chronicles_ch_18.docx": [224, 1137, 224, 1137, 224, 1137], "1 Chronicles_ch_23.docx": [1718, 1718, 1718], "1 Chronicles_ch_25.docx": [697, 2265, 697, 2265, 697, 2265], "1 Chronicles_ch_26.docx": [2945, 2945]}
-soub	{"1 Chronicles_ch_1.docx": [3097, 3241], "1 Chronicles_ch_2.docx": [1605, 1605], "1 Chronicles_ch_4.docx": [89, 120, 89, 120], "1 Chronicles_ch_18.docx": [224, 1137, 224, 1137], "1 Chronicles_ch_23.docx": [1718, 1718], "1 Chronicles_ch_25.docx": [697, 2265, 697, 2265], "1 Chronicles_ch_26.docx": [2945]}
 soub	{"1 Chronicles_ch_1.docx": [3097, 3241], "1 Chronicles_ch_2.docx": [1605], "1 Chronicles_ch_4.docx": [89, 120], "1 Chronicles_ch_18.docx": [224, 1137], "1 Chronicles_ch_23.docx": [1718], "1 Chronicles_ch_25.docx": [697, 2265], "1 Chronicles_ch_26.docx": [2945]}

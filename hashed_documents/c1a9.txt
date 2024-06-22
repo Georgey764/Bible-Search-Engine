@@ -1,3 +1,2 @@
 
 panic	{"Luke_ch_2.docx": [8780]}
-panic	{"Luke_ch_2.docx": [8780]}

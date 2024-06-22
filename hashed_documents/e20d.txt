@@ -1,4 +1,2 @@
 
-honor;	{"Job_ch_40.docx": [927], "Psalms_ch_62.docx": [455, 455, 455]}
-honor;	{"Job_ch_40.docx": [927], "Psalms_ch_62.docx": [455, 455]}
 honor;	{"Job_ch_40.docx": [927], "Psalms_ch_62.docx": [455]}

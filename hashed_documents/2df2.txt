@@ -1,5 +1,2 @@
 
 phuti	{"Exodus_ch_6.docx": [3113]}
-phuti	{"Exodus_ch_6.docx": [3113]}
-27‘i’	{"Exodus_ch_23.docx": [3810], "Psalms_ch_89.docx": [2626], "Ezekiel_ch_37.docx": [4649]}
-phuti	{"Exodus_ch_6.docx": [3113]}

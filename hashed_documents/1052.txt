@@ -1,10 +1,4 @@
 
-accumu	{"Genesis_ch_12.docx": [491, 1960, 1960, 1960], "Genesis_ch_13.docx": [456, 456, 456], "Deuteronomy_ch_17.docx": [2576, 2799, 2576, 2799, 2576, 2799], "2 Kings_ch_12.docx": [1608, 1608, 1608]}
-unawar	{"Genesis_ch_39.docx": [3118], "Leviticus_ch_5.docx": [2223, 2223, 2223], "2 Samuel_ch_17.docx": [79, 79, 79], "Job_ch_9.docx": [1935, 3229, 1935, 3229, 1935, 3229], "Job_ch_14.docx": [2346, 2346, 2346], "Ecclesiastes_ch_5.docx": [196, 196, 196], "Hosea_ch_7.docx": [1612, 1612, 1612], "Matthew_ch_24.docx": [4400, 4400, 4400], "1 Corinthians_ch_4.docx": [290, 290], "Revelation_ch_2.docx": [4213, 4213]}
-pelaij	{"Nehemiah_ch_8.docx": [1969], "Nehemiah_ch_10.docx": [566, 566, 566]}
-accumu	{"Genesis_ch_12.docx": [491, 1960, 1960], "Genesis_ch_13.docx": [456, 456], "Deuteronomy_ch_17.docx": [2576, 2799, 2576, 2799], "2 Kings_ch_12.docx": [1608, 1608]}
-unawar	{"Genesis_ch_39.docx": [3118], "Leviticus_ch_5.docx": [2223, 2223], "2 Samuel_ch_17.docx": [79, 79], "Job_ch_9.docx": [1935, 3229, 1935, 3229], "Job_ch_14.docx": [2346, 2346], "Ecclesiastes_ch_5.docx": [196, 196], "Hosea_ch_7.docx": [1612, 1612], "Matthew_ch_24.docx": [4400, 4400], "1 Corinthians_ch_4.docx": [290], "Revelation_ch_2.docx": [4213]}
-pelaij	{"Nehemiah_ch_8.docx": [1969], "Nehemiah_ch_10.docx": [566, 566]}
-accumu	{"Genesis_ch_12.docx": [491, 1960], "Genesis_ch_13.docx": [456], "Deuteronomy_ch_17.docx": [2576, 2799], "2 Kings_ch_12.docx": [1608]}
-unawar	{"Genesis_ch_39.docx": [3118], "Leviticus_ch_5.docx": [2223], "2 Samuel_ch_17.docx": [79], "Job_ch_9.docx": [1935, 3229], "Job_ch_14.docx": [2346], "Ecclesiastes_ch_5.docx": [196], "Hosea_ch_7.docx": [1612], "Matthew_ch_24.docx": [4400], "1 Corinthians_ch_4.docx": [290], "Revelation_ch_2.docx": [4213]}
+accumu	{"Genesis_ch_12.docx": [491, 1960], "Genesis_ch_13.docx": [456], "Deuteronomy_ch_17.docx": [2576, 2799], "2 Kings_ch_12.docx": [1608], "1 Chronicles_ch_29.docx": [282]}
+unawar	{"Genesis_ch_39.docx": [3118], "Leviticus_ch_5.docx": [2223], "2 Samuel_ch_17.docx": [79], "Job_ch_9.docx": [1935, 3229], "Job_ch_14.docx": [2346], "Ecclesiastes_ch_5.docx": [196], "Hosea_ch_7.docx": [1612], "Matthew_ch_24.docx": [4400], "1 Corinthians_ch_4.docx": [290], "1 John_ch_5.docx": [3432], "Revelation_ch_2.docx": [4213]}
 pelaij	{"Nehemiah_ch_8.docx": [1969], "Nehemiah_ch_10.docx": [566]}

@@ -1,3 +1,2 @@
 
-cleo	{"John_ch_19.docx": [3482]}
-cleo	{"John_ch_19.docx": [3482]}
+cleo	{"Luke_ch_24.docx": [1866], "John_ch_19.docx": [3482]}

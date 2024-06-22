@@ -1,2 +1,0 @@
-
-8‘y	{"Exodus_ch_25.docx": [834], "Leviticus_ch_11.docx": [928], "Deuteronomy_ch_6.docx": [1183], "Deuteronomy_ch_16.docx": [1203], "1 Kings_ch_3.docx": [1332], "1 Kings_ch_10.docx": [1140], "Esther_ch_8.docx": [1148], "Job_ch_22.docx": [653], "Song of Solomon_ch_6.docx": [1088], "Isaiah_ch_15.docx": [1246], "Isaiah_ch_48.docx": [1447], "Isaiah_ch_55.docx": [1334], "Isaiah_ch_56.docx": [1559], "Ezekiel_ch_28.docx": [1005], "Ezekiel_ch_32.docx": [1275], "Ezekiel_ch_44.docx": [1562], "Matthew_ch_13.docx": [704]}

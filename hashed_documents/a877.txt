@@ -1,5 +1,2 @@
 
-alphaa	{"1 Chronicles_ch_8.docx": [790, 799, 799]}
-alphaa	{"1 Chronicles_ch_8.docx": [790, 799]}
-11don	{"Psalms_ch_51.docx": [1234]}
 alphaa	{"1 Chronicles_ch_8.docx": [790, 799]}

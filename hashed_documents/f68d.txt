@@ -1,4 +1,2 @@
 
-azor	{"Joshua_ch_19.docx": [3479], "Matthew_ch_1.docx": [1083, 1105, 1083, 1105]}
-azor	{"Matthew_ch_1.docx": [1083, 1083, 1105]}
 azor	{"Joshua_ch_19.docx": [3479], "Matthew_ch_1.docx": [1083, 1105]}

@@ -1,3 +1,2 @@
 
-fake	{"Job_ch_42.docx": [4332], "1 John_ch_2.docx": [2672, 2682, 3251, 2682, 3251], "1 John_ch_4.docx": [355, 355]}
-fake	{"1 John_ch_2.docx": [2672, 2682, 3251], "1 John_ch_4.docx": [355]}
+fake	{"Ezra_ch_10.docx": [7599], "Nehemiah_ch_13.docx": [6183], "Job_ch_42.docx": [4332], "1 John_ch_2.docx": [2672, 2682, 3251], "1 John_ch_4.docx": [355], "2 John_ch_1.docx": [807]}

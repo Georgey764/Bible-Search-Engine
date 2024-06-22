@@ -1,2 +1,0 @@
-
-33s	{"Genesis_ch_26.docx": [4638], "Numbers_ch_32.docx": [4446], "2 Samuel_ch_14.docx": [5652], "2 Samuel_ch_19.docx": [5400], "2 Samuel_ch_22.docx": [3156], "2 Samuel_ch_23.docx": [4686], "2 Kings_ch_4.docx": [5036], "Psalms_ch_78.docx": [3297], "Psalms_ch_104.docx": [3309], "Psalms_ch_119.docx": [2539], "Matthew_ch_18.docx": [4308]}

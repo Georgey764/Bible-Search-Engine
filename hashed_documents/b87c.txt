@@ -1,4 +1,2 @@
 
-plotti	{"Psalms_ch_38.docx": [1380], "Psalms_ch_119.docx": [7001, 7001, 7001], "Jeremiah_ch_11.docx": [3495, 3495, 3495], "Jeremiah_ch_18.docx": [3050, 3050, 3050], "Habakkuk_ch_2.docx": [1273, 1273, 1273], "Acts_ch_20.docx": [546, 546]}
-plotti	{"Psalms_ch_38.docx": [1380], "Psalms_ch_119.docx": [7001, 7001], "Jeremiah_ch_11.docx": [3495, 3495], "Jeremiah_ch_18.docx": [3050, 3050], "Habakkuk_ch_2.docx": [1273, 1273], "Acts_ch_20.docx": [546]}
 plotti	{"Psalms_ch_38.docx": [1380], "Psalms_ch_119.docx": [7001], "Jeremiah_ch_11.docx": [3495], "Jeremiah_ch_18.docx": [3050], "Habakkuk_ch_2.docx": [1273], "Acts_ch_20.docx": [546]}

@@ -1,3 +1,2 @@
 
-battal	{"Matthew_ch_26.docx": [6361], "Matthew_ch_27.docx": [3270, 3270]}
 battal	{"Matthew_ch_26.docx": [6361], "Matthew_ch_27.docx": [3270]}

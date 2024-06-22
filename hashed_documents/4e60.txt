@@ -1,4 +1,0 @@
-
-68‘t	{"Deuteronomy_ch_28.docx": [9904]}
-22te	{"Joshua_ch_4.docx": [2919], "Ezekiel_ch_28.docx": [3334]}
-6am	{"Psalms_ch_99.docx": [498], "Ezekiel_ch_31.docx": [816], "Daniel_ch_1.docx": [863]}

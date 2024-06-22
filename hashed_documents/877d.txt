@@ -1,7 +1,3 @@
 
-it’d	{"Joshua_ch_4.docx": [2457], "Mark_ch_14.docx": [2799, 2799], "Luke_ch_16.docx": [2576, 2576], "2 Corinthians_ch_9.docx": [610, 610]}
-harad	{"Judges_ch_7.docx": [31, 46, 74, 103, 134, 166, 46, 74, 103, 134, 166, 46, 74, 103, 134, 166]}
-it’d	{"Joshua_ch_4.docx": [2457], "Mark_ch_14.docx": [2799], "Luke_ch_16.docx": [2576], "2 Corinthians_ch_9.docx": [610]}
-harad	{"Judges_ch_7.docx": [31, 46, 74, 103, 134, 166, 46, 74, 103, 134, 166]}
-it’d	{"Joshua_ch_4.docx": [2457], "Mark_ch_14.docx": [2799], "Luke_ch_16.docx": [2576], "2 Corinthians_ch_9.docx": [610]}
+it’d	{"Joshua_ch_4.docx": [2457], "Jonah_ch_4.docx": [405], "Mark_ch_14.docx": [2799], "Luke_ch_16.docx": [2576], "2 Corinthians_ch_9.docx": [610]}
 harad	{"Judges_ch_7.docx": [31, 46, 74, 103, 134, 166]}

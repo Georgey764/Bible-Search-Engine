@@ -1,2 +1,0 @@
-
-11ther	{"Genesis_ch_4.docx": [1207], "Genesis_ch_29.docx": [1584], "Joshua_ch_5.docx": [2339], "Judges_ch_2.docx": [2982], "1 Kings_ch_6.docx": [1488], "1 Kings_ch_10.docx": [1692], "Psalms_ch_58.docx": [1129], "Psalms_ch_135.docx": [852], "Jeremiah_ch_1.docx": [1312], "Jeremiah_ch_25.docx": [1838], "Jeremiah_ch_33.docx": [1802]}

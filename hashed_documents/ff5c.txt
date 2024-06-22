@@ -1,5 +1,2 @@
 
-nicely	{"Psalms_ch_144.docx": [1346], "Luke_ch_21.docx": [621, 621]}
-7mu	{"Numbers_ch_5.docx": [613]}
-nicely	{"Psalms_ch_144.docx": [1346], "Luke_ch_21.docx": [621]}
 nicely	{"Psalms_ch_144.docx": [1346], "Luke_ch_21.docx": [621]}

@@ -1,4 +1,2 @@
 
-joad	{"2 Kings_ch_14.docx": [51], "2 Chronicles_ch_25.docx": [27, 27, 27], "2 Chronicles_ch_29.docx": [2022, 2022, 2022]}
-joad	{"2 Kings_ch_14.docx": [51], "2 Chronicles_ch_25.docx": [27, 27], "2 Chronicles_ch_29.docx": [2022, 2022]}
 joad	{"2 Kings_ch_14.docx": [51], "2 Chronicles_ch_25.docx": [27], "2 Chronicles_ch_29.docx": [2022]}

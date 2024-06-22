@@ -1,4 +1,2 @@
 
-muzzl	{"Deuteronomy_ch_25.docx": [465], "Matthew_ch_22.docx": [3857, 3857, 3857], "Mark_ch_1.docx": [2876, 2876], "Luke_ch_4.docx": [5018, 5018], "1 Corinthians_ch_9.docx": [850, 850], "1 Timothy_ch_5.docx": [2370, 2370], "1 Peter_ch_2.docx": [2263, 2263]}
-muzzl	{"Deuteronomy_ch_25.docx": [465], "Matthew_ch_22.docx": [3857, 3857], "Mark_ch_1.docx": [2876], "Luke_ch_4.docx": [5018], "1 Corinthians_ch_9.docx": [850], "1 Timothy_ch_5.docx": [2370], "1 Peter_ch_2.docx": [2263]}
 muzzl	{"Deuteronomy_ch_25.docx": [465], "Matthew_ch_22.docx": [3857], "Mark_ch_1.docx": [2876], "Luke_ch_4.docx": [5018], "1 Corinthians_ch_9.docx": [850], "1 Timothy_ch_5.docx": [2370], "1 Peter_ch_2.docx": [2263]}

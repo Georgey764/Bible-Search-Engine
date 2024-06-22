@@ -1,3 +1,2 @@
 
-begga	{"Mark_ch_10.docx": [5761], "John_ch_9.docx": [811, 811]}
 begga	{"Mark_ch_10.docx": [5761], "John_ch_9.docx": [811]}

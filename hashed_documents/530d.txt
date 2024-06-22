@@ -1,4 +1,2 @@
 
-bewi	{"Matthew_ch_22.docx": [2604], "Mark_ch_12.docx": [2517, 2517], "Acts_ch_2.docx": [586, 586]}
-bewi	{"Matthew_ch_22.docx": [2604], "Mark_ch_12.docx": [2517], "Acts_ch_2.docx": [586]}
 bewi	{"Matthew_ch_22.docx": [2604], "Mark_ch_12.docx": [2517], "Acts_ch_2.docx": [586]}

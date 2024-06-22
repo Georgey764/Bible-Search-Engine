@@ -1,4 +1,2 @@
 
-anai	{"Nehemiah_ch_8.docx": [1316], "Nehemiah_ch_10.docx": [1095, 1095, 1095]}
-anai	{"Nehemiah_ch_8.docx": [1316], "Nehemiah_ch_10.docx": [1095, 1095]}
 anai	{"Nehemiah_ch_8.docx": [1316], "Nehemiah_ch_10.docx": [1095]}

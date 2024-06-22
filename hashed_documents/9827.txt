@@ -1,4 +1,2 @@
 
-clubs	{"Proverbs_ch_25.docx": [1742], "Matthew_ch_26.docx": [6589, 6589], "Mark_ch_14.docx": [5616, 6214, 5616, 6214], "Luke_ch_22.docx": [6076, 6076]}
-clubs	{"Proverbs_ch_25.docx": [1742], "Matthew_ch_26.docx": [6589], "Mark_ch_14.docx": [5616, 6214], "Luke_ch_22.docx": [6076]}
 clubs	{"Proverbs_ch_25.docx": [1742], "Matthew_ch_26.docx": [6589], "Mark_ch_14.docx": [5616, 6214], "Luke_ch_22.docx": [6076]}

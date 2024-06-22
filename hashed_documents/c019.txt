@@ -1,5 +1,2 @@
 
-aphame	{"1 Chronicles_ch_2.docx": [3448, 3475, 3475, 3475]}
-25howe	{"Exodus_ch_10.docx": [4050], "Deuteronomy_ch_5.docx": [3098], "Joshua_ch_6.docx": [3323], "Judges_ch_19.docx": [4241], "2 Samuel_ch_13.docx": [3892], "2 Kings_ch_14.docx": [3856], "1 Chronicles_ch_5.docx": [3254], "2 Chronicles_ch_25.docx": [4551], "Matthew_ch_1.docx": [2545], "Matthew_ch_10.docx": [2960], "Matthew_ch_20.docx": [3157]}
-aphame	{"1 Chronicles_ch_2.docx": [3448, 3475, 3475]}
 aphame	{"1 Chronicles_ch_2.docx": [3448, 3475]}

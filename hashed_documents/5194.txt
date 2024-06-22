@@ -1,5 +1,2 @@
 
-ledg	{"Ezekiel_ch_43.docx": [3095, 3860, 3860, 3860]}
-25‘sp	{"Leviticus_ch_6.docx": [3261]}
-ledg	{"Ezekiel_ch_43.docx": [3095, 3860, 3860]}
 ledg	{"Ezekiel_ch_43.docx": [3095, 3860]}

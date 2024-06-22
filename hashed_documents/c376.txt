@@ -1,6 +1,2 @@
 
-deeper	{"Nehemiah_ch_8.docx": [2079], "Job_ch_11.docx": [885, 885, 885], "Matthew_ch_23.docx": [2777, 2777, 2777]}
-49wel	{"1 Kings_ch_1.docx": [6942]}
-deeper	{"Nehemiah_ch_8.docx": [2079], "Job_ch_11.docx": [885, 885], "Matthew_ch_23.docx": [2777, 2777]}
-36‘tea	{"Matthew_ch_22.docx": [4024]}
 deeper	{"Nehemiah_ch_8.docx": [2079], "Job_ch_11.docx": [885], "Matthew_ch_23.docx": [2777]}

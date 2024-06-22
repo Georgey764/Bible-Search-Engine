@@ -1,4 +1,2 @@
 
 apt	{"Joshua_ch_16.docx": [234]}
-apt	{"Joshua_ch_16.docx": [234]}
-apt	{"Joshua_ch_16.docx": [234]}

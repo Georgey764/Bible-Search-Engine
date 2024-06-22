@@ -1,4 +1,2 @@
 
-noses	{"Numbers_ch_11.docx": [2946], "Psalms_ch_115.docx": [545, 545, 545], "Isaiah_ch_3.docx": [2514, 2514, 2514]}
-noses	{"Numbers_ch_11.docx": [2946], "Psalms_ch_115.docx": [545, 545], "Isaiah_ch_3.docx": [2514, 2514]}
 noses	{"Numbers_ch_11.docx": [2946], "Psalms_ch_115.docx": [545], "Isaiah_ch_3.docx": [2514]}

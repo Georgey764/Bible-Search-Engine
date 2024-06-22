@@ -1,5 +1,2 @@
 
 puren	{"Psalms_ch_30.docx": [343]}
-puren	{"Psalms_ch_30.docx": [343]}
-20-2	{"Proverbs_ch_20.docx": [19]}
-puren	{"Psalms_ch_30.docx": [343]}

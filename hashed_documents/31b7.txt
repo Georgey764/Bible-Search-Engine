@@ -1,3 +1,0 @@
-
-17whe	{"Genesis_ch_22.docx": [2461], "Deuteronomy_ch_29.docx": [2015], "1 Chronicles_ch_11.docx": [2937], "Psalms_ch_50.docx": [1569], "Song of Solomon_ch_1.docx": [2172]}
-34‘t	{"Leviticus_ch_4.docx": [4856], "Leviticus_ch_13.docx": [5004], "Leviticus_ch_16.docx": [5864], "Deuteronomy_ch_2.docx": [4757], "1 Samuel_ch_2.docx": [6320], "1 Kings_ch_1.docx": [4695], "Jeremiah_ch_31.docx": [6257], "Jeremiah_ch_32.docx": [5890], "Daniel_ch_4.docx": [6524], "Daniel_ch_11.docx": [6295], "Matthew_ch_21.docx": [4988]}

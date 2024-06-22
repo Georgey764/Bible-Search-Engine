@@ -1,2 +1,0 @@
-
-10i	{"Exodus_ch_38.docx": [1072], "Joshua_ch_5.docx": [2159], "1 Samuel_ch_13.docx": [1554], "2 Kings_ch_18.docx": [1438], "1 Chronicles_ch_1.docx": [615], "2 Chronicles_ch_3.docx": [1261], "Esther_ch_8.docx": [1675], "Job_ch_40.docx": [873], "Psalms_ch_116.docx": [835], "Psalms_ch_140.docx": [989], "Proverbs_ch_17.docx": [992], "Proverbs_ch_18.docx": [802], "Proverbs_ch_22.docx": [1024], "Ecclesiastes_ch_4.docx": [1292], "Song of Solomon_ch_7.docx": [1394], "Isaiah_ch_11.docx": [1269], "Isaiah_ch_58.docx": [2138], "Ezekiel_ch_16.docx": [1546]}

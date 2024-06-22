@@ -1,5 +1,2 @@
 
 mytho	{"Job_ch_40.docx": [2151]}
-9joel	{"Nehemiah_ch_11.docx": [1473]}
-mytho	{"Job_ch_40.docx": [2151]}
-mytho	{"Job_ch_40.docx": [2151]}

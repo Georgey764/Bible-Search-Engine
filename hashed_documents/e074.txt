@@ -1,4 +1,2 @@
 
-otheri	{"1 Chronicles_ch_25.docx": [816, 2782, 2782, 2782]}
-otheri	{"1 Chronicles_ch_25.docx": [816, 2782, 2782]}
 otheri	{"1 Chronicles_ch_25.docx": [816, 2782]}

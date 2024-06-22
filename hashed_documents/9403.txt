@@ -1,4 +1,2 @@
 
 undeci	{"James_ch_4.docx": [1130]}
-34‘but	{"Jeremiah_ch_50.docx": [6299], "Ezekiel_ch_20.docx": [6039], "Ezekiel_ch_27.docx": [4921]}
-undeci	{"James_ch_4.docx": [1130]}

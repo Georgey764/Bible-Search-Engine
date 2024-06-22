@@ -1,10 +1,4 @@
 
-semen	{"Genesis_ch_38.docx": [895], "Leviticus_ch_15.docx": [2275, 2298, 2503, 2275, 2298, 2503, 2275, 2298, 2503], "Leviticus_ch_18.docx": [2535, 2535, 2535], "Leviticus_ch_22.docx": [574, 574, 574], "Deuteronomy_ch_23.docx": [995, 995, 995], "Ezekiel_ch_23.docx": [1236, 1236, 1236]}
-excr	{"Deuteronomy_ch_23.docx": [1328], "Isaiah_ch_36.docx": [2119, 2119, 2119]}
-beam	{"1 Kings_ch_6.docx": [1283, 1893, 2053, 1893, 2053, 1893, 2053], "1 Kings_ch_7.docx": [630, 1337, 630, 1337, 630, 1337], "2 Chronicles_ch_34.docx": [1895, 1895, 1895], "Song of Solomon_ch_1.docx": [2174, 2174, 2174]}
-semen	{"Genesis_ch_38.docx": [895], "Leviticus_ch_15.docx": [2275, 2298, 2503, 2275, 2298, 2503], "Leviticus_ch_18.docx": [2535, 2535], "Leviticus_ch_22.docx": [574, 574], "Deuteronomy_ch_23.docx": [995, 995], "Ezekiel_ch_23.docx": [1236, 1236]}
-excr	{"Deuteronomy_ch_23.docx": [1328], "Isaiah_ch_36.docx": [2119, 2119]}
-beam	{"1 Kings_ch_6.docx": [1283, 1893, 2053, 1893, 2053], "1 Kings_ch_7.docx": [630, 1337, 630, 1337], "2 Chronicles_ch_34.docx": [1895, 1895], "Song of Solomon_ch_1.docx": [2174, 2174]}
 semen	{"Genesis_ch_38.docx": [895], "Leviticus_ch_15.docx": [2275, 2298, 2503], "Leviticus_ch_18.docx": [2535], "Leviticus_ch_22.docx": [574], "Deuteronomy_ch_23.docx": [995], "Ezekiel_ch_23.docx": [1236]}
 excr	{"Deuteronomy_ch_23.docx": [1328], "Isaiah_ch_36.docx": [2119]}
 beam	{"1 Kings_ch_6.docx": [1283, 1893, 2053], "1 Kings_ch_7.docx": [630, 1337], "2 Chronicles_ch_34.docx": [1895], "Song of Solomon_ch_1.docx": [2174]}

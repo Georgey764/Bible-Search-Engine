@@ -1,3 +1,2 @@
 
-fables	{"1 Timothy_ch_4.docx": [805]}
-fables	{"1 Timothy_ch_4.docx": [805]}
+fables	{"1 Timothy_ch_4.docx": [805], "2 Timothy_ch_4.docx": [660]}

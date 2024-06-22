@@ -1,6 +1,2 @@
 
-occup	{"Genesis_ch_47.docx": [321], "2 Chronicles_ch_23.docx": [845, 1001, 845, 1001, 845, 1001]}
-occup	{"Genesis_ch_47.docx": [321], "2 Chronicles_ch_23.docx": [845, 1001, 845, 1001]}
-16‘at	{"1 Samuel_ch_9.docx": [2485], "Isaiah_ch_33.docx": [2444]}
-24thos	{"Proverbs_ch_13.docx": [2506], "Proverbs_ch_28.docx": [2200]}
 occup	{"Genesis_ch_47.docx": [321], "2 Chronicles_ch_23.docx": [845, 1001]}

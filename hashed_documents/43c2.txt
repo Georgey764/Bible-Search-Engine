@@ -1,6 +1,4 @@
 
 isal	{"1 Chronicles_ch_8.docx": [1254]}
-unpuni	{"Proverbs_ch_11.docx": [2222], "Proverbs_ch_19.docx": [254, 743, 254, 743, 254, 743], "Proverbs_ch_28.docx": [1925, 1925, 1925]}
-unpuni	{"Proverbs_ch_11.docx": [2222], "Proverbs_ch_19.docx": [254, 743, 254, 743], "Proverbs_ch_28.docx": [1925, 1925]}
-isal	{"1 Chronicles_ch_8.docx": [1254]}
 unpuni	{"Proverbs_ch_11.docx": [2222], "Proverbs_ch_19.docx": [254, 743], "Proverbs_ch_28.docx": [1925]}
+zarep	{"Obadiah_ch_1.docx": [3696]}

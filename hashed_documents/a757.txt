@@ -1,11 +1,4 @@
 
-abira	{"Numbers_ch_16.docx": [70, 1550, 3411, 3709, 1550, 3411, 3709, 1550, 3411, 3709], "Numbers_ch_26.docx": [917, 987, 917, 987, 917, 987], "Deuteronomy_ch_11.docx": [728, 728, 728], "Nehemiah_ch_1.docx": [92, 92, 92]}
-abide	{"Deuteronomy_ch_17.docx": [1699], "Proverbs_ch_20.docx": [1151, 1151, 1151]}
-cityal	{"Nehemiah_ch_11.docx": [2761]}
-abira	{"Numbers_ch_16.docx": [70, 1550, 3411, 3709, 1550, 3411, 3709], "Numbers_ch_26.docx": [917, 987, 917, 987], "Deuteronomy_ch_11.docx": [728, 728], "Nehemiah_ch_1.docx": [92, 92]}
-abide	{"Deuteronomy_ch_17.docx": [1699], "Proverbs_ch_20.docx": [1151, 1151]}
-cityal	{"Nehemiah_ch_11.docx": [2761]}
-6‘beca	{"Isaiah_ch_8.docx": [768], "Isaiah_ch_9.docx": [909], "Isaiah_ch_47.docx": [830]}
 abira	{"Numbers_ch_16.docx": [70, 1550, 3411, 3709], "Numbers_ch_26.docx": [917, 987], "Deuteronomy_ch_11.docx": [728], "Nehemiah_ch_1.docx": [92]}
 abide	{"Deuteronomy_ch_17.docx": [1699], "Proverbs_ch_20.docx": [1151]}
 cityal	{"Nehemiah_ch_11.docx": [2761]}

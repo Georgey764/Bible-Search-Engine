@@ -1,2 +1,0 @@
-
-9‘no	{"Genesis_ch_39.docx": [1424], "Exodus_ch_12.docx": [1104], "Deuteronomy_ch_15.docx": [1099], "2 Samuel_ch_3.docx": [1289], "1 Kings_ch_17.docx": [792], "2 Chronicles_ch_20.docx": [1240], "Job_ch_34.docx": [659], "Psalms_ch_81.docx": [963], "Jeremiah_ch_43.docx": [1285], "Ezekiel_ch_43.docx": [1535], "Micah_ch_2.docx": [1542], "Haggai_ch_1.docx": [1504], "Malachi_ch_1.docx": [1787], "Matthew_ch_6.docx": [1338], "Matthew_ch_23.docx": [914]}

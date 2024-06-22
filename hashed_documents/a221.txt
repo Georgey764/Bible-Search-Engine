@@ -1,4 +1,2 @@
 
-changi	{"Genesis_ch_31.docx": [498], "2 Kings_ch_23.docx": [7537, 7537, 7537], "Psalms_ch_60.docx": [52, 52, 52], "Psalms_ch_80.docx": [53, 53, 53]}
-changi	{"Genesis_ch_31.docx": [498], "2 Kings_ch_23.docx": [7537, 7537], "Psalms_ch_60.docx": [52, 52], "Psalms_ch_80.docx": [53, 53]}
-changi	{"Genesis_ch_31.docx": [498], "2 Kings_ch_23.docx": [7537], "Psalms_ch_60.docx": [52], "Psalms_ch_80.docx": [53]}
+changi	{"Genesis_ch_31.docx": [498], "2 Kings_ch_23.docx": [7537], "Psalms_ch_60.docx": [52], "Psalms_ch_80.docx": [53], "Song of Solomon_ch_8.docx": [3273], "Isaiah_ch_66.docx": [6419], "Lamentations_ch_5.docx": [3449], "Daniel_ch_12.docx": [5114], "Hosea_ch_14.docx": [2669], "Joel_ch_3.docx": [5785], "Jonah_ch_4.docx": [2768], "Micah_ch_7.docx": [5637], "Nahum_ch_3.docx": [4845], "Habakkuk_ch_3.docx": [4485], "Zephaniah_ch_3.docx": [5575], "Haggai_ch_2.docx": [5892]}

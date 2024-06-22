@@ -1,4 +1,2 @@
 
 34	{"1 Chronicles_ch_4.docx": [3844], "1 Chronicles_ch_11.docx": [5655]}
-34	{"1 Chronicles_ch_4.docx": [3844], "1 Chronicles_ch_11.docx": [5655]}
-34	{"1 Chronicles_ch_4.docx": [3844], "1 Chronicles_ch_11.docx": [5655]}

@@ -1,5 +1,2 @@
 
 mounti	{"Numbers_ch_4.docx": [3325]}
-mounti	{"Numbers_ch_4.docx": [3325]}
-17ha	{"Proverbs_ch_1.docx": [1692]}
-mounti	{"Numbers_ch_4.docx": [3325]}

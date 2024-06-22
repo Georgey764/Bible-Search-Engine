@@ -1,7 +1,3 @@
 
-hachi	{"1 Samuel_ch_23.docx": [2904], "1 Samuel_ch_26.docx": [106, 200, 106, 200, 106, 200]}
-eliphe	{"Ezra_ch_8.docx": [1397]}
-hachi	{"1 Samuel_ch_23.docx": [2904], "1 Samuel_ch_26.docx": [106, 200, 106, 200]}
-eliphe	{"Ezra_ch_8.docx": [1397]}
 hachi	{"1 Samuel_ch_23.docx": [2904], "1 Samuel_ch_26.docx": [106, 200]}
-eliphe	{"Ezra_ch_8.docx": [1397]}
+eliphe	{"Ezra_ch_8.docx": [1397], "Ezra_ch_10.docx": [5289]}

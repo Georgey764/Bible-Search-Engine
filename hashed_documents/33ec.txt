@@ -1,4 +1,2 @@
 
-waterl	{"Psalms_ch_78.docx": [4011], "Isaiah_ch_41.docx": [3272, 3272, 3272], "Isaiah_ch_43.docx": [3086, 3086, 3086], "Isaiah_ch_44.docx": [323, 323, 323], "Ezekiel_ch_5.docx": [2774, 2774, 2774], "Hosea_ch_2.docx": [488, 488, 488], "Joel_ch_2.docx": [3603, 3603, 3603]}
-waterl	{"Psalms_ch_78.docx": [4011], "Isaiah_ch_41.docx": [3272, 3272], "Isaiah_ch_43.docx": [3086, 3086], "Isaiah_ch_44.docx": [323, 323], "Ezekiel_ch_5.docx": [2774, 2774], "Hosea_ch_2.docx": [488, 488], "Joel_ch_2.docx": [3603, 3603]}
 waterl	{"Psalms_ch_78.docx": [4011], "Isaiah_ch_41.docx": [3272], "Isaiah_ch_43.docx": [3086], "Isaiah_ch_44.docx": [323], "Ezekiel_ch_5.docx": [2774], "Hosea_ch_2.docx": [488], "Joel_ch_2.docx": [3603]}

@@ -1,4 +1,2 @@
 
-grow;	{"Proverbs_ch_26.docx": [1700], "Luke_ch_12.docx": [3400, 3400]}
-grow;	{"Proverbs_ch_26.docx": [1700], "Luke_ch_12.docx": [3400]}
 grow;	{"Proverbs_ch_26.docx": [1700], "Luke_ch_12.docx": [3400]}

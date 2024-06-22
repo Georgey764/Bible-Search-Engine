@@ -1,3 +1,2 @@
 
-crowe	{"Matthew_ch_26.docx": [9280], "Mark_ch_14.docx": [9242, 9242], "Luke_ch_22.docx": [7074, 7074], "John_ch_18.docx": [3413, 3413]}
 crowe	{"Matthew_ch_26.docx": [9280], "Mark_ch_14.docx": [9242], "Luke_ch_22.docx": [7074], "John_ch_18.docx": [3413]}

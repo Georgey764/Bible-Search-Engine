@@ -1,8 +1,3 @@
 
 worse;	{"Genesis_ch_3.docx": [2435]}
-game	{"Genesis_ch_10.docx": [185, 365, 365], "Psalms_ch_124.docx": [392, 392, 392], "Isaiah_ch_31.docx": [814, 814, 814], "Hosea_ch_4.docx": [450, 450, 450], "Hosea_ch_5.docx": [381, 381, 381], "Hosea_ch_9.docx": [2681, 2681, 2681], "Amos_ch_3.docx": [440, 440, 440], "Nahum_ch_2.docx": [2490, 2797, 2490, 2797, 2490, 2797], "Malachi_ch_1.docx": [2863, 2863, 2863], "Acts_ch_19.docx": [8937, 8959, 8983, 8937, 8959, 8983]}
-worse;	{"Genesis_ch_3.docx": [2435]}
-game	{"Genesis_ch_10.docx": [185, 365], "Psalms_ch_124.docx": [392, 392], "Isaiah_ch_31.docx": [814, 814], "Hosea_ch_4.docx": [450, 450], "Hosea_ch_5.docx": [381, 381], "Hosea_ch_9.docx": [2681, 2681], "Amos_ch_3.docx": [440, 440], "Nahum_ch_2.docx": [2490, 2797, 2490, 2797], "Malachi_ch_1.docx": [2863, 2863], "Acts_ch_19.docx": [8937, 8959, 8983]}
-34fo	{"Genesis_ch_44.docx": [4419], "Numbers_ch_14.docx": [4780], "2 Kings_ch_19.docx": [5976], "Proverbs_ch_3.docx": [3302], "Proverbs_ch_23.docx": [3107], "Isaiah_ch_10.docx": [5037]}
-worse;	{"Genesis_ch_3.docx": [2435]}
-game	{"Genesis_ch_10.docx": [185, 365], "Psalms_ch_124.docx": [392], "Isaiah_ch_31.docx": [814], "Hosea_ch_4.docx": [450], "Hosea_ch_5.docx": [381], "Hosea_ch_9.docx": [2681], "Amos_ch_3.docx": [440], "Nahum_ch_2.docx": [2490, 2797], "Malachi_ch_1.docx": [2863], "Acts_ch_19.docx": [8937, 8959, 8983]}
+game	{"Genesis_ch_10.docx": [185, 365], "Psalms_ch_124.docx": [392], "Isaiah_ch_31.docx": [814], "Hosea_ch_4.docx": [450], "Hosea_ch_5.docx": [381], "Hosea_ch_9.docx": [2681], "Amos_ch_3.docx": [440], "Nahum_ch_2.docx": [2490, 2797], "Nahum_ch_3.docx": [100], "Malachi_ch_1.docx": [2863], "Acts_ch_19.docx": [8937, 8959, 8983]}

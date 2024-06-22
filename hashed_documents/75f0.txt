@@ -1,3 +1,2 @@
 
 cly	{"Acts_ch_27.docx": [1803]}
-cly	{"Acts_ch_27.docx": [1803]}

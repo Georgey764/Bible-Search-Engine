@@ -1,5 +1,2 @@
 
 akr	{"1 Kings_ch_11.docx": [3727]}
-akr	{"1 Kings_ch_11.docx": [3727]}
-22wh	{"1 Kings_ch_13.docx": [3384], "2 Chronicles_ch_29.docx": [3728], "Job_ch_19.docx": [1950], "Proverbs_ch_17.docx": [2179], "Proverbs_ch_30.docx": [2385]}
-akr	{"1 Kings_ch_11.docx": [3727]}

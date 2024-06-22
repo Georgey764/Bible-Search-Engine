@@ -1,8 +1,3 @@
 
-raped	{"Judges_ch_19.docx": [4261], "Judges_ch_20.docx": [585, 585, 585], "2 Samuel_ch_13.docx": [2096, 3491, 5156, 2096, 3491, 5156, 2096, 3491, 5156]}
-partl	{"Daniel_ch_2.docx": [7035, 7039, 7181, 7185, 7039, 7181, 7185, 7039, 7181, 7185], "1 Corinthians_ch_11.docx": [1976, 1976]}
-38‘y	{"Exodus_ch_25.docx": [4249], "Matthew_ch_5.docx": [4797]}
-raped	{"Judges_ch_19.docx": [4261], "Judges_ch_20.docx": [585, 585], "2 Samuel_ch_13.docx": [2096, 3491, 5156, 2096, 3491, 5156]}
-partl	{"Daniel_ch_2.docx": [7035, 7039, 7181, 7185, 7039, 7181, 7185], "1 Corinthians_ch_11.docx": [1976]}
-raped	{"Judges_ch_19.docx": [4261], "Judges_ch_20.docx": [585], "2 Samuel_ch_13.docx": [2096, 3491, 5156]}
+raped	{"Judges_ch_19.docx": [4261], "Judges_ch_20.docx": [585], "2 Samuel_ch_13.docx": [2096, 3491, 5156], "Lamentations_ch_5.docx": [860]}
 partl	{"Daniel_ch_2.docx": [7035, 7039, 7181, 7185], "1 Corinthians_ch_11.docx": [1976]}

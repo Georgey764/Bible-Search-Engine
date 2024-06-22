@@ -1,3 +1,2 @@
 
 pods	{"Luke_ch_15.docx": [1897]}
-pods	{"Luke_ch_15.docx": [1897]}

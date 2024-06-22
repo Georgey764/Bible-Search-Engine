@@ -1,4 +1,2 @@
 
-ashs	{"1 Chronicles_ch_4.docx": [1168, 1239, 1239, 1239]}
-ashs	{"1 Chronicles_ch_4.docx": [1168, 1239, 1239]}
 ashs	{"1 Chronicles_ch_4.docx": [1168, 1239]}

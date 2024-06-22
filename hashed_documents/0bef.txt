@@ -1,2 +1,0 @@
-
-23i	{"Exodus_ch_39.docx": [2849], "Numbers_ch_20.docx": [3477], "2 Samuel_ch_13.docx": [3554], "2 Samuel_ch_17.docx": [3675], "Psalms_ch_118.docx": [1895], "Proverbs_ch_24.docx": [2180], "Proverbs_ch_29.docx": [2103], "Isaiah_ch_19.docx": [3246]}

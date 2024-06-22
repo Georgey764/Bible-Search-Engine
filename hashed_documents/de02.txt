@@ -1,4 +1,3 @@
 
 calmn	{"Psalms_ch_29.docx": [894]}
-calmn	{"Psalms_ch_29.docx": [894]}
-calmn	{"Psalms_ch_29.docx": [894]}
+kouart	{"Romans_ch_16.docx": [3102]}

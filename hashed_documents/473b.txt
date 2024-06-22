@@ -1,4 +1,2 @@
 
-flank	{"Nehemiah_ch_4.docx": [3728], "Psalms_ch_38.docx": [530, 530, 530]}
-flank	{"Nehemiah_ch_4.docx": [3728], "Psalms_ch_38.docx": [530, 530]}
 flank	{"Nehemiah_ch_4.docx": [3728], "Psalms_ch_38.docx": [530]}

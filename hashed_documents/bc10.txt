@@ -1,7 +1,3 @@
 
-elda	{"Genesis_ch_25.docx": [357], "Numbers_ch_11.docx": [4081, 4417, 4081, 4417, 4081, 4417], "Numbers_ch_34.docx": [2092, 2092, 2092], "2 Chronicles_ch_28.docx": [1913, 1913, 1913]}
-sobo	{"1 Chronicles_ch_11.docx": [5342], "1 Chronicles_ch_12.docx": [808, 808], "1 Chronicles_ch_20.docx": [834, 834, 834], "1 Chronicles_ch_27.docx": [1401, 1401, 1401]}
-elda	{"Genesis_ch_25.docx": [357], "Numbers_ch_11.docx": [4081, 4417, 4081, 4417], "Numbers_ch_34.docx": [2092, 2092], "2 Chronicles_ch_28.docx": [1913, 1913]}
-sobo	{"1 Chronicles_ch_12.docx": [808, 808], "1 Chronicles_ch_20.docx": [834, 834], "1 Chronicles_ch_27.docx": [1401, 1401]}
 elda	{"Genesis_ch_25.docx": [357], "Numbers_ch_11.docx": [4081, 4417], "Numbers_ch_34.docx": [2092], "2 Chronicles_ch_28.docx": [1913]}
 sobo	{"1 Chronicles_ch_11.docx": [5342], "1 Chronicles_ch_12.docx": [808], "1 Chronicles_ch_20.docx": [834], "1 Chronicles_ch_27.docx": [1401]}

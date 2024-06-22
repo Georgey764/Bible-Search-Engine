@@ -1,5 +1,2 @@
 
-hated!	{"Psalms_ch_119.docx": [10715], "Ezekiel_ch_35.docx": [1389, 1389, 1389]}
-41tho	{"1 Chronicles_ch_16.docx": [4527], "Psalms_ch_89.docx": [3950]}
-hated!	{"Psalms_ch_119.docx": [10715], "Ezekiel_ch_35.docx": [1389, 1389]}
 hated!	{"Psalms_ch_119.docx": [10715], "Ezekiel_ch_35.docx": [1389]}

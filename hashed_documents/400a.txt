@@ -1,4 +1,2 @@
 
-thoro	{"Leviticus_ch_6.docx": [1104], "Acts_ch_8.docx": [5118, 5146, 5175, 5118, 5146, 5175], "Acts_ch_20.docx": [7432, 7438, 7445, 7454, 7464, 7432, 7438, 7445, 7454, 7464], "Acts_ch_23.docx": [1862, 1874, 1887, 6427, 1862, 1874, 1887, 6427], "Romans_ch_15.docx": [2808, 2808], "2 Corinthians_ch_3.docx": [2416, 2416], "Revelation_ch_11.docx": [2874, 2874]}
-thoro	{"Leviticus_ch_6.docx": [1104], "Acts_ch_8.docx": [5118, 5146, 5175], "Acts_ch_20.docx": [7432, 7438, 7445, 7454, 7464], "Acts_ch_23.docx": [1862, 1874, 1887, 6427], "Romans_ch_15.docx": [2808], "2 Corinthians_ch_3.docx": [2416], "Revelation_ch_11.docx": [2874]}
 thoro	{"Leviticus_ch_6.docx": [1104], "Acts_ch_8.docx": [5118, 5146, 5175], "Acts_ch_20.docx": [7432, 7438, 7445, 7454, 7464], "Acts_ch_23.docx": [1862, 1874, 1887, 6427], "Romans_ch_15.docx": [2808], "2 Corinthians_ch_3.docx": [2416], "Revelation_ch_11.docx": [2874]}

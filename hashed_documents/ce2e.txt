@@ -1,4 +1,3 @@
 
  joba	{"1 Chronicles_ch_8.docx": [611]}
- joba	{"1 Chronicles_ch_8.docx": [611]}
- joba	{"1 Chronicles_ch_8.docx": [611]}
+docu	{"Ezekiel_ch_48.docx": [6986]}

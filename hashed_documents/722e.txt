@@ -1,5 +1,2 @@
 
-voice;	{"Psalms_ch_64.docx": [66], "Song of Solomon_ch_5.docx": [1238, 1238, 1238], "Isaiah_ch_30.docx": [5399, 5399, 5399]}
-22[r	{"Deuteronomy_ch_18.docx": [2827]}
-voice;	{"Psalms_ch_64.docx": [66], "Song of Solomon_ch_5.docx": [1238, 1238], "Isaiah_ch_30.docx": [5399, 5399]}
 voice;	{"Psalms_ch_64.docx": [66], "Song of Solomon_ch_5.docx": [1238], "Isaiah_ch_30.docx": [5399]}

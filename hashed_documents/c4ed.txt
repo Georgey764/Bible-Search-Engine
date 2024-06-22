@@ -2,8 +2,3 @@
 rabma	{"Jeremiah_ch_39.docx": [2069]}
 woodwo	{"Zechariah_ch_5.docx": [675]}
 spanks	{"Hebrews_ch_12.docx": [1166]}
-rabma	{"Jeremiah_ch_39.docx": [2069]}
-woodwo	{"Zechariah_ch_5.docx": [675]}
-rabma	{"Jeremiah_ch_39.docx": [2069]}
-woodwo	{"Zechariah_ch_5.docx": [675]}
-spanks	{"Hebrews_ch_12.docx": [1166]}

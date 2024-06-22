@@ -1,4 +1,2 @@
 
-replan	{"Psalms_ch_44.docx": [213], "Jeremiah_ch_1.docx": [1284, 1284, 1284], "Jeremiah_ch_30.docx": [2962, 2962, 2962], "Jeremiah_ch_31.docx": [5249, 5249, 5249], "Ezekiel_ch_36.docx": [6667, 6667, 6667]}
-replan	{"Psalms_ch_44.docx": [213], "Jeremiah_ch_1.docx": [1284, 1284], "Jeremiah_ch_30.docx": [2962, 2962], "Jeremiah_ch_31.docx": [5249, 5249], "Ezekiel_ch_36.docx": [6667, 6667]}
 replan	{"Psalms_ch_44.docx": [213], "Jeremiah_ch_1.docx": [1284], "Jeremiah_ch_30.docx": [2962], "Jeremiah_ch_31.docx": [5249], "Ezekiel_ch_36.docx": [6667]}

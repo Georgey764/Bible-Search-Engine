@@ -1,6 +1,2 @@
 
-chewin	{"Jeremiah_ch_2.docx": [433], "Galatians_ch_5.docx": [1787, 1787]}
-54,0	{"1 Chronicles_ch_23.docx": [379]}
-164sev	{"Psalms_ch_119.docx": [13887]}
-chewin	{"Jeremiah_ch_2.docx": [433], "Galatians_ch_5.docx": [1787]}
-chewin	{"Jeremiah_ch_2.docx": [433], "Galatians_ch_5.docx": [1787]}
+chewin	{"Jeremiah_ch_2.docx": [433], "Micah_ch_7.docx": [580], "Galatians_ch_5.docx": [1787]}

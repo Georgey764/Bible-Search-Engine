@@ -1,4 +1,2 @@
 
-ebedm	{"Jeremiah_ch_38.docx": [1314, 1344, 1792, 1898, 1344, 1792, 1898, 1344, 1792, 1898], "Jeremiah_ch_39.docx": [2529, 2529, 2529]}
-ebedm	{"Jeremiah_ch_38.docx": [1314, 1344, 1792, 1898, 1344, 1792, 1898], "Jeremiah_ch_39.docx": [2529, 2529]}
 ebedm	{"Jeremiah_ch_38.docx": [1314, 1344, 1792, 1898], "Jeremiah_ch_39.docx": [2529]}

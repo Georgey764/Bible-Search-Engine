@@ -1,4 +1,2 @@
 
-gadera	{"Joshua_ch_15.docx": [4724], "1 Chronicles_ch_4.docx": [2802, 2802, 2802]}
-gadera	{"Joshua_ch_15.docx": [4724], "1 Chronicles_ch_4.docx": [2802, 2802]}
 gadera	{"Joshua_ch_15.docx": [4724], "1 Chronicles_ch_4.docx": [2802]}

@@ -1,4 +1,2 @@
 
-shereb	{"Ezra_ch_8.docx": [2081, 3226, 3226, 3226], "Nehemiah_ch_8.docx": [1844, 1844, 1844], "Nehemiah_ch_9.docx": [517, 538, 561, 1014, 517, 538, 561, 1014, 517, 538, 561, 1014], "Nehemiah_ch_10.docx": [639, 639, 639], "Nehemiah_ch_12.docx": [516, 2387, 516, 2387, 516, 2387]}
-shereb	{"Ezra_ch_8.docx": [2081, 3226, 3226], "Nehemiah_ch_8.docx": [1844, 1844], "Nehemiah_ch_9.docx": [517, 538, 561, 1014, 517, 538, 561, 1014], "Nehemiah_ch_10.docx": [639, 639], "Nehemiah_ch_12.docx": [516, 2387, 516, 2387]}
 shereb	{"Ezra_ch_8.docx": [2081, 3226], "Nehemiah_ch_8.docx": [1844], "Nehemiah_ch_9.docx": [517, 538, 561, 1014], "Nehemiah_ch_10.docx": [639], "Nehemiah_ch_12.docx": [516, 2387]}

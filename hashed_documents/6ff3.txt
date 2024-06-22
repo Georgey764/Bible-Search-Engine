@@ -1,5 +1,2 @@
 
-megidd	{"Joshua_ch_17.docx": [1889], "Judges_ch_5.docx": [2976, 2976, 2976], "1 Kings_ch_4.docx": [1222, 1222, 1222], "1 Kings_ch_9.docx": [2433, 2433, 2433], "2 Kings_ch_9.docx": [5578, 5578, 5578], "2 Kings_ch_23.docx": [6694, 6708, 6694, 6708, 6694, 6708], "2 Chronicles_ch_35.docx": [5265, 5265, 5265], "Isaiah_ch_10.docx": [4293, 4293, 4293]}
-megidd	{"Joshua_ch_17.docx": [1889], "Judges_ch_5.docx": [2976, 2976], "1 Kings_ch_4.docx": [1222, 1222], "1 Kings_ch_9.docx": [2433, 2433], "2 Kings_ch_9.docx": [5578, 5578], "2 Kings_ch_23.docx": [6694, 6708, 6694, 6708], "2 Chronicles_ch_35.docx": [5265, 5265], "Isaiah_ch_10.docx": [4293, 4293]}
-1king	{"1 Kings_ch_1.docx": [5], "1 Kings_ch_11.docx": [5], "1 Chronicles_ch_25.docx": [5]}
 megidd	{"Joshua_ch_17.docx": [1889], "Judges_ch_5.docx": [2976], "1 Kings_ch_4.docx": [1222], "1 Kings_ch_9.docx": [2433], "2 Kings_ch_9.docx": [5578], "2 Kings_ch_23.docx": [6694, 6708], "2 Chronicles_ch_35.docx": [5265], "Isaiah_ch_10.docx": [4293]}

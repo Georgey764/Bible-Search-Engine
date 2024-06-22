@@ -1,3 +1,2 @@
 
 vendor	{"Luke_ch_19.docx": [5391]}
-vendor	{"Luke_ch_19.docx": [5391]}

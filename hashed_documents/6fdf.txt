@@ -1,4 +1,2 @@
 
-swar	{"Judges_ch_14.docx": [1226], "1 Samuel_ch_7.docx": [2156, 2156, 2156]}
-swar	{"Judges_ch_14.docx": [1226], "1 Samuel_ch_7.docx": [2156, 2156]}
 swar	{"Judges_ch_14.docx": [1226], "1 Samuel_ch_7.docx": [2156]}

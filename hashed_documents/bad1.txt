@@ -1,5 +1,2 @@
 
-earthl	{"Proverbs_ch_9.docx": [1845], "John_ch_3.docx": [1235, 3745, 3749, 1235, 3745, 3749], "1 Corinthians_ch_8.docx": [388, 388], "1 Corinthians_ch_15.docx": [4624, 4637, 4624, 4637], "2 Corinthians_ch_5.docx": [66, 71, 66, 71], "Philippians_ch_3.docx": [2801, 2801], "Colossians_ch_1.docx": [2601, 2601], "Colossians_ch_3.docx": [476, 476], "James_ch_3.docx": [1777, 1777], "Revelation_ch_9.docx": [356, 356]}
-83a	{"Psalms_ch_119.docx": [6825]}
-earthl	{"Proverbs_ch_9.docx": [1845], "John_ch_3.docx": [1235, 3745, 3749], "1 Corinthians_ch_8.docx": [388], "1 Corinthians_ch_15.docx": [4624, 4637], "2 Corinthians_ch_5.docx": [66, 71], "Philippians_ch_3.docx": [2801], "Colossians_ch_1.docx": [2601], "Colossians_ch_3.docx": [476], "James_ch_3.docx": [1777], "Revelation_ch_9.docx": [356]}
 earthl	{"Proverbs_ch_9.docx": [1845], "John_ch_3.docx": [1235, 3745, 3749], "1 Corinthians_ch_8.docx": [388], "1 Corinthians_ch_15.docx": [4624, 4637], "2 Corinthians_ch_5.docx": [66, 71], "Philippians_ch_3.docx": [2801], "Colossians_ch_1.docx": [2601], "Colossians_ch_3.docx": [476], "James_ch_3.docx": [1777], "Revelation_ch_9.docx": [356]}

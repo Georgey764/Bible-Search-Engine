@@ -1,5 +1,2 @@
 
-unfulf	{"Psalms_ch_21.docx": [1028], "Isaiah_ch_56.docx": [1921, 1921, 1921]}
-3‘wil	{"Job_ch_41.docx": [193]}
-unfulf	{"Psalms_ch_21.docx": [1028], "Isaiah_ch_56.docx": [1921, 1921]}
 unfulf	{"Psalms_ch_21.docx": [1028], "Isaiah_ch_56.docx": [1921]}

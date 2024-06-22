@@ -1,5 +1,2 @@
 
 isoam	{"1 Chronicles_ch_24.docx": [2810]}
-isoam	{"1 Chronicles_ch_24.docx": [2810]}
-1hez	{"2 Chronicles_ch_29.docx": [5]}
-isoam	{"1 Chronicles_ch_24.docx": [2810]}

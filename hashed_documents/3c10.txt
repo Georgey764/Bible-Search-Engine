@@ -1,3 +1,0 @@
-
-1,790	{"Exodus_ch_38.docx": [2945]}
-31hi	{"Numbers_ch_7.docx": [3597], "1 Kings_ch_4.docx": [3485]}

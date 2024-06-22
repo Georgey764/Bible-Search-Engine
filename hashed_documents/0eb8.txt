@@ -1,5 +1,2 @@
 
 zethar	{"Esther_ch_1.docx": [1895]}
-20plus	{"1 Kings_ch_10.docx": [2968]}
-zethar	{"Esther_ch_1.docx": [1895]}
-zethar	{"Esther_ch_1.docx": [1895]}

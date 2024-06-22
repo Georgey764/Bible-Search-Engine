@@ -1,6 +1,3 @@
 
 unple	{"Proverbs_ch_22.docx": [1075]}
 begs	{"1 John_ch_2.docx": [139]}
-unple	{"Proverbs_ch_22.docx": [1075]}
-unple	{"Proverbs_ch_22.docx": [1075]}
-begs	{"1 John_ch_2.docx": [139]}

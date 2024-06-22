@@ -1,5 +1,2 @@
 
-tent!	{"Genesis_ch_18.docx": [1201], "2 Samuel_ch_7.docx": [204, 204, 204], "2 Corinthians_ch_12.docx": [1311, 1311]}
-tent!	{"Genesis_ch_18.docx": [1201], "2 Samuel_ch_7.docx": [204, 204], "2 Corinthians_ch_12.docx": [1311]}
-4who’	{"Proverbs_ch_30.docx": [270]}
-tent!	{"Genesis_ch_18.docx": [1201], "2 Samuel_ch_7.docx": [204], "2 Corinthians_ch_12.docx": [1311]}
+tent!	{"Genesis_ch_18.docx": [1201], "Exodus_ch_40.docx": [3554], "2 Samuel_ch_7.docx": [204], "2 Corinthians_ch_12.docx": [1311]}

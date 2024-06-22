@@ -1,4 +1,2 @@
 
-droug	{"Deuteronomy_ch_8.docx": [1721], "Jeremiah_ch_14.docx": [17, 17, 17], "Jeremiah_ch_17.docx": [1399, 1399, 1399], "Ezekiel_ch_17.docx": [1816, 1816, 1816], "Amos_ch_1.docx": [3120, 3131, 3143, 3120, 3131, 3143, 3120, 3131, 3143]}
-droug	{"Deuteronomy_ch_8.docx": [1721], "Jeremiah_ch_14.docx": [17, 17], "Jeremiah_ch_17.docx": [1399, 1399], "Ezekiel_ch_17.docx": [1816, 1816], "Amos_ch_1.docx": [3120, 3131, 3143, 3120, 3131, 3143]}
 droug	{"Deuteronomy_ch_8.docx": [1721], "Jeremiah_ch_14.docx": [17], "Jeremiah_ch_17.docx": [1399], "Ezekiel_ch_17.docx": [1816], "Amos_ch_1.docx": [3120, 3131, 3143]}

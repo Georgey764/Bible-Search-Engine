@@ -1,3 +1,2 @@
 
-house’	{"2 Corinthians_ch_5.docx": [300, 305, 305]}
 house’	{"2 Corinthians_ch_5.docx": [300, 305]}

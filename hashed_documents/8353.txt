@@ -1,4 +1,2 @@
 
-love.	{"Ephesians_ch_4.docx": [2084, 2115, 2115], "2 Timothy_ch_3.docx": [66, 66]}
-17‘w	{"Leviticus_ch_10.docx": [2984], "Joshua_ch_22.docx": [2788], "Ruth_ch_1.docx": [2500], "2 Kings_ch_23.docx": [4285], "Matthew_ch_11.docx": [1878]}
 love.	{"Ephesians_ch_4.docx": [2084, 2115], "2 Timothy_ch_3.docx": [66]}

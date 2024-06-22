@@ -1,5 +1,2 @@
 
-clin	{"Job_ch_27.docx": [432], "Psalms_ch_25.docx": [204, 204, 204], "Song of Solomon_ch_7.docx": [1047, 1047, 1047], "John_ch_20.docx": [2007, 2007]}
-clin	{"Job_ch_27.docx": [432], "Psalms_ch_25.docx": [204, 204], "Song of Solomon_ch_7.docx": [1047, 1047], "John_ch_20.docx": [2007]}
-21i’ve	{"Daniel_ch_10.docx": [3329]}
 clin	{"Job_ch_27.docx": [432], "Psalms_ch_25.docx": [204], "Song of Solomon_ch_7.docx": [1047], "John_ch_20.docx": [2007]}

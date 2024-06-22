@@ -1,4 +1,2 @@
 
-meshwo	{"2 Chronicles_ch_4.docx": [1630, 1645, 1645, 1645]}
-meshwo	{"2 Chronicles_ch_4.docx": [1630, 1645, 1645]}
 meshwo	{"2 Chronicles_ch_4.docx": [1630, 1645]}

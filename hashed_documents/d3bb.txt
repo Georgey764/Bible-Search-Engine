@@ -1,4 +1,2 @@
 
-looter	{"Joshua_ch_13.docx": [24486, 24525, 24565, 24610, 24656, 24525, 24565, 24610, 24656, 24525, 24565, 24610, 24656], "Judges_ch_2.docx": [3534, 3534, 3534], "Jeremiah_ch_18.docx": [3044, 3044, 3044], "Nahum_ch_2.docx": [1871, 1871, 1871]}
-looter	{"Joshua_ch_13.docx": [24486, 24525, 24565, 24610, 24656, 24525, 24565, 24610, 24656], "Judges_ch_2.docx": [3534, 3534], "Jeremiah_ch_18.docx": [3044, 3044], "Nahum_ch_2.docx": [1871, 1871]}
 looter	{"Joshua_ch_13.docx": [24486, 24525, 24565, 24610, 24656], "Judges_ch_2.docx": [3534], "Jeremiah_ch_18.docx": [3044], "Nahum_ch_2.docx": [1871]}

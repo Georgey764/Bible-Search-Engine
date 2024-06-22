@@ -1,5 +1,2 @@
 
-pli	{"Job_ch_7.docx": [1165], "Job_ch_30.docx": [2089, 2089, 2089]}
-13‘whe	{"Numbers_ch_11.docx": [1805]}
-pli	{"Job_ch_7.docx": [1165], "Job_ch_30.docx": [2089, 2089]}
 pli	{"Job_ch_7.docx": [1165], "Job_ch_30.docx": [2089]}

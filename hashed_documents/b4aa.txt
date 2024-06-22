@@ -1,4 +1,2 @@
 
-altern	{"Genesis_ch_30.docx": [4521]}
-altern	{"Genesis_ch_30.docx": [4521]}
-altern	{"Genesis_ch_30.docx": [4521]}
+altern	{"Genesis_ch_30.docx": [4521], "Mark_ch_16.docx": [1108]}

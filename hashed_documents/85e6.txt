@@ -1,4 +1,2 @@
 
-inwa	{"Exodus_ch_37.docx": [824], "1 Kings_ch_6.docx": [427, 427, 427], "1 Kings_ch_7.docx": [3294, 3294, 3294], "1 Chronicles_ch_15.docx": [4197, 4197, 4197], "2 Chronicles_ch_4.docx": [343, 343, 343]}
-inwa	{"Exodus_ch_37.docx": [824], "1 Kings_ch_6.docx": [427, 427], "1 Kings_ch_7.docx": [3294, 3294], "1 Chronicles_ch_15.docx": [4197, 4197], "2 Chronicles_ch_4.docx": [343, 343]}
 inwa	{"Exodus_ch_37.docx": [824], "1 Kings_ch_6.docx": [427], "1 Kings_ch_7.docx": [3294], "1 Chronicles_ch_15.docx": [4197], "2 Chronicles_ch_4.docx": [343]}

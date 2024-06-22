@@ -1,4 +1,2 @@
 
-value;	{"Proverbs_ch_18.docx": [2095], "Ezekiel_ch_7.docx": [3013, 3013, 3013]}
-value;	{"Proverbs_ch_18.docx": [2095], "Ezekiel_ch_7.docx": [3013, 3013]}
 value;	{"Proverbs_ch_18.docx": [2095], "Ezekiel_ch_7.docx": [3013]}

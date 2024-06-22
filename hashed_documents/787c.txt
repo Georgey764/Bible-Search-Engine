@@ -1,3 +1,2 @@
 
-sunday	{"John_ch_20.docx": [6], "Acts_ch_20.docx": [2537, 2537]}
-sunday	{"John_ch_20.docx": [6], "Acts_ch_20.docx": [2537]}
+sunday	{"Matthew_ch_28.docx": [23], "Mark_ch_16.docx": [46], "Luke_ch_24.docx": [7], "John_ch_20.docx": [6], "Acts_ch_20.docx": [2537]}

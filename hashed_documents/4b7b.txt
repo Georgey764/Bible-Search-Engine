@@ -1,4 +1,2 @@
 
-go;	{"Psalms_ch_139.docx": [237], "Ecclesiastes_ch_10.docx": [223, 223, 223]}
-go;	{"Psalms_ch_139.docx": [237], "Ecclesiastes_ch_10.docx": [223, 223]}
 go;	{"Psalms_ch_139.docx": [237], "Ecclesiastes_ch_10.docx": [223]}

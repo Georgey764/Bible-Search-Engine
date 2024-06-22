@@ -1,5 +1,2 @@
 
-jehi	{"Ezra_ch_8.docx": [986]}
-jehi	{"Ezra_ch_8.docx": [986]}
-14dan	{"Daniel_ch_2.docx": [2184]}
-jehi	{"Ezra_ch_8.docx": [986]}
+jehi	{"Ezra_ch_8.docx": [986], "Ezra_ch_10.docx": [225, 3947, 4549]}

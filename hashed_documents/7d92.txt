@@ -1,7 +1,3 @@
 
-gareb	{"2 Samuel_ch_23.docx": [5080], "Jeremiah_ch_31.docx": [7360, 7360, 7360]}
-choldi	{"1 Chronicles_ch_27.docx": [1916]}
-gareb	{"2 Samuel_ch_23.docx": [5080], "Jeremiah_ch_31.docx": [7360, 7360]}
-choldi	{"1 Chronicles_ch_27.docx": [1916]}
 gareb	{"2 Samuel_ch_23.docx": [5080], "Jeremiah_ch_31.docx": [7360]}
 choldi	{"1 Chronicles_ch_27.docx": [1916]}

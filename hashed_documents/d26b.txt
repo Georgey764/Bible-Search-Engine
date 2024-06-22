@@ -1,6 +1,2 @@
 
 phne	{"Ezra_ch_7.docx": [428]}
-28yes	{"Exodus_ch_14.docx": [5018]}
-30or	{"Numbers_ch_5.docx": [4461], "Matthew_ch_5.docx": [3552]}
-phne	{"Ezra_ch_7.docx": [428]}
-phne	{"Ezra_ch_7.docx": [428]}

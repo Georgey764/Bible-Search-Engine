@@ -1,4 +1,2 @@
 
-gatewa	{"Matthew_ch_7.docx": [1702], "John_ch_10.docx": [696, 843, 696, 843]}
-gatewa	{"Matthew_ch_7.docx": [1702], "John_ch_10.docx": [696, 843]}
 gatewa	{"Matthew_ch_7.docx": [1702], "John_ch_10.docx": [696, 843]}

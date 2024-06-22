@@ -1,5 +1,2 @@
 
 rerout	{"2 Chronicles_ch_32.docx": [5806]}
-rerout	{"2 Chronicles_ch_32.docx": [5806]}
-36bow	{"Psalms_ch_106.docx": [3299]}
-rerout	{"2 Chronicles_ch_32.docx": [5806]}

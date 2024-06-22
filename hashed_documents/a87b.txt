@@ -1,4 +1,2 @@
 
-sari	{"1 Kings_ch_11.docx": [3709], "1 Kings_ch_14.docx": [2944, 2944, 2944]}
-sari	{"1 Kings_ch_11.docx": [3709], "1 Kings_ch_14.docx": [2944, 2944]}
-sari	{"1 Kings_ch_11.docx": [3709], "1 Kings_ch_14.docx": [2944]}
+sari	{"1 Kings_ch_11.docx": [3709], "1 Kings_ch_14.docx": [2944], "2 Kings_ch_25.docx": [3275]}

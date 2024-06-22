@@ -1,5 +1,2 @@
 
-perp	{"Isaiah_ch_24.docx": [3033], "Jeremiah_ch_8.docx": [3948, 3948, 3948]}
-perp	{"Isaiah_ch_24.docx": [3033], "Jeremiah_ch_8.docx": [3948, 3948]}
-14‘alt	{"Lamentations_ch_2.docx": [3063]}
-perp	{"Isaiah_ch_24.docx": [3033], "Jeremiah_ch_8.docx": [3948]}
+perp	{"Isaiah_ch_24.docx": [3033], "Jeremiah_ch_8.docx": [3948], "Jude_ch_1.docx": [997]}

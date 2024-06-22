@@ -1,7 +1,4 @@
 
-ese	{"Joshua_ch_19.docx": [799], "2 Kings_ch_22.docx": [376, 376, 376], "1 Chronicles_ch_1.docx": [3420, 3420, 3420], "1 Chronicles_ch_4.docx": [285, 1310, 1781, 1793, 285, 1310, 1781, 1793, 285, 1310, 1781, 1793], "1 Chronicles_ch_8.docx": [2516, 2558, 2666, 2696, 2516, 2666, 2696, 2516, 2558, 2666, 2696], "1 Chronicles_ch_9.docx": [5871, 5923, 6116, 5871, 6116, 5871, 5923, 6116], "2 Chronicles_ch_34.docx": [1346, 1346, 1346]}
-cushi	{"Jeremiah_ch_36.docx": [2402], "Zephaniah_ch_1.docx": [13, 13, 13]}
-ese	{"Joshua_ch_19.docx": [799], "2 Kings_ch_22.docx": [376, 376], "1 Chronicles_ch_1.docx": [3420, 3420], "1 Chronicles_ch_4.docx": [285, 1310, 1781, 1793, 285, 1310, 1781, 1793], "1 Chronicles_ch_8.docx": [2516, 2666, 2696, 2516, 2558, 2666, 2696], "1 Chronicles_ch_9.docx": [5871, 6116, 5871, 5923, 6116], "2 Chronicles_ch_34.docx": [1346, 1346]}
-cushi	{"Jeremiah_ch_36.docx": [2402], "Zephaniah_ch_1.docx": [13, 13]}
 ese	{"Joshua_ch_19.docx": [799], "2 Kings_ch_22.docx": [376], "1 Chronicles_ch_1.docx": [3420], "1 Chronicles_ch_4.docx": [285, 1310, 1781, 1793], "1 Chronicles_ch_8.docx": [2516, 2558, 2666, 2696], "1 Chronicles_ch_9.docx": [5871, 5923, 6116], "2 Chronicles_ch_34.docx": [1346]}
 cushi	{"Jeremiah_ch_36.docx": [2402], "Zephaniah_ch_1.docx": [13]}
+inaut	{"Mark_ch_16.docx": [1952, 1990]}

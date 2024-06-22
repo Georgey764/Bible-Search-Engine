@@ -1,5 +1,2 @@
 
 barom	{"1 Chronicles_ch_11.docx": [5606]}
-barom	{"1 Chronicles_ch_11.docx": [5606]}
-24doe	{"Isaiah_ch_28.docx": [3713]}
-barom	{"1 Chronicles_ch_11.docx": [5606]}

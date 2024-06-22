@@ -1,4 +1,2 @@
 
-selom	{"Genesis_ch_38.docx": [206, 1194, 1831, 3718, 1194, 1831, 3718, 1194, 1831, 3718], "Genesis_ch_46.docx": [1454, 1454, 1454], "Numbers_ch_26.docx": [1719, 1724, 1724, 1719, 1724], "1 Chronicles_ch_2.docx": [260, 260, 260], "1 Chronicles_ch_4.docx": [2447, 2447, 2447]}
-selom	{"Genesis_ch_38.docx": [206, 1194, 1831, 3718, 1194, 1831, 3718], "Genesis_ch_46.docx": [1454, 1454], "Numbers_ch_26.docx": [1724, 1719, 1724], "1 Chronicles_ch_2.docx": [260, 260], "1 Chronicles_ch_4.docx": [2447, 2447]}
 selom	{"Genesis_ch_38.docx": [206, 1194, 1831, 3718], "Genesis_ch_46.docx": [1454], "Numbers_ch_26.docx": [1719, 1724], "1 Chronicles_ch_2.docx": [260], "1 Chronicles_ch_4.docx": [2447]}

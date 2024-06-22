@@ -1,2 +1,0 @@
-
-1afte	{"Exodus_ch_35.docx": [4], "Numbers_ch_21.docx": [4], "Joshua_ch_1.docx": [4], "Judges_ch_1.docx": [4], "1 Samuel_ch_28.docx": [5], "2 Samuel_ch_1.docx": [5], "1 Chronicles_ch_14.docx": [5], "2 Chronicles_ch_5.docx": [5], "Psalms_ch_114.docx": [32], "Lamentations_ch_1.docx": [4]}

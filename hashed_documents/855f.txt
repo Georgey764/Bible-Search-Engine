@@ -1,7 +1,3 @@
 
-maids	{"1 Samuel_ch_1.docx": [2775], "Job_ch_31.docx": [1202, 1202, 1202]}
-wells;	{"Jeremiah_ch_14.docx": [306]}
-maids	{"1 Samuel_ch_1.docx": [2775], "Job_ch_31.docx": [1202, 1202]}
-wells;	{"Jeremiah_ch_14.docx": [306]}
-maids	{"1 Samuel_ch_1.docx": [2775], "Job_ch_31.docx": [1202]}
+maids	{"Ruth_ch_4.docx": [2632], "1 Samuel_ch_1.docx": [2775], "Job_ch_31.docx": [1202]}
 wells;	{"Jeremiah_ch_14.docx": [306]}

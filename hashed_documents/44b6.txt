@@ -1,4 +1,2 @@
 
-blig	{"Deuteronomy_ch_28.docx": [5825], "1 Kings_ch_8.docx": [5885, 5885, 5885], "2 Chronicles_ch_6.docx": [4527, 4527, 4527], "Psalms_ch_78.docx": [4483, 4483, 4483], "Hosea_ch_5.docx": [1275, 1275, 1275], "Joel_ch_1.docx": [585, 585, 585], "Joel_ch_2.docx": [4497, 4497, 4497]}
-blig	{"Deuteronomy_ch_28.docx": [5825], "1 Kings_ch_8.docx": [5885, 5885], "2 Chronicles_ch_6.docx": [4527, 4527], "Psalms_ch_78.docx": [4483, 4483], "Hosea_ch_5.docx": [1275, 1275], "Joel_ch_1.docx": [585, 585], "Joel_ch_2.docx": [4497, 4497]}
 blig	{"Deuteronomy_ch_28.docx": [5825], "1 Kings_ch_8.docx": [5885], "2 Chronicles_ch_6.docx": [4527], "Psalms_ch_78.docx": [4483], "Hosea_ch_5.docx": [1275], "Joel_ch_1.docx": [585], "Joel_ch_2.docx": [4497]}

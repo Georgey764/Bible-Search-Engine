@@ -1,4 +1,2 @@
 
-rowe	{"Isaiah_ch_33.docx": [3436], "Luke_ch_5.docx": [1431, 1431], "John_ch_6.docx": [2273, 2273], "1 Corinthians_ch_4.docx": [21, 21]}
-rowe	{"Isaiah_ch_33.docx": [3436], "Luke_ch_5.docx": [1431], "John_ch_6.docx": [2273], "1 Corinthians_ch_4.docx": [21]}
 rowe	{"Isaiah_ch_33.docx": [3436], "Luke_ch_5.docx": [1431], "John_ch_6.docx": [2273], "1 Corinthians_ch_4.docx": [21]}

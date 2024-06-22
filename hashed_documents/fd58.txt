@@ -1,2 +1,0 @@
-
-47so	{"Genesis_ch_31.docx": [6800], "Numbers_ch_16.docx": [6736], "Deuteronomy_ch_4.docx": [7176], "1 Samuel_ch_14.docx": [7703], "1 Kings_ch_7.docx": [6212], "1 Chronicles_ch_6.docx": [3641], "Psalms_ch_106.docx": [4306], "Matthew_ch_12.docx": [5980]}

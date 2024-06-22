@@ -1,4 +1,2 @@
 
-steali	{"Joshua_ch_7.docx": [2256], "Proverbs_ch_6.docx": [3079, 3079, 3079], "Proverbs_ch_26.docx": [1619, 1619, 1619]}
-steali	{"Joshua_ch_7.docx": [2256], "Proverbs_ch_6.docx": [3079, 3079], "Proverbs_ch_26.docx": [1619, 1619]}
 steali	{"Joshua_ch_7.docx": [2256], "Proverbs_ch_6.docx": [3079], "Proverbs_ch_26.docx": [1619]}

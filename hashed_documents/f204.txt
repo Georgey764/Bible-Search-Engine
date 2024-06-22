@@ -1,5 +1,2 @@
 
 madai	{"1 Chronicles_ch_1.docx": [233]}
-madai	{"1 Chronicles_ch_1.docx": [233]}
-10in	{"2 Chronicles_ch_3.docx": [1261], "Psalms_ch_140.docx": [989], "Proverbs_ch_17.docx": [992], "Proverbs_ch_18.docx": [802], "Isaiah_ch_11.docx": [1269]}
-madai	{"1 Chronicles_ch_1.docx": [233]}

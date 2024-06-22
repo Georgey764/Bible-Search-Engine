@@ -1,5 +1,2 @@
 
 know;	{"Proverbs_ch_12.docx": [2185]}
-20sudd	{"Judges_ch_13.docx": [3284]}
-know;	{"Proverbs_ch_12.docx": [2185]}
-know;	{"Proverbs_ch_12.docx": [2185]}

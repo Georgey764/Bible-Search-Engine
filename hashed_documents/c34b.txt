@@ -1,4 +1,3 @@
 
-awful	{"2 Samuel_ch_1.docx": [1150]}
-awful	{"2 Samuel_ch_1.docx": [1150]}
+bogge	{"1 Samuel_ch_31.docx": [319]}
 awful	{"2 Samuel_ch_1.docx": [1150]}

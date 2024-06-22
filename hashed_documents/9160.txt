@@ -1,4 +1,2 @@
 
 chuza	{"Luke_ch_8.docx": [226]}
-31‘bu	{"Leviticus_ch_25.docx": [4360], "Ezekiel_ch_18.docx": [5016], "Matthew_ch_23.docx": [3963]}
-chuza	{"Luke_ch_8.docx": [226]}

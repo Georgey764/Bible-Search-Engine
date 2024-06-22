@@ -1,11 +1,4 @@
 
-mand	{"Genesis_ch_30.docx": [1530, 1716, 1784, 1888, 2068, 1716, 1784, 1888, 2068, 1716, 1784, 1888, 2068], "Ezra_ch_8.docx": [5324, 5324, 5324], "Song of Solomon_ch_7.docx": [1843, 1843, 1843]}
-elana	{"2 Samuel_ch_23.docx": [4209]}
-divans	{"Isaiah_ch_3.docx": [3246], "Amos_ch_6.docx": [1313, 1313, 1313]}
-24if	{"Genesis_ch_18.docx": [3020], "Job_ch_31.docx": [2217]}
-mand	{"Genesis_ch_30.docx": [1530, 1716, 1784, 1888, 2068, 1716, 1784, 1888, 2068], "Ezra_ch_8.docx": [5324, 5324], "Song of Solomon_ch_7.docx": [1843, 1843]}
-elana	{"2 Samuel_ch_23.docx": [4209]}
-divans	{"Isaiah_ch_3.docx": [3246], "Amos_ch_6.docx": [1313, 1313]}
 mand	{"Genesis_ch_30.docx": [1530, 1716, 1784, 1888, 2068], "Ezra_ch_8.docx": [5324], "Song of Solomon_ch_7.docx": [1843]}
 elana	{"2 Samuel_ch_23.docx": [4209]}
 divans	{"Isaiah_ch_3.docx": [3246], "Amos_ch_6.docx": [1313]}

@@ -1,7 +1,3 @@
 
-quan	{"1 Samuel_ch_30.docx": [2306], "1 Chronicles_ch_12.docx": [5128, 5128, 5128], "2 Chronicles_ch_2.docx": [1547, 1547, 1547], "Nehemiah_ch_5.docx": [3570, 3570, 3570], "Revelation_ch_8.docx": [245, 245]}
-tortur	{"Matthew_ch_10.docx": [4785], "Acts_ch_22.docx": [6393, 6413, 6434, 6393, 6413, 6434], "Hebrews_ch_11.docx": [6811, 6823, 6811, 6823], "2 Peter_ch_2.docx": [1123, 1123], "Revelation_ch_14.docx": [1497, 1795, 1497, 1795], "Revelation_ch_18.docx": [1753, 2736, 1753, 2736], "Revelation_ch_20.docx": [1726, 1726]}
-quan	{"1 Samuel_ch_30.docx": [2306], "1 Chronicles_ch_12.docx": [5128, 5128], "2 Chronicles_ch_2.docx": [1547, 1547], "Nehemiah_ch_5.docx": [3570, 3570], "Revelation_ch_8.docx": [245]}
-tortur	{"Matthew_ch_10.docx": [4785], "Acts_ch_22.docx": [6393, 6413, 6434], "Hebrews_ch_11.docx": [6811, 6823], "2 Peter_ch_2.docx": [1123], "Revelation_ch_14.docx": [1497, 1795], "Revelation_ch_18.docx": [1753, 2736], "Revelation_ch_20.docx": [1726]}
 quan	{"1 Samuel_ch_30.docx": [2306], "1 Chronicles_ch_12.docx": [5128], "2 Chronicles_ch_2.docx": [1547], "Nehemiah_ch_5.docx": [3570], "Revelation_ch_8.docx": [245]}
 tortur	{"Matthew_ch_10.docx": [4785], "Acts_ch_22.docx": [6393, 6413, 6434], "Hebrews_ch_11.docx": [6811, 6823], "2 Peter_ch_2.docx": [1123], "Revelation_ch_14.docx": [1497, 1795], "Revelation_ch_18.docx": [1753, 2736], "Revelation_ch_20.docx": [1726]}

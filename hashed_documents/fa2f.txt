@@ -1,4 +1,2 @@
 
-allu	{"Mark_ch_4.docx": [1961], "Hebrews_ch_1.docx": [770, 770]}
-33azar	{"Nehemiah_ch_12.docx": [4771]}
-allu	{"Mark_ch_4.docx": [1961], "Hebrews_ch_1.docx": [770]}
+allu	{"Proverbs_ch_31.docx": [2840], "Mark_ch_4.docx": [1961], "Hebrews_ch_1.docx": [770]}

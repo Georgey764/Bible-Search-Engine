@@ -1,2 +1,2 @@
 
-14‘bu	{"Exodus_ch_15.docx": [1728], "Leviticus_ch_1.docx": [1910], "Leviticus_ch_13.docx": [2068], "Deuteronomy_ch_21.docx": [1912], "1 Samuel_ch_20.docx": [2493], "1 Kings_ch_18.docx": [2045], "Isaiah_ch_26.docx": [1611], "Jeremiah_ch_5.docx": [2474], "Jeremiah_ch_30.docx": [2146], "Ezekiel_ch_14.docx": [2343], "Ezekiel_ch_21.docx": [2132], "Daniel_ch_11.docx": [2606], "Hosea_ch_12.docx": [2655]}
+splee	{"1 Samuel_ch_31.docx": [338]}

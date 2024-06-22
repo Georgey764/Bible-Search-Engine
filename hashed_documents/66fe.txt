@@ -1,4 +1,2 @@
 
-bann	{"Isaiah_ch_30.docx": [3102], "Jeremiah_ch_51.docx": [4395, 4395, 4395]}
-bann	{"Isaiah_ch_30.docx": [3102], "Jeremiah_ch_51.docx": [4395, 4395]}
 bann	{"Isaiah_ch_30.docx": [3102], "Jeremiah_ch_51.docx": [4395]}

@@ -1,7 +1,3 @@
 
-kue	{"1 Kings_ch_10.docx": [4234, 4241, 4241, 4241]}
-bands	{"2 Kings_ch_13.docx": [3437, 3456, 3456, 3456], "2 Kings_ch_24.docx": [197, 197, 197], "1 Chronicles_ch_25.docx": [219, 219, 219], "Psalms_ch_18.docx": [2818, 2818, 2818], "Jeremiah_ch_2.docx": [5755, 5755, 5755]}
-kue	{"1 Kings_ch_10.docx": [4234, 4241, 4241]}
-bands	{"2 Kings_ch_13.docx": [3437, 3456, 3456], "2 Kings_ch_24.docx": [197, 197], "1 Chronicles_ch_25.docx": [219, 219], "Psalms_ch_18.docx": [2818, 2818], "Jeremiah_ch_2.docx": [5755, 5755]}
 kue	{"1 Kings_ch_10.docx": [4234, 4241]}
-bands	{"2 Kings_ch_13.docx": [3437, 3456], "2 Kings_ch_24.docx": [197], "1 Chronicles_ch_25.docx": [219], "Psalms_ch_18.docx": [2818], "Jeremiah_ch_2.docx": [5755]}
+bands	{"2 Kings_ch_13.docx": [3437, 3456], "2 Kings_ch_24.docx": [197], "1 Chronicles_ch_25.docx": [219], "2 Chronicles_ch_36.docx": [1507, 1511], "Psalms_ch_18.docx": [2818], "Jeremiah_ch_2.docx": [5755]}

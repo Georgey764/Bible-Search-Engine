@@ -1,10 +1,4 @@
 
 kedmon	{"Genesis_ch_15.docx": [2563]}
-judea;	{"1 Samuel_ch_23.docx": [346], "Jeremiah_ch_21.docx": [1823, 1823, 1823]}
-baal;	{"Jeremiah_ch_12.docx": [2969], "Jeremiah_ch_32.docx": [6013, 6013, 6013]}
-kedmon	{"Genesis_ch_15.docx": [2563]}
-judea;	{"1 Samuel_ch_23.docx": [346], "Jeremiah_ch_21.docx": [1823, 1823]}
-baal;	{"Jeremiah_ch_12.docx": [2969], "Jeremiah_ch_32.docx": [6013, 6013]}
-kedmon	{"Genesis_ch_15.docx": [2563]}
 judea;	{"1 Samuel_ch_23.docx": [346], "Jeremiah_ch_21.docx": [1823]}
 baal;	{"Jeremiah_ch_12.docx": [2969], "Jeremiah_ch_32.docx": [6013]}

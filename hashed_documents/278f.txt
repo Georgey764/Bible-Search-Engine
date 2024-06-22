@@ -1,2 +1,0 @@
-
-15ma	{"Genesis_ch_5.docx": [1085], "1 Chronicles_ch_7.docx": [1863], "Psalms_ch_17.docx": [1691], "Psalms_ch_59.docx": [1784], "Psalms_ch_69.docx": [1749], "Psalms_ch_72.docx": [1275], "Psalms_ch_109.docx": [1196], "Psalms_ch_115.docx": [1305]}

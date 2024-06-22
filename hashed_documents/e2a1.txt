@@ -1,7 +1,3 @@
 
 jesr	{"1 Chronicles_ch_25.docx": [1697]}
-nehela	{"Jeremiah_ch_29.docx": [3911, 4969, 4969, 4969]}
-jesr	{"1 Chronicles_ch_25.docx": [1697]}
-nehela	{"Jeremiah_ch_29.docx": [3911, 4969, 4969]}
-jesr	{"1 Chronicles_ch_25.docx": [1697]}
 nehela	{"Jeremiah_ch_29.docx": [3911, 4969]}

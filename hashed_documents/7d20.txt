@@ -1,5 +1,2 @@
 
 for;	{"Leviticus_ch_6.docx": [558]}
-for;	{"Leviticus_ch_6.docx": [558]}
-8pl	{"Psalms_ch_51.docx": [978], "Psalms_ch_79.docx": [835], "Proverbs_ch_30.docx": [774]}
-for;	{"Leviticus_ch_6.docx": [558]}

@@ -1,5 +1,2 @@
 
-satt	{"Numbers_ch_25.docx": [12], "Joshua_ch_2.docx": [6, 6, 6], "Joshua_ch_3.docx": [18, 18, 18]}
-satt	{"Numbers_ch_25.docx": [12], "Joshua_ch_2.docx": [6, 6], "Joshua_ch_3.docx": [18, 18]}
-7‘just	{"Jeremiah_ch_6.docx": [922]}
 satt	{"Numbers_ch_25.docx": [12], "Joshua_ch_2.docx": [6], "Joshua_ch_3.docx": [18]}

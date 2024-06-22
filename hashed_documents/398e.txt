@@ -1,4 +1,2 @@
 
-jaws	{"Job_ch_19.docx": [1823], "Job_ch_21.docx": [331, 331, 331], "Psalms_ch_32.docx": [1068, 1068, 1068], "Isaiah_ch_50.docx": [1237, 1237, 1237], "Ezekiel_ch_29.docx": [476, 476, 476], "Ezekiel_ch_38.docx": [373, 373, 373]}
-jaws	{"Job_ch_19.docx": [1823], "Job_ch_21.docx": [331, 331], "Psalms_ch_32.docx": [1068, 1068], "Isaiah_ch_50.docx": [1237, 1237], "Ezekiel_ch_29.docx": [476, 476], "Ezekiel_ch_38.docx": [373, 373]}
 jaws	{"Job_ch_19.docx": [1823], "Job_ch_21.docx": [331], "Psalms_ch_32.docx": [1068], "Isaiah_ch_50.docx": [1237], "Ezekiel_ch_29.docx": [476], "Ezekiel_ch_38.docx": [373]}

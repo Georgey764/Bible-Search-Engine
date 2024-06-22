@@ -1,7 +1,3 @@
 
-unto	{"Joshua_ch_10.docx": [6493], "Isaiah_ch_52.docx": [2495, 2495, 2495], "Ezekiel_ch_41.docx": [682, 692, 682, 692, 682, 692], "Matthew_ch_27.docx": [5992, 5992], "Luke_ch_23.docx": [1931, 1931], "John_ch_8.docx": [1246, 1246]}
-tharha	{"2 Kings_ch_19.docx": [1243]}
-unto	{"Joshua_ch_10.docx": [6493], "Isaiah_ch_52.docx": [2495, 2495], "Ezekiel_ch_41.docx": [682, 692, 682, 692], "Matthew_ch_27.docx": [5992], "Luke_ch_23.docx": [1931], "John_ch_8.docx": [1246]}
-tharha	{"2 Kings_ch_19.docx": [1243]}
 unto	{"Joshua_ch_10.docx": [6493], "Isaiah_ch_52.docx": [2495], "Ezekiel_ch_41.docx": [682, 692], "Matthew_ch_27.docx": [5992], "Luke_ch_23.docx": [1931], "John_ch_8.docx": [1246]}
 tharha	{"2 Kings_ch_19.docx": [1243]}

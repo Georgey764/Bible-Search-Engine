@@ -1,4 +1,2 @@
 
-amnon!	{"2 Samuel_ch_13.docx": [5064, 5181, 5181, 5181]}
-amnon!	{"2 Samuel_ch_13.docx": [5064, 5181, 5181]}
 amnon!	{"2 Samuel_ch_13.docx": [5064, 5181]}

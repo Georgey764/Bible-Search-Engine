@@ -1,5 +1,2 @@
 
-reel	{"2 Samuel_ch_22.docx": [4328], "Ezra_ch_2.docx": [425, 425, 425], "Psalms_ch_51.docx": [1235, 1235, 1235], "Proverbs_ch_7.docx": [1881, 1881, 1881], "Isaiah_ch_28.docx": [920, 920, 920], "Jeremiah_ch_51.docx": [1178, 4772, 9418, 1178, 4772, 9418, 1178, 4772, 9418], "Luke_ch_21.docx": [4157, 4157]}
-61‘a	{"Deuteronomy_ch_28.docx": [8606]}
-reel	{"2 Samuel_ch_22.docx": [4328], "Ezra_ch_2.docx": [425, 425], "Psalms_ch_51.docx": [1235, 1235], "Proverbs_ch_7.docx": [1881, 1881], "Isaiah_ch_28.docx": [920, 920], "Jeremiah_ch_51.docx": [1178, 4772, 9418, 1178, 4772, 9418], "Luke_ch_21.docx": [4157]}
 reel	{"2 Samuel_ch_22.docx": [4328], "Ezra_ch_2.docx": [425], "Psalms_ch_51.docx": [1235], "Proverbs_ch_7.docx": [1881], "Isaiah_ch_28.docx": [920], "Jeremiah_ch_51.docx": [1178, 4772, 9418], "Luke_ch_21.docx": [4157]}

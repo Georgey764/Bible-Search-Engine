@@ -1,9 +1,3 @@
 
-achor	{"Joshua_ch_15.docx": [915], "Isaiah_ch_65.docx": [1624, 1624, 1624]}
-hoshe	{"2 Kings_ch_15.docx": [4441, 4475, 4475, 4475], "2 Kings_ch_17.docx": [20, 295, 415, 700, 20, 295, 415, 700, 20, 295, 415, 700], "2 Kings_ch_18.docx": [16, 1260, 1457, 16, 1260, 1457, 16, 1260, 1457], "Nehemiah_ch_10.docx": [1107, 1107]}
-28‘b	{"Leviticus_ch_13.docx": [3974], "Leviticus_ch_25.docx": [3815], "Numbers_ch_5.docx": [4299], "Deuteronomy_ch_12.docx": [5037], "2 Samuel_ch_19.docx": [4696], "2 Samuel_ch_22.docx": [2693], "Job_ch_41.docx": [2452], "Jeremiah_ch_4.docx": [4741], "Ezekiel_ch_12.docx": [4688], "Ezekiel_ch_34.docx": [4831], "Matthew_ch_5.docx": [3377], "Matthew_ch_18.docx": [3694]}
-15‘yes	{"Deuteronomy_ch_4.docx": [2431], "Jeremiah_ch_33.docx": [2821], "Ezekiel_ch_13.docx": [2863], "Ezekiel_ch_34.docx": [2734]}
-achor	{"Joshua_ch_15.docx": [915], "Isaiah_ch_65.docx": [1624, 1624]}
-hoshe	{"2 Kings_ch_15.docx": [4441, 4475, 4475], "2 Kings_ch_17.docx": [20, 295, 415, 700, 20, 295, 415, 700], "2 Kings_ch_18.docx": [16, 1260, 1457, 16, 1260, 1457], "Nehemiah_ch_10.docx": [1107]}
 achor	{"Joshua_ch_15.docx": [915], "Isaiah_ch_65.docx": [1624]}
 hoshe	{"2 Kings_ch_15.docx": [4441, 4475], "2 Kings_ch_17.docx": [20, 295, 415, 700], "2 Kings_ch_18.docx": [16, 1260, 1457], "Nehemiah_ch_10.docx": [1107]}

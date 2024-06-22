@@ -1,4 +1,2 @@
 
-elioen	{"1 Chronicles_ch_7.docx": [1110], "Nehemiah_ch_12.docx": [11645, 11645, 11645]}
-elioen	{"1 Chronicles_ch_7.docx": [1110], "Nehemiah_ch_12.docx": [11645, 11645]}
 elioen	{"1 Chronicles_ch_7.docx": [1110], "Nehemiah_ch_12.docx": [11645]}

@@ -1,4 +1,2 @@
 
 sergiu	{"Acts_ch_13.docx": [2088]}
-21‘h	{"Genesis_ch_17.docx": [3189], "Leviticus_ch_14.docx": [3256], "Deuteronomy_ch_33.docx": [3040], "Job_ch_40.docx": [3450], "Matthew_ch_17.docx": [2464]}
-sergiu	{"Acts_ch_13.docx": [2088]}

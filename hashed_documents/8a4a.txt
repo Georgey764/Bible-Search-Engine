@@ -1,6 +1,2 @@
 
 hive	{"1 Samuel_ch_14.docx": [4422]}
-hive	{"1 Samuel_ch_14.docx": [4422]}
-6elk	{"1 Chronicles_ch_12.docx": [762]}
-30‘his	{"Job_ch_41.docx": [2632]}
-hive	{"1 Samuel_ch_14.docx": [4422]}

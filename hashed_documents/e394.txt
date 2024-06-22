@@ -1,7 +1,3 @@
 
+favore	{"1 Chronicles_ch_29.docx": [618], "Isaiah_ch_49.docx": [532], "John_ch_1.docx": [1627], "Acts_ch_27.docx": [3412]}
 seen;	{"Isaiah_ch_40.docx": [611]}
-favore	{"Isaiah_ch_49.docx": [532], "John_ch_1.docx": [1627, 1627], "Acts_ch_27.docx": [3412, 3412]}
-seen;	{"Isaiah_ch_40.docx": [611]}
-favore	{"Isaiah_ch_49.docx": [532], "John_ch_1.docx": [1627], "Acts_ch_27.docx": [3412]}
-seen;	{"Isaiah_ch_40.docx": [611]}
-favore	{"Isaiah_ch_49.docx": [532], "John_ch_1.docx": [1627], "Acts_ch_27.docx": [3412]}

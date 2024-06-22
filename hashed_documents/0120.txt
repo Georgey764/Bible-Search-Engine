@@ -1,4 +1,3 @@
 
-cadenc	{"Job_ch_42.docx": [3435, 3803, 3839]}
-last[s	{"Revelation_ch_1.docx": [1736]}
+cadenc	{"Esther_ch_10.docx": [1514], "Job_ch_42.docx": [3435, 3803, 3839], "Song of Solomon_ch_8.docx": [2741], "Isaiah_ch_66.docx": [5887], "Lamentations_ch_5.docx": [2917], "Ezekiel_ch_48.docx": [8052], "Daniel_ch_12.docx": [4582], "Hosea_ch_14.docx": [2137], "Joel_ch_3.docx": [5253], "Amos_ch_9.docx": [4373], "Obadiah_ch_1.docx": [4952], "Jonah_ch_4.docx": [2236], "Micah_ch_7.docx": [5105], "Nahum_ch_3.docx": [4313], "Habakkuk_ch_3.docx": [3953], "Zephaniah_ch_3.docx": [5043], "Haggai_ch_2.docx": [5360], "Zechariah_ch_14.docx": [5210], "Malachi_ch_4.docx": [2789], "Matthew_ch_28.docx": [3722], "Mark_ch_16.docx": [3069]}
 last[s	{"Revelation_ch_1.docx": [1736]}

@@ -1,5 +1,2 @@
 
-edrain	{"Numbers_ch_21.docx": [4619], "Deuteronomy_ch_1.docx": [378, 378, 378], "Joshua_ch_12.docx": [5493, 5493, 5493]}
-edrain	{"Numbers_ch_21.docx": [4619], "Deuteronomy_ch_1.docx": [378, 378], "Joshua_ch_12.docx": [5493, 5493]}
-22y	{"2 Samuel_ch_7.docx": [2930], "2 Samuel_ch_23.docx": [3796], "Job_ch_6.docx": [2247], "Job_ch_16.docx": [2107], "Job_ch_30.docx": [2211], "Proverbs_ch_27.docx": [2068], "Jeremiah_ch_4.docx": [3864], "Ezekiel_ch_47.docx": [3784], "Matthew_ch_21.docx": [2866]}
 edrain	{"Numbers_ch_21.docx": [4619], "Deuteronomy_ch_1.docx": [378], "Joshua_ch_12.docx": [5493]}

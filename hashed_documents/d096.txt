@@ -1,4 +1,2 @@
 
-arises	{"Isaiah_ch_2.docx": [2217, 2781, 2781, 2781], "Isaiah_ch_14.docx": [1915, 2133, 1915, 2133, 1915, 2133], "Jeremiah_ch_48.docx": [4538, 4538, 4538], "2 Peter_ch_1.docx": [2992, 2992]}
-arises	{"Isaiah_ch_2.docx": [2217, 2781, 2781], "Isaiah_ch_14.docx": [1915, 2133, 1915, 2133], "Jeremiah_ch_48.docx": [4538, 4538], "2 Peter_ch_1.docx": [2992]}
 arises	{"Isaiah_ch_2.docx": [2217, 2781], "Isaiah_ch_14.docx": [1915, 2133], "Jeremiah_ch_48.docx": [4538], "2 Peter_ch_1.docx": [2992]}

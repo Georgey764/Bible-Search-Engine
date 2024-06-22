@@ -1,4 +1,2 @@
 
-perman	{"Leviticus_ch_25.docx": [1965, 3186, 3186, 3186], "Hebrews_ch_7.docx": [3323, 3323]}
-perman	{"Leviticus_ch_25.docx": [1965, 3186, 3186], "Hebrews_ch_7.docx": [3323]}
-perman	{"Leviticus_ch_25.docx": [1965, 3186], "Hebrews_ch_7.docx": [3323]}
+perman	{"Leviticus_ch_25.docx": [1965, 3186], "Hebrews_ch_7.docx": [3323], "Hebrews_ch_13.docx": [1799]}

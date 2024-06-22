@@ -1,5 +1,2 @@
 
-fail!	{"Isaiah_ch_16.docx": [1904], "Isaiah_ch_51.docx": [1311, 1311, 1311], "Luke_ch_16.docx": [2599, 2599]}
-50n	{"Psalms_ch_89.docx": [4714]}
-fail!	{"Isaiah_ch_16.docx": [1904], "Isaiah_ch_51.docx": [1311, 1311], "Luke_ch_16.docx": [2599]}
 fail!	{"Isaiah_ch_16.docx": [1904], "Isaiah_ch_51.docx": [1311], "Luke_ch_16.docx": [2599]}

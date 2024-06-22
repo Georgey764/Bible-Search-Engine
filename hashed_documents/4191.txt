@@ -1,5 +1,3 @@
 
-viewp	{"Genesis_ch_1.docx": [53], "2 Corinthians_ch_8.docx": [2885, 2885]}
-viewp	{"Genesis_ch_1.docx": [53], "2 Corinthians_ch_8.docx": [2885]}
-30‘w	{"Isaiah_ch_40.docx": [4369], "Lamentations_ch_3.docx": [2390]}
-viewp	{"Genesis_ch_1.docx": [53], "2 Corinthians_ch_8.docx": [2885]}
+viewp	{"Genesis_ch_1.docx": [53], "2 Kings_ch_25.docx": [4699], "1 Chronicles_ch_29.docx": [5537], "2 Corinthians_ch_8.docx": [2885], "James_ch_5.docx": [3229]}
+now-lo	{"3 John_ch_1.docx": [2303]}

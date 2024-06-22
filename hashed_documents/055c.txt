@@ -1,4 +1,2 @@
 
-hass	{"Nehemiah_ch_3.docx": [1629, 1635, 1643, 1635, 1643, 1635, 1643]}
-hass	{"Nehemiah_ch_3.docx": [1629, 1635, 1643, 1635, 1643]}
 hass	{"Nehemiah_ch_3.docx": [1629, 1635, 1643]}

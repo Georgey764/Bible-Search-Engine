@@ -1,5 +1,2 @@
 
-jembl	{"1 Chronicles_ch_6.docx": [5980], "2 Chronicles_ch_18.docx": [1196, 1340, 1196, 1340, 1196, 1340]}
-jembl	{"1 Chronicles_ch_6.docx": [5980], "2 Chronicles_ch_18.docx": [1196, 1340, 1196, 1340]}
-35‘ar	{"Job_ch_38.docx": [3272]}
-jembl	{"1 Chronicles_ch_6.docx": [5980], "2 Chronicles_ch_18.docx": [1196, 1340]}
+jembl	{"1 Kings_ch_22.docx": [1309, 1507], "1 Chronicles_ch_6.docx": [5980], "2 Chronicles_ch_18.docx": [1196, 1340]}

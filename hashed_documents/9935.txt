@@ -1,4 +1,2 @@
 
-pearls	{"Matthew_ch_7.docx": [667], "Matthew_ch_13.docx": [6125, 6125, 6125], "1 Timothy_ch_2.docx": [979, 979], "Revelation_ch_17.docx": [560, 560], "Revelation_ch_18.docx": [1982, 2912, 1982, 2912], "Revelation_ch_21.docx": [3280, 3280]}
-pearls	{"Matthew_ch_7.docx": [667], "Matthew_ch_13.docx": [6125, 6125], "1 Timothy_ch_2.docx": [979], "Revelation_ch_17.docx": [560], "Revelation_ch_18.docx": [1982, 2912], "Revelation_ch_21.docx": [3280]}
 pearls	{"Matthew_ch_7.docx": [667], "Matthew_ch_13.docx": [6125], "1 Timothy_ch_2.docx": [979], "Revelation_ch_17.docx": [560], "Revelation_ch_18.docx": [1982, 2912], "Revelation_ch_21.docx": [3280]}

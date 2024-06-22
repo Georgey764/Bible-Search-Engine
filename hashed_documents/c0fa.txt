@@ -1,4 +1,2 @@
 
-incit	{"Numbers_ch_31.docx": [1890], "Matthew_ch_27.docx": [2848, 2848], "Luke_ch_23.docx": [1568, 1568], "Acts_ch_13.docx": [8772, 8772], "Acts_ch_17.docx": [2581, 2581], "Acts_ch_24.docx": [1706, 1706], "Hebrews_ch_10.docx": [2995, 2995]}
-incit	{"Numbers_ch_31.docx": [1890], "Matthew_ch_27.docx": [2848], "Luke_ch_23.docx": [1568], "Acts_ch_13.docx": [8772], "Acts_ch_17.docx": [2581], "Acts_ch_24.docx": [1706], "Hebrews_ch_10.docx": [2995]}
 incit	{"Numbers_ch_31.docx": [1890], "Matthew_ch_27.docx": [2848], "Luke_ch_23.docx": [1568], "Acts_ch_13.docx": [8772], "Acts_ch_17.docx": [2581], "Acts_ch_24.docx": [1706], "Hebrews_ch_10.docx": [2995]}

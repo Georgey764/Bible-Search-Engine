@@ -1,8 +1,3 @@
 
 phadaj	{"1 Chronicles_ch_3.docx": [2216]}
 raili	{"Psalms_ch_140.docx": [823]}
-12‘do	{"Exodus_ch_32.docx": [1708]}
-phadaj	{"1 Chronicles_ch_3.docx": [2216]}
-raili	{"Psalms_ch_140.docx": [823]}
-phadaj	{"1 Chronicles_ch_3.docx": [2216]}
-raili	{"Psalms_ch_140.docx": [823]}

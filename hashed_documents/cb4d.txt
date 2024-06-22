@@ -1,7 +1,3 @@
 
 zur	{"Numbers_ch_2.docx": [1094]}
 kitt	{"1 Chronicles_ch_1.docx": [406]}
-zur	{"Numbers_ch_2.docx": [1094]}
-kitt	{"1 Chronicles_ch_1.docx": [406]}
-zur	{"Numbers_ch_2.docx": [1094]}
-kitt	{"1 Chronicles_ch_1.docx": [406]}

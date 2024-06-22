@@ -1,4 +1,2 @@
 
-india	{"Esther_ch_1.docx": [25], "Esther_ch_3.docx": [1903, 1903, 1903], "Esther_ch_8.docx": [1383, 1383, 1383], "Revelation_ch_18.docx": [2016, 2016]}
-india	{"Esther_ch_1.docx": [25], "Esther_ch_3.docx": [1903, 1903], "Esther_ch_8.docx": [1383, 1383], "Revelation_ch_18.docx": [2016]}
 india	{"Esther_ch_1.docx": [25], "Esther_ch_3.docx": [1903], "Esther_ch_8.docx": [1383], "Revelation_ch_18.docx": [2016]}

@@ -1,3 +1,0 @@
-
-18now	{"Genesis_ch_9.docx": [2330], "2 Samuel_ch_2.docx": [2509], "2 Samuel_ch_18.docx": [2957], "2 Samuel_ch_23.docx": [3090], "1 Kings_ch_6.docx": [2265], "1 Kings_ch_12.docx": [2882], "1 Kings_ch_16.docx": [2653]}
-16sel	{"Numbers_ch_26.docx": [1719]}

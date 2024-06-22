@@ -1,3 +1,0 @@
-
-38the	{"Genesis_ch_30.docx": [4539], "Exodus_ch_39.docx": [4553], "Leviticus_ch_14.docx": [5746], "Numbers_ch_4.docx": [5211], "Deuteronomy_ch_4.docx": [5744], "Judges_ch_20.docx": [5892], "2 Samuel_ch_3.docx": [5615], "1 Kings_ch_7.docx": [4969], "1 Kings_ch_20.docx": [6896], "2 Kings_ch_15.docx": [5594], "1 Chronicles_ch_1.docx": [3059], "1 Chronicles_ch_4.docx": [4135], "1 Chronicles_ch_7.docx": [4410], "Nehemiah_ch_7.docx": [2379], "Psalms_ch_105.docx": [3110], "Psalms_ch_106.docx": [3390], "Jeremiah_ch_32.docx": [6685], "Ezekiel_ch_20.docx": [6570], "Matthew_ch_12.docx": [4555]}
-16‘if	{"Exodus_ch_22.docx": [2502], "Leviticus_ch_7.docx": [2132], "Deuteronomy_ch_30.docx": [2336], "Job_ch_27.docx": [1412]}

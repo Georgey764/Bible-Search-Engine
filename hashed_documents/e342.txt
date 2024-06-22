@@ -1,5 +1,2 @@
 
-libyan	{"Genesis_ch_10.docx": [794, 1619, 1619, 1619], "2 Chronicles_ch_16.docx": [1323, 1323, 1323], "Jeremiah_ch_46.docx": [1207, 1207, 1207], "Ezekiel_ch_30.docx": [549, 549, 549], "Ezekiel_ch_38.docx": [629, 629, 629]}
-libyan	{"Genesis_ch_10.docx": [794, 1619, 1619], "2 Chronicles_ch_16.docx": [1323, 1323], "Jeremiah_ch_46.docx": [1207, 1207], "Ezekiel_ch_30.docx": [549, 549], "Ezekiel_ch_38.docx": [629, 629]}
-53‘[a	{"Leviticus_ch_25.docx": [7477]}
 libyan	{"Genesis_ch_10.docx": [794, 1619], "2 Chronicles_ch_16.docx": [1323], "Jeremiah_ch_46.docx": [1207], "Ezekiel_ch_30.docx": [549], "Ezekiel_ch_38.docx": [629]}

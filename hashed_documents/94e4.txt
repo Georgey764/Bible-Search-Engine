@@ -1,4 +1,2 @@
 
-ditch	{"Jeremiah_ch_2.docx": [6145], "Zephaniah_ch_2.docx": [4519, 4519, 4519]}
-ditch	{"Jeremiah_ch_2.docx": [6145], "Zephaniah_ch_2.docx": [4519, 4519]}
 ditch	{"Jeremiah_ch_2.docx": [6145], "Zephaniah_ch_2.docx": [4519]}

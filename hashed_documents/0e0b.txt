@@ -1,4 +1,2 @@
 
-poplar	{"Isaiah_ch_41.docx": [3335], "Hosea_ch_4.docx": [1982, 1982, 1982]}
-poplar	{"Isaiah_ch_41.docx": [3335], "Hosea_ch_4.docx": [1982, 1982]}
 poplar	{"Isaiah_ch_41.docx": [3335], "Hosea_ch_4.docx": [1982]}

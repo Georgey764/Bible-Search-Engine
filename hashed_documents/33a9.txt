@@ -1,3 +1,0 @@
-
-4ad	{"Genesis_ch_36.docx": [334], "Nehemiah_ch_12.docx": [231]}
-6fr	{"Numbers_ch_1.docx": [698], "Numbers_ch_13.docx": [487], "Ezra_ch_8.docx": [636], "Psalms_ch_71.docx": [588]}

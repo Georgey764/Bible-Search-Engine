@@ -1,6 +1,2 @@
 
-impure	{"Job_ch_25.docx": [394], "Proverbs_ch_19.docx": [1183, 1183, 1183]}
-71t	{"1 Chronicles_ch_6.docx": [6008], "Nehemiah_ch_7.docx": [4604], "Psalms_ch_78.docx": [6824]}
-impure	{"Job_ch_25.docx": [394], "Proverbs_ch_19.docx": [1183, 1183]}
-1‘wi	{"Ecclesiastes_ch_8.docx": [6]}
 impure	{"Job_ch_25.docx": [394], "Proverbs_ch_19.docx": [1183]}

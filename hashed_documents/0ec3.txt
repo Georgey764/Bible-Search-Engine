@@ -1,6 +1,3 @@
 
-usual	{"Numbers_ch_24.docx": [23], "Judges_ch_3.docx": [8878, 8878, 8878], "1 Samuel_ch_20.docx": [3835, 4015, 3835, 4015, 3835, 4015], "Daniel_ch_3.docx": [3090, 3475, 3090, 3475, 3090, 3475], "John_ch_18.docx": [5090, 5090]}
-orat	{"Acts_ch_24.docx": [17]}
-usual	{"Numbers_ch_24.docx": [23], "Judges_ch_3.docx": [8878, 8878], "1 Samuel_ch_20.docx": [3835, 4015, 3835, 4015], "Daniel_ch_3.docx": [3090, 3475, 3090, 3475], "John_ch_18.docx": [5090]}
-usual	{"Numbers_ch_24.docx": [23], "Judges_ch_3.docx": [8878], "1 Samuel_ch_20.docx": [3835, 4015], "Daniel_ch_3.docx": [3090, 3475], "John_ch_18.docx": [5090]}
+usual	{"Numbers_ch_24.docx": [23], "Judges_ch_3.docx": [8878], "Ruth_ch_4.docx": [3827], "1 Samuel_ch_20.docx": [3835, 4015], "1 Samuel_ch_31.docx": [2044], "2 Samuel_ch_24.docx": [4853, 6323], "1 Kings_ch_22.docx": [8649, 10121], "Song of Solomon_ch_8.docx": [3485], "Isaiah_ch_66.docx": [6631], "Lamentations_ch_5.docx": [3661], "Daniel_ch_3.docx": [3090, 3475], "Daniel_ch_12.docx": [5326], "Hosea_ch_14.docx": [2881], "Joel_ch_3.docx": [5997], "Jonah_ch_4.docx": [2980], "Micah_ch_7.docx": [5849], "Nahum_ch_3.docx": [5057], "Habakkuk_ch_3.docx": [4697], "Zephaniah_ch_3.docx": [5787], "Haggai_ch_2.docx": [6104], "Zechariah_ch_14.docx": [4225], "John_ch_18.docx": [5090]}
 orat	{"Acts_ch_24.docx": [17]}

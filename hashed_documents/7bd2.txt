@@ -1,4 +1,2 @@
 
-awl	{"Exodus_ch_21.docx": [710], "Deuteronomy_ch_15.docx": [2328, 2328, 2328]}
-awl	{"Exodus_ch_21.docx": [710], "Deuteronomy_ch_15.docx": [2328, 2328]}
 awl	{"Exodus_ch_21.docx": [710], "Deuteronomy_ch_15.docx": [2328]}

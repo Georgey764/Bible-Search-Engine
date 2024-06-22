@@ -1,5 +1,2 @@
 
 rewash	{"Leviticus_ch_13.docx": [8210]}
-22-1	{"Exodus_ch_38.docx": [1586, 1615]}
-rewash	{"Leviticus_ch_13.docx": [8210]}
-rewash	{"Leviticus_ch_13.docx": [8210]}

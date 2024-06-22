@@ -1,4 +1,2 @@
 
-ahazij	{"1 Chronicles_ch_3.docx": [1021]}
-ahazij	{"1 Chronicles_ch_3.docx": [1021]}
-ahazij	{"1 Chronicles_ch_3.docx": [1021]}
+ahazij	{"1 Kings_ch_22.docx": [6678, 7820, 8150], "1 Chronicles_ch_3.docx": [1021]}

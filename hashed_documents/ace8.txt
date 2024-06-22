@@ -1,5 +1,2 @@
 
-hamstr	{"Joshua_ch_11.docx": [3024, 5066, 5066, 5066]}
-hamstr	{"Joshua_ch_11.docx": [3024, 5066, 5066]}
-2aro	{"Isaiah_ch_5.docx": [197]}
 hamstr	{"Joshua_ch_11.docx": [3024, 5066]}

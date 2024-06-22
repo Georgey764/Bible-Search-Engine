@@ -1,4 +1,2 @@
 
-gatew	{"Nehemiah_ch_3.docx": [30], "Matthew_ch_7.docx": [1702, 1702, 1702], "John_ch_10.docx": [696, 843, 696, 843]}
-gatew	{"Nehemiah_ch_3.docx": [30], "Matthew_ch_7.docx": [1702, 1702], "John_ch_10.docx": [696, 843]}
 gatew	{"Nehemiah_ch_3.docx": [30], "Matthew_ch_7.docx": [1702], "John_ch_10.docx": [696, 843]}

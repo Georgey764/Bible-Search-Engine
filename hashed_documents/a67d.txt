@@ -1,7 +1,3 @@
 
-fara	{"Joshua_ch_9.docx": [6019], "Nehemiah_ch_4.docx": [800, 800, 800], "Job_ch_36.docx": [141, 141, 141], "Isaiah_ch_13.docx": [666, 666, 666], "Isaiah_ch_39.docx": [706, 706, 706], "Isaiah_ch_43.docx": [1025, 1025, 1025], "Isaiah_ch_60.docx": [1310, 1310, 1310], "Jeremiah_ch_46.docx": [4529, 4529, 4529], "Ezekiel_ch_27.docx": [1816, 1816, 1816]}
-populo	{"Joel_ch_1.docx": [763]}
-fara	{"Joshua_ch_9.docx": [6019], "Nehemiah_ch_4.docx": [800, 800], "Job_ch_36.docx": [141, 141], "Isaiah_ch_13.docx": [666, 666], "Isaiah_ch_39.docx": [706, 706], "Isaiah_ch_43.docx": [1025, 1025], "Isaiah_ch_60.docx": [1310, 1310], "Jeremiah_ch_46.docx": [4529, 4529], "Ezekiel_ch_27.docx": [1816, 1816]}
-populo	{"Joel_ch_1.docx": [763]}
 fara	{"Joshua_ch_9.docx": [6019], "Nehemiah_ch_4.docx": [800], "Job_ch_36.docx": [141], "Isaiah_ch_13.docx": [666], "Isaiah_ch_39.docx": [706], "Isaiah_ch_43.docx": [1025], "Isaiah_ch_60.docx": [1310], "Jeremiah_ch_46.docx": [4529], "Ezekiel_ch_27.docx": [1816]}
 populo	{"Joel_ch_1.docx": [763]}

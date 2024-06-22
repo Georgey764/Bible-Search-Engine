@@ -1,5 +1,2 @@
 
-have!	{"1 Samuel_ch_8.docx": [2351], "Luke_ch_9.docx": [5359, 5359], "James_ch_4.docx": [185, 185]}
-have!	{"1 Samuel_ch_8.docx": [2351], "Luke_ch_9.docx": [5359], "James_ch_4.docx": [185]}
-6kil	{"Ezekiel_ch_9.docx": [1239]}
-have!	{"1 Samuel_ch_8.docx": [2351], "Luke_ch_9.docx": [5359], "James_ch_4.docx": [185]}
+have!	{"1 Samuel_ch_8.docx": [2351], "Luke_ch_9.docx": [5359], "Luke_ch_24.docx": [4414], "James_ch_4.docx": [185]}

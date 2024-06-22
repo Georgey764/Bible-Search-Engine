@@ -1,4 +1,2 @@
 
 non-	{"1 Kings_ch_9.docx": [3494], "Job_ch_42.docx": [4353]}
-non-	{"1 Kings_ch_9.docx": [3494]}
-non-	{"1 Kings_ch_9.docx": [3494]}

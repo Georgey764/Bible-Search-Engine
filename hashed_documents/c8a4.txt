@@ -1,4 +1,2 @@
 
-ophra	{"Judges_ch_8.docx": [6279, 6305, 6332, 6305, 6332, 6305, 6332], "1 Samuel_ch_13.docx": [2878, 2878, 2878]}
-ophra	{"Judges_ch_8.docx": [6279, 6305, 6332, 6305, 6332], "1 Samuel_ch_13.docx": [2878, 2878]}
 ophra	{"Judges_ch_8.docx": [6279, 6305, 6332], "1 Samuel_ch_13.docx": [2878]}

@@ -1,5 +1,2 @@
 
-chic	{"Deuteronomy_ch_22.docx": [872], "Proverbs_ch_30.docx": [1922, 1922, 1922], "Matthew_ch_23.docx": [4915, 4915, 4915], "Luke_ch_13.docx": [4553, 4553]}
-chic	{"Deuteronomy_ch_22.docx": [872], "Proverbs_ch_30.docx": [1922, 1922], "Matthew_ch_23.docx": [4915, 4915], "Luke_ch_13.docx": [4553]}
-141	{"Psalms_ch_119.docx": [11821], "Psalms_ch_141.docx": [3]}
 chic	{"Deuteronomy_ch_22.docx": [872], "Proverbs_ch_30.docx": [1922], "Matthew_ch_23.docx": [4915], "Luke_ch_13.docx": [4553]}

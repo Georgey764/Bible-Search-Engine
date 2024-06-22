@@ -1,4 +1,2 @@
 
-drippi	{"Song of Solomon_ch_5.docx": [1059, 2338, 2338, 2338]}
-drippi	{"Song of Solomon_ch_5.docx": [1059, 2338, 2338]}
 drippi	{"Song of Solomon_ch_5.docx": [1059, 2338]}

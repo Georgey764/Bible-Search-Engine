@@ -1,3 +1,0 @@
-
-1/1	{"Genesis_ch_14.docx": [2936], "Genesis_ch_28.docx": [3184], "Exodus_ch_16.docx": [5483], "Numbers_ch_18.docx": [3680, 4160, 4478, 4500, 4503, 4734, 5021], "Deuteronomy_ch_14.docx": [1993], "1 Samuel_ch_8.docx": [1827, 1929, 2036], "2 Chronicles_ch_31.docx": [1203, 1213, 2078], "Nehemiah_ch_10.docx": [3544, 3570, 3573], "Isaiah_ch_6.docx": [2192], "Matthew_ch_23.docx": [2767]}
-13‘it	{"Numbers_ch_6.docx": [1862], "Ecclesiastes_ch_4.docx": [1629], "Ezekiel_ch_13.docx": [2346], "Ezekiel_ch_21.docx": [1888], "Zechariah_ch_7.docx": [2023]}

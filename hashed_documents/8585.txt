@@ -1,4 +1,2 @@
 
-knives	{"Joshua_ch_5.docx": [382, 496, 522, 552, 496, 522, 552, 496, 522, 552], "Joshua_ch_21.docx": [5361, 5361, 5361], "1 Kings_ch_18.docx": [4618, 4618, 4618], "Ezra_ch_1.docx": [1612, 1612, 1612], "Proverbs_ch_30.docx": [1354, 1354, 1354]}
-knives	{"Joshua_ch_5.docx": [382, 496, 522, 552, 496, 522, 552], "Joshua_ch_21.docx": [5361, 5361], "1 Kings_ch_18.docx": [4618, 4618], "Ezra_ch_1.docx": [1612, 1612], "Proverbs_ch_30.docx": [1354, 1354]}
-knives	{"Joshua_ch_5.docx": [382, 496, 522, 552], "Joshua_ch_21.docx": [5361], "1 Kings_ch_18.docx": [4618], "Ezra_ch_1.docx": [1612], "Proverbs_ch_30.docx": [1354]}
+knives	{"Joshua_ch_5.docx": [382, 496, 522, 552], "Joshua_ch_21.docx": [5361], "Joshua_ch_24.docx": [4861], "1 Kings_ch_18.docx": [4618], "Ezra_ch_1.docx": [1612], "Proverbs_ch_30.docx": [1354]}

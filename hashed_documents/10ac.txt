@@ -1,4 +1,2 @@
 
-eser	{"1 Chronicles_ch_4.docx": [1781, 1793, 1793, 1793]}
-eser	{"1 Chronicles_ch_4.docx": [1781, 1793, 1793]}
 eser	{"1 Chronicles_ch_4.docx": [1781, 1793]}

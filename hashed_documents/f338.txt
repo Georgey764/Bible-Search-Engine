@@ -1,4 +1,2 @@
 
-anami	{"Genesis_ch_10.docx": [1618], "1 Chronicles_ch_1.docx": [969, 969, 969]}
-anami	{"Genesis_ch_10.docx": [1618], "1 Chronicles_ch_1.docx": [969, 969]}
 anami	{"Genesis_ch_10.docx": [1618], "1 Chronicles_ch_1.docx": [969]}

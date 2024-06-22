@@ -1,4 +1,2 @@
 
-nacho	{"Genesis_ch_36.docx": [1425, 1920, 1920, 1920], "2 Samuel_ch_6.docx": [741, 741, 741]}
-nacho	{"Genesis_ch_36.docx": [1425, 1920, 1920], "2 Samuel_ch_6.docx": [741, 741]}
 nacho	{"Genesis_ch_36.docx": [1425, 1920], "2 Samuel_ch_6.docx": [741]}

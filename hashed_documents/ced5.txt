@@ -1,7 +1,3 @@
 
 watch!	{"2 Chronicles_ch_20.docx": [2579]}
 cream	{"Proverbs_ch_30.docx": [3374]}
-watch!	{"2 Chronicles_ch_20.docx": [2579]}
-cream	{"Proverbs_ch_30.docx": [3374]}
-watch!	{"2 Chronicles_ch_20.docx": [2579]}
-cream	{"Proverbs_ch_30.docx": [3374]}

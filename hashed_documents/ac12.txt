@@ -1,2 +1,0 @@
-
-14o	{"Deuteronomy_ch_12.docx": [2290], "Deuteronomy_ch_33.docx": [1925], "1 Chronicles_ch_23.docx": [1579], "Nehemiah_ch_6.docx": [2232], "Psalms_ch_51.docx": [1473], "Psalms_ch_69.docx": [1653], "Psalms_ch_80.docx": [1296], "Isaiah_ch_41.docx": [2259]}

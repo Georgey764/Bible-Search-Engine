@@ -1,5 +1,2 @@
 
 aphir	{"Genesis_ch_25.docx": [322]}
-aphir	{"Genesis_ch_25.docx": [322]}
-4el	{"1 Chronicles_ch_6.docx": [292], "Job_ch_32.docx": [445]}
-aphir	{"Genesis_ch_25.docx": [322]}

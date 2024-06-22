@@ -1,4 +1,2 @@
 
-tanac	{"Numbers_ch_26.docx": [4075, 4080, 4080, 4080], "Joshua_ch_21.docx": [3058, 3058, 3058]}
-tanac	{"Numbers_ch_26.docx": [4075, 4080, 4080], "Joshua_ch_21.docx": [3058, 3058]}
 tanac	{"Numbers_ch_26.docx": [4075, 4080], "Joshua_ch_21.docx": [3058]}

@@ -1,5 +1,3 @@
 
-artis	{"Exodus_ch_28.docx": [1109], "Isaiah_ch_40.docx": [2660, 2660, 2660], "Acts_ch_17.docx": [5934, 5934]}
-artis	{"Exodus_ch_28.docx": [1109], "Isaiah_ch_40.docx": [2660, 2660], "Acts_ch_17.docx": [5934]}
-7.3	{"1 Kings_ch_7.docx": [2111]}
 artis	{"Exodus_ch_28.docx": [1109], "Isaiah_ch_40.docx": [2660], "Acts_ch_17.docx": [5934]}
+thab	{"2 Samuel_ch_24.docx": [768]}

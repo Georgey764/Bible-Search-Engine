@@ -1,7 +1,3 @@
 
-rames	{"Genesis_ch_46.docx": [3413], "Genesis_ch_47.docx": [1565, 1565, 1565], "Exodus_ch_1.docx": [1020, 1020, 1020], "Exodus_ch_12.docx": [5759, 5759, 5759], "Numbers_ch_33.docx": [326, 634, 326, 634, 326, 634]}
-reclai	{"Proverbs_ch_20.docx": [2333], "Jeremiah_ch_34.docx": [2962, 2962, 2962]}
-rames	{"Genesis_ch_46.docx": [3413], "Genesis_ch_47.docx": [1565, 1565], "Exodus_ch_1.docx": [1020, 1020], "Exodus_ch_12.docx": [5759, 5759], "Numbers_ch_33.docx": [326, 634, 326, 634]}
-reclai	{"Proverbs_ch_20.docx": [2333], "Jeremiah_ch_34.docx": [2962, 2962]}
 rames	{"Genesis_ch_46.docx": [3413], "Genesis_ch_47.docx": [1565], "Exodus_ch_1.docx": [1020], "Exodus_ch_12.docx": [5759], "Numbers_ch_33.docx": [326, 634]}
 reclai	{"Proverbs_ch_20.docx": [2333], "Jeremiah_ch_34.docx": [2962]}

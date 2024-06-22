@@ -1,4 +1,2 @@
 
 mocks	{"1 Samuel_ch_17.docx": [3918]}
-mocks	{"1 Samuel_ch_17.docx": [3918]}
-mocks	{"1 Samuel_ch_17.docx": [3918]}

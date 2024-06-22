@@ -1,5 +1,2 @@
 
 twists	{"Proverbs_ch_17.docx": [1997]}
-4as	{"Leviticus_ch_9.docx": [327], "1 Samuel_ch_8.docx": [211], "1 Samuel_ch_15.docx": [540], "2 Samuel_ch_10.docx": [513], "2 Kings_ch_5.docx": [574], "1 Chronicles_ch_10.docx": [470], "2 Chronicles_ch_11.docx": [535], "Job_ch_29.docx": [244], "Jeremiah_ch_28.docx": [461]}
-twists	{"Proverbs_ch_17.docx": [1997]}
-twists	{"Proverbs_ch_17.docx": [1997]}

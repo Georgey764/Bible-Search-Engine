@@ -1,4 +1,2 @@
 
-baalja	{"1 Chronicles_ch_12.docx": [708], "1 Chronicles_ch_14.docx": [626, 626, 626]}
-baalja	{"1 Chronicles_ch_12.docx": [708], "1 Chronicles_ch_14.docx": [626, 626]}
 baalja	{"1 Chronicles_ch_12.docx": [708], "1 Chronicles_ch_14.docx": [626]}

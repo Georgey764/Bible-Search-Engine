@@ -1,4 +1,2 @@
 
-alte	{"Genesis_ch_30.docx": [4521], "Job_ch_5.docx": [1011, 1011, 1011], "Proverbs_ch_4.docx": [1456, 1456, 1456], "Isaiah_ch_41.docx": [119, 119, 119], "Daniel_ch_6.docx": [2536, 2536, 2536], "Hosea_ch_8.docx": [1554, 1554, 1554]}
-alte	{"Genesis_ch_30.docx": [4521], "Job_ch_5.docx": [1011, 1011], "Proverbs_ch_4.docx": [1456, 1456], "Isaiah_ch_41.docx": [119, 119], "Daniel_ch_6.docx": [2536, 2536], "Hosea_ch_8.docx": [1554, 1554]}
-alte	{"Genesis_ch_30.docx": [4521], "Job_ch_5.docx": [1011], "Proverbs_ch_4.docx": [1456], "Isaiah_ch_41.docx": [119], "Daniel_ch_6.docx": [2536], "Hosea_ch_8.docx": [1554]}
+alte	{"Genesis_ch_30.docx": [4521], "Esther_ch_10.docx": [3924], "Job_ch_5.docx": [1011], "Proverbs_ch_4.docx": [1456], "Isaiah_ch_41.docx": [119], "Daniel_ch_6.docx": [2536], "Hosea_ch_8.docx": [1554], "Mark_ch_16.docx": [1108]}

@@ -1,5 +1,2 @@
 
 emake	{"Jeremiah_ch_49.docx": [792]}
-22‘l	{"Isaiah_ch_49.docx": [4691], "Jeremiah_ch_34.docx": [4219]}
-emake	{"Jeremiah_ch_49.docx": [792]}
-emake	{"Jeremiah_ch_49.docx": [792]}

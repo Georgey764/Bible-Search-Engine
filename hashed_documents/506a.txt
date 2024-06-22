@@ -1,4 +1,2 @@
 
-chol	{"Joshua_ch_15.docx": [4283], "1 Chronicles_ch_27.docx": [1916, 1916]}
-chol	{"1 Chronicles_ch_27.docx": [1916, 1916]}
 chol	{"Joshua_ch_15.docx": [4283], "1 Chronicles_ch_27.docx": [1916]}

@@ -1,4 +1,2 @@
 
-jex	{"1 Chronicles_ch_1.docx": [2494, 2548, 2548, 2548]}
-jex	{"1 Chronicles_ch_1.docx": [2494, 2548, 2548]}
 jex	{"1 Chronicles_ch_1.docx": [2494, 2548]}

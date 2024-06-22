@@ -1,5 +1,2 @@
 
 iot	{"Matthew_ch_5.docx": [1791]}
-15eli	{"Matthew_ch_1.docx": [1175]}
-iot	{"Matthew_ch_5.docx": [1791]}
-iot	{"Matthew_ch_5.docx": [1791]}

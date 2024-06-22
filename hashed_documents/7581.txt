@@ -1,5 +1,2 @@
 
-exits	{"Ezekiel_ch_43.docx": [2061], "Ezekiel_ch_47.docx": [1295, 1295, 1295]}
-18‘[	{"Deuteronomy_ch_15.docx": [2621], "Deuteronomy_ch_22.docx": [2380]}
-exits	{"Ezekiel_ch_43.docx": [2061], "Ezekiel_ch_47.docx": [1295, 1295]}
 exits	{"Ezekiel_ch_43.docx": [2061], "Ezekiel_ch_47.docx": [1295]}

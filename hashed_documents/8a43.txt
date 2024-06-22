@@ -1,5 +1,2 @@
 
-fodde	{"Genesis_ch_24.docx": [3738, 4662, 4662, 4662], "Genesis_ch_43.docx": [3277, 3277, 3277]}
-fodde	{"Genesis_ch_24.docx": [3738, 4662, 4662], "Genesis_ch_43.docx": [3277, 3277]}
-14‘ye	{"Song of Solomon_ch_4.docx": [1984], "Isaiah_ch_65.docx": [2433], "Jeremiah_ch_16.docx": [2311], "Jeremiah_ch_21.docx": [2478]}
 fodde	{"Genesis_ch_24.docx": [3738, 4662], "Genesis_ch_43.docx": [3277]}

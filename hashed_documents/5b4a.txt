@@ -1,2 +1,0 @@
-
-40s	{"Numbers_ch_26.docx": [4112], "Numbers_ch_32.docx": [5290], "1 Samuel_ch_17.docx": [6020], "1 Samuel_ch_25.docx": [6440], "1 Kings_ch_8.docx": [6475], "2 Kings_ch_17.docx": [7092], "1 Chronicles_ch_1.docx": [3241], "1 Chronicles_ch_6.docx": [3172], "Psalms_ch_106.docx": [3652]}

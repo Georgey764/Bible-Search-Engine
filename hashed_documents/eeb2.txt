@@ -1,4 +1,2 @@
 
-embol	{"Nehemiah_ch_2.docx": [4939], "1 Corinthians_ch_8.docx": [1545, 1545]}
-embol	{"Nehemiah_ch_2.docx": [4939], "1 Corinthians_ch_8.docx": [1545]}
 embol	{"Nehemiah_ch_2.docx": [4939], "1 Corinthians_ch_8.docx": [1545]}

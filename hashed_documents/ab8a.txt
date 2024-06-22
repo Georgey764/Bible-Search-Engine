@@ -1,3 +1,0 @@
-
-49s	{"Genesis_ch_41.docx": [6450], "Numbers_ch_3.docx": [5979], "Joshua_ch_19.docx": [4258], "Judges_ch_9.docx": [8928], "1 Samuel_ch_14.docx": [8044], "Psalms_ch_18.docx": [4696], "Psalms_ch_89.docx": [4616]}
-19he’s	{"Psalms_ch_147.docx": [1670]}

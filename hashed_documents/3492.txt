@@ -1,5 +1,2 @@
 
 despic	{"1 Samuel_ch_25.docx": [3596]}
-despic	{"1 Samuel_ch_25.docx": [3596]}
-12:1	{"1 Chronicles_ch_11.docx": [4984]}
-despic	{"1 Samuel_ch_25.docx": [3596]}

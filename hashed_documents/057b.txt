@@ -1,7 +1,3 @@
 
 asaj	{"2 Kings_ch_22.docx": [1831]}
 mutes	{"Isaiah_ch_42.docx": [2767]}
-asaj	{"2 Kings_ch_22.docx": [1831]}
-mutes	{"Isaiah_ch_42.docx": [2767]}
-asaj	{"2 Kings_ch_22.docx": [1831]}
-mutes	{"Isaiah_ch_42.docx": [2767]}

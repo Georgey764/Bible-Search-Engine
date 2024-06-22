@@ -1,5 +1,2 @@
 
-lest	{"Exodus_ch_23.docx": [4440], "Leviticus_ch_10.docx": [1404, 1404, 1404], "Proverbs_ch_25.docx": [1591, 1591, 1591], "Ecclesiastes_ch_7.docx": [1918, 1918, 1918], "2 Corinthians_ch_12.docx": [724, 724]}
-lest	{"Exodus_ch_23.docx": [4440], "Leviticus_ch_10.docx": [1404, 1404], "Proverbs_ch_25.docx": [1591, 1591], "Ecclesiastes_ch_7.docx": [1918, 1918], "2 Corinthians_ch_12.docx": [724]}
-2prais	{"Psalms_ch_103.docx": [162]}
-lest	{"Exodus_ch_23.docx": [4440], "Leviticus_ch_10.docx": [1404], "Proverbs_ch_25.docx": [1591], "Ecclesiastes_ch_7.docx": [1918], "2 Corinthians_ch_12.docx": [724]}
+lest	{"Exodus_ch_23.docx": [4440], "Leviticus_ch_10.docx": [1404], "Proverbs_ch_25.docx": [1591], "Proverbs_ch_31.docx": [560], "Ecclesiastes_ch_7.docx": [1918], "2 Corinthians_ch_12.docx": [724]}

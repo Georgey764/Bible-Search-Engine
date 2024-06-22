@@ -1,4 +1,2 @@
 
-plates	{"Exodus_ch_25.docx": [4256], "Numbers_ch_16.docx": [5278, 5278, 5278], "2 Chronicles_ch_26.docx": [2038, 2038, 2038], "Jeremiah_ch_46.docx": [528, 528, 528], "Ezekiel_ch_23.docx": [3932, 3932, 3932], "Ezekiel_ch_38.docx": [538, 538, 538]}
-plates	{"Exodus_ch_25.docx": [4256], "Numbers_ch_16.docx": [5278, 5278], "2 Chronicles_ch_26.docx": [2038, 2038], "Jeremiah_ch_46.docx": [528, 528], "Ezekiel_ch_23.docx": [3932, 3932], "Ezekiel_ch_38.docx": [538, 538]}
 plates	{"Exodus_ch_25.docx": [4256], "Numbers_ch_16.docx": [5278], "2 Chronicles_ch_26.docx": [2038], "Jeremiah_ch_46.docx": [528], "Ezekiel_ch_23.docx": [3932], "Ezekiel_ch_38.docx": [538]}

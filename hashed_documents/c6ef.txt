@@ -1,4 +1,2 @@
 
-plowi	{"Genesis_ch_45.docx": [836], "Judges_ch_14.docx": [3329, 3329, 3329], "Job_ch_1.docx": [2251, 2251, 2251], "Isaiah_ch_28.docx": [3748, 3748, 3748], "Isaiah_ch_63.docx": [452, 452, 452], "Luke_ch_17.docx": [865, 865]}
-plowi	{"Genesis_ch_45.docx": [836], "Judges_ch_14.docx": [3329, 3329], "Job_ch_1.docx": [2251, 2251], "Isaiah_ch_28.docx": [3748, 3748], "Isaiah_ch_63.docx": [452, 452], "Luke_ch_17.docx": [865]}
 plowi	{"Genesis_ch_45.docx": [836], "Judges_ch_14.docx": [3329], "Job_ch_1.docx": [2251], "Isaiah_ch_28.docx": [3748], "Isaiah_ch_63.docx": [452], "Luke_ch_17.docx": [865]}

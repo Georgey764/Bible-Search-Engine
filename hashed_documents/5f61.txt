@@ -1,5 +1,2 @@
 
-obeys	{"1 Chronicles_ch_28.docx": [1330], "Proverbs_ch_17.docx": [283, 283, 283], "Ezekiel_ch_18.docx": [1266, 1266, 1266], "Malachi_ch_3.docx": [3591, 3591, 3591], "Mark_ch_4.docx": [4926, 4926], "John_ch_8.docx": [6583, 6583], "Romans_ch_2.docx": [3305, 3305]}
-2howe	{"Joshua_ch_2.docx": [193], "Judges_ch_2.docx": [627], "Judges_ch_19.docx": [165], "1 Samuel_ch_30.docx": [36], "2 Kings_ch_11.docx": [131], "2 Kings_ch_13.docx": [217], "2 Kings_ch_21.docx": [150], "2 Chronicles_ch_33.docx": [120], "Matthew_ch_11.docx": [147]}
-obeys	{"1 Chronicles_ch_28.docx": [1330], "Proverbs_ch_17.docx": [283, 283], "Ezekiel_ch_18.docx": [1266, 1266], "Malachi_ch_3.docx": [3591, 3591], "Mark_ch_4.docx": [4926], "John_ch_8.docx": [6583], "Romans_ch_2.docx": [3305]}
-obeys	{"1 Chronicles_ch_28.docx": [1330], "Proverbs_ch_17.docx": [283], "Ezekiel_ch_18.docx": [1266], "Malachi_ch_3.docx": [3591], "Mark_ch_4.docx": [4926], "John_ch_8.docx": [6583], "Romans_ch_2.docx": [3305]}
+obeys	{"1 Chronicles_ch_28.docx": [1330], "Proverbs_ch_17.docx": [283], "Ezekiel_ch_18.docx": [1266], "Malachi_ch_3.docx": [3591], "Mark_ch_4.docx": [4926], "John_ch_8.docx": [6583], "Romans_ch_2.docx": [3305], "Revelation_ch_22.docx": [1042]}

@@ -1,4 +1,2 @@
 
-lampl	{"2 Kings_ch_8.docx": [3484], "Revelation_ch_18.docx": [4255, 4255]}
-lampl	{"2 Kings_ch_8.docx": [3484], "Revelation_ch_18.docx": [4255]}
 lampl	{"2 Kings_ch_8.docx": [3484], "Revelation_ch_18.docx": [4255]}

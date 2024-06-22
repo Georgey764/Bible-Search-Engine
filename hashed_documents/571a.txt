@@ -1,4 +1,2 @@
 
-conija	{"Jeremiah_ch_22.docx": [4135, 4654, 4654], "Jeremiah_ch_37.docx": [15, 15, 15]}
-conija	{"Jeremiah_ch_22.docx": [4135, 4654], "Jeremiah_ch_37.docx": [15, 15]}
 conija	{"Jeremiah_ch_22.docx": [4135, 4654], "Jeremiah_ch_37.docx": [15]}

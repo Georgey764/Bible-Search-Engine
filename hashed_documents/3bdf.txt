@@ -1,7 +1,3 @@
 
 houtha	{"2 Kings_ch_17.docx": [4292]}
 asebon	{"1 Chronicles_ch_7.docx": [857]}
-houtha	{"2 Kings_ch_17.docx": [4292]}
-asebon	{"1 Chronicles_ch_7.docx": [857]}
-houtha	{"2 Kings_ch_17.docx": [4292]}
-asebon	{"1 Chronicles_ch_7.docx": [857]}

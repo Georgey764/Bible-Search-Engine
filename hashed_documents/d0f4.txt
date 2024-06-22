@@ -1,12 +1,5 @@
 
 ahihu	{"1 Chronicles_ch_8.docx": [433]}
 micha	{"1 Chronicles_ch_23.docx": [2090]}
-wolv	{"Isaiah_ch_65.docx": [4248], "Habakkuk_ch_1.docx": [1231, 1231, 1231], "Matthew_ch_7.docx": [1852, 1852, 1852], "Matthew_ch_10.docx": [1871, 1871, 1871], "Luke_ch_10.docx": [337, 337], "Acts_ch_20.docx": [9146, 9146]}
-lusts	{"James_ch_4.docx": [734]}
-ahihu	{"1 Chronicles_ch_8.docx": [433]}
-micha	{"1 Chronicles_ch_23.docx": [2090]}
-wolv	{"Isaiah_ch_65.docx": [4248], "Habakkuk_ch_1.docx": [1231, 1231], "Matthew_ch_7.docx": [1852, 1852], "Matthew_ch_10.docx": [1871, 1871], "Luke_ch_10.docx": [337], "Acts_ch_20.docx": [9146]}
-ahihu	{"1 Chronicles_ch_8.docx": [433]}
-micha	{"1 Chronicles_ch_23.docx": [2090]}
-wolv	{"Isaiah_ch_65.docx": [4248], "Habakkuk_ch_1.docx": [1231], "Matthew_ch_7.docx": [1852], "Matthew_ch_10.docx": [1871], "Luke_ch_10.docx": [337], "Acts_ch_20.docx": [9146]}
+wolv	{"Isaiah_ch_65.docx": [4248], "Habakkuk_ch_1.docx": [1231], "Zephaniah_ch_3.docx": [453], "Matthew_ch_7.docx": [1852], "Matthew_ch_10.docx": [1871], "Luke_ch_10.docx": [337], "Acts_ch_20.docx": [9146]}
 lusts	{"James_ch_4.docx": [734]}

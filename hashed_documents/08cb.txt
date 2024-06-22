@@ -1,5 +1,2 @@
 
-refre	{"Genesis_ch_18.docx": [402], "Exodus_ch_23.docx": [1381, 1381, 1381], "Psalms_ch_39.docx": [1446, 1446], "Matthew_ch_11.docx": [3555, 3679, 3555, 3679, 3555, 3679], "Acts_ch_3.docx": [2412, 2412], "2 Corinthians_ch_7.docx": [2328, 2328], "2 Timothy_ch_1.docx": [2177, 2177]}
-refre	{"Genesis_ch_18.docx": [402], "Exodus_ch_23.docx": [1381, 1381], "Matthew_ch_11.docx": [3555, 3679, 3555, 3679], "Psalms_ch_39.docx": [1446], "Acts_ch_3.docx": [2412], "2 Corinthians_ch_7.docx": [2328], "2 Timothy_ch_1.docx": [2177]}
-47gi	{"Ezra_ch_2.docx": [1765]}
-refre	{"Genesis_ch_18.docx": [402], "Exodus_ch_23.docx": [1381], "Psalms_ch_39.docx": [1446], "Matthew_ch_11.docx": [3555, 3679], "Acts_ch_3.docx": [2412], "2 Corinthians_ch_7.docx": [2328], "2 Timothy_ch_1.docx": [2177]}
+refre	{"Genesis_ch_18.docx": [402], "Exodus_ch_23.docx": [1381], "Psalms_ch_39.docx": [1446], "Matthew_ch_11.docx": [3555, 3679], "Acts_ch_3.docx": [2412], "2 Corinthians_ch_7.docx": [2328], "2 Timothy_ch_1.docx": [2177], "Philemon_ch_1.docx": [687, 2288]}

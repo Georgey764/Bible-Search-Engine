@@ -1,6 +1,3 @@
 
-neba	{"Nehemiah_ch_10.docx": [982], "Isaiah_ch_60.docx": [1028, 1028, 1028]}
-one-wo	{"1 Timothy_ch_3.docx": [206, 1395, 1395], "Titus_ch_1.docx": [746, 746]}
-neba	{"Nehemiah_ch_10.docx": [982], "Isaiah_ch_60.docx": [1028, 1028]}
 neba	{"Nehemiah_ch_10.docx": [982], "Isaiah_ch_60.docx": [1028]}
 one-wo	{"1 Timothy_ch_3.docx": [206, 1395], "Titus_ch_1.docx": [746]}

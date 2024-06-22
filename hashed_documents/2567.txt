@@ -1,5 +1,2 @@
 
-web	{"Isaiah_ch_59.docx": [682, 805, 805, 805]}
-1‘j	{"Isaiah_ch_42.docx": [6], "Isaiah_ch_56.docx": [6]}
-web	{"Isaiah_ch_59.docx": [682, 805, 805]}
 web	{"Isaiah_ch_59.docx": [682, 805]}

@@ -1,4 +1,2 @@
 
-amok	{"Joshua_ch_18.docx": [3524], "Nehemiah_ch_12.docx": [353, 1836, 353, 1836, 353, 1836]}
-amok	{"Joshua_ch_18.docx": [3524], "Nehemiah_ch_12.docx": [353, 1836, 353, 1836]}
 amok	{"Joshua_ch_18.docx": [3524], "Nehemiah_ch_12.docx": [353, 1836]}

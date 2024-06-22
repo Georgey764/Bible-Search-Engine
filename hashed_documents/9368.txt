@@ -1,4 +1,2 @@
 
-studi	{"1 Kings_ch_3.docx": [3496], "Daniel_ch_1.docx": [2472, 2472, 2472], "John_ch_7.docx": [1929, 1929], "Acts_ch_17.docx": [2083, 2083]}
-studi	{"1 Kings_ch_3.docx": [3496], "Daniel_ch_1.docx": [2472, 2472], "John_ch_7.docx": [1929], "Acts_ch_17.docx": [2083]}
 studi	{"1 Kings_ch_3.docx": [3496], "Daniel_ch_1.docx": [2472], "John_ch_7.docx": [1929], "Acts_ch_17.docx": [2083]}

@@ -1,4 +1,2 @@
 
-reno	{"1 Chronicles_ch_7.docx": [254, 532, 532, 532], "1 Chronicles_ch_22.docx": [705, 705, 705], "2 Chronicles_ch_24.docx": [1493, 1493, 1493], "Ezekiel_ch_39.docx": [1887, 1887, 1887]}
-reno	{"1 Chronicles_ch_7.docx": [254, 532, 532], "1 Chronicles_ch_22.docx": [705, 705], "2 Chronicles_ch_24.docx": [1493, 1493], "Ezekiel_ch_39.docx": [1887, 1887]}
 reno	{"1 Chronicles_ch_7.docx": [254, 532], "1 Chronicles_ch_22.docx": [705], "2 Chronicles_ch_24.docx": [1493], "Ezekiel_ch_39.docx": [1887]}

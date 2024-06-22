@@ -1,4 +1,2 @@
 
-flogg	{"Jeremiah_ch_37.docx": [2142], "John_ch_19.docx": [12, 12], "Acts_ch_16.docx": [8368, 8391, 8415, 8368, 8391, 8415]}
-flogg	{"Jeremiah_ch_37.docx": [2142], "John_ch_19.docx": [12], "Acts_ch_16.docx": [8368, 8391, 8415]}
 flogg	{"Jeremiah_ch_37.docx": [2142], "John_ch_19.docx": [12], "Acts_ch_16.docx": [8368, 8391, 8415]}

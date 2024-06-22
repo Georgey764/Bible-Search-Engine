@@ -1,2 +1,0 @@
-
-17to	{"Deuteronomy_ch_32.docx": [2312], "Joshua_ch_13.docx": [21399], "2 Kings_ch_10.docx": [3143], "Job_ch_33.docx": [1529], "Psalms_ch_66.docx": [1528]}

@@ -1,5 +1,2 @@
 
-jesp	{"1 Chronicles_ch_8.docx": [1156, 1464, 1464, 1464]}
-jesp	{"1 Chronicles_ch_8.docx": [1156, 1464, 1464]}
-17‘he’	{"Lamentations_ch_3.docx": [1301]}
 jesp	{"1 Chronicles_ch_8.docx": [1156, 1464]}

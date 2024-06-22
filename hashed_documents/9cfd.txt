@@ -1,4 +1,2 @@
 
-heapin	{"Genesis_ch_41.docx": [6137], "Ruth_ch_2.docx": [3004, 3004, 3004], "Zechariah_ch_9.docx": [3291, 3291, 3291]}
-heapin	{"Genesis_ch_41.docx": [6137], "Ruth_ch_2.docx": [3004, 3004], "Zechariah_ch_9.docx": [3291, 3291]}
 heapin	{"Genesis_ch_41.docx": [6137], "Ruth_ch_2.docx": [3004], "Zechariah_ch_9.docx": [3291]}

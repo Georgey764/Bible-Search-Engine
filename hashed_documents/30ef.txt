@@ -1,3 +1,0 @@
-
-652	{"Numbers_ch_7.docx": [7541], "Ezra_ch_2.docx": [2638], "Nehemiah_ch_7.docx": [1329]}
-23[‘a	{"Deuteronomy_ch_27.docx": [3356]}

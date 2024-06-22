@@ -1,4 +1,2 @@
 
-fero	{"Ezekiel_ch_5.docx": [3309], "Ezekiel_ch_14.docx": [2477, 3743, 2477, 3743, 2477, 3743]}
-fero	{"Ezekiel_ch_5.docx": [3309], "Ezekiel_ch_14.docx": [2477, 3743, 2477, 3743]}
 fero	{"Ezekiel_ch_5.docx": [3309], "Ezekiel_ch_14.docx": [2477, 3743]}

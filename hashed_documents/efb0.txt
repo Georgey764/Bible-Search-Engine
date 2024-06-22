@@ -1,5 +1,2 @@
 
 esb	{"Joshua_ch_21.docx": [4743]}
-esb	{"Joshua_ch_21.docx": [4743]}
-18li	{"Job_ch_31.docx": [1603]}
-esb	{"Joshua_ch_21.docx": [4743]}

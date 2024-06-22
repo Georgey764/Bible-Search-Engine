@@ -1,2 +1,0 @@
-
-7be	{"Genesis_ch_36.docx": [546], "2 Chronicles_ch_11.docx": [808], "Nehemiah_ch_1.docx": [1088], "Psalms_ch_5.docx": [557], "Psalms_ch_42.docx": [860], "Daniel_ch_8.docx": [793]}

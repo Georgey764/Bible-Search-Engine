@@ -1,6 +1,3 @@
 
-scents	{"Song of Solomon_ch_4.docx": [2357], "Ezekiel_ch_16.docx": [3170, 3170, 3170]}
-field-	{"2 Timothy_ch_2.docx": [388]}
-scents	{"Song of Solomon_ch_4.docx": [2357], "Ezekiel_ch_16.docx": [3170, 3170]}
 scents	{"Song of Solomon_ch_4.docx": [2357], "Ezekiel_ch_16.docx": [3170]}
 field-	{"2 Timothy_ch_2.docx": [388]}

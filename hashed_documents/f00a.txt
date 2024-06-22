@@ -1,5 +1,2 @@
 
-raged	{"1 Samuel_ch_14.docx": [3685], "2 Samuel_ch_18.docx": [1134, 1134, 1134], "2 Samuel_ch_21.docx": [3997, 3997, 3997], "1 Chronicles_ch_20.docx": [1016, 1016, 1016]}
-12‘su	{"Leviticus_ch_2.docx": [1465]}
-raged	{"1 Samuel_ch_14.docx": [3685], "2 Samuel_ch_18.docx": [1134, 1134], "2 Samuel_ch_21.docx": [3997, 3997], "1 Chronicles_ch_20.docx": [1016, 1016]}
 raged	{"1 Samuel_ch_14.docx": [3685], "2 Samuel_ch_18.docx": [1134], "2 Samuel_ch_21.docx": [3997], "1 Chronicles_ch_20.docx": [1016]}

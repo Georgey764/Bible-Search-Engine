@@ -1,5 +1,2 @@
 
-quail	{"Exodus_ch_16.docx": [2113], "Numbers_ch_11.docx": [4792, 4835, 4792, 4835, 4792, 4835], "Psalms_ch_105.docx": [3297, 3297, 3297]}
-quail	{"Exodus_ch_16.docx": [2113], "Numbers_ch_11.docx": [4792, 4835, 4792, 4835], "Psalms_ch_105.docx": [3297, 3297]}
-24f	{"Numbers_ch_24.docx": [3103], "Numbers_ch_34.docx": [2309], "Deuteronomy_ch_4.docx": [3668], "1 Chronicles_ch_12.docx": [3286], "1 Chronicles_ch_24.docx": [2541], "2 Chronicles_ch_24.docx": [4099], "Job_ch_21.docx": [2135], "Job_ch_33.docx": [2348], "Psalms_ch_22.docx": [2310], "Proverbs_ch_4.docx": [2224], "Proverbs_ch_6.docx": [2484], "Proverbs_ch_17.docx": [2355], "Proverbs_ch_24.docx": [2310], "Isaiah_ch_5.docx": [3645], "Jeremiah_ch_9.docx": [4239], "Jeremiah_ch_31.docx": [4605], "Amos_ch_5.docx": [4166]}
 quail	{"Exodus_ch_16.docx": [2113], "Numbers_ch_11.docx": [4792, 4835], "Psalms_ch_105.docx": [3297]}

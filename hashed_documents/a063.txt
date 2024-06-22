@@ -1,2 +1,0 @@
-
-2‘d	{"Deuteronomy_ch_4.docx": [238], "Deuteronomy_ch_8.docx": [219], "Job_ch_4.docx": [70], "Job_ch_22.docx": [59], "Ecclesiastes_ch_5.docx": [235], "Jeremiah_ch_10.docx": [78], "Jeremiah_ch_16.docx": [69]}

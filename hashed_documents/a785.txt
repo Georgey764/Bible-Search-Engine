@@ -1,4 +1,2 @@
 
-misco	{"1 Samuel_ch_20.docx": [3364], "1 Timothy_ch_3.docx": [201, 201], "Titus_ch_1.docx": [745, 745]}
-misco	{"1 Samuel_ch_20.docx": [3364], "1 Timothy_ch_3.docx": [201], "Titus_ch_1.docx": [745]}
 misco	{"1 Samuel_ch_20.docx": [3364], "1 Timothy_ch_3.docx": [201], "Titus_ch_1.docx": [745]}

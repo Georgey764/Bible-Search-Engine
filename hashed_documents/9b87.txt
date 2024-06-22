@@ -1,5 +1,2 @@
 
-myth	{"Job_ch_40.docx": [2151], "1 Timothy_ch_1.docx": [418, 418], "Titus_ch_1.docx": [1764, 1764], "2 Peter_ch_1.docx": [2389, 2389]}
-myth	{"Job_ch_40.docx": [2151], "1 Timothy_ch_1.docx": [418], "Titus_ch_1.docx": [1764], "2 Peter_ch_1.docx": [2389]}
-3glory	{"Psalms_ch_112.docx": [210]}
 myth	{"Job_ch_40.docx": [2151], "1 Timothy_ch_1.docx": [418], "Titus_ch_1.docx": [1764], "2 Peter_ch_1.docx": [2389]}

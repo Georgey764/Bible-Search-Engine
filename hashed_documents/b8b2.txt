@@ -1,7 +1,3 @@
 
 sabou	{"1 Chronicles_ch_4.docx": [3128]}
 ear;	{"Amos_ch_3.docx": [2139]}
-sabou	{"1 Chronicles_ch_4.docx": [3128]}
-ear;	{"Amos_ch_3.docx": [2139]}
-sabou	{"1 Chronicles_ch_4.docx": [3128]}
-ear;	{"Amos_ch_3.docx": [2139]}

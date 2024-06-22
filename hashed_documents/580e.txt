@@ -1,5 +1,2 @@
 
  21	{"1 Chronicles_ch_1.docx": [1797]}
- 21	{"1 Chronicles_ch_1.docx": [1797]}
-16awa	{"Proverbs_ch_2.docx": [1343]}
- 21	{"1 Chronicles_ch_1.docx": [1797]}

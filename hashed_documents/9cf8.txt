@@ -1,4 +1,2 @@
 
-dove!	{"Song of Solomon_ch_2.docx": [1632], "Song of Solomon_ch_6.docx": [1195, 1195, 1195]}
-dove!	{"Song of Solomon_ch_2.docx": [1632], "Song of Solomon_ch_6.docx": [1195, 1195]}
 dove!	{"Song of Solomon_ch_2.docx": [1632], "Song of Solomon_ch_6.docx": [1195]}

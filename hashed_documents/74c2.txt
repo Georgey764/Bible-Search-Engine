@@ -1,4 +1,2 @@
 
-doome	{"Genesis_ch_3.docx": [1992], "Judges_ch_20.docx": [5268, 5268, 5268]}
-doome	{"Genesis_ch_3.docx": [1992], "Judges_ch_20.docx": [5268, 5268]}
 doome	{"Genesis_ch_3.docx": [1992], "Judges_ch_20.docx": [5268]}

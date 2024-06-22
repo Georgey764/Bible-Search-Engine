@@ -1,5 +1,2 @@
 
 jekemi	{"1 Chronicles_ch_23.docx": [2042]}
-30h	{"Genesis_ch_11.docx": [3362], "Genesis_ch_25.docx": [3219], "1 Kings_ch_16.docx": [4643], "1 Chronicles_ch_8.docx": [1891], "Daniel_ch_5.docx": [5508]}
-jekemi	{"1 Chronicles_ch_23.docx": [2042]}
-jekemi	{"1 Chronicles_ch_23.docx": [2042]}

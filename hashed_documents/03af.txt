@@ -1,4 +1,2 @@
 
-saraj	{"1 Chronicles_ch_4.docx": [1451, 1532, 1532, 1532]}
-saraj	{"1 Chronicles_ch_4.docx": [1451, 1532, 1532]}
 saraj	{"1 Chronicles_ch_4.docx": [1451, 1532]}

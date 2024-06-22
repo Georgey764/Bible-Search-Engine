@@ -8,22 +8,3 @@ jo	{"1 Chronicles_ch_11.docx": [6541]}
 jo	{"1 Chronicles_ch_12.docx": [382]}
 jo	{"1 Chronicles_ch_26.docx": [2800]}
 jo	{"Ezra_ch_8.docx": [4850]}
-jo	{"1 Chronicles_ch_4.docx": [3869], "1 Chronicles_ch_8.docx": [611]}
-jo	{"1 Chronicles_ch_9.docx": [1307]}
-jo	{"1 Chronicles_ch_11.docx": [5683]}
-jo	{"1 Chronicles_ch_11.docx": [6326]}
-jo	{"1 Chronicles_ch_11.docx": [6464]}
-jo	{"1 Chronicles_ch_11.docx": [6541]}
-jo	{"1 Chronicles_ch_12.docx": [382]}
-jo	{"1 Chronicles_ch_26.docx": [2800]}
-jo	{"Ezra_ch_8.docx": [4850]}
-4‘yes	{"Isaiah_ch_52.docx": [468], "Micah_ch_5.docx": [1142]}
-jo	{"1 Chronicles_ch_4.docx": [3869], "1 Chronicles_ch_8.docx": [611]}
-jo	{"1 Chronicles_ch_9.docx": [1307]}
-jo	{"1 Chronicles_ch_11.docx": [5683]}
-jo	{"1 Chronicles_ch_11.docx": [6326]}
-jo	{"1 Chronicles_ch_11.docx": [6464]}
-jo	{"1 Chronicles_ch_11.docx": [6541]}
-jo	{"1 Chronicles_ch_12.docx": [382]}
-jo	{"1 Chronicles_ch_26.docx": [2800]}
-jo	{"Ezra_ch_8.docx": [4850]}

@@ -1,7 +1,3 @@
 
 bludge	{"Exodus_ch_2.docx": [1484]}
-sellem	{"Numbers_ch_26.docx": [5093, 5098, 5098, 5098], "2 Kings_ch_22.docx": [2367, 2367, 2367], "2 Chronicles_ch_28.docx": [1908, 1908, 1908], "2 Chronicles_ch_34.docx": [3876, 3876, 3876]}
-bludge	{"Exodus_ch_2.docx": [1484]}
-sellem	{"Numbers_ch_26.docx": [5093, 5098, 5098], "2 Kings_ch_22.docx": [2367, 2367], "2 Chronicles_ch_28.docx": [1908, 1908], "2 Chronicles_ch_34.docx": [3876, 3876]}
-bludge	{"Exodus_ch_2.docx": [1484]}
 sellem	{"Numbers_ch_26.docx": [5093, 5098], "2 Kings_ch_22.docx": [2367], "2 Chronicles_ch_28.docx": [1908], "2 Chronicles_ch_34.docx": [3876]}

@@ -1,4 +1,2 @@
 
 read!	{"2 Kings_ch_22.docx": [2787]}
-read!	{"2 Kings_ch_22.docx": [2787]}
-read!	{"2 Kings_ch_22.docx": [2787]}

@@ -1,6 +1,2 @@
 
 zala	{"Nehemiah_ch_3.docx": [14270]}
-11bu	{"Genesis_ch_27.docx": [1225], "Exodus_ch_3.docx": [1686], "Exodus_ch_32.docx": [1521], "Numbers_ch_9.docx": [1100], "Judges_ch_10.docx": [3133], "Ruth_ch_1.docx": [1501], "2 Kings_ch_20.docx": [1546], "1 Chronicles_ch_8.docx": [740], "1 Chronicles_ch_10.docx": [1676], "1 Chronicles_ch_17.docx": [1578], "2 Chronicles_ch_22.docx": [1812], "Nehemiah_ch_6.docx": [1760], "Job_ch_7.docx": [1124], "Psalms_ch_33.docx": [857], "Psalms_ch_37.docx": [954], "Psalms_ch_59.docx": [1194], "Psalms_ch_107.docx": [880], "Psalms_ch_147.docx": [985], "Ecclesiastes_ch_1.docx": [1299], "Isaiah_ch_27.docx": [1644], "Isaiah_ch_63.docx": [1535], "Jeremiah_ch_34.docx": [1559], "Ezekiel_ch_10.docx": [1410], "Daniel_ch_1.docx": [1817], "Zechariah_ch_7.docx": [1583], "Matthew_ch_9.docx": [1213]}
-zala	{"Nehemiah_ch_3.docx": [14270]}
-16ado	{"Nehemiah_ch_10.docx": [852]}
-zala	{"Nehemiah_ch_3.docx": [14270]}

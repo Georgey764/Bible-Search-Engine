@@ -1,3 +1,0 @@
-
-42al	{"Deuteronomy_ch_28.docx": [5813], "Joshua_ch_15.docx": [5045], "1 Chronicles_ch_4.docx": [4814], "Jeremiah_ch_50.docx": [7813]}
-34bot	{"1 Kings_ch_6.docx": [3958]}

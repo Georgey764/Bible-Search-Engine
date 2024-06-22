@@ -1,8 +1,3 @@
 
-scare	{"Deuteronomy_ch_28.docx": [3502], "Deuteronomy_ch_31.docx": [708, 708, 708], "2 Samuel_ch_22.docx": [1503, 1503, 1503], "Nehemiah_ch_6.docx": [1996, 1996, 1996], "Job_ch_32.docx": [818, 818, 818], "Job_ch_33.docx": [1490, 1490, 1490]}
-bounty	{"Ecclesiastes_ch_5.docx": [1382]}
-38‘yo	{"Exodus_ch_25.docx": [4249], "Matthew_ch_5.docx": [4797]}
-scare	{"Deuteronomy_ch_28.docx": [3502], "Deuteronomy_ch_31.docx": [708, 708], "2 Samuel_ch_22.docx": [1503, 1503], "Nehemiah_ch_6.docx": [1996, 1996], "Job_ch_32.docx": [818, 818], "Job_ch_33.docx": [1490, 1490]}
-bounty	{"Ecclesiastes_ch_5.docx": [1382]}
 scare	{"Deuteronomy_ch_28.docx": [3502], "Deuteronomy_ch_31.docx": [708], "2 Samuel_ch_22.docx": [1503], "Nehemiah_ch_6.docx": [1996], "Job_ch_32.docx": [818], "Job_ch_33.docx": [1490]}
-bounty	{"Ecclesiastes_ch_5.docx": [1382]}
+bounty	{"Ecclesiastes_ch_5.docx": [1382], "Lamentations_ch_5.docx": [494]}

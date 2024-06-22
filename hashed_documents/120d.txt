@@ -1,4 +1,2 @@
 
-storer	{"Psalms_ch_144.docx": [1383], "Proverbs_ch_7.docx": [2442, 2442, 2442], "Proverbs_ch_24.docx": [240, 240, 240], "Ezekiel_ch_28.docx": [2401, 2401, 2401]}
-storer	{"Psalms_ch_144.docx": [1383], "Proverbs_ch_7.docx": [2442, 2442], "Proverbs_ch_24.docx": [240, 240], "Ezekiel_ch_28.docx": [2401, 2401]}
-storer	{"Psalms_ch_144.docx": [1383], "Proverbs_ch_7.docx": [2442], "Proverbs_ch_24.docx": [240], "Ezekiel_ch_28.docx": [2401]}
+storer	{"1 Kings_ch_22.docx": [4116], "Psalms_ch_144.docx": [1383], "Proverbs_ch_7.docx": [2442], "Proverbs_ch_24.docx": [240], "Ezekiel_ch_28.docx": [2401]}

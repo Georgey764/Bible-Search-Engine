@@ -1,7 +1,3 @@
 
-brave	{"Deuteronomy_ch_20.docx": [1235], "2 Samuel_ch_17.docx": [956, 956, 956], "1 Chronicles_ch_19.docx": [2140, 2140, 2140], "Matthew_ch_14.docx": [3315, 3315, 3315], "Mark_ch_6.docx": [7113, 7113]}
-recons	{"Ezra_ch_2.docx": [3388], "Nehemiah_ch_7.docx": [4429, 4429, 4429], "Zechariah_ch_8.docx": [2534, 2534, 2534]}
-brave	{"Deuteronomy_ch_20.docx": [1235], "2 Samuel_ch_17.docx": [956, 956], "1 Chronicles_ch_19.docx": [2140, 2140], "Matthew_ch_14.docx": [3315, 3315], "Mark_ch_6.docx": [7113]}
-recons	{"Ezra_ch_2.docx": [3388], "Nehemiah_ch_7.docx": [4429, 4429], "Zechariah_ch_8.docx": [2534, 2534]}
 brave	{"Deuteronomy_ch_20.docx": [1235], "2 Samuel_ch_17.docx": [956], "1 Chronicles_ch_19.docx": [2140], "Matthew_ch_14.docx": [3315], "Mark_ch_6.docx": [7113]}
-recons	{"Ezra_ch_2.docx": [3388], "Nehemiah_ch_7.docx": [4429], "Zechariah_ch_8.docx": [2534]}
+recons	{"Ezra_ch_2.docx": [3388], "Nehemiah_ch_7.docx": [4429], "Song of Solomon_ch_8.docx": [4388], "Isaiah_ch_66.docx": [7534], "Lamentations_ch_5.docx": [4564], "Daniel_ch_12.docx": [6229], "Hosea_ch_14.docx": [3784], "Joel_ch_3.docx": [6900], "Jonah_ch_4.docx": [3883], "Micah_ch_7.docx": [6752], "Nahum_ch_3.docx": [5960], "Habakkuk_ch_3.docx": [5600], "Zephaniah_ch_3.docx": [6685], "Haggai_ch_2.docx": [7007], "Zechariah_ch_8.docx": [2534]}

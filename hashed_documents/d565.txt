@@ -1,5 +1,2 @@
 
 abana	{"2 Kings_ch_5.docx": [2083]}
-54‘th	{"Numbers_ch_33.docx": [4289], "Ezekiel_ch_16.docx": [8969]}
-abana	{"2 Kings_ch_5.docx": [2083]}
-abana	{"2 Kings_ch_5.docx": [2083]}

@@ -1,2 +1,0 @@
-
-29they	{"Deuteronomy_ch_32.docx": [4333], "Judges_ch_6.docx": [6353], "1 Kings_ch_18.docx": [4632], "1 Chronicles_ch_23.docx": [3147], "Nehemiah_ch_10.docx": [1589], "Psalms_ch_106.docx": [2708]}

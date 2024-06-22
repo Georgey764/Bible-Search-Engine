@@ -1,4 +1,2 @@
 
-overst	{"Numbers_ch_5.docx": [608], "Matthew_ch_15.docx": [137, 308, 137, 308, 137, 308], "1 Corinthians_ch_4.docx": [811, 811], "1 Thessalonians_ch_4.docx": [538, 538]}
-overst	{"Numbers_ch_5.docx": [608], "Matthew_ch_15.docx": [137, 308, 137, 308], "1 Corinthians_ch_4.docx": [811], "1 Thessalonians_ch_4.docx": [538]}
 overst	{"Numbers_ch_5.docx": [608], "Matthew_ch_15.docx": [137, 308], "1 Corinthians_ch_4.docx": [811], "1 Thessalonians_ch_4.docx": [538]}

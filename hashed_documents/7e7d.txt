@@ -1,2 +1,0 @@
-
-32fo	{"Genesis_ch_44.docx": [4110], "Deuteronomy_ch_32.docx": [4707], "2 Samuel_ch_3.docx": [4881], "1 Kings_ch_2.docx": [5460], "2 Kings_ch_23.docx": [7187], "2 Chronicles_ch_18.docx": [5029], "Psalms_ch_78.docx": [3201], "Psalms_ch_89.docx": [3086], "Proverbs_ch_14.docx": [2873], "Isaiah_ch_30.docx": [5731], "Jeremiah_ch_32.docx": [5536]}

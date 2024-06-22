@@ -1,7 +1,3 @@
 
-drivi	{"Exodus_ch_23.docx": [4414], "Leviticus_ch_18.docx": [2931, 3542, 2931, 3542, 2931, 3542], "Leviticus_ch_20.docx": [3341, 3341, 3341], "Judges_ch_4.docx": [7287, 7287, 7287], "1 Samuel_ch_24.docx": [10, 10, 10], "Acts_ch_26.docx": [5874, 5874]}
-sila	{"Joshua_ch_19.docx": [3390], "Acts_ch_15.docx": [4408, 5833, 6951, 7102, 8362, 4408, 5833, 6951, 7102, 8362], "Acts_ch_16.docx": [5986, 6917, 7455, 5986, 6917, 7455], "Acts_ch_17.docx": [822, 1044, 1810, 1821, 1833, 2902, 2946, 822, 1044, 1810, 1821, 1833, 2902, 2946], "Acts_ch_18.docx": [2121, 2129, 2138, 2157, 2177, 2121, 2129, 2138, 2157, 2177]}
-drivi	{"Exodus_ch_23.docx": [4414], "Leviticus_ch_18.docx": [2931, 3542, 2931, 3542], "Leviticus_ch_20.docx": [3341, 3341], "Judges_ch_4.docx": [7287, 7287], "1 Samuel_ch_24.docx": [10, 10], "Acts_ch_26.docx": [5874]}
-sila	{"Joshua_ch_19.docx": [3390], "Acts_ch_15.docx": [4408, 5833, 6951, 7102, 8362], "Acts_ch_16.docx": [5986, 6917, 7455], "Acts_ch_17.docx": [822, 1044, 1810, 1821, 1833, 2902, 2946], "Acts_ch_18.docx": [2121, 2129, 2138, 2157, 2177]}
 drivi	{"Exodus_ch_23.docx": [4414], "Leviticus_ch_18.docx": [2931, 3542], "Leviticus_ch_20.docx": [3341], "Judges_ch_4.docx": [7287], "1 Samuel_ch_24.docx": [10], "Acts_ch_26.docx": [5874]}
 sila	{"Joshua_ch_19.docx": [3390], "Acts_ch_15.docx": [4408, 5833, 6951, 7102, 8362], "Acts_ch_16.docx": [5986, 6917, 7455], "Acts_ch_17.docx": [822, 1044, 1810, 1821, 1833, 2902, 2946], "Acts_ch_18.docx": [2121, 2129, 2138, 2157, 2177]}

@@ -1,4 +1,2 @@
 
-two!	{"1 Kings_ch_3.docx": [4429], "Habakkuk_ch_2.docx": [1326, 1326, 1326]}
-two!	{"1 Kings_ch_3.docx": [4429], "Habakkuk_ch_2.docx": [1326, 1326]}
 two!	{"1 Kings_ch_3.docx": [4429], "Habakkuk_ch_2.docx": [1326]}

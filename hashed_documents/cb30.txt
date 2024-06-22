@@ -1,6 +1,2 @@
 
-uzzie	{"Nehemiah_ch_3.docx": [2834, 2864, 2896, 2864, 2896, 2864, 2896]}
-29‘on	{"Numbers_ch_29.docx": [3781]}
-39ner	{"1 Chronicles_ch_9.docx": [5436]}
-uzzie	{"Nehemiah_ch_3.docx": [2834, 2864, 2896, 2864, 2896]}
 uzzie	{"Nehemiah_ch_3.docx": [2834, 2864, 2896]}

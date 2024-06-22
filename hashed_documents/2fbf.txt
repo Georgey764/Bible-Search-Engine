@@ -1,4 +1,2 @@
 
-buz	{"Job_ch_32.docx": [171, 659, 659, 659], "Jeremiah_ch_25.docx": [3687, 3687, 3687], "Ezekiel_ch_1.docx": [307, 307, 307]}
-buz	{"Job_ch_32.docx": [171, 659, 659], "Jeremiah_ch_25.docx": [3687, 3687], "Ezekiel_ch_1.docx": [307, 307]}
 buz	{"Job_ch_32.docx": [171, 659], "Jeremiah_ch_25.docx": [3687], "Ezekiel_ch_1.docx": [307]}

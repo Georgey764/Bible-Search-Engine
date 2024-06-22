@@ -1,4 +1,2 @@
 
-job’s	{"Job_ch_1.docx": [500, 2079, 2079], "Job_ch_32.docx": [12, 194, 12, 194, 12, 194], "Job_ch_42.docx": [2838]}
-job’s	{"Job_ch_1.docx": [2079, 2079], "Job_ch_32.docx": [12, 194, 12, 194]}
-job’s	{"Job_ch_1.docx": [500, 2079], "Job_ch_32.docx": [12, 194]}
+job’s	{"Esther_ch_10.docx": [858], "Job_ch_1.docx": [500, 2079], "Job_ch_32.docx": [12, 194], "Job_ch_42.docx": [2838]}

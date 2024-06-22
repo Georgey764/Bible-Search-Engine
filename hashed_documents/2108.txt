@@ -1,3 +1,2 @@
 
-charac	{"Hebrews_ch_9.docx": [1137, 1934, 1934], "Hebrews_ch_10.docx": [2639, 2639]}
-charac	{"Hebrews_ch_9.docx": [1137, 1934], "Hebrews_ch_10.docx": [2639]}
+charac	{"Hebrews_ch_9.docx": [1137, 1934], "Hebrews_ch_10.docx": [2639], "Hebrews_ch_13.docx": [2719], "1 John_ch_5.docx": [3409]}

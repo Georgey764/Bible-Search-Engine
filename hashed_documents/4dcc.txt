@@ -1,4 +1,2 @@
 
-writes	{"Deuteronomy_ch_24.docx": [278]}
-writes	{"Deuteronomy_ch_24.docx": [278]}
-writes	{"Deuteronomy_ch_24.docx": [278]}
+writes	{"Deuteronomy_ch_24.docx": [278], "2 Peter_ch_3.docx": [2571]}

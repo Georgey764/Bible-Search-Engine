@@ -1,2 +1,0 @@
-
-2‘h	{"Leviticus_ch_2.docx": [179], "Deuteronomy_ch_22.docx": [193], "Job_ch_8.docx": [57], "Job_ch_12.docx": [43], "Job_ch_19.docx": [49], "Hosea_ch_8.docx": [190], "Micah_ch_1.docx": [1318], "Habakkuk_ch_1.docx": [71]}

@@ -1,4 +1,2 @@
 
-rises	{"2 Samuel_ch_23.docx": [541], "Psalms_ch_104.docx": [2191, 2191, 2191], "Psalms_ch_113.docx": [175, 175, 175], "2 Corinthians_ch_3.docx": [2000, 2026, 2000, 2026]}
-rises	{"2 Samuel_ch_23.docx": [541], "Psalms_ch_104.docx": [2191, 2191], "Psalms_ch_113.docx": [175, 175], "2 Corinthians_ch_3.docx": [2000, 2026]}
-rises	{"2 Samuel_ch_23.docx": [541], "Psalms_ch_104.docx": [2191], "Psalms_ch_113.docx": [175], "2 Corinthians_ch_3.docx": [2000, 2026]}
+rises	{"2 Samuel_ch_23.docx": [541], "Psalms_ch_104.docx": [2191], "Psalms_ch_113.docx": [175], "Nahum_ch_3.docx": [3467], "2 Corinthians_ch_3.docx": [2000, 2026]}

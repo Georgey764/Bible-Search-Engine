@@ -1,4 +1,2 @@
 
-spark	{"2 Samuel_ch_14.docx": [1039], "Isaiah_ch_1.docx": [4791, 4791, 4791], "Ezekiel_ch_1.docx": [559, 2039, 559, 2039, 559, 2039], "Revelation_ch_21.docx": [1564, 1564]}
-spark	{"2 Samuel_ch_14.docx": [1039], "Isaiah_ch_1.docx": [4791, 4791], "Ezekiel_ch_1.docx": [559, 2039, 559, 2039], "Revelation_ch_21.docx": [1564]}
-spark	{"2 Samuel_ch_14.docx": [1039], "Isaiah_ch_1.docx": [4791], "Ezekiel_ch_1.docx": [559, 2039], "Revelation_ch_21.docx": [1564]}
+spark	{"2 Samuel_ch_14.docx": [1039], "Song of Solomon_ch_8.docx": [1115], "Isaiah_ch_1.docx": [4791], "Ezekiel_ch_1.docx": [559, 2039], "Habakkuk_ch_3.docx": [2230], "Revelation_ch_21.docx": [1564]}

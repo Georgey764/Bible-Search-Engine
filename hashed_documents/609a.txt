@@ -1,4 +1,2 @@
 
-sticky	{"Job_ch_37.docx": [1544], "Proverbs_ch_30.docx": [2858, 2858, 2858]}
-sticky	{"Job_ch_37.docx": [1544], "Proverbs_ch_30.docx": [2858, 2858]}
 sticky	{"Job_ch_37.docx": [1544], "Proverbs_ch_30.docx": [2858]}

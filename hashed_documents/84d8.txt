@@ -1,4 +1,2 @@
 
-murm	{"Numbers_ch_11.docx": [10], "Luke_ch_15.docx": [31, 31]}
-murm	{"Numbers_ch_11.docx": [10], "Luke_ch_15.docx": [31]}
 murm	{"Numbers_ch_11.docx": [10], "Luke_ch_15.docx": [31]}

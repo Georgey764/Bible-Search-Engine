@@ -1,4 +1,2 @@
 
-abisou	{"1 Chronicles_ch_6.docx": [329, 356, 4138, 4138, 356, 4138]}
-abisou	{"1 Chronicles_ch_6.docx": [329, 4138, 356, 4138]}
 abisou	{"1 Chronicles_ch_6.docx": [329, 356, 4138]}

@@ -1,4 +1,2 @@
 
-eggs	{"Deuteronomy_ch_22.docx": [870, 1031, 1031, 1031], "Job_ch_39.docx": [1251, 1251, 1251], "Isaiah_ch_59.docx": [676, 676, 676], "Jeremiah_ch_17.docx": [1735, 1735, 1735], "Daniel_ch_8.docx": [3992, 3992, 3992]}
-eggs	{"Deuteronomy_ch_22.docx": [870, 1031, 1031], "Job_ch_39.docx": [1251, 1251], "Isaiah_ch_59.docx": [676, 676], "Jeremiah_ch_17.docx": [1735, 1735], "Daniel_ch_8.docx": [3992, 3992]}
 eggs	{"Deuteronomy_ch_22.docx": [870, 1031], "Job_ch_39.docx": [1251], "Isaiah_ch_59.docx": [676], "Jeremiah_ch_17.docx": [1735], "Daniel_ch_8.docx": [3992]}

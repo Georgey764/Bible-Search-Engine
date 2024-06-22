@@ -1,6 +1,2 @@
 
-tartar	{"Job_ch_41.docx": [2869], "2 Peter_ch_2.docx": [584, 584]}
-16-fo	{"2 Chronicles_ch_4.docx": [312]}
-13[th	{"2 Chronicles_ch_26.docx": [1762], "Jeremiah_ch_15.docx": [2509]}
-tartar	{"Job_ch_41.docx": [2869], "2 Peter_ch_2.docx": [584]}
 tartar	{"Job_ch_41.docx": [2869], "2 Peter_ch_2.docx": [584]}

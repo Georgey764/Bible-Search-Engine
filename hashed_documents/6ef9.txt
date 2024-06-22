@@ -1,8 +1,3 @@
 
-kataat	{"Numbers_ch_33.docx": [2120, 2166, 2166, 2166]}
-crows	{"Deuteronomy_ch_14.docx": [1320], "1 Kings_ch_17.docx": [353, 498, 498, 353, 498], "Job_ch_38.docx": [3829, 3829, 3829], "Psalms_ch_147.docx": [847, 847, 847], "Proverbs_ch_30.docx": [1887, 1887, 1887], "Isaiah_ch_34.docx": [1624, 1624, 1624], "Zephaniah_ch_2.docx": [4555, 4555, 4555], "Matthew_ch_26.docx": [3956, 9364, 3956, 9364], "Mark_ch_14.docx": [3967, 9353, 3967, 9353], "Luke_ch_22.docx": [7222, 7222]}
-2‘g	{"Genesis_ch_49.docx": [82], "Leviticus_ch_8.docx": [62], "Numbers_ch_5.docx": [67], "Jeremiah_ch_2.docx": [74], "Jeremiah_ch_21.docx": [203], "Jeremiah_ch_26.docx": [145], "Jeremiah_ch_36.docx": [152], "Jonah_ch_1.docx": [80]}
-kataat	{"Numbers_ch_33.docx": [2120, 2166, 2166]}
-crows	{"1 Kings_ch_17.docx": [353, 498, 353, 498], "Job_ch_38.docx": [3829, 3829], "Psalms_ch_147.docx": [847, 847], "Proverbs_ch_30.docx": [1887, 1887], "Isaiah_ch_34.docx": [1624, 1624], "Zephaniah_ch_2.docx": [4555, 4555], "Matthew_ch_26.docx": [3956, 9364], "Mark_ch_14.docx": [3967, 9353], "Luke_ch_22.docx": [7222]}
 kataat	{"Numbers_ch_33.docx": [2120, 2166]}
 crows	{"Deuteronomy_ch_14.docx": [1320], "1 Kings_ch_17.docx": [353, 498], "Job_ch_38.docx": [3829], "Psalms_ch_147.docx": [847], "Proverbs_ch_30.docx": [1887], "Isaiah_ch_34.docx": [1624], "Zephaniah_ch_2.docx": [4555], "Matthew_ch_26.docx": [3956, 9364], "Mark_ch_14.docx": [3967, 9353], "Luke_ch_22.docx": [7222]}

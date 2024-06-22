@@ -1,7 +1,3 @@
 
 deploy	{"2 Samuel_ch_10.docx": [1332]}
 bethaz	{"Nehemiah_ch_7.docx": [2050]}
-deploy	{"2 Samuel_ch_10.docx": [1332]}
-bethaz	{"Nehemiah_ch_7.docx": [2050]}
-deploy	{"2 Samuel_ch_10.docx": [1332]}
-bethaz	{"Nehemiah_ch_7.docx": [2050]}

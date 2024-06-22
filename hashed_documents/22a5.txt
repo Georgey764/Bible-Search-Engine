@@ -1,7 +1,3 @@
 
-long-	{"1 Samuel_ch_26.docx": [3348], "2 Samuel_ch_13.docx": [2652, 2652, 2652]}
-windy	{"Job_ch_16.docx": [170]}
-long-	{"1 Samuel_ch_26.docx": [3348], "2 Samuel_ch_13.docx": [2652, 2652]}
-windy	{"Job_ch_16.docx": [170]}
-long-	{"1 Samuel_ch_26.docx": [3348], "2 Samuel_ch_13.docx": [2652]}
+long-	{"1 Samuel_ch_26.docx": [3348], "2 Samuel_ch_13.docx": [2652], "2 Samuel_ch_24.docx": [5665, 5678], "1 Kings_ch_22.docx": [9462, 9475]}
 windy	{"Job_ch_16.docx": [170]}

@@ -1,7 +1,3 @@
 
-miscar	{"Numbers_ch_12.docx": [1320], "Job_ch_3.docx": [1467, 1467, 1467], "Ecclesiastes_ch_6.docx": [531, 531, 531], "Isaiah_ch_65.docx": [3474, 3474, 3474], "1 Corinthians_ch_15.docx": [764, 764]}
-eter	{"Amos_ch_6.docx": [1495], "Romans_ch_1.docx": [2322, 2322], "2 Corinthians_ch_4.docx": [2958, 2958], "Hebrews_ch_7.docx": [3319, 4006, 3319, 4006]}
-miscar	{"Numbers_ch_12.docx": [1320], "Job_ch_3.docx": [1467, 1467], "Ecclesiastes_ch_6.docx": [531, 531], "Isaiah_ch_65.docx": [3474, 3474], "1 Corinthians_ch_15.docx": [764]}
-eter	{"Amos_ch_6.docx": [1495], "Romans_ch_1.docx": [2322], "2 Corinthians_ch_4.docx": [2958], "Hebrews_ch_7.docx": [3319, 4006]}
 miscar	{"Numbers_ch_12.docx": [1320], "Job_ch_3.docx": [1467], "Ecclesiastes_ch_6.docx": [531], "Isaiah_ch_65.docx": [3474], "1 Corinthians_ch_15.docx": [764]}
 eter	{"Amos_ch_6.docx": [1495], "Romans_ch_1.docx": [2322], "2 Corinthians_ch_4.docx": [2958], "Hebrews_ch_7.docx": [3319, 4006]}

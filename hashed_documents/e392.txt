@@ -1,4 +1,2 @@
 
-hearth	{"Ezekiel_ch_43.docx": [2906, 2956, 3002, 2956, 3002, 2956, 3002]}
-hearth	{"Ezekiel_ch_43.docx": [2906, 2956, 3002, 2956, 3002]}
 hearth	{"Ezekiel_ch_43.docx": [2906, 2956, 3002]}

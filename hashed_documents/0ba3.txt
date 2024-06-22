@@ -1,4 +1,2 @@
 
-coupl	{"Exodus_ch_28.docx": [3263, 4058, 4058, 4058], "2 Samuel_ch_1.docx": [22, 22, 22], "2 Samuel_ch_13.docx": [958, 958, 958], "John_ch_4.docx": [5218, 5218]}
-coupl	{"Exodus_ch_28.docx": [3263, 4058, 4058], "2 Samuel_ch_1.docx": [22, 22], "2 Samuel_ch_13.docx": [958, 958], "John_ch_4.docx": [5218]}
 coupl	{"Exodus_ch_28.docx": [3263, 4058], "2 Samuel_ch_1.docx": [22], "2 Samuel_ch_13.docx": [958], "John_ch_4.docx": [5218]}

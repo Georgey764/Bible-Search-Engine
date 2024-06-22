@@ -1,4 +1,2 @@
 
-bridl	{"Psalms_ch_32.docx": [1021], "Ezekiel_ch_38.docx": [370, 370, 370], "James_ch_1.docx": [3015, 3015], "James_ch_3.docx": [191, 197, 191, 197], "Revelation_ch_14.docx": [3510, 3510]}
-bridl	{"Psalms_ch_32.docx": [1021], "Ezekiel_ch_38.docx": [370, 370], "James_ch_1.docx": [3015], "James_ch_3.docx": [191, 197], "Revelation_ch_14.docx": [3510]}
-bridl	{"Psalms_ch_32.docx": [1021], "Ezekiel_ch_38.docx": [370], "James_ch_1.docx": [3015], "James_ch_3.docx": [191, 197], "Revelation_ch_14.docx": [3510]}
+bridl	{"Psalms_ch_32.docx": [1021], "Ezekiel_ch_38.docx": [370], "Zechariah_ch_14.docx": [3629], "James_ch_1.docx": [3015], "James_ch_3.docx": [191, 197], "Revelation_ch_14.docx": [3510]}

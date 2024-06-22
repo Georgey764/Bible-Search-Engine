@@ -1,4 +1,2 @@
 
-kataa	{"Numbers_ch_33.docx": [2120, 2166, 2166, 2166]}
-kataa	{"Numbers_ch_33.docx": [2120, 2166, 2166]}
 kataa	{"Numbers_ch_33.docx": [2120, 2166]}

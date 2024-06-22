@@ -1,4 +1,2 @@
 
-zogor	{"Genesis_ch_13.docx": [1208], "Jeremiah_ch_48.docx": [500, 500, 500]}
-zogor	{"Genesis_ch_13.docx": [1208], "Jeremiah_ch_48.docx": [500, 500]}
 zogor	{"Genesis_ch_13.docx": [1208], "Jeremiah_ch_48.docx": [500]}

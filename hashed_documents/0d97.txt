@@ -1,5 +1,2 @@
 
 domest	{"Genesis_ch_9.docx": [991]}
-18e	{"Genesis_ch_4.docx": [2192]}
-domest	{"Genesis_ch_9.docx": [991]}
-domest	{"Genesis_ch_9.docx": [991]}

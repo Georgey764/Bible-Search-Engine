@@ -1,4 +1,2 @@
 
-bakbu	{"Ezra_ch_2.docx": [2037], "Nehemiah_ch_7.docx": [3094, 3094], "Nehemiah_ch_11.docx": [2505, 2505], "Nehemiah_ch_12.docx": [624, 2680, 2680, 624, 2680]}
-bakbu	{"Nehemiah_ch_11.docx": [2505, 2505], "Nehemiah_ch_12.docx": [2680, 624, 2680], "Nehemiah_ch_7.docx": [3094]}
 bakbu	{"Ezra_ch_2.docx": [2037], "Nehemiah_ch_7.docx": [3094], "Nehemiah_ch_11.docx": [2505], "Nehemiah_ch_12.docx": [624, 2680]}

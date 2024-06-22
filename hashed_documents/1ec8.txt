@@ -1,2 +1,0 @@
-
-15‘d	{"Genesis_ch_31.docx": [1984], "Psalms_ch_105.docx": [1177], "Isaiah_ch_10.docx": [2211]}

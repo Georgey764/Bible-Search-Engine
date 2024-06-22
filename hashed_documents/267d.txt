@@ -1,2 +1,0 @@
-
-22‘i	{"Genesis_ch_48.docx": [3360], "Exodus_ch_21.docx": [2710], "Leviticus_ch_20.docx": [3308], "Deuteronomy_ch_23.docx": [2828], "1 Samuel_ch_22.docx": [3494], "1 Kings_ch_21.docx": [3404], "Ezra_ch_4.docx": [3640], "Job_ch_9.docx": [2005], "Proverbs_ch_8.docx": [1859], "Jeremiah_ch_23.docx": [4088], "Jeremiah_ch_51.docx": [3565]}

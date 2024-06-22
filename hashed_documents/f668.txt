@@ -2,10 +2,3 @@
 pair’	{"Judges_ch_15.docx": [505]}
 josap	{"2 Samuel_ch_20.docx": [4522]}
 gisp	{"Nehemiah_ch_11.docx": [3520]}
-pair’	{"Judges_ch_15.docx": [505]}
-josap	{"2 Samuel_ch_20.docx": [4522]}
-gisp	{"Nehemiah_ch_11.docx": [3520]}
-26trea	{"Proverbs_ch_26.docx": [2351]}
-pair’	{"Judges_ch_15.docx": [505]}
-josap	{"2 Samuel_ch_20.docx": [4522]}
-gisp	{"Nehemiah_ch_11.docx": [3520]}

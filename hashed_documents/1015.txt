@@ -1,2 +1,0 @@
-
-9‘i’	{"Genesis_ch_43.docx": [962], "1 Chronicles_ch_17.docx": [1160], "Job_ch_16.docx": [776], "Job_ch_33.docx": [692], "Psalms_ch_40.docx": [1077], "Ecclesiastes_ch_8.docx": [859], "Ezekiel_ch_31.docx": [1312], "Ezekiel_ch_35.docx": [1076], "Amos_ch_7.docx": [1454]}

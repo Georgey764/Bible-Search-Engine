@@ -1,3 +1,0 @@
-
-15‘i’	{"Genesis_ch_3.docx": [2209], "Psalms_ch_132.docx": [1344], "Ecclesiastes_ch_4.docx": [1838], "Ecclesiastes_ch_7.docx": [1642], "Isaiah_ch_48.docx": [2565], "Ezekiel_ch_30.docx": [2103], "Amos_ch_3.docx": [3186], "Zechariah_ch_8.docx": [2533]}
-2(t	{"Genesis_ch_14.docx": [23], "Hosea_ch_5.docx": [374]}

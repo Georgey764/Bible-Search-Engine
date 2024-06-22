@@ -1,4 +1,2 @@
 
-joann	{"Luke_ch_8.docx": [222]}
-20deal	{"Leviticus_ch_4.docx": [2637]}
-joann	{"Luke_ch_8.docx": [222]}
+joann	{"Luke_ch_8.docx": [222], "Luke_ch_24.docx": [979]}

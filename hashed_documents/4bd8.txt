@@ -1,4 +1,2 @@
 
-seruch	{"Genesis_ch_11.docx": [2455, 2461, 2619, 2461, 2461, 2619]}
-seruch	{"Genesis_ch_11.docx": [2455, 2461, 2461, 2619]}
 seruch	{"Genesis_ch_11.docx": [2455, 2461, 2619]}

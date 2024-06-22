@@ -1,4 +1,2 @@
 
-elaps	{"Isaiah_ch_23.docx": [1843, 2086, 2086, 2086], "Acts_ch_27.docx": [2785, 2785], "1 Peter_ch_4.docx": [325, 325]}
-elaps	{"Isaiah_ch_23.docx": [1843, 2086, 2086], "Acts_ch_27.docx": [2785], "1 Peter_ch_4.docx": [325]}
 elaps	{"Isaiah_ch_23.docx": [1843, 2086], "Acts_ch_27.docx": [2785], "1 Peter_ch_4.docx": [325]}

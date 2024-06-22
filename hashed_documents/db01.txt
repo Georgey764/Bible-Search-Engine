@@ -1,5 +1,2 @@
 
-rubbi	{"Nehemiah_ch_4.docx": [507], "Luke_ch_6.docx": [25, 25]}
-24solo	{"1 Kings_ch_4.docx": [2730]}
-rubbi	{"Nehemiah_ch_4.docx": [507], "Luke_ch_6.docx": [25]}
 rubbi	{"Nehemiah_ch_4.docx": [507], "Luke_ch_6.docx": [25]}

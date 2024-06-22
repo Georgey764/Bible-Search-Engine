@@ -1,5 +1,2 @@
 
-grains	{"Job_ch_6.docx": [720], "Hebrews_ch_11.docx": [2509, 2509], "Revelation_ch_20.docx": [1458, 1458]}
-581	{"Numbers_ch_7.docx": [6812]}
-grains	{"Job_ch_6.docx": [720], "Hebrews_ch_11.docx": [2509], "Revelation_ch_20.docx": [1458]}
 grains	{"Job_ch_6.docx": [720], "Hebrews_ch_11.docx": [2509], "Revelation_ch_20.docx": [1458]}

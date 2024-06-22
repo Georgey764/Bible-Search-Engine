@@ -1,5 +1,2 @@
 
 crocod	{"Leviticus_ch_11.docx": [3299]}
-14.3m	{"Exodus_ch_26.docx": [189]}
-crocod	{"Leviticus_ch_11.docx": [3299]}
-crocod	{"Leviticus_ch_11.docx": [3299]}

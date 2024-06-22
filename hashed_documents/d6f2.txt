@@ -1,5 +1,2 @@
 
-choba	{"Genesis_ch_14.docx": [2130], "Joshua_ch_19.docx": [2271, 2271, 2271], "Ezekiel_ch_1.docx": [30, 312, 30, 312, 30, 312], "Ezekiel_ch_3.docx": [2217, 3889, 2217, 3889, 2217, 3889], "Ezekiel_ch_10.docx": [2319, 3178, 3233, 2319, 3178, 3233, 2319, 3178, 3233], "Ezekiel_ch_43.docx": [315, 315, 315]}
-choba	{"Genesis_ch_14.docx": [2130], "Joshua_ch_19.docx": [2271, 2271], "Ezekiel_ch_1.docx": [30, 312, 30, 312], "Ezekiel_ch_3.docx": [2217, 3889, 2217, 3889], "Ezekiel_ch_10.docx": [2319, 3178, 3233, 2319, 3178, 3233], "Ezekiel_ch_43.docx": [315, 315]}
-31whoe	{"Judges_ch_11.docx": [6674]}
 choba	{"Genesis_ch_14.docx": [2130], "Joshua_ch_19.docx": [2271], "Ezekiel_ch_1.docx": [30, 312], "Ezekiel_ch_3.docx": [2217, 3889], "Ezekiel_ch_10.docx": [2319, 3178, 3233], "Ezekiel_ch_43.docx": [315]}

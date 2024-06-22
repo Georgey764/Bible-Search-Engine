@@ -1,4 +1,2 @@
 
-chene	{"Joshua_ch_15.docx": [2565, 2593, 2593, 2593]}
-chene	{"Joshua_ch_15.docx": [2565, 2593, 2593]}
 chene	{"Joshua_ch_15.docx": [2565, 2593]}

@@ -1,4 +1,2 @@
 
-heliop	{"Genesis_ch_41.docx": [5727, 6587, 6587, 6587], "Genesis_ch_46.docx": [2291, 2291, 2291]}
-heliop	{"Genesis_ch_41.docx": [5727, 6587, 6587], "Genesis_ch_46.docx": [2291, 2291]}
 heliop	{"Genesis_ch_41.docx": [5727, 6587], "Genesis_ch_46.docx": [2291]}

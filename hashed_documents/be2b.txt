@@ -1,5 +1,2 @@
 
 drain	{"Genesis_ch_8.docx": [1692]}
-drain	{"Genesis_ch_8.docx": [1692]}
-4‘i’	{"Genesis_ch_23.docx": [290], "Exodus_ch_9.docx": [400], "Isaiah_ch_43.docx": [603], "Ezekiel_ch_18.docx": [321], "Ezekiel_ch_21.docx": [463]}
-drain	{"Genesis_ch_8.docx": [1692]}

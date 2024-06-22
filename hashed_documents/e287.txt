@@ -1,4 +1,2 @@
 
-dabiro	{"Joshua_ch_19.docx": [839, 1581, 1581, 1581]}
-dabiro	{"Joshua_ch_19.docx": [839, 1581, 1581]}
 dabiro	{"Joshua_ch_19.docx": [839, 1581]}

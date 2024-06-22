@@ -1,7 +1,3 @@
 
 jodaa	{"2 Chronicles_ch_29.docx": [2017]}
 havo	{"Nahum_ch_2.docx": [645]}
-jodaa	{"2 Chronicles_ch_29.docx": [2017]}
-havo	{"Nahum_ch_2.docx": [645]}
-jodaa	{"2 Chronicles_ch_29.docx": [2017]}
-havo	{"Nahum_ch_2.docx": [645]}

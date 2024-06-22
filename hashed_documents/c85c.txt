@@ -1,4 +1,2 @@
 
-tradin	{"2 Chronicles_ch_1.docx": [2547], "2 Chronicles_ch_9.docx": [2146, 2146, 2146], "Isaiah_ch_23.docx": [2288, 2447, 2288, 2447, 2288, 2447], "Ezekiel_ch_27.docx": [3060, 3367, 3060, 3367, 3060, 3367], "Ezekiel_ch_28.docx": [609, 2860, 609, 2860, 609, 2860], "Amos_ch_8.docx": [698, 698, 698], "1 Peter_ch_3.docx": [1015, 1015]}
-tradin	{"2 Chronicles_ch_1.docx": [2547], "2 Chronicles_ch_9.docx": [2146, 2146], "Isaiah_ch_23.docx": [2288, 2447, 2288, 2447], "Ezekiel_ch_27.docx": [3060, 3367, 3060, 3367], "Ezekiel_ch_28.docx": [609, 2860, 609, 2860], "Amos_ch_8.docx": [698, 698], "1 Peter_ch_3.docx": [1015]}
 tradin	{"2 Chronicles_ch_1.docx": [2547], "2 Chronicles_ch_9.docx": [2146], "Isaiah_ch_23.docx": [2288, 2447], "Ezekiel_ch_27.docx": [3060, 3367], "Ezekiel_ch_28.docx": [609, 2860], "Amos_ch_8.docx": [698], "1 Peter_ch_3.docx": [1015]}

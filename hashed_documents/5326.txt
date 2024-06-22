@@ -1,3 +1,2 @@
 
-nicod	{"John_ch_3.docx": [10, 379, 1076, 379, 1076], "John_ch_7.docx": [6113, 6113], "John_ch_19.docx": [5453, 5453]}
 nicod	{"John_ch_3.docx": [10, 379, 1076], "John_ch_7.docx": [6113], "John_ch_19.docx": [5453]}

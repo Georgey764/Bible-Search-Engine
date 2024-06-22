@@ -1,2 +1,0 @@
-
-5no	{"Exodus_ch_19.docx": [487], "Deuteronomy_ch_16.docx": [591], "2 Samuel_ch_18.docx": [766], "2 Kings_ch_24.docx": [718], "Esther_ch_2.docx": [1052], "Psalms_ch_23.docx": [344]}

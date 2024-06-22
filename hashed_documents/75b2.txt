@@ -1,4 +1,2 @@
 
-nachot	{"Genesis_ch_36.docx": [1425, 1920, 1920, 1920]}
-nachot	{"Genesis_ch_36.docx": [1425, 1920, 1920]}
 nachot	{"Genesis_ch_36.docx": [1425, 1920]}

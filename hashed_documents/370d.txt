@@ -1,4 +1,2 @@
 
-mercy;	{"Hosea_ch_1.docx": [1014], "Matthew_ch_5.docx": [475, 475, 475]}
-mercy;	{"Hosea_ch_1.docx": [1014], "Matthew_ch_5.docx": [475, 475]}
 mercy;	{"Hosea_ch_1.docx": [1014], "Matthew_ch_5.docx": [475]}

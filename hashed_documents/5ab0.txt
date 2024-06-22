@@ -1,5 +1,2 @@
 
-hall	{"Nehemiah_ch_10.docx": [1145], "Matthew_ch_22.docx": [1097, 1097], "Acts_ch_4.docx": [2015, 2015], "Acts_ch_5.docx": [3700, 4606, 3700, 4606]}
-18’yo	{"Genesis_ch_32.docx": [2401]}
-hall	{"Matthew_ch_22.docx": [1097, 1097], "Acts_ch_4.docx": [2015], "Acts_ch_5.docx": [3700, 4606]}
 hall	{"Nehemiah_ch_10.docx": [1145], "Matthew_ch_22.docx": [1097], "Acts_ch_4.docx": [2015], "Acts_ch_5.docx": [3700, 4606]}

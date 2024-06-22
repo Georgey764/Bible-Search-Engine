@@ -1,5 +1,2 @@
 
-unat	{"Job_ch_7.docx": [721], "1 Corinthians_ch_12.docx": [2457, 2457]}
-22‘i’	{"1 Kings_ch_21.docx": [3404], "Job_ch_9.docx": [2005], "Proverbs_ch_8.docx": [1859], "Jeremiah_ch_51.docx": [3565]}
-unat	{"Job_ch_7.docx": [721], "1 Corinthians_ch_12.docx": [2457]}
 unat	{"Job_ch_7.docx": [721], "1 Corinthians_ch_12.docx": [2457]}

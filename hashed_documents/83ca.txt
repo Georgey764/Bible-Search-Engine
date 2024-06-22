@@ -1,5 +1,2 @@
 
 cephi	{"Joshua_ch_18.docx": [3390]}
-cephi	{"Joshua_ch_18.docx": [3390]}
-31off	{"Ezekiel_ch_20.docx": [5400]}
-cephi	{"Joshua_ch_18.docx": [3390]}

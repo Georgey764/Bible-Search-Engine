@@ -1,3 +1,0 @@
-
-39s	{"Genesis_ch_27.docx": [5196], "Numbers_ch_16.docx": [5443], "Numbers_ch_22.docx": [5570], "Judges_ch_9.docx": [7581], "2 Kings_ch_4.docx": [5994], "Jeremiah_ch_50.docx": [7241], "Lamentations_ch_3.docx": [3173]}
-22‘jos	{"Genesis_ch_49.docx": [2503]}

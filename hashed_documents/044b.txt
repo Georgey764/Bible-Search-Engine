@@ -1,7 +1,3 @@
 
 pepi	{"Genesis_ch_12.docx": [1762]}
-harim	{"Ezra_ch_2.docx": [1300, 1505, 1505, 1505], "Nehemiah_ch_3.docx": [3677, 3700, 3726, 3677, 3700, 3726, 3677, 3700, 3726], "Nehemiah_ch_7.docx": [2291, 2555, 2291, 2555, 2291, 2555], "Nehemiah_ch_10.docx": [232, 1268, 232, 1268, 232, 1268], "Matthew_ch_27.docx": [6768, 6768], "Mark_ch_15.docx": [4644, 4644], "Luke_ch_23.docx": [5981, 5981]}
-pepi	{"Genesis_ch_12.docx": [1762]}
-harim	{"Ezra_ch_2.docx": [1300, 1505, 1505], "Nehemiah_ch_3.docx": [3677, 3700, 3726, 3677, 3700, 3726], "Nehemiah_ch_7.docx": [2291, 2555, 2291, 2555], "Nehemiah_ch_10.docx": [232, 1268, 232, 1268], "Matthew_ch_27.docx": [6768], "Mark_ch_15.docx": [4644], "Luke_ch_23.docx": [5981]}
-pepi	{"Genesis_ch_12.docx": [1762]}
-harim	{"Ezra_ch_2.docx": [1300, 1505], "Nehemiah_ch_3.docx": [3677, 3700, 3726], "Nehemiah_ch_7.docx": [2291, 2555], "Nehemiah_ch_10.docx": [232, 1268], "Matthew_ch_27.docx": [6768], "Mark_ch_15.docx": [4644], "Luke_ch_23.docx": [5981]}
+harim	{"Ezra_ch_2.docx": [1300, 1505], "Ezra_ch_10.docx": [3874, 5057], "Nehemiah_ch_3.docx": [3677, 3700, 3726], "Nehemiah_ch_7.docx": [2291, 2555], "Nehemiah_ch_10.docx": [232, 1268], "Matthew_ch_27.docx": [6768], "Mark_ch_15.docx": [4644], "Luke_ch_23.docx": [5981]}

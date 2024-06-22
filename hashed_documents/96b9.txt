@@ -1,2 +1,0 @@
-
-11wh	{"Deuteronomy_ch_31.docx": [1460], "2 Samuel_ch_8.docx": [1498], "1 Chronicles_ch_19.docx": [1632], "Psalms_ch_74.docx": [1075], "Psalms_ch_76.docx": [940], "Psalms_ch_90.docx": [1164], "Proverbs_ch_21.docx": [1028], "Isaiah_ch_33.docx": [1545], "Lamentations_ch_3.docx": [814], "Ezekiel_ch_20.docx": [1852], "Daniel_ch_2.docx": [1715]}

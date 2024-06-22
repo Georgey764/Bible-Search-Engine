@@ -1,4 +1,2 @@
 
-serves	{"1 Samuel_ch_2.docx": [6093], "Psalms_ch_132.docx": [566, 566, 566], "Ezekiel_ch_18.docx": [1148, 1148, 1148], "Ezekiel_ch_45.docx": [3057, 3057, 3057], "Ezekiel_ch_46.docx": [1921, 1921, 1921], "1 Corinthians_ch_9.docx": [498, 498], "1 Peter_ch_4.docx": [1265, 1265]}
-serves	{"1 Samuel_ch_2.docx": [6093], "Psalms_ch_132.docx": [566, 566], "Ezekiel_ch_18.docx": [1148, 1148], "Ezekiel_ch_45.docx": [3057, 3057], "Ezekiel_ch_46.docx": [1921, 1921], "1 Corinthians_ch_9.docx": [498], "1 Peter_ch_4.docx": [1265]}
-serves	{"1 Samuel_ch_2.docx": [6093], "Psalms_ch_132.docx": [566], "Ezekiel_ch_18.docx": [1148], "Ezekiel_ch_45.docx": [3057], "Ezekiel_ch_46.docx": [1921], "1 Corinthians_ch_9.docx": [498], "1 Peter_ch_4.docx": [1265]}
+serves	{"1 Samuel_ch_2.docx": [6093], "Psalms_ch_132.docx": [566], "Ezekiel_ch_18.docx": [1148], "Ezekiel_ch_45.docx": [3057], "Ezekiel_ch_46.docx": [1921], "Ezekiel_ch_48.docx": [3689, 3943], "1 Corinthians_ch_9.docx": [498], "1 Peter_ch_4.docx": [1265]}

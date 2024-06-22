@@ -1,4 +1,2 @@
 
-aisi	{"Numbers_ch_33.docx": [3675], "1 Chronicles_ch_2.docx": [4617, 4617, 4617]}
-aisi	{"Numbers_ch_33.docx": [3675], "1 Chronicles_ch_2.docx": [4617, 4617]}
 aisi	{"Numbers_ch_33.docx": [3675], "1 Chronicles_ch_2.docx": [4617]}

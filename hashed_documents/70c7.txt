@@ -1,4 +1,2 @@
 
-escort	{"2 Samuel_ch_19.docx": [7320], "2 Corinthians_ch_1.docx": [2871, 2871]}
-escort	{"2 Samuel_ch_19.docx": [7320], "2 Corinthians_ch_1.docx": [2871]}
-escort	{"2 Samuel_ch_19.docx": [7320], "2 Corinthians_ch_1.docx": [2871]}
+escort	{"2 Samuel_ch_19.docx": [7320], "1 Corinthians_ch_16.docx": [771, 1940], "2 Corinthians_ch_1.docx": [2871]}

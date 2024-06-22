@@ -1,4 +1,2 @@
 
 bech	{"1 Samuel_ch_9.docx": [23]}
-bech	{"1 Samuel_ch_9.docx": [23]}
-bech	{"1 Samuel_ch_9.docx": [23]}

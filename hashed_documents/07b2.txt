@@ -1,4 +1,2 @@
 
-achbor	{"Jeremiah_ch_26.docx": [3929], "Jeremiah_ch_36.docx": [2161, 2161, 2161]}
-achbor	{"Jeremiah_ch_26.docx": [3929], "Jeremiah_ch_36.docx": [2161, 2161]}
 achbor	{"Jeremiah_ch_26.docx": [3929], "Jeremiah_ch_36.docx": [2161]}

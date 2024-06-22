@@ -1,7 +1,4 @@
 
-sleeps	{"Leviticus_ch_14.docx": [6876], "Job_ch_40.docx": [3451, 3451, 3451], "Ezekiel_ch_31.docx": [3765, 3765, 3765]}
+sleeps	{"Leviticus_ch_14.docx": [6876], "Job_ch_40.docx": [3451], "Ezekiel_ch_31.docx": [3765], "Micah_ch_7.docx": [884]}
 mepha	{"Jeremiah_ch_48.docx": [2812]}
-sleeps	{"Leviticus_ch_14.docx": [6876], "Job_ch_40.docx": [3451, 3451], "Ezekiel_ch_31.docx": [3765, 3765]}
-mepha	{"Jeremiah_ch_48.docx": [2812]}
-sleeps	{"Leviticus_ch_14.docx": [6876], "Job_ch_40.docx": [3451], "Ezekiel_ch_31.docx": [3765]}
-mepha	{"Jeremiah_ch_48.docx": [2812]}
+illit	{"Malachi_ch_4.docx": [2513], "Matthew_ch_28.docx": [3433], "Mark_ch_16.docx": [2780]}

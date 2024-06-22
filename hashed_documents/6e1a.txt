@@ -1,4 +1,2 @@
 
-occurr	{"Ezekiel_ch_37.docx": [858], "Acts_ch_2.docx": [577, 577], "Acts_ch_16.docx": [6936, 6936]}
-occurr	{"Ezekiel_ch_37.docx": [858], "Acts_ch_2.docx": [577], "Acts_ch_16.docx": [6936]}
-occurr	{"Ezekiel_ch_37.docx": [858], "Acts_ch_2.docx": [577], "Acts_ch_16.docx": [6936]}
+occurr	{"Ezekiel_ch_37.docx": [858], "Matthew_ch_28.docx": [179], "Acts_ch_2.docx": [577], "Acts_ch_16.docx": [6936]}

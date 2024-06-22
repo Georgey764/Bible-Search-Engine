@@ -1,8 +1,3 @@
 
 isi	{"1 Chronicles_ch_24.docx": [2618]}
-rare	{"Proverbs_ch_8.docx": [1619], "Isaiah_ch_13.docx": [1772, 1823, 1772, 1823, 1772, 1823]}
-18‘if	{"Exodus_ch_21.docx": [2163], "Joshua_ch_1.docx": [2668], "Job_ch_38.docx": [1689], "Psalms_ch_50.docx": [1654], "Psalms_ch_66.docx": [1605], "Ezekiel_ch_33.docx": [3556]}
-isi	{"1 Chronicles_ch_24.docx": [2618]}
-rare	{"Proverbs_ch_8.docx": [1619], "Isaiah_ch_13.docx": [1772, 1823, 1772, 1823]}
-isi	{"1 Chronicles_ch_24.docx": [2618]}
 rare	{"Proverbs_ch_8.docx": [1619], "Isaiah_ch_13.docx": [1772, 1823]}

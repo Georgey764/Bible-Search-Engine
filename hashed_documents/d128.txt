@@ -1,6 +1,3 @@
 
 daipho	{"Esther_ch_9.docx": [566]}
-puf	{"1 Corinthians_ch_4.docx": [986, 2648, 2677, 2648, 2677], "1 Corinthians_ch_8.docx": [93, 93]}
-daipho	{"Esther_ch_9.docx": [566]}
-daipho	{"Esther_ch_9.docx": [566]}
 puf	{"1 Corinthians_ch_4.docx": [986, 2648, 2677], "1 Corinthians_ch_8.docx": [93]}

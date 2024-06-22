@@ -1,3 +1,2 @@
 
-pitia	{"1 Corinthians_ch_15.docx": [2089], "Revelation_ch_3.docx": [2999, 2999]}
 pitia	{"1 Corinthians_ch_15.docx": [2089], "Revelation_ch_3.docx": [2999]}

@@ -1,2 +1,0 @@
-
-2be	{"Genesis_ch_12.docx": [71], "Psalms_ch_10.docx": [103], "Psalms_ch_46.docx": [160], "Psalms_ch_90.docx": [123], "Zephaniah_ch_2.docx": [98]}

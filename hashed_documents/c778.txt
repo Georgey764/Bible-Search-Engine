@@ -1,4 +1,2 @@
 
-wise!	{"Job_ch_33.docx": [3520], "Job_ch_37.docx": [2329, 2329, 2329]}
-wise!	{"Job_ch_33.docx": [3520], "Job_ch_37.docx": [2329, 2329]}
 wise!	{"Job_ch_33.docx": [3520], "Job_ch_37.docx": [2329]}

@@ -1,3 +1,0 @@
-
-30‘and	{"Numbers_ch_15.docx": [3743], "2 Kings_ch_18.docx": [5085], "Jeremiah_ch_36.docx": [5106]}
-28but	{"Numbers_ch_22.docx": [3937], "Judges_ch_1.docx": [12723], "1 Kings_ch_14.docx": [4904], "1 Kings_ch_18.docx": [4609], "2 Kings_ch_8.docx": [4815], "2 Kings_ch_15.docx": [4047], "Job_ch_19.docx": [2489], "Psalms_ch_73.docx": [2405], "Ezekiel_ch_32.docx": [4904]}

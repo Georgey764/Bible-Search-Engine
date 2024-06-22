@@ -1,5 +1,2 @@
 
-sosa	{"1 Chronicles_ch_2.docx": [2853, 2855, 3191, 3195, 2855, 3191, 3195, 2855, 3191, 3195]}
-28eval	{"Genesis_ch_10.docx": [3016]}
-sosa	{"1 Chronicles_ch_2.docx": [2853, 2855, 3191, 3195, 2855, 3191, 3195]}
 sosa	{"1 Chronicles_ch_2.docx": [2853, 2855, 3191, 3195]}

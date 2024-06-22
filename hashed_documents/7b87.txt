@@ -1,4 +1,2 @@
 
-attitu	{"1 Samuel_ch_14.docx": [2167], "1 Peter_ch_3.docx": [990, 990]}
-attitu	{"1 Samuel_ch_14.docx": [2167], "1 Peter_ch_3.docx": [990]}
-attitu	{"1 Samuel_ch_14.docx": [2167], "1 Peter_ch_3.docx": [990]}
+attitu	{"1 Samuel_ch_14.docx": [2167], "Zephaniah_ch_3.docx": [2302], "1 Peter_ch_3.docx": [990]}

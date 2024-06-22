@@ -1,7 +1,3 @@
 
-earth;	{"Numbers_ch_12.docx": [269], "Psalms_ch_33.docx": [616, 616, 616], "Psalms_ch_48.docx": [180, 928, 180, 928, 180, 928], "Ecclesiastes_ch_5.docx": [401, 401, 401], "Ezekiel_ch_38.docx": [3976, 3976, 3976], "Amos_ch_3.docx": [228, 228, 228], "Matthew_ch_5.docx": [1119, 1119, 1119], "Matthew_ch_10.docx": [4287, 4287, 4287], "Matthew_ch_11.docx": [3099, 3099, 3099], "Luke_ch_12.docx": [6540, 6540]}
-zeror	{"1 Samuel_ch_9.docx": [19]}
-earth;	{"Numbers_ch_12.docx": [269], "Psalms_ch_33.docx": [616, 616], "Psalms_ch_48.docx": [180, 928, 180, 928], "Ecclesiastes_ch_5.docx": [401, 401], "Ezekiel_ch_38.docx": [3976, 3976], "Amos_ch_3.docx": [228, 228], "Matthew_ch_5.docx": [1119, 1119], "Matthew_ch_10.docx": [4287, 4287], "Matthew_ch_11.docx": [3099, 3099], "Luke_ch_12.docx": [6540]}
-zeror	{"1 Samuel_ch_9.docx": [19]}
-earth;	{"Numbers_ch_12.docx": [269], "Psalms_ch_33.docx": [616], "Psalms_ch_48.docx": [180, 928], "Ecclesiastes_ch_5.docx": [401], "Ezekiel_ch_38.docx": [3976], "Amos_ch_3.docx": [228], "Matthew_ch_5.docx": [1119], "Matthew_ch_10.docx": [4287], "Matthew_ch_11.docx": [3099], "Luke_ch_12.docx": [6540]}
+earth;	{"Numbers_ch_12.docx": [269], "Esther_ch_10.docx": [2979], "Psalms_ch_33.docx": [616], "Psalms_ch_48.docx": [180, 928], "Ecclesiastes_ch_5.docx": [401], "Ezekiel_ch_38.docx": [3976], "Amos_ch_3.docx": [228], "Zechariah_ch_14.docx": [1532, 3121], "Matthew_ch_5.docx": [1119], "Matthew_ch_10.docx": [4287], "Matthew_ch_11.docx": [3099], "Luke_ch_12.docx": [6540]}
 zeror	{"1 Samuel_ch_9.docx": [19]}

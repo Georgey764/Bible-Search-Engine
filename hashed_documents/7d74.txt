@@ -1,5 +1,2 @@
 
-habo	{"2 Kings_ch_17.docx": [722], "2 Kings_ch_18.docx": [1476, 1476, 1476]}
-20ther	{"Genesis_ch_9.docx": [2546], "Genesis_ch_28.docx": [2923], "Exodus_ch_13.docx": [3279], "1 Samuel_ch_23.docx": [2911], "1 Samuel_ch_25.docx": [2980], "1 Kings_ch_18.docx": [2800]}
-habo	{"2 Kings_ch_17.docx": [722], "2 Kings_ch_18.docx": [1476, 1476]}
 habo	{"2 Kings_ch_17.docx": [722], "2 Kings_ch_18.docx": [1476]}

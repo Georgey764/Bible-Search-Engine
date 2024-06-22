@@ -1,2 +1,0 @@
-
-4ma	{"Genesis_ch_28.docx": [341], "Psalms_ch_13.docx": [415], "Psalms_ch_20.docx": [320], "Psalms_ch_35.docx": [277], "Psalms_ch_66.docx": [271], "Psalms_ch_118.docx": [282], "Jeremiah_ch_51.docx": [465]}

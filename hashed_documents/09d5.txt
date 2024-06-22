@@ -1,4 +1,2 @@
 
-nerija	{"Jeremiah_ch_43.docx": [275, 619, 619, 619]}
-nerija	{"Jeremiah_ch_43.docx": [275, 619, 619]}
 nerija	{"Jeremiah_ch_43.docx": [275, 619]}

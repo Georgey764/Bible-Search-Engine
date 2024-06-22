@@ -1,4 +1,2 @@
 
-enjoys	{"Genesis_ch_40.docx": [2021], "Job_ch_29.docx": [2000, 2000, 2000], "Romans_ch_7.docx": [3166, 3166]}
-enjoys	{"Genesis_ch_40.docx": [2021], "Job_ch_29.docx": [2000, 2000], "Romans_ch_7.docx": [3166]}
-enjoys	{"Genesis_ch_40.docx": [2021], "Job_ch_29.docx": [2000], "Romans_ch_7.docx": [3166]}
+enjoys	{"Genesis_ch_40.docx": [2021], "Job_ch_29.docx": [2000], "Romans_ch_7.docx": [3166], "Revelation_ch_22.docx": [2194]}

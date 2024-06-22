@@ -1,5 +1,2 @@
 
-riphat	{"Genesis_ch_10.docx": [417], "1 Chronicles_ch_1.docx": [334, 334, 334]}
-riphat	{"Genesis_ch_10.docx": [417], "1 Chronicles_ch_1.docx": [334, 334]}
-14foun	{"2 Chronicles_ch_13.docx": [2546]}
 riphat	{"Genesis_ch_10.docx": [417], "1 Chronicles_ch_1.docx": [334]}

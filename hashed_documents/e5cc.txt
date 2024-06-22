@@ -1,6 +1,3 @@
 
-swells	{"Jonah_ch_1.docx": [482, 1874, 1874, 1874]}
-saturd	{"Matthew_ch_27.docx": [7819]}
-swells	{"Jonah_ch_1.docx": [482, 1874, 1874]}
 swells	{"Jonah_ch_1.docx": [482, 1874]}
 saturd	{"Matthew_ch_27.docx": [7819]}

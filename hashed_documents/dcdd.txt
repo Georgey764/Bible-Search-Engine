@@ -1,4 +1,2 @@
 
 badge	{"Psalms_ch_104.docx": [1919]}
-badge	{"Psalms_ch_104.docx": [1919]}
-badge	{"Psalms_ch_104.docx": [1919]}

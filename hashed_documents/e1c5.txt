@@ -1,4 +1,2 @@
 
-azare	{"Nehemiah_ch_11.docx": [1873]}
-azare	{"Nehemiah_ch_11.docx": [1873]}
-azare	{"Nehemiah_ch_11.docx": [1873]}
+azare	{"Ezra_ch_10.docx": [5644], "Nehemiah_ch_11.docx": [1873]}

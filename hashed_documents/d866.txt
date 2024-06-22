@@ -1,4 +1,3 @@
 
 lines!	{"Judges_ch_9.docx": [7489]}
-lines!	{"Judges_ch_9.docx": [7489]}
-lines!	{"Judges_ch_9.docx": [7489]}
+recre	{"Song of Solomon_ch_8.docx": [2762], "Isaiah_ch_66.docx": [5908], "Lamentations_ch_5.docx": [2938], "Ezekiel_ch_48.docx": [8062], "Daniel_ch_12.docx": [4603], "Hosea_ch_14.docx": [2158], "Joel_ch_3.docx": [5274], "Amos_ch_9.docx": [4394], "Jonah_ch_4.docx": [2257], "Micah_ch_7.docx": [5126], "Nahum_ch_3.docx": [4334], "Habakkuk_ch_3.docx": [3974], "Zephaniah_ch_3.docx": [5064], "Haggai_ch_2.docx": [5381], "Zechariah_ch_14.docx": [5231]}

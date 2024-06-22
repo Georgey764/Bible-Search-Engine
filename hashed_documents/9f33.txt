@@ -1,5 +1,2 @@
 
-disagr	{"Exodus_ch_18.docx": [2119], "Numbers_ch_13.docx": [3421, 3421, 3421], "Numbers_ch_30.docx": [491, 1010, 2033, 491, 1010, 2033, 491, 1010, 2033], "Job_ch_20.docx": [61, 61, 61], "Proverbs_ch_26.docx": [1749, 1749, 1749], "2 Timothy_ch_2.docx": [3449, 3449]}
-disagr	{"Exodus_ch_18.docx": [2119], "Numbers_ch_13.docx": [3421, 3421], "Numbers_ch_30.docx": [491, 1010, 2033, 491, 1010, 2033], "Job_ch_20.docx": [61, 61], "Proverbs_ch_26.docx": [1749, 1749], "2 Timothy_ch_2.docx": [3449]}
-3,60	{"1 Kings_ch_5.docx": [2295], "2 Kings_ch_23.docx": [7239, 7245], "2 Chronicles_ch_2.docx": [261, 3317], "Ezra_ch_8.docx": [3613]}
 disagr	{"Exodus_ch_18.docx": [2119], "Numbers_ch_13.docx": [3421], "Numbers_ch_30.docx": [491, 1010, 2033], "Job_ch_20.docx": [61], "Proverbs_ch_26.docx": [1749], "2 Timothy_ch_2.docx": [3449]}

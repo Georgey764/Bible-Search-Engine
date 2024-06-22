@@ -1,3 +1,0 @@
-
-5‘they	{"Exodus_ch_28.docx": [714], "Numbers_ch_28.docx": [546], "Job_ch_24.docx": [353], "Isaiah_ch_32.docx": [470], "Jeremiah_ch_25.docx": [812]}
-22,273	{"Numbers_ch_3.docx": [5237]}

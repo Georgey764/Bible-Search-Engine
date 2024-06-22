@@ -1,4 +1,2 @@
 
-stubbo	{"Exodus_ch_33.docx": [492, 751, 751, 751], "Exodus_ch_34.docx": [1188, 1188, 1188], "Numbers_ch_16.docx": [3553, 3553, 3553], "Deuteronomy_ch_2.docx": [4213, 4213, 4213], "Judges_ch_2.docx": [4383, 4383, 4383], "2 Kings_ch_17.docx": [2396, 2399, 2396, 2399, 2396, 2399], "Proverbs_ch_29.docx": [1711, 1711, 1711]}
-stubbo	{"Exodus_ch_33.docx": [492, 751, 751], "Exodus_ch_34.docx": [1188, 1188], "Numbers_ch_16.docx": [3553, 3553], "Deuteronomy_ch_2.docx": [4213, 4213], "Judges_ch_2.docx": [4383, 4383], "2 Kings_ch_17.docx": [2396, 2399, 2396, 2399], "Proverbs_ch_29.docx": [1711, 1711]}
 stubbo	{"Exodus_ch_33.docx": [492, 751], "Exodus_ch_34.docx": [1188], "Numbers_ch_16.docx": [3553], "Deuteronomy_ch_2.docx": [4213], "Judges_ch_2.docx": [4383], "2 Kings_ch_17.docx": [2396, 2399], "Proverbs_ch_29.docx": [1711]}

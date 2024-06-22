@@ -1,5 +1,2 @@
 
-meazo	{"1 Chronicles_ch_25.docx": [832, 2910, 2910, 2910]}
-meazo	{"1 Chronicles_ch_25.docx": [832, 2910, 2910]}
-155ta	{"Psalms_ch_119.docx": [13043]}
 meazo	{"1 Chronicles_ch_25.docx": [832, 2910]}

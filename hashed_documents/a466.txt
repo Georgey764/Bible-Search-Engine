@@ -1,4 +1,2 @@
 
-shele	{"1 Chronicles_ch_1.docx": [1760], "Nehemiah_ch_3.docx": [14263, 14263, 14263], "Jeremiah_ch_36.docx": [2399, 4073, 2399, 4073, 2399, 4073], "Jeremiah_ch_37.docx": [341, 1679, 341, 1679, 341, 1679], "Jeremiah_ch_38.docx": [16, 16, 16]}
-shele	{"1 Chronicles_ch_1.docx": [1760], "Nehemiah_ch_3.docx": [14263, 14263], "Jeremiah_ch_36.docx": [2399, 4073, 2399, 4073], "Jeremiah_ch_37.docx": [341, 1679, 341, 1679], "Jeremiah_ch_38.docx": [16, 16]}
-shele	{"1 Chronicles_ch_1.docx": [1760], "Nehemiah_ch_3.docx": [14263], "Jeremiah_ch_36.docx": [2399, 4073], "Jeremiah_ch_37.docx": [341, 1679], "Jeremiah_ch_38.docx": [16]}
+shele	{"1 Chronicles_ch_1.docx": [1760], "Ezra_ch_10.docx": [5563, 5658], "Nehemiah_ch_3.docx": [14263], "Nehemiah_ch_13.docx": [1915], "Jeremiah_ch_36.docx": [2399, 4073], "Jeremiah_ch_37.docx": [341, 1679], "Jeremiah_ch_38.docx": [16]}

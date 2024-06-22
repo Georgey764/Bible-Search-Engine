@@ -1,10 +1,4 @@
 
 gasi	{"Joshua_ch_18.docx": [2422]}
-shoba	{"Ezra_ch_2.docx": [1683], "Nehemiah_ch_7.docx": [2742, 2742, 2742]}
-dryin	{"Ezekiel_ch_26.docx": [2417], "John_ch_13.docx": [568, 568]}
-gasi	{"Joshua_ch_18.docx": [2422]}
-shoba	{"Ezra_ch_2.docx": [1683], "Nehemiah_ch_7.docx": [2742, 2742]}
-dryin	{"Ezekiel_ch_26.docx": [2417], "John_ch_13.docx": [568]}
-gasi	{"Joshua_ch_18.docx": [2422]}
 shoba	{"Ezra_ch_2.docx": [1683], "Nehemiah_ch_7.docx": [2742]}
 dryin	{"Ezekiel_ch_26.docx": [2417], "John_ch_13.docx": [568]}

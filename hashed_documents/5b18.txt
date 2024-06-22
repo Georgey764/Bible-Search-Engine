@@ -1,3 +1,2 @@
 
 predet	{"Ephesians_ch_1.docx": [1527]}
-predet	{"Ephesians_ch_1.docx": [1527]}

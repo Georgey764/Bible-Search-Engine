@@ -1,3 +1,0 @@
-
-14thes	{"Genesis_ch_36.docx": [1466], "2 Samuel_ch_5.docx": [2038], "1 Chronicles_ch_5.docx": [1687], "1 Chronicles_ch_12.docx": [1464], "Nehemiah_ch_10.docx": [706]}
-15ten	{"Psalms_ch_80.docx": [1376]}

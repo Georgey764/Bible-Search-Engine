@@ -1,7 +1,3 @@
 
-girga	{"Genesis_ch_10.docx": [1954], "1 Chronicles_ch_1.docx": [1190, 1190, 1190]}
-viri	{"Song of Solomon_ch_5.docx": [1938]}
-girga	{"Genesis_ch_10.docx": [1954], "1 Chronicles_ch_1.docx": [1190, 1190]}
-viri	{"Song of Solomon_ch_5.docx": [1938]}
 girga	{"Genesis_ch_10.docx": [1954], "1 Chronicles_ch_1.docx": [1190]}
 viri	{"Song of Solomon_ch_5.docx": [1938]}

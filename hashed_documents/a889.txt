@@ -1,8 +1,3 @@
 
 yeast-	{"Joshua_ch_5.docx": [2343]}
-sewer	{"Matthew_ch_15.docx": [1755], "Mark_ch_7.docx": [2411, 2411], "1 Peter_ch_4.docx": [589, 589]}
-yeast-	{"Joshua_ch_5.docx": [2343]}
-1my	{"Psalms_ch_78.docx": [44], "Psalms_ch_108.docx": [38]}
-sewer	{"Matthew_ch_15.docx": [1755], "Mark_ch_7.docx": [2411], "1 Peter_ch_4.docx": [589]}
-yeast-	{"Joshua_ch_5.docx": [2343]}
 sewer	{"Matthew_ch_15.docx": [1755], "Mark_ch_7.docx": [2411], "1 Peter_ch_4.docx": [589]}

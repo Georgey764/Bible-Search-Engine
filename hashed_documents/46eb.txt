@@ -1,4 +1,2 @@
 
-farth	{"Job_ch_38.docx": [999], "Joel_ch_2.docx": [3646, 3646, 3646], "Mark_ch_1.docx": [2090, 2090], "Acts_ch_1.docx": [1218, 1218], "Acts_ch_27.docx": [3895, 3895]}
-farth	{"Job_ch_38.docx": [999], "Joel_ch_2.docx": [3646, 3646], "Mark_ch_1.docx": [2090], "Acts_ch_1.docx": [1218], "Acts_ch_27.docx": [3895]}
 farth	{"Job_ch_38.docx": [999], "Joel_ch_2.docx": [3646], "Mark_ch_1.docx": [2090], "Acts_ch_1.docx": [1218], "Acts_ch_27.docx": [3895]}

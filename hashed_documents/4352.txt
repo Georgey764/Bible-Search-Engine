@@ -1,6 +1,2 @@
 
 arctur	{"Job_ch_9.docx": [741]}
-26ar	{"Numbers_ch_26.docx": [2750]}
-21thes	{"Joshua_ch_21.docx": [2516], "Proverbs_ch_30.docx": [2307]}
-arctur	{"Job_ch_9.docx": [741]}
-arctur	{"Job_ch_9.docx": [741]}

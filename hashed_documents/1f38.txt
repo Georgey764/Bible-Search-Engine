@@ -1,4 +1,2 @@
 
-apple	{"Genesis_ch_30.docx": [1531], "Deuteronomy_ch_32.docx": [1336, 1336, 1336], "Proverbs_ch_25.docx": [1067, 1067, 1067], "Song of Solomon_ch_2.docx": [237, 523, 237, 523, 237, 523], "Song of Solomon_ch_7.docx": [1154, 1154, 1154]}
-apple	{"Genesis_ch_30.docx": [1531], "Deuteronomy_ch_32.docx": [1336, 1336], "Proverbs_ch_25.docx": [1067, 1067], "Song of Solomon_ch_2.docx": [237, 523, 237, 523], "Song of Solomon_ch_7.docx": [1154, 1154]}
-apple	{"Genesis_ch_30.docx": [1531], "Deuteronomy_ch_32.docx": [1336], "Proverbs_ch_25.docx": [1067], "Song of Solomon_ch_2.docx": [237, 523], "Song of Solomon_ch_7.docx": [1154]}
+apple	{"Genesis_ch_30.docx": [1531], "Deuteronomy_ch_32.docx": [1336], "Proverbs_ch_25.docx": [1067], "Song of Solomon_ch_2.docx": [237, 523], "Song of Solomon_ch_7.docx": [1154], "Song of Solomon_ch_8.docx": [828]}

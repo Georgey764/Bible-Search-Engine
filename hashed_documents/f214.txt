@@ -1,5 +1,2 @@
 
-cret	{"Genesis_ch_10.docx": [1728, 1803, 1803, 1803], "Ezekiel_ch_30.docx": [513, 513, 513], "Acts_ch_27.docx": [858, 1552, 1790, 3023, 858, 1552, 1790, 3023], "Titus_ch_1.docx": [580, 1612, 1623, 580, 1612, 1623]}
-cret	{"Genesis_ch_10.docx": [1728, 1803, 1803], "Ezekiel_ch_30.docx": [513, 513], "Acts_ch_27.docx": [858, 1552, 1790, 3023], "Titus_ch_1.docx": [580, 1612, 1623]}
-24all	{"Exodus_ch_35.docx": [2402]}
 cret	{"Genesis_ch_10.docx": [1728, 1803], "Ezekiel_ch_30.docx": [513], "Acts_ch_27.docx": [858, 1552, 1790, 3023], "Titus_ch_1.docx": [580, 1612, 1623]}

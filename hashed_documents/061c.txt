@@ -1,5 +1,2 @@
 
-having	{"Genesis_ch_34.docx": [47, 801, 801, 801], "Leviticus_ch_20.docx": [2131, 2131, 2131], "Esther_ch_9.docx": [3867, 3867, 3867], "Job_ch_28.docx": [2583, 2632, 2583, 2632, 2583, 2632]}
-having	{"Genesis_ch_34.docx": [47, 801, 801], "Leviticus_ch_20.docx": [2131, 2131], "Esther_ch_9.docx": [3867, 3867], "Job_ch_28.docx": [2583, 2632, 2583, 2632]}
-24:	{"Leviticus_ch_10.docx": [3588]}
 having	{"Genesis_ch_34.docx": [47, 801], "Leviticus_ch_20.docx": [2131], "Esther_ch_9.docx": [3867], "Job_ch_28.docx": [2583, 2632]}

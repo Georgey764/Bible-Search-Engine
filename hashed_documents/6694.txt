@@ -1,6 +1,2 @@
 
-affai	{"2 Kings_ch_20.docx": [176], "Ezekiel_ch_23.docx": [1095, 1095, 1095], "1 Timothy_ch_5.docx": [1661, 1661]}
-8i’	{"Numbers_ch_12.docx": [808], "Job_ch_5.docx": [666], "Job_ch_19.docx": [733], "Psalms_ch_38.docx": [607], "Psalms_ch_69.docx": [1026], "Psalms_ch_119.docx": [508], "Amos_ch_1.docx": [4855]}
-affai	{"2 Kings_ch_20.docx": [176], "Ezekiel_ch_23.docx": [1095, 1095], "1 Timothy_ch_5.docx": [1661]}
-32si	{"Proverbs_ch_3.docx": [3091], "Lamentations_ch_3.docx": [2581]}
 affai	{"2 Kings_ch_20.docx": [176], "Ezekiel_ch_23.docx": [1095], "1 Timothy_ch_5.docx": [1661]}

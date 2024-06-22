@@ -1,5 +1,2 @@
 
-theb	{"Judges_ch_9.docx": [9177], "Jeremiah_ch_46.docx": [4056, 4056, 4056]}
-theb	{"Judges_ch_9.docx": [9177], "Jeremiah_ch_46.docx": [4056, 4056]}
-3‘beca	{"Ezekiel_ch_26.docx": [383]}
 theb	{"Judges_ch_9.docx": [9177], "Jeremiah_ch_46.docx": [4056]}

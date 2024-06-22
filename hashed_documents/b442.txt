@@ -1,5 +1,2 @@
 
-hornet	{"Exodus_ch_23.docx": [3840], "Deuteronomy_ch_7.docx": [3193, 3193, 3193]}
-hornet	{"Exodus_ch_23.docx": [3840], "Deuteronomy_ch_7.docx": [3193, 3193]}
-2‘give	{"Numbers_ch_5.docx": [67]}
-hornet	{"Exodus_ch_23.docx": [3840], "Deuteronomy_ch_7.docx": [3193]}
+hornet	{"Exodus_ch_23.docx": [3840], "Deuteronomy_ch_7.docx": [3193], "Joshua_ch_24.docx": [2034]}

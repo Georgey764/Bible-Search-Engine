@@ -1,2 +1,0 @@
-
-22,000	{"Numbers_ch_3.docx": [4704], "Judges_ch_7.docx": [1595], "Judges_ch_20.docx": [2642], "2 Samuel_ch_8.docx": [697], "1 Kings_ch_8.docx": [10151], "1 Chronicles_ch_18.docx": [499], "2 Chronicles_ch_7.docx": [598]}

@@ -1,4 +1,2 @@
 
-circui	{"1 Samuel_ch_7.docx": [2968], "Mark_ch_6.docx": [906, 906], "Romans_ch_15.docx": [2819, 2819]}
-circui	{"1 Samuel_ch_7.docx": [2968], "Mark_ch_6.docx": [906], "Romans_ch_15.docx": [2819]}
 circui	{"1 Samuel_ch_7.docx": [2968], "Mark_ch_6.docx": [906], "Romans_ch_15.docx": [2819]}

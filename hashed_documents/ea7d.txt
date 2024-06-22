@@ -1,6 +1,2 @@
 
-boz	{"1 Samuel_ch_14.docx": [613], "1 Chronicles_ch_1.docx": [3705, 3705, 3705], "Isaiah_ch_34.docx": [778, 778, 778], "Isaiah_ch_63.docx": [58, 58, 58], "Jeremiah_ch_48.docx": [3030, 3030, 3030]}
-47th	{"Numbers_ch_4.docx": [5899], "Numbers_ch_26.docx": [4823], "Joshua_ch_19.docx": [3628], "1 Chronicles_ch_1.docx": [4011], "1 Chronicles_ch_2.docx": [4139], "Psalms_ch_18.docx": [4451], "Psalms_ch_78.docx": [4563], "Daniel_ch_2.docx": [8359]}
-17‘ye	{"Judges_ch_5.docx": [2587], "1 Chronicles_ch_17.docx": [2449], "Isaiah_ch_9.docx": [2643], "Jeremiah_ch_11.docx": [3169], "Jeremiah_ch_42.docx": [2884], "Ezekiel_ch_20.docx": [2883], "Ezekiel_ch_25.docx": [2860], "Hosea_ch_9.docx": [3583]}
-boz	{"1 Samuel_ch_14.docx": [613], "1 Chronicles_ch_1.docx": [3705, 3705], "Isaiah_ch_34.docx": [778, 778], "Isaiah_ch_63.docx": [58, 58], "Jeremiah_ch_48.docx": [3030, 3030]}
 boz	{"1 Samuel_ch_14.docx": [613], "1 Chronicles_ch_1.docx": [3705], "Isaiah_ch_34.docx": [778], "Isaiah_ch_63.docx": [58], "Jeremiah_ch_48.docx": [3030]}

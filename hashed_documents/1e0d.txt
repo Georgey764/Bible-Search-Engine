@@ -1,8 +1,3 @@
 
-–all	{"Judges_ch_9.docx": [513], "Acts_ch_26.docx": [602, 613, 625, 641, 658, 602, 613, 625, 641, 658]}
-eseba	{"1 Chronicles_ch_1.docx": [3420]}
-17bot	{"Deuteronomy_ch_19.docx": [2477]}
-–all	{"Judges_ch_9.docx": [513], "Acts_ch_26.docx": [602, 613, 625, 641, 658]}
-eseba	{"1 Chronicles_ch_1.docx": [3420]}
 –all	{"Judges_ch_9.docx": [513], "Acts_ch_26.docx": [602, 613, 625, 641, 658]}
 eseba	{"1 Chronicles_ch_1.docx": [3420]}

@@ -1,4 +1,2 @@
 
-ledge	{"Ezekiel_ch_43.docx": [3095, 3860, 3860, 3860]}
-ledge	{"Ezekiel_ch_43.docx": [3095, 3860, 3860]}
 ledge	{"Ezekiel_ch_43.docx": [3095, 3860]}

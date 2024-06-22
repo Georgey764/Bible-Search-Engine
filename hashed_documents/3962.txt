@@ -1,7 +1,3 @@
 
-glean	{"Deuteronomy_ch_24.docx": [3348], "Judges_ch_8.docx": [208, 208, 208], "Ruth_ch_2.docx": [207, 1173, 207, 1173, 207, 1173], "Isaiah_ch_3.docx": [1851, 1851, 1851], "Isaiah_ch_24.docx": [1971, 2019, 1971, 2019, 1971, 2019], "Jeremiah_ch_6.docx": [1333, 1337, 1333, 1337, 1333, 1337], "Lamentations_ch_1.docx": [5419, 5423, 5419, 5423, 5419, 5423], "Lamentations_ch_2.docx": [4470, 4470, 4470]}
-hauli	{"2 Samuel_ch_6.docx": [746]}
-glean	{"Deuteronomy_ch_24.docx": [3348], "Judges_ch_8.docx": [208, 208], "Ruth_ch_2.docx": [207, 1173, 207, 1173], "Isaiah_ch_3.docx": [1851, 1851], "Isaiah_ch_24.docx": [1971, 2019, 1971, 2019], "Jeremiah_ch_6.docx": [1333, 1337, 1333, 1337], "Lamentations_ch_1.docx": [5419, 5423, 5419, 5423], "Lamentations_ch_2.docx": [4470, 4470]}
-hauli	{"2 Samuel_ch_6.docx": [746]}
-glean	{"Deuteronomy_ch_24.docx": [3348], "Judges_ch_8.docx": [208], "Ruth_ch_2.docx": [207, 1173], "Isaiah_ch_3.docx": [1851], "Isaiah_ch_24.docx": [1971, 2019], "Jeremiah_ch_6.docx": [1333, 1337], "Lamentations_ch_1.docx": [5419, 5423], "Lamentations_ch_2.docx": [4470]}
-hauli	{"2 Samuel_ch_6.docx": [746]}
+glean	{"Deuteronomy_ch_24.docx": [3348], "Judges_ch_8.docx": [208], "Ruth_ch_2.docx": [207, 1173], "Isaiah_ch_3.docx": [1851], "Isaiah_ch_24.docx": [1971, 2019], "Jeremiah_ch_6.docx": [1333, 1337], "Lamentations_ch_1.docx": [5419, 5423], "Lamentations_ch_2.docx": [4470], "Obadiah_ch_1.docx": [844], "Micah_ch_7.docx": [11, 77], "Zephaniah_ch_3.docx": [1536]}
+hauli	{"2 Samuel_ch_6.docx": [746], "Lamentations_ch_5.docx": [1068]}

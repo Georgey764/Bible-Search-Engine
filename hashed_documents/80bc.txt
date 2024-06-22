@@ -1,5 +1,2 @@
 
-semei	{"Exodus_ch_6.docx": [2348], "Numbers_ch_3.docx": [2447, 2664, 2447, 2664, 2447, 2664], "1 Kings_ch_1.docx": [1016, 1016, 1016], "1 Kings_ch_2.docx": [1352, 6776, 7062, 7223, 7254, 7511, 7528, 7889, 1352, 6776, 7062, 7223, 7254, 7511, 7528, 7889, 1352, 6776, 7062, 7223, 7254, 7511, 7528, 7889], "1 Chronicles_ch_25.docx": [2075, 2075, 2075], "2 Chronicles_ch_29.docx": [2234, 2234, 2234], "Luke_ch_3.docx": [6438, 6438]}
-semei	{"Exodus_ch_6.docx": [2348], "Numbers_ch_3.docx": [2447, 2664, 2447, 2664], "1 Kings_ch_1.docx": [1016, 1016], "1 Kings_ch_2.docx": [1352, 6776, 7062, 7223, 7254, 7511, 7528, 7889, 1352, 6776, 7062, 7223, 7254, 7511, 7528, 7889], "1 Chronicles_ch_25.docx": [2075, 2075], "2 Chronicles_ch_29.docx": [2234, 2234], "Luke_ch_3.docx": [6438]}
-3ars	{"Joshua_ch_19.docx": [185]}
 semei	{"Exodus_ch_6.docx": [2348], "Numbers_ch_3.docx": [2447, 2664], "1 Kings_ch_1.docx": [1016], "1 Kings_ch_2.docx": [1352, 6776, 7062, 7223, 7254, 7511, 7528, 7889], "1 Chronicles_ch_25.docx": [2075], "2 Chronicles_ch_29.docx": [2234], "Luke_ch_3.docx": [6438]}

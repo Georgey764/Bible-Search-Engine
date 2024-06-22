@@ -1,4 +1,2 @@
 
-lacks	{"Ecclesiastes_ch_6.docx": [189]}
-lacks	{"Ecclesiastes_ch_6.docx": [189]}
-lacks	{"Ecclesiastes_ch_6.docx": [189]}
+lacks	{"Ecclesiastes_ch_6.docx": [189], "Hebrews_ch_13.docx": [4220]}

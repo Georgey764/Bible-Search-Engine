@@ -1,4 +1,2 @@
 
-bam	{"Numbers_ch_21.docx": [2585, 2615, 2615, 2615], "Joshua_ch_19.docx": [455, 455, 455], "1 Chronicles_ch_7.docx": [4065, 4065, 4065]}
-bam	{"Numbers_ch_21.docx": [2585, 2615, 2615], "Joshua_ch_19.docx": [455, 455], "1 Chronicles_ch_7.docx": [4065, 4065]}
 bam	{"Numbers_ch_21.docx": [2585, 2615], "Joshua_ch_19.docx": [455], "1 Chronicles_ch_7.docx": [4065]}

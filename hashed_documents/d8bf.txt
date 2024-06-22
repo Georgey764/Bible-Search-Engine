@@ -1,4 +1,2 @@
 
-walls!	{"Jeremiah_ch_50.docx": [2831], "Jeremiah_ch_51.docx": [1984, 1984, 1984]}
-walls!	{"Jeremiah_ch_50.docx": [2831], "Jeremiah_ch_51.docx": [1984, 1984]}
-walls!	{"Jeremiah_ch_50.docx": [2831], "Jeremiah_ch_51.docx": [1984]}
+walls!	{"2 Kings_ch_25.docx": [1299], "Jeremiah_ch_50.docx": [2831], "Jeremiah_ch_51.docx": [1984]}

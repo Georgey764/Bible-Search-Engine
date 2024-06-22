@@ -1,7 +1,3 @@
 
-david;	{"2 Samuel_ch_3.docx": [1297], "1 Kings_ch_5.docx": [22, 22, 22], "1 Kings_ch_12.docx": [4347, 4347, 4347], "2 Chronicles_ch_8.docx": [1380, 1380, 1380], "2 Chronicles_ch_28.docx": [35, 35, 35], "Jeremiah_ch_21.docx": [1890, 1890, 1890], "Matthew_ch_15.docx": [2383, 2383, 2383], "Acts_ch_2.docx": [9691, 9691]}
-kabe	{"2 Samuel_ch_23.docx": [3391]}
-david;	{"2 Samuel_ch_3.docx": [1297], "1 Kings_ch_5.docx": [22, 22], "1 Kings_ch_12.docx": [4347, 4347], "2 Chronicles_ch_8.docx": [1380, 1380], "2 Chronicles_ch_28.docx": [35, 35], "Jeremiah_ch_21.docx": [1890, 1890], "Matthew_ch_15.docx": [2383, 2383], "Acts_ch_2.docx": [9691]}
-kabe	{"2 Samuel_ch_23.docx": [3391]}
 david;	{"2 Samuel_ch_3.docx": [1297], "1 Kings_ch_5.docx": [22], "1 Kings_ch_12.docx": [4347], "2 Chronicles_ch_8.docx": [1380], "2 Chronicles_ch_28.docx": [35], "Jeremiah_ch_21.docx": [1890], "Matthew_ch_15.docx": [2383], "Acts_ch_2.docx": [9691]}
 kabe	{"2 Samuel_ch_23.docx": [3391]}

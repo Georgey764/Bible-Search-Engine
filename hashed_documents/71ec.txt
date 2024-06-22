@@ -1,4 +1,2 @@
 
 rides	{"Deuteronomy_ch_33.docx": [3783]}
-rides	{"Deuteronomy_ch_33.docx": [3783]}
-rides	{"Deuteronomy_ch_33.docx": [3783]}

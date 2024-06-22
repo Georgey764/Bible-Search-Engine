@@ -1,4 +1,2 @@
 
-ichabo	{"1 Samuel_ch_4.docx": [3658], "1 Samuel_ch_14.docx": [391, 391, 391]}
-ichabo	{"1 Samuel_ch_4.docx": [3658], "1 Samuel_ch_14.docx": [391, 391]}
 ichabo	{"1 Samuel_ch_4.docx": [3658], "1 Samuel_ch_14.docx": [391]}

@@ -1,5 +1,2 @@
 
-ares	{"1 Chronicles_ch_9.docx": [2135], "Nehemiah_ch_12.docx": [1264, 1264, 1264]}
-20ge	{"1 Chronicles_ch_6.docx": [1385]}
-ares	{"1 Chronicles_ch_9.docx": [2135], "Nehemiah_ch_12.docx": [1264, 1264]}
 ares	{"1 Chronicles_ch_9.docx": [2135], "Nehemiah_ch_12.docx": [1264]}

@@ -1,4 +1,2 @@
 
-assura	{"Genesis_ch_38.docx": [2315, 2386, 2386, 2386], "2 Corinthians_ch_9.docx": [369, 369]}
-assura	{"Genesis_ch_38.docx": [2315, 2386, 2386], "2 Corinthians_ch_9.docx": [369]}
 assura	{"Genesis_ch_38.docx": [2315, 2386], "2 Corinthians_ch_9.docx": [369]}

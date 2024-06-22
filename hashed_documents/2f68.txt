@@ -1,4 +1,2 @@
 
-toppe	{"Exodus_ch_25.docx": [3523], "1 Kings_ch_7.docx": [2848, 2848, 2848]}
-toppe	{"Exodus_ch_25.docx": [3523], "1 Kings_ch_7.docx": [2848, 2848]}
 toppe	{"Exodus_ch_25.docx": [3523], "1 Kings_ch_7.docx": [2848]}

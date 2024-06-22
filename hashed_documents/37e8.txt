@@ -1,4 +1,2 @@
 
-arabo	{"Joshua_ch_13.docx": [26879, 26894, 26910, 26894, 26910, 26894, 26910], "2 Samuel_ch_23.docx": [4554, 4554, 4554], "1 Kings_ch_4.docx": [1021, 1021, 1021]}
-arabo	{"Joshua_ch_13.docx": [26879, 26894, 26910, 26894, 26910], "2 Samuel_ch_23.docx": [4554, 4554], "1 Kings_ch_4.docx": [1021, 1021]}
-arabo	{"Joshua_ch_13.docx": [26879, 26894, 26910], "2 Samuel_ch_23.docx": [4554], "1 Kings_ch_4.docx": [1021]}
+arabo	{"Deuteronomy_ch_34.docx": [8, 790], "Joshua_ch_13.docx": [26879, 26894, 26910], "2 Samuel_ch_23.docx": [4554], "1 Kings_ch_4.docx": [1021]}

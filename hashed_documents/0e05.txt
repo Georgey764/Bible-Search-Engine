@@ -1,4 +1,2 @@
 
-apro	{"Ruth_ch_3.docx": [2040], "Luke_ch_12.docx": [4794, 4794], "Luke_ch_17.docx": [1061, 1061], "Acts_ch_19.docx": [2683, 2683]}
-apro	{"Ruth_ch_3.docx": [2040], "Luke_ch_12.docx": [4794], "Luke_ch_17.docx": [1061], "Acts_ch_19.docx": [2683]}
 apro	{"Ruth_ch_3.docx": [2040], "Luke_ch_12.docx": [4794], "Luke_ch_17.docx": [1061], "Acts_ch_19.docx": [2683]}

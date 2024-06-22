@@ -1,4 +1,2 @@
 
 chalk	{"1 Kings_ch_4.docx": [3502]}
-chalk	{"1 Kings_ch_4.docx": [3502]}
-chalk	{"1 Kings_ch_4.docx": [3502]}

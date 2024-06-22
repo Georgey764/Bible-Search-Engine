@@ -1,2 +1,2 @@
 
-18bu	{"Genesis_ch_19.docx": [2987], "Genesis_ch_47.docx": [2808], "Exodus_ch_32.docx": [2642], "Numbers_ch_20.docx": [2835], "Joshua_ch_15.docx": [2583], "Judges_ch_2.docx": [4099], "Judges_ch_20.docx": [2247], "1 Kings_ch_15.docx": [2174], "Job_ch_19.docx": [1631], "Job_ch_24.docx": [1852], "Job_ch_39.docx": [1604], "Psalms_ch_147.docx": [1589], "Proverbs_ch_4.docx": [1683], "Proverbs_ch_9.docx": [1794], "Jeremiah_ch_15.docx": [3306], "Ezekiel_ch_26.docx": [3334], "Daniel_ch_7.docx": [3327], "Matthew_ch_22.docx": [2239]}
+apoc	{"Jude_ch_1.docx": [4856]}

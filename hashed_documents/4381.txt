@@ -1,4 +1,2 @@
 
-malele	{"Genesis_ch_5.docx": [890, 894, 1085, 1112, 894, 1112, 894, 1085, 1112]}
-malele	{"Genesis_ch_5.docx": [890, 894, 1112, 894, 1085, 1112]}
 malele	{"Genesis_ch_5.docx": [890, 894, 1085, 1112]}

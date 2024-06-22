@@ -1,5 +1,2 @@
 
-awnin	{"Exodus_ch_27.docx": [1580, 1608, 1608, 1608]}
-awnin	{"Exodus_ch_27.docx": [1580, 1608, 1608]}
-4me	{"2 Samuel_ch_19.docx": [359], "2 Kings_ch_20.docx": [519], "Jeremiah_ch_39.docx": [606]}
-awnin	{"Exodus_ch_27.docx": [1580, 1608]}
+awnin	{"Exodus_ch_27.docx": [1580, 1608], "Isaiah_ch_66.docx": [4051]}

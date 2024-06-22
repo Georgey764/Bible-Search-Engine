@@ -1,5 +1,2 @@
 
 dabin	{"Joshua_ch_10.docx": [409]}
-dabin	{"Joshua_ch_10.docx": [409]}
-12z	{"Nehemiah_ch_10.docx": [626]}
-dabin	{"Joshua_ch_10.docx": [409]}

@@ -1,2 +1,2 @@
 
-25‘amo	{"Ezekiel_ch_34.docx": [4201]}
+best-g	{"2 Samuel_ch_24.docx": [6149], "1 Kings_ch_22.docx": [9947], "Ecclesiastes_ch_12.docx": [2916]}

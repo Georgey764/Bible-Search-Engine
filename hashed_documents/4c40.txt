@@ -1,3 +1,2 @@
 
-31‘how	{"Leviticus_ch_13.docx": [4499]}
-4fill	{"Isaiah_ch_40.docx": [454]}
+ampli	{"Romans_ch_16.docx": [1249]}

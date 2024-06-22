@@ -1,5 +1,2 @@
 
 variet	{"Genesis_ch_6.docx": [2727]}
-variet	{"Genesis_ch_6.docx": [2727]}
-8,580	{"Numbers_ch_4.docx": [5927]}
-variet	{"Genesis_ch_6.docx": [2727]}

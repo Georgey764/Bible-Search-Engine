@@ -1,4 +1,2 @@
 
-hawks	{"Leviticus_ch_11.docx": [1890], "Deuteronomy_ch_14.docx": [1446, 1446, 1446], "Job_ch_39.docx": [2339, 2339, 2339]}
-hawks	{"Leviticus_ch_11.docx": [1890], "Deuteronomy_ch_14.docx": [1446, 1446], "Job_ch_39.docx": [2339, 2339]}
 hawks	{"Leviticus_ch_11.docx": [1890], "Deuteronomy_ch_14.docx": [1446], "Job_ch_39.docx": [2339]}

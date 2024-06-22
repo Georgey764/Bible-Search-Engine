@@ -1,5 +1,2 @@
 
-space	{"Genesis_ch_1.docx": [1387, 2573, 2573, 2573], "Genesis_ch_26.docx": [3182, 3182, 3182], "Genesis_ch_32.docx": [2174, 2174, 2174], "2 Samuel_ch_22.docx": [1967, 1967, 1967], "Ezekiel_ch_41.docx": [707, 734, 707, 734, 707, 734], "Ezekiel_ch_42.docx": [131, 131, 131], "Ezekiel_ch_45.docx": [339, 339, 339], "Luke_ch_13.docx": [1014, 1014]}
-space	{"Genesis_ch_1.docx": [1387, 2573, 2573], "Genesis_ch_26.docx": [3182, 3182], "Genesis_ch_32.docx": [2174, 2174], "2 Samuel_ch_22.docx": [1967, 1967], "Ezekiel_ch_41.docx": [707, 734, 707, 734], "Ezekiel_ch_42.docx": [131, 131], "Ezekiel_ch_45.docx": [339, 339], "Luke_ch_13.docx": [1014]}
-5bo	{"Ruth_ch_1.docx": [571], "Psalms_ch_139.docx": [371]}
-space	{"Genesis_ch_1.docx": [1387, 2573], "Genesis_ch_26.docx": [3182], "Genesis_ch_32.docx": [2174], "2 Samuel_ch_22.docx": [1967], "Ezekiel_ch_41.docx": [707, 734], "Ezekiel_ch_42.docx": [131], "Ezekiel_ch_45.docx": [339], "Luke_ch_13.docx": [1014]}
+space	{"Genesis_ch_1.docx": [1387, 2573], "Genesis_ch_26.docx": [3182], "Genesis_ch_32.docx": [2174], "2 Samuel_ch_22.docx": [1967], "Ezekiel_ch_41.docx": [707, 734], "Ezekiel_ch_42.docx": [131], "Ezekiel_ch_45.docx": [339], "Ezekiel_ch_48.docx": [2947, 3641], "Luke_ch_13.docx": [1014]}

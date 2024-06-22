@@ -1,4 +1,2 @@
 
-gone;	{"2 Chronicles_ch_31.docx": [45]}
-gone;	{"2 Chronicles_ch_31.docx": [45]}
-gone;	{"2 Chronicles_ch_31.docx": [45]}
+gone;	{"2 Chronicles_ch_31.docx": [45], "Joel_ch_3.docx": [4088]}

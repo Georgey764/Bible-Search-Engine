@@ -1,4 +1,2 @@
 
-outrag	{"1 Samuel_ch_11.docx": [811], "1 Samuel_ch_29.docx": [518, 518, 518], "2 Samuel_ch_12.docx": [821, 821, 821], "2 Kings_ch_5.docx": [1903, 1903, 1903], "Proverbs_ch_15.docx": [1784, 1784, 1784], "Jeremiah_ch_3.docx": [2206, 2206, 2206]}
-outrag	{"1 Samuel_ch_11.docx": [811], "1 Samuel_ch_29.docx": [518, 518], "2 Samuel_ch_12.docx": [821, 821], "2 Kings_ch_5.docx": [1903, 1903], "Proverbs_ch_15.docx": [1784, 1784], "Jeremiah_ch_3.docx": [2206, 2206]}
 outrag	{"1 Samuel_ch_11.docx": [811], "1 Samuel_ch_29.docx": [518], "2 Samuel_ch_12.docx": [821], "2 Kings_ch_5.docx": [1903], "Proverbs_ch_15.docx": [1784], "Jeremiah_ch_3.docx": [2206]}

@@ -1,7 +1,3 @@
 
 phago	{"Joshua_ch_15.docx": [6193]}
 juic	{"Revelation_ch_18.docx": [2509]}
-16‘my	{"Genesis_ch_9.docx": [2005], "Job_ch_16.docx": [1564]}
-phago	{"Joshua_ch_15.docx": [6193]}
-phago	{"Joshua_ch_15.docx": [6193]}
-juic	{"Revelation_ch_18.docx": [2509]}

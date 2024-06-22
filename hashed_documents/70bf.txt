@@ -1,4 +1,2 @@
 
-asou	{"1 Chronicles_ch_3.docx": [1783], "1 Chronicles_ch_4.docx": [454, 454, 454]}
-asou	{"1 Chronicles_ch_3.docx": [1783], "1 Chronicles_ch_4.docx": [454, 454]}
 asou	{"1 Chronicles_ch_3.docx": [1783], "1 Chronicles_ch_4.docx": [454]}

@@ -1,5 +1,2 @@
 
-signe	{"1 Kings_ch_20.docx": [6356], "1 Chronicles_ch_19.docx": [3162, 3162, 3162]}
-44w	{"Numbers_ch_14.docx": [6257], "Numbers_ch_33.docx": [3269], "1 Chronicles_ch_1.docx": [3695]}
-signe	{"1 Kings_ch_20.docx": [6356], "1 Chronicles_ch_19.docx": [3162, 3162]}
 signe	{"1 Kings_ch_20.docx": [6356], "1 Chronicles_ch_19.docx": [3162]}

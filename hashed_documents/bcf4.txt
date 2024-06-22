@@ -1,4 +1,2 @@
 
-misp	{"Leviticus_ch_6.docx": [345], "Nehemiah_ch_7.docx": [1093, 1093, 1093]}
-misp	{"Leviticus_ch_6.docx": [345], "Nehemiah_ch_7.docx": [1093, 1093]}
 misp	{"Leviticus_ch_6.docx": [345], "Nehemiah_ch_7.docx": [1093]}

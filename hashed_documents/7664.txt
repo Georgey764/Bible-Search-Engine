@@ -1,4 +1,3 @@
 
 soboka	{"1 Chronicles_ch_12.docx": [808]}
-soboka	{"1 Chronicles_ch_12.docx": [808]}
-soboka	{"1 Chronicles_ch_12.docx": [808]}
+tenses	{"Ecclesiastes_ch_12.docx": [2532], "Song of Solomon_ch_8.docx": [3998], "Isaiah_ch_66.docx": [7144], "Lamentations_ch_5.docx": [4174], "Daniel_ch_12.docx": [5839], "Hosea_ch_14.docx": [3394], "Joel_ch_3.docx": [6510], "Jonah_ch_4.docx": [3493], "Micah_ch_7.docx": [6362], "Nahum_ch_3.docx": [5570], "Habakkuk_ch_3.docx": [5210], "Zephaniah_ch_3.docx": [6300], "Haggai_ch_2.docx": [6617]}

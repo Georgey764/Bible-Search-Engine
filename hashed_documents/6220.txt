@@ -1,7 +1,3 @@
 
-lesson	{"Psalms_ch_60.docx": [104, 632, 632, 632], "Jeremiah_ch_13.docx": [3488, 3488, 3488], "1 Timothy_ch_5.docx": [272, 272]}
-robbin	{"Acts_ch_19.docx": [11628]}
-23fin	{"2 Chronicles_ch_29.docx": [4024]}
-lesson	{"Psalms_ch_60.docx": [104, 632, 632], "Jeremiah_ch_13.docx": [3488, 3488], "1 Timothy_ch_5.docx": [272]}
-lesson	{"Psalms_ch_60.docx": [104, 632], "Jeremiah_ch_13.docx": [3488], "1 Timothy_ch_5.docx": [272]}
+lesson	{"Psalms_ch_60.docx": [104, 632], "Jeremiah_ch_13.docx": [3488], "Obadiah_ch_1.docx": [4335], "1 Timothy_ch_5.docx": [272]}
 robbin	{"Acts_ch_19.docx": [11628]}

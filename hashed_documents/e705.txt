@@ -1,4 +1,2 @@
 
-arse	{"Numbers_ch_34.docx": [983, 1072, 1072, 1072], "Esther_ch_9.docx": [656, 656, 656]}
-arse	{"Numbers_ch_34.docx": [983, 1072, 1072], "Esther_ch_9.docx": [656, 656]}
 arse	{"Numbers_ch_34.docx": [983, 1072], "Esther_ch_9.docx": [656]}

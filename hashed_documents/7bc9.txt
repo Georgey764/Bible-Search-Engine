@@ -1,4 +1,3 @@
 
-ochoz	{"Genesis_ch_21.docx": [2625, 3628, 3628, 3628], "Genesis_ch_26.docx": [3664, 3664, 3664]}
-ochoz	{"Genesis_ch_21.docx": [2625, 3628, 3628], "Genesis_ch_26.docx": [3664, 3664]}
 ochoz	{"Genesis_ch_21.docx": [2625, 3628], "Genesis_ch_26.docx": [3664]}
+emmaus	{"Luke_ch_24.docx": [1339]}

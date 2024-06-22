@@ -1,7 +1,3 @@
 
-whir	{"Psalms_ch_83.docx": [998], "Jeremiah_ch_23.docx": [3718, 3718, 3718]}
-day.<	{"Proverbs_ch_16.docx": [265]}
-whir	{"Psalms_ch_83.docx": [998], "Jeremiah_ch_23.docx": [3718, 3718]}
-day.<	{"Proverbs_ch_16.docx": [265]}
 whir	{"Psalms_ch_83.docx": [998], "Jeremiah_ch_23.docx": [3718]}
 day.<	{"Proverbs_ch_16.docx": [265]}

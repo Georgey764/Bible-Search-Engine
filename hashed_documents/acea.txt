@@ -1,5 +1,2 @@
 
-noeman	{"Genesis_ch_46.docx": [2694], "Numbers_ch_26.docx": [4543, 4551, 4556, 4543, 4551, 4556, 4543, 4551, 4556]}
-noeman	{"Genesis_ch_46.docx": [2694], "Numbers_ch_26.docx": [4543, 4551, 4556, 4543, 4551, 4556]}
-7he	{"Numbers_ch_7.docx": [823], "Deuteronomy_ch_18.docx": [749], "2 Chronicles_ch_3.docx": [663], "2 Chronicles_ch_33.docx": [975], "2 Chronicles_ch_34.docx": [1025], "Job_ch_9.docx": [530], "Job_ch_23.docx": [572], "Job_ch_26.docx": [604], "Psalms_ch_4.docx": [657], "Psalms_ch_26.docx": [590], "Psalms_ch_28.docx": [793], "Psalms_ch_50.docx": [607], "Psalms_ch_58.docx": [689], "Psalms_ch_105.docx": [493], "Psalms_ch_107.docx": [526], "Psalms_ch_113.docx": [492], "Psalms_ch_135.docx": [484], "Psalms_ch_136.docx": [924], "Psalms_ch_149.docx": [556]}
 noeman	{"Genesis_ch_46.docx": [2694], "Numbers_ch_26.docx": [4543, 4551, 4556]}

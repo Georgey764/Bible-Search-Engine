@@ -1,3 +1,0 @@
-
-6go	{"1 Chronicles_ch_1.docx": [299], "1 Chronicles_ch_25.docx": [939], "Proverbs_ch_16.docx": [677], "Ezekiel_ch_38.docx": [721]}
-22:1	{"Matthew_ch_20.docx": [1962]}

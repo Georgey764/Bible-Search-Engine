@@ -1,4 +1,2 @@
 
-piece!	{"1 Samuel_ch_9.docx": [4071], "1 Samuel_ch_14.docx": [2912, 2912, 2912]}
-piece!	{"1 Samuel_ch_9.docx": [4071], "1 Samuel_ch_14.docx": [2912, 2912]}
 piece!	{"1 Samuel_ch_9.docx": [4071], "1 Samuel_ch_14.docx": [2912]}

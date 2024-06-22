@@ -1,4 +1,2 @@
 
-floors	{"Numbers_ch_18.docx": [5158], "Judges_ch_15.docx": [535, 535, 535], "1 Kings_ch_6.docx": [1890, 3400, 1890, 3400, 1890, 3400], "Hosea_ch_9.docx": [197, 197, 197], "Hosea_ch_13.docx": [432, 432, 432]}
-floors	{"Numbers_ch_18.docx": [5158], "Judges_ch_15.docx": [535, 535], "1 Kings_ch_6.docx": [1890, 3400, 1890, 3400], "Hosea_ch_9.docx": [197, 197], "Hosea_ch_13.docx": [432, 432]}
 floors	{"Numbers_ch_18.docx": [5158], "Judges_ch_15.docx": [535], "1 Kings_ch_6.docx": [1890, 3400], "Hosea_ch_9.docx": [197], "Hosea_ch_13.docx": [432]}

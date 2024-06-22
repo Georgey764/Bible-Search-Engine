@@ -1,5 +1,3 @@
 
 ladde	{"2 Samuel_ch_23.docx": [3585]}
-ladde	{"2 Samuel_ch_23.docx": [3585]}
-13i’l	{"Psalms_ch_116.docx": [1040], "Ezekiel_ch_34.docx": [2251], "Micah_ch_5.docx": [3023]}
-ladde	{"2 Samuel_ch_23.docx": [3585]}
+– a	{"Malachi_ch_4.docx": [2194]}

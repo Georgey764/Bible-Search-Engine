@@ -1,4 +1,2 @@
 
-fract	{"Judges_ch_9.docx": [9449], "Psalms_ch_74.docx": [1374, 1374, 1374], "Isaiah_ch_36.docx": [864, 864, 864], "Amos_ch_6.docx": [2493, 2493, 2493]}
-fract	{"Judges_ch_9.docx": [9449], "Psalms_ch_74.docx": [1374, 1374], "Isaiah_ch_36.docx": [864, 864], "Amos_ch_6.docx": [2493, 2493]}
 fract	{"Judges_ch_9.docx": [9449], "Psalms_ch_74.docx": [1374], "Isaiah_ch_36.docx": [864], "Amos_ch_6.docx": [2493]}

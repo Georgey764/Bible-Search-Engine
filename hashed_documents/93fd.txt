@@ -1,3 +1,0 @@
-
-2‘{	{"Exodus_ch_31.docx": [85], "Jeremiah_ch_49.docx": [219], "Zechariah_ch_12.docx": [227]}
-29c	{"Numbers_ch_26.docx": [3068], "1 Chronicles_ch_26.docx": [3758]}

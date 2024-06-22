@@ -1,5 +1,2 @@
 
-tatnai	{"Ezra_ch_5.docx": [367, 913, 913, 913], "Ezra_ch_6.docx": [973, 2492, 973, 2492, 973, 2492]}
-tatnai	{"Ezra_ch_5.docx": [367, 913, 913], "Ezra_ch_6.docx": [973, 2492, 973, 2492]}
-2‘anno	{"Jeremiah_ch_50.docx": [167]}
 tatnai	{"Ezra_ch_5.docx": [367, 913], "Ezra_ch_6.docx": [973, 2492]}

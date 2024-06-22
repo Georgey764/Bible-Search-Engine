@@ -1,5 +1,2 @@
 
-shuhi	{"Job_ch_2.docx": [1647], "Job_ch_8.docx": [7, 7, 7], "Job_ch_18.docx": [7, 7, 7], "Job_ch_25.docx": [7, 7, 7]}
-26‘fo	{"Leviticus_ch_14.docx": [4125], "Deuteronomy_ch_5.docx": [3313], "1 Chronicles_ch_17.docx": [3960], "Ezekiel_ch_21.docx": [4502], "Ezekiel_ch_22.docx": [3877], "Ezekiel_ch_33.docx": [4870]}
-shuhi	{"Job_ch_2.docx": [1647], "Job_ch_8.docx": [7, 7], "Job_ch_18.docx": [7, 7], "Job_ch_25.docx": [7, 7]}
 shuhi	{"Job_ch_2.docx": [1647], "Job_ch_8.docx": [7], "Job_ch_18.docx": [7], "Job_ch_25.docx": [7]}

@@ -1,4 +1,2 @@
 
-joacha	{"1 Chronicles_ch_5.docx": [1654], "2 Chronicles_ch_29.docx": [2025, 2025, 2025]}
-joacha	{"1 Chronicles_ch_5.docx": [1654], "2 Chronicles_ch_29.docx": [2025, 2025]}
 joacha	{"1 Chronicles_ch_5.docx": [1654], "2 Chronicles_ch_29.docx": [2025]}

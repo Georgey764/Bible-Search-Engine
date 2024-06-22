@@ -1,4 +1,2 @@
 
-doug	{"Exodus_ch_8.docx": [390], "Exodus_ch_12.docx": [5365, 6007, 6023, 5365, 6007, 6023, 5365, 6007, 6023], "Numbers_ch_15.docx": [2121, 2148, 2121, 2148, 2121, 2148], "2 Samuel_ch_13.docx": [1193, 1193, 1193], "Jeremiah_ch_7.docx": [2727, 2727, 2727], "1 Corinthians_ch_5.docx": [765, 765], "Galatians_ch_5.docx": [960, 960]}
-doug	{"Exodus_ch_8.docx": [390], "Exodus_ch_12.docx": [5365, 6007, 6023, 5365, 6007, 6023], "Numbers_ch_15.docx": [2121, 2148, 2121, 2148], "2 Samuel_ch_13.docx": [1193, 1193], "Jeremiah_ch_7.docx": [2727, 2727], "1 Corinthians_ch_5.docx": [765], "Galatians_ch_5.docx": [960]}
 doug	{"Exodus_ch_8.docx": [390], "Exodus_ch_12.docx": [5365, 6007, 6023], "Numbers_ch_15.docx": [2121, 2148], "2 Samuel_ch_13.docx": [1193], "Jeremiah_ch_7.docx": [2727], "1 Corinthians_ch_5.docx": [765], "Galatians_ch_5.docx": [960]}

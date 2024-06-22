@@ -1,5 +1,2 @@
 
-cucum	{"Numbers_ch_11.docx": [644], "Isaiah_ch_1.docx": [1380, 1380, 1380]}
-1this	{"Genesis_ch_5.docx": [4], "Esther_ch_1.docx": [4], "Esther_ch_2.docx": [4], "Isaiah_ch_13.docx": [4], "Isaiah_ch_14.docx": [4], "Isaiah_ch_15.docx": [4], "Isaiah_ch_17.docx": [4], "Isaiah_ch_19.docx": [4], "Isaiah_ch_45.docx": [4], "Jeremiah_ch_18.docx": [4], "Zechariah_ch_9.docx": [4], "Malachi_ch_1.docx": [4], "Matthew_ch_1.docx": [4], "Matthew_ch_16.docx": [4]}
-cucum	{"Numbers_ch_11.docx": [644], "Isaiah_ch_1.docx": [1380, 1380]}
 cucum	{"Numbers_ch_11.docx": [644], "Isaiah_ch_1.docx": [1380]}

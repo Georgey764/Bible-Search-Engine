@@ -1,12 +1,4 @@
 
-arbo	{"Genesis_ch_23.docx": [20], "Joshua_ch_15.docx": [2069, 5788, 2069, 5788, 2069, 5788], "Joshua_ch_20.docx": [1250, 1250, 1250], "Judges_ch_1.docx": [1415, 1415, 1415]}
-jashu	{"Numbers_ch_26.docx": [2133, 2138, 2138]}
-35ac	{"1 Chronicles_ch_11.docx": [5724]}
-arbo	{"Genesis_ch_23.docx": [20], "Joshua_ch_15.docx": [2069, 5788, 2069, 5788], "Joshua_ch_20.docx": [1250, 1250], "Judges_ch_1.docx": [1415, 1415]}
-jashu	{"Numbers_ch_26.docx": [2138, 2138]}
-34rame	{"Joshua_ch_15.docx": [4601]}
-24elio	{"1 Chronicles_ch_3.docx": [2167]}
-35ac	{"1 Chronicles_ch_11.docx": [5724]}
 arbo	{"Genesis_ch_23.docx": [20], "Joshua_ch_15.docx": [2069, 5788], "Joshua_ch_20.docx": [1250], "Judges_ch_1.docx": [1415]}
-jashu	{"Numbers_ch_26.docx": [2133, 2138]}
- 35ac	{"1 Chronicles_ch_11.docx": [5724]}
+jashu	{"Numbers_ch_26.docx": [2133, 2138], "Ezra_ch_10.docx": [4874]}
+35ac	{"1 Chronicles_ch_11.docx": [5724]}

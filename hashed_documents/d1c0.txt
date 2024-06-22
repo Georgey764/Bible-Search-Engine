@@ -1,7 +1,3 @@
 
-guided	{"Exodus_ch_15.docx": [1603], "Deuteronomy_ch_1.docx": [4739, 4739, 4739], "2 Samuel_ch_7.docx": [3227, 3227, 3227], "1 Chronicles_ch_17.docx": [2995, 2995, 2995], "Nehemiah_ch_9.docx": [2798, 4195, 2798, 4195, 2798, 4195], "Psalms_ch_23.docx": [147, 147, 147], "Psalms_ch_77.docx": [1863, 1863, 1863], "Psalms_ch_106.docx": [877, 877, 877], "Psalms_ch_107.docx": [527, 527, 527], "Acts_ch_1.docx": [3629, 3629]}
-revil	{"Proverbs_ch_19.docx": [2553]}
-guided	{"Exodus_ch_15.docx": [1603], "Deuteronomy_ch_1.docx": [4739, 4739], "2 Samuel_ch_7.docx": [3227, 3227], "1 Chronicles_ch_17.docx": [2995, 2995], "Nehemiah_ch_9.docx": [2798, 4195, 2798, 4195], "Psalms_ch_23.docx": [147, 147], "Psalms_ch_77.docx": [1863, 1863], "Psalms_ch_106.docx": [877, 877], "Psalms_ch_107.docx": [527, 527], "Acts_ch_1.docx": [3629]}
-revil	{"Proverbs_ch_19.docx": [2553]}
-guided	{"Exodus_ch_15.docx": [1603], "Deuteronomy_ch_1.docx": [4739], "2 Samuel_ch_7.docx": [3227], "1 Chronicles_ch_17.docx": [2995], "Nehemiah_ch_9.docx": [2798, 4195], "Psalms_ch_23.docx": [147], "Psalms_ch_77.docx": [1863], "Psalms_ch_106.docx": [877], "Psalms_ch_107.docx": [527], "Acts_ch_1.docx": [3629]}
+guided	{"Exodus_ch_15.docx": [1603], "Deuteronomy_ch_1.docx": [4739], "Joshua_ch_24.docx": [297], "2 Samuel_ch_7.docx": [3227], "1 Chronicles_ch_17.docx": [2995], "Nehemiah_ch_9.docx": [2798, 4195], "Psalms_ch_23.docx": [147], "Psalms_ch_77.docx": [1863], "Psalms_ch_106.docx": [877], "Psalms_ch_107.docx": [527], "Acts_ch_1.docx": [3629]}
 revil	{"Proverbs_ch_19.docx": [2553]}

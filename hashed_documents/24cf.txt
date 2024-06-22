@@ -1,4 +1,2 @@
 
-tents!	{"1 Samuel_ch_4.docx": [1737], "2 Samuel_ch_20.docx": [288, 288, 288], "2 Kings_ch_8.docx": [3816, 3816, 3816]}
-tents!	{"1 Samuel_ch_4.docx": [1737], "2 Samuel_ch_20.docx": [288, 288], "2 Kings_ch_8.docx": [3816, 3816]}
 tents!	{"1 Samuel_ch_4.docx": [1737], "2 Samuel_ch_20.docx": [288], "2 Kings_ch_8.docx": [3816]}

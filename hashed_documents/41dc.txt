@@ -1,5 +1,2 @@
 
-lapped	{"Judges_ch_7.docx": [2188, 2348, 2348, 2348]}
-lapped	{"Judges_ch_7.docx": [2188, 2348, 2348]}
-14take	{"Matthew_ch_20.docx": [1634]}
 lapped	{"Judges_ch_7.docx": [2188, 2348]}

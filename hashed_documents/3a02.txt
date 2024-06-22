@@ -1,2 +1,0 @@
-
-26howe	{"Genesis_ch_19.docx": [4054], "Genesis_ch_26.docx": [3649], "Exodus_ch_8.docx": [4065], "Numbers_ch_11.docx": [4065], "2 Kings_ch_23.docx": [6057]}

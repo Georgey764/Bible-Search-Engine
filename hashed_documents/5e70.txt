@@ -1,9 +1,4 @@
 
-folded	{"Exodus_ch_39.docx": [1061], "2 Kings_ch_2.docx": [847, 847, 847], "Psalms_ch_77.docx": [206, 206, 206], "Proverbs_ch_19.docx": [2208, 2208, 2208], "Proverbs_ch_24.docx": [3166, 3166, 3166]}
-ahito	{"1 Chronicles_ch_27.docx": [4628, 4720, 4720], "Ezra_ch_7.docx": [242, 242, 242]}
-arista	{"Acts_ch_19.docx": [8878, 8892, 8907, 8892, 8907], "Acts_ch_20.docx": [1871, 1871], "Acts_ch_27.docx": [222, 222]}
-folded	{"Exodus_ch_39.docx": [1061], "2 Kings_ch_2.docx": [847, 847], "Psalms_ch_77.docx": [206, 206], "Proverbs_ch_19.docx": [2208, 2208], "Proverbs_ch_24.docx": [3166, 3166]}
-ahito	{"1 Chronicles_ch_27.docx": [4720, 4720], "Ezra_ch_7.docx": [242, 242]}
 folded	{"Exodus_ch_39.docx": [1061], "2 Kings_ch_2.docx": [847], "Psalms_ch_77.docx": [206], "Proverbs_ch_19.docx": [2208], "Proverbs_ch_24.docx": [3166]}
 ahito	{"1 Chronicles_ch_27.docx": [4628, 4720], "Ezra_ch_7.docx": [242]}
-arista	{"Acts_ch_19.docx": [8878, 8892, 8907], "Acts_ch_20.docx": [1871], "Acts_ch_27.docx": [222]}
+arista	{"Acts_ch_19.docx": [8878, 8892, 8907], "Acts_ch_20.docx": [1871], "Acts_ch_27.docx": [222], "Colossians_ch_4.docx": [963], "Philemon_ch_1.docx": [2812]}

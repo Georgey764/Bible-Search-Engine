@@ -1,5 +1,2 @@
 
-mowed	{"Psalms_ch_102.docx": [399], "Jeremiah_ch_9.docx": [3997, 3997, 3997], "Hosea_ch_6.docx": [731, 731, 731]}
-42‘how	{"Numbers_ch_14.docx": [5937], "Deuteronomy_ch_1.docx": [6066]}
-mowed	{"Psalms_ch_102.docx": [399], "Jeremiah_ch_9.docx": [3997, 3997], "Hosea_ch_6.docx": [731, 731]}
 mowed	{"Psalms_ch_102.docx": [399], "Jeremiah_ch_9.docx": [3997], "Hosea_ch_6.docx": [731]}

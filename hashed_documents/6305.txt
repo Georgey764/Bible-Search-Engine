@@ -1,4 +1,2 @@
 
-pits	{"Genesis_ch_14.docx": [1365], "Leviticus_ch_14.docx": [5737, 5737, 5737], "Psalms_ch_88.docx": [639, 639, 639], "Isaiah_ch_17.docx": [779, 779, 779], "Jeremiah_ch_48.docx": [5976, 5976, 5976], "Lamentations_ch_3.docx": [4571, 4571, 4571], "Ezekiel_ch_46.docx": [4303, 4303, 4303], "Zechariah_ch_9.docx": [2567, 2567, 2567], "2 Peter_ch_2.docx": [582, 582]}
-pits	{"Genesis_ch_14.docx": [1365], "Leviticus_ch_14.docx": [5737, 5737], "Psalms_ch_88.docx": [639, 639], "Isaiah_ch_17.docx": [779, 779], "Jeremiah_ch_48.docx": [5976, 5976], "Lamentations_ch_3.docx": [4571, 4571], "Ezekiel_ch_46.docx": [4303, 4303], "Zechariah_ch_9.docx": [2567, 2567], "2 Peter_ch_2.docx": [582]}
 pits	{"Genesis_ch_14.docx": [1365], "Leviticus_ch_14.docx": [5737], "Psalms_ch_88.docx": [639], "Isaiah_ch_17.docx": [779], "Jeremiah_ch_48.docx": [5976], "Lamentations_ch_3.docx": [4571], "Ezekiel_ch_46.docx": [4303], "Zechariah_ch_9.docx": [2567], "2 Peter_ch_2.docx": [582]}

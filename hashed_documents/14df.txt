@@ -1,4 +1,2 @@
 
-despoi	{"Ezekiel_ch_38.docx": [2057], "Ezekiel_ch_39.docx": [1796, 1800, 1796, 1800, 1796, 1800]}
-despoi	{"Ezekiel_ch_38.docx": [2057], "Ezekiel_ch_39.docx": [1796, 1800, 1796, 1800]}
 despoi	{"Ezekiel_ch_38.docx": [2057], "Ezekiel_ch_39.docx": [1796, 1800]}

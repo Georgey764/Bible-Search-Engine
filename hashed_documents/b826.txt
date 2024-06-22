@@ -1,4 +1,2 @@
 
-sihon	{"Jeremiah_ch_48.docx": [6288, 6374, 6374, 6374]}
-sihon	{"Jeremiah_ch_48.docx": [6288, 6374, 6374]}
 sihon	{"Jeremiah_ch_48.docx": [6288, 6374]}

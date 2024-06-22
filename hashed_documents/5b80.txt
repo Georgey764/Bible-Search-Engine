@@ -1,4 +1,2 @@
 
-bilga	{"Nehemiah_ch_10.docx": [369], "Nehemiah_ch_12.docx": [292, 1580, 292, 1580, 292, 1580]}
-bilga	{"Nehemiah_ch_10.docx": [369], "Nehemiah_ch_12.docx": [292, 1580, 292, 1580]}
 bilga	{"Nehemiah_ch_10.docx": [369], "Nehemiah_ch_12.docx": [292, 1580]}

@@ -1,2 +1,0 @@
-
-24be	{"Numbers_ch_4.docx": [3054], "Numbers_ch_18.docx": [4154], "2 Kings_ch_15.docx": [3264], "Proverbs_ch_8.docx": [2152], "Jeremiah_ch_51.docx": [3878], "Ezekiel_ch_20.docx": [4044], "Matthew_ch_24.docx": [2593]}

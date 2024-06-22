@@ -1,3 +1,2 @@
 
-uncha	{"Hebrews_ch_6.docx": [2270, 2289, 2289], "Hebrews_ch_12.docx": [5058, 5058]}
 uncha	{"Hebrews_ch_6.docx": [2270, 2289], "Hebrews_ch_12.docx": [5058]}

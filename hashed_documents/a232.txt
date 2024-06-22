@@ -1,5 +1,2 @@
 
 igniti	{"Malachi_ch_1.docx": [2097]}
-11‘i	{"Genesis_ch_45.docx": [1627], "Leviticus_ch_15.docx": [1408], "Numbers_ch_18.docx": [1959], "2 Kings_ch_21.docx": [1934], "Job_ch_14.docx": [1131], "Job_ch_17.docx": [881], "Job_ch_24.docx": [1028], "Job_ch_27.docx": [867], "Ecclesiastes_ch_9.docx": [1969], "Ecclesiastes_ch_10.docx": [1123], "Isaiah_ch_13.docx": [1564], "Isaiah_ch_53.docx": [1707], "Jeremiah_ch_29.docx": [1817], "Jeremiah_ch_44.docx": [2107], "Ezekiel_ch_16.docx": [1684], "Daniel_ch_9.docx": [1645], "Amos_ch_2.docx": [3150], "Matthew_ch_3.docx": [1226], "Matthew_ch_11.docx": [1282]}
-igniti	{"Malachi_ch_1.docx": [2097]}
-igniti	{"Malachi_ch_1.docx": [2097]}

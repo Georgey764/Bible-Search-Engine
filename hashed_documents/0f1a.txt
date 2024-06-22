@@ -1,5 +1,2 @@
 
-mallu	{"Nehemiah_ch_10.docx": [242, 1254, 1254], "Nehemiah_ch_12.docx": [167, 167, 167]}
-48‘w	{"Genesis_ch_24.docx": [7369]}
-mallu	{"Nehemiah_ch_10.docx": [242, 1254], "Nehemiah_ch_12.docx": [167, 167]}
-mallu	{"Nehemiah_ch_10.docx": [242, 1254], "Nehemiah_ch_12.docx": [167]}
+mallu	{"Ezra_ch_10.docx": [4850, 5186], "Nehemiah_ch_10.docx": [242, 1254], "Nehemiah_ch_12.docx": [167]}

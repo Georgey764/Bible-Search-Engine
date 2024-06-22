@@ -1,4 +1,2 @@
 
-most-h	{"Exodus_ch_30.docx": [4511], "Psalms_ch_7.docx": [1750, 1750, 1750], "Isaiah_ch_57.docx": [2453, 2453, 2453], "Ezekiel_ch_20.docx": [7309, 7309, 7309]}
-most-h	{"Exodus_ch_30.docx": [4511], "Psalms_ch_7.docx": [1750, 1750], "Isaiah_ch_57.docx": [2453, 2453], "Ezekiel_ch_20.docx": [7309, 7309]}
 most-h	{"Exodus_ch_30.docx": [4511], "Psalms_ch_7.docx": [1750], "Isaiah_ch_57.docx": [2453], "Ezekiel_ch_20.docx": [7309]}

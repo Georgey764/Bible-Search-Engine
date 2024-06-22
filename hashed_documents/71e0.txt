@@ -1,4 +1,2 @@
 
-rolli	{"Proverbs_ch_26.docx": [2514], "Lamentations_ch_1.docx": [4949, 4949, 4949], "Jonah_ch_2.docx": [569, 569, 569], "Matthew_ch_27.docx": [6985, 6985], "Luke_ch_21.docx": [2973, 2973]}
-rolli	{"Proverbs_ch_26.docx": [2514], "Lamentations_ch_1.docx": [4949, 4949], "Jonah_ch_2.docx": [569, 569], "Matthew_ch_27.docx": [6985], "Luke_ch_21.docx": [2973]}
 rolli	{"Proverbs_ch_26.docx": [2514], "Lamentations_ch_1.docx": [4949], "Jonah_ch_2.docx": [569], "Matthew_ch_27.docx": [6985], "Luke_ch_21.docx": [2973]}

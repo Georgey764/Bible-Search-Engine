@@ -2,9 +2,3 @@
 misaal	{"1 Chronicles_ch_8.docx": [833]}
 atarsa	{"Nehemiah_ch_8.docx": [2225]}
 azzu	{"Nehemiah_ch_10.docx": [911]}
-misaal	{"1 Chronicles_ch_8.docx": [833]}
-atarsa	{"Nehemiah_ch_8.docx": [2225]}
-azzu	{"Nehemiah_ch_10.docx": [911]}
-misaal	{"1 Chronicles_ch_8.docx": [833]}
-atarsa	{"Nehemiah_ch_8.docx": [2225]}
-azzu	{"Nehemiah_ch_10.docx": [911]}

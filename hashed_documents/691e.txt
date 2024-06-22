@@ -1,4 +1,2 @@
 
-placi	{"Leviticus_ch_1.docx": [1955], "1 Samuel_ch_6.docx": [2859, 2859, 2859], "2 Chronicles_ch_17.docx": [25, 25, 25]}
-placi	{"Leviticus_ch_1.docx": [1955], "1 Samuel_ch_6.docx": [2859, 2859], "2 Chronicles_ch_17.docx": [25, 25]}
 placi	{"Leviticus_ch_1.docx": [1955], "1 Samuel_ch_6.docx": [2859], "2 Chronicles_ch_17.docx": [25]}

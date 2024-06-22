@@ -1,3 +1,0 @@
-
-3‘so	{"Exodus_ch_12.docx": [208], "Deuteronomy_ch_3.docx": [386], "Deuteronomy_ch_10.docx": [333], "Judges_ch_7.docx": [1501], "Judges_ch_12.docx": [458], "1 Samuel_ch_2.docx": [406], "1 Kings_ch_16.docx": [320], "Isaiah_ch_10.docx": [239], "Isaiah_ch_30.docx": [363], "Isaiah_ch_51.docx": [361], "Isaiah_ch_55.docx": [387], "Jeremiah_ch_4.docx": [421], "Lamentations_ch_3.docx": [186], "Ezekiel_ch_12.docx": [258], "Ezekiel_ch_14.docx": [174], "Hosea_ch_4.docx": [404], "Hosea_ch_13.docx": [358], "Amos_ch_6.docx": [1191], "Amos_ch_8.docx": [357], "Zephaniah_ch_2.docx": [226], "Zechariah_ch_10.docx": [496], "Zechariah_ch_13.docx": [398]}
-21‘ne	{"1 Samuel_ch_12.docx": [3556]}

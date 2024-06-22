@@ -1,5 +1,2 @@
 
-dyed	{"Exodus_ch_25.docx": [565], "Exodus_ch_26.docx": [1533, 1533, 1533], "Exodus_ch_35.docx": [830, 2293, 830, 2293, 830, 2293], "Exodus_ch_36.docx": [2591, 2598, 2591, 2598, 2591, 2598], "Exodus_ch_39.docx": [4877, 4877, 4877], "Judges_ch_5.docx": [4331, 4384, 4434, 4331, 4384, 4434, 4331, 4384, 4434]}
-dyed	{"Exodus_ch_25.docx": [565], "Exodus_ch_26.docx": [1533, 1533], "Exodus_ch_35.docx": [830, 2293, 830, 2293], "Exodus_ch_36.docx": [2591, 2598, 2591, 2598], "Exodus_ch_39.docx": [4877, 4877], "Judges_ch_5.docx": [4331, 4384, 4434, 4331, 4384, 4434]}
-16‘al	{"Numbers_ch_2.docx": [1338], "Numbers_ch_19.docx": [2166], "Numbers_ch_29.docx": [2285], "Deuteronomy_ch_16.docx": [2609], "1 Kings_ch_19.docx": [2970], "Hosea_ch_9.docx": [3264], "Matthew_ch_6.docx": [2055]}
 dyed	{"Exodus_ch_25.docx": [565], "Exodus_ch_26.docx": [1533], "Exodus_ch_35.docx": [830, 2293], "Exodus_ch_36.docx": [2591, 2598], "Exodus_ch_39.docx": [4877], "Judges_ch_5.docx": [4331, 4384, 4434]}

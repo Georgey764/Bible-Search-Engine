@@ -1,7 +1,3 @@
 
-sells	{"Exodus_ch_21.docx": [933, 2038, 2038, 2038], "Exodus_ch_22.docx": [19, 19, 19], "Leviticus_ch_25.docx": [4036, 5626, 4036, 5626, 4036, 5626]}
-ses	{"Numbers_ch_13.docx": [1835], "Judges_ch_1.docx": [1431, 1431, 1431], "1 Kings_ch_4.docx": [1231, 1231, 1231]}
-sells	{"Exodus_ch_21.docx": [933, 2038, 2038], "Exodus_ch_22.docx": [19, 19], "Leviticus_ch_25.docx": [4036, 5626, 4036, 5626]}
-ses	{"Numbers_ch_13.docx": [1835], "Judges_ch_1.docx": [1431, 1431], "1 Kings_ch_4.docx": [1231, 1231]}
 sells	{"Exodus_ch_21.docx": [933, 2038], "Exodus_ch_22.docx": [19], "Leviticus_ch_25.docx": [4036, 5626]}
 ses	{"Numbers_ch_13.docx": [1835], "Judges_ch_1.docx": [1431], "1 Kings_ch_4.docx": [1231]}

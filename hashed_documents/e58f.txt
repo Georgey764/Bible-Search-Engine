@@ -1,7 +1,3 @@
 
-shrou	{"Exodus_ch_24.docx": [2159], "Job_ch_10.docx": [2113, 2113, 2113]}
-cram	{"1 Chronicles_ch_11.docx": [2161], "Isaiah_ch_49.docx": [4326, 4326, 4326]}
-shrou	{"Exodus_ch_24.docx": [2159], "Job_ch_10.docx": [2113, 2113]}
-cram	{"1 Chronicles_ch_11.docx": [2161], "Isaiah_ch_49.docx": [4326, 4326]}
 shrou	{"Exodus_ch_24.docx": [2159], "Job_ch_10.docx": [2113]}
 cram	{"1 Chronicles_ch_11.docx": [2161], "Isaiah_ch_49.docx": [4326]}

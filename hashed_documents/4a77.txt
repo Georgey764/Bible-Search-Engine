@@ -1,4 +1,2 @@
 
-tychi	{"Acts_ch_20.docx": [2154]}
-4‘as	{"Lamentations_ch_2.docx": [695]}
-tychi	{"Acts_ch_20.docx": [2154]}
+tychi	{"Acts_ch_20.docx": [2154], "Galatians_ch_6.docx": [2408], "Ephesians_ch_6.docx": [2402], "Colossians_ch_4.docx": [622], "2 Timothy_ch_4.docx": [1679], "Titus_ch_3.docx": [1622]}

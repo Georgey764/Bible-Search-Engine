@@ -1,6 +1,2 @@
 
 jecho	{"1 Chronicles_ch_4.docx": [2064]}
-7(f	{"1 Kings_ch_8.docx": [592]}
-jecho	{"1 Chronicles_ch_4.docx": [2064]}
-15zaba	{"1 Chronicles_ch_8.docx": [1109]}
-jecho	{"1 Chronicles_ch_4.docx": [2064]}

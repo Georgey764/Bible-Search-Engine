@@ -1,4 +1,2 @@
 
-memuc	{"Esther_ch_1.docx": [2507, 2816, 3753, 3753, 2816, 3753]}
-memuc	{"Esther_ch_1.docx": [2507, 3753, 2816, 3753]}
 memuc	{"Esther_ch_1.docx": [2507, 2816, 3753]}

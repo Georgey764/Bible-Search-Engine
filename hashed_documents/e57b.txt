@@ -1,5 +1,2 @@
 
-pallu	{"1 Chronicles_ch_5.docx": [510], "1 Chronicles_ch_27.docx": [1276, 1276, 1276]}
-54‘and	{"Leviticus_ch_25.docx": [7600]}
-pallu	{"1 Chronicles_ch_5.docx": [510], "1 Chronicles_ch_27.docx": [1276, 1276]}
 pallu	{"1 Chronicles_ch_5.docx": [510], "1 Chronicles_ch_27.docx": [1276]}

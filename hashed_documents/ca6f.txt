@@ -1,3 +1,0 @@
-
-63,55	{"Exodus_ch_38.docx": [3143]}
-6amo	{"Psalms_ch_99.docx": [498], "Ezekiel_ch_31.docx": [816], "Daniel_ch_1.docx": [863]}

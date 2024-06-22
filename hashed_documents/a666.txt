@@ -1,4 +1,2 @@
 
-drowne	{"Psalms_ch_124.docx": [215], "Ezekiel_ch_28.docx": [1055, 1055, 1055], "Matthew_ch_8.docx": [4166, 4166, 4166], "Luke_ch_8.docx": [4983, 4983], "Hebrews_ch_11.docx": [5754, 5754]}
-drowne	{"Psalms_ch_124.docx": [215], "Ezekiel_ch_28.docx": [1055, 1055], "Matthew_ch_8.docx": [4166, 4166], "Luke_ch_8.docx": [4983], "Hebrews_ch_11.docx": [5754]}
 drowne	{"Psalms_ch_124.docx": [215], "Ezekiel_ch_28.docx": [1055], "Matthew_ch_8.docx": [4166], "Luke_ch_8.docx": [4983], "Hebrews_ch_11.docx": [5754]}

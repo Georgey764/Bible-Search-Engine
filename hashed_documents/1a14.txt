@@ -1,4 +1,2 @@
 
-depi	{"Ezekiel_ch_8.docx": [1656], "Ezekiel_ch_23.docx": [2196, 2196, 2196], "Ezekiel_ch_28.docx": [1605, 1605, 1605]}
-depi	{"Ezekiel_ch_8.docx": [1656], "Ezekiel_ch_23.docx": [2196, 2196], "Ezekiel_ch_28.docx": [1605, 1605]}
 depi	{"Ezekiel_ch_8.docx": [1656], "Ezekiel_ch_23.docx": [2196], "Ezekiel_ch_28.docx": [1605]}

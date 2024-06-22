@@ -1,4 +1,2 @@
 
-gedor	{"1 Chronicles_ch_4.docx": [320, 2003, 2003, 2003], "1 Chronicles_ch_12.docx": [885, 885, 885], "1 Chronicles_ch_27.docx": [3854, 3854, 3854], "2 Chronicles_ch_14.docx": [1764, 2069, 1764, 2069, 1764, 2069]}
-gedor	{"1 Chronicles_ch_4.docx": [320, 2003, 2003], "1 Chronicles_ch_12.docx": [885, 885], "1 Chronicles_ch_27.docx": [3854, 3854], "2 Chronicles_ch_14.docx": [1764, 2069, 1764, 2069]}
 gedor	{"1 Chronicles_ch_4.docx": [320, 2003], "1 Chronicles_ch_12.docx": [885], "1 Chronicles_ch_27.docx": [3854], "2 Chronicles_ch_14.docx": [1764, 2069]}

@@ -1,7 +1,3 @@
 
-perm	{"Genesis_ch_41.docx": [5606], "Genesis_ch_42.docx": [3180, 3180, 3180], "Leviticus_ch_25.docx": [1965, 3186, 1965, 3186, 1965, 3186], "Mark_ch_5.docx": [1043, 1043], "Luke_ch_8.docx": [4816, 4816], "John_ch_19.docx": [5144, 5144], "Acts_ch_21.docx": [11569, 11569], "Hebrews_ch_7.docx": [3323, 3323]}
-gopher	{"1 Chronicles_ch_4.docx": [1503]}
-perm	{"Genesis_ch_41.docx": [5606], "Genesis_ch_42.docx": [3180, 3180], "Leviticus_ch_25.docx": [1965, 3186, 1965, 3186], "Mark_ch_5.docx": [1043], "Luke_ch_8.docx": [4816], "John_ch_19.docx": [5144], "Acts_ch_21.docx": [11569], "Hebrews_ch_7.docx": [3323]}
-gopher	{"1 Chronicles_ch_4.docx": [1503]}
-perm	{"Genesis_ch_41.docx": [5606], "Genesis_ch_42.docx": [3180], "Leviticus_ch_25.docx": [1965, 3186], "Mark_ch_5.docx": [1043], "Luke_ch_8.docx": [4816], "John_ch_19.docx": [5144], "Acts_ch_21.docx": [11569], "Hebrews_ch_7.docx": [3323]}
+perm	{"Genesis_ch_41.docx": [5606], "Genesis_ch_42.docx": [3180], "Leviticus_ch_25.docx": [1965, 3186], "Mark_ch_5.docx": [1043], "Luke_ch_8.docx": [4816], "John_ch_19.docx": [5144], "Acts_ch_21.docx": [11569], "Hebrews_ch_7.docx": [3323], "Hebrews_ch_13.docx": [1799]}
 gopher	{"1 Chronicles_ch_4.docx": [1503]}

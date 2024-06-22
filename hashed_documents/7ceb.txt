@@ -1,4 +1,2 @@
 
-allel	{"Numbers_ch_26.docx": [2427, 2432, 2432, 2432]}
-allel	{"Numbers_ch_26.docx": [2427, 2432, 2432]}
 allel	{"Numbers_ch_26.docx": [2427, 2432]}

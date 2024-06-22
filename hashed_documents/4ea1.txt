@@ -1,4 +1,2 @@
 
-dril	{"Job_ch_40.docx": [3845], "Isaiah_ch_44.docx": [1995, 1995, 1995]}
-dril	{"Job_ch_40.docx": [3845], "Isaiah_ch_44.docx": [1995, 1995]}
 dril	{"Job_ch_40.docx": [3845], "Isaiah_ch_44.docx": [1995]}

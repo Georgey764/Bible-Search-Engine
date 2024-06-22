@@ -1,4 +1,2 @@
 
-nursed	{"Exodus_ch_2.docx": [1182], "1 Samuel_ch_1.docx": [3703, 3703, 3703], "Psalms_ch_22.docx": [914, 914, 914], "Lamentations_ch_2.docx": [2768, 2768, 2768], "Luke_ch_23.docx": [3470, 3470], "Acts_ch_7.docx": [2714, 2714]}
-nursed	{"Exodus_ch_2.docx": [1182], "1 Samuel_ch_1.docx": [3703, 3703], "Psalms_ch_22.docx": [914, 914], "Lamentations_ch_2.docx": [2768, 2768], "Luke_ch_23.docx": [3470], "Acts_ch_7.docx": [2714]}
 nursed	{"Exodus_ch_2.docx": [1182], "1 Samuel_ch_1.docx": [3703], "Psalms_ch_22.docx": [914], "Lamentations_ch_2.docx": [2768], "Luke_ch_23.docx": [3470], "Acts_ch_7.docx": [2714]}

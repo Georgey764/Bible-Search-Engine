@@ -1,3 +1,2 @@
 
-7beca	{"Genesis_ch_36.docx": [546], "Nehemiah_ch_1.docx": [1088], "Psalms_ch_5.docx": [557], "Psalms_ch_42.docx": [860], "Daniel_ch_8.docx": [793]}
-6st	{"Proverbs_ch_4.docx": [485], "Proverbs_ch_9.docx": [463]}
+serm	{"Malachi_ch_4.docx": [2496], "Matthew_ch_28.docx": [3416], "Mark_ch_16.docx": [2763]}

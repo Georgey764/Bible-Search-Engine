@@ -1,4 +1,2 @@
 
-depl	{"2 Samuel_ch_10.docx": [1332], "Ezekiel_ch_32.docx": [1067, 1067, 1067]}
-depl	{"2 Samuel_ch_10.docx": [1332], "Ezekiel_ch_32.docx": [1067, 1067]}
 depl	{"2 Samuel_ch_10.docx": [1332], "Ezekiel_ch_32.docx": [1067]}

@@ -1,3 +1,2 @@
 
-lysia	{"Acts_ch_23.docx": [4741], "Acts_ch_24.docx": [603, 3846, 603, 3846]}
 lysia	{"Acts_ch_23.docx": [4741], "Acts_ch_24.docx": [603, 3846]}

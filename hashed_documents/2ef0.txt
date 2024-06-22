@@ -1,4 +1,2 @@
 
-jamb	{"2 Timothy_ch_3.docx": [1351, 1576, 1576]}
-3you	{"Genesis_ch_29.docx": [378], "Numbers_ch_9.docx": [179], "Deuteronomy_ch_12.docx": [266], "Deuteronomy_ch_28.docx": [356], "Psalms_ch_4.docx": [293], "Psalms_ch_9.docx": [235], "Psalms_ch_22.docx": [359], "Psalms_ch_60.docx": [627], "Psalms_ch_85.docx": [242], "Psalms_ch_128.docx": [244], "Psalms_ch_139.docx": [181], "Isaiah_ch_33.docx": [445], "Amos_ch_4.docx": [683], "Matthew_ch_23.docx": [102]}
 jamb	{"2 Timothy_ch_3.docx": [1351, 1576]}

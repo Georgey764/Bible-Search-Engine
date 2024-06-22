@@ -1,7 +1,3 @@
 
-soul!	{"Deuteronomy_ch_13.docx": [301], "Psalms_ch_35.docx": [248, 248, 248], "Psalms_ch_54.docx": [498, 498, 498], "Psalms_ch_71.docx": [2437, 2437, 2437], "Psalms_ch_103.docx": [1982, 1982, 1982], "Psalms_ch_104.docx": [3567, 3567, 3567], "Psalms_ch_116.docx": [376, 376, 376], "Psalms_ch_146.docx": [68, 68, 68], "Jeremiah_ch_51.docx": [849, 849, 849], "Matthew_ch_12.docx": [1995, 1995, 1995]}
-insec	{"Deuteronomy_ch_14.docx": [1573]}
-soul!	{"Deuteronomy_ch_13.docx": [301], "Psalms_ch_35.docx": [248, 248], "Psalms_ch_54.docx": [498, 498], "Psalms_ch_71.docx": [2437, 2437], "Psalms_ch_103.docx": [1982, 1982], "Psalms_ch_104.docx": [3567, 3567], "Psalms_ch_116.docx": [376, 376], "Psalms_ch_146.docx": [68, 68], "Jeremiah_ch_51.docx": [849, 849], "Matthew_ch_12.docx": [1995, 1995]}
-insec	{"Deuteronomy_ch_14.docx": [1573]}
 soul!	{"Deuteronomy_ch_13.docx": [301], "Psalms_ch_35.docx": [248], "Psalms_ch_54.docx": [498], "Psalms_ch_71.docx": [2437], "Psalms_ch_103.docx": [1982], "Psalms_ch_104.docx": [3567], "Psalms_ch_116.docx": [376], "Psalms_ch_146.docx": [68], "Jeremiah_ch_51.docx": [849], "Matthew_ch_12.docx": [1995]}
 insec	{"Deuteronomy_ch_14.docx": [1573]}

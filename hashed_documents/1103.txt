@@ -1,5 +1,2 @@
 
-hashu	{"Ezra_ch_2.docx": [965], "Nehemiah_ch_3.docx": [3679, 3702, 3728, 11160, 3679, 3702, 3728, 11160, 3679, 3702, 3728, 11160], "Nehemiah_ch_7.docx": [1817, 2839, 1817, 2839, 1817, 2839], "Nehemiah_ch_8.docx": [1437, 1437, 1437], "Nehemiah_ch_10.docx": [935, 1134, 935, 1134, 935, 1134], "Nehemiah_ch_11.docx": [2249, 2249, 2249]}
-26‘s	{"Numbers_ch_18.docx": [4466], "1 Kings_ch_8.docx": [3904], "Job_ch_22.docx": [2336], "Jeremiah_ch_48.docx": [3236], "Lamentations_ch_3.docx": [2084], "Matthew_ch_10.docx": [3251], "Matthew_ch_16.docx": [3530], "Matthew_ch_24.docx": [2794]}
-hashu	{"Ezra_ch_2.docx": [965], "Nehemiah_ch_3.docx": [3679, 3702, 3728, 11160, 3679, 3702, 3728, 11160], "Nehemiah_ch_7.docx": [1817, 2839, 1817, 2839], "Nehemiah_ch_8.docx": [1437, 1437], "Nehemiah_ch_10.docx": [935, 1134, 935, 1134], "Nehemiah_ch_11.docx": [2249, 2249]}
-hashu	{"Ezra_ch_2.docx": [965], "Nehemiah_ch_3.docx": [3679, 3702, 3728, 11160], "Nehemiah_ch_7.docx": [1817, 2839], "Nehemiah_ch_8.docx": [1437], "Nehemiah_ch_10.docx": [935, 1134], "Nehemiah_ch_11.docx": [2249]}
+hashu	{"Ezra_ch_2.docx": [965], "Ezra_ch_10.docx": [5217], "Nehemiah_ch_3.docx": [3679, 3702, 3728, 11160], "Nehemiah_ch_7.docx": [1817, 2839], "Nehemiah_ch_8.docx": [1437], "Nehemiah_ch_10.docx": [935, 1134], "Nehemiah_ch_11.docx": [2249]}

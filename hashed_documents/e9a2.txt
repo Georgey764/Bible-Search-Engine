@@ -1,4 +1,2 @@
 
-meta	{"Numbers_ch_16.docx": [5276], "1 Kings_ch_6.docx": [937, 937, 937], "1 Kings_ch_7.docx": [1774, 3261, 5662, 1774, 3261, 5662, 1774, 3261, 5662], "2 Kings_ch_17.docx": [2886, 2886, 2886], "2 Chronicles_ch_4.docx": [305, 305, 305], "2 Chronicles_ch_24.docx": [1800, 1800, 1800], "1 Corinthians_ch_13.docx": [1394, 1394]}
-meta	{"Numbers_ch_16.docx": [5276], "1 Kings_ch_6.docx": [937, 937], "1 Kings_ch_7.docx": [1774, 3261, 5662, 1774, 3261, 5662], "2 Kings_ch_17.docx": [2886, 2886], "2 Chronicles_ch_4.docx": [305, 305], "2 Chronicles_ch_24.docx": [1800, 1800], "1 Corinthians_ch_13.docx": [1394]}
 meta	{"Numbers_ch_16.docx": [5276], "1 Kings_ch_6.docx": [937], "1 Kings_ch_7.docx": [1774, 3261, 5662], "2 Kings_ch_17.docx": [2886], "2 Chronicles_ch_4.docx": [305], "2 Chronicles_ch_24.docx": [1800], "1 Corinthians_ch_13.docx": [1394]}

@@ -1,5 +1,2 @@
 
 oaths;	{"Jeremiah_ch_4.docx": [230]}
-17h	{"Genesis_ch_12.docx": [2096], "Exodus_ch_1.docx": [1841], "Exodus_ch_18.docx": [2302], "Deuteronomy_ch_21.docx": [2297], "2 Samuel_ch_5.docx": [2399], "1 Kings_ch_6.docx": [2181], "2 Kings_ch_4.docx": [2671], "2 Kings_ch_8.docx": [3089], "1 Chronicles_ch_5.docx": [2022], "2 Chronicles_ch_20.docx": [2571], "2 Chronicles_ch_33.docx": [2941], "Job_ch_12.docx": [1579], "Psalms_ch_102.docx": [1474], "Psalms_ch_139.docx": [1606], "Proverbs_ch_1.docx": [1692], "Isaiah_ch_59.docx": [2603], "Daniel_ch_5.docx": [3220], "Matthew_ch_18.docx": [2135]}
-oaths;	{"Jeremiah_ch_4.docx": [230]}
-oaths;	{"Jeremiah_ch_4.docx": [230]}

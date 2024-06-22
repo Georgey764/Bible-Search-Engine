@@ -1,5 +1,2 @@
 
 takers	{"Isaiah_ch_2.docx": [966]}
-19caa	{"Numbers_ch_3.docx": [2454]}
-takers	{"Isaiah_ch_2.docx": [966]}
-takers	{"Isaiah_ch_2.docx": [966]}

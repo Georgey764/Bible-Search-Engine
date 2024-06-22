@@ -1,2 +1,0 @@
-
-3-y	{"Genesis_ch_15.docx": [1121, 1124, 1128], "1 Samuel_ch_1.docx": [3807], "Isaiah_ch_15.docx": [819], "Jeremiah_ch_48.docx": [4609]}

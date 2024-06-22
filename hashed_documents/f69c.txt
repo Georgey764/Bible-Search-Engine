@@ -1,7 +1,3 @@
 
-isht	{"2 Samuel_ch_10.docx": [873, 1087, 1087, 1087]}
-molcho	{"1 Chronicles_ch_20.docx": [255]}
-isht	{"2 Samuel_ch_10.docx": [873, 1087, 1087]}
-molcho	{"1 Chronicles_ch_20.docx": [255]}
 isht	{"2 Samuel_ch_10.docx": [873, 1087]}
 molcho	{"1 Chronicles_ch_20.docx": [255]}

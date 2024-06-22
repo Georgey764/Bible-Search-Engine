@@ -1,4 +1,2 @@
 
-raha	{"Joshua_ch_2.docx": [192, 404, 404, 404], "Joshua_ch_6.docx": [1900, 2821, 3326, 1900, 2821, 3326, 1900, 2821, 3326], "Joshua_ch_19.docx": [2300, 2300, 2300], "Joshua_ch_21.docx": [3810, 3810, 3810], "Psalms_ch_87.docx": [268, 268, 268], "Matthew_ch_1.docx": [373, 373, 373], "Hebrews_ch_11.docx": [6009, 6009], "James_ch_2.docx": [3023, 3023]}
-raha	{"Joshua_ch_2.docx": [192, 404, 404], "Joshua_ch_6.docx": [1900, 2821, 3326, 1900, 2821, 3326], "Joshua_ch_19.docx": [2300, 2300], "Joshua_ch_21.docx": [3810, 3810], "Psalms_ch_87.docx": [268, 268], "Matthew_ch_1.docx": [373, 373], "Hebrews_ch_11.docx": [6009], "James_ch_2.docx": [3023]}
 raha	{"Joshua_ch_2.docx": [192, 404], "Joshua_ch_6.docx": [1900, 2821, 3326], "Joshua_ch_19.docx": [2300], "Joshua_ch_21.docx": [3810], "Psalms_ch_87.docx": [268], "Matthew_ch_1.docx": [373], "Hebrews_ch_11.docx": [6009], "James_ch_2.docx": [3023]}

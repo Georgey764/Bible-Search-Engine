@@ -1,6 +1,4 @@
 
-denna	{"Genesis_ch_36.docx": [3380], "1 Chronicles_ch_1.docx": [3638, 3638, 3638]}
-fact!	{"Romans_ch_11.docx": [2912], "Titus_ch_1.docx": [1717, 1717]}
-denna	{"Genesis_ch_36.docx": [3380], "1 Chronicles_ch_1.docx": [3638, 3638]}
 denna	{"Genesis_ch_36.docx": [3380], "1 Chronicles_ch_1.docx": [3638]}
+symm	{"Esther_ch_10.docx": [1845]}
 fact!	{"Romans_ch_11.docx": [2912], "Titus_ch_1.docx": [1717]}

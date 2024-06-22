@@ -1,4 +1,2 @@
 
-shell	{"Exodus_ch_30.docx": [4283], "Isaiah_ch_6.docx": [2289, 2289, 2289]}
-shell	{"Exodus_ch_30.docx": [4283], "Isaiah_ch_6.docx": [2289, 2289]}
 shell	{"Exodus_ch_30.docx": [4283], "Isaiah_ch_6.docx": [2289]}

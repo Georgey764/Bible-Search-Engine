@@ -1,2 +1,0 @@
-
-42t	{"Genesis_ch_27.docx": [5760], "Numbers_ch_4.docx": [5562], "Numbers_ch_26.docx": [4315], "Numbers_ch_33.docx": [3181], "Judges_ch_9.docx": [7877], "Judges_ch_20.docx": [6706], "1 Samuel_ch_14.docx": [6819], "1 Samuel_ch_25.docx": [6787], "1 Kings_ch_1.docx": [5934], "1 Kings_ch_2.docx": [7524], "1 Kings_ch_18.docx": [7056], "1 Kings_ch_20.docx": [7570], "1 Chronicles_ch_2.docx": [3769], "1 Chronicles_ch_16.docx": [4552], "Nehemiah_ch_7.docx": [2552], "Psalms_ch_78.docx": [4135], "Psalms_ch_107.docx": [3670], "Jeremiah_ch_32.docx": [7253]}

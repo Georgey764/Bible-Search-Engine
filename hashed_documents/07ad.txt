@@ -1,5 +1,2 @@
 
 mehol	{"1 Samuel_ch_18.docx": [3000]}
-52wel	{"Judges_ch_9.docx": [9409]}
-mehol	{"1 Samuel_ch_18.docx": [3000]}
-mehol	{"1 Samuel_ch_18.docx": [3000]}

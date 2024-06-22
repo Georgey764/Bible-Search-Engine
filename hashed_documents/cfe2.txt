@@ -1,4 +1,2 @@
 
-nash	{"Numbers_ch_2.docx": [386], "Matthew_ch_1.docx": [319, 344, 319, 344, 319, 344]}
-nash	{"Numbers_ch_2.docx": [386], "Matthew_ch_1.docx": [319, 344, 319, 344]}
-nash	{"Numbers_ch_2.docx": [386], "Matthew_ch_1.docx": [319, 344]}
+nash	{"Numbers_ch_2.docx": [386], "Ruth_ch_4.docx": [3630, 3659], "Matthew_ch_1.docx": [319, 344]}

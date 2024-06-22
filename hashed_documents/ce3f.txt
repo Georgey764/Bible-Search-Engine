@@ -1,5 +1,2 @@
 
-hoza	{"Joshua_ch_6.docx": [3745, 3750, 3756, 3750, 3756, 3750, 3756]}
-hoza	{"Joshua_ch_6.docx": [3745, 3750, 3756, 3750, 3756]}
-39thei	{"1 Chronicles_ch_4.docx": [4156]}
 hoza	{"Joshua_ch_6.docx": [3745, 3750, 3756]}

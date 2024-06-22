@@ -1,9 +1,3 @@
 
-heli	{"Genesis_ch_41.docx": [5727, 6587, 6587, 6587], "Genesis_ch_46.docx": [2291, 2291, 2291], "Luke_ch_3.docx": [6251, 6251]}
-rode	{"Judges_ch_12.docx": [2691], "2 Kings_ch_2.docx": [1472, 1472, 1472], "2 Kings_ch_9.docx": [2772, 3576, 4298, 5030, 5944, 2772, 3576, 4298, 5030, 5944, 2772, 3576, 4298, 5030, 5944], "2 Kings_ch_10.docx": [3139, 3139, 3139], "2 Kings_ch_19.docx": [3938, 3938, 3938], "2 Chronicles_ch_18.docx": [4444, 4655, 4444, 4655, 4444, 4655], "Nehemiah_ch_2.docx": [2140, 3327, 3333, 3342, 3362, 3384, 2140, 3327, 3333, 3342, 3362, 3384, 2140, 3327, 3333, 3342, 3362, 3384], "Ezekiel_ch_23.docx": [1891, 1891, 1891], "Mark_ch_11.docx": [1214, 1214]}
-heli	{"Genesis_ch_41.docx": [5727, 6587, 6587], "Genesis_ch_46.docx": [2291, 2291], "Luke_ch_3.docx": [6251]}
-rode	{"Judges_ch_12.docx": [2691], "2 Kings_ch_2.docx": [1472, 1472], "2 Kings_ch_9.docx": [2772, 3576, 4298, 5030, 5944, 2772, 3576, 4298, 5030, 5944], "2 Kings_ch_10.docx": [3139, 3139], "2 Kings_ch_19.docx": [3938, 3938], "2 Chronicles_ch_18.docx": [4444, 4655, 4444, 4655], "Nehemiah_ch_2.docx": [2140, 3327, 3333, 3342, 3362, 3384, 2140, 3327, 3333, 3342, 3362, 3384], "Ezekiel_ch_23.docx": [1891, 1891], "Mark_ch_11.docx": [1214]}
-7meanw	{"1 Samuel_ch_23.docx": [972], "2 Kings_ch_13.docx": [989], "Jeremiah_ch_40.docx": [1384]}
-12‘ar	{"2 Kings_ch_5.docx": [2081], "Ezra_ch_7.docx": [1462]}
 heli	{"Genesis_ch_41.docx": [5727, 6587], "Genesis_ch_46.docx": [2291], "Luke_ch_3.docx": [6251]}
 rode	{"Judges_ch_12.docx": [2691], "2 Kings_ch_2.docx": [1472], "2 Kings_ch_9.docx": [2772, 3576, 4298, 5030, 5944], "2 Kings_ch_10.docx": [3139], "2 Kings_ch_19.docx": [3938], "2 Chronicles_ch_18.docx": [4444, 4655], "Nehemiah_ch_2.docx": [2140, 3327, 3333, 3342, 3362, 3384], "Ezekiel_ch_23.docx": [1891], "Mark_ch_11.docx": [1214]}

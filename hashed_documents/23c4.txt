@@ -1,2 +1,0 @@
-
-12o	{"Psalms_ch_60.docx": [1490], "Psalms_ch_77.docx": [1138], "Psalms_ch_84.docx": [1307], "Psalms_ch_94.docx": [1005], "Proverbs_ch_9.docx": [1204], "Proverbs_ch_23.docx": [1001], "Isaiah_ch_3.docx": [1832], "Isaiah_ch_14.docx": [1877]}

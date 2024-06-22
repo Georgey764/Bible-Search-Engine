@@ -1,5 +1,2 @@
 
 plugg	{"Proverbs_ch_25.docx": [2531]}
-45will	{"Psalms_ch_18.docx": [4306]}
-plugg	{"Proverbs_ch_25.docx": [2531]}
-plugg	{"Proverbs_ch_25.docx": [2531]}

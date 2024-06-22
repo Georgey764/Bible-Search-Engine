@@ -1,2 +1,0 @@
-
-9there	{"Genesis_ch_12.docx": [1189], "Exodus_ch_5.docx": [1300], "1 Kings_ch_3.docx": [1357], "2 Kings_ch_17.docx": [1387], "2 Kings_ch_23.docx": [2304], "1 Chronicles_ch_12.docx": [1168], "2 Chronicles_ch_26.docx": [1124], "Psalms_ch_52.docx": [1034], "Daniel_ch_5.docx": [1415]}

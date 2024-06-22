@@ -1,6 +1,2 @@
 
 clod	{"Job_ch_7.docx": [595]}
-25wa	{"Numbers_ch_1.docx": [2280]}
-clod	{"Job_ch_7.docx": [595]}
-35you’	{"Psalms_ch_18.docx": [3351], "Proverbs_ch_23.docx": [3239]}
-clod	{"Job_ch_7.docx": [595]}

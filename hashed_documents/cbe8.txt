@@ -1,5 +1,2 @@
 
-carpen	{"Exodus_ch_31.docx": [305], "2 Samuel_ch_12.docx": [5116, 5116, 5116], "2 Kings_ch_12.docx": [1839, 1839, 1839], "1 Chronicles_ch_14.docx": [23, 23, 23], "1 Chronicles_ch_22.docx": [2637, 2637, 2637], "2 Chronicles_ch_24.docx": [1798, 1798, 1798], "Matthew_ch_13.docx": [7400, 7400, 7400], "Mark_ch_6.docx": [400, 400]}
-carpen	{"Exodus_ch_31.docx": [305], "2 Samuel_ch_12.docx": [5116, 5116], "2 Kings_ch_12.docx": [1839, 1839], "1 Chronicles_ch_14.docx": [23, 23], "1 Chronicles_ch_22.docx": [2637, 2637], "2 Chronicles_ch_24.docx": [1798, 1798], "Matthew_ch_13.docx": [7400, 7400], "Mark_ch_6.docx": [400]}
-24‘fr	{"Job_ch_20.docx": [2428], "Ezekiel_ch_23.docx": [3837]}
 carpen	{"Exodus_ch_31.docx": [305], "2 Samuel_ch_12.docx": [5116], "2 Kings_ch_12.docx": [1839], "1 Chronicles_ch_14.docx": [23], "1 Chronicles_ch_22.docx": [2637], "2 Chronicles_ch_24.docx": [1798], "Matthew_ch_13.docx": [7400], "Mark_ch_6.docx": [400]}

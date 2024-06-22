@@ -1,4 +1,2 @@
 
-frag	{"Exodus_ch_25.docx": [638], "Ruth_ch_3.docx": [217, 217, 217], "1 Chronicles_ch_9.docx": [4380, 4380, 4380], "Esther_ch_2.docx": [2437, 2437, 2437], "Song of Solomon_ch_1.docx": [424, 424, 424], "Song of Solomon_ch_2.docx": [489, 489, 489], "Zechariah_ch_9.docx": [3715, 3715, 3715]}
-frag	{"Exodus_ch_25.docx": [638], "Ruth_ch_3.docx": [217, 217], "1 Chronicles_ch_9.docx": [4380, 4380], "Esther_ch_2.docx": [2437, 2437], "Song of Solomon_ch_1.docx": [424, 424], "Song of Solomon_ch_2.docx": [489, 489], "Zechariah_ch_9.docx": [3715, 3715]}
-frag	{"Exodus_ch_25.docx": [638], "Ruth_ch_3.docx": [217], "1 Chronicles_ch_9.docx": [4380], "Esther_ch_2.docx": [2437], "Song of Solomon_ch_1.docx": [424], "Song of Solomon_ch_2.docx": [489], "Zechariah_ch_9.docx": [3715]}
+frag	{"Exodus_ch_25.docx": [638], "Ruth_ch_3.docx": [217], "1 Chronicles_ch_9.docx": [4380], "Esther_ch_2.docx": [2437], "Esther_ch_10.docx": [2559, 4564], "Song of Solomon_ch_1.docx": [424], "Song of Solomon_ch_2.docx": [489], "Zechariah_ch_9.docx": [3715]}

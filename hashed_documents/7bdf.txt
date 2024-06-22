@@ -1,4 +1,2 @@
 
-ice	{"Job_ch_6.docx": [1708], "Job_ch_37.docx": [936, 936, 936], "Job_ch_38.docx": [2684, 2684, 2684], "Psalms_ch_147.docx": [1518, 1518, 1518], "Ezekiel_ch_1.docx": [3043, 3043, 3043]}
-ice	{"Job_ch_6.docx": [1708], "Job_ch_37.docx": [936, 936], "Job_ch_38.docx": [2684, 2684], "Psalms_ch_147.docx": [1518, 1518], "Ezekiel_ch_1.docx": [3043, 3043]}
-ice	{"Job_ch_6.docx": [1708], "Job_ch_37.docx": [936], "Job_ch_38.docx": [2684], "Psalms_ch_147.docx": [1518], "Ezekiel_ch_1.docx": [3043]}
+ice	{"Job_ch_6.docx": [1708], "Job_ch_37.docx": [936], "Job_ch_38.docx": [2684], "Psalms_ch_147.docx": [1518], "Ezekiel_ch_1.docx": [3043], "Zechariah_ch_14.docx": [1120]}

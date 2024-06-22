@@ -1,4 +1,2 @@
 
-englis	{"Job_ch_42.docx": [3456], "Ezekiel_ch_41.docx": [521], "John_ch_1.docx": [4596, 4596]}
-englis	{"Ezekiel_ch_41.docx": [521], "John_ch_1.docx": [4596]}
-englis	{"Ezekiel_ch_41.docx": [521], "John_ch_1.docx": [4596]}
+englis	{"Ezra_ch_10.docx": [6575], "Job_ch_42.docx": [3456], "Lamentations_ch_5.docx": [2447], "Ezekiel_ch_41.docx": [521], "Ezekiel_ch_48.docx": [8067], "John_ch_1.docx": [4596]}

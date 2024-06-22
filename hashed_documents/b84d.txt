@@ -1,4 +1,2 @@
 
 choir	{"Psalms_ch_136.docx": [73]}
-choir	{"Psalms_ch_136.docx": [73]}
-choir	{"Psalms_ch_136.docx": [73]}

@@ -1,3 +1,0 @@
-
-126it’	{"Psalms_ch_119.docx": [10534]}
-28do	{"Proverbs_ch_3.docx": [2621], "Proverbs_ch_24.docx": [2680]}

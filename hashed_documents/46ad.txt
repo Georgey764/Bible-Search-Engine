@@ -1,2 +1,2 @@
 
-21‘may	{"2 Samuel_ch_1.docx": [2775]}
+co-ru	{"2 Samuel_ch_24.docx": [5627], "1 Kings_ch_22.docx": [9424]}

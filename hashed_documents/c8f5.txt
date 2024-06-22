@@ -1,5 +1,2 @@
 
-right;	{"Genesis_ch_13.docx": [1023], "Ezekiel_ch_33.docx": [3471, 3471, 3471]}
-right;	{"Genesis_ch_13.docx": [1023], "Ezekiel_ch_33.docx": [3471, 3471]}
-16‘why	{"Isaiah_ch_1.docx": [2688]}
 right;	{"Genesis_ch_13.docx": [1023], "Ezekiel_ch_33.docx": [3471]}

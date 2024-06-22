@@ -1,8 +1,3 @@
 
-allows	{"Exodus_ch_21.docx": [1545], "Leviticus_ch_11.docx": [4539, 4539, 4539], "Deuteronomy_ch_21.docx": [1359, 1359, 1359], "Psalms_ch_147.docx": [1195, 1195, 1195], "Romans_ch_3.docx": [3140, 3140], "Hebrews_ch_6.docx": [382, 382], "Hebrews_ch_12.docx": [5244, 5244]}
-jethi	{"2 Samuel_ch_23.docx": [5057]}
-allows	{"Exodus_ch_21.docx": [1545], "Leviticus_ch_11.docx": [4539, 4539], "Deuteronomy_ch_21.docx": [1359, 1359], "Psalms_ch_147.docx": [1195, 1195], "Romans_ch_3.docx": [3140], "Hebrews_ch_6.docx": [382], "Hebrews_ch_12.docx": [5244]}
-4,200	{"Exodus_ch_38.docx": [3663]}
-jethi	{"2 Samuel_ch_23.docx": [5057]}
-allows	{"Exodus_ch_21.docx": [1545], "Leviticus_ch_11.docx": [4539], "Deuteronomy_ch_21.docx": [1359], "Psalms_ch_147.docx": [1195], "Romans_ch_3.docx": [3140], "Hebrews_ch_6.docx": [382], "Hebrews_ch_12.docx": [5244]}
+allows	{"Exodus_ch_21.docx": [1545], "Leviticus_ch_11.docx": [4539], "Deuteronomy_ch_21.docx": [1359], "Psalms_ch_147.docx": [1195], "Romans_ch_3.docx": [3140], "1 Corinthians_ch_16.docx": [1406], "Hebrews_ch_6.docx": [382], "Hebrews_ch_12.docx": [5244]}
 jethi	{"2 Samuel_ch_23.docx": [5057]}

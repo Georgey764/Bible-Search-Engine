@@ -1,4 +1,2 @@
 
-fros	{"Genesis_ch_31.docx": [5453], "Exodus_ch_16.docx": [2203, 2203, 2203], "Numbers_ch_11.docx": [838, 838, 838], "Job_ch_38.docx": [2287, 2731, 2287, 2731, 2287, 2731], "Psalms_ch_78.docx": [4613, 4613, 4613], "Psalms_ch_119.docx": [6833, 6833, 6833]}
-fros	{"Genesis_ch_31.docx": [5453], "Exodus_ch_16.docx": [2203, 2203], "Numbers_ch_11.docx": [838, 838], "Job_ch_38.docx": [2287, 2731, 2287, 2731], "Psalms_ch_78.docx": [4613, 4613], "Psalms_ch_119.docx": [6833, 6833]}
-fros	{"Genesis_ch_31.docx": [5453], "Exodus_ch_16.docx": [2203], "Numbers_ch_11.docx": [838], "Job_ch_38.docx": [2287, 2731], "Psalms_ch_78.docx": [4613], "Psalms_ch_119.docx": [6833]}
+fros	{"Genesis_ch_31.docx": [5453], "Exodus_ch_16.docx": [2203], "Numbers_ch_11.docx": [838], "Job_ch_38.docx": [2287, 2731], "Psalms_ch_78.docx": [4613], "Psalms_ch_119.docx": [6833], "Nahum_ch_3.docx": [3429]}

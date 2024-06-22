@@ -1,4 +1,2 @@
 
-bodyg	{"1 Kings_ch_14.docx": [4897, 4917, 4917, 4917], "2 Kings_ch_11.docx": [1520, 3186, 1520, 3186, 1520, 3186], "Esther_ch_2.docx": [3989, 3989, 3989], "Mark_ch_6.docx": [3875, 3875]}
-bodyg	{"1 Kings_ch_14.docx": [4897, 4917, 4917], "2 Kings_ch_11.docx": [1520, 3186, 1520, 3186], "Esther_ch_2.docx": [3989, 3989], "Mark_ch_6.docx": [3875]}
-bodyg	{"1 Kings_ch_14.docx": [4897, 4917], "2 Kings_ch_11.docx": [1520, 3186], "Esther_ch_2.docx": [3989], "Mark_ch_6.docx": [3875]}
+bodyg	{"1 Kings_ch_14.docx": [4897, 4917], "2 Kings_ch_11.docx": [1520, 3186], "2 Kings_ch_25.docx": [2490], "Esther_ch_2.docx": [3989], "Mark_ch_6.docx": [3875]}

@@ -1,4 +1,2 @@
 
-trenc	{"Nehemiah_ch_4.docx": [1929], "Ezekiel_ch_26.docx": [1338, 1338, 1338]}
-trenc	{"Nehemiah_ch_4.docx": [1929], "Ezekiel_ch_26.docx": [1338, 1338]}
 trenc	{"Nehemiah_ch_4.docx": [1929], "Ezekiel_ch_26.docx": [1338]}

@@ -1,5 +1,2 @@
 
 sanir	{"Deuteronomy_ch_3.docx": [1042]}
-sanir	{"Deuteronomy_ch_3.docx": [1042]}
-25,0	{"Judges_ch_20.docx": [5478, 8336], "Ezekiel_ch_45.docx": [151, 428, 836, 1041]}
-sanir	{"Deuteronomy_ch_3.docx": [1042]}

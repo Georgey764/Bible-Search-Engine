@@ -1,5 +1,2 @@
 
-dod	{"Joshua_ch_19.docx": [2778], "1 Chronicles_ch_11.docx": [2074, 5182, 2074, 5182, 2074, 5182], "1 Chronicles_ch_27.docx": [524, 524, 524], "2 Chronicles_ch_20.docx": [6007, 6007, 6007]}
-dod	{"Joshua_ch_19.docx": [2778], "1 Chronicles_ch_11.docx": [2074, 5182, 2074, 5182], "1 Chronicles_ch_27.docx": [524, 524], "2 Chronicles_ch_20.docx": [6007, 6007]}
-34same	{"1 Chronicles_ch_7.docx": [4088]}
 dod	{"Joshua_ch_19.docx": [2778], "1 Chronicles_ch_11.docx": [2074, 5182], "1 Chronicles_ch_27.docx": [524], "2 Chronicles_ch_20.docx": [6007]}

@@ -1,4 +1,2 @@
 
-comply	{"Job_ch_11.docx": [1878], "Proverbs_ch_10.docx": [830, 830, 830]}
-comply	{"Job_ch_11.docx": [1878], "Proverbs_ch_10.docx": [830, 830]}
 comply	{"Job_ch_11.docx": [1878], "Proverbs_ch_10.docx": [830]}

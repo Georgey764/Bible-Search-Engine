@@ -1,3 +1,2 @@
 
-stoni	{"John_ch_10.docx": [3469], "Acts_ch_7.docx": [8447, 8756, 8447, 8756]}
 stoni	{"John_ch_10.docx": [3469], "Acts_ch_7.docx": [8447, 8756]}

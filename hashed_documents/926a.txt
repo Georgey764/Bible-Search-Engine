@@ -1,4 +1,2 @@
 
-decapo	{"Matthew_ch_4.docx": [3208], "Mark_ch_5.docx": [2271, 2271]}
-decapo	{"Matthew_ch_4.docx": [3208], "Mark_ch_5.docx": [2271]}
 decapo	{"Matthew_ch_4.docx": [3208], "Mark_ch_5.docx": [2271]}

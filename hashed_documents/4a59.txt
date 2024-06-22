@@ -1,5 +1,2 @@
 
-likene	{"Psalms_ch_89.docx": [639], "Jeremiah_ch_49.docx": [3599, 3599, 3599], "Ezekiel_ch_1.docx": [4123, 4123, 4123], "Luke_ch_13.docx": [2471, 2471], "2 Corinthians_ch_3.docx": [2421, 2421], "Philippians_ch_3.docx": [3122, 3122]}
-5‘n	{"Genesis_ch_48.docx": [624], "Exodus_ch_6.docx": [511], "Deuteronomy_ch_15.docx": [531], "Joshua_ch_1.docx": [464], "1 Kings_ch_2.docx": [736], "2 Chronicles_ch_2.docx": [807], "Job_ch_19.docx": [424], "Job_ch_34.docx": [279], "Jeremiah_ch_9.docx": [795], "Joel_ch_1.docx": [623], "Micah_ch_2.docx": [949], "Zechariah_ch_1.docx": [738]}
-likene	{"Psalms_ch_89.docx": [639], "Jeremiah_ch_49.docx": [3599, 3599], "Ezekiel_ch_1.docx": [4123, 4123], "Luke_ch_13.docx": [2471], "2 Corinthians_ch_3.docx": [2421], "Philippians_ch_3.docx": [3122]}
 likene	{"Psalms_ch_89.docx": [639], "Jeremiah_ch_49.docx": [3599], "Ezekiel_ch_1.docx": [4123], "Luke_ch_13.docx": [2471], "2 Corinthians_ch_3.docx": [2421], "Philippians_ch_3.docx": [3122]}

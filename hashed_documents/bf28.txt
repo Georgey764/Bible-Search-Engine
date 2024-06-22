@@ -1,4 +1,2 @@
 
-capabl	{"Genesis_ch_47.docx": [682], "Exodus_ch_4.docx": [1936, 1936, 1936], "Exodus_ch_18.docx": [2859, 3443, 2859, 3443, 2859, 3443], "Judges_ch_20.docx": [1897, 1897, 1897], "1 Samuel_ch_18.docx": [2205, 2205, 2205], "Luke_ch_14.docx": [4242, 4242]}
-capabl	{"Genesis_ch_47.docx": [682], "Exodus_ch_4.docx": [1936, 1936], "Exodus_ch_18.docx": [2859, 3443, 2859, 3443], "Judges_ch_20.docx": [1897, 1897], "1 Samuel_ch_18.docx": [2205, 2205], "Luke_ch_14.docx": [4242]}
 capabl	{"Genesis_ch_47.docx": [682], "Exodus_ch_4.docx": [1936], "Exodus_ch_18.docx": [2859, 3443], "Judges_ch_20.docx": [1897], "1 Samuel_ch_18.docx": [2205], "Luke_ch_14.docx": [4242]}

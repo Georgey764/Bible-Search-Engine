@@ -1,4 +1,2 @@
 
-jek	{"Genesis_ch_10.docx": [2704, 2915, 3088, 3088, 2915, 3088], "Joshua_ch_19.docx": [817, 817, 817], "1 Chronicles_ch_2.docx": [3945, 3946, 3945, 3946, 3945, 3946], "1 Chronicles_ch_3.docx": [1569, 1569, 1569], "1 Chronicles_ch_6.docx": [5763, 5763, 5763], "1 Chronicles_ch_23.docx": [2042, 2042, 2042], "1 Chronicles_ch_24.docx": [2532, 2532, 2532]}
-jek	{"Genesis_ch_10.docx": [2704, 3088, 2915, 3088], "Joshua_ch_19.docx": [817, 817], "1 Chronicles_ch_2.docx": [3945, 3946, 3945, 3946], "1 Chronicles_ch_3.docx": [1569, 1569], "1 Chronicles_ch_6.docx": [5763, 5763], "1 Chronicles_ch_23.docx": [2042, 2042], "1 Chronicles_ch_24.docx": [2532, 2532]}
 jek	{"Genesis_ch_10.docx": [2704, 2915, 3088], "Joshua_ch_19.docx": [817], "1 Chronicles_ch_2.docx": [3945, 3946], "1 Chronicles_ch_3.docx": [1569], "1 Chronicles_ch_6.docx": [5763], "1 Chronicles_ch_23.docx": [2042], "1 Chronicles_ch_24.docx": [2532]}

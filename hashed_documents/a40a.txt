@@ -1,4 +1,2 @@
 
 real;	{"1 Corinthians_ch_8.docx": [368]}
-21thi	{"Exodus_ch_38.docx": [2459], "Job_ch_18.docx": [1769], "Lamentations_ch_3.docx": [1648]}
-real;	{"1 Corinthians_ch_8.docx": [368]}

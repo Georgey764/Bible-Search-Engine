@@ -1,4 +1,2 @@
 
-sticki	{"2 Chronicles_ch_5.docx": [1236], "Psalms_ch_25.docx": [1893, 1893, 1893], "Daniel_ch_7.docx": [697, 697, 697]}
-sticki	{"2 Chronicles_ch_5.docx": [1236], "Psalms_ch_25.docx": [1893, 1893], "Daniel_ch_7.docx": [697, 697]}
 sticki	{"2 Chronicles_ch_5.docx": [1236], "Psalms_ch_25.docx": [1893], "Daniel_ch_7.docx": [697]}

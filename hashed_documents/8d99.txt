@@ -1,4 +1,2 @@
 
-joy;	{"Psalms_ch_68.docx": [311], "Ecclesiastes_ch_2.docx": [1426, 1426, 1426], "Jeremiah_ch_48.docx": [4334, 4334, 4334], "Matthew_ch_5.docx": [976, 976, 976]}
-joy;	{"Psalms_ch_68.docx": [311], "Ecclesiastes_ch_2.docx": [1426, 1426], "Jeremiah_ch_48.docx": [4334, 4334], "Matthew_ch_5.docx": [976, 976]}
 joy;	{"Psalms_ch_68.docx": [311], "Ecclesiastes_ch_2.docx": [1426], "Jeremiah_ch_48.docx": [4334], "Matthew_ch_5.docx": [976]}

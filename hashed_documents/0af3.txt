@@ -1,7 +1,3 @@
 
 ozia	{"1 Chronicles_ch_15.docx": [2416]}
-ailm	{"Jeremiah_ch_30.docx": [2909], "Matthew_ch_4.docx": [2991, 2991, 2991]}
-ozia	{"1 Chronicles_ch_15.docx": [2416]}
-ailm	{"Jeremiah_ch_30.docx": [2909], "Matthew_ch_4.docx": [2991, 2991]}
-ozia	{"1 Chronicles_ch_15.docx": [2416]}
 ailm	{"Jeremiah_ch_30.docx": [2909], "Matthew_ch_4.docx": [2991]}

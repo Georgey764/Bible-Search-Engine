@@ -1,4 +1,2 @@
 
-bozrah	{"1 Chronicles_ch_1.docx": [3705], "Isaiah_ch_34.docx": [778, 778, 778], "Isaiah_ch_63.docx": [58, 58, 58], "Jeremiah_ch_48.docx": [3030, 3030, 3030]}
-bozrah	{"1 Chronicles_ch_1.docx": [3705], "Isaiah_ch_34.docx": [778, 778], "Isaiah_ch_63.docx": [58, 58], "Jeremiah_ch_48.docx": [3030, 3030]}
 bozrah	{"1 Chronicles_ch_1.docx": [3705], "Isaiah_ch_34.docx": [778], "Isaiah_ch_63.docx": [58], "Jeremiah_ch_48.docx": [3030]}

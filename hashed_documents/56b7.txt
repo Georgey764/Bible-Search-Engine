@@ -1,2 +1,0 @@
-
-2.8	{"Exodus_ch_29.docx": [5315], "Numbers_ch_15.docx": [941, 952], "Numbers_ch_28.docx": [552, 1590, 2778, 3615], "Numbers_ch_29.docx": [417, 1259, 2152]}

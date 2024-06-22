@@ -1,5 +1,2 @@
 
-lenti	{"Genesis_ch_25.docx": [3746], "2 Samuel_ch_17.docx": [4602, 4602, 4602], "2 Samuel_ch_23.docx": [1936, 1936, 1936], "1 Chronicles_ch_11.docx": [2585, 2585, 2585], "Ezekiel_ch_4.docx": [1385, 1385, 1385]}
-lenti	{"Genesis_ch_25.docx": [3746], "2 Samuel_ch_17.docx": [4602, 4602], "2 Samuel_ch_23.docx": [1936, 1936], "1 Chronicles_ch_11.docx": [2585, 2585], "Ezekiel_ch_4.docx": [1385, 1385]}
-2ra	{"Genesis_ch_28.docx": [92], "2 Samuel_ch_19.docx": [22], "Psalms_ch_134.docx": [244]}
 lenti	{"Genesis_ch_25.docx": [3746], "2 Samuel_ch_17.docx": [4602], "2 Samuel_ch_23.docx": [1936], "1 Chronicles_ch_11.docx": [2585], "Ezekiel_ch_4.docx": [1385]}

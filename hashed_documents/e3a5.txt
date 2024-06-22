@@ -1,7 +1,3 @@
 
 ~20in	{"Genesis_ch_6.docx": [2085]}
 manach	{"Genesis_ch_36.docx": [2605]}
-~20in	{"Genesis_ch_6.docx": [2085]}
-manach	{"Genesis_ch_36.docx": [2605]}
-~20in	{"Genesis_ch_6.docx": [2085]}
-manach	{"Genesis_ch_36.docx": [2605]}

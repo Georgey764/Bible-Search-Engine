@@ -1,3 +1,0 @@
-
-6‘you	{"Exodus_ch_10.docx": [963], "Exodus_ch_13.docx": [800], "Exodus_ch_27.docx": [598], "Deuteronomy_ch_14.docx": [516], "Deuteronomy_ch_24.docx": [917], "Zechariah_ch_1.docx": [837], "Matthew_ch_24.docx": [679]}
-7‘if	{"Exodus_ch_22.docx": [1146], "Leviticus_ch_3.docx": [976], "Deuteronomy_ch_15.docx": [847], "Job_ch_41.docx": [532], "Isaiah_ch_46.docx": [925]}

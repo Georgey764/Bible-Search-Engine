@@ -1,3 +1,2 @@
 
 sink!	{"Luke_ch_5.docx": [812]}
-sink!	{"Luke_ch_5.docx": [812]}

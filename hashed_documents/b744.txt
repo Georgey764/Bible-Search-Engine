@@ -1,11 +1,4 @@
 
-murmur	{"Numbers_ch_11.docx": [10], "Luke_ch_15.docx": [31, 31]}
-salisa	{"1 Chronicles_ch_7.docx": [4375]}
-oath-	{"Acts_ch_23.docx": [2211]}
-murmur	{"Numbers_ch_11.docx": [10], "Luke_ch_15.docx": [31]}
-8‘at	{"Deuteronomy_ch_3.docx": [1000], "Deuteronomy_ch_12.docx": [1226]}
-salisa	{"1 Chronicles_ch_7.docx": [4375]}
-4li	{"Psalms_ch_102.docx": [395]}
 murmur	{"Numbers_ch_11.docx": [10], "Luke_ch_15.docx": [31]}
 salisa	{"1 Chronicles_ch_7.docx": [4375]}
 oath-	{"Acts_ch_23.docx": [2211]}

@@ -1,4 +1,2 @@
 
-begui	{"Proverbs_ch_6.docx": [2670], "Jeremiah_ch_49.docx": [1381, 1381, 1381]}
-begui	{"Proverbs_ch_6.docx": [2670], "Jeremiah_ch_49.docx": [1381, 1381]}
 begui	{"Proverbs_ch_6.docx": [2670], "Jeremiah_ch_49.docx": [1381]}

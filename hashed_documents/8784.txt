@@ -1,5 +1,2 @@
 
-levi’s	{"1 Chronicles_ch_23.docx": [726], "1 Chronicles_ch_24.docx": [2186, 2186, 2186], "Mark_ch_2.docx": [1822, 1822], "Hebrews_ch_7.docx": [1638, 1638]}
-27bec	{"Leviticus_ch_18.docx": [3315], "Deuteronomy_ch_22.docx": [3730]}
-levi’s	{"1 Chronicles_ch_23.docx": [726], "1 Chronicles_ch_24.docx": [2186, 2186], "Mark_ch_2.docx": [1822], "Hebrews_ch_7.docx": [1638]}
 levi’s	{"1 Chronicles_ch_23.docx": [726], "1 Chronicles_ch_24.docx": [2186], "Mark_ch_2.docx": [1822], "Hebrews_ch_7.docx": [1638]}

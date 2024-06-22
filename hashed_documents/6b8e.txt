@@ -1,3 +1,2 @@
 
-quir	{"Luke_ch_2.docx": [28, 40, 53, 40, 53]}
 quir	{"Luke_ch_2.docx": [28, 40, 53]}

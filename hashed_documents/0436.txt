@@ -1,4 +1,2 @@
 
-house]	{"Matthew_ch_8.docx": [647, 1692, 1692, 1692]}
-house]	{"Matthew_ch_8.docx": [647, 1692, 1692]}
 house]	{"Matthew_ch_8.docx": [647, 1692]}

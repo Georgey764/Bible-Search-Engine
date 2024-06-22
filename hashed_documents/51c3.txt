@@ -1,4 +1,2 @@
 
-equals	{"Ezekiel_ch_45.docx": [2738], "2 Corinthians_ch_11.docx": [1726, 1726]}
-equals	{"Ezekiel_ch_45.docx": [2738], "2 Corinthians_ch_11.docx": [1726]}
 equals	{"Ezekiel_ch_45.docx": [2738], "2 Corinthians_ch_11.docx": [1726]}

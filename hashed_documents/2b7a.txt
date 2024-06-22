@@ -1,2 +1,2 @@
 
-12int	{"Proverbs_ch_19.docx": [1036]}
+uga	{"Esther_ch_10.docx": [1250]}

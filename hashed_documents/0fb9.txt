@@ -1,0 +1,2 @@
+
+reads	{"Esther_ch_10.docx": [2841]}

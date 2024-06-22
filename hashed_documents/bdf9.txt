@@ -1,6 +1,2 @@
 
-mishae	{"Nehemiah_ch_8.docx": [1411], "Daniel_ch_1.docx": [873, 885, 1834, 2778, 873, 885, 1834, 2778, 873, 885, 1834, 2778], "Daniel_ch_2.docx": [2568, 2568, 2568]}
-mishae	{"Nehemiah_ch_8.docx": [1411], "Daniel_ch_1.docx": [873, 885, 1834, 2778, 873, 885, 1834, 2778], "Daniel_ch_2.docx": [2568, 2568]}
-3[go	{"Psalms_ch_89.docx": [309]}
-58w	{"Psalms_ch_119.docx": [4615]}
 mishae	{"Nehemiah_ch_8.docx": [1411], "Daniel_ch_1.docx": [873, 885, 1834, 2778], "Daniel_ch_2.docx": [2568]}

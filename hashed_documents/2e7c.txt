@@ -1,2 +1,0 @@
-
-2all	{"Psalms_ch_56.docx": [269], "Psalms_ch_135.docx": [99], "Psalms_ch_148.docx": [156], "Proverbs_ch_21.docx": [170]}

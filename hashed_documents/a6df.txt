@@ -1,4 +1,2 @@
 
-angai	{"Isaiah_ch_10.docx": [4255, 4374, 4374, 4374]}
-angai	{"Isaiah_ch_10.docx": [4255, 4374, 4374]}
 angai	{"Isaiah_ch_10.docx": [4255, 4374]}

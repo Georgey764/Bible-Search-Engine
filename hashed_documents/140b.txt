@@ -1,7 +1,3 @@
 
 asad	{"1 Chronicles_ch_3.docx": [1816]}
 sekij	{"1 Chronicles_ch_8.docx": [664]}
-asad	{"1 Chronicles_ch_3.docx": [1816]}
-sekij	{"1 Chronicles_ch_8.docx": [664]}
-asad	{"1 Chronicles_ch_3.docx": [1816]}
-sekij	{"1 Chronicles_ch_8.docx": [664]}

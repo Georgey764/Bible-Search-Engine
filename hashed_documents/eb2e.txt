@@ -1,5 +1,2 @@
 
-rolls	{"Leviticus_ch_6.docx": [2781], "Proverbs_ch_26.docx": [1216, 1216, 1216], "Ezekiel_ch_27.docx": [2257, 2257, 2257], "Micah_ch_1.docx": [1716, 1716, 1716]}
-rolls	{"Leviticus_ch_6.docx": [2781], "Proverbs_ch_26.docx": [1216, 1216], "Ezekiel_ch_27.docx": [2257, 2257], "Micah_ch_1.docx": [1716, 1716]}
-30‘onl	{"Jeremiah_ch_32.docx": [5140]}
 rolls	{"Leviticus_ch_6.docx": [2781], "Proverbs_ch_26.docx": [1216], "Ezekiel_ch_27.docx": [2257], "Micah_ch_1.docx": [1716]}

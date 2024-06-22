@@ -1,7 +1,3 @@
 
-besai	{"Ezra_ch_2.docx": [1988], "Nehemiah_ch_7.docx": [3022, 3022, 3022]}
-buba	{"Ezekiel_ch_30.docx": [2466]}
-besai	{"Ezra_ch_2.docx": [1988], "Nehemiah_ch_7.docx": [3022, 3022]}
-buba	{"Ezekiel_ch_30.docx": [2466]}
 besai	{"Ezra_ch_2.docx": [1988], "Nehemiah_ch_7.docx": [3022]}
 buba	{"Ezekiel_ch_30.docx": [2466]}

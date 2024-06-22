@@ -1,4 +1,2 @@
 
-topp	{"Exodus_ch_25.docx": [3523], "1 Kings_ch_7.docx": [2848, 2848, 2848], "Isaiah_ch_24.docx": [3176, 3176, 3176], "Revelation_ch_11.docx": [2037, 2037]}
-topp	{"Exodus_ch_25.docx": [3523], "1 Kings_ch_7.docx": [2848, 2848], "Isaiah_ch_24.docx": [3176, 3176], "Revelation_ch_11.docx": [2037]}
 topp	{"Exodus_ch_25.docx": [3523], "1 Kings_ch_7.docx": [2848], "Isaiah_ch_24.docx": [3176], "Revelation_ch_11.docx": [2037]}

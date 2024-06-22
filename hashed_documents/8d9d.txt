@@ -1,5 +1,2 @@
 
-achio	{"Numbers_ch_34.docx": [2514], "1 Chronicles_ch_26.docx": [833, 833, 833]}
-achio	{"Numbers_ch_34.docx": [2514], "1 Chronicles_ch_26.docx": [833, 833]}
-4each	{"1 Chronicles_ch_7.docx": [522]}
 achio	{"Numbers_ch_34.docx": [2514], "1 Chronicles_ch_26.docx": [833]}

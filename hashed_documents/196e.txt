@@ -1,4 +1,2 @@
 
-lifti	{"Psalms_ch_30.docx": [79], "Isaiah_ch_49.docx": [4731, 4731, 4731]}
-lifti	{"Psalms_ch_30.docx": [79], "Isaiah_ch_49.docx": [4731, 4731]}
 lifti	{"Psalms_ch_30.docx": [79], "Isaiah_ch_49.docx": [4731]}

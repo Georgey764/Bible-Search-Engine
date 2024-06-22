@@ -1,4 +1,2 @@
 
-outho	{"Jeremiah_ch_37.docx": [2166], "Jeremiah_ch_38.docx": [1015, 1621, 1015, 1621, 1015, 1621]}
-outho	{"Jeremiah_ch_37.docx": [2166], "Jeremiah_ch_38.docx": [1015, 1621, 1015, 1621]}
 outho	{"Jeremiah_ch_37.docx": [2166], "Jeremiah_ch_38.docx": [1015, 1621]}

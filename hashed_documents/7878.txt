@@ -1,7 +1,3 @@
 
-orch	{"1 Chronicles_ch_15.docx": [2990], "1 Chronicles_ch_16.docx": [420, 420, 420], "1 Chronicles_ch_25.docx": [24, 24, 24]}
-scalp	{"Jeremiah_ch_48.docx": [6369]}
-orch	{"1 Chronicles_ch_15.docx": [2990], "1 Chronicles_ch_16.docx": [420, 420], "1 Chronicles_ch_25.docx": [24, 24]}
-scalp	{"Jeremiah_ch_48.docx": [6369]}
 orch	{"1 Chronicles_ch_15.docx": [2990], "1 Chronicles_ch_16.docx": [420], "1 Chronicles_ch_25.docx": [24]}
 scalp	{"Jeremiah_ch_48.docx": [6369]}

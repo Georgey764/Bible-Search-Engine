@@ -1,5 +1,2 @@
 
-phadi	{"1 Chronicles_ch_3.docx": [1544], "1 Chronicles_ch_27.docx": [2693, 2693, 2693]}
-phadi	{"1 Chronicles_ch_3.docx": [1544], "1 Chronicles_ch_27.docx": [2693, 2693]}
-7what	{"Proverbs_ch_14.docx": [578]}
 phadi	{"1 Chronicles_ch_3.docx": [1544], "1 Chronicles_ch_27.docx": [2693]}

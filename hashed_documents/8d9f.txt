@@ -1,4 +1,2 @@
 
-arvad	{"1 Chronicles_ch_1.docx": [1259], "Ezekiel_ch_27.docx": [930, 1358, 930, 1358, 930, 1358]}
-arvad	{"1 Chronicles_ch_1.docx": [1259], "Ezekiel_ch_27.docx": [930, 1358, 930, 1358]}
 arvad	{"1 Chronicles_ch_1.docx": [1259], "Ezekiel_ch_27.docx": [930, 1358]}

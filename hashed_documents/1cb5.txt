@@ -1,4 +1,2 @@
 
-raab	{"2 Samuel_ch_8.docx": [398, 1987, 1987, 1987], "1 Chronicles_ch_24.docx": [2315, 2315, 2315]}
-raab	{"2 Samuel_ch_8.docx": [398, 1987, 1987], "1 Chronicles_ch_24.docx": [2315, 2315]}
 raab	{"2 Samuel_ch_8.docx": [398, 1987], "1 Chronicles_ch_24.docx": [2315]}

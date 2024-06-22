@@ -1,4 +1,2 @@
 
-asir	{"Exodus_ch_6.docx": [3042], "1 Chronicles_ch_3.docx": [1504, 1504, 1504]}
-asir	{"Exodus_ch_6.docx": [3042], "1 Chronicles_ch_3.docx": [1504, 1504]}
 asir	{"Exodus_ch_6.docx": [3042], "1 Chronicles_ch_3.docx": [1504]}

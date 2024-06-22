@@ -1,4 +1,2 @@
 
-grooms	{"Jeremiah_ch_7.docx": [5942], "Jeremiah_ch_16.docx": [1528, 1528, 1528], "Jeremiah_ch_25.docx": [1748, 1748, 1748], "Jeremiah_ch_33.docx": [1854, 1854, 1854], "Joel_ch_2.docx": [2848, 2848, 2848], "Revelation_ch_18.docx": [4268, 4268]}
-grooms	{"Jeremiah_ch_7.docx": [5942], "Jeremiah_ch_16.docx": [1528, 1528], "Jeremiah_ch_25.docx": [1748, 1748], "Jeremiah_ch_33.docx": [1854, 1854], "Joel_ch_2.docx": [2848, 2848], "Revelation_ch_18.docx": [4268]}
 grooms	{"Jeremiah_ch_7.docx": [5942], "Jeremiah_ch_16.docx": [1528], "Jeremiah_ch_25.docx": [1748], "Jeremiah_ch_33.docx": [1854], "Joel_ch_2.docx": [2848], "Revelation_ch_18.docx": [4268]}

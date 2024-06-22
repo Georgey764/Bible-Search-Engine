@@ -1,4 +1,2 @@
 
-creato	{"Isaiah_ch_22.docx": [1593], "1 Peter_ch_4.docx": [2786, 2786]}
-creato	{"Isaiah_ch_22.docx": [1593], "1 Peter_ch_4.docx": [2786]}
-creato	{"Isaiah_ch_22.docx": [1593], "1 Peter_ch_4.docx": [2786]}
+creato	{"Ecclesiastes_ch_12.docx": [8], "Isaiah_ch_22.docx": [1593], "1 Peter_ch_4.docx": [2786]}

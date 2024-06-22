@@ -1,3 +1,0 @@
-
-35h	{"Genesis_ch_30.docx": [4213], "Exodus_ch_36.docx": [4014], "Deuteronomy_ch_2.docx": [4780], "2 Kings_ch_9.docx": [6768], "2 Kings_ch_15.docx": [5098], "2 Chronicles_ch_20.docx": [5975]}
-7[from	{"Numbers_ch_1.docx": [759]}

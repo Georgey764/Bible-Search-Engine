@@ -1,4 +1,2 @@
 
-brill	{"Acts_ch_22.docx": [2807, 2831, 2856, 2831, 2856]}
-20,20	{"1 Chronicles_ch_7.docx": [1204]}
 brill	{"Acts_ch_22.docx": [2807, 2831, 2856]}

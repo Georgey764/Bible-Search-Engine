@@ -1,2 +1,2 @@
 
-1ama	{"2 Chronicles_ch_25.docx": [5]}
+zebi	{"Ezra_ch_10.docx": [5800]}

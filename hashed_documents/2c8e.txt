@@ -1,6 +1,3 @@
 
 chodd	{"Genesis_ch_25.docx": [1457]}
-amus	{"Ecclesiastes_ch_2.docx": [1095], "Ecclesiastes_ch_3.docx": [781, 781, 781], "Ecclesiastes_ch_5.docx": [3051, 3051, 3051]}
-amus	{"Ecclesiastes_ch_2.docx": [1095], "Ecclesiastes_ch_3.docx": [781, 781], "Ecclesiastes_ch_5.docx": [3051, 3051]}
-chodd	{"Genesis_ch_25.docx": [1457]}
 amus	{"Ecclesiastes_ch_2.docx": [1095], "Ecclesiastes_ch_3.docx": [781], "Ecclesiastes_ch_5.docx": [3051]}

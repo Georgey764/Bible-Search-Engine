@@ -1,4 +1,2 @@
 
-gold!	{"1 Kings_ch_6.docx": [2717], "Proverbs_ch_8.docx": [822, 822, 822], "Isaiah_ch_13.docx": [2558, 2558, 2558]}
-gold!	{"1 Kings_ch_6.docx": [2717], "Proverbs_ch_8.docx": [822, 822], "Isaiah_ch_13.docx": [2558, 2558]}
 gold!	{"1 Kings_ch_6.docx": [2717], "Proverbs_ch_8.docx": [822], "Isaiah_ch_13.docx": [2558]}

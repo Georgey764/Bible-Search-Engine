@@ -1,4 +1,2 @@
 
-lightl	{"2 Samuel_ch_22.docx": [2866], "2 Kings_ch_5.docx": [291, 291, 291], "Proverbs_ch_3.docx": [980, 980, 980], "Hebrews_ch_12.docx": [1032, 1032]}
-lightl	{"2 Samuel_ch_22.docx": [2866], "2 Kings_ch_5.docx": [291, 291], "Proverbs_ch_3.docx": [980, 980], "Hebrews_ch_12.docx": [1032]}
 lightl	{"2 Samuel_ch_22.docx": [2866], "2 Kings_ch_5.docx": [291], "Proverbs_ch_3.docx": [980], "Hebrews_ch_12.docx": [1032]}

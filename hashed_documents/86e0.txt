@@ -1,5 +1,2 @@
 
-assar	{"Joshua_ch_15.docx": [1408], "Joshua_ch_19.docx": [3109, 3109, 3109], "Isaiah_ch_37.docx": [1919, 1919, 1919]}
-assar	{"Joshua_ch_15.docx": [1408], "Joshua_ch_19.docx": [3109, 3109], "Isaiah_ch_37.docx": [1919, 1919]}
-9‘into	{"Ezekiel_ch_19.docx": [1001]}
 assar	{"Joshua_ch_15.docx": [1408], "Joshua_ch_19.docx": [3109], "Isaiah_ch_37.docx": [1919]}

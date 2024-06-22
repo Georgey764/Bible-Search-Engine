@@ -1,5 +1,2 @@
 
 tasti	{"Daniel_ch_5.docx": [180]}
-15ge	{"Joshua_ch_21.docx": [2055]}
-tasti	{"Daniel_ch_5.docx": [180]}
-tasti	{"Daniel_ch_5.docx": [180]}

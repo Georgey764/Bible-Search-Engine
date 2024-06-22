@@ -1,5 +1,2 @@
 
 stele	{"2 Samuel_ch_1.docx": [2464]}
-stele	{"2 Samuel_ch_1.docx": [2464]}
-5com	{"Psalms_ch_66.docx": [358]}
-stele	{"2 Samuel_ch_1.docx": [2464]}

@@ -1,5 +1,3 @@
 
-zuph	{"1 Samuel_ch_1.docx": [39], "1 Samuel_ch_9.docx": [620, 620, 620]}
-style	{"Psalms_ch_150.docx": [576]}
-zuph	{"1 Samuel_ch_1.docx": [39], "1 Samuel_ch_9.docx": [620, 620]}
 zuph	{"1 Samuel_ch_1.docx": [39], "1 Samuel_ch_9.docx": [620]}
+style	{"Psalms_ch_150.docx": [576], "Song of Solomon_ch_8.docx": [2756, 3039], "Isaiah_ch_66.docx": [5902, 6185], "Lamentations_ch_5.docx": [2932, 3215], "Ezekiel_ch_48.docx": [8065], "Daniel_ch_12.docx": [4597, 4880], "Hosea_ch_14.docx": [2152, 2435], "Joel_ch_3.docx": [5268, 5551], "Amos_ch_9.docx": [4388, 4671], "Obadiah_ch_1.docx": [4967, 5181], "Jonah_ch_4.docx": [2251, 2534], "Micah_ch_7.docx": [5120, 5403], "Nahum_ch_3.docx": [4328, 4611], "Habakkuk_ch_3.docx": [3968, 4251], "Zephaniah_ch_3.docx": [5058, 5341], "Haggai_ch_2.docx": [5375, 5658], "Zechariah_ch_14.docx": [5225, 5508], "Mark_ch_16.docx": [1514], "1 Peter_ch_5.docx": [2312, 2335], "2 Peter_ch_3.docx": [3282], "1 John_ch_5.docx": [3130], "2 John_ch_1.docx": [2095]}

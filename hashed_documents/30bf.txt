@@ -1,4 +1,2 @@
 
-amasij	{"1 Chronicles_ch_4.docx": [3885], "1 Chronicles_ch_6.docx": [3548, 3589, 3548, 3589, 3548, 3589], "1 Chronicles_ch_15.docx": [3299, 3299, 3299]}
-amasij	{"1 Chronicles_ch_4.docx": [3885], "1 Chronicles_ch_6.docx": [3548, 3589, 3548, 3589], "1 Chronicles_ch_15.docx": [3299, 3299]}
 amasij	{"1 Chronicles_ch_4.docx": [3885], "1 Chronicles_ch_6.docx": [3548, 3589], "1 Chronicles_ch_15.docx": [3299]}

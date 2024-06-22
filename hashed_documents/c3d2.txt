@@ -1,3 +1,0 @@
-
-2i’	{"Genesis_ch_17.docx": [121], "Psalms_ch_16.docx": [113], "Psalms_ch_30.docx": [151], "Psalms_ch_57.docx": [376], "Psalms_ch_69.docx": [225], "Psalms_ch_138.docx": [215], "Psalms_ch_145.docx": [171], "Ezekiel_ch_39.docx": [200]}
-271,00	{"Ezra_ch_8.docx": [3689]}

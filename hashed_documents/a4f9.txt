@@ -1,2 +1,0 @@
-
-11al	{"Joshua_ch_13.docx": [14667], "1 Samuel_ch_4.docx": [1750], "2 Kings_ch_15.docx": [1467], "1 Chronicles_ch_7.docx": [1462], "Psalms_ch_5.docx": [1161], "Psalms_ch_92.docx": [962], "Psalms_ch_115.docx": [967], "Proverbs_ch_17.docx": [1086], "Micah_ch_5.docx": [2832]}

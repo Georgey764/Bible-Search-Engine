@@ -1,6 +1,2 @@
 
 jediou	{"1 Chronicles_ch_24.docx": [2461]}
-2ja	{"Genesis_ch_10.docx": [161]}
-jediou	{"1 Chronicles_ch_24.docx": [2461]}
-36lea	{"Psalms_ch_119.docx": [2805]}
-jediou	{"1 Chronicles_ch_24.docx": [2461]}

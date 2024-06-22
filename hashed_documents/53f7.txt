@@ -1,4 +1,2 @@
 
-hardly	{"1 Samuel_ch_17.docx": [5796], "Daniel_ch_10.docx": [2627, 2627, 2627], "2 Timothy_ch_2.docx": [1371, 1390, 1371, 1390]}
-hardly	{"1 Samuel_ch_17.docx": [5796], "Daniel_ch_10.docx": [2627, 2627], "2 Timothy_ch_2.docx": [1371, 1390]}
 hardly	{"1 Samuel_ch_17.docx": [5796], "Daniel_ch_10.docx": [2627], "2 Timothy_ch_2.docx": [1371, 1390]}

@@ -1,4 +1,2 @@
 
-kol	{"Nehemiah_ch_11.docx": [1269], "Jeremiah_ch_29.docx": [3184, 3184, 3184]}
-kol	{"Nehemiah_ch_11.docx": [1269], "Jeremiah_ch_29.docx": [3184, 3184]}
 kol	{"Nehemiah_ch_11.docx": [1269], "Jeremiah_ch_29.docx": [3184]}

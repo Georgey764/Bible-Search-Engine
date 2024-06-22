@@ -1,5 +1,2 @@
 
 baraki	{"2 Samuel_ch_3.docx": [2220]}
-baraki	{"2 Samuel_ch_3.docx": [2220]}
-18ins	{"Proverbs_ch_16.docx": [1914]}
-baraki	{"2 Samuel_ch_3.docx": [2220]}

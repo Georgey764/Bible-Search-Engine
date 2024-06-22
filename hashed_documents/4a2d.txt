@@ -1,4 +1,2 @@
 
-work!	{"Exodus_ch_5.docx": [826], "Leviticus_ch_23.docx": [4302, 4302, 4302], "Nehemiah_ch_4.docx": [1693, 3677, 1693, 3677, 1693, 3677], "Nehemiah_ch_5.docx": [3210, 3210, 3210]}
-work!	{"Exodus_ch_5.docx": [826], "Leviticus_ch_23.docx": [4302, 4302], "Nehemiah_ch_4.docx": [1693, 3677, 1693, 3677], "Nehemiah_ch_5.docx": [3210, 3210]}
 work!	{"Exodus_ch_5.docx": [826], "Leviticus_ch_23.docx": [4302], "Nehemiah_ch_4.docx": [1693, 3677], "Nehemiah_ch_5.docx": [3210]}

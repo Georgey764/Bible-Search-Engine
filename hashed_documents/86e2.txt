@@ -1,3 +1,2 @@
 
-had,	{"Hebrews_ch_12.docx": [397, 408, 408]}
 had,	{"Hebrews_ch_12.docx": [397, 408]}

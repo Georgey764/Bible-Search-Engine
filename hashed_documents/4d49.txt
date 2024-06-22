@@ -1,2 +1,0 @@
-
-18y	{"Exodus_ch_14.docx": [3067], "Exodus_ch_26.docx": [1713], "Numbers_ch_31.docx": [2120], "Deuteronomy_ch_12.docx": [3169], "Judges_ch_9.docx": [3738], "2 Samuel_ch_3.docx": [2480], "Psalms_ch_88.docx": [1790], "Psalms_ch_136.docx": [1864], "Ecclesiastes_ch_5.docx": [2597], "Isaiah_ch_45.docx": [3205], "Lamentations_ch_1.docx": [4441], "Ezekiel_ch_16.docx": [2952], "Matthew_ch_10.docx": [2021]}

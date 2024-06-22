@@ -1,5 +1,2 @@
 
-salam	{"Numbers_ch_1.docx": [703], "Numbers_ch_7.docx": [4264, 4902, 4264, 4902, 4264, 4902], "Numbers_ch_10.docx": [2173, 2173, 2173], "Numbers_ch_34.docx": [2033, 2033, 2033], "Joshua_ch_19.docx": [3366, 3997, 3997, 3366, 3997], "2 Kings_ch_18.docx": [1268, 1268, 1268]}
-23whe	{"Genesis_ch_5.docx": [1628], "Exodus_ch_8.docx": [3466], "Numbers_ch_22.docx": [3123], "Proverbs_ch_30.docx": [2462]}
-salam	{"Numbers_ch_1.docx": [703], "Numbers_ch_7.docx": [4264, 4902, 4264, 4902], "Numbers_ch_10.docx": [2173, 2173], "Numbers_ch_34.docx": [2033, 2033], "Joshua_ch_19.docx": [3997, 3366, 3997], "2 Kings_ch_18.docx": [1268, 1268]}
 salam	{"Numbers_ch_1.docx": [703], "Numbers_ch_7.docx": [4264, 4902], "Numbers_ch_10.docx": [2173], "Numbers_ch_34.docx": [2033], "Joshua_ch_19.docx": [3366, 3997], "2 Kings_ch_18.docx": [1268]}

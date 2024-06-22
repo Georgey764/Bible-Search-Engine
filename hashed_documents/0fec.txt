@@ -1,4 +1,2 @@
 
-cona	{"2 Chronicles_ch_31.docx": [2237, 2495, 2495, 2495], "2 Chronicles_ch_35.docx": [1705, 1705, 1705]}
-cona	{"2 Chronicles_ch_31.docx": [2237, 2495, 2495], "2 Chronicles_ch_35.docx": [1705, 1705]}
 cona	{"2 Chronicles_ch_31.docx": [2237, 2495], "2 Chronicles_ch_35.docx": [1705]}

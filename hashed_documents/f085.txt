@@ -1,4 +1,2 @@
 
-mamphi	{"Genesis_ch_46.docx": [2729], "1 Chronicles_ch_7.docx": [1873, 1873, 1873]}
-mamphi	{"Genesis_ch_46.docx": [2729], "1 Chronicles_ch_7.docx": [1873, 1873]}
 mamphi	{"Genesis_ch_46.docx": [2729], "1 Chronicles_ch_7.docx": [1873]}

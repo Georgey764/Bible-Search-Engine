@@ -1,4 +1,2 @@
 
-cheris	{"Numbers_ch_6.docx": [577], "Psalms_ch_103.docx": [766, 766, 766]}
-cheris	{"Numbers_ch_6.docx": [577], "Psalms_ch_103.docx": [766, 766]}
 cheris	{"Numbers_ch_6.docx": [577], "Psalms_ch_103.docx": [766]}

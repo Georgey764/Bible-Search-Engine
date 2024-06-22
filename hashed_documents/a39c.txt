@@ -1,6 +1,3 @@
 
-round-	{"Jeremiah_ch_50.docx": [7514], "Jeremiah_ch_51.docx": [257, 257, 257]}
-time’	{"John_ch_5.docx": [3345]}
-round-	{"Jeremiah_ch_50.docx": [7514], "Jeremiah_ch_51.docx": [257, 257]}
-round-	{"Jeremiah_ch_50.docx": [7514], "Jeremiah_ch_51.docx": [257]}
+round-	{"Jeremiah_ch_50.docx": [7514], "Jeremiah_ch_51.docx": [257], "Joel_ch_3.docx": [2757]}
 time’	{"John_ch_5.docx": [3345]}

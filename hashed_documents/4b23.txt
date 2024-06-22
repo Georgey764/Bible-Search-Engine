@@ -1,4 +1,2 @@
 
-impart	{"Job_ch_13.docx": [1590], "Acts_ch_10.docx": [5085, 5085]}
-impart	{"Job_ch_13.docx": [1590], "Acts_ch_10.docx": [5085]}
 impart	{"Job_ch_13.docx": [1590], "Acts_ch_10.docx": [5085]}

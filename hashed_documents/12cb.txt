@@ -1,4 +1,2 @@
 
-copy	{"Deuteronomy_ch_17.docx": [2965], "Ezra_ch_7.docx": [1244, 1244, 1244], "Esther_ch_4.docx": [930, 930, 930], "Hebrews_ch_6.docx": [1676, 1676]}
-copy	{"Deuteronomy_ch_17.docx": [2965], "Ezra_ch_7.docx": [1244, 1244], "Esther_ch_4.docx": [930, 930], "Hebrews_ch_6.docx": [1676]}
-copy	{"Deuteronomy_ch_17.docx": [2965], "Ezra_ch_7.docx": [1244], "Esther_ch_4.docx": [930], "Hebrews_ch_6.docx": [1676]}
+copy	{"Deuteronomy_ch_17.docx": [2965], "Ezra_ch_7.docx": [1244], "Esther_ch_4.docx": [930], "Lamentations_ch_5.docx": [2427], "Ezekiel_ch_48.docx": [6475], "Daniel_ch_12.docx": [2910], "Hebrews_ch_6.docx": [1676], "Hebrews_ch_13.docx": [855], "Jude_ch_1.docx": [5385]}

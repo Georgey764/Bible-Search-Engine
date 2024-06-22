@@ -1,4 +1,2 @@
 
-territ	{"Genesis_ch_10.docx": [2136, 3090, 3090, 3090], "Joshua_ch_19.docx": [3292, 3292, 3292], "Judges_ch_12.docx": [821, 821, 821], "Judges_ch_20.docx": [8735, 8754, 8774, 8735, 8754, 8774, 8735, 8754, 8774], "1 Chronicles_ch_5.docx": [1390, 1390, 1390], "Matthew_ch_2.docx": [3413, 3413, 3413]}
-territ	{"Genesis_ch_10.docx": [2136, 3090, 3090], "Joshua_ch_19.docx": [3292, 3292], "Judges_ch_12.docx": [821, 821], "Judges_ch_20.docx": [8735, 8754, 8774, 8735, 8754, 8774], "1 Chronicles_ch_5.docx": [1390, 1390], "Matthew_ch_2.docx": [3413, 3413]}
 territ	{"Genesis_ch_10.docx": [2136, 3090], "Joshua_ch_19.docx": [3292], "Judges_ch_12.docx": [821], "Judges_ch_20.docx": [8735, 8754, 8774], "1 Chronicles_ch_5.docx": [1390], "Matthew_ch_2.docx": [3413]}

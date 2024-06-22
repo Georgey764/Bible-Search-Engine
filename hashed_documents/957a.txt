@@ -1,8 +1,3 @@
 
-aid!	{"Deuteronomy_ch_32.docx": [5578], "Psalms_ch_35.docx": [180, 180, 180], "Psalms_ch_70.docx": [148, 148, 148], "Psalms_ch_71.docx": [1200, 1200, 1200], "Psalms_ch_107.docx": [1018, 1018, 1018], "Isaiah_ch_13.docx": [220, 220, 220]}
-seki	{"1 Chronicles_ch_8.docx": [664]}
-aid!	{"Deuteronomy_ch_32.docx": [5578], "Psalms_ch_35.docx": [180, 180], "Psalms_ch_70.docx": [148, 148], "Psalms_ch_71.docx": [1200, 1200], "Psalms_ch_107.docx": [1018, 1018], "Isaiah_ch_13.docx": [220, 220]}
-seki	{"1 Chronicles_ch_8.docx": [664]}
-19dis	{"Isaiah_ch_24.docx": [2990]}
 aid!	{"Deuteronomy_ch_32.docx": [5578], "Psalms_ch_35.docx": [180], "Psalms_ch_70.docx": [148], "Psalms_ch_71.docx": [1200], "Psalms_ch_107.docx": [1018], "Isaiah_ch_13.docx": [220]}
 seki	{"1 Chronicles_ch_8.docx": [664]}

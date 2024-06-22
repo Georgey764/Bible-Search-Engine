@@ -1,4 +1,2 @@
 
-keli	{"Nehemiah_ch_8.docx": [1919], "Nehemiah_ch_10.docx": [555, 555, 555]}
-keli	{"Nehemiah_ch_8.docx": [1919], "Nehemiah_ch_10.docx": [555, 555]}
-keli	{"Nehemiah_ch_8.docx": [1919], "Nehemiah_ch_10.docx": [555]}
+keli	{"Ezra_ch_10.docx": [4150], "Nehemiah_ch_8.docx": [1919], "Nehemiah_ch_10.docx": [555]}

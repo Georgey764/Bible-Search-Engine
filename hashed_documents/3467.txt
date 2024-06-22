@@ -1,5 +1,2 @@
 
-sameg	{"Judges_ch_3.docx": [11158], "Judges_ch_5.docx": [789, 789, 789]}
-36w	{"Genesis_ch_31.docx": [4795], "Genesis_ch_37.docx": [4849], "Leviticus_ch_8.docx": [4874], "Numbers_ch_22.docx": [5189], "Judges_ch_9.docx": [6638], "1 Samuel_ch_25.docx": [5716], "2 Kings_ch_18.docx": [6196], "Nehemiah_ch_12.docx": [4902], "Psalms_ch_107.docx": [3147], "Isaiah_ch_37.docx": [5826], "Matthew_ch_25.docx": [4255]}
-sameg	{"Judges_ch_3.docx": [11158], "Judges_ch_5.docx": [789, 789]}
 sameg	{"Judges_ch_3.docx": [11158], "Judges_ch_5.docx": [789]}

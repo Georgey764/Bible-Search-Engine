@@ -1,4 +1,2 @@
 
-withhe	{"Genesis_ch_39.docx": [1435], "Leviticus_ch_19.docx": [1462, 1462, 1462], "Ecclesiastes_ch_2.docx": [1379, 1379, 1379], "Isaiah_ch_28.docx": [866, 866, 866], "Ezekiel_ch_31.docx": [2894, 2894, 2894]}
-withhe	{"Genesis_ch_39.docx": [1435], "Leviticus_ch_19.docx": [1462, 1462], "Ecclesiastes_ch_2.docx": [1379, 1379], "Isaiah_ch_28.docx": [866, 866], "Ezekiel_ch_31.docx": [2894, 2894]}
 withhe	{"Genesis_ch_39.docx": [1435], "Leviticus_ch_19.docx": [1462], "Ecclesiastes_ch_2.docx": [1379], "Isaiah_ch_28.docx": [866], "Ezekiel_ch_31.docx": [2894]}

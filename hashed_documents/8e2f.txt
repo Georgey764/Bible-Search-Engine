@@ -1,4 +1,2 @@
 
-gih	{"2 Chronicles_ch_32.docx": [5804], "2 Chronicles_ch_33.docx": [2273, 2273, 2273]}
-gih	{"2 Chronicles_ch_32.docx": [5804], "2 Chronicles_ch_33.docx": [2273, 2273]}
 gih	{"2 Chronicles_ch_32.docx": [5804], "2 Chronicles_ch_33.docx": [2273]}

@@ -1,4 +1,2 @@
 
-grain;	{"Exodus_ch_22.docx": [998], "Jeremiah_ch_23.docx": [5183, 5183, 5183]}
-grain;	{"Exodus_ch_22.docx": [998], "Jeremiah_ch_23.docx": [5183, 5183]}
 grain;	{"Exodus_ch_22.docx": [998], "Jeremiah_ch_23.docx": [5183]}

@@ -1,7 +1,3 @@
 
-sophar	{"Genesis_ch_36.docx": [1283, 1696, 2630, 1696, 2630, 1696, 2630], "Numbers_ch_32.docx": [4943, 4943]}
-bully	{"Exodus_ch_2.docx": [1775]}
-sophar	{"Genesis_ch_36.docx": [1283, 1696, 2630, 1696, 2630], "Numbers_ch_32.docx": [4943]}
-bully	{"Exodus_ch_2.docx": [1775]}
 sophar	{"Genesis_ch_36.docx": [1283, 1696, 2630], "Numbers_ch_32.docx": [4943]}
 bully	{"Exodus_ch_2.docx": [1775]}

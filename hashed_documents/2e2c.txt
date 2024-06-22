@@ -1,7 +1,3 @@
 
-highw	{"Numbers_ch_20.docx": [2616], "Numbers_ch_21.docx": [3010, 3010, 3010], "Judges_ch_9.docx": [5054, 5054, 5054], "2 Chronicles_ch_22.docx": [35, 35, 35], "Proverbs_ch_15.docx": [1992, 1992, 1992], "Hosea_ch_7.docx": [253, 253, 253]}
-edenit	{"Numbers_ch_26.docx": [4122]}
-highw	{"Numbers_ch_20.docx": [2616], "Numbers_ch_21.docx": [3010, 3010], "Judges_ch_9.docx": [5054, 5054], "2 Chronicles_ch_22.docx": [35, 35], "Proverbs_ch_15.docx": [1992, 1992], "Hosea_ch_7.docx": [253, 253]}
-edenit	{"Numbers_ch_26.docx": [4122]}
 highw	{"Numbers_ch_20.docx": [2616], "Numbers_ch_21.docx": [3010], "Judges_ch_9.docx": [5054], "2 Chronicles_ch_22.docx": [35], "Proverbs_ch_15.docx": [1992], "Hosea_ch_7.docx": [253]}
 edenit	{"Numbers_ch_26.docx": [4122]}

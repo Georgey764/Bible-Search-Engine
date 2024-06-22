@@ -1,5 +1,2 @@
 
-sheeps	{"1 Kings_ch_19.docx": [2333, 3461, 3461, 3461], "2 Kings_ch_2.docx": [845, 1800, 1830, 845, 1800, 1830, 845, 1800, 1830], "Hebrews_ch_11.docx": [7196, 7196]}
-sheeps	{"1 Kings_ch_19.docx": [2333, 3461, 3461], "2 Kings_ch_2.docx": [845, 1800, 1830, 845, 1800, 1830], "Hebrews_ch_11.docx": [7196]}
-32e	{"Matthew_ch_13.docx": [4216]}
 sheeps	{"1 Kings_ch_19.docx": [2333, 3461], "2 Kings_ch_2.docx": [845, 1800, 1830], "Hebrews_ch_11.docx": [7196]}

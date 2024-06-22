@@ -1,5 +1,2 @@
 
-gittit	{"2 Samuel_ch_6.docx": [1378], "2 Samuel_ch_21.docx": [3697, 3697, 3697], "1 Chronicles_ch_13.docx": [1936, 1936, 1936], "1 Chronicles_ch_20.docx": [1029, 1029, 1029]}
-gittit	{"2 Samuel_ch_6.docx": [1378], "2 Samuel_ch_21.docx": [3697, 3697], "1 Chronicles_ch_13.docx": [1936, 1936], "1 Chronicles_ch_20.docx": [1029, 1029]}
-26‘aro	{"Ezekiel_ch_34.docx": [4391]}
 gittit	{"2 Samuel_ch_6.docx": [1378], "2 Samuel_ch_21.docx": [3697], "1 Chronicles_ch_13.docx": [1936], "1 Chronicles_ch_20.docx": [1029]}

@@ -1,4 +1,2 @@
 
-ely	{"2 Samuel_ch_23.docx": [4955], "Jeremiah_ch_48.docx": [4494, 4494], "Acts_ch_13.docx": [2109, 2109]}
-ely	{"Jeremiah_ch_48.docx": [4494, 4494], "Acts_ch_13.docx": [2109]}
 ely	{"2 Samuel_ch_23.docx": [4955], "Jeremiah_ch_48.docx": [4494], "Acts_ch_13.docx": [2109]}

@@ -1,5 +1,2 @@
 
 shock;	{"Ezekiel_ch_7.docx": [2848]}
-2sayin	{"Job_ch_3.docx": [15], "Jonah_ch_2.docx": [19], "Matthew_ch_3.docx": [21]}
-shock;	{"Ezekiel_ch_7.docx": [2848]}
-shock;	{"Ezekiel_ch_7.docx": [2848]}

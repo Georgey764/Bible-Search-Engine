@@ -1,2 +1,0 @@
-
-2in	{"Joshua_ch_15.docx": [188], "2 Samuel_ch_3.docx": [192], "2 Samuel_ch_13.docx": [29], "Psalms_ch_17.docx": [231], "Psalms_ch_31.docx": [247], "Psalms_ch_71.docx": [216], "Psalms_ch_77.docx": [158], "Isaiah_ch_2.docx": [103], "Isaiah_ch_4.docx": [232], "Isaiah_ch_15.docx": [144], "Daniel_ch_8.docx": [28]}

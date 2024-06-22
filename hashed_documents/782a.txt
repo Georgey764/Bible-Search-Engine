@@ -1,4 +1,2 @@
 
-audien	{"Psalms_ch_136.docx": [70]}
-audien	{"Psalms_ch_136.docx": [70]}
-audien	{"Psalms_ch_136.docx": [70]}
+audien	{"Psalms_ch_136.docx": [70], "Luke_ch_24.docx": [6250], "3 John_ch_1.docx": [2511]}

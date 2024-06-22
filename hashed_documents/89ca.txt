@@ -1,7 +1,3 @@
 
-sycam	{"Genesis_ch_30.docx": [4516], "2 Chronicles_ch_9.docx": [4111, 4111, 4111], "Psalms_ch_78.docx": [4616, 4616, 4616], "Isaiah_ch_9.docx": [1778, 1778, 1778]}
-mixtu	{"Song of Solomon_ch_7.docx": [240]}
-sycam	{"Genesis_ch_30.docx": [4516], "2 Chronicles_ch_9.docx": [4111, 4111], "Psalms_ch_78.docx": [4616, 4616], "Isaiah_ch_9.docx": [1778, 1778]}
-mixtu	{"Song of Solomon_ch_7.docx": [240]}
 sycam	{"Genesis_ch_30.docx": [4516], "2 Chronicles_ch_9.docx": [4111], "Psalms_ch_78.docx": [4616], "Isaiah_ch_9.docx": [1778]}
 mixtu	{"Song of Solomon_ch_7.docx": [240]}

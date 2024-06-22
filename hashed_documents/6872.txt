@@ -1,4 +1,2 @@
 
-full;	{"Haggai_ch_1.docx": [902]}
-full;	{"Haggai_ch_1.docx": [902]}
-full;	{"Haggai_ch_1.docx": [902]}
+full;	{"Hosea_ch_14.docx": [832], "Haggai_ch_1.docx": [902]}

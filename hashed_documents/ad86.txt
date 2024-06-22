@@ -1,3 +1,2 @@
 
-groane	{"Mark_ch_7.docx": [4359], "John_ch_11.docx": [3984, 3984]}
 groane	{"Mark_ch_7.docx": [4359], "John_ch_11.docx": [3984]}

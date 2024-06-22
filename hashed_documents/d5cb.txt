@@ -1,5 +1,2 @@
 
 bludg	{"Exodus_ch_2.docx": [1484]}
-bludg	{"Exodus_ch_2.docx": [1484]}
-16‘we	{"Jeremiah_ch_32.docx": [2634], "Jeremiah_ch_44.docx": [3293], "Matthew_ch_25.docx": [1584]}
-bludg	{"Exodus_ch_2.docx": [1484]}

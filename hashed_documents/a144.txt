@@ -1,4 +1,2 @@
 
-infec	{"Leviticus_ch_14.docx": [5992], "2 Kings_ch_20.docx": [10, 10, 10], "2 Chronicles_ch_6.docx": [4795, 4795, 4795]}
-infec	{"Leviticus_ch_14.docx": [5992], "2 Kings_ch_20.docx": [10, 10], "2 Chronicles_ch_6.docx": [4795, 4795]}
 infec	{"Leviticus_ch_14.docx": [5992], "2 Kings_ch_20.docx": [10], "2 Chronicles_ch_6.docx": [4795]}

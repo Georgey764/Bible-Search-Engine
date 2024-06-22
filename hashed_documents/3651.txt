@@ -1,4 +1,2 @@
 
-entryw	{"1 Kings_ch_6.docx": [307, 450, 2061, 450, 2061, 450, 2061], "1 Kings_ch_7.docx": [608, 608, 608], "2 Chronicles_ch_9.docx": [1581, 1581, 1581], "Esther_ch_5.docx": [223, 223, 223], "Jeremiah_ch_35.docx": [372, 372, 372]}
-entryw	{"1 Kings_ch_6.docx": [307, 450, 2061, 450, 2061], "1 Kings_ch_7.docx": [608, 608], "2 Chronicles_ch_9.docx": [1581, 1581], "Esther_ch_5.docx": [223, 223], "Jeremiah_ch_35.docx": [372, 372]}
-entryw	{"1 Kings_ch_6.docx": [307, 450, 2061], "1 Kings_ch_7.docx": [608], "2 Chronicles_ch_9.docx": [1581], "Esther_ch_5.docx": [223], "Jeremiah_ch_35.docx": [372]}
+entryw	{"Exodus_ch_40.docx": [329], "1 Kings_ch_6.docx": [307, 450, 2061], "1 Kings_ch_7.docx": [608], "2 Chronicles_ch_9.docx": [1581], "Esther_ch_5.docx": [223], "Jeremiah_ch_35.docx": [372]}

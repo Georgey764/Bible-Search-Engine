@@ -1,5 +1,2 @@
 
-butted	{"Exodus_ch_36.docx": [2790], "Daniel_ch_8.docx": [786, 786, 786]}
-6they	{"Genesis_ch_46.docx": [731], "Leviticus_ch_21.docx": [423], "Joshua_ch_12.docx": [9413], "Joshua_ch_15.docx": [713], "Joshua_ch_16.docx": [659], "Judges_ch_12.docx": [1141], "2 Kings_ch_1.docx": [856], "1 Chronicles_ch_20.docx": [1190], "Job_ch_24.docx": [446], "Psalms_ch_56.docx": [628], "Psalms_ch_88.docx": [632], "Psalms_ch_94.docx": [514], "Psalms_ch_149.docx": [470], "Jeremiah_ch_10.docx": [744], "Ezekiel_ch_34.docx": [888], "Matthew_ch_23.docx": [546]}
-butted	{"Exodus_ch_36.docx": [2790], "Daniel_ch_8.docx": [786, 786]}
 butted	{"Exodus_ch_36.docx": [2790], "Daniel_ch_8.docx": [786]}

@@ -1,4 +1,2 @@
 
-adornm	{"Isaiah_ch_3.docx": [2849], "Micah_ch_6.docx": [2179, 2179, 2179]}
-adornm	{"Isaiah_ch_3.docx": [2849], "Micah_ch_6.docx": [2179, 2179]}
 adornm	{"Isaiah_ch_3.docx": [2849], "Micah_ch_6.docx": [2179]}

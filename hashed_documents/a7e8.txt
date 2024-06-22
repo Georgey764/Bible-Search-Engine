@@ -1,4 +1,2 @@
 
-isola	{"Judges_ch_18.docx": [1109], "Mark_ch_8.docx": [438, 438], "Luke_ch_4.docx": [6204, 6204], "Luke_ch_8.docx": [4443, 4443]}
-isola	{"Judges_ch_18.docx": [1109], "Mark_ch_8.docx": [438], "Luke_ch_4.docx": [6204], "Luke_ch_8.docx": [4443]}
 isola	{"Judges_ch_18.docx": [1109], "Mark_ch_8.docx": [438], "Luke_ch_4.docx": [6204], "Luke_ch_8.docx": [4443]}

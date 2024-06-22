@@ -1,4 +1,2 @@
 
-josa	{"2 Samuel_ch_20.docx": [4522], "1 Chronicles_ch_6.docx": [948, 977, 948, 977, 948, 977], "1 Chronicles_ch_12.docx": [2800, 2800, 2800]}
-josa	{"2 Samuel_ch_20.docx": [4522], "1 Chronicles_ch_6.docx": [948, 977, 948, 977], "1 Chronicles_ch_12.docx": [2800, 2800]}
 josa	{"2 Samuel_ch_20.docx": [4522], "1 Chronicles_ch_6.docx": [948, 977], "1 Chronicles_ch_12.docx": [2800]}

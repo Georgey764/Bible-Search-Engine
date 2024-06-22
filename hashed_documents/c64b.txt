@@ -1,4 +1,2 @@
 
 swat	{"Romans_ch_3.docx": [1843]}
-29‘am	{"Jeremiah_ch_5.docx": [5119]}
-swat	{"Romans_ch_3.docx": [1843]}

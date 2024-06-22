@@ -1,4 +1,2 @@
 
-fins	{"Leviticus_ch_11.docx": [1095, 1212, 1458, 1212, 1458, 1212, 1458], "Deuteronomy_ch_14.docx": [977, 985, 977, 985, 977, 985]}
-fins	{"Leviticus_ch_11.docx": [1095, 1212, 1458, 1212, 1458], "Deuteronomy_ch_14.docx": [977, 985, 977, 985]}
 fins	{"Leviticus_ch_11.docx": [1095, 1212, 1458], "Deuteronomy_ch_14.docx": [977, 985]}

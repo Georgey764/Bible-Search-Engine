@@ -1,5 +1,2 @@
 
 fined	{"Ezra_ch_7.docx": [4115]}
-fined	{"Ezra_ch_7.docx": [4115]}
-12wit	{"Psalms_ch_56.docx": [1154], "Psalms_ch_116.docx": [975], "Psalms_ch_136.docx": [1358]}
-fined	{"Ezra_ch_7.docx": [4115]}

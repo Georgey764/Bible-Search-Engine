@@ -1,4 +1,2 @@
 
-hugg	{"Genesis_ch_29.docx": [1792], "Genesis_ch_33.docx": [456, 456, 456], "Genesis_ch_48.docx": [1448, 1448, 1448], "Exodus_ch_18.docx": [871, 871, 871], "Acts_ch_20.docx": [3000, 10141, 3000, 10141]}
-hugg	{"Genesis_ch_29.docx": [1792], "Genesis_ch_33.docx": [456, 456], "Genesis_ch_48.docx": [1448, 1448], "Exodus_ch_18.docx": [871, 871], "Acts_ch_20.docx": [3000, 10141]}
 hugg	{"Genesis_ch_29.docx": [1792], "Genesis_ch_33.docx": [456], "Genesis_ch_48.docx": [1448], "Exodus_ch_18.docx": [871], "Acts_ch_20.docx": [3000, 10141]}

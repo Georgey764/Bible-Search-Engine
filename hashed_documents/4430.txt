@@ -1,4 +1,2 @@
 
 elib	{"1 Chronicles_ch_1.docx": [4415]}
-elib	{"1 Chronicles_ch_1.docx": [4415]}
-elib	{"1 Chronicles_ch_1.docx": [4415]}

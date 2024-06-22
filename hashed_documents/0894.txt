@@ -1,4 +1,2 @@
 
-sings	{"Proverbs_ch_8.docx": [201]}
-sings	{"Proverbs_ch_8.docx": [201]}
-sings	{"Proverbs_ch_8.docx": [201]}
+sings	{"Proverbs_ch_8.docx": [201], "Proverbs_ch_31.docx": [2641]}

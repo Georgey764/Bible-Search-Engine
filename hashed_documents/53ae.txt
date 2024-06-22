@@ -1,4 +1,2 @@
 
-scan	{"2 Samuel_ch_13.docx": [1916], "Job_ch_39.docx": [1566, 1566, 1566]}
-scan	{"2 Samuel_ch_13.docx": [1916], "Job_ch_39.docx": [1566, 1566]}
 scan	{"2 Samuel_ch_13.docx": [1916], "Job_ch_39.docx": [1566]}

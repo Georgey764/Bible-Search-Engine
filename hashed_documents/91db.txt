@@ -1,4 +1,2 @@
 
-graci	{"Psalms_ch_65.docx": [1293], "Luke_ch_4.docx": [2941, 2941], "Ephesians_ch_4.docx": [4156, 4167, 4156, 4167]}
-graci	{"Psalms_ch_65.docx": [1293], "Luke_ch_4.docx": [2941], "Ephesians_ch_4.docx": [4156, 4167]}
 graci	{"Psalms_ch_65.docx": [1293], "Luke_ch_4.docx": [2941], "Ephesians_ch_4.docx": [4156, 4167]}

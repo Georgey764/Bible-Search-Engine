@@ -1,4 +1,2 @@
 
-evera	{"Jeremiah_ch_3.docx": [3156], "Ezekiel_ch_28.docx": [4344, 4344, 4344]}
-evera	{"Jeremiah_ch_3.docx": [3156], "Ezekiel_ch_28.docx": [4344, 4344]}
 evera	{"Jeremiah_ch_3.docx": [3156], "Ezekiel_ch_28.docx": [4344]}

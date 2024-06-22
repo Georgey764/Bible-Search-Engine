@@ -1,4 +1,2 @@
 
-uproot	{"Psalms_ch_52.docx": [611], "Proverbs_ch_12.docx": [272, 272, 272], "Jeremiah_ch_12.docx": [2556, 2556, 2556], "Zephaniah_ch_2.docx": [788, 788, 788], "Matthew_ch_13.docx": [3840, 3840, 3840], "Matthew_ch_15.docx": [1454, 1454, 1454]}
-uproot	{"Psalms_ch_52.docx": [611], "Proverbs_ch_12.docx": [272, 272], "Jeremiah_ch_12.docx": [2556, 2556], "Zephaniah_ch_2.docx": [788, 788], "Matthew_ch_13.docx": [3840, 3840], "Matthew_ch_15.docx": [1454, 1454]}
-uproot	{"Psalms_ch_52.docx": [611], "Proverbs_ch_12.docx": [272], "Jeremiah_ch_12.docx": [2556], "Zephaniah_ch_2.docx": [788], "Matthew_ch_13.docx": [3840], "Matthew_ch_15.docx": [1454]}
+uproot	{"Psalms_ch_52.docx": [611], "Proverbs_ch_12.docx": [272], "Jeremiah_ch_12.docx": [2556], "Amos_ch_9.docx": [3945], "Zephaniah_ch_2.docx": [788], "Matthew_ch_13.docx": [3840], "Matthew_ch_15.docx": [1454], "Jude_ch_1.docx": [2563]}

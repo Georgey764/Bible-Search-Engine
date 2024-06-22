@@ -1,5 +1,2 @@
 
-noah’s	{"Genesis_ch_6.docx": [1118], "Genesis_ch_7.docx": [1342, 1342, 1342], "Genesis_ch_8.docx": [1569, 1569, 1569], "1 Chronicles_ch_1.docx": [138, 138, 138]}
-noah’s	{"Genesis_ch_6.docx": [1118], "Genesis_ch_7.docx": [1342, 1342], "Genesis_ch_8.docx": [1569, 1569], "1 Chronicles_ch_1.docx": [138, 138]}
-51bak	{"Ezra_ch_2.docx": [2037]}
 noah’s	{"Genesis_ch_6.docx": [1118], "Genesis_ch_7.docx": [1342], "Genesis_ch_8.docx": [1569], "1 Chronicles_ch_1.docx": [138]}

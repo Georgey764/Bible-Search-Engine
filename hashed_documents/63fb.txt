@@ -1,5 +1,2 @@
 
 insign	{"Joshua_ch_22.docx": [2803]}
-29‘y	{"Exodus_ch_22.docx": [3870], "Exodus_ch_25.docx": [3170], "Exodus_ch_30.docx": [3588], "Leviticus_ch_19.docx": [3894], "Numbers_ch_14.docx": [4292], "Deuteronomy_ch_33.docx": [4276], "Ecclesiastes_ch_7.docx": [3414], "Ezekiel_ch_18.docx": [4601], "Daniel_ch_2.docx": [4911], "Matthew_ch_11.docx": [3588]}
-insign	{"Joshua_ch_22.docx": [2803]}
-insign	{"Joshua_ch_22.docx": [2803]}

@@ -1,7 +1,3 @@
 
-majo	{"Exodus_ch_23.docx": [151], "Matthew_ch_24.docx": [1257, 1257, 1257], "Acts_ch_27.docx": [1526, 1526]}
-osamat	{"1 Chronicles_ch_3.docx": [1581]}
-majo	{"Exodus_ch_23.docx": [151], "Matthew_ch_24.docx": [1257, 1257], "Acts_ch_27.docx": [1526]}
-osamat	{"1 Chronicles_ch_3.docx": [1581]}
-majo	{"Exodus_ch_23.docx": [151], "Matthew_ch_24.docx": [1257], "Acts_ch_27.docx": [1526]}
+majo	{"Exodus_ch_23.docx": [151], "Deuteronomy_ch_34.docx": [2276], "Matthew_ch_24.docx": [1257], "Acts_ch_27.docx": [1526]}
 osamat	{"1 Chronicles_ch_3.docx": [1581]}

@@ -1,4 +1,2 @@
 
 ling	{"Proverbs_ch_23.docx": [2630]}
-ling	{"Proverbs_ch_23.docx": [2630]}
-ling	{"Proverbs_ch_23.docx": [2630]}

@@ -1,5 +1,2 @@
 
-gihon	{"2 Chronicles_ch_32.docx": [5804], "2 Chronicles_ch_33.docx": [2273, 2273, 2273]}
-4benai	{"1 Kings_ch_4.docx": [289]}
-gihon	{"2 Chronicles_ch_32.docx": [5804], "2 Chronicles_ch_33.docx": [2273, 2273]}
 gihon	{"2 Chronicles_ch_32.docx": [5804], "2 Chronicles_ch_33.docx": [2273]}

@@ -1,6 +1,2 @@
 
 tyrani	{"1 Kings_ch_7.docx": [1743]}
-35,500	{"Numbers_ch_26.docx": [4572]}
-tyrani	{"1 Kings_ch_7.docx": [1743]}
-9accor	{"1 Chronicles_ch_7.docx": [1188]}
-tyrani	{"1 Kings_ch_7.docx": [1743]}

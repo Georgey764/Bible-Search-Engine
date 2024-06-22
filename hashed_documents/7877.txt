@@ -1,0 +1,2 @@
+
+dates	{"Exodus_ch_40.docx": [4212], "2 Samuel_ch_24.docx": [6139], "1 Kings_ch_22.docx": [9937], "Esther_ch_10.docx": [1242], "Hosea_ch_14.docx": [1809], "John_ch_21.docx": [4678], "Romans_ch_16.docx": [3933], "Ephesians_ch_6.docx": [3005], "1 Timothy_ch_6.docx": [3356], "Philemon_ch_1.docx": [3440]}

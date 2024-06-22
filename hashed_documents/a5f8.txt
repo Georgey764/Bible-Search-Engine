@@ -1,4 +1,2 @@
 
-jesha	{"2 Chronicles_ch_13.docx": [3325], "Ezra_ch_8.docx": [2386, 2386, 2386]}
-jesha	{"2 Chronicles_ch_13.docx": [3325], "Ezra_ch_8.docx": [2386, 2386]}
 jesha	{"2 Chronicles_ch_13.docx": [3325], "Ezra_ch_8.docx": [2386]}

@@ -1,7 +1,3 @@
 
 gebeel	{"Joshua_ch_19.docx": [3466]}
 shelo	{"Ezra_ch_8.docx": [1045]}
-gebeel	{"Joshua_ch_19.docx": [3466]}
-shelo	{"Ezra_ch_8.docx": [1045]}
-gebeel	{"Joshua_ch_19.docx": [3466]}
-shelo	{"Ezra_ch_8.docx": [1045]}

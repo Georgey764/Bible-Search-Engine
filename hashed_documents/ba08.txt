@@ -1,4 +1,2 @@
 
-stonem	{"2 Kings_ch_12.docx": [1846], "2 Kings_ch_22.docx": [822, 822, 822]}
-stonem	{"2 Kings_ch_12.docx": [1846], "2 Kings_ch_22.docx": [822, 822]}
 stonem	{"2 Kings_ch_12.docx": [1846], "2 Kings_ch_22.docx": [822]}

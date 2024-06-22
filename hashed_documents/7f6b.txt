@@ -1,3 +1,3 @@
 
-thya	{"Revelation_ch_1.docx": [1925], "Revelation_ch_2.docx": [3050, 4207, 3050, 4207]}
+thutmo	{"Leviticus_ch_27.docx": [4904]}
 thya	{"Revelation_ch_1.docx": [1925], "Revelation_ch_2.docx": [3050, 4207]}

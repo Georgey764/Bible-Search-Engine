@@ -1,4 +1,2 @@
 
-beans	{"2 Samuel_ch_17.docx": [4592], "Ezekiel_ch_4.docx": [1335, 1335, 1335]}
-beans	{"2 Samuel_ch_17.docx": [4592], "Ezekiel_ch_4.docx": [1335, 1335]}
 beans	{"2 Samuel_ch_17.docx": [4592], "Ezekiel_ch_4.docx": [1335]}

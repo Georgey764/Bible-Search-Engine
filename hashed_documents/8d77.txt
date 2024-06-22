@@ -1,4 +1,2 @@
 
-data	{"Numbers_ch_1.docx": [1813], "Numbers_ch_2.docx": [14, 14, 14], "Numbers_ch_3.docx": [1936, 1936, 1936], "Numbers_ch_26.docx": [573, 573, 573]}
-data	{"Numbers_ch_1.docx": [1813], "Numbers_ch_2.docx": [14, 14], "Numbers_ch_3.docx": [1936, 1936], "Numbers_ch_26.docx": [573, 573]}
 data	{"Numbers_ch_1.docx": [1813], "Numbers_ch_2.docx": [14], "Numbers_ch_3.docx": [1936], "Numbers_ch_26.docx": [573]}

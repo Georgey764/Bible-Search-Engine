@@ -1,4 +1,2 @@
 
-folde	{"Exodus_ch_39.docx": [1061], "2 Kings_ch_2.docx": [847, 847, 847], "Psalms_ch_77.docx": [206, 206, 206], "Proverbs_ch_19.docx": [2208, 2208, 2208], "Proverbs_ch_24.docx": [3166, 3166, 3166]}
-folde	{"Exodus_ch_39.docx": [1061], "2 Kings_ch_2.docx": [847, 847], "Psalms_ch_77.docx": [206, 206], "Proverbs_ch_19.docx": [2208, 2208], "Proverbs_ch_24.docx": [3166, 3166]}
 folde	{"Exodus_ch_39.docx": [1061], "2 Kings_ch_2.docx": [847], "Psalms_ch_77.docx": [206], "Proverbs_ch_19.docx": [2208], "Proverbs_ch_24.docx": [3166]}

@@ -1,6 +1,3 @@
 
-backi	{"Exodus_ch_20.docx": [1862, 2270, 2270, 2270], "Joshua_ch_3.docx": [5879, 5903, 5929, 5879, 5903, 5929, 5879, 5903, 5929]}
-verif	{"Romans_ch_15.docx": [1027]}
-backi	{"Exodus_ch_20.docx": [1862, 2270, 2270], "Joshua_ch_3.docx": [5879, 5903, 5929, 5879, 5903, 5929]}
 backi	{"Exodus_ch_20.docx": [1862, 2270], "Joshua_ch_3.docx": [5879, 5903, 5929]}
 verif	{"Romans_ch_15.docx": [1027]}

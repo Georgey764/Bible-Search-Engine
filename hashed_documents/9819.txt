@@ -1,4 +1,2 @@
 
-full-l	{"Exodus_ch_25.docx": [662], "Exodus_ch_28.docx": [567, 567, 567], "Exodus_ch_29.docx": [491, 491, 491], "Exodus_ch_35.docx": [911, 911, 911], "Ezekiel_ch_9.docx": [761, 2266, 761, 2266, 761, 2266], "Zechariah_ch_3.docx": [820, 820, 820]}
-full-l	{"Exodus_ch_25.docx": [662], "Exodus_ch_28.docx": [567, 567], "Exodus_ch_29.docx": [491, 491], "Exodus_ch_35.docx": [911, 911], "Ezekiel_ch_9.docx": [761, 2266, 761, 2266], "Zechariah_ch_3.docx": [820, 820]}
 full-l	{"Exodus_ch_25.docx": [662], "Exodus_ch_28.docx": [567], "Exodus_ch_29.docx": [491], "Exodus_ch_35.docx": [911], "Ezekiel_ch_9.docx": [761, 2266], "Zechariah_ch_3.docx": [820]}

@@ -1,5 +1,2 @@
 
-snor	{"Isaiah_ch_10.docx": [4544], "Jeremiah_ch_5.docx": [1560, 1560, 1560], "Jeremiah_ch_8.docx": [1292, 3102, 1292, 3102, 1292, 3102], "Jeremiah_ch_13.docx": [4394, 4394, 4394], "Jonah_ch_1.docx": [775, 916, 775, 916, 775, 916]}
-13un	{"Deuteronomy_ch_20.docx": [1758]}
-snor	{"Isaiah_ch_10.docx": [4544], "Jeremiah_ch_5.docx": [1560, 1560], "Jeremiah_ch_8.docx": [1292, 3102, 1292, 3102], "Jeremiah_ch_13.docx": [4394, 4394], "Jonah_ch_1.docx": [775, 916, 775, 916]}
 snor	{"Isaiah_ch_10.docx": [4544], "Jeremiah_ch_5.docx": [1560], "Jeremiah_ch_8.docx": [1292, 3102], "Jeremiah_ch_13.docx": [4394], "Jonah_ch_1.docx": [775, 916]}

@@ -1,5 +1,2 @@
 
-mene	{"Daniel_ch_5.docx": [5051, 5105, 5105, 5105]}
-40sut	{"Numbers_ch_26.docx": [4112]}
-mene	{"Daniel_ch_5.docx": [5051, 5105, 5105]}
 mene	{"Daniel_ch_5.docx": [5051, 5105]}

@@ -1,5 +1,2 @@
 
-leh	{"Genesis_ch_10.docx": [1643], "1 Chronicles_ch_1.docx": [980, 980, 980]}
-leh	{"Genesis_ch_10.docx": [1643], "1 Chronicles_ch_1.docx": [980, 980]}
-33wa	{"Numbers_ch_1.docx": [2987]}
 leh	{"Genesis_ch_10.docx": [1643], "1 Chronicles_ch_1.docx": [980]}

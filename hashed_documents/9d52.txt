@@ -1,4 +1,0 @@
-
-3per	{"Deuteronomy_ch_19.docx": [53]}
-14‘sh	{"Judges_ch_13.docx": [2294], "Job_ch_27.docx": [1120]}
-12‘cy	{"Job_ch_37.docx": [1096]}

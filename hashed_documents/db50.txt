@@ -1,4 +1,2 @@
 
-manne	{"2 Chronicles_ch_35.docx": [2954], "Acts_ch_13.docx": [3841, 3841]}
-manne	{"2 Chronicles_ch_35.docx": [2954], "Acts_ch_13.docx": [3841]}
 manne	{"2 Chronicles_ch_35.docx": [2954], "Acts_ch_13.docx": [3841]}

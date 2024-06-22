@@ -1,4 +1,2 @@
 
-wet	{"Judges_ch_16.docx": [1353], "Job_ch_8.docx": [1395, 1395, 1395], "Song of Solomon_ch_5.docx": [701, 701, 701], "Isaiah_ch_49.docx": [4991, 4991, 4991], "Ezekiel_ch_7.docx": [2757, 2757, 2757], "Ezekiel_ch_21.docx": [1057, 1057, 1057], "Luke_ch_7.docx": [5212, 6354, 5212, 6354]}
-wet	{"Judges_ch_16.docx": [1353], "Job_ch_8.docx": [1395, 1395], "Song of Solomon_ch_5.docx": [701, 701], "Isaiah_ch_49.docx": [4991, 4991], "Ezekiel_ch_7.docx": [2757, 2757], "Ezekiel_ch_21.docx": [1057, 1057], "Luke_ch_7.docx": [5212, 6354]}
-wet	{"Judges_ch_16.docx": [1353], "Job_ch_8.docx": [1395], "Song of Solomon_ch_5.docx": [701], "Isaiah_ch_49.docx": [4991], "Ezekiel_ch_7.docx": [2757], "Ezekiel_ch_21.docx": [1057], "Luke_ch_7.docx": [5212, 6354]}
+wet	{"Judges_ch_16.docx": [1353], "Ruth_ch_4.docx": [3220], "Job_ch_8.docx": [1395], "Song of Solomon_ch_5.docx": [701], "Isaiah_ch_49.docx": [4991], "Ezekiel_ch_7.docx": [2757], "Ezekiel_ch_21.docx": [1057], "Luke_ch_7.docx": [5212, 6354]}

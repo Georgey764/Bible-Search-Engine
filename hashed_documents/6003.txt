@@ -1,4 +1,2 @@
 
-exiles	{"Isaiah_ch_16.docx": [457], "1 Peter_ch_2.docx": [1559, 1559]}
-exiles	{"Isaiah_ch_16.docx": [457], "1 Peter_ch_2.docx": [1559]}
 exiles	{"Isaiah_ch_16.docx": [457], "1 Peter_ch_2.docx": [1559]}

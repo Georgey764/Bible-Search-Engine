@@ -1,5 +1,2 @@
 
 stitc	{"Exodus_ch_38.docx": [2607]}
-30ch	{"Genesis_ch_36.docx": [3147]}
-stitc	{"Exodus_ch_38.docx": [2607]}
-stitc	{"Exodus_ch_38.docx": [2607]}

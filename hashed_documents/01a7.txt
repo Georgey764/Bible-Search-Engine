@@ -1,5 +1,2 @@
 
 pinch	{"Leviticus_ch_5.docx": [1149]}
-28this	{"Exodus_ch_26.docx": [2470], "Exodus_ch_29.docx": [3599], "Numbers_ch_4.docx": [3708], "Joshua_ch_13.docx": [31538]}
-pinch	{"Leviticus_ch_5.docx": [1149]}
-pinch	{"Leviticus_ch_5.docx": [1149]}

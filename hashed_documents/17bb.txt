@@ -1,4 +1,2 @@
 
-soak	{"Judges_ch_16.docx": [1251], "Psalms_ch_6.docx": [565, 565, 565], "Isaiah_ch_55.docx": [1621, 1621, 1621], "Matthew_ch_27.docx": [5491, 5491], "Mark_ch_7.docx": [92, 92], "Hebrews_ch_6.docx": [815, 815]}
-soak	{"Judges_ch_16.docx": [1251], "Psalms_ch_6.docx": [565, 565], "Isaiah_ch_55.docx": [1621, 1621], "Matthew_ch_27.docx": [5491], "Mark_ch_7.docx": [92], "Hebrews_ch_6.docx": [815]}
 soak	{"Judges_ch_16.docx": [1251], "Psalms_ch_6.docx": [565], "Isaiah_ch_55.docx": [1621], "Matthew_ch_27.docx": [5491], "Mark_ch_7.docx": [92], "Hebrews_ch_6.docx": [815]}

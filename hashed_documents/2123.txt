@@ -1,4 +1,2 @@
 
-admin	{"1 Chronicles_ch_9.docx": [2809], "2 Chronicles_ch_33.docx": [856, 856, 856], "Ezra_ch_8.docx": [5333, 5333, 5333], "Ephesians_ch_1.docx": [1110, 1132, 1110, 1132]}
-admin	{"1 Chronicles_ch_9.docx": [2809], "2 Chronicles_ch_33.docx": [856, 856], "Ezra_ch_8.docx": [5333, 5333], "Ephesians_ch_1.docx": [1110, 1132]}
 admin	{"1 Chronicles_ch_9.docx": [2809], "2 Chronicles_ch_33.docx": [856], "Ezra_ch_8.docx": [5333], "Ephesians_ch_1.docx": [1110, 1132]}

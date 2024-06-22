@@ -1,5 +1,2 @@
 
-harhu	{"Ezra_ch_2.docx": [2062], "Nehemiah_ch_7.docx": [3123, 3123, 3123]}
-15[fe	{"Exodus_ch_23.docx": [1686]}
-harhu	{"Ezra_ch_2.docx": [2062], "Nehemiah_ch_7.docx": [3123, 3123]}
 harhu	{"Ezra_ch_2.docx": [2062], "Nehemiah_ch_7.docx": [3123]}

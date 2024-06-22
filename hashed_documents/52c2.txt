@@ -1,5 +1,2 @@
 
-phelet	{"2 Samuel_ch_8.docx": [2708], "2 Samuel_ch_15.docx": [2415, 2591, 2415, 2591, 2415, 2591], "2 Samuel_ch_20.docx": [1286, 4416, 1286, 4416, 1286, 4416], "1 Kings_ch_1.docx": [5286, 6228, 5286, 6228, 5286, 6228], "1 Chronicles_ch_18.docx": [2196, 2196, 2196]}
-phelet	{"2 Samuel_ch_8.docx": [2708], "2 Samuel_ch_15.docx": [2415, 2591, 2415, 2591], "2 Samuel_ch_20.docx": [1286, 4416, 1286, 4416], "1 Kings_ch_1.docx": [5286, 6228, 5286, 6228], "1 Chronicles_ch_18.docx": [2196, 2196]}
-3‘know	{"Hosea_ch_6.docx": [373]}
 phelet	{"2 Samuel_ch_8.docx": [2708], "2 Samuel_ch_15.docx": [2415, 2591], "2 Samuel_ch_20.docx": [1286, 4416], "1 Kings_ch_1.docx": [5286, 6228], "1 Chronicles_ch_18.docx": [2196]}

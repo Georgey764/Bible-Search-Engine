@@ -1,3 +1,2 @@
 
-bale’	{"Numbers_ch_26.docx": [4538], "1 Chronicles_ch_7.docx": [834, 834]}
 bale’	{"Numbers_ch_26.docx": [4538], "1 Chronicles_ch_7.docx": [834]}

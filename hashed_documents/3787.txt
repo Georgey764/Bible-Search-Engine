@@ -1,4 +1,2 @@
 
-soaked	{"Judges_ch_16.docx": [1251], "Matthew_ch_27.docx": [5491, 5491], "Hebrews_ch_6.docx": [815, 815]}
-soaked	{"Judges_ch_16.docx": [1251], "Matthew_ch_27.docx": [5491], "Hebrews_ch_6.docx": [815]}
 soaked	{"Judges_ch_16.docx": [1251], "Matthew_ch_27.docx": [5491], "Hebrews_ch_6.docx": [815]}

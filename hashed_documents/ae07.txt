@@ -1,7 +1,3 @@
 
 hadade	{"1 Kings_ch_11.docx": [3313]}
-jehiel	{"Ezra_ch_8.docx": [986]}
-hadade	{"1 Kings_ch_11.docx": [3313]}
-jehiel	{"Ezra_ch_8.docx": [986]}
-hadade	{"1 Kings_ch_11.docx": [3313]}
-jehiel	{"Ezra_ch_8.docx": [986]}
+jehiel	{"Ezra_ch_8.docx": [986], "Ezra_ch_10.docx": [225, 3947, 4549]}

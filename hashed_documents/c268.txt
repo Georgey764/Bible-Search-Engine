@@ -1,5 +1,2 @@
 
-yell!	{"Psalms_ch_95.docx": [87], "Isaiah_ch_40.docx": [726, 726, 726]}
-5.7l	{"Ruth_ch_3.docx": [2086, 2342]}
-yell!	{"Psalms_ch_95.docx": [87], "Isaiah_ch_40.docx": [726, 726]}
 yell!	{"Psalms_ch_95.docx": [87], "Isaiah_ch_40.docx": [726]}

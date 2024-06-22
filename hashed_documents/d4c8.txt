@@ -1,4 +1,2 @@
 
-masph	{"Joshua_ch_15.docx": [4850], "Joshua_ch_19.docx": [2359, 2359, 2359], "2 Chronicles_ch_16.docx": [872, 872, 872], "Nehemiah_ch_7.docx": [1098, 1098, 1098]}
-masph	{"Joshua_ch_15.docx": [4850], "Joshua_ch_19.docx": [2359, 2359], "2 Chronicles_ch_16.docx": [872, 872], "Nehemiah_ch_7.docx": [1098, 1098]}
 masph	{"Joshua_ch_15.docx": [4850], "Joshua_ch_19.docx": [2359], "2 Chronicles_ch_16.docx": [872], "Nehemiah_ch_7.docx": [1098]}

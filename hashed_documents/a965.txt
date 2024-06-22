@@ -1,4 +1,2 @@
 
-city;	{"Judges_ch_9.docx": [6197], "2 Samuel_ch_12.docx": [124, 124, 124], "Proverbs_ch_29.docx": [725, 725, 725], "Acts_ch_16.docx": [6194, 6194], "Revelation_ch_18.docx": [1854, 1854]}
-city;	{"Judges_ch_9.docx": [6197], "2 Samuel_ch_12.docx": [124, 124], "Proverbs_ch_29.docx": [725, 725], "Acts_ch_16.docx": [6194], "Revelation_ch_18.docx": [1854]}
 city;	{"Judges_ch_9.docx": [6197], "2 Samuel_ch_12.docx": [124], "Proverbs_ch_29.docx": [725], "Acts_ch_16.docx": [6194], "Revelation_ch_18.docx": [1854]}

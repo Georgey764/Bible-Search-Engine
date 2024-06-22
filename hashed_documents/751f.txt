@@ -1,4 +1,2 @@
 
-what’l	{"Deuteronomy_ch_4.docx": [4560], "John_ch_6.docx": [7645, 7645], "Romans_ch_2.docx": [1178, 1178]}
-what’l	{"Deuteronomy_ch_4.docx": [4560], "John_ch_6.docx": [7645], "Romans_ch_2.docx": [1178]}
 what’l	{"Deuteronomy_ch_4.docx": [4560], "John_ch_6.docx": [7645], "Romans_ch_2.docx": [1178]}

@@ -1,2 +1,0 @@
-
-16‘m	{"Genesis_ch_9.docx": [2005], "Exodus_ch_15.docx": [1993], "Exodus_ch_28.docx": [2076], "Numbers_ch_27.docx": [2105], "Job_ch_16.docx": [1564], "Job_ch_20.docx": [1432], "Psalms_ch_40.docx": [2060], "Jeremiah_ch_48.docx": [2100], "Jeremiah_ch_50.docx": [2938]}

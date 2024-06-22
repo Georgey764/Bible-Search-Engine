@@ -1,5 +1,2 @@
 
-fear;	{"Job_ch_3.docx": [2316], "Job_ch_21.docx": [714, 714, 714], "Psalms_ch_52.docx": [660, 660, 660], "Psalms_ch_118.docx": [467, 467, 467], "Proverbs_ch_3.docx": [2256, 2256, 2256], "Ezekiel_ch_26.docx": [3342, 3342, 3342], "Ezekiel_ch_32.docx": [5846, 5846, 5846], "Matthew_ch_10.docx": [3943, 3943, 3943]}
-fear;	{"Job_ch_3.docx": [2316], "Job_ch_21.docx": [714, 714], "Psalms_ch_52.docx": [660, 660], "Psalms_ch_118.docx": [467, 467], "Proverbs_ch_3.docx": [2256, 2256], "Ezekiel_ch_26.docx": [3342, 3342], "Ezekiel_ch_32.docx": [5846, 5846], "Matthew_ch_10.docx": [3943, 3943]}
-6fina	{"Matthew_ch_20.docx": [625]}
-fear;	{"Job_ch_3.docx": [2316], "Job_ch_21.docx": [714], "Psalms_ch_52.docx": [660], "Psalms_ch_118.docx": [467], "Proverbs_ch_3.docx": [2256], "Ezekiel_ch_26.docx": [3342], "Ezekiel_ch_32.docx": [5846], "Matthew_ch_10.docx": [3943]}
+fear;	{"Job_ch_3.docx": [2316], "Job_ch_21.docx": [714], "Psalms_ch_52.docx": [660], "Psalms_ch_118.docx": [467], "Proverbs_ch_3.docx": [2256], "Ezekiel_ch_26.docx": [3342], "Ezekiel_ch_32.docx": [5846], "Matthew_ch_10.docx": [3943], "Hebrews_ch_13.docx": [753]}

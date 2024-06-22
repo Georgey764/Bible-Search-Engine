@@ -1,4 +1,2 @@
 
-series	{"Joshua_ch_12.docx": [9]}
-series	{"Joshua_ch_12.docx": [9]}
-series	{"Joshua_ch_12.docx": [9]}
+series	{"Joshua_ch_12.docx": [9], "Jeremiah_ch_52.docx": [5394]}

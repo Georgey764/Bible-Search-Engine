@@ -1,3 +1,2 @@
 
-cyren	{"Matthew_ch_27.docx": [3874], "Mark_ch_15.docx": [2188, 2188], "Luke_ch_23.docx": [2825, 2825], "Acts_ch_2.docx": [1788, 1798, 1811, 1825, 1840, 1856, 1788, 1798, 1811, 1825, 1840, 1856], "Acts_ch_6.docx": [1114, 1114]}
 cyren	{"Matthew_ch_27.docx": [3874], "Mark_ch_15.docx": [2188], "Luke_ch_23.docx": [2825], "Acts_ch_2.docx": [1788, 1798, 1811, 1825, 1840, 1856], "Acts_ch_6.docx": [1114]}

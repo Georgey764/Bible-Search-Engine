@@ -1,0 +1,2 @@
+
+casu	{"Genesis_ch_50.docx": [4110], "Exodus_ch_40.docx": [4372], "Leviticus_ch_27.docx": [5079], "Numbers_ch_36.docx": [2763], "2 Kings_ch_25.docx": [5314]}

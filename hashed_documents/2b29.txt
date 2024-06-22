@@ -1,5 +1,2 @@
 
 cart’s	{"1 Kings_ch_7.docx": [4538]}
-cart’s	{"1 Kings_ch_7.docx": [4538]}
-7,10	{"1 Chronicles_ch_12.docx": [3396]}
-cart’s	{"1 Kings_ch_7.docx": [4538]}

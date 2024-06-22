@@ -1,5 +1,2 @@
 
-audac	{"Jeremiah_ch_49.docx": [2868], "Jeremiah_ch_50.docx": [7855, 7855, 7855]}
-8‘an	{"Exodus_ch_13.docx": [1065], "Leviticus_ch_17.docx": [1272], "Numbers_ch_14.docx": [938], "Numbers_ch_15.docx": [901], "Deuteronomy_ch_4.docx": [1223], "Deuteronomy_ch_14.docx": [785], "Deuteronomy_ch_19.docx": [1159], "Joshua_ch_1.docx": [1017], "2 Samuel_ch_1.docx": [1045], "1 Kings_ch_2.docx": [1348], "1 Kings_ch_9.docx": [1328], "1 Chronicles_ch_28.docx": [1554], "2 Chronicles_ch_33.docx": [1233], "Jeremiah_ch_32.docx": [1260], "Ezekiel_ch_29.docx": [1304], "Micah_ch_5.docx": [2356], "Zechariah_ch_13.docx": [1434], "Matthew_ch_22.docx": [838]}
-audac	{"Jeremiah_ch_49.docx": [2868], "Jeremiah_ch_50.docx": [7855, 7855]}
 audac	{"Jeremiah_ch_49.docx": [2868], "Jeremiah_ch_50.docx": [7855]}

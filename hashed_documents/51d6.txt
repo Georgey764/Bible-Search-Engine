@@ -1,6 +1,2 @@
 
-recrui	{"1 Samuel_ch_14.docx": [8466], "2 Samuel_ch_15.docx": [16, 16, 16], "2 Chronicles_ch_32.docx": [794, 794, 794]}
-30ther	{"Genesis_ch_29.docx": [3693], "Exodus_ch_30.docx": [3697], "Judges_ch_11.docx": [6620], "2 Kings_ch_9.docx": [5942], "Ezra_ch_8.docx": [4193]}
-recrui	{"1 Samuel_ch_14.docx": [8466], "2 Samuel_ch_15.docx": [16, 16], "2 Chronicles_ch_32.docx": [794, 794]}
-11,	{"2 Chronicles_ch_3.docx": [1020]}
-recrui	{"1 Samuel_ch_14.docx": [8466], "2 Samuel_ch_15.docx": [16], "2 Chronicles_ch_32.docx": [794]}
+recrui	{"1 Samuel_ch_14.docx": [8466], "2 Samuel_ch_15.docx": [16], "2 Kings_ch_25.docx": [2734], "2 Chronicles_ch_32.docx": [794]}

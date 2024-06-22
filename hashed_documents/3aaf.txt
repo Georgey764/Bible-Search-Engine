@@ -1,4 +1,2 @@
 
-foundi	{"Matthew_ch_13.docx": [4909], "Matthew_ch_25.docx": [3992, 3992, 3992], "John_ch_17.docx": [3107, 3107], "Hebrews_ch_4.docx": [702, 714, 702, 714], "1 Peter_ch_1.docx": [5202, 5202], "Revelation_ch_13.docx": [1115, 1115], "Revelation_ch_17.docx": [1485, 1485]}
-foundi	{"Matthew_ch_13.docx": [4909], "Matthew_ch_25.docx": [3992, 3992], "John_ch_17.docx": [3107], "Hebrews_ch_4.docx": [702, 714], "1 Peter_ch_1.docx": [5202], "Revelation_ch_13.docx": [1115], "Revelation_ch_17.docx": [1485]}
 foundi	{"Matthew_ch_13.docx": [4909], "Matthew_ch_25.docx": [3992], "John_ch_17.docx": [3107], "Hebrews_ch_4.docx": [702, 714], "1 Peter_ch_1.docx": [5202], "Revelation_ch_13.docx": [1115], "Revelation_ch_17.docx": [1485]}

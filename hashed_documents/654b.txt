@@ -1,5 +1,2 @@
 
-drawe	{"Joshua_ch_9.docx": [11272], "Amos_ch_8.docx": [785, 785, 785]}
-drawe	{"Joshua_ch_9.docx": [11272], "Amos_ch_8.docx": [785, 785]}
-6‘lo	{"Isaiah_ch_36.docx": [858], "Isaiah_ch_39.docx": [1017], "Isaiah_ch_65.docx": [855], "Matthew_ch_8.docx": [637]}
 drawe	{"Joshua_ch_9.docx": [11272], "Amos_ch_8.docx": [785]}

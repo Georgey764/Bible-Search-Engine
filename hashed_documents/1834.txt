@@ -1,4 +1,2 @@
 
-baea	{"Numbers_ch_32.docx": [426], "Ezra_ch_2.docx": [766, 766, 766]}
-baea	{"Numbers_ch_32.docx": [426], "Ezra_ch_2.docx": [766, 766]}
 baea	{"Numbers_ch_32.docx": [426], "Ezra_ch_2.docx": [766]}

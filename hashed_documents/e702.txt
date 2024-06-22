@@ -1,4 +1,2 @@
 
-goodwi	{"Esther_ch_2.docx": [4262], "Romans_ch_10.docx": [40, 40]}
-goodwi	{"Esther_ch_2.docx": [4262], "Romans_ch_10.docx": [40]}
 goodwi	{"Esther_ch_2.docx": [4262], "Romans_ch_10.docx": [40]}

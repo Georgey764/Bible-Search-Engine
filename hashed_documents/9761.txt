@@ -1,2 +1,0 @@
-
-23‘for	{"Exodus_ch_5.docx": [3316], "Job_ch_3.docx": [2147], "Job_ch_15.docx": [2031], "Isaiah_ch_29.docx": [4035], "Isaiah_ch_51.docx": [4283], "Jeremiah_ch_29.docx": [3648], "Jeremiah_ch_30.docx": [3983], "Jeremiah_ch_44.docx": [4696], "Ezekiel_ch_21.docx": [3888], "Daniel_ch_11.docx": [4400]}

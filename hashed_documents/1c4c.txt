@@ -1,3 +1,0 @@
-
-61al	{"Joshua_ch_15.docx": [6333], "Ezra_ch_2.docx": [2688], "Psalms_ch_119.docx": [4886]}
-21now	{"Judges_ch_18.docx": [4781], "2 Chronicles_ch_11.docx": [2350]}

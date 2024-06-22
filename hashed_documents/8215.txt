@@ -1,5 +1,2 @@
 
-corona	{"1 Kings_ch_12.docx": [19], "2 Chronicles_ch_10.docx": [18, 18, 18], "Esther_ch_1.docx": [1915, 1915, 1915]}
-corona	{"1 Kings_ch_12.docx": [19], "2 Chronicles_ch_10.docx": [18, 18], "Esther_ch_1.docx": [1915, 1915]}
-24‘ye	{"Isaiah_ch_42.docx": [3583]}
-corona	{"1 Kings_ch_12.docx": [19], "2 Chronicles_ch_10.docx": [18], "Esther_ch_1.docx": [1915]}
+corona	{"1 Kings_ch_12.docx": [19], "1 Chronicles_ch_29.docx": [4387], "2 Chronicles_ch_10.docx": [18], "Esther_ch_1.docx": [1915]}

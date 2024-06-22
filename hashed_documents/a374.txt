@@ -1,5 +1,2 @@
 
-nightg	{"1 Samuel_ch_19.docx": [2094], "Proverbs_ch_23.docx": [1805, 1805, 1805], "Mark_ch_14.docx": [6503, 6503]}
-12tak	{"Exodus_ch_29.docx": [1245]}
-nightg	{"1 Samuel_ch_19.docx": [2094], "Proverbs_ch_23.docx": [1805, 1805], "Mark_ch_14.docx": [6503]}
 nightg	{"1 Samuel_ch_19.docx": [2094], "Proverbs_ch_23.docx": [1805], "Mark_ch_14.docx": [6503]}

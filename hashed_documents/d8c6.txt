@@ -1,4 +1,2 @@
 
-amon’	{"2 Kings_ch_21.docx": [3997, 4114, 4114, 4114]}
-amon’	{"2 Kings_ch_21.docx": [3997, 4114, 4114]}
 amon’	{"2 Kings_ch_21.docx": [3997, 4114]}

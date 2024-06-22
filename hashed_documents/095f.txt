@@ -1,4 +1,2 @@
 
-horoni	{"Nehemiah_ch_2.docx": [1820, 4995, 4995, 4995]}
-horoni	{"Nehemiah_ch_2.docx": [1820, 4995, 4995]}
 horoni	{"Nehemiah_ch_2.docx": [1820, 4995]}

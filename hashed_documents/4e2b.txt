@@ -1,4 +1,2 @@
 
-melti	{"Job_ch_7.docx": [599], "Malachi_ch_3.docx": [503, 503, 503]}
-melti	{"Job_ch_7.docx": [599], "Malachi_ch_3.docx": [503, 503]}
 melti	{"Job_ch_7.docx": [599], "Malachi_ch_3.docx": [503]}

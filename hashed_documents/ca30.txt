@@ -1,7 +1,3 @@
 
-by;	{"Deuteronomy_ch_22.docx": [23, 558, 558, 558], "Job_ch_6.docx": [1589, 1589, 1589]}
-barter	{"Proverbs_ch_20.docx": [2071], "Isaiah_ch_48.docx": [1852, 1852, 1852]}
-by;	{"Deuteronomy_ch_22.docx": [23, 558, 558], "Job_ch_6.docx": [1589, 1589]}
-barter	{"Proverbs_ch_20.docx": [2071], "Isaiah_ch_48.docx": [1852, 1852]}
 by;	{"Deuteronomy_ch_22.docx": [23, 558], "Job_ch_6.docx": [1589]}
-barter	{"Proverbs_ch_20.docx": [2071], "Isaiah_ch_48.docx": [1852]}
+barter	{"Proverbs_ch_20.docx": [2071], "Isaiah_ch_48.docx": [1852], "Lamentations_ch_5.docx": [347]}

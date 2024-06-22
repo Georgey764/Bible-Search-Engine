@@ -1,3 +1,2 @@
 
-perjur	{"Matthew_ch_26.docx": [7280], "Mark_ch_14.docx": [7254, 7254]}
 perjur	{"Matthew_ch_26.docx": [7280], "Mark_ch_14.docx": [7254]}

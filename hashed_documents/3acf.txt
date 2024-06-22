@@ -1,5 +1,2 @@
 
-ash-co	{"Genesis_ch_30.docx": [4906], "Genesis_ch_31.docx": [1040, 1495, 1040, 1495, 1040, 1495]}
-ash-co	{"Genesis_ch_30.docx": [4906], "Genesis_ch_31.docx": [1040, 1495, 1040, 1495]}
-16wi	{"Joshua_ch_2.docx": [2129], "Lamentations_ch_3.docx": [1217]}
 ash-co	{"Genesis_ch_30.docx": [4906], "Genesis_ch_31.docx": [1040, 1495]}

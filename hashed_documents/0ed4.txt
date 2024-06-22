@@ -1,4 +1,2 @@
 
-sag	{"1 Chronicles_ch_2.docx": [4244, 4328, 4336, 4328, 4336, 4328, 4336]}
-sag	{"1 Chronicles_ch_2.docx": [4244, 4328, 4336, 4328, 4336]}
 sag	{"1 Chronicles_ch_2.docx": [4244, 4328, 4336]}

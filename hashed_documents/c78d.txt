@@ -1,3 +1,2 @@
 
-paphos	{"Acts_ch_13.docx": [1932, 3048, 3048]}
 paphos	{"Acts_ch_13.docx": [1932, 3048]}

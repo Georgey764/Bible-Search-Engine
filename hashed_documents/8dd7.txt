@@ -1,5 +1,2 @@
 
 itour	{"1 Chronicles_ch_5.docx": [2437]}
-11each	{"Genesis_ch_41.docx": [1153], "Exodus_ch_22.docx": [1723]}
-itour	{"1 Chronicles_ch_5.docx": [2437]}
-itour	{"1 Chronicles_ch_5.docx": [2437]}

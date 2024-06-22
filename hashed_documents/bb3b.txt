@@ -1,2 +1,0 @@
-
-3may	{"Psalms_ch_20.docx": [234], "Psalms_ch_41.docx": [294], "Psalms_ch_67.docx": [248], "Psalms_ch_70.docx": [277], "Psalms_ch_72.docx": [198], "Psalms_ch_118.docx": [200], "Psalms_ch_134.docx": [312], "Proverbs_ch_3.docx": [229]}

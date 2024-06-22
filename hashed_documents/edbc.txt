@@ -1,4 +1,2 @@
 
-acrabi	{"Numbers_ch_34.docx": [426], "Joshua_ch_15.docx": [336, 336, 336]}
-acrabi	{"Numbers_ch_34.docx": [426], "Joshua_ch_15.docx": [336, 336]}
 acrabi	{"Numbers_ch_34.docx": [426], "Joshua_ch_15.docx": [336]}

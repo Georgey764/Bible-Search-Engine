@@ -1,4 +1,2 @@
 
-nabuza	{"Jeremiah_ch_39.docx": [1385, 2056, 2056, 2056], "Jeremiah_ch_40.docx": [22, 22, 22], "Jeremiah_ch_43.docx": [598, 598, 598]}
-nabuza	{"Jeremiah_ch_39.docx": [1385, 2056, 2056], "Jeremiah_ch_40.docx": [22, 22], "Jeremiah_ch_43.docx": [598, 598]}
-nabuza	{"Jeremiah_ch_39.docx": [1385, 2056], "Jeremiah_ch_40.docx": [22], "Jeremiah_ch_43.docx": [598]}
+nabuza	{"2 Kings_ch_25.docx": [1104, 1524, 2829], "Jeremiah_ch_39.docx": [1385, 2056], "Jeremiah_ch_40.docx": [22], "Jeremiah_ch_43.docx": [598], "Jeremiah_ch_52.docx": [1858, 4142]}

@@ -1,4 +1,2 @@
 
-obstac	{"Psalms_ch_140.docx": [554], "Psalms_ch_141.docx": [925, 925, 925]}
-obstac	{"Psalms_ch_140.docx": [554], "Psalms_ch_141.docx": [925, 925]}
 obstac	{"Psalms_ch_140.docx": [554], "Psalms_ch_141.docx": [925]}

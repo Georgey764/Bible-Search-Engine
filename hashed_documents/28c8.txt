@@ -1,7 +1,3 @@
 
-obv	{"Judges_ch_6.docx": [3185], "Job_ch_42.docx": [3827], "Galatians_ch_3.docx": [1403, 1403], "Hebrews_ch_7.docx": [2239, 2239]}
-sojo	{"Psalms_ch_119.docx": [1352]}
-obv	{"Judges_ch_6.docx": [3185], "Galatians_ch_3.docx": [1403], "Hebrews_ch_7.docx": [2239]}
-sojo	{"Psalms_ch_119.docx": [1352]}
-obv	{"Judges_ch_6.docx": [3185], "Galatians_ch_3.docx": [1403], "Hebrews_ch_7.docx": [2239]}
+obv	{"Judges_ch_6.docx": [3185], "2 Samuel_ch_24.docx": [5644], "1 Kings_ch_22.docx": [9441], "2 Chronicles_ch_36.docx": [3963], "Job_ch_42.docx": [3827], "Ecclesiastes_ch_12.docx": [2904], "Galatians_ch_3.docx": [1403], "Hebrews_ch_7.docx": [2239]}
 sojo	{"Psalms_ch_119.docx": [1352]}

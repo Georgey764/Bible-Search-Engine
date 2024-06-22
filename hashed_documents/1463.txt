@@ -1,4 +1,2 @@
 
-messi	{"Psalms_ch_45.docx": [178], "Luke_ch_3.docx": [4941, 4941], "John_ch_4.docx": [3480, 3480]}
-messi	{"Psalms_ch_45.docx": [178], "Luke_ch_3.docx": [4941], "John_ch_4.docx": [3480]}
-messi	{"Psalms_ch_45.docx": [178], "Luke_ch_3.docx": [4941], "John_ch_4.docx": [3480]}
+messi	{"2 Chronicles_ch_36.docx": [7492], "Esther_ch_10.docx": [2834, 3419, 3905, 3929, 4549], "Psalms_ch_45.docx": [178], "Haggai_ch_2.docx": [5018], "Zechariah_ch_14.docx": [4951], "Luke_ch_3.docx": [4941], "John_ch_4.docx": [3480], "Jude_ch_1.docx": [2069]}

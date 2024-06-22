@@ -1,3 +1,2 @@
 
-invis	{"Romans_ch_1.docx": [2296], "2 Corinthians_ch_4.docx": [2941, 2941], "Colossians_ch_1.docx": [1763, 2043, 1763, 2043], "1 Timothy_ch_1.docx": [2521, 2521], "Hebrews_ch_4.docx": [2087, 2087], "Hebrews_ch_11.docx": [184, 209, 5239, 5258, 184, 209, 5239, 5258]}
 invis	{"Romans_ch_1.docx": [2296], "2 Corinthians_ch_4.docx": [2941], "Colossians_ch_1.docx": [1763, 2043], "1 Timothy_ch_1.docx": [2521], "Hebrews_ch_4.docx": [2087], "Hebrews_ch_11.docx": [184, 209, 5239, 5258]}

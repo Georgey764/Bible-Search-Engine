@@ -1,5 +1,2 @@
 
-hroon	{"Genesis_ch_46.docx": [3405, 3431, 3431, 3431]}
-hroon	{"Genesis_ch_46.docx": [3405, 3431, 3431]}
-73we	{"Nehemiah_ch_7.docx": [4882]}
 hroon	{"Genesis_ch_46.docx": [3405, 3431]}

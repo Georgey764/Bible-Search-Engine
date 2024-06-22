@@ -1,4 +1,2 @@
 
-handso	{"Genesis_ch_39.docx": [1036], "1 Samuel_ch_9.docx": [47, 47, 47], "1 Samuel_ch_16.docx": [2151, 3155, 2151, 3155, 2151, 3155], "1 Kings_ch_1.docx": [814, 814, 814], "Song of Solomon_ch_1.docx": [2074, 2074, 2074], "Isaiah_ch_63.docx": [107, 107, 107], "Amos_ch_8.docx": [2200, 2200, 2200], "Zechariah_ch_10.docx": [677, 677, 677]}
-handso	{"Genesis_ch_39.docx": [1036], "1 Samuel_ch_9.docx": [47, 47], "1 Samuel_ch_16.docx": [2151, 3155, 2151, 3155], "1 Kings_ch_1.docx": [814, 814], "Song of Solomon_ch_1.docx": [2074, 2074], "Isaiah_ch_63.docx": [107, 107], "Amos_ch_8.docx": [2200, 2200], "Zechariah_ch_10.docx": [677, 677]}
 handso	{"Genesis_ch_39.docx": [1036], "1 Samuel_ch_9.docx": [47], "1 Samuel_ch_16.docx": [2151, 3155], "1 Kings_ch_1.docx": [814], "Song of Solomon_ch_1.docx": [2074], "Isaiah_ch_63.docx": [107], "Amos_ch_8.docx": [2200], "Zechariah_ch_10.docx": [677]}

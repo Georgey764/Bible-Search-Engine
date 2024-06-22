@@ -1,6 +1,3 @@
 
 arus	{"2 Kings_ch_21.docx": [3545]}
 funds	{"Luke_ch_14.docx": [3553]}
-arus	{"2 Kings_ch_21.docx": [3545]}
-arus	{"2 Kings_ch_21.docx": [3545]}
-funds	{"Luke_ch_14.docx": [3553]}

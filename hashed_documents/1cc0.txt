@@ -1,5 +1,2 @@
 
-widene	{"Psalms_ch_18.docx": [3517], "Psalms_ch_119.docx": [2502, 2502, 2502], "Isaiah_ch_5.docx": [2277, 2277, 2277], "Lamentations_ch_2.docx": [2984, 2984, 2984]}
-widene	{"Psalms_ch_18.docx": [3517], "Psalms_ch_119.docx": [2502, 2502], "Isaiah_ch_5.docx": [2277, 2277], "Lamentations_ch_2.docx": [2984, 2984]}
-110al	{"Psalms_ch_119.docx": [9149]}
 widene	{"Psalms_ch_18.docx": [3517], "Psalms_ch_119.docx": [2502], "Isaiah_ch_5.docx": [2277], "Lamentations_ch_2.docx": [2984]}

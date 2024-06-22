@@ -1,4 +1,2 @@
 
-depe	{"Genesis_ch_44.docx": [3894], "Exodus_ch_12.docx": [235, 235, 235], "Ecclesiastes_ch_4.docx": [1001, 1001, 1001], "Isaiah_ch_22.docx": [3670, 3670, 3670], "Romans_ch_9.docx": [1225, 1818, 1225, 1818], "Ephesians_ch_4.docx": [581, 581]}
-depe	{"Genesis_ch_44.docx": [3894], "Exodus_ch_12.docx": [235, 235], "Ecclesiastes_ch_4.docx": [1001, 1001], "Isaiah_ch_22.docx": [3670, 3670], "Romans_ch_9.docx": [1225, 1818], "Ephesians_ch_4.docx": [581]}
 depe	{"Genesis_ch_44.docx": [3894], "Exodus_ch_12.docx": [235], "Ecclesiastes_ch_4.docx": [1001], "Isaiah_ch_22.docx": [3670], "Romans_ch_9.docx": [1225, 1818], "Ephesians_ch_4.docx": [581]}

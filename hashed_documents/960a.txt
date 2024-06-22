@@ -1,8 +1,3 @@
 
-subs	{"Exodus_ch_30.docx": [4211], "Isaiah_ch_60.docx": [3366, 3366, 3366], "Jeremiah_ch_30.docx": [2281, 2281, 2281], "Matthew_ch_14.docx": [3839, 3839, 3839]}
-underc	{"Song of Solomon_ch_5.docx": [756], "Isaiah_ch_3.docx": [3505, 3505, 3505], "Daniel_ch_3.docx": [3453, 3453, 3453], "Mark_ch_6.docx": [1036, 1036]}
-subs	{"Exodus_ch_30.docx": [4211], "Isaiah_ch_60.docx": [3366, 3366], "Jeremiah_ch_30.docx": [2281, 2281], "Matthew_ch_14.docx": [3839, 3839]}
-58th	{"1 Samuel_ch_17.docx": [9541], "Matthew_ch_13.docx": [7759]}
-underc	{"Song of Solomon_ch_5.docx": [756], "Isaiah_ch_3.docx": [3505, 3505], "Daniel_ch_3.docx": [3453, 3453], "Mark_ch_6.docx": [1036]}
 subs	{"Exodus_ch_30.docx": [4211], "Isaiah_ch_60.docx": [3366], "Jeremiah_ch_30.docx": [2281], "Matthew_ch_14.docx": [3839]}
 underc	{"Song of Solomon_ch_5.docx": [756], "Isaiah_ch_3.docx": [3505], "Daniel_ch_3.docx": [3453], "Mark_ch_6.docx": [1036]}

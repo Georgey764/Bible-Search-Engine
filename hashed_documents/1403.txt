@@ -1,4 +1,2 @@
 
-mase	{"Genesis_ch_15.docx": [215], "2 Kings_ch_22.docx": [2385, 2385, 2385], "1 Chronicles_ch_1.docx": [4017, 4017, 4017], "1 Chronicles_ch_9.docx": [1726, 1726, 1726]}
-mase	{"Genesis_ch_15.docx": [215], "2 Kings_ch_22.docx": [2385, 2385], "1 Chronicles_ch_1.docx": [4017, 4017], "1 Chronicles_ch_9.docx": [1726, 1726]}
 mase	{"Genesis_ch_15.docx": [215], "2 Kings_ch_22.docx": [2385], "1 Chronicles_ch_1.docx": [4017], "1 Chronicles_ch_9.docx": [1726]}

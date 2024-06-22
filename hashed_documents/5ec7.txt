@@ -1,9 +1,4 @@
 
 bunche	{"Exodus_ch_12.docx": [3468]}
-avoids	{"Job_ch_2.docx": [380], "Proverbs_ch_16.docx": [1608, 1608, 1608]}
-epaph	{"Philippians_ch_2.docx": [3009], "Colossians_ch_1.docx": [836, 836]}
-bunche	{"Exodus_ch_12.docx": [3468]}
-avoids	{"Job_ch_2.docx": [380], "Proverbs_ch_16.docx": [1608, 1608]}
-bunche	{"Exodus_ch_12.docx": [3468]}
 avoids	{"Job_ch_2.docx": [380], "Proverbs_ch_16.docx": [1608]}
-epaph	{"Philippians_ch_2.docx": [3009], "Colossians_ch_1.docx": [836]}
+epaph	{"Philippians_ch_2.docx": [3009], "Philippians_ch_4.docx": [2326], "Colossians_ch_1.docx": [836], "Colossians_ch_4.docx": [1304], "Philemon_ch_1.docx": [2797]}

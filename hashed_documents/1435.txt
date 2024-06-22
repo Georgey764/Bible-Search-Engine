@@ -1,3 +1,0 @@
-
-35well	{"Genesis_ch_19.docx": [5500], "1 Kings_ch_2.docx": [6213], "1 Kings_ch_20.docx": [6413], "Matthew_ch_9.docx": [4669]}
-23be	{"Joshua_ch_9.docx": [11254], "Psalms_ch_89.docx": [2252]}

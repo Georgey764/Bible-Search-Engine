@@ -1,4 +1,2 @@
 
-miamin	{"Nehemiah_ch_12.docx": [267]}
-13‘d	{"Deuteronomy_ch_19.docx": [1941], "2 Chronicles_ch_32.docx": [2669]}
-miamin	{"Nehemiah_ch_12.docx": [267]}
+miamin	{"Ezra_ch_10.docx": [4431], "Nehemiah_ch_12.docx": [267]}

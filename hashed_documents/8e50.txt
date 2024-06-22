@@ -1,6 +1,2 @@
 
-achire	{"Numbers_ch_1.docx": [1288], "Numbers_ch_7.docx": [9071, 9711, 9071, 9711, 9071, 9711], "Numbers_ch_10.docx": [2865, 2865, 2865]}
-achire	{"Numbers_ch_1.docx": [1288], "Numbers_ch_7.docx": [9071, 9711, 9071, 9711], "Numbers_ch_10.docx": [2865, 2865]}
-15r	{"Deuteronomy_ch_5.docx": [1717]}
-128i’	{"Psalms_ch_119.docx": [10675]}
 achire	{"Numbers_ch_1.docx": [1288], "Numbers_ch_7.docx": [9071, 9711], "Numbers_ch_10.docx": [2865]}

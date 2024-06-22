@@ -1,5 +1,2 @@
 
 ecstas	{"Psalms_ch_116.docx": [921]}
-42all	{"Deuteronomy_ch_28.docx": [5813], "Jeremiah_ch_50.docx": [7813]}
-ecstas	{"Psalms_ch_116.docx": [921]}
-ecstas	{"Psalms_ch_116.docx": [921]}

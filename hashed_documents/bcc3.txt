@@ -1,4 +1,2 @@
 
-suffo	{"2 Kings_ch_8.docx": [2904], "2 Corinthians_ch_4.docx": [1125, 1136, 1125, 1136]}
-suffo	{"2 Kings_ch_8.docx": [2904], "2 Corinthians_ch_4.docx": [1125, 1136]}
 suffo	{"2 Kings_ch_8.docx": [2904], "2 Corinthians_ch_4.docx": [1125, 1136]}

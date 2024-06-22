@@ -1,4 +1,2 @@
 
-bowma	{"2 Chronicles_ch_22.docx": [806], "2 Chronicles_ch_35.docx": [5268, 5268, 5268], "Jeremiah_ch_51.docx": [329, 329, 329]}
-bowma	{"2 Chronicles_ch_22.docx": [806], "2 Chronicles_ch_35.docx": [5268, 5268], "Jeremiah_ch_51.docx": [329, 329]}
-bowma	{"2 Chronicles_ch_22.docx": [806], "2 Chronicles_ch_35.docx": [5268], "Jeremiah_ch_51.docx": [329]}
+bowma	{"1 Samuel_ch_31.docx": [329], "1 Kings_ch_22.docx": [5476], "2 Chronicles_ch_22.docx": [806], "2 Chronicles_ch_35.docx": [5268], "Jeremiah_ch_51.docx": [329]}

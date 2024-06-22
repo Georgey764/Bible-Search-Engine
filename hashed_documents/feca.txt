@@ -1,5 +1,2 @@
 
 zembr	{"1 Chronicles_ch_1.docx": [2482]}
-44but	{"Leviticus_ch_26.docx": [5947]}
-zembr	{"1 Chronicles_ch_1.docx": [2482]}
-zembr	{"1 Chronicles_ch_1.docx": [2482]}

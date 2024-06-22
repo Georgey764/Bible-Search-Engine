@@ -1,3 +1,2 @@
 
-dippin	{"Mark_ch_14.docx": [2706], "John_ch_13.docx": [3138, 3138]}
 dippin	{"Mark_ch_14.docx": [2706], "John_ch_13.docx": [3138]}

@@ -1,2 +1,0 @@
-
-30so	{"Genesis_ch_26.docx": [4283], "Genesis_ch_37.docx": [4061], "Exodus_ch_8.docx": [4787], "Exodus_ch_12.docx": [4791], "Exodus_ch_14.docx": [5333], "Exodus_ch_36.docx": [3446], "1 Kings_ch_4.docx": [3465], "2 Chronicles_ch_9.docx": [4519]}

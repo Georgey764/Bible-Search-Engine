@@ -1,9 +1,3 @@
 
-obede	{"1 Chronicles_ch_13.docx": [1934, 1951, 1951, 1951], "1 Chronicles_ch_15.docx": [2402, 2935, 3368, 3449, 2402, 2935, 3368, 3449, 2402, 2935, 3368, 3449], "1 Chronicles_ch_16.docx": [432, 3939, 3944, 432, 3939, 3944, 432, 3939, 3944], "1 Chronicles_ch_26.docx": [356, 376, 905, 1897, 356, 905, 1897, 356, 376, 905, 1897], "2 Chronicles_ch_25.docx": [4168, 4168, 4168]}
-slot	{"Ecclesiastes_ch_10.docx": [1967]}
-51‘lo	{"Genesis_ch_24.docx": [7832]}
-obede	{"1 Chronicles_ch_13.docx": [1934, 1951, 1951], "1 Chronicles_ch_15.docx": [2402, 2935, 3368, 3449, 2402, 2935, 3368, 3449], "1 Chronicles_ch_16.docx": [432, 3939, 3944, 432, 3939, 3944], "1 Chronicles_ch_26.docx": [356, 905, 1897, 356, 376, 905, 1897], "2 Chronicles_ch_25.docx": [4168, 4168]}
-slot	{"Ecclesiastes_ch_10.docx": [1967]}
-6‘in	{"Isaiah_ch_34.docx": [777], "Jeremiah_ch_23.docx": [1019], "Matthew_ch_6.docx": [914]}
 obede	{"1 Chronicles_ch_13.docx": [1934, 1951], "1 Chronicles_ch_15.docx": [2402, 2935, 3368, 3449], "1 Chronicles_ch_16.docx": [432, 3939, 3944], "1 Chronicles_ch_26.docx": [356, 376, 905, 1897], "2 Chronicles_ch_25.docx": [4168]}
 slot	{"Ecclesiastes_ch_10.docx": [1967]}

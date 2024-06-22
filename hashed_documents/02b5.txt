@@ -1,2 +1,0 @@
-
-15yes	{"Psalms_ch_145.docx": [1431], "Isaiah_ch_3.docx": [2320], "Isaiah_ch_59.docx": [2277], "Ezekiel_ch_28.docx": [2292]}

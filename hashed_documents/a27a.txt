@@ -1,5 +1,2 @@
 
 words<	{"2 Corinthians_ch_2.docx": [2519]}
-51gaz	{"Nehemiah_ch_7.docx": [2853]}
-61yo	{"Lamentations_ch_3.docx": [5061]}
-words<	{"2 Corinthians_ch_2.docx": [2519]}

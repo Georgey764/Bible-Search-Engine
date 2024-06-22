@@ -1,4 +1,2 @@
 
 enthu	{"Acts_ch_18.docx": [8892]}
-56a	{"Numbers_ch_33.docx": [4618], "Judges_ch_9.docx": [9880], "Psalms_ch_119.docx": [4445], "Matthew_ch_13.docx": [7446]}
-enthu	{"Acts_ch_18.docx": [8892]}

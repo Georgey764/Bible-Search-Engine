@@ -1,4 +1,2 @@
 
-erre	{"Numbers_ch_5.docx": [612], "Isaiah_ch_44.docx": [3296, 3296, 3296]}
-erre	{"Numbers_ch_5.docx": [612], "Isaiah_ch_44.docx": [3296, 3296]}
 erre	{"Numbers_ch_5.docx": [612], "Isaiah_ch_44.docx": [3296]}

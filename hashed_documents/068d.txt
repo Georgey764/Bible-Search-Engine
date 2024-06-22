@@ -1,5 +1,2 @@
 
-inve	{"Genesis_ch_4.docx": [2353], "Numbers_ch_31.docx": [3124, 3124, 3124], "Deuteronomy_ch_17.docx": [570, 1463, 570, 1463, 570, 1463], "Deuteronomy_ch_19.docx": [2652, 2652, 2652], "Job_ch_28.docx": [1350, 1350, 1350], "Proverbs_ch_16.docx": [2083, 2083, 2083], "Ezekiel_ch_27.docx": [274, 274, 274], "Acts_ch_7.docx": [4278, 4463, 4278, 4463], "Romans_ch_1.docx": [3961, 3961]}
-inve	{"Genesis_ch_4.docx": [2353], "Numbers_ch_31.docx": [3124, 3124], "Deuteronomy_ch_17.docx": [570, 1463, 570, 1463], "Deuteronomy_ch_19.docx": [2652, 2652], "Job_ch_28.docx": [1350, 1350], "Proverbs_ch_16.docx": [2083, 2083], "Ezekiel_ch_27.docx": [274, 274], "Acts_ch_7.docx": [4278, 4463], "Romans_ch_1.docx": [3961]}
-9look	{"2 Samuel_ch_17.docx": [1132], "Psalms_ch_84.docx": [892]}
 inve	{"Genesis_ch_4.docx": [2353], "Numbers_ch_31.docx": [3124], "Deuteronomy_ch_17.docx": [570, 1463], "Deuteronomy_ch_19.docx": [2652], "Job_ch_28.docx": [1350], "Proverbs_ch_16.docx": [2083], "Ezekiel_ch_27.docx": [274], "Acts_ch_7.docx": [4278, 4463], "Romans_ch_1.docx": [3961]}

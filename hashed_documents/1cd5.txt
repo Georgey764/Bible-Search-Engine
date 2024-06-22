@@ -1,5 +1,2 @@
 
-seraph	{"Isaiah_ch_6.docx": [33, 888, 888, 888]}
-36al	{"1 Kings_ch_7.docx": [4748], "2 Kings_ch_15.docx": [5330], "Nehemiah_ch_11.docx": [10365]}
-seraph	{"Isaiah_ch_6.docx": [33, 888, 888]}
 seraph	{"Isaiah_ch_6.docx": [33, 888]}

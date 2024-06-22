@@ -1,5 +1,2 @@
 
-frame	{"Exodus_ch_12.docx": [3497], "1 Kings_ch_7.docx": [3706, 3706, 3706]}
-frame	{"Exodus_ch_12.docx": [3497], "1 Kings_ch_7.docx": [3706, 3706]}
-8‘they	{"Leviticus_ch_21.docx": [922], "Leviticus_ch_24.docx": [821], "Isaiah_ch_17.docx": [1062], "Ezekiel_ch_43.docx": [1175], "Jonah_ch_3.docx": [1019]}
 frame	{"Exodus_ch_12.docx": [3497], "1 Kings_ch_7.docx": [3706]}

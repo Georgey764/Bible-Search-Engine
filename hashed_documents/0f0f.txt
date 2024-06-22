@@ -1,4 +1,3 @@
 
 lips]	{"Exodus_ch_13.docx": [1203]}
-lips]	{"Exodus_ch_13.docx": [1203]}
-lips]	{"Exodus_ch_13.docx": [1203]}
+contex	{"Nehemiah_ch_13.docx": [6215], "Ecclesiastes_ch_12.docx": [2528], "Song of Solomon_ch_8.docx": [3993], "Isaiah_ch_66.docx": [7139], "Lamentations_ch_5.docx": [4169], "Daniel_ch_12.docx": [5834], "Hosea_ch_14.docx": [3389], "Joel_ch_3.docx": [6505], "Jonah_ch_4.docx": [3488], "Micah_ch_7.docx": [6357], "Nahum_ch_3.docx": [5565], "Habakkuk_ch_3.docx": [5205], "Zephaniah_ch_3.docx": [6295], "Haggai_ch_2.docx": [6612], "Philemon_ch_1.docx": [3237], "Hebrews_ch_13.docx": [4523]}

@@ -1,4 +1,2 @@
 
-hen	{"Ezra_ch_3.docx": [1945], "Nehemiah_ch_3.docx": [9353, 11315, 9353, 11315, 9353, 11315], "Nehemiah_ch_10.docx": [464, 464, 464], "Proverbs_ch_30.docx": [3172, 3172, 3172], "Isaiah_ch_37.docx": [1936, 1936, 1936], "Matthew_ch_23.docx": [4912, 4912, 4912], "Luke_ch_13.docx": [4550, 4550], "Hebrews_ch_4.docx": [973, 973]}
-hen	{"Ezra_ch_3.docx": [1945], "Nehemiah_ch_3.docx": [9353, 11315, 9353, 11315], "Nehemiah_ch_10.docx": [464, 464], "Proverbs_ch_30.docx": [3172, 3172], "Isaiah_ch_37.docx": [1936, 1936], "Matthew_ch_23.docx": [4912, 4912], "Luke_ch_13.docx": [4550], "Hebrews_ch_4.docx": [973]}
-hen	{"Ezra_ch_3.docx": [1945], "Nehemiah_ch_3.docx": [9353, 11315], "Nehemiah_ch_10.docx": [464], "Proverbs_ch_30.docx": [3172], "Isaiah_ch_37.docx": [1936], "Matthew_ch_23.docx": [4912], "Luke_ch_13.docx": [4550], "Hebrews_ch_4.docx": [973]}
+hen	{"Exodus_ch_40.docx": [4076], "Leviticus_ch_27.docx": [4619], "Ezra_ch_3.docx": [1945], "Nehemiah_ch_3.docx": [9353, 11315], "Nehemiah_ch_10.docx": [464], "Proverbs_ch_30.docx": [3172], "Isaiah_ch_37.docx": [1936], "Matthew_ch_23.docx": [4912], "Luke_ch_13.docx": [4550], "Hebrews_ch_4.docx": [973]}

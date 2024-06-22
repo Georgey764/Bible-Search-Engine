@@ -1,7 +1,3 @@
 
-tadmor	{"1 Kings_ch_9.docx": [2857], "2 Chronicles_ch_8.docx": [246, 246, 246]}
-unlear	{"Proverbs_ch_8.docx": [358]}
-tadmor	{"1 Kings_ch_9.docx": [2857], "2 Chronicles_ch_8.docx": [246, 246]}
-unlear	{"Proverbs_ch_8.docx": [358]}
 tadmor	{"1 Kings_ch_9.docx": [2857], "2 Chronicles_ch_8.docx": [246]}
 unlear	{"Proverbs_ch_8.docx": [358]}

@@ -1,4 +1,2 @@
 
-jerimo	{"1 Chronicles_ch_7.docx": [886, 1136, 1136, 1136], "1 Chronicles_ch_8.docx": [1096, 1096, 1096], "1 Chronicles_ch_25.docx": [709, 2395, 709, 2395, 709, 2395], "1 Chronicles_ch_27.docx": [2556, 2556, 2556], "2 Chronicles_ch_11.docx": [2045, 2045, 2045], "2 Chronicles_ch_31.docx": [2406, 2406, 2406]}
-jerimo	{"1 Chronicles_ch_7.docx": [886, 1136, 1136], "1 Chronicles_ch_8.docx": [1096, 1096], "1 Chronicles_ch_25.docx": [709, 2395, 709, 2395], "1 Chronicles_ch_27.docx": [2556, 2556], "2 Chronicles_ch_11.docx": [2045, 2045], "2 Chronicles_ch_31.docx": [2406, 2406]}
 jerimo	{"1 Chronicles_ch_7.docx": [886, 1136], "1 Chronicles_ch_8.docx": [1096], "1 Chronicles_ch_25.docx": [709, 2395], "1 Chronicles_ch_27.docx": [2556], "2 Chronicles_ch_11.docx": [2045], "2 Chronicles_ch_31.docx": [2406]}

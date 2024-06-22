@@ -1,4 +1,2 @@
 
-weath	{"Isaiah_ch_4.docx": [926], "Matthew_ch_16.docx": [173, 190, 173, 190, 173, 190]}
-weath	{"Isaiah_ch_4.docx": [926], "Matthew_ch_16.docx": [173, 190, 173, 190]}
 weath	{"Isaiah_ch_4.docx": [926], "Matthew_ch_16.docx": [173, 190]}

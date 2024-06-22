@@ -1,7 +1,3 @@
 
-cadave	{"Numbers_ch_19.docx": [2177, 2358, 2358, 2358]}
-capht	{"1 Chronicles_ch_1.docx": [1073]}
-cadave	{"Numbers_ch_19.docx": [2177, 2358, 2358]}
-capht	{"1 Chronicles_ch_1.docx": [1073]}
 cadave	{"Numbers_ch_19.docx": [2177, 2358]}
 capht	{"1 Chronicles_ch_1.docx": [1073]}

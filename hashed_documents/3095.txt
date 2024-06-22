@@ -1,8 +1,4 @@
 
-such-	{"Acts_ch_5.docx": [991, 1063, 1063]}
-shoela	{"Acts_ch_13.docx": [4958]}
-lukewa	{"Revelation_ch_3.docx": [2725]}
-7‘‘<sp	{"Hosea_ch_10.docx": [1692]}
 such-	{"Acts_ch_5.docx": [991, 1063]}
 shoela	{"Acts_ch_13.docx": [4958]}
 lukewa	{"Revelation_ch_3.docx": [2725]}

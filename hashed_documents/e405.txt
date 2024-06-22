@@ -1,2 +1,0 @@
-
-600,00	{"Exodus_ch_12.docx": [5765], "Numbers_ch_11.docx": [3236]}

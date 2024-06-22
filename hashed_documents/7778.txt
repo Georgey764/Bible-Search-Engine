@@ -1,4 +1,2 @@
 
-ripen	{"Genesis_ch_40.docx": [973], "Mark_ch_4.docx": [3301, 3301]}
-ripen	{"Genesis_ch_40.docx": [973], "Mark_ch_4.docx": [3301]}
 ripen	{"Genesis_ch_40.docx": [973], "Mark_ch_4.docx": [3301]}

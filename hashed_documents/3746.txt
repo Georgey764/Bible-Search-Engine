@@ -1,4 +1,2 @@
 
-mehi	{"Ezra_ch_2.docx": [2087], "Nehemiah_ch_7.docx": [3152, 3152, 3152]}
-mehi	{"Ezra_ch_2.docx": [2087], "Nehemiah_ch_7.docx": [3152, 3152]}
 mehi	{"Ezra_ch_2.docx": [2087], "Nehemiah_ch_7.docx": [3152]}

@@ -1,3 +1,0 @@
-
-26make	{"Proverbs_ch_4.docx": [2396]}
-23duri	{"Ecclesiastes_ch_2.docx": [3439]}

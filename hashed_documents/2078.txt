@@ -1,4 +1,2 @@
 
-hoof	{"Exodus_ch_10.docx": [4219], "Leviticus_ch_11.docx": [212, 243, 265, 703, 708, 212, 243, 265, 703, 708, 212, 243, 265, 703, 708], "Deuteronomy_ch_14.docx": [628, 628, 628], "Judges_ch_5.docx": [3237, 3237, 3237], "Psalms_ch_69.docx": [3187, 3187, 3187], "Jeremiah_ch_47.docx": [437, 437, 437], "Micah_ch_4.docx": [2858, 2858, 2858]}
-hoof	{"Exodus_ch_10.docx": [4219], "Leviticus_ch_11.docx": [212, 243, 265, 703, 708, 212, 243, 265, 703, 708], "Deuteronomy_ch_14.docx": [628, 628], "Judges_ch_5.docx": [3237, 3237], "Psalms_ch_69.docx": [3187, 3187], "Jeremiah_ch_47.docx": [437, 437], "Micah_ch_4.docx": [2858, 2858]}
 hoof	{"Exodus_ch_10.docx": [4219], "Leviticus_ch_11.docx": [212, 243, 265, 703, 708], "Deuteronomy_ch_14.docx": [628], "Judges_ch_5.docx": [3237], "Psalms_ch_69.docx": [3187], "Jeremiah_ch_47.docx": [437], "Micah_ch_4.docx": [2858]}

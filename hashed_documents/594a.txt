@@ -1,5 +1,2 @@
 
-bedroc	{"Matthew_ch_16.docx": [2289], "Matthew_ch_27.docx": [6982, 6982], "Mark_ch_15.docx": [5111, 5111]}
-21[a	{"1 Kings_ch_18.docx": [2889], "Proverbs_ch_20.docx": [2799]}
-bedroc	{"Matthew_ch_16.docx": [2289], "Matthew_ch_27.docx": [6982], "Mark_ch_15.docx": [5111]}
 bedroc	{"Matthew_ch_16.docx": [2289], "Matthew_ch_27.docx": [6982], "Mark_ch_15.docx": [5111]}

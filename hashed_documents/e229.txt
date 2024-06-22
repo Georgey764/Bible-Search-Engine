@@ -1,9 +1,3 @@
 
 jingl	{"Exodus_ch_28.docx": [4469]}
-good;	{"Deuteronomy_ch_18.docx": [2373], "Psalms_ch_7.docx": [404, 404, 404], "Proverbs_ch_13.docx": [1310, 1310, 1310], "Proverbs_ch_25.docx": [2686, 2686, 2686], "Ecclesiastes_ch_6.docx": [812, 812, 812], "Isaiah_ch_41.docx": [1177, 1177, 1177]}
-jingl	{"Exodus_ch_28.docx": [4469]}
-44then	{"Numbers_ch_3.docx": [5396], "Deuteronomy_ch_1.docx": [6273], "Deuteronomy_ch_28.docx": [5902], "1 Samuel_ch_14.docx": [7168], "1 Samuel_ch_17.docx": [6626], "1 Kings_ch_2.docx": [7885], "Psalms_ch_105.docx": [3639]}
-good;	{"Deuteronomy_ch_18.docx": [2373], "Psalms_ch_7.docx": [404, 404], "Proverbs_ch_13.docx": [1310, 1310], "Proverbs_ch_25.docx": [2686, 2686], "Ecclesiastes_ch_6.docx": [812, 812], "Isaiah_ch_41.docx": [1177, 1177]}
-33ahi	{"1 Chronicles_ch_27.docx": [4628]}
-jingl	{"Exodus_ch_28.docx": [4469]}
-good;	{"Deuteronomy_ch_18.docx": [2373], "Psalms_ch_7.docx": [404], "Proverbs_ch_13.docx": [1310], "Proverbs_ch_25.docx": [2686], "Ecclesiastes_ch_6.docx": [812], "Isaiah_ch_41.docx": [1177]}
+good;	{"Deuteronomy_ch_18.docx": [2373], "Psalms_ch_7.docx": [404], "Proverbs_ch_13.docx": [1310], "Proverbs_ch_25.docx": [2686], "Ecclesiastes_ch_6.docx": [812], "Isaiah_ch_41.docx": [1177], "Zephaniah_ch_3.docx": [4416]}

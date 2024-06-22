@@ -1,4 +1,2 @@
 
-mool	{"Exodus_ch_6.docx": [2512], "Numbers_ch_3.docx": [2584, 3983, 2584, 3983, 2584, 3983], "Joshua_ch_19.docx": [2722, 2722, 2722], "1 Chronicles_ch_6.docx": [1308, 2048, 3643, 1308, 2048, 3643, 1308, 2048, 3643], "1 Chronicles_ch_23.docx": [2191, 2191, 2191], "1 Chronicles_ch_24.docx": [2844, 2949, 2949, 2844, 2949]}
-mool	{"Exodus_ch_6.docx": [2512], "Numbers_ch_3.docx": [2584, 3983, 2584, 3983], "Joshua_ch_19.docx": [2722, 2722], "1 Chronicles_ch_6.docx": [1308, 2048, 3643, 1308, 2048, 3643], "1 Chronicles_ch_23.docx": [2191, 2191], "1 Chronicles_ch_24.docx": [2949, 2844, 2949]}
 mool	{"Exodus_ch_6.docx": [2512], "Numbers_ch_3.docx": [2584, 3983], "Joshua_ch_19.docx": [2722], "1 Chronicles_ch_6.docx": [1308, 2048, 3643], "1 Chronicles_ch_23.docx": [2191], "1 Chronicles_ch_24.docx": [2844, 2949]}

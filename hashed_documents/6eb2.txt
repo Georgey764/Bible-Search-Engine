@@ -1,4 +1,2 @@
 
-intr	{"Numbers_ch_22.docx": [5771], "Job_ch_40.docx": [2522, 2522, 2522], "Proverbs_ch_23.docx": [2523, 2523, 2523], "Isaiah_ch_40.docx": [3694, 3694, 3694], "Jeremiah_ch_27.docx": [41, 41, 41], "2 Corinthians_ch_3.docx": [11, 11], "2 Peter_ch_2.docx": [22, 22]}
-intr	{"Numbers_ch_22.docx": [5771], "Job_ch_40.docx": [2522, 2522], "Proverbs_ch_23.docx": [2523, 2523], "Isaiah_ch_40.docx": [3694, 3694], "Jeremiah_ch_27.docx": [41, 41], "2 Corinthians_ch_3.docx": [11], "2 Peter_ch_2.docx": [22]}
 intr	{"Numbers_ch_22.docx": [5771], "Job_ch_40.docx": [2522], "Proverbs_ch_23.docx": [2523], "Isaiah_ch_40.docx": [3694], "Jeremiah_ch_27.docx": [41], "2 Corinthians_ch_3.docx": [11], "2 Peter_ch_2.docx": [22]}

@@ -1,4 +1,2 @@
 
-edem	{"Genesis_ch_2.docx": [1131, 1463, 1463, 1463], "Genesis_ch_4.docx": [1900, 1900, 1900], "2 Kings_ch_19.docx": [2064, 2064, 2064], "Ezekiel_ch_27.docx": [3336, 3336, 3336], "Ezekiel_ch_32.docx": [5044, 5044, 5044], "Luke_ch_14.docx": [43, 43]}
-edem	{"Genesis_ch_2.docx": [1131, 1463, 1463], "Genesis_ch_4.docx": [1900, 1900], "2 Kings_ch_19.docx": [2064, 2064], "Ezekiel_ch_27.docx": [3336, 3336], "Ezekiel_ch_32.docx": [5044, 5044], "Luke_ch_14.docx": [43]}
 edem	{"Genesis_ch_2.docx": [1131, 1463], "Genesis_ch_4.docx": [1900], "2 Kings_ch_19.docx": [2064], "Ezekiel_ch_27.docx": [3336], "Ezekiel_ch_32.docx": [5044], "Luke_ch_14.docx": [43]}

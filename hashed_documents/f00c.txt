@@ -1,5 +1,2 @@
 
 akie	{"Joshua_ch_15.docx": [5119]}
-akie	{"Joshua_ch_15.docx": [5119]}
-6yet	{"1 Kings_ch_1.docx": [661], "Psalms_ch_14.docx": [951]}
-akie	{"Joshua_ch_15.docx": [5119]}

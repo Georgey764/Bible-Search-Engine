@@ -1,4 +1,2 @@
 
-perch	{"Judges_ch_16.docx": [4990], "Psalms_ch_73.docx": [1559, 1559, 1559], "Proverbs_ch_9.docx": [1891, 1891, 1891], "Lamentations_ch_4.docx": [3254, 3254, 3254], "Ezekiel_ch_17.docx": [329, 329, 329]}
-perch	{"Judges_ch_16.docx": [4990], "Psalms_ch_73.docx": [1559, 1559], "Proverbs_ch_9.docx": [1891, 1891], "Lamentations_ch_4.docx": [3254, 3254], "Ezekiel_ch_17.docx": [329, 329]}
 perch	{"Judges_ch_16.docx": [4990], "Psalms_ch_73.docx": [1559], "Proverbs_ch_9.docx": [1891], "Lamentations_ch_4.docx": [3254], "Ezekiel_ch_17.docx": [329]}

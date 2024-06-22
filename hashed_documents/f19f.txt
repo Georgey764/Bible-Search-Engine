@@ -1,5 +1,2 @@
 
-corm	{"Leviticus_ch_11.docx": [1917], "Deuteronomy_ch_14.docx": [1427, 1427]}
-corm	{"Leviticus_ch_11.docx": [1917], "Deuteronomy_ch_14.docx": [1427]}
-16fill	{"Psalms_ch_83.docx": [1220]}
 corm	{"Leviticus_ch_11.docx": [1917], "Deuteronomy_ch_14.docx": [1427]}

@@ -1,4 +1,2 @@
 
-briars	{"Genesis_ch_3.docx": [2907], "Isaiah_ch_55.docx": [2243, 2243]}
-briars	{"Isaiah_ch_55.docx": [2243, 2243]}
 briars	{"Genesis_ch_3.docx": [2907], "Isaiah_ch_55.docx": [2243]}

@@ -1,7 +1,3 @@
 
 aul	{"Deuteronomy_ch_1.docx": [35]}
-draws	{"Job_ch_17.docx": [1010], "Ecclesiastes_ch_1.docx": [502, 502, 502], "Jeremiah_ch_51.docx": [2862, 2862, 2862]}
-aul	{"Deuteronomy_ch_1.docx": [35]}
-draws	{"Job_ch_17.docx": [1010], "Ecclesiastes_ch_1.docx": [502, 502], "Jeremiah_ch_51.docx": [2862, 2862]}
-aul	{"Deuteronomy_ch_1.docx": [35]}
 draws	{"Job_ch_17.docx": [1010], "Ecclesiastes_ch_1.docx": [502], "Jeremiah_ch_51.docx": [2862]}

@@ -1,3 +1,2 @@
 
 gauge	{"2 Corinthians_ch_10.docx": [1866]}
-gauge	{"2 Corinthians_ch_10.docx": [1866]}

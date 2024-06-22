@@ -1,4 +1,2 @@
 
-bana	{"Numbers_ch_33.docx": [2353, 2398, 2398, 2398], "Joshua_ch_19.docx": [3490, 3490, 3490]}
-bana	{"Numbers_ch_33.docx": [2353, 2398, 2398], "Joshua_ch_19.docx": [3490, 3490]}
 bana	{"Numbers_ch_33.docx": [2353, 2398], "Joshua_ch_19.docx": [3490]}

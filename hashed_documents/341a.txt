@@ -1,3 +1,2 @@
 
-richne	{"Romans_ch_9.docx": [2868], "2 Corinthians_ch_8.docx": [78, 78], "Ephesians_ch_1.docx": [867, 2336, 867, 2336], "Ephesians_ch_2.docx": [648, 648], "Ephesians_ch_3.docx": [950, 1714, 950, 1714], "Colossians_ch_1.docx": [4035, 4035]}
 richne	{"Romans_ch_9.docx": [2868], "2 Corinthians_ch_8.docx": [78], "Ephesians_ch_1.docx": [867, 2336], "Ephesians_ch_2.docx": [648], "Ephesians_ch_3.docx": [950, 1714], "Colossians_ch_1.docx": [4035]}

@@ -1,3 +1,2 @@
 
-deathb	{"Revelation_ch_13.docx": [412, 1739, 1739]}
 deathb	{"Revelation_ch_13.docx": [412, 1739]}

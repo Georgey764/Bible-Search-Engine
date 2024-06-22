@@ -1,8 +1,3 @@
 
 zanoe	{"1 Chronicles_ch_4.docx": [2068]}
-talmon	{"Nehemiah_ch_7.docx": [2738], "Nehemiah_ch_11.docx": [2953, 2953, 2953], "Nehemiah_ch_12.docx": [2721, 2721, 2721]}
-zanoe	{"1 Chronicles_ch_4.docx": [2068]}
-talmon	{"Nehemiah_ch_7.docx": [2738], "Nehemiah_ch_11.docx": [2953, 2953], "Nehemiah_ch_12.docx": [2721, 2721]}
-9thos	{"Proverbs_ch_17.docx": [899], "Proverbs_ch_22.docx": [858], "Isaiah_ch_41.docx": [1410], "Isaiah_ch_57.docx": [1241]}
-zanoe	{"1 Chronicles_ch_4.docx": [2068]}
 talmon	{"Nehemiah_ch_7.docx": [2738], "Nehemiah_ch_11.docx": [2953], "Nehemiah_ch_12.docx": [2721]}

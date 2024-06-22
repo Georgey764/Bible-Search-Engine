@@ -1,5 +1,2 @@
 
-uncoun	{"Job_ch_36.docx": [2805], "Ezekiel_ch_29.docx": [2717, 2717, 2717]}
-9[f	{"Numbers_ch_1.docx": [878], "Psalms_ch_95.docx": [780]}
-uncoun	{"Job_ch_36.docx": [2805], "Ezekiel_ch_29.docx": [2717, 2717]}
 uncoun	{"Job_ch_36.docx": [2805], "Ezekiel_ch_29.docx": [2717]}

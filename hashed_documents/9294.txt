@@ -1,9 +1,4 @@
 
-thea	{"2 Samuel_ch_5.docx": [2294], "Acts_ch_19.docx": [8873, 8887, 8902, 8977, 9001, 9737, 8873, 8887, 8902, 8977, 9001, 9737], "1 Corinthians_ch_4.docx": [1528, 1528]}
-ske	{"Isaiah_ch_49.docx": [3546]}
-decent	{"2 Corinthians_ch_1.docx": [2292]}
-thea	{"2 Samuel_ch_5.docx": [2294], "Acts_ch_19.docx": [8873, 8887, 8902, 8977, 9001, 9737], "1 Corinthians_ch_4.docx": [1528]}
-ske	{"Isaiah_ch_49.docx": [3546]}
 thea	{"2 Samuel_ch_5.docx": [2294], "Acts_ch_19.docx": [8873, 8887, 8902, 8977, 9001, 9737], "1 Corinthians_ch_4.docx": [1528]}
 ske	{"Isaiah_ch_49.docx": [3546]}
 decent	{"2 Corinthians_ch_1.docx": [2292]}

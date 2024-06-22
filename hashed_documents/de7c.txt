@@ -1,4 +1,2 @@
 
-adr	{"1 Samuel_ch_18.docx": [2998], "2 Samuel_ch_23.docx": [4524, 4524], "1 Kings_ch_14.docx": [4648, 4648, 4648], "2 Kings_ch_17.docx": [5752, 5752, 5752], "2 Kings_ch_19.docx": [6386, 6386, 6386], "Isaiah_ch_37.docx": [6053, 6053, 6053], "Acts_ch_27.docx": [299, 3652, 299, 3652]}
-adr	{"1 Samuel_ch_18.docx": [2998], "1 Kings_ch_14.docx": [4648, 4648], "2 Kings_ch_17.docx": [5752, 5752], "2 Kings_ch_19.docx": [6386, 6386], "Isaiah_ch_37.docx": [6053, 6053], "2 Samuel_ch_23.docx": [4524], "Acts_ch_27.docx": [299, 3652]}
 adr	{"1 Samuel_ch_18.docx": [2998], "2 Samuel_ch_23.docx": [4524], "1 Kings_ch_14.docx": [4648], "2 Kings_ch_17.docx": [5752], "2 Kings_ch_19.docx": [6386], "Isaiah_ch_37.docx": [6053], "Acts_ch_27.docx": [299, 3652]}

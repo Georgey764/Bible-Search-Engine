@@ -1,5 +1,2 @@
 
 winks	{"Proverbs_ch_10.docx": [905]}
-winks	{"Proverbs_ch_10.docx": [905]}
-50that	{"Matthew_ch_24.docx": [5692]}
-winks	{"Proverbs_ch_10.docx": [905]}

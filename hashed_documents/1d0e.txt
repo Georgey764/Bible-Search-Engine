@@ -1,9 +1,4 @@
 
-stabl	{"Exodus_ch_8.docx": [2939, 3166, 3187, 3450, 3744, 3773, 4582, 4807, 3166, 3187, 3450, 3744, 3773, 4582, 4807, 3166, 3187, 3450, 3744, 3773, 4582, 4807], "2 Kings_ch_11.docx": [2431, 2431, 2431], "2 Chronicles_ch_32.docx": [5301, 5301, 5301], "Job_ch_6.docx": [506, 506, 506], "Psalms_ch_105.docx": [2540, 2540, 2540], "Proverbs_ch_14.docx": [298, 298, 298], "Joel_ch_1.docx": [2661, 2661, 2661]}
-samai’	{"1 Chronicles_ch_2.docx": [3951]}
-mad!	{"Acts_ch_26.docx": [5876]}
-stabl	{"Exodus_ch_8.docx": [2939, 3166, 3187, 3450, 3744, 3773, 4582, 4807, 3166, 3187, 3450, 3744, 3773, 4582, 4807], "2 Kings_ch_11.docx": [2431, 2431], "2 Chronicles_ch_32.docx": [5301, 5301], "Job_ch_6.docx": [506, 506], "Psalms_ch_105.docx": [2540, 2540], "Proverbs_ch_14.docx": [298, 298], "Joel_ch_1.docx": [2661, 2661]}
-samai’	{"1 Chronicles_ch_2.docx": [3951]}
 stabl	{"Exodus_ch_8.docx": [2939, 3166, 3187, 3450, 3744, 3773, 4582, 4807], "2 Kings_ch_11.docx": [2431], "2 Chronicles_ch_32.docx": [5301], "Job_ch_6.docx": [506], "Psalms_ch_105.docx": [2540], "Proverbs_ch_14.docx": [298], "Joel_ch_1.docx": [2661]}
 samai’	{"1 Chronicles_ch_2.docx": [3951]}
 mad!	{"Acts_ch_26.docx": [5876]}

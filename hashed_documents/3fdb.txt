@@ -1,5 +1,2 @@
 
-maidse	{"1 Samuel_ch_1.docx": [2775]}
-maidse	{"1 Samuel_ch_1.docx": [2775]}
-14‘i’	{"2 Kings_ch_21.docx": [2621], "Ecclesiastes_ch_1.docx": [1684], "Isaiah_ch_10.docx": [1932], "Ezekiel_ch_5.docx": [2767], "Ezekiel_ch_34.docx": [2478], "Micah_ch_5.docx": [3181]}
-maidse	{"1 Samuel_ch_1.docx": [2775]}
+maidse	{"Ruth_ch_4.docx": [2632], "1 Samuel_ch_1.docx": [2775]}

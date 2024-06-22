@@ -1,4 +1,2 @@
 
-chast	{"Numbers_ch_5.docx": [4309], "2 Corinthians_ch_11.docx": [39, 39]}
-chast	{"Numbers_ch_5.docx": [4309], "2 Corinthians_ch_11.docx": [39]}
-chast	{"Numbers_ch_5.docx": [4309], "2 Corinthians_ch_11.docx": [39]}
+chast	{"Numbers_ch_5.docx": [4309], "2 Corinthians_ch_11.docx": [39], "Philippians_ch_4.docx": [929]}

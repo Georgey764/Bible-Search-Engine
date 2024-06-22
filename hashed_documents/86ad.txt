@@ -1,4 +1,2 @@
 
-thaath	{"1 Chronicles_ch_6.docx": [1685, 2913, 2913], "1 Chronicles_ch_7.docx": [2509, 2509, 2509]}
-thaath	{"1 Chronicles_ch_6.docx": [2913, 2913], "1 Chronicles_ch_7.docx": [2509, 2509]}
 thaath	{"1 Chronicles_ch_6.docx": [1685, 2913], "1 Chronicles_ch_7.docx": [2509]}

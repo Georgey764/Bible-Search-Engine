@@ -1,5 +1,2 @@
 
-draf	{"Esther_ch_3.docx": [907], "Mark_ch_15.docx": [2182, 2182]}
-draf	{"Esther_ch_3.docx": [907], "Mark_ch_15.docx": [2182]}
-26thus	{"Psalms_ch_106.docx": [2464]}
 draf	{"Esther_ch_3.docx": [907], "Mark_ch_15.docx": [2182]}

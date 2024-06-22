@@ -1,4 +1,2 @@
 
-suth	{"Numbers_ch_26.docx": [4027, 4032, 4112, 4032, 4032, 4112]}
-suth	{"Numbers_ch_26.docx": [4027, 4032, 4032, 4112]}
 suth	{"Numbers_ch_26.docx": [4027, 4032, 4112]}

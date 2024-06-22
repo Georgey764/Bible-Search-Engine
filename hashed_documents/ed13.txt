@@ -1,6 +1,2 @@
 
-storeh	{"1 Chronicles_ch_27.docx": [3423, 3504, 3958, 3504, 3958, 3504, 3958], "1 Chronicles_ch_28.docx": [2261, 2498, 2503, 2537, 4024, 2261, 2498, 2503, 2537, 4024, 2261, 2498, 2503, 2537, 4024], "Psalms_ch_79.docx": [131, 131, 131], "Psalms_ch_135.docx": [574, 574, 574], "Isaiah_ch_39.docx": [289, 289, 289], "Jeremiah_ch_26.docx": [3217, 3217, 3217], "Jeremiah_ch_50.docx": [4612, 4612, 4612], "Matthew_ch_3.docx": [1421, 1421, 1421]}
-56well	{"Genesis_ch_41.docx": [7423]}
-storeh	{"1 Chronicles_ch_27.docx": [3423, 3504, 3958, 3504, 3958], "1 Chronicles_ch_28.docx": [2261, 2498, 2503, 2537, 4024, 2261, 2498, 2503, 2537, 4024], "Psalms_ch_79.docx": [131, 131], "Psalms_ch_135.docx": [574, 574], "Isaiah_ch_39.docx": [289, 289], "Jeremiah_ch_26.docx": [3217, 3217], "Jeremiah_ch_50.docx": [4612, 4612], "Matthew_ch_3.docx": [1421, 1421]}
-13may	{"Psalms_ch_71.docx": [1237], "Psalms_ch_72.docx": [1089], "Psalms_ch_109.docx": [1020]}
-storeh	{"1 Chronicles_ch_27.docx": [3423, 3504, 3958], "1 Chronicles_ch_28.docx": [2261, 2498, 2503, 2537, 4024], "Psalms_ch_79.docx": [131], "Psalms_ch_135.docx": [574], "Isaiah_ch_39.docx": [289], "Jeremiah_ch_26.docx": [3217], "Jeremiah_ch_50.docx": [4612], "Matthew_ch_3.docx": [1421]}
+storeh	{"1 Chronicles_ch_27.docx": [3423, 3504, 3958], "1 Chronicles_ch_28.docx": [2261, 2498, 2503, 2537, 4024], "1 Chronicles_ch_29.docx": [1705], "Psalms_ch_79.docx": [131], "Psalms_ch_135.docx": [574], "Isaiah_ch_39.docx": [289], "Jeremiah_ch_26.docx": [3217], "Jeremiah_ch_50.docx": [4612], "Matthew_ch_3.docx": [1421]}

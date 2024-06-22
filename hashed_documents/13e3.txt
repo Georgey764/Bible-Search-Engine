@@ -1,4 +1,2 @@
 
 bazlit	{"Nehemiah_ch_7.docx": [3136]}
-9bakbu	{"Nehemiah_ch_12.docx": [624]}
-bazlit	{"Nehemiah_ch_7.docx": [3136]}

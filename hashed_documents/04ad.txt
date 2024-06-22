@@ -1,7 +1,3 @@
 
 ithran	{"Genesis_ch_36.docx": [2919]}
-botani	{"Joshua_ch_13.docx": [26882, 26897, 26913, 26897, 26913, 26897, 26913]}
-ithran	{"Genesis_ch_36.docx": [2919]}
-botani	{"Joshua_ch_13.docx": [26882, 26897, 26913, 26897, 26913]}
-ithran	{"Genesis_ch_36.docx": [2919]}
 botani	{"Joshua_ch_13.docx": [26882, 26897, 26913]}

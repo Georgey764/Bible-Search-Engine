@@ -1,4 +1,2 @@
 
-design	{"Leviticus_ch_23.docx": [3013], "1 Kings_ch_6.docx": [4387, 4387, 4387], "Isaiah_ch_40.docx": [2702, 2702, 2702], "1 Corinthians_ch_12.docx": [3024, 3024], "Hebrews_ch_11.docx": [2017, 2017]}
-design	{"Leviticus_ch_23.docx": [3013], "1 Kings_ch_6.docx": [4387, 4387], "Isaiah_ch_40.docx": [2702, 2702], "1 Corinthians_ch_12.docx": [3024], "Hebrews_ch_11.docx": [2017]}
-design	{"Leviticus_ch_23.docx": [3013], "1 Kings_ch_6.docx": [4387], "Isaiah_ch_40.docx": [2702], "1 Corinthians_ch_12.docx": [3024], "Hebrews_ch_11.docx": [2017]}
+design	{"Leviticus_ch_23.docx": [3013], "Leviticus_ch_27.docx": [1927], "1 Kings_ch_6.docx": [4387], "Isaiah_ch_40.docx": [2702], "1 Corinthians_ch_12.docx": [3024], "Hebrews_ch_11.docx": [2017]}

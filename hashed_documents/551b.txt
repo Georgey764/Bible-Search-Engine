@@ -1,4 +1,2 @@
 
-ambri	{"1 Chronicles_ch_8.docx": [1544], "1 Chronicles_ch_27.docx": [2419, 2419, 2419]}
-ambri	{"1 Chronicles_ch_8.docx": [1544], "1 Chronicles_ch_27.docx": [2419, 2419]}
 ambri	{"1 Chronicles_ch_8.docx": [1544], "1 Chronicles_ch_27.docx": [2419]}

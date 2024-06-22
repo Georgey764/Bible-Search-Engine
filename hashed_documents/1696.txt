@@ -1,4 +1,2 @@
 
-sternl	{"Matthew_ch_9.docx": [4116], "Matthew_ch_12.docx": [1754, 1754, 1754], "Matthew_ch_16.docx": [2624, 2624, 2624]}
-sternl	{"Matthew_ch_9.docx": [4116], "Matthew_ch_12.docx": [1754, 1754], "Matthew_ch_16.docx": [2624, 2624]}
 sternl	{"Matthew_ch_9.docx": [4116], "Matthew_ch_12.docx": [1754], "Matthew_ch_16.docx": [2624]}

@@ -1,4 +1,3 @@
 
-dilig	{"Ezra_ch_7.docx": [4098], "Zephaniah_ch_1.docx": [3315, 3315, 3315], "2 Timothy_ch_1.docx": [2193, 2193]}
-dilig	{"Ezra_ch_7.docx": [4098], "Zephaniah_ch_1.docx": [3315, 3315], "2 Timothy_ch_1.docx": [2193]}
 dilig	{"Ezra_ch_7.docx": [4098], "Zephaniah_ch_1.docx": [3315], "2 Timothy_ch_1.docx": [2193]}
+shown]	{"Nehemiah_ch_13.docx": [5615]}

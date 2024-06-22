@@ -1,2 +1,0 @@
-
-21he	{"Genesis_ch_4.docx": [2346], "Genesis_ch_31.docx": [2606], "Deuteronomy_ch_10.docx": [2845], "2 Samuel_ch_23.docx": [3566], "1 Kings_ch_7.docx": [2717], "2 Chronicles_ch_18.docx": [3412], "Daniel_ch_2.docx": [3322]}

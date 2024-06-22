@@ -1,4 +1,2 @@
 
-camus	{"1 Kings_ch_11.docx": [947, 4742, 4742, 4742]}
-camus	{"1 Kings_ch_11.docx": [947, 4742, 4742]}
 camus	{"1 Kings_ch_11.docx": [947, 4742]}

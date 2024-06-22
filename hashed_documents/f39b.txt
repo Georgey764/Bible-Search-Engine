@@ -1,5 +1,2 @@
 
-pebble	{"Revelation_ch_2.docx": [2878, 2880, 2880]}
-12path	{"1 Chronicles_ch_1.docx": [1006]}
-52bu	{"Psalms_ch_78.docx": [5030]}
 pebble	{"Revelation_ch_2.docx": [2878, 2880]}

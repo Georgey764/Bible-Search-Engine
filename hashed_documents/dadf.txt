@@ -1,5 +1,2 @@
 
-empl	{"Isaiah_ch_16.docx": [2577], "Isaiah_ch_58.docx": [688, 688, 688], "Malachi_ch_3.docx": [1204, 1204, 1204], "Acts_ch_19.docx": [6653, 6653]}
-empl	{"Isaiah_ch_16.docx": [2577], "Isaiah_ch_58.docx": [688, 688], "Malachi_ch_3.docx": [1204, 1204], "Acts_ch_19.docx": [6653]}
-15[‘f	{"Hosea_ch_9.docx": [2934]}
 empl	{"Isaiah_ch_16.docx": [2577], "Isaiah_ch_58.docx": [688], "Malachi_ch_3.docx": [1204], "Acts_ch_19.docx": [6653]}

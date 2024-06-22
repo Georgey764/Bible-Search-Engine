@@ -1,4 +1,2 @@
 
-advise	{"2 Samuel_ch_17.docx": [1517], "Nehemiah_ch_9.docx": [6279, 6279, 6279], "John_ch_18.docx": [1422, 1422], "Ephesians_ch_4.docx": [2427, 2427], "Revelation_ch_3.docx": [3094, 3094]}
-advise	{"2 Samuel_ch_17.docx": [1517], "Nehemiah_ch_9.docx": [6279, 6279], "John_ch_18.docx": [1422], "Ephesians_ch_4.docx": [2427], "Revelation_ch_3.docx": [3094]}
 advise	{"2 Samuel_ch_17.docx": [1517], "Nehemiah_ch_9.docx": [6279], "John_ch_18.docx": [1422], "Ephesians_ch_4.docx": [2427], "Revelation_ch_3.docx": [3094]}

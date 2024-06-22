@@ -1,3 +1,0 @@
-
-4‘in	{"Genesis_ch_24.docx": [440], "Exodus_ch_15.docx": [431], "Isaiah_ch_15.docx": [536], "Isaiah_ch_57.docx": [437], "Micah_ch_2.docx": [622]}
-9brin	{"Psalms_ch_140.docx": [909]}

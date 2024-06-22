@@ -1,4 +1,2 @@
 
-magog	{"Genesis_ch_10.docx": [195], "1 Chronicles_ch_1.docx": [223, 223, 223], "Ezekiel_ch_38.docx": [91, 91, 91], "Ezekiel_ch_39.docx": [861, 861, 861], "Revelation_ch_20.docx": [1256, 1256]}
-magog	{"Genesis_ch_10.docx": [195], "1 Chronicles_ch_1.docx": [223, 223], "Ezekiel_ch_38.docx": [91, 91], "Ezekiel_ch_39.docx": [861, 861], "Revelation_ch_20.docx": [1256]}
 magog	{"Genesis_ch_10.docx": [195], "1 Chronicles_ch_1.docx": [223], "Ezekiel_ch_38.docx": [91], "Ezekiel_ch_39.docx": [861], "Revelation_ch_20.docx": [1256]}

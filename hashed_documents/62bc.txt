@@ -1,4 +1,2 @@
 
-ounce	{"Genesis_ch_24.docx": [3290], "Ezekiel_ch_4.docx": [1658, 1781, 1658, 1781, 1658, 1781]}
-ounce	{"Genesis_ch_24.docx": [3290], "Ezekiel_ch_4.docx": [1658, 1781, 1658, 1781]}
 ounce	{"Genesis_ch_24.docx": [3290], "Ezekiel_ch_4.docx": [1658, 1781]}

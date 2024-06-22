@@ -1,5 +1,2 @@
 
-ahinoa	{"1 Samuel_ch_14.docx": [8160], "1 Samuel_ch_25.docx": [6956, 6956, 6956], "1 Samuel_ch_27.docx": [379, 379, 379], "1 Samuel_ch_30.docx": [548, 548, 548], "2 Samuel_ch_2.docx": [231, 231, 231], "2 Samuel_ch_3.docx": [255, 255, 255]}
-ahinoa	{"1 Samuel_ch_14.docx": [8160], "1 Samuel_ch_25.docx": [6956, 6956], "1 Samuel_ch_27.docx": [379, 379], "1 Samuel_ch_30.docx": [548, 548], "2 Samuel_ch_2.docx": [231, 231], "2 Samuel_ch_3.docx": [255, 255]}
-11it’	{"Zechariah_ch_11.docx": [1949]}
 ahinoa	{"1 Samuel_ch_14.docx": [8160], "1 Samuel_ch_25.docx": [6956], "1 Samuel_ch_27.docx": [379], "1 Samuel_ch_30.docx": [548], "2 Samuel_ch_2.docx": [231], "2 Samuel_ch_3.docx": [255]}

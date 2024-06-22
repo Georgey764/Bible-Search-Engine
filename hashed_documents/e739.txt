@@ -1,5 +1,2 @@
 
-aquedu	{"2 Kings_ch_18.docx": [2650], "Isaiah_ch_19.docx": [858, 858, 858], "Isaiah_ch_27.docx": [1982, 1982, 1982], "Isaiah_ch_33.docx": [3351, 3351, 3351], "Isaiah_ch_36.docx": [58, 58, 58]}
-15l	{"Genesis_ch_1.docx": [2284], "Genesis_ch_29.docx": [2084], "Job_ch_34.docx": [1271], "Psalms_ch_40.docx": [1950], "Proverbs_ch_28.docx": [1359], "Jeremiah_ch_49.docx": [2715], "Matthew_ch_11.docx": [1498]}
-aquedu	{"2 Kings_ch_18.docx": [2650], "Isaiah_ch_19.docx": [858, 858], "Isaiah_ch_27.docx": [1982, 1982], "Isaiah_ch_33.docx": [3351, 3351], "Isaiah_ch_36.docx": [58, 58]}
 aquedu	{"2 Kings_ch_18.docx": [2650], "Isaiah_ch_19.docx": [858], "Isaiah_ch_27.docx": [1982], "Isaiah_ch_33.docx": [3351], "Isaiah_ch_36.docx": [58]}

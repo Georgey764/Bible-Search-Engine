@@ -1,2 +1,0 @@
-
-40you	{"Genesis_ch_27.docx": [5321], "Leviticus_ch_25.docx": [5639], "Deuteronomy_ch_28.docx": [5545], "Psalms_ch_18.docx": [3835], "Psalms_ch_89.docx": [3864], "Psalms_ch_119.docx": [3116]}

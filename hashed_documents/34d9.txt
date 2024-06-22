@@ -1,4 +1,2 @@
 
-states	{"Daniel_ch_6.docx": [4548]}
-states	{"Daniel_ch_6.docx": [4548]}
-states	{"Daniel_ch_6.docx": [4548]}
+states	{"Ruth_ch_4.docx": [4074], "Daniel_ch_6.docx": [4548]}

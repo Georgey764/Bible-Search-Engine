@@ -1,4 +1,2 @@
 
-cres	{"Psalms_ch_42.docx": [945], "Isaiah_ch_3.docx": [2787, 2787, 2787], "Jonah_ch_2.docx": [428, 428, 428]}
-cres	{"Psalms_ch_42.docx": [945], "Isaiah_ch_3.docx": [2787, 2787], "Jonah_ch_2.docx": [428, 428]}
 cres	{"Psalms_ch_42.docx": [945], "Isaiah_ch_3.docx": [2787], "Jonah_ch_2.docx": [428]}

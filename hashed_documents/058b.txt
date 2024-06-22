@@ -1,5 +1,2 @@
 
-mouth!	{"Job_ch_37.docx": [162], "Psalms_ch_78.docx": [90, 90, 90], "Proverbs_ch_7.docx": [2186, 2186, 2186], "Ezekiel_ch_4.docx": [2231, 2231, 2231], "Luke_ch_22.docx": [8244, 8244], "Revelation_ch_2.docx": [2623, 2623], "Revelation_ch_3.docx": [2734, 2734]}
-27‘no	{"Deuteronomy_ch_3.docx": [3961], "1 Samuel_ch_25.docx": [4107], "Matthew_ch_12.docx": [3022]}
-mouth!	{"Job_ch_37.docx": [162], "Psalms_ch_78.docx": [90, 90], "Proverbs_ch_7.docx": [2186, 2186], "Ezekiel_ch_4.docx": [2231, 2231], "Luke_ch_22.docx": [8244], "Revelation_ch_2.docx": [2623], "Revelation_ch_3.docx": [2734]}
-mouth!	{"Job_ch_37.docx": [162], "Psalms_ch_78.docx": [90], "Proverbs_ch_7.docx": [2186], "Ezekiel_ch_4.docx": [2231], "Luke_ch_22.docx": [8244], "Revelation_ch_2.docx": [2623], "Revelation_ch_3.docx": [2734]}
+mouth!	{"1 Kings_ch_22.docx": [3932], "Job_ch_37.docx": [162], "Psalms_ch_78.docx": [90], "Proverbs_ch_7.docx": [2186], "Ezekiel_ch_4.docx": [2231], "Luke_ch_22.docx": [8244], "2 Timothy_ch_4.docx": [2256], "Revelation_ch_2.docx": [2623], "Revelation_ch_3.docx": [2734]}

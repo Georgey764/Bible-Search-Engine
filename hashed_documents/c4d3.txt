@@ -1,4 +1,2 @@
 
-test!	{"Isaiah_ch_7.docx": [1635], "Matthew_ch_26.docx": [4876, 4876], "Mark_ch_14.docx": [4991, 4991]}
-test!	{"Isaiah_ch_7.docx": [1635], "Matthew_ch_26.docx": [4876], "Mark_ch_14.docx": [4991]}
 test!	{"Isaiah_ch_7.docx": [1635], "Matthew_ch_26.docx": [4876], "Mark_ch_14.docx": [4991]}

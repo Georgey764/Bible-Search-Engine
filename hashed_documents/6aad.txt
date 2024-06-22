@@ -1,4 +1,2 @@
 
-heedin	{"Proverbs_ch_6.docx": [213], "Proverbs_ch_15.docx": [3530, 3530, 3530]}
-heedin	{"Proverbs_ch_6.docx": [213], "Proverbs_ch_15.docx": [3530, 3530]}
 heedin	{"Proverbs_ch_6.docx": [213], "Proverbs_ch_15.docx": [3530]}

@@ -1,3 +1,2 @@
 
-weakli	{"2 Corinthians_ch_11.docx": [2952, 2962, 2962]}
 weakli	{"2 Corinthians_ch_11.docx": [2952, 2962]}

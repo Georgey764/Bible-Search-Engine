@@ -1,4 +1,2 @@
 
-due!	{"Job_ch_33.docx": [3425], "Psalms_ch_94.docx": [184, 184, 184], "Hosea_ch_9.docx": [1446, 1446, 1446]}
-due!	{"Job_ch_33.docx": [3425], "Psalms_ch_94.docx": [184, 184], "Hosea_ch_9.docx": [1446, 1446]}
 due!	{"Job_ch_33.docx": [3425], "Psalms_ch_94.docx": [184], "Hosea_ch_9.docx": [1446]}

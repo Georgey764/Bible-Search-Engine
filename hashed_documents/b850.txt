@@ -1,4 +1,2 @@
 
-costly	{"Isaiah_ch_28.docx": [2467]}
-costly	{"Isaiah_ch_28.docx": [2467]}
-costly	{"Isaiah_ch_28.docx": [2467]}
+costly	{"1 Chronicles_ch_29.docx": [605], "Isaiah_ch_28.docx": [2467]}

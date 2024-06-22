@@ -1,5 +1,2 @@
 
 out!f	{"Romans_ch_9.docx": [3541]}
-42am	{"Numbers_ch_1.docx": [3771]}
-5‘look	{"1 Samuel_ch_8.docx": [417], "Jeremiah_ch_23.docx": [811]}
-out!f	{"Romans_ch_9.docx": [3541]}

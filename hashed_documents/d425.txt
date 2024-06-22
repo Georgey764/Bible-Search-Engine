@@ -1,6 +1,3 @@
 
-gemsto	{"Genesis_ch_2.docx": [1617], "Exodus_ch_35.docx": [901, 1352, 2789, 3491, 901, 1352, 2789, 3491, 901, 1352, 2789, 3491]}
-striv	{"Luke_ch_13.docx": [3089]}
-gemsto	{"Genesis_ch_2.docx": [1617], "Exodus_ch_35.docx": [901, 1352, 2789, 3491, 901, 1352, 2789, 3491]}
-gemsto	{"Genesis_ch_2.docx": [1617], "Exodus_ch_35.docx": [901, 1352, 2789, 3491]}
+gemsto	{"Genesis_ch_2.docx": [1617], "Exodus_ch_35.docx": [901, 1352, 2789, 3491], "1 Chronicles_ch_29.docx": [1694]}
 striv	{"Luke_ch_13.docx": [3089]}

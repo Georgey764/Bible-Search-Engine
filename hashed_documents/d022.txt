@@ -1,4 +1,2 @@
 
-great-	{"Exodus_ch_20.docx": [264], "Numbers_ch_27.docx": [16, 16, 16], "Deuteronomy_ch_5.docx": [956, 956, 956], "1 Samuel_ch_1.docx": [31, 36, 31, 36, 31, 36], "1 Samuel_ch_9.docx": [26, 26, 26], "Esther_ch_2.docx": [1104, 1104, 1104], "Zephaniah_ch_1.docx": [18, 18, 18]}
-great-	{"Exodus_ch_20.docx": [264], "Numbers_ch_27.docx": [16, 16], "Deuteronomy_ch_5.docx": [956, 956], "1 Samuel_ch_1.docx": [31, 36, 31, 36], "1 Samuel_ch_9.docx": [26, 26], "Esther_ch_2.docx": [1104, 1104], "Zephaniah_ch_1.docx": [18, 18]}
-great-	{"Exodus_ch_20.docx": [264], "Numbers_ch_27.docx": [16], "Deuteronomy_ch_5.docx": [956], "1 Samuel_ch_1.docx": [31, 36], "1 Samuel_ch_9.docx": [26], "Esther_ch_2.docx": [1104], "Zephaniah_ch_1.docx": [18]}
+great-	{"Exodus_ch_20.docx": [264], "Numbers_ch_27.docx": [16], "Deuteronomy_ch_5.docx": [956], "Judges_ch_21.docx": [4024], "1 Samuel_ch_1.docx": [31, 36], "1 Samuel_ch_9.docx": [26], "Esther_ch_2.docx": [1104], "Zephaniah_ch_1.docx": [18]}

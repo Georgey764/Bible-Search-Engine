@@ -1,4 +1,2 @@
 
-millst	{"Deuteronomy_ch_24.docx": [923], "Judges_ch_9.docx": [9445, 9445, 9445], "2 Samuel_ch_11.docx": [3056, 3627, 3056, 3627, 3056, 3627], "Isaiah_ch_47.docx": [265, 265, 265], "Matthew_ch_18.docx": [602, 602, 602], "Mark_ch_9.docx": [5720, 5720], "Luke_ch_17.docx": [164, 164], "Revelation_ch_18.docx": [3775, 4017, 3775, 4017]}
-millst	{"Deuteronomy_ch_24.docx": [923], "Judges_ch_9.docx": [9445, 9445], "2 Samuel_ch_11.docx": [3056, 3627, 3056, 3627], "Isaiah_ch_47.docx": [265, 265], "Matthew_ch_18.docx": [602, 602], "Mark_ch_9.docx": [5720], "Luke_ch_17.docx": [164], "Revelation_ch_18.docx": [3775, 4017]}
 millst	{"Deuteronomy_ch_24.docx": [923], "Judges_ch_9.docx": [9445], "2 Samuel_ch_11.docx": [3056, 3627], "Isaiah_ch_47.docx": [265], "Matthew_ch_18.docx": [602], "Mark_ch_9.docx": [5720], "Luke_ch_17.docx": [164], "Revelation_ch_18.docx": [3775, 4017]}

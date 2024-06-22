@@ -1,4 +1,2 @@
 
-jasper	{"Exodus_ch_28.docx": [2291], "Exodus_ch_39.docx": [1404, 1404, 1404], "Isaiah_ch_54.docx": [1843, 1843, 1843], "Ezekiel_ch_28.docx": [1829, 1829, 1829], "Revelation_ch_4.docx": [385, 385], "Revelation_ch_21.docx": [1576, 2746, 2945, 1576, 2746, 2945]}
-jasper	{"Exodus_ch_28.docx": [2291], "Exodus_ch_39.docx": [1404, 1404], "Isaiah_ch_54.docx": [1843, 1843], "Ezekiel_ch_28.docx": [1829, 1829], "Revelation_ch_4.docx": [385], "Revelation_ch_21.docx": [1576, 2746, 2945]}
 jasper	{"Exodus_ch_28.docx": [2291], "Exodus_ch_39.docx": [1404], "Isaiah_ch_54.docx": [1843], "Ezekiel_ch_28.docx": [1829], "Revelation_ch_4.docx": [385], "Revelation_ch_21.docx": [1576, 2746, 2945]}

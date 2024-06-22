@@ -1,4 +1,2 @@
 
-maro	{"1 Chronicles_ch_4.docx": [1891, 2110, 2110, 2110]}
-maro	{"1 Chronicles_ch_4.docx": [1891, 2110, 2110]}
-maro	{"1 Chronicles_ch_4.docx": [1891, 2110]}
+maro	{"2 Kings_ch_25.docx": [4141], "1 Chronicles_ch_4.docx": [1891, 2110]}

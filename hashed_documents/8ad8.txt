@@ -1,5 +1,2 @@
 
-place;	{"Numbers_ch_9.docx": [2348], "2 Chronicles_ch_26.docx": [2941, 2941, 2941], "Ecclesiastes_ch_10.docx": [399, 399, 399], "Ezekiel_ch_21.docx": [204, 3001, 204, 3001, 204, 3001], "Ezekiel_ch_44.docx": [5136, 5136, 5136]}
-place;	{"Numbers_ch_9.docx": [2348], "2 Chronicles_ch_26.docx": [2941, 2941], "Ecclesiastes_ch_10.docx": [399, 399], "Ezekiel_ch_21.docx": [204, 3001, 204, 3001], "Ezekiel_ch_44.docx": [5136, 5136]}
-7can	{"Job_ch_4.docx": [515]}
 place;	{"Numbers_ch_9.docx": [2348], "2 Chronicles_ch_26.docx": [2941], "Ecclesiastes_ch_10.docx": [399], "Ezekiel_ch_21.docx": [204, 3001], "Ezekiel_ch_44.docx": [5136]}

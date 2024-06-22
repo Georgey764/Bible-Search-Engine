@@ -1,5 +1,2 @@
 
-weste	{"Numbers_ch_34.docx": [663], "Joshua_ch_13.docx": [26351, 26351, 26351], "Joshua_ch_15.docx": [1741, 1741, 1741], "1 Chronicles_ch_26.docx": [3920, 3920, 3920], "Isaiah_ch_51.docx": [489, 489, 489], "Amos_ch_6.docx": [3156, 3156, 3156]}
-weste	{"Numbers_ch_34.docx": [663], "Joshua_ch_13.docx": [26351, 26351], "Joshua_ch_15.docx": [1741, 1741], "1 Chronicles_ch_26.docx": [3920, 3920], "Isaiah_ch_51.docx": [489, 489], "Amos_ch_6.docx": [3156, 3156]}
-53ba	{"Ezra_ch_2.docx": [2109], "Nehemiah_ch_7.docx": [3094]}
-weste	{"Numbers_ch_34.docx": [663], "Joshua_ch_13.docx": [26351], "Joshua_ch_15.docx": [1741], "1 Chronicles_ch_26.docx": [3920], "Isaiah_ch_51.docx": [489], "Amos_ch_6.docx": [3156]}
+weste	{"Numbers_ch_34.docx": [663], "Joshua_ch_13.docx": [26351], "Joshua_ch_15.docx": [1741], "1 Chronicles_ch_26.docx": [3920], "Isaiah_ch_51.docx": [489], "Isaiah_ch_66.docx": [5224], "Amos_ch_6.docx": [3156]}

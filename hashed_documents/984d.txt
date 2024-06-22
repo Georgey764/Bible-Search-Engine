@@ -1,5 +1,2 @@
 
-destin	{"John_ch_6.docx": [2481]}
-21ho	{"Exodus_ch_20.docx": [2265], "Exodus_ch_21.docx": [2498], "Deuteronomy_ch_15.docx": [3025], "Joshua_ch_22.docx": [3554], "Judges_ch_11.docx": [4194], "2 Chronicles_ch_23.docx": [4338], "Isaiah_ch_1.docx": [3423]}
-21tho	{"Proverbs_ch_11.docx": [2170], "Proverbs_ch_14.docx": [1790], "Proverbs_ch_21.docx": [2047]}
-destin	{"John_ch_6.docx": [2481]}
+destin	{"John_ch_6.docx": [2481], "1 Thessalonians_ch_5.docx": [1041]}

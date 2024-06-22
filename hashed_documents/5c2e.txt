@@ -1,4 +1,2 @@
 
-patr	{"2 Kings_ch_11.docx": [527, 3159, 3159, 3159], "1 Chronicles_ch_27.docx": [2989, 2989, 2989], "2 Chronicles_ch_19.docx": [1084, 1084, 1084], "Acts_ch_2.docx": [9690, 9690]}
-patr	{"2 Kings_ch_11.docx": [527, 3159, 3159], "1 Chronicles_ch_27.docx": [2989, 2989], "2 Chronicles_ch_19.docx": [1084, 1084], "Acts_ch_2.docx": [9690]}
-patr	{"2 Kings_ch_11.docx": [527, 3159], "1 Chronicles_ch_27.docx": [2989], "2 Chronicles_ch_19.docx": [1084], "Acts_ch_2.docx": [9690]}
+patr	{"2 Kings_ch_11.docx": [527, 3159], "2 Kings_ch_25.docx": [5615], "1 Chronicles_ch_27.docx": [2989], "1 Chronicles_ch_29.docx": [6226], "2 Chronicles_ch_19.docx": [1084], "Acts_ch_2.docx": [9690], "Romans_ch_16.docx": [1853]}

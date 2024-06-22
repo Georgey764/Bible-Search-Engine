@@ -1,5 +1,2 @@
 
 helka	{"Nehemiah_ch_12.docx": [1312]}
-18c	{"2 Chronicles_ch_31.docx": [3310], "Proverbs_ch_18.docx": [1503]}
-helka	{"Nehemiah_ch_12.docx": [1312]}
-helka	{"Nehemiah_ch_12.docx": [1312]}

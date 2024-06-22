@@ -1,4 +1,2 @@
 
-hattu	{"1 Chronicles_ch_3.docx": [2046], "Ezra_ch_8.docx": [299, 299, 299], "Nehemiah_ch_3.docx": [3604, 3604, 3604], "Nehemiah_ch_10.docx": [204, 204], "Nehemiah_ch_12.docx": [179, 179, 179]}
-hattu	{"1 Chronicles_ch_3.docx": [2046], "Ezra_ch_8.docx": [299, 299], "Nehemiah_ch_3.docx": [3604, 3604], "Nehemiah_ch_12.docx": [179, 179], "Nehemiah_ch_10.docx": [204]}
 hattu	{"1 Chronicles_ch_3.docx": [2046], "Ezra_ch_8.docx": [299], "Nehemiah_ch_3.docx": [3604], "Nehemiah_ch_10.docx": [204], "Nehemiah_ch_12.docx": [179]}

@@ -1,3 +1,0 @@
-
-24alt	{"Genesis_ch_7.docx": [3053]}
-14d	{"Genesis_ch_34.docx": [1588], "Deuteronomy_ch_8.docx": [1674], "1 Samuel_ch_26.docx": [2076], "2 Samuel_ch_15.docx": [1768], "Proverbs_ch_4.docx": [1326], "Daniel_ch_2.docx": [2184]}

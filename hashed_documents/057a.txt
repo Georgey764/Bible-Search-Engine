@@ -1,5 +1,2 @@
 
-trader	{"1 Kings_ch_10.docx": [4251], "Isaiah_ch_23.docx": [248, 302, 248, 302, 248, 302], "Isaiah_ch_45.docx": [2480, 2480, 2480], "Ezekiel_ch_27.docx": [3212, 3212, 3212]}
-trader	{"1 Kings_ch_10.docx": [4251], "Isaiah_ch_23.docx": [248, 302, 248, 302], "Isaiah_ch_45.docx": [2480, 2480], "Ezekiel_ch_27.docx": [3212, 3212]}
-79m	{"Psalms_ch_119.docx": [6500]}
-trader	{"1 Kings_ch_10.docx": [4251], "Isaiah_ch_23.docx": [248, 302], "Isaiah_ch_45.docx": [2480], "Ezekiel_ch_27.docx": [3212]}
+trader	{"1 Kings_ch_10.docx": [4251], "Nehemiah_ch_13.docx": [3526], "Isaiah_ch_23.docx": [248, 302], "Isaiah_ch_45.docx": [2480], "Ezekiel_ch_27.docx": [3212]}

@@ -1,3 +1,0 @@
-
-32i	{"Genesis_ch_46.docx": [3861], "Genesis_ch_49.docx": [3982], "Exodus_ch_30.docx": [3851], "Leviticus_ch_26.docx": [4006], "Numbers_ch_10.docx": [3628], "2 Kings_ch_15.docx": [4801], "Nehemiah_ch_10.docx": [2231], "Nehemiah_ch_11.docx": [7666], "Psalms_ch_105.docx": [2619], "Proverbs_ch_16.docx": [3273], "Proverbs_ch_24.docx": [3046], "Ezekiel_ch_18.docx": [5208]}
-16le	{"Exodus_ch_4.docx": [2224], "Psalms_ch_72.docx": [1419], "Proverbs_ch_5.docx": [1339]}

@@ -1,2 +1,0 @@
-
-32w	{"Genesis_ch_5.docx": [2422], "Genesis_ch_42.docx": [3923], "Numbers_ch_13.docx": [3570], "Numbers_ch_14.docx": [4593], "Numbers_ch_15.docx": [4043], "Judges_ch_5.docx": [4655], "Judges_ch_6.docx": [7100], "Judges_ch_8.docx": [6256], "1 Samuel_ch_25.docx": [5011], "1 Kings_ch_15.docx": [4745], "Ezra_ch_8.docx": [4576], "Proverbs_ch_30.docx": [3292], "Ezekiel_ch_20.docx": [5748], "Matthew_ch_14.docx": [3829], "Matthew_ch_15.docx": [3656]}

@@ -1,4 +1,2 @@
 
-cleani	{"Exodus_ch_29.docx": [4886], "1 Samuel_ch_14.docx": [4782, 4782, 4782], "Proverbs_ch_14.docx": [779, 779, 779], "Ezekiel_ch_15.docx": [339, 339, 339]}
-cleani	{"Exodus_ch_29.docx": [4886], "1 Samuel_ch_14.docx": [4782, 4782], "Proverbs_ch_14.docx": [779, 779], "Ezekiel_ch_15.docx": [339, 339]}
 cleani	{"Exodus_ch_29.docx": [4886], "1 Samuel_ch_14.docx": [4782], "Proverbs_ch_14.docx": [779], "Ezekiel_ch_15.docx": [339]}

@@ -1,2 +1,0 @@
-
-14bec	{"Exodus_ch_14.docx": [2596], "Leviticus_ch_17.docx": [2127], "Numbers_ch_34.docx": [1444], "2 Kings_ch_12.docx": [2164], "2 Kings_ch_15.docx": [1762]}

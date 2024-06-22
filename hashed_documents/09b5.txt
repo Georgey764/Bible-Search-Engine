@@ -1,2 +1,0 @@
-
-100,0	{"1 Kings_ch_20.docx": [5084], "2 Kings_ch_3.docx": [429, 432], "1 Chronicles_ch_5.docx": [2792], "2 Chronicles_ch_25.docx": [894]}

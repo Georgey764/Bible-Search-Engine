@@ -1,4 +1,2 @@
 
-patche	{"Joshua_ch_9.docx": [5676], "Mark_ch_2.docx": [2832, 2832]}
-patche	{"Joshua_ch_9.docx": [5676], "Mark_ch_2.docx": [2832]}
 patche	{"Joshua_ch_9.docx": [5676], "Mark_ch_2.docx": [2832]}

@@ -1,4 +1,2 @@
 
-agin	{"Joshua_ch_19.docx": [1531], "Job_ch_13.docx": [2460, 2460]}
-agin	{"Job_ch_13.docx": [2460, 2460]}
 agin	{"Joshua_ch_19.docx": [1531], "Job_ch_13.docx": [2460]}

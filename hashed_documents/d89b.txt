@@ -1,4 +1,2 @@
 
-limite	{"John_ch_7.docx": [12, 27, 43, 27, 43]}
-8pass	{"Proverbs_ch_7.docx": [710]}
 limite	{"John_ch_7.docx": [12, 27, 43]}

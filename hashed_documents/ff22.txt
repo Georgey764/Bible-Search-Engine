@@ -1,7 +1,3 @@
 
 lachim	{"1 Chronicles_ch_7.docx": [2434]}
 pilt	{"Nehemiah_ch_12.docx": [1519]}
-lachim	{"1 Chronicles_ch_7.docx": [2434]}
-pilt	{"Nehemiah_ch_12.docx": [1519]}
-lachim	{"1 Chronicles_ch_7.docx": [2434]}
-pilt	{"Nehemiah_ch_12.docx": [1519]}

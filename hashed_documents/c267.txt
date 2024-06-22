@@ -1,4 +1,2 @@
 
-ordi	{"Judges_ch_16.docx": [1260], "1 Corinthians_ch_11.docx": [3305, 3305], "1 Corinthians_ch_14.docx": [2106, 3092, 3259, 2106, 3092, 3259], "Hebrews_ch_7.docx": [1243, 1243]}
-ordi	{"Judges_ch_16.docx": [1260], "1 Corinthians_ch_11.docx": [3305], "1 Corinthians_ch_14.docx": [2106, 3092, 3259], "Hebrews_ch_7.docx": [1243]}
 ordi	{"Judges_ch_16.docx": [1260], "1 Corinthians_ch_11.docx": [3305], "1 Corinthians_ch_14.docx": [2106, 3092, 3259], "Hebrews_ch_7.docx": [1243]}

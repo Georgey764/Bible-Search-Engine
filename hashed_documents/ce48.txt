@@ -1,3 +1,2 @@
 
-stadi	{"1 Corinthians_ch_9.docx": [3274], "Revelation_ch_14.docx": [3513, 3513], "Revelation_ch_21.docx": [2307, 2307]}
 stadi	{"1 Corinthians_ch_9.docx": [3274], "Revelation_ch_14.docx": [3513], "Revelation_ch_21.docx": [2307]}

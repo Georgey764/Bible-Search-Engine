@@ -1,5 +1,2 @@
 
-soon!	{"Genesis_ch_41.docx": [3808], "Nahum_ch_1.docx": [2855, 2855, 2855], "Zephaniah_ch_1.docx": [2548, 2548, 2548]}
-soon!	{"Genesis_ch_41.docx": [3808], "Nahum_ch_1.docx": [2855, 2855], "Zephaniah_ch_1.docx": [2548, 2548]}
-6keep	{"Proverbs_ch_3.docx": [522]}
-soon!	{"Genesis_ch_41.docx": [3808], "Nahum_ch_1.docx": [2855], "Zephaniah_ch_1.docx": [2548]}
+soon!	{"Genesis_ch_41.docx": [3808], "Nahum_ch_1.docx": [2855], "Zephaniah_ch_1.docx": [2548], "Hebrews_ch_13.docx": [2744]}

@@ -1,4 +1,2 @@
 
-memori	{"Exodus_ch_28.docx": [1414], "Leviticus_ch_23.docx": [3523, 3523, 3523], "Esther_ch_9.docx": [3359, 3872, 3359, 3872, 3359, 3872], "Isaiah_ch_22.docx": [2336, 2336, 2336], "Isaiah_ch_23.docx": [2557, 2557, 2557], "1 Thessalonians_ch_3.docx": [781, 781]}
-memori	{"Exodus_ch_28.docx": [1414], "Leviticus_ch_23.docx": [3523, 3523], "Esther_ch_9.docx": [3359, 3872, 3359, 3872], "Isaiah_ch_22.docx": [2336, 2336], "Isaiah_ch_23.docx": [2557, 2557], "1 Thessalonians_ch_3.docx": [781]}
-memori	{"Exodus_ch_28.docx": [1414], "Leviticus_ch_23.docx": [3523], "Esther_ch_9.docx": [3359, 3872], "Isaiah_ch_22.docx": [2336], "Isaiah_ch_23.docx": [2557], "1 Thessalonians_ch_3.docx": [781]}
+memori	{"Exodus_ch_28.docx": [1414], "Leviticus_ch_23.docx": [3523], "Esther_ch_9.docx": [3359, 3872], "Esther_ch_10.docx": [222], "Isaiah_ch_22.docx": [2336], "Isaiah_ch_23.docx": [2557], "1 Thessalonians_ch_3.docx": [781]}

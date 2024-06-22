@@ -1,4 +1,2 @@
 
-eda	{"1 Chronicles_ch_23.docx": [822, 850, 850, 850]}
-eda	{"1 Chronicles_ch_23.docx": [822, 850, 850]}
 eda	{"1 Chronicles_ch_23.docx": [822, 850]}

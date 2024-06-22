@@ -1,4 +1,2 @@
 
 as	{"1 Chronicles_ch_4.docx": [4003], "1 Chronicles_ch_8.docx": [2412]}
-as	{"1 Chronicles_ch_4.docx": [4003], "1 Chronicles_ch_8.docx": [2412]}
-as	{"1 Chronicles_ch_4.docx": [4003], "1 Chronicles_ch_8.docx": [2412]}

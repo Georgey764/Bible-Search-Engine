@@ -1,4 +1,2 @@
 
-repurc	{"Leviticus_ch_25.docx": [3210], "Psalms_ch_130.docx": [619, 619, 619]}
-repurc	{"Leviticus_ch_25.docx": [3210], "Psalms_ch_130.docx": [619, 619]}
-repurc	{"Leviticus_ch_25.docx": [3210], "Psalms_ch_130.docx": [619]}
+repurc	{"Leviticus_ch_25.docx": [3210], "Leviticus_ch_27.docx": [4336], "Psalms_ch_130.docx": [619], "Zephaniah_ch_3.docx": [189]}

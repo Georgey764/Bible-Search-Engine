@@ -1,7 +1,3 @@
 
 keblaa	{"2 Kings_ch_15.docx": [1238]}
-loadin	{"2 Chronicles_ch_2.docx": [3306]}
-keblaa	{"2 Kings_ch_15.docx": [1238]}
-loadin	{"2 Chronicles_ch_2.docx": [3306]}
-keblaa	{"2 Kings_ch_15.docx": [1238]}
-loadin	{"2 Chronicles_ch_2.docx": [3306]}
+loadin	{"2 Chronicles_ch_2.docx": [3306], "Nehemiah_ch_13.docx": [2521]}

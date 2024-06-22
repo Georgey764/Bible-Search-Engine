@@ -1,4 +1,2 @@
 
-jason	{"Joshua_ch_19.docx": [206], "Acts_ch_17.docx": [1036, 1056, 1412, 1654, 1036, 1056, 1412, 1654]}
-jason	{"Joshua_ch_19.docx": [206], "Acts_ch_17.docx": [1036, 1056, 1412, 1654]}
-jason	{"Joshua_ch_19.docx": [206], "Acts_ch_17.docx": [1036, 1056, 1412, 1654]}
+jason	{"Joshua_ch_19.docx": [206], "Acts_ch_17.docx": [1036, 1056, 1412, 1654], "Romans_ch_16.docx": [2851]}

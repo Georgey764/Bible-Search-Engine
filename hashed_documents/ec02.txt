@@ -1,7 +1,3 @@
 
-manai	{"2 Samuel_ch_17.docx": [3915, 4315, 4315, 4315], "2 Samuel_ch_19.docx": [5198, 5198, 5198]}
-sabed	{"2 Chronicles_ch_24.docx": [4617]}
-manai	{"2 Samuel_ch_17.docx": [3915, 4315, 4315], "2 Samuel_ch_19.docx": [5198, 5198]}
-sabed	{"2 Chronicles_ch_24.docx": [4617]}
 manai	{"2 Samuel_ch_17.docx": [3915, 4315], "2 Samuel_ch_19.docx": [5198]}
 sabed	{"2 Chronicles_ch_24.docx": [4617]}

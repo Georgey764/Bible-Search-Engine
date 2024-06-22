@@ -1,5 +1,2 @@
 
 arud	{"2 Samuel_ch_23.docx": [4259]}
-arud	{"2 Samuel_ch_23.docx": [4259]}
-3[an	{"2 Kings_ch_2.docx": [329], "Song of Solomon_ch_2.docx": [199], "Jeremiah_ch_5.docx": [321], "Jeremiah_ch_9.docx": [382]}
-arud	{"2 Samuel_ch_23.docx": [4259]}

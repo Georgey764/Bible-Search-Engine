@@ -1,6 +1,3 @@
 
 alom	{"1 Samuel_ch_21.docx": [238]}
 disloy	{"1 Timothy_ch_1.docx": [1274]}
-alom	{"1 Samuel_ch_21.docx": [238]}
-alom	{"1 Samuel_ch_21.docx": [238]}
-disloy	{"1 Timothy_ch_1.docx": [1274]}

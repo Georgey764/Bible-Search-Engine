@@ -1,2 +1,0 @@
-
-5you	{"Exodus_ch_20.docx": [233], "Numbers_ch_18.docx": [648], "Deuteronomy_ch_28.docx": [538], "Job_ch_17.docx": [333], "Psalms_ch_91.docx": [449], "Psalms_ch_104.docx": [513], "Psalms_ch_106.docx": [374], "Proverbs_ch_2.docx": [347], "Proverbs_ch_4.docx": [355], "Song of Solomon_ch_7.docx": [661], "Isaiah_ch_59.docx": [674], "Isaiah_ch_60.docx": [623], "Isaiah_ch_64.docx": [528], "Jeremiah_ch_31.docx": [636], "Ezekiel_ch_2.docx": [562], "Ezekiel_ch_22.docx": [614]}

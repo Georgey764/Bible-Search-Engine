@@ -1,4 +1,2 @@
 
-mith	{"Ezra_ch_1.docx": [1217], "Ezra_ch_4.docx": [989, 989, 989]}
-mith	{"Ezra_ch_1.docx": [1217], "Ezra_ch_4.docx": [989, 989]}
 mith	{"Ezra_ch_1.docx": [1217], "Ezra_ch_4.docx": [989]}

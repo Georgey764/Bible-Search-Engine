@@ -1,4 +1,2 @@
 
-hind	{"Leviticus_ch_3.docx": [1334], "Leviticus_ch_9.docx": [2343, 2343, 2343], "1 Samuel_ch_9.docx": [3961, 3961, 3961], "Job_ch_39.docx": [95, 95, 95], "Psalms_ch_29.docx": [744, 744, 744], "Proverbs_ch_5.docx": [1580, 1580, 1580], "Song of Solomon_ch_2.docx": [1022, 2246, 1022, 2246, 1022, 2246], "Jeremiah_ch_14.docx": [531, 531, 531]}
-hind	{"Leviticus_ch_3.docx": [1334], "Leviticus_ch_9.docx": [2343, 2343], "1 Samuel_ch_9.docx": [3961, 3961], "Job_ch_39.docx": [95, 95], "Psalms_ch_29.docx": [744, 744], "Proverbs_ch_5.docx": [1580, 1580], "Song of Solomon_ch_2.docx": [1022, 2246, 1022, 2246], "Jeremiah_ch_14.docx": [531, 531]}
 hind	{"Leviticus_ch_3.docx": [1334], "Leviticus_ch_9.docx": [2343], "1 Samuel_ch_9.docx": [3961], "Job_ch_39.docx": [95], "Psalms_ch_29.docx": [744], "Proverbs_ch_5.docx": [1580], "Song of Solomon_ch_2.docx": [1022, 2246], "Jeremiah_ch_14.docx": [531]}

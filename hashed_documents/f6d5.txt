@@ -1,5 +1,2 @@
 
-allegi	{"1 Kings_ch_12.docx": [3062], "2 Kings_ch_18.docx": [1041, 3189, 1041, 3189, 1041, 3189], "2 Kings_ch_24.docx": [32, 3148, 32, 3148, 32, 3148], "1 Chronicles_ch_5.docx": [3258, 3258, 3258], "2 Chronicles_ch_10.docx": [2783, 2783, 2783], "Nehemiah_ch_6.docx": [2669, 2669, 2669], "Ezekiel_ch_17.docx": [2226, 2226, 2226]}
-33like	{"Deuteronomy_ch_32.docx": [4871]}
-allegi	{"1 Kings_ch_12.docx": [3062], "2 Kings_ch_18.docx": [1041, 3189, 1041, 3189], "2 Kings_ch_24.docx": [32, 3148, 32, 3148], "1 Chronicles_ch_5.docx": [3258, 3258], "2 Chronicles_ch_10.docx": [2783, 2783], "Nehemiah_ch_6.docx": [2669, 2669], "Ezekiel_ch_17.docx": [2226, 2226]}
-allegi	{"1 Kings_ch_12.docx": [3062], "2 Kings_ch_18.docx": [1041, 3189], "2 Kings_ch_24.docx": [32, 3148], "1 Chronicles_ch_5.docx": [3258], "2 Chronicles_ch_10.docx": [2783], "Nehemiah_ch_6.docx": [2669], "Ezekiel_ch_17.docx": [2226]}
+allegi	{"1 Kings_ch_12.docx": [3062], "2 Kings_ch_18.docx": [1041, 3189], "2 Kings_ch_24.docx": [32, 3148], "1 Chronicles_ch_5.docx": [3258], "2 Chronicles_ch_10.docx": [2783], "2 Chronicles_ch_36.docx": [3286], "Nehemiah_ch_6.docx": [2669], "Ezekiel_ch_17.docx": [2226]}

@@ -1,4 +1,2 @@
 
-kan	{"1 Chronicles_ch_1.docx": [2930], "1 Chronicles_ch_2.docx": [1999, 1999, 1999], "Acts_ch_8.docx": [5936, 5936]}
-kan	{"1 Chronicles_ch_1.docx": [2930], "1 Chronicles_ch_2.docx": [1999, 1999], "Acts_ch_8.docx": [5936]}
 kan	{"1 Chronicles_ch_1.docx": [2930], "1 Chronicles_ch_2.docx": [1999], "Acts_ch_8.docx": [5936]}

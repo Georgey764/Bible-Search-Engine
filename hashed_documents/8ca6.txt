@@ -1,4 +1,2 @@
 
-knuckl	{"Daniel_ch_5.docx": [909, 4888, 4888, 4888]}
-knuckl	{"Daniel_ch_5.docx": [909, 4888, 4888]}
 knuckl	{"Daniel_ch_5.docx": [909, 4888]}

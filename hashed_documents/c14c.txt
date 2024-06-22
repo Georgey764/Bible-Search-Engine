@@ -1,4 +1,2 @@
 
-idols;	{"Isaiah_ch_48.docx": [1018], "Ezekiel_ch_6.docx": [633, 633, 633]}
-idols;	{"Isaiah_ch_48.docx": [1018], "Ezekiel_ch_6.docx": [633, 633]}
 idols;	{"Isaiah_ch_48.docx": [1018], "Ezekiel_ch_6.docx": [633]}

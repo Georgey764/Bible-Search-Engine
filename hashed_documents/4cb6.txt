@@ -1,5 +1,2 @@
 
 tred	{"Deuteronomy_ch_33.docx": [4451]}
-tred	{"Deuteronomy_ch_33.docx": [4451]}
-40wel	{"1 Kings_ch_11.docx": [6217]}
-tred	{"Deuteronomy_ch_33.docx": [4451]}

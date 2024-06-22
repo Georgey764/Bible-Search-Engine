@@ -1,7 +1,3 @@
 
 jeblaa	{"2 Kings_ch_9.docx": [5571]}
-agita	{"Matthew_ch_8.docx": [2892], "Acts_ch_17.docx": [1646, 2583, 1646, 2583], "Galatians_ch_5.docx": [1125, 1125]}
-jeblaa	{"2 Kings_ch_9.docx": [5571]}
-agita	{"Matthew_ch_8.docx": [2892], "Acts_ch_17.docx": [1646, 2583], "Galatians_ch_5.docx": [1125]}
-jeblaa	{"2 Kings_ch_9.docx": [5571]}
 agita	{"Matthew_ch_8.docx": [2892], "Acts_ch_17.docx": [1646, 2583], "Galatians_ch_5.docx": [1125]}

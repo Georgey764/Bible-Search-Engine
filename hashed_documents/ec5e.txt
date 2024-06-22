@@ -1,4 +1,2 @@
 
-ella	{"Genesis_ch_14.docx": [20, 1094, 1094, 1094], "2 Kings_ch_24.docx": [1194, 1194, 1194], "1 Chronicles_ch_1.docx": [2659, 2659, 2659], "1 Chronicles_ch_11.docx": [6545, 6545, 6545]}
-ella	{"Genesis_ch_14.docx": [20, 1094, 1094], "2 Kings_ch_24.docx": [1194, 1194], "1 Chronicles_ch_1.docx": [2659, 2659], "1 Chronicles_ch_11.docx": [6545, 6545]}
 ella	{"Genesis_ch_14.docx": [20, 1094], "2 Kings_ch_24.docx": [1194], "1 Chronicles_ch_1.docx": [2659], "1 Chronicles_ch_11.docx": [6545]}

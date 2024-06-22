@@ -1,9 +1,3 @@
 
 palm-	{"Leviticus_ch_23.docx": [5807]}
-boughs	{"Ezekiel_ch_31.docx": [818], "Amos_ch_2.docx": [2682, 2682, 2682]}
-32bal	{"Genesis_ch_36.docx": [3368]}
-palm-	{"Leviticus_ch_23.docx": [5807]}
-21i’	{"Proverbs_ch_22.docx": [2164], "Daniel_ch_10.docx": [3329]}
-boughs	{"Ezekiel_ch_31.docx": [818], "Amos_ch_2.docx": [2682, 2682]}
-palm-	{"Leviticus_ch_23.docx": [5807]}
 boughs	{"Ezekiel_ch_31.docx": [818], "Amos_ch_2.docx": [2682]}

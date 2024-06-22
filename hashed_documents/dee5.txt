@@ -1,4 +1,2 @@
 
-ezri	{"1 Chronicles_ch_3.docx": [2158], "1 Chronicles_ch_8.docx": [2579, 2579, 2579], "1 Chronicles_ch_9.docx": [2062, 5944, 2062, 5944, 2062, 5944], "2 Chronicles_ch_28.docx": [962, 962, 962]}
-ezri	{"1 Chronicles_ch_3.docx": [2158], "1 Chronicles_ch_8.docx": [2579, 2579], "1 Chronicles_ch_9.docx": [2062, 5944, 2062, 5944], "2 Chronicles_ch_28.docx": [962, 962]}
 ezri	{"1 Chronicles_ch_3.docx": [2158], "1 Chronicles_ch_8.docx": [2579], "1 Chronicles_ch_9.docx": [2062, 5944], "2 Chronicles_ch_28.docx": [962]}

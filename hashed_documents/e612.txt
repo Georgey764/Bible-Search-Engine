@@ -1,7 +1,3 @@
 
  ahiez	{"1 Chronicles_ch_12.docx": [355]}
 ruph	{"Esther_ch_9.docx": [643]}
- ahiez	{"1 Chronicles_ch_12.docx": [355]}
-ruph	{"Esther_ch_9.docx": [643]}
- ahiez	{"1 Chronicles_ch_12.docx": [355]}
-ruph	{"Esther_ch_9.docx": [643]}

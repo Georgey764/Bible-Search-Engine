@@ -1,7 +1,3 @@
 
-picho	{"Genesis_ch_21.docx": [2630, 3630, 3630, 3630]}
-nech	{"2 Kings_ch_23.docx": [6529, 6689, 7207, 7753, 6689, 7207, 7753, 6689, 7207, 7753], "2 Chronicles_ch_35.docx": [4765, 4942, 5251, 4765, 4942, 5251, 4765, 4942, 5251], "Jeremiah_ch_46.docx": [114, 2687, 114, 2687, 114, 2687]}
-picho	{"Genesis_ch_21.docx": [2630, 3630, 3630]}
-nech	{"2 Kings_ch_23.docx": [6529, 6689, 7207, 7753, 6689, 7207, 7753], "2 Chronicles_ch_35.docx": [4765, 4942, 5251, 4765, 4942, 5251], "Jeremiah_ch_46.docx": [114, 2687, 114, 2687]}
 picho	{"Genesis_ch_21.docx": [2630, 3630]}
-nech	{"2 Kings_ch_23.docx": [6529, 6689, 7207, 7753], "2 Chronicles_ch_35.docx": [4765, 4942, 5251], "Jeremiah_ch_46.docx": [114, 2687]}
+nech	{"2 Kings_ch_23.docx": [6529, 6689, 7207, 7753], "2 Chronicles_ch_35.docx": [4765, 4942, 5251], "2 Chronicles_ch_36.docx": [344, 571, 711, 819, 869], "Jeremiah_ch_46.docx": [114, 2687]}

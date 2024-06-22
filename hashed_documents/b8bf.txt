@@ -1,4 +1,2 @@
 
-laada	{"1 Chronicles_ch_4.docx": [2491], "1 Chronicles_ch_23.docx": [999, 999, 999]}
-laada	{"1 Chronicles_ch_4.docx": [2491], "1 Chronicles_ch_23.docx": [999, 999]}
 laada	{"1 Chronicles_ch_4.docx": [2491], "1 Chronicles_ch_23.docx": [999]}

@@ -1,4 +1,2 @@
 
-yeast	{"Joshua_ch_5.docx": [2343], "Matthew_ch_13.docx": [4459, 4565, 4459, 4565, 4459, 4565], "Luke_ch_13.docx": [2851, 2851], "1 Corinthians_ch_5.docx": [759, 759], "Galatians_ch_5.docx": [952, 952]}
-yeast	{"Joshua_ch_5.docx": [2343], "Matthew_ch_13.docx": [4459, 4565, 4459, 4565], "Luke_ch_13.docx": [2851], "1 Corinthians_ch_5.docx": [759], "Galatians_ch_5.docx": [952]}
 yeast	{"Joshua_ch_5.docx": [2343], "Matthew_ch_13.docx": [4459, 4565], "Luke_ch_13.docx": [2851], "1 Corinthians_ch_5.docx": [759], "Galatians_ch_5.docx": [952]}

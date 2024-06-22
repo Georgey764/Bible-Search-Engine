@@ -1,3 +1,0 @@
-
-87,0	{"1 Chronicles_ch_7.docx": [553]}
-107	{"Psalms_ch_107.docx": [3], "Psalms_ch_119.docx": [8888]}

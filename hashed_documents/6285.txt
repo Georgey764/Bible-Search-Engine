@@ -1,4 +1,2 @@
 
-chael	{"Numbers_ch_1.docx": [886], "Numbers_ch_7.docx": [2904, 3543, 2904, 3543, 2904, 3543], "Numbers_ch_10.docx": [1796, 1796, 1796]}
-chael	{"Numbers_ch_1.docx": [886], "Numbers_ch_7.docx": [2904, 3543, 2904, 3543], "Numbers_ch_10.docx": [1796, 1796]}
 chael	{"Numbers_ch_1.docx": [886], "Numbers_ch_7.docx": [2904, 3543], "Numbers_ch_10.docx": [1796]}

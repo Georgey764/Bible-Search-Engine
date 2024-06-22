@@ -1,10 +1,4 @@
 
 egypt]	{"Genesis_ch_41.docx": [7049]}
 jeglam	{"1 Chronicles_ch_1.docx": [2826]}
-workma	{"Ezra_ch_5.docx": [1234], "Ephesians_ch_2.docx": [1129, 1129], "2 Timothy_ch_2.docx": [1870, 1870]}
-egypt]	{"Genesis_ch_41.docx": [7049]}
-jeglam	{"1 Chronicles_ch_1.docx": [2826]}
-workma	{"Ezra_ch_5.docx": [1234], "Ephesians_ch_2.docx": [1129], "2 Timothy_ch_2.docx": [1870]}
-egypt]	{"Genesis_ch_41.docx": [7049]}
-jeglam	{"1 Chronicles_ch_1.docx": [2826]}
 workma	{"Ezra_ch_5.docx": [1234], "Ephesians_ch_2.docx": [1129], "2 Timothy_ch_2.docx": [1870]}

@@ -1,5 +1,2 @@
 
 like!	{"Galatians_ch_1.docx": [2684]}
-5from	{"Numbers_ch_13.docx": [427], "Ezra_ch_8.docx": [548], "Nehemiah_ch_3.docx": [2120]}
-3...	{"2 Samuel_ch_15.docx": [441]}
-like!	{"Galatians_ch_1.docx": [2684]}

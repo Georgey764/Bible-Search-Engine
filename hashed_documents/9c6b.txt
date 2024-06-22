@@ -1,3 +1,0 @@
-
-47h	{"Numbers_ch_1.docx": [4233]}
-70th	{"1 Chronicles_ch_6.docx": [5871], "Nehemiah_ch_7.docx": [4415], "Psalms_ch_78.docx": [6751], "Zechariah_ch_1.docx": [2222]}

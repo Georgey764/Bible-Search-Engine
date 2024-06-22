@@ -1,4 +1,2 @@
 
-baan	{"2 Samuel_ch_4.docx": [173, 762, 1518, 762, 1518, 762, 1518], "1 Kings_ch_4.docx": [1214, 1741, 1214, 1741], "1 Chronicles_ch_2.docx": [2379, 2379, 2379], "1 Chronicles_ch_9.docx": [5835, 5835, 5835], "Ezra_ch_2.docx": [501, 501, 501], "Nehemiah_ch_3.docx": [1993, 1993, 1993], "Nehemiah_ch_7.docx": [1096, 1096, 1096], "Nehemiah_ch_10.docx": [1283, 1283, 1283]}
-baan	{"2 Samuel_ch_4.docx": [173, 762, 1518, 762, 1518], "1 Chronicles_ch_2.docx": [2379, 2379], "1 Chronicles_ch_9.docx": [5835, 5835], "Ezra_ch_2.docx": [501, 501], "Nehemiah_ch_3.docx": [1993, 1993], "Nehemiah_ch_7.docx": [1096, 1096], "Nehemiah_ch_10.docx": [1283, 1283], "1 Kings_ch_4.docx": [1214, 1741]}
 baan	{"2 Samuel_ch_4.docx": [173, 762, 1518], "1 Kings_ch_4.docx": [1214, 1741], "1 Chronicles_ch_2.docx": [2379], "1 Chronicles_ch_9.docx": [5835], "Ezra_ch_2.docx": [501], "Nehemiah_ch_3.docx": [1993], "Nehemiah_ch_7.docx": [1096], "Nehemiah_ch_10.docx": [1283]}

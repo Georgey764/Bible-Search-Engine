@@ -1,4 +1,2 @@
 
-batta	{"Matthew_ch_26.docx": [6361], "Matthew_ch_27.docx": [3270, 3270]}
-35aft	{"Genesis_ch_36.docx": [3610], "Numbers_ch_33.docx": [2559]}
 batta	{"Matthew_ch_26.docx": [6361], "Matthew_ch_27.docx": [3270]}

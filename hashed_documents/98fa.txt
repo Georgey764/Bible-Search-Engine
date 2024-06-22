@@ -1,3 +1,2 @@
 
-spon	{"Matthew_ch_27.docx": [5490], "Mark_ch_15.docx": [3882, 3882], "John_ch_19.docx": [3984, 3984]}
 spon	{"Matthew_ch_27.docx": [5490], "Mark_ch_15.docx": [3882], "John_ch_19.docx": [3984]}

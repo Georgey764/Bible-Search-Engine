@@ -1,3 +1,2 @@
 
-impli	{"Hebrews_ch_12.docx": [5035]}
-impli	{"Hebrews_ch_12.docx": [5035]}
+impli	{"Ezekiel_ch_48.docx": [7213], "Daniel_ch_12.docx": [3572], "Hebrews_ch_12.docx": [5035]}

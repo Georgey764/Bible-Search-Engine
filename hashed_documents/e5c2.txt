@@ -1,4 +1,2 @@
 
-visiti	{"Exodus_ch_4.docx": [4302], "Exodus_ch_20.docx": [861, 861, 861], "Numbers_ch_35.docx": [1850, 1850, 1850], "Deuteronomy_ch_5.docx": [1408, 1408, 1408], "Deuteronomy_ch_14.docx": [1689, 1689, 1689], "Psalms_ch_105.docx": [975, 975, 975], "1 Timothy_ch_5.docx": [1434, 1434]}
-visiti	{"Exodus_ch_4.docx": [4302], "Exodus_ch_20.docx": [861, 861], "Numbers_ch_35.docx": [1850, 1850], "Deuteronomy_ch_5.docx": [1408, 1408], "Deuteronomy_ch_14.docx": [1689, 1689], "Psalms_ch_105.docx": [975, 975], "1 Timothy_ch_5.docx": [1434]}
 visiti	{"Exodus_ch_4.docx": [4302], "Exodus_ch_20.docx": [861], "Numbers_ch_35.docx": [1850], "Deuteronomy_ch_5.docx": [1408], "Deuteronomy_ch_14.docx": [1689], "Psalms_ch_105.docx": [975], "1 Timothy_ch_5.docx": [1434]}

@@ -1,4 +1,2 @@
 
 flanks	{"Psalms_ch_38.docx": [530]}
-flanks	{"Psalms_ch_38.docx": [530]}
-flanks	{"Psalms_ch_38.docx": [530]}

@@ -1,4 +1,2 @@
 
-smear	{"Leviticus_ch_7.docx": [1464], "John_ch_9.docx": [1160, 1160]}
-smear	{"Leviticus_ch_7.docx": [1464], "John_ch_9.docx": [1160]}
 smear	{"Leviticus_ch_7.docx": [1464], "John_ch_9.docx": [1160]}

@@ -1,4 +1,2 @@
 
-balanc	{"Job_ch_6.docx": [46, 128, 128, 128], "Job_ch_31.docx": [504, 504, 504], "Proverbs_ch_20.docx": [2895, 2895, 2895], "Jeremiah_ch_32.docx": [1636, 1636, 1636], "2 Corinthians_ch_8.docx": [1938, 2192, 1938, 2192], "Revelation_ch_6.docx": [718, 718]}
-balanc	{"Job_ch_6.docx": [46, 128, 128], "Job_ch_31.docx": [504, 504], "Proverbs_ch_20.docx": [2895, 2895], "Jeremiah_ch_32.docx": [1636, 1636], "2 Corinthians_ch_8.docx": [1938, 2192], "Revelation_ch_6.docx": [718]}
 balanc	{"Job_ch_6.docx": [46, 128], "Job_ch_31.docx": [504], "Proverbs_ch_20.docx": [2895], "Jeremiah_ch_32.docx": [1636], "2 Corinthians_ch_8.docx": [1938, 2192], "Revelation_ch_6.docx": [718]}

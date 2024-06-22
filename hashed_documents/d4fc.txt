@@ -1,4 +1,2 @@
 
-mans	{"Deuteronomy_ch_19.docx": [484], "Amos_ch_6.docx": [2491, 2491, 2491], "Matthew_ch_11.docx": [959, 959, 959], "Luke_ch_7.docx": [3682, 3682], "Luke_ch_11.docx": [2850, 2850]}
-mans	{"Deuteronomy_ch_19.docx": [484], "Amos_ch_6.docx": [2491, 2491], "Matthew_ch_11.docx": [959, 959], "Luke_ch_7.docx": [3682], "Luke_ch_11.docx": [2850]}
-mans	{"Deuteronomy_ch_19.docx": [484], "Amos_ch_6.docx": [2491], "Matthew_ch_11.docx": [959], "Luke_ch_7.docx": [3682], "Luke_ch_11.docx": [2850]}
+mans	{"Deuteronomy_ch_19.docx": [484], "Jeremiah_ch_52.docx": [1895], "Amos_ch_6.docx": [2491], "Matthew_ch_11.docx": [959], "Luke_ch_7.docx": [3682], "Luke_ch_11.docx": [2850]}

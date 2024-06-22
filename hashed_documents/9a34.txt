@@ -1,4 +1,2 @@
 
-arah	{"Ezra_ch_2.docx": [604], "Nehemiah_ch_6.docx": [2681, 2681, 2681], "Nehemiah_ch_7.docx": [1327, 1327, 1327]}
-arah	{"Ezra_ch_2.docx": [604], "Nehemiah_ch_6.docx": [2681, 2681], "Nehemiah_ch_7.docx": [1327, 1327]}
 arah	{"Ezra_ch_2.docx": [604], "Nehemiah_ch_6.docx": [2681], "Nehemiah_ch_7.docx": [1327]}

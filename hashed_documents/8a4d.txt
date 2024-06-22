@@ -1,6 +1,2 @@
 
 finds;	{"Leviticus_ch_13.docx": [1814]}
-36now	{"Exodus_ch_16.docx": [5475]}
-finds;	{"Leviticus_ch_13.docx": [1814]}
-42‘may	{"Jeremiah_ch_51.docx": [6970]}
-finds;	{"Leviticus_ch_13.docx": [1814]}

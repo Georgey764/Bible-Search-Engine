@@ -1,5 +1,2 @@
 
 agagi	{"Esther_ch_3.docx": [15]}
-agagi	{"Esther_ch_3.docx": [15]}
-20alt	{"Psalms_ch_69.docx": [2198], "Jeremiah_ch_16.docx": [3670]}
-agagi	{"Esther_ch_3.docx": [15]}

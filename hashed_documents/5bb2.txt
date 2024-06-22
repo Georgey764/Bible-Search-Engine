@@ -1,4 +1,2 @@
 
 stash	{"Malachi_ch_3.docx": [1969]}
-stash	{"Malachi_ch_3.docx": [1969]}
-stash	{"Malachi_ch_3.docx": [1969]}

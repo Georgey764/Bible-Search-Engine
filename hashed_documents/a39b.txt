@@ -1,4 +1,2 @@
 
-chala	{"Genesis_ch_10.docx": [1100, 1373, 1379, 1373, 1379, 1373, 1379], "1 Chronicles_ch_5.docx": [3477, 3477, 3477]}
-chala	{"Genesis_ch_10.docx": [1100, 1373, 1379, 1373, 1379], "1 Chronicles_ch_5.docx": [3477, 3477]}
 chala	{"Genesis_ch_10.docx": [1100, 1373, 1379], "1 Chronicles_ch_5.docx": [3477]}

@@ -1,5 +1,2 @@
 
 feel!	{"2 Samuel_ch_19.docx": [959]}
-24‘f	{"Exodus_ch_34.docx": [3506], "1 Kings_ch_2.docx": [3764], "Job_ch_20.docx": [2428], "Job_ch_29.docx": [2085], "Isaiah_ch_10.docx": [3613], "Ezekiel_ch_23.docx": [3837], "Ezekiel_ch_36.docx": [4482], "Matthew_ch_25.docx": [2658]}
-feel!	{"2 Samuel_ch_19.docx": [959]}
-feel!	{"2 Samuel_ch_19.docx": [959]}

@@ -1,7 +1,3 @@
 
-clips	{"Exodus_ch_38.docx": [1085, 1254, 1395, 1867, 1254, 1395, 1867, 1254, 1395, 1867]}
-aiochi	{"Joshua_ch_15.docx": [6473]}
-clips	{"Exodus_ch_38.docx": [1085, 1254, 1395, 1867, 1254, 1395, 1867]}
-aiochi	{"Joshua_ch_15.docx": [6473]}
 clips	{"Exodus_ch_38.docx": [1085, 1254, 1395, 1867]}
 aiochi	{"Joshua_ch_15.docx": [6473]}

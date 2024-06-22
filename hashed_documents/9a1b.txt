@@ -1,4 +1,2 @@
 
-enjoye	{"Genesis_ch_25.docx": [3014], "Leviticus_ch_26.docx": [5778, 5778, 5778], "Deuteronomy_ch_20.docx": [850, 850, 850], "Proverbs_ch_25.docx": [2451, 2451, 2451], "Luke_ch_16.docx": [2872, 2872]}
-enjoye	{"Genesis_ch_25.docx": [3014], "Leviticus_ch_26.docx": [5778, 5778], "Deuteronomy_ch_20.docx": [850, 850], "Proverbs_ch_25.docx": [2451, 2451], "Luke_ch_16.docx": [2872]}
-enjoye	{"Genesis_ch_25.docx": [3014], "Leviticus_ch_26.docx": [5778], "Deuteronomy_ch_20.docx": [850], "Proverbs_ch_25.docx": [2451], "Luke_ch_16.docx": [2872]}
+enjoye	{"Genesis_ch_25.docx": [3014], "Leviticus_ch_26.docx": [5778], "Deuteronomy_ch_20.docx": [850], "2 Chronicles_ch_36.docx": [4766], "Proverbs_ch_25.docx": [2451], "Luke_ch_16.docx": [2872]}

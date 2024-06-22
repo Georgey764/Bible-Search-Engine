@@ -1,5 +1,2 @@
 
-compou	{"Exodus_ch_30.docx": [708], "2 Kings_ch_23.docx": [2739, 2739, 2739], "Jeremiah_ch_9.docx": [1027, 1027, 1027]}
-compou	{"Exodus_ch_30.docx": [708], "2 Kings_ch_23.docx": [2739, 2739], "Jeremiah_ch_9.docx": [1027, 1027]}
-43that	{"Lamentations_ch_3.docx": [3526]}
 compou	{"Exodus_ch_30.docx": [708], "2 Kings_ch_23.docx": [2739], "Jeremiah_ch_9.docx": [1027]}

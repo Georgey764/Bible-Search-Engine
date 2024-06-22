@@ -1,4 +1,2 @@
 
-cis	{"Numbers_ch_20.docx": [2609], "2 Samuel_ch_17.docx": [2896, 2911, 3279, 2896, 2911, 3279, 2896, 2911, 3279], "2 Kings_ch_3.docx": [2484, 2486, 2484, 2486, 2484, 2486], "Jeremiah_ch_2.docx": [2134, 2134, 2134]}
-cis	{"Numbers_ch_20.docx": [2609], "2 Samuel_ch_17.docx": [2896, 2911, 3279, 2896, 2911, 3279], "2 Kings_ch_3.docx": [2484, 2486, 2484, 2486], "Jeremiah_ch_2.docx": [2134, 2134]}
 cis	{"Numbers_ch_20.docx": [2609], "2 Samuel_ch_17.docx": [2896, 2911, 3279], "2 Kings_ch_3.docx": [2484, 2486], "Jeremiah_ch_2.docx": [2134]}

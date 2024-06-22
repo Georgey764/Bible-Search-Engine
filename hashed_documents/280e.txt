@@ -1,7 +1,2 @@
 
-loda	{"2 Samuel_ch_9.docx": [614], "2 Samuel_ch_17.docx": [4329, 4329, 4329]}
-52,7	{"Numbers_ch_26.docx": [3931]}
-19‘pu	{"Judges_ch_18.docx": [4315]}
-loda	{"2 Samuel_ch_9.docx": [614], "2 Samuel_ch_17.docx": [4329, 4329]}
-7mes	{"Nehemiah_ch_10.docx": [317]}
 loda	{"2 Samuel_ch_9.docx": [614], "2 Samuel_ch_17.docx": [4329]}

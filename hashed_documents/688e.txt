@@ -1,4 +1,2 @@
 
-tolls	{"Ezra_ch_4.docx": [2139, 3264, 3264, 3264], "Romans_ch_13.docx": [1032, 1032]}
-tolls	{"Ezra_ch_4.docx": [2139, 3264, 3264], "Romans_ch_13.docx": [1032]}
 tolls	{"Ezra_ch_4.docx": [2139, 3264], "Romans_ch_13.docx": [1032]}

@@ -1,4 +1,2 @@
 
-belts	{"Exodus_ch_28.docx": [5161], "Deuteronomy_ch_23.docx": [1299, 1299, 1299], "Psalms_ch_109.docx": [1675, 1675, 1675], "Isaiah_ch_3.docx": [3349, 3349, 3349], "Isaiah_ch_5.docx": [4371, 4371, 4371], "Ezekiel_ch_23.docx": [2243, 2243, 2243]}
-belts	{"Exodus_ch_28.docx": [5161], "Deuteronomy_ch_23.docx": [1299, 1299], "Psalms_ch_109.docx": [1675, 1675], "Isaiah_ch_3.docx": [3349, 3349], "Isaiah_ch_5.docx": [4371, 4371], "Ezekiel_ch_23.docx": [2243, 2243]}
 belts	{"Exodus_ch_28.docx": [5161], "Deuteronomy_ch_23.docx": [1299], "Psalms_ch_109.docx": [1675], "Isaiah_ch_3.docx": [3349], "Isaiah_ch_5.docx": [4371], "Ezekiel_ch_23.docx": [2243]}

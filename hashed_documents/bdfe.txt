@@ -1,4 +1,2 @@
 
-sobe	{"Exodus_ch_1.docx": [565], "1 Samuel_ch_25.docx": [5965, 5965, 5965], "Isaiah_ch_28.docx": [1132, 1132, 1132], "Lamentations_ch_2.docx": [4122, 4122, 4122], "Joel_ch_1.docx": [624, 624, 624], "1 Peter_ch_1.docx": [4318, 4318], "1 Peter_ch_4.docx": [983, 983]}
-sobe	{"Exodus_ch_1.docx": [565], "1 Samuel_ch_25.docx": [5965, 5965], "Isaiah_ch_28.docx": [1132, 1132], "Lamentations_ch_2.docx": [4122, 4122], "Joel_ch_1.docx": [624, 624], "1 Peter_ch_1.docx": [4318], "1 Peter_ch_4.docx": [983]}
-sobe	{"Exodus_ch_1.docx": [565], "1 Samuel_ch_25.docx": [5965], "Isaiah_ch_28.docx": [1132], "Lamentations_ch_2.docx": [4122], "Joel_ch_1.docx": [624], "1 Peter_ch_1.docx": [4318], "1 Peter_ch_4.docx": [983]}
+sobe	{"Exodus_ch_1.docx": [565], "1 Samuel_ch_25.docx": [5965], "Isaiah_ch_28.docx": [1132], "Lamentations_ch_2.docx": [4122], "Joel_ch_1.docx": [624], "1 Thessalonians_ch_5.docx": [693, 895], "1 Peter_ch_1.docx": [4318], "1 Peter_ch_4.docx": [983]}

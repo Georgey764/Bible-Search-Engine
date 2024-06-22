@@ -1,4 +1,2 @@
 
-bulr	{"Job_ch_8.docx": [923], "Job_ch_40.docx": [3497, 3497, 3497]}
-bulr	{"Job_ch_8.docx": [923], "Job_ch_40.docx": [3497, 3497]}
 bulr	{"Job_ch_8.docx": [923], "Job_ch_40.docx": [3497]}

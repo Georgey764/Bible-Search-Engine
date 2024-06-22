@@ -1,4 +1,2 @@
 
-jeshi	{"1 Samuel_ch_23.docx": [2910, 3601, 3601, 3601]}
-jeshi	{"1 Samuel_ch_23.docx": [2910, 3601, 3601]}
 jeshi	{"1 Samuel_ch_23.docx": [2910, 3601]}

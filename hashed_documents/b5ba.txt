@@ -1,4 +1,0 @@
-
-8‘cal	{"Numbers_ch_20.docx": [980]}
-14‘loo	{"Numbers_ch_32.docx": [1815], "Jeremiah_ch_33.docx": [2673]}
-6je	{"Deuteronomy_ch_15.docx": [552], "2 Chronicles_ch_17.docx": [617], "Psalms_ch_118.docx": [461], "Psalms_ch_147.docx": [461], "Proverbs_ch_10.docx": [564], "Matthew_ch_1.docx": [453]}

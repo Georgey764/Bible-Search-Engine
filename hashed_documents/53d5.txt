@@ -1,4 +1,2 @@
 
-lodgi	{"Job_ch_19.docx": [296], "Proverbs_ch_15.docx": [3310, 3310, 3310]}
-lodgi	{"Job_ch_19.docx": [296], "Proverbs_ch_15.docx": [3310, 3310]}
-lodgi	{"Job_ch_19.docx": [296], "Proverbs_ch_15.docx": [3310]}
+lodgi	{"Nehemiah_ch_13.docx": [3531, 3766], "Job_ch_19.docx": [296], "Proverbs_ch_15.docx": [3310]}

@@ -1,7 +1,3 @@
 
-rumor	{"Nehemiah_ch_6.docx": [789], "Acts_ch_21.docx": [6259, 6267, 6276, 7020, 6259, 6267, 6276, 7020]}
-crooks	{"Job_ch_12.docx": [313], "Psalms_ch_78.docx": [754, 754, 754]}
-rumor	{"Nehemiah_ch_6.docx": [789], "Acts_ch_21.docx": [6259, 6267, 6276, 7020]}
-crooks	{"Job_ch_12.docx": [313], "Psalms_ch_78.docx": [754, 754]}
-rumor	{"Nehemiah_ch_6.docx": [789], "Acts_ch_21.docx": [6259, 6267, 6276, 7020]}
+rumor	{"Nehemiah_ch_6.docx": [789], "Acts_ch_21.docx": [6259, 6267, 6276, 7020], "3 John_ch_1.docx": [900]}
 crooks	{"Job_ch_12.docx": [313], "Psalms_ch_78.docx": [754]}

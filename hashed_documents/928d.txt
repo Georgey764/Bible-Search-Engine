@@ -1,2 +1,0 @@
-
-1‘n	{"Exodus_ch_21.docx": [126], "Exodus_ch_28.docx": [6], "Deuteronomy_ch_12.docx": [6], "Deuteronomy_ch_18.docx": [6], "Deuteronomy_ch_23.docx": [6], "Deuteronomy_ch_28.docx": [6], "Job_ch_30.docx": [6], "Isaiah_ch_44.docx": [6], "Isaiah_ch_47.docx": [6], "Jeremiah_ch_5.docx": [6], "Lamentations_ch_3.docx": [6], "Ezekiel_ch_19.docx": [6], "Daniel_ch_4.docx": [6], "Nahum_ch_2.docx": [6]}

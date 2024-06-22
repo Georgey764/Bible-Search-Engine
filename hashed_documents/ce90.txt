@@ -1,5 +1,2 @@
 
-ritual	{"Numbers_ch_8.docx": [517], "Hebrews_ch_9.docx": [1151, 1151]}
-18‘s	{"Exodus_ch_27.docx": [2105], "Leviticus_ch_5.docx": [2895], "Leviticus_ch_22.docx": [2396], "Numbers_ch_15.docx": [2037], "Deuteronomy_ch_29.docx": [2191], "Joshua_ch_22.docx": [2962], "1 Chronicles_ch_17.docx": [2721], "Proverbs_ch_7.docx": [1557], "Isaiah_ch_36.docx": [3059], "Jeremiah_ch_9.docx": [3222], "Jeremiah_ch_14.docx": [3183], "Jeremiah_ch_39.docx": [2944], "Jeremiah_ch_48.docx": [2328], "Jeremiah_ch_51.docx": [3090], "Ezekiel_ch_8.docx": [3156], "Ezekiel_ch_31.docx": [3560], "Daniel_ch_4.docx": [2990], "Daniel_ch_11.docx": [3483], "Habakkuk_ch_2.docx": [3058], "Matthew_ch_13.docx": [2287]}
-ritual	{"Numbers_ch_8.docx": [517], "Hebrews_ch_9.docx": [1151]}
 ritual	{"Numbers_ch_8.docx": [517], "Hebrews_ch_9.docx": [1151]}

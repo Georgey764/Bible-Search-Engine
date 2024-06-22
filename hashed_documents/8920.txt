@@ -1,4 +1,2 @@
 
 kand	{"Acts_ch_8.docx": [5936]}
-14‘s	{"Genesis_ch_6.docx": [1743], "Leviticus_ch_25.docx": [1943], "Numbers_ch_24.docx": [1811], "Numbers_ch_30.docx": [1979], "Deuteronomy_ch_2.docx": [1942], "Judges_ch_13.docx": [2294], "1 Samuel_ch_3.docx": [2087], "1 Samuel_ch_24.docx": [2247], "Job_ch_9.docx": [1188], "Job_ch_12.docx": [1167], "Job_ch_20.docx": [1206], "Job_ch_23.docx": [1193], "Job_ch_27.docx": [1120], "Job_ch_34.docx": [1195], "Job_ch_37.docx": [1278], "Isaiah_ch_24.docx": [2100], "Jeremiah_ch_3.docx": [2472], "Jeremiah_ch_8.docx": [2676], "Jeremiah_ch_11.docx": [2597], "Jeremiah_ch_48.docx": [1906], "Jeremiah_ch_50.docx": [2601], "Ezekiel_ch_17.docx": [2316], "Ezekiel_ch_31.docx": [2360], "Daniel_ch_9.docx": [2252], "Hosea_ch_5.docx": [2249], "Amos_ch_1.docx": [7086], "Amos_ch_6.docx": [2860], "Habakkuk_ch_2.docx": [2270], "Zechariah_ch_7.docx": [2198], "Malachi_ch_2.docx": [2564], "Matthew_ch_18.docx": [1830]}
-kand	{"Acts_ch_8.docx": [5936]}

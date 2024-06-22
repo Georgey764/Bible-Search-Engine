@@ -1,3 +1,2 @@
 
-iden	{"1 Corinthians_ch_11.docx": [1990]}
-iden	{"1 Corinthians_ch_11.docx": [1990]}
+iden	{"Deuteronomy_ch_34.docx": [2275], "Esther_ch_10.docx": [859], "Malachi_ch_4.docx": [2198], "1 Corinthians_ch_11.docx": [1990]}

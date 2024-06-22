@@ -1,3 +1,2 @@
 
-greek-	{"Acts_ch_6.docx": [15], "Acts_ch_9.docx": [4558, 4558], "Acts_ch_11.docx": [4370, 4370]}
-greek-	{"Acts_ch_6.docx": [15], "Acts_ch_9.docx": [4558], "Acts_ch_11.docx": [4370]}
+greek-	{"2 Chronicles_ch_36.docx": [6257], "Nehemiah_ch_13.docx": [7080], "Matthew_ch_28.docx": [2637], "Mark_ch_16.docx": [2581], "Acts_ch_6.docx": [15], "Acts_ch_9.docx": [4558], "Acts_ch_11.docx": [4370]}

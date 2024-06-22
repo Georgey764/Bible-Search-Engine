@@ -1,4 +1,2 @@
 
-ones;	{"Deuteronomy_ch_10.docx": [67, 353, 353, 353], "Psalms_ch_31.docx": [2715, 2715, 2715], "Romans_ch_12.docx": [2147, 2164, 2147, 2164], "2 Corinthians_ch_7.docx": [13, 13], "Philippians_ch_3.docx": [850, 850]}
-ones;	{"Deuteronomy_ch_10.docx": [67, 353, 353], "Psalms_ch_31.docx": [2715, 2715], "Romans_ch_12.docx": [2147, 2164], "2 Corinthians_ch_7.docx": [13], "Philippians_ch_3.docx": [850]}
 ones;	{"Deuteronomy_ch_10.docx": [67, 353], "Psalms_ch_31.docx": [2715], "Romans_ch_12.docx": [2147, 2164], "2 Corinthians_ch_7.docx": [13], "Philippians_ch_3.docx": [850]}

@@ -1,4 +1,2 @@
 
-bathi	{"Exodus_ch_38.docx": [847], "2 Samuel_ch_8.docx": [1255, 1255, 1255], "2 Samuel_ch_11.docx": [321, 321, 321], "2 Chronicles_ch_4.docx": [300, 300, 300]}
-bathi	{"Exodus_ch_38.docx": [847], "2 Samuel_ch_8.docx": [1255, 1255], "2 Samuel_ch_11.docx": [321, 321], "2 Chronicles_ch_4.docx": [300, 300]}
-bathi	{"Exodus_ch_38.docx": [847], "2 Samuel_ch_8.docx": [1255], "2 Samuel_ch_11.docx": [321], "2 Chronicles_ch_4.docx": [300]}
+bathi	{"Exodus_ch_38.docx": [847], "Exodus_ch_40.docx": [563, 1044, 3026], "2 Samuel_ch_8.docx": [1255], "2 Samuel_ch_11.docx": [321], "2 Chronicles_ch_4.docx": [300]}

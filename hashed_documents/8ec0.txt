@@ -1,6 +1,2 @@
 
 long-s	{"2 Samuel_ch_13.docx": [2652]}
-long-s	{"2 Samuel_ch_13.docx": [2652]}
-27her	{"Proverbs_ch_7.docx": [2395]}
-32wo	{"Ezekiel_ch_20.docx": [5748]}
-long-s	{"2 Samuel_ch_13.docx": [2652]}

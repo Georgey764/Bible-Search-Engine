@@ -1,3 +1,0 @@
-
-20‘lo	{"Genesis_ch_19.docx": [3281], "Genesis_ch_32.docx": [2746], "Deuteronomy_ch_30.docx": [3094]}
-8‘no	{"Genesis_ch_27.docx": [927], "Exodus_ch_3.docx": [1071], "Exodus_ch_23.docx": [789], "Exodus_ch_32.docx": [1174], "Leviticus_ch_18.docx": [813], "Numbers_ch_5.docx": [905], "Deuteronomy_ch_17.docx": [1132], "1 Samuel_ch_20.docx": [1480], "Ezra_ch_9.docx": [1666], "Job_ch_33.docx": [613], "Ecclesiastes_ch_8.docx": [657], "Ezekiel_ch_2.docx": [1173], "Hosea_ch_7.docx": [1331]}

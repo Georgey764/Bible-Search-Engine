@@ -1,4 +1,2 @@
 
-unnot	{"Leviticus_ch_4.docx": [1651], "Nehemiah_ch_9.docx": [7074, 7074, 7074], "Job_ch_35.docx": [1081, 1081, 1081], "Luke_ch_8.docx": [6974, 6974]}
-unnot	{"Leviticus_ch_4.docx": [1651], "Nehemiah_ch_9.docx": [7074, 7074], "Job_ch_35.docx": [1081, 1081], "Luke_ch_8.docx": [6974]}
 unnot	{"Leviticus_ch_4.docx": [1651], "Nehemiah_ch_9.docx": [7074], "Job_ch_35.docx": [1081], "Luke_ch_8.docx": [6974]}

@@ -1,7 +1,3 @@
 
-sallai	{"Nehemiah_ch_11.docx": [1427], "Nehemiah_ch_12.docx": [1786, 1786, 1786]}
-hunted	{"Psalms_ch_59.docx": [375], "Jeremiah_ch_5.docx": [1144, 1144, 1144], "Jeremiah_ch_51.docx": [6850, 6850, 6850], "Lamentations_ch_3.docx": [4286, 4286, 4286], "John_ch_15.docx": [2432, 2432]}
-sallai	{"Nehemiah_ch_11.docx": [1427], "Nehemiah_ch_12.docx": [1786, 1786]}
-hunted	{"Psalms_ch_59.docx": [375], "Jeremiah_ch_5.docx": [1144, 1144], "Jeremiah_ch_51.docx": [6850, 6850], "Lamentations_ch_3.docx": [4286, 4286], "John_ch_15.docx": [2432]}
 sallai	{"Nehemiah_ch_11.docx": [1427], "Nehemiah_ch_12.docx": [1786]}
 hunted	{"Psalms_ch_59.docx": [375], "Jeremiah_ch_5.docx": [1144], "Jeremiah_ch_51.docx": [6850], "Lamentations_ch_3.docx": [4286], "John_ch_15.docx": [2432]}

@@ -1,4 +1,2 @@
 
-huldah	{"2 Kings_ch_22.docx": [2363], "2 Chronicles_ch_34.docx": [3872, 3872, 3872]}
-huldah	{"2 Kings_ch_22.docx": [2363], "2 Chronicles_ch_34.docx": [3872, 3872]}
 huldah	{"2 Kings_ch_22.docx": [2363], "2 Chronicles_ch_34.docx": [3872]}

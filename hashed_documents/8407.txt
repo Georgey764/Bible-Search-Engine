@@ -1,4 +1,2 @@
 
-enforc	{"Psalms_ch_25.docx": [775], "Psalms_ch_49.docx": [513, 513, 513], "Hebrews_ch_2.docx": [171, 171]}
-enforc	{"Psalms_ch_25.docx": [775], "Psalms_ch_49.docx": [513, 513], "Hebrews_ch_2.docx": [171]}
 enforc	{"Psalms_ch_25.docx": [775], "Psalms_ch_49.docx": [513], "Hebrews_ch_2.docx": [171]}

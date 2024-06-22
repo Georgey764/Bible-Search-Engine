@@ -1,4 +1,2 @@
 
-mice	{"Leviticus_ch_11.docx": [3288], "1 Samuel_ch_6.docx": [28, 924, 1934, 3411, 28, 924, 1934, 3411, 28, 924, 1934, 3411]}
-mice	{"Leviticus_ch_11.docx": [3288], "1 Samuel_ch_6.docx": [28, 924, 1934, 3411, 28, 924, 1934, 3411]}
 mice	{"Leviticus_ch_11.docx": [3288], "1 Samuel_ch_6.docx": [28, 924, 1934, 3411]}

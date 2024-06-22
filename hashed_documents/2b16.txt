@@ -1,4 +1,2 @@
 
-super-	{"Job_ch_40.docx": [1769], "2 Corinthians_ch_11.docx": [761, 761], "2 Corinthians_ch_12.docx": [1686, 1686]}
-super-	{"Job_ch_40.docx": [1769], "2 Corinthians_ch_11.docx": [761], "2 Corinthians_ch_12.docx": [1686]}
 super-	{"Job_ch_40.docx": [1769], "2 Corinthians_ch_11.docx": [761], "2 Corinthians_ch_12.docx": [1686]}

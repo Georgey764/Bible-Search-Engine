@@ -1,4 +1,2 @@
 
-bestow	{"2 Kings_ch_2.docx": [1247], "Malachi_ch_1.docx": [1711, 1711, 1711], "1 Peter_ch_3.docx": [1020, 1020]}
-bestow	{"2 Kings_ch_2.docx": [1247], "Malachi_ch_1.docx": [1711, 1711], "1 Peter_ch_3.docx": [1020]}
 bestow	{"2 Kings_ch_2.docx": [1247], "Malachi_ch_1.docx": [1711], "1 Peter_ch_3.docx": [1020]}

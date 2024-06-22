@@ -1,5 +1,2 @@
 
 whisk	{"Job_ch_15.docx": [2133]}
-whisk	{"Job_ch_15.docx": [2133]}
-10ou	{"Psalms_ch_90.docx": [1009]}
-whisk	{"Job_ch_15.docx": [2133]}

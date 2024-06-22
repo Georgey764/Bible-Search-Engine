@@ -1,3 +1,0 @@
-
-2now	{"1 Kings_ch_3.docx": [320], "2 Chronicles_ch_21.docx": [180]}
-19plea	{"Nehemiah_ch_5.docx": [3652], "Psalms_ch_139.docx": [1822]}

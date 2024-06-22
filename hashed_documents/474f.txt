@@ -1,4 +1,2 @@
 
-unlock	{"Judges_ch_9.docx": [7886], "1 Chronicles_ch_9.docx": [3959, 3959, 3959], "Proverbs_ch_1.docx": [231, 231, 231], "Isaiah_ch_22.docx": [3231, 3231, 3231], "Daniel_ch_2.docx": [2596, 2596, 2596]}
-unlock	{"Judges_ch_9.docx": [7886], "1 Chronicles_ch_9.docx": [3959, 3959], "Proverbs_ch_1.docx": [231, 231], "Isaiah_ch_22.docx": [3231, 3231], "Daniel_ch_2.docx": [2596, 2596]}
-unlock	{"Judges_ch_9.docx": [7886], "1 Chronicles_ch_9.docx": [3959], "Proverbs_ch_1.docx": [231], "Isaiah_ch_22.docx": [3231], "Daniel_ch_2.docx": [2596]}
+unlock	{"Judges_ch_9.docx": [7886], "1 Chronicles_ch_9.docx": [3959], "Nehemiah_ch_13.docx": [3369], "Proverbs_ch_1.docx": [231], "Isaiah_ch_22.docx": [3231], "Daniel_ch_2.docx": [2596]}

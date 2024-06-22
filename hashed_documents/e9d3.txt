@@ -1,5 +1,2 @@
 
-stampe	{"Ezekiel_ch_25.docx": [975], "Ezekiel_ch_32.docx": [379, 379, 379]}
-4,10	{"1 Kings_ch_7.docx": [3602]}
-stampe	{"Ezekiel_ch_25.docx": [975], "Ezekiel_ch_32.docx": [379, 379]}
 stampe	{"Ezekiel_ch_25.docx": [975], "Ezekiel_ch_32.docx": [379]}

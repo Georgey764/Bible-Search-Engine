@@ -1,4 +1,2 @@
 
-storin	{"Proverbs_ch_30.docx": [2662], "Matthew_ch_6.docx": [2521, 2521, 2521], "Romans_ch_2.docx": [661, 661]}
-storin	{"Proverbs_ch_30.docx": [2662], "Matthew_ch_6.docx": [2521, 2521], "Romans_ch_2.docx": [661]}
 storin	{"Proverbs_ch_30.docx": [2662], "Matthew_ch_6.docx": [2521], "Romans_ch_2.docx": [661]}

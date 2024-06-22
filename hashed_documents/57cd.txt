@@ -1,10 +1,4 @@
 
 sambra	{"Genesis_ch_46.docx": [1601]}
-pisga	{"Deuteronomy_ch_4.docx": [7228]}
-surpl	{"Luke_ch_21.docx": [425]}
-sambra	{"Genesis_ch_46.docx": [1601]}
-pisga	{"Deuteronomy_ch_4.docx": [7228]}
-15el	{"Matthew_ch_1.docx": [1175]}
-sambra	{"Genesis_ch_46.docx": [1601]}
-pisga	{"Deuteronomy_ch_4.docx": [7228]}
+pisga	{"Deuteronomy_ch_4.docx": [7228], "Deuteronomy_ch_34.docx": [22]}
 surpl	{"Luke_ch_21.docx": [425]}

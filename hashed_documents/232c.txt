@@ -1,3 +1,2 @@
 
-god<su	{"Hebrews_ch_8.docx": [99], "Hebrews_ch_11.docx": [1148, 1148]}
-god<su	{"Hebrews_ch_8.docx": [99], "Hebrews_ch_11.docx": [1148]}
+god<su	{"1 Timothy_ch_6.docx": [1995], "Hebrews_ch_8.docx": [99], "Hebrews_ch_11.docx": [1148], "Hebrews_ch_13.docx": [2128]}

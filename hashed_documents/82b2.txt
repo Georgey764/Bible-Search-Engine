@@ -1,4 +1,2 @@
 
-proced	{"Numbers_ch_17.docx": [1917]}
-proced	{"Numbers_ch_17.docx": [1917]}
-proced	{"Numbers_ch_17.docx": [1917]}
+proced	{"Genesis_ch_50.docx": [4358], "Exodus_ch_40.docx": [4072, 4363, 4586], "Leviticus_ch_27.docx": [5070, 5296], "Numbers_ch_17.docx": [1917], "Numbers_ch_36.docx": [2754, 2981]}

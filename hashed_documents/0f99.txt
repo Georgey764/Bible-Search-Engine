@@ -1,4 +1,2 @@
 
-forga	{"Ezra_ch_9.docx": [2904], "Job_ch_42.docx": [1273], "Psalms_ch_32.docx": [580, 580, 580], "Matthew_ch_18.docx": [3603, 3603, 3603], "Luke_ch_7.docx": [5935, 6165, 5935, 6165], "Colossians_ch_2.docx": [2300, 2300], "Colossians_ch_3.docx": [1572, 1572]}
-forga	{"Ezra_ch_9.docx": [2904], "Psalms_ch_32.docx": [580, 580], "Matthew_ch_18.docx": [3603, 3603], "Luke_ch_7.docx": [5935, 6165], "Colossians_ch_2.docx": [2300], "Colossians_ch_3.docx": [1572]}
-forga	{"Ezra_ch_9.docx": [2904], "Psalms_ch_32.docx": [580], "Matthew_ch_18.docx": [3603], "Luke_ch_7.docx": [5935, 6165], "Colossians_ch_2.docx": [2300], "Colossians_ch_3.docx": [1572]}
+forga	{"2 Samuel_ch_24.docx": [2787], "Ezra_ch_9.docx": [2904], "Job_ch_42.docx": [1273], "Psalms_ch_32.docx": [580], "Matthew_ch_18.docx": [3603], "Luke_ch_7.docx": [5935, 6165], "Colossians_ch_2.docx": [2300], "Colossians_ch_3.docx": [1572]}

@@ -1,4 +1,2 @@
 
-zebedi	{"Matthew_ch_4.docx": [2505, 2516, 2516, 2516], "Matthew_ch_10.docx": [315, 315, 315], "Matthew_ch_20.docx": [2511, 2511, 2511], "Matthew_ch_26.docx": [4364, 4364], "Matthew_ch_27.docx": [6531, 6531], "Mark_ch_1.docx": [2096, 2119, 2096, 2119], "Mark_ch_3.docx": [2017, 2017], "Mark_ch_10.docx": [4292, 4292]}
-zebedi	{"Matthew_ch_4.docx": [2505, 2516, 2516], "Matthew_ch_10.docx": [315, 315], "Matthew_ch_20.docx": [2511, 2511], "Matthew_ch_26.docx": [4364], "Matthew_ch_27.docx": [6531], "Mark_ch_1.docx": [2096, 2119], "Mark_ch_3.docx": [2017], "Mark_ch_10.docx": [4292]}
-zebedi	{"Matthew_ch_4.docx": [2505, 2516], "Matthew_ch_10.docx": [315], "Matthew_ch_20.docx": [2511], "Matthew_ch_26.docx": [4364], "Matthew_ch_27.docx": [6531], "Mark_ch_1.docx": [2096, 2119], "Mark_ch_3.docx": [2017], "Mark_ch_10.docx": [4292]}
+zebedi	{"Matthew_ch_4.docx": [2505, 2516], "Matthew_ch_10.docx": [315], "Matthew_ch_20.docx": [2511], "Matthew_ch_26.docx": [4364], "Matthew_ch_27.docx": [6531], "Mark_ch_1.docx": [2096, 2119], "Mark_ch_3.docx": [2017], "Mark_ch_10.docx": [4292], "John_ch_21.docx": [444]}

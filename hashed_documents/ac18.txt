@@ -1,7 +1,3 @@
 
 minori	{"Deuteronomy_ch_4.docx": [4197]}
 {gide	{"Judges_ch_7.docx": [2707]}
-minori	{"Deuteronomy_ch_4.docx": [4197]}
-{gide	{"Judges_ch_7.docx": [2707]}
-minori	{"Deuteronomy_ch_4.docx": [4197]}
-{gide	{"Judges_ch_7.docx": [2707]}

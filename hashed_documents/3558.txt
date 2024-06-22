@@ -1,5 +1,2 @@
 
 gezri	{"1 Samuel_ch_27.docx": [974]}
-20y	{"Genesis_ch_23.docx": [2331], "Exodus_ch_12.docx": [3110], "Exodus_ch_18.docx": [2625], "Exodus_ch_19.docx": [2982], "Exodus_ch_29.docx": [2144], "Numbers_ch_11.docx": [2931], "Numbers_ch_15.docx": [2122], "Judges_ch_5.docx": [3016], "Job_ch_14.docx": [2207], "Psalms_ch_68.docx": [2260], "Psalms_ch_71.docx": [1904], "Psalms_ch_74.docx": [1978], "Psalms_ch_104.docx": [2044], "Psalms_ch_118.docx": [1666], "Isaiah_ch_5.docx": [3136], "Matthew_ch_10.docx": [2073]}
-gezri	{"1 Samuel_ch_27.docx": [974]}
-gezri	{"1 Samuel_ch_27.docx": [974]}

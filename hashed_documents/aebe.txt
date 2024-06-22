@@ -1,4 +1,2 @@
 
-nicola	{"Acts_ch_6.docx": [621], "Revelation_ch_2.docx": [840, 2598, 840, 2598]}
-9‘r	{"1 Kings_ch_14.docx": [1510]}
 nicola	{"Acts_ch_6.docx": [621], "Revelation_ch_2.docx": [840, 2598]}

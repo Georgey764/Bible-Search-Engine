@@ -1,7 +1,3 @@
 
-imr	{"1 Chronicles_ch_7.docx": [4333], "Nehemiah_ch_3.docx": [1527, 1527, 1527]}
-impur	{"Job_ch_25.docx": [394], "Proverbs_ch_19.docx": [1183, 1183, 1183]}
-imr	{"1 Chronicles_ch_7.docx": [4333], "Nehemiah_ch_3.docx": [1527, 1527]}
-impur	{"Job_ch_25.docx": [394], "Proverbs_ch_19.docx": [1183, 1183]}
 imr	{"1 Chronicles_ch_7.docx": [4333], "Nehemiah_ch_3.docx": [1527]}
 impur	{"Job_ch_25.docx": [394], "Proverbs_ch_19.docx": [1183]}

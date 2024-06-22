@@ -1,3 +1,2 @@
 
 puzzle	{"John_ch_4.docx": [3682]}
-puzzle	{"John_ch_4.docx": [3682]}

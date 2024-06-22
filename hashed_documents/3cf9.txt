@@ -1,4 +1,2 @@
 
-yoked	{"Ezekiel_ch_1.docx": [1481], "Matthew_ch_19.docx": [570, 570, 570]}
-yoked	{"Ezekiel_ch_1.docx": [1481], "Matthew_ch_19.docx": [570, 570]}
 yoked	{"Ezekiel_ch_1.docx": [1481], "Matthew_ch_19.docx": [570]}

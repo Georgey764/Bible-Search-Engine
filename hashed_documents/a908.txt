@@ -1,7 +1,3 @@
 
 judith	{"Genesis_ch_26.docx": [4772]}
 sobael	{"1 Chronicles_ch_24.docx": [2279]}
-judith	{"Genesis_ch_26.docx": [4772]}
-sobael	{"1 Chronicles_ch_24.docx": [2279]}
-judith	{"Genesis_ch_26.docx": [4772]}
-sobael	{"1 Chronicles_ch_24.docx": [2279]}

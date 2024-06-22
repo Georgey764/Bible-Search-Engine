@@ -1,4 +1,2 @@
 
-boile	{"Exodus_ch_12.docx": [1112], "1 Samuel_ch_2.docx": [2410, 3010, 2410, 3010, 2410, 3010], "2 Kings_ch_6.docx": [4404, 4404, 4404], "2 Chronicles_ch_35.docx": [2436, 2436, 2436], "Lamentations_ch_4.docx": [1551, 1551, 1551], "Ezekiel_ch_24.docx": [1712, 1712, 1712], "Ezekiel_ch_46.docx": [4702, 4702, 4702]}
-boile	{"Exodus_ch_12.docx": [1112], "1 Samuel_ch_2.docx": [2410, 3010, 2410, 3010], "2 Kings_ch_6.docx": [4404, 4404], "2 Chronicles_ch_35.docx": [2436, 2436], "Lamentations_ch_4.docx": [1551, 1551], "Ezekiel_ch_24.docx": [1712, 1712], "Ezekiel_ch_46.docx": [4702, 4702]}
 boile	{"Exodus_ch_12.docx": [1112], "1 Samuel_ch_2.docx": [2410, 3010], "2 Kings_ch_6.docx": [4404], "2 Chronicles_ch_35.docx": [2436], "Lamentations_ch_4.docx": [1551], "Ezekiel_ch_24.docx": [1712], "Ezekiel_ch_46.docx": [4702]}

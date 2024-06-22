@@ -1,5 +1,2 @@
 
-slayer	{"Numbers_ch_35.docx": [3237, 3720, 3720, 3720]}
-slayer	{"Numbers_ch_35.docx": [3237, 3720, 3720]}
-15{	{"Isaiah_ch_41.docx": [2436]}
 slayer	{"Numbers_ch_35.docx": [3237, 3720]}

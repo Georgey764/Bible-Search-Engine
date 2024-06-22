@@ -1,3 +1,2 @@
 
-apollo	{"Acts_ch_17.docx": [23, 33, 44, 33, 44], "Acts_ch_18.docx": [7752, 7760, 7769, 7793, 7818, 7752, 7760, 7769, 7793, 7818], "Acts_ch_19.docx": [10, 19, 29, 45, 62, 10, 19, 29, 45, 62], "1 Corinthians_ch_1.docx": [1448, 1448], "1 Corinthians_ch_3.docx": [454, 468, 722, 2527, 454, 468, 722, 2527], "1 Corinthians_ch_4.docx": [815, 815]}
-apollo	{"Acts_ch_17.docx": [23, 33, 44], "Acts_ch_18.docx": [7752, 7760, 7769, 7793, 7818], "Acts_ch_19.docx": [10, 19, 29, 45, 62], "1 Corinthians_ch_1.docx": [1448], "1 Corinthians_ch_3.docx": [454, 468, 722, 2527], "1 Corinthians_ch_4.docx": [815]}
+apollo	{"Acts_ch_17.docx": [23, 33, 44], "Acts_ch_18.docx": [7752, 7760, 7769, 7793, 7818], "Acts_ch_19.docx": [10, 19, 29, 45, 62], "1 Corinthians_ch_1.docx": [1448], "1 Corinthians_ch_3.docx": [454, 468, 722, 2527], "1 Corinthians_ch_4.docx": [815], "1 Corinthians_ch_16.docx": [2062], "Titus_ch_3.docx": [1748]}

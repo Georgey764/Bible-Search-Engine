@@ -1,4 +1,2 @@
 
-refur	{"2 Chronicles_ch_23.docx": [3544], "2 Chronicles_ch_24.docx": [2143, 2143, 2143]}
-refur	{"2 Chronicles_ch_23.docx": [3544], "2 Chronicles_ch_24.docx": [2143, 2143]}
 refur	{"2 Chronicles_ch_23.docx": [3544], "2 Chronicles_ch_24.docx": [2143]}

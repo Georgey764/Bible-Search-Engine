@@ -1,8 +1,3 @@
 
-scen	{"Song of Solomon_ch_1.docx": [198, 421, 1696, 421, 1696, 421, 1696], "Song of Solomon_ch_4.docx": [1511, 1942, 2357, 1511, 1942, 2357, 1511, 1942, 2357], "Song of Solomon_ch_7.docx": [1147, 1147, 1147], "Jeremiah_ch_25.docx": [1793, 1793, 1793], "Ezekiel_ch_16.docx": [3170, 3170, 3170], "John_ch_12.docx": [404, 404], "Hebrews_ch_12.docx": [3853, 3853], "Revelation_ch_18.docx": [1995, 1995]}
-wands	{"Hosea_ch_4.docx": [1801]}
-11‘l	{"Numbers_ch_22.docx": [1545], "1 Samuel_ch_24.docx": [1660], "Isaiah_ch_41.docx": [1798], "Amos_ch_4.docx": [2735], "Amos_ch_8.docx": [1780]}
-scen	{"Song of Solomon_ch_1.docx": [198, 421, 1696, 421, 1696], "Song of Solomon_ch_4.docx": [1511, 1942, 2357, 1511, 1942, 2357], "Song of Solomon_ch_7.docx": [1147, 1147], "Jeremiah_ch_25.docx": [1793, 1793], "Ezekiel_ch_16.docx": [3170, 3170], "John_ch_12.docx": [404], "Hebrews_ch_12.docx": [3853], "Revelation_ch_18.docx": [1995]}
-wands	{"Hosea_ch_4.docx": [1801]}
-scen	{"Song of Solomon_ch_1.docx": [198, 421, 1696], "Song of Solomon_ch_4.docx": [1511, 1942, 2357], "Song of Solomon_ch_7.docx": [1147], "Jeremiah_ch_25.docx": [1793], "Ezekiel_ch_16.docx": [3170], "John_ch_12.docx": [404], "Hebrews_ch_12.docx": [3853], "Revelation_ch_18.docx": [1995]}
+scen	{"Song of Solomon_ch_1.docx": [198, 421, 1696], "Song of Solomon_ch_4.docx": [1511, 1942, 2357], "Song of Solomon_ch_7.docx": [1147], "Song of Solomon_ch_8.docx": [2353], "Jeremiah_ch_25.docx": [1793], "Ezekiel_ch_16.docx": [3170], "Hosea_ch_14.docx": [923], "John_ch_12.docx": [404], "Hebrews_ch_12.docx": [3853], "Revelation_ch_18.docx": [1995]}
 wands	{"Hosea_ch_4.docx": [1801]}

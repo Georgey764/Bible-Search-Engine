@@ -1,4 +1,2 @@
 
-blank	{"Judges_ch_4.docx": [6878], "Ruth_ch_3.docx": [1109, 1109, 1109], "2 Samuel_ch_17.docx": [4507, 4507, 4507], "Ezekiel_ch_16.docx": [483, 483, 483]}
-blank	{"Judges_ch_4.docx": [6878], "Ruth_ch_3.docx": [1109, 1109], "2 Samuel_ch_17.docx": [4507, 4507], "Ezekiel_ch_16.docx": [483, 483]}
 blank	{"Judges_ch_4.docx": [6878], "Ruth_ch_3.docx": [1109], "2 Samuel_ch_17.docx": [4507], "Ezekiel_ch_16.docx": [483]}

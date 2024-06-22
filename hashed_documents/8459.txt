@@ -1,4 +1,2 @@
 
-drops	{"Job_ch_36.docx": [2659], "Job_ch_38.docx": [2779, 2779, 2779], "Isaiah_ch_40.docx": [2262, 2262, 2262], "Luke_ch_22.docx": [4992, 4992], "James_ch_1.docx": [893, 893], "Revelation_ch_6.docx": [2148, 2148]}
-drops	{"Job_ch_36.docx": [2659], "Job_ch_38.docx": [2779, 2779], "Isaiah_ch_40.docx": [2262, 2262], "Luke_ch_22.docx": [4992], "James_ch_1.docx": [893], "Revelation_ch_6.docx": [2148]}
 drops	{"Job_ch_36.docx": [2659], "Job_ch_38.docx": [2779], "Isaiah_ch_40.docx": [2262], "Luke_ch_22.docx": [4992], "James_ch_1.docx": [893], "Revelation_ch_6.docx": [2148]}

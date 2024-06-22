@@ -1,5 +1,2 @@
 
-pard	{"Exodus_ch_10.docx": [2993], "Deuteronomy_ch_29.docx": [2666, 2666, 2666]}
-pard	{"Exodus_ch_10.docx": [2993], "Deuteronomy_ch_29.docx": [2666, 2666]}
-18that	{"2 Chronicles_ch_6.docx": [2626], "Job_ch_6.docx": [1844]}
 pard	{"Exodus_ch_10.docx": [2993], "Deuteronomy_ch_29.docx": [2666]}

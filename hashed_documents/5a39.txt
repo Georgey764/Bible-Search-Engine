@@ -1,7 +1,3 @@
 
-sego	{"Genesis_ch_14.docx": [344, 1057, 1057, 1057], "Genesis_ch_19.docx": [3676, 3758, 4646, 4662, 3676, 3758, 4646, 4662, 3676, 3758, 4646, 4662], "2 Kings_ch_17.docx": [422, 422, 422]}
-thri	{"Psalms_ch_1.docx": [299], "Psalms_ch_72.docx": [1549, 1549, 1549], "Daniel_ch_4.docx": [391, 391, 391]}
-sego	{"Genesis_ch_14.docx": [344, 1057, 1057], "Genesis_ch_19.docx": [3676, 3758, 4646, 4662, 3676, 3758, 4646, 4662], "2 Kings_ch_17.docx": [422, 422]}
-thri	{"Psalms_ch_1.docx": [299], "Psalms_ch_72.docx": [1549, 1549], "Daniel_ch_4.docx": [391, 391]}
-sego	{"Genesis_ch_14.docx": [344, 1057], "Genesis_ch_19.docx": [3676, 3758, 4646, 4662], "2 Kings_ch_17.docx": [422]}
+sego	{"Genesis_ch_14.docx": [344, 1057], "Genesis_ch_19.docx": [3676, 3758, 4646, 4662], "Deuteronomy_ch_34.docx": [74], "2 Kings_ch_17.docx": [422]}
 thri	{"Psalms_ch_1.docx": [299], "Psalms_ch_72.docx": [1549], "Daniel_ch_4.docx": [391]}

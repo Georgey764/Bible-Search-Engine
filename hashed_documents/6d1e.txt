@@ -1,4 +1,2 @@
 
-sche	{"Nehemiah_ch_4.docx": [2392], "Proverbs_ch_14.docx": [1877, 1877, 1877], "Jeremiah_ch_49.docx": [2813, 2813, 2813], "Luke_ch_1.docx": [966, 966], "Acts_ch_3.docx": [15, 15], "2 Corinthians_ch_2.docx": [1256, 1256], "Ephesians_ch_4.docx": [1550, 1577, 1550, 1577]}
-sche	{"Nehemiah_ch_4.docx": [2392], "Proverbs_ch_14.docx": [1877, 1877], "Jeremiah_ch_49.docx": [2813, 2813], "Luke_ch_1.docx": [966], "Acts_ch_3.docx": [15], "2 Corinthians_ch_2.docx": [1256], "Ephesians_ch_4.docx": [1550, 1577]}
 sche	{"Nehemiah_ch_4.docx": [2392], "Proverbs_ch_14.docx": [1877], "Jeremiah_ch_49.docx": [2813], "Luke_ch_1.docx": [966], "Acts_ch_3.docx": [15], "2 Corinthians_ch_2.docx": [1256], "Ephesians_ch_4.docx": [1550, 1577]}

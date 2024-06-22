@@ -1,4 +1,2 @@
 
 rules;	{"Psalms_ch_119.docx": [4111]}
-rules;	{"Psalms_ch_119.docx": [4111]}
-rules;	{"Psalms_ch_119.docx": [4111]}

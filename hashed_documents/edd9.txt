@@ -1,5 +1,2 @@
 
 thavo	{"Deuteronomy_ch_3.docx": [1982]}
-thavo	{"Deuteronomy_ch_3.docx": [1982]}
-12as	{"Joshua_ch_8.docx": [1079], "2 Chronicles_ch_10.docx": [1590], "2 Chronicles_ch_35.docx": [2104], "Job_ch_8.docx": [962], "Psalms_ch_104.docx": [1168], "Psalms_ch_118.docx": [927], "Jeremiah_ch_32.docx": [1906]}
-thavo	{"Deuteronomy_ch_3.docx": [1982]}

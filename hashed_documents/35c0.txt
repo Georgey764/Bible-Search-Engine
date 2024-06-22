@@ -1,7 +1,3 @@
 
-isaac’	{"Genesis_ch_22.docx": [849, 1339, 1339, 1339], "Genesis_ch_26.docx": [2645, 2667, 3566, 4499, 2645, 2667, 3566, 4499, 2645, 2667, 3566, 4499], "Genesis_ch_31.docx": [5841, 5841, 5841], "1 Chronicles_ch_1.docx": [2702, 2702, 2702], "Romans_ch_9.docx": [959, 959]}
-chok	{"Matthew_ch_13.docx": [661, 2831, 2831, 2831], "Matthew_ch_18.docx": [3721, 3721, 3721], "Mark_ch_4.docx": [708, 1952, 708, 1952], "Luke_ch_8.docx": [927, 1898, 927, 1898]}
-isaac’	{"Genesis_ch_22.docx": [849, 1339, 1339], "Genesis_ch_26.docx": [2645, 2667, 3566, 4499, 2645, 2667, 3566, 4499], "Genesis_ch_31.docx": [5841, 5841], "1 Chronicles_ch_1.docx": [2702, 2702], "Romans_ch_9.docx": [959]}
-chok	{"Matthew_ch_13.docx": [661, 2831, 2831], "Matthew_ch_18.docx": [3721, 3721], "Mark_ch_4.docx": [708, 1952], "Luke_ch_8.docx": [927, 1898]}
-isaac’	{"Genesis_ch_22.docx": [849, 1339], "Genesis_ch_26.docx": [2645, 2667, 3566, 4499], "Genesis_ch_31.docx": [5841], "1 Chronicles_ch_1.docx": [2702], "Romans_ch_9.docx": [959]}
+isaac’	{"Genesis_ch_22.docx": [849, 1339], "Genesis_ch_26.docx": [2645, 2667, 3566, 4499], "Genesis_ch_31.docx": [5841], "1 Chronicles_ch_1.docx": [2702], "Amos_ch_9.docx": [4107], "Romans_ch_9.docx": [959]}
 chok	{"Matthew_ch_13.docx": [661, 2831], "Matthew_ch_18.docx": [3721], "Mark_ch_4.docx": [708, 1952], "Luke_ch_8.docx": [927, 1898]}

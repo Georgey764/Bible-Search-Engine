@@ -1,3 +1,2 @@
 
-basics	{"Hebrews_ch_5.docx": [1503], "Hebrews_ch_6.docx": [9, 9]}
 basics	{"Hebrews_ch_5.docx": [1503], "Hebrews_ch_6.docx": [9]}

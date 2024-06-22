@@ -1,4 +1,2 @@
 
-chewed	{"Job_ch_20.docx": [1732], "Jeremiah_ch_50.docx": [3291, 3291, 3291], "Daniel_ch_6.docx": [4146, 4146, 4146]}
-chewed	{"Job_ch_20.docx": [1732], "Jeremiah_ch_50.docx": [3291, 3291], "Daniel_ch_6.docx": [4146, 4146]}
 chewed	{"Job_ch_20.docx": [1732], "Jeremiah_ch_50.docx": [3291], "Daniel_ch_6.docx": [4146]}

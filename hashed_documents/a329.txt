@@ -1,4 +1,2 @@
 
-goatsk	{"Numbers_ch_31.docx": [2474], "Hebrews_ch_11.docx": [7198, 7198]}
-goatsk	{"Numbers_ch_31.docx": [2474], "Hebrews_ch_11.docx": [7198]}
 goatsk	{"Numbers_ch_31.docx": [2474], "Hebrews_ch_11.docx": [7198]}

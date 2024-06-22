@@ -1,4 +1,2 @@
 
-opens	{"Exodus_ch_13.docx": [1512, 2357, 2357, 2357], "Exodus_ch_34.docx": [2851, 2851, 2851], "Numbers_ch_16.docx": [4040, 4040, 4040], "Numbers_ch_18.docx": [2472, 2472, 2472], "Job_ch_36.docx": [1628, 1628, 1628], "Luke_ch_2.docx": [4338, 4338], "John_ch_10.docx": [175, 175], "Revelation_ch_3.docx": [1189, 3474, 1189, 3474]}
-opens	{"Exodus_ch_13.docx": [1512, 2357, 2357], "Exodus_ch_34.docx": [2851, 2851], "Numbers_ch_16.docx": [4040, 4040], "Numbers_ch_18.docx": [2472, 2472], "Job_ch_36.docx": [1628, 1628], "Luke_ch_2.docx": [4338], "John_ch_10.docx": [175], "Revelation_ch_3.docx": [1189, 3474]}
-opens	{"Exodus_ch_13.docx": [1512, 2357], "Exodus_ch_34.docx": [2851], "Numbers_ch_16.docx": [4040], "Numbers_ch_18.docx": [2472], "Job_ch_36.docx": [1628], "Luke_ch_2.docx": [4338], "John_ch_10.docx": [175], "Revelation_ch_3.docx": [1189, 3474]}
+opens	{"Exodus_ch_13.docx": [1512, 2357], "Exodus_ch_34.docx": [2851], "Numbers_ch_16.docx": [4040], "Numbers_ch_18.docx": [2472], "Job_ch_36.docx": [1628], "Proverbs_ch_31.docx": [1801, 2417], "Luke_ch_2.docx": [4338], "John_ch_10.docx": [175], "Revelation_ch_3.docx": [1189, 3474]}

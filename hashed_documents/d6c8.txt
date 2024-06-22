@@ -2,8 +2,3 @@
 grew;	{"Genesis_ch_21.docx": [650]}
  tha	{"1 Chronicles_ch_7.docx": [3596]}
 out!<	{"Romans_ch_9.docx": [3554]}
-grew;	{"Genesis_ch_21.docx": [650]}
- tha	{"1 Chronicles_ch_7.docx": [3596]}
-grew;	{"Genesis_ch_21.docx": [650]}
- tha	{"1 Chronicles_ch_7.docx": [3596]}
-out!<	{"Romans_ch_9.docx": [3554]}

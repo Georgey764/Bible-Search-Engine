@@ -1,5 +1,2 @@
 
-bee	{"1 Chronicles_ch_4.docx": [3388]}
-41th	{"Genesis_ch_24.docx": [5913], "Genesis_ch_30.docx": [5140], "Genesis_ch_41.docx": [5124], "Exodus_ch_12.docx": [6365], "Numbers_ch_3.docx": [4889], "Numbers_ch_4.docx": [5398], "Numbers_ch_33.docx": [3065], "Deuteronomy_ch_4.docx": [6473], "Joshua_ch_19.docx": [3291], "Judges_ch_9.docx": [7777], "1 Chronicles_ch_9.docx": [5619], "1 Chronicles_ch_16.docx": [4527], "Nehemiah_ch_7.docx": [2515], "Nehemiah_ch_12.docx": [11638], "Psalms_ch_18.docx": [3910], "Psalms_ch_78.docx": [4051], "Psalms_ch_89.docx": [3950], "Psalms_ch_106.docx": [3730], "Psalms_ch_119.docx": [3202], "Ezekiel_ch_16.docx": [6544], "Matthew_ch_13.docx": [5488], "Matthew_ch_22.docx": [4414]}
-bee	{"1 Chronicles_ch_4.docx": [3388]}
  bee	{"1 Chronicles_ch_4.docx": [3388]}

@@ -1,5 +1,2 @@
 
-drying	{"Ezekiel_ch_26.docx": [2417], "John_ch_13.docx": [568, 568]}
-19ma	{"Job_ch_18.docx": [1560]}
-drying	{"Ezekiel_ch_26.docx": [2417], "John_ch_13.docx": [568]}
 drying	{"Ezekiel_ch_26.docx": [2417], "John_ch_13.docx": [568]}

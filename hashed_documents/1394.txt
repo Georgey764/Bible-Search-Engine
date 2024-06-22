@@ -1,4 +1,2 @@
 
-matr	{"Genesis_ch_36.docx": [3991], "1 Samuel_ch_10.docx": [3651, 3651, 3651]}
-matr	{"Genesis_ch_36.docx": [3991], "1 Samuel_ch_10.docx": [3651, 3651]}
 matr	{"Genesis_ch_36.docx": [3991], "1 Samuel_ch_10.docx": [3651]}

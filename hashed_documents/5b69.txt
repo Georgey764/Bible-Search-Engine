@@ -1,7 +1,3 @@
 
-indul	{"Nehemiah_ch_9.docx": [5510], "1 Peter_ch_2.docx": [1562, 1562]}
-reels	{"Proverbs_ch_7.docx": [1881]}
-indul	{"Nehemiah_ch_9.docx": [5510], "1 Peter_ch_2.docx": [1562]}
-reels	{"Proverbs_ch_7.docx": [1881]}
-indul	{"Nehemiah_ch_9.docx": [5510], "1 Peter_ch_2.docx": [1562]}
+indul	{"Nehemiah_ch_9.docx": [5510], "Isaiah_ch_66.docx": [2262], "1 Peter_ch_2.docx": [1562]}
 reels	{"Proverbs_ch_7.docx": [1881]}

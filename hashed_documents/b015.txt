@@ -1,4 +1,2 @@
 
 domini	{"Psalms_ch_103.docx": [1946], "Psalms_ch_150.docx": [128]}
-domini	{"Psalms_ch_103.docx": [1946]}
-domini	{"Psalms_ch_103.docx": [1946]}

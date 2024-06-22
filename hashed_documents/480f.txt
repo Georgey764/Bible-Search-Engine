@@ -1,5 +1,2 @@
 
 aire	{"Joshua_ch_15.docx": [5708]}
-17from	{"Joshua_ch_11.docx": [7081], "Psalms_ch_18.docx": [1793], "Psalms_ch_45.docx": [2362], "Isaiah_ch_63.docx": [2570]}
-aire	{"Joshua_ch_15.docx": [5708]}
-aire	{"Joshua_ch_15.docx": [5708]}

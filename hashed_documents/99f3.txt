@@ -1,4 +1,2 @@
 
-frus	{"Isaiah_ch_29.docx": [1599]}
-frus	{"Isaiah_ch_29.docx": [1599]}
-frus	{"Isaiah_ch_29.docx": [1599]}
+frus	{"Isaiah_ch_29.docx": [1599], "Ephesians_ch_6.docx": [313]}

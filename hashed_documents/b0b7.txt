@@ -1,2 +1,0 @@
-
-20,0	{"2 Samuel_ch_8.docx": [421], "2 Samuel_ch_10.docx": [852], "2 Samuel_ch_18.docx": [1127], "1 Chronicles_ch_18.docx": [379], "2 Chronicles_ch_2.docx": [2102], "2 Chronicles_ch_4.docx": [615], "Nehemiah_ch_7.docx": [4766], "Ezekiel_ch_45.docx": [865]}

@@ -1,4 +1,2 @@
 
-lesso	{"Psalms_ch_60.docx": [104, 632, 632, 632], "Jeremiah_ch_13.docx": [3488, 3488, 3488], "1 Timothy_ch_5.docx": [272, 272]}
-lesso	{"Psalms_ch_60.docx": [104, 632, 632], "Jeremiah_ch_13.docx": [3488, 3488], "1 Timothy_ch_5.docx": [272]}
-lesso	{"Psalms_ch_60.docx": [104, 632], "Jeremiah_ch_13.docx": [3488], "1 Timothy_ch_5.docx": [272]}
+lesso	{"Psalms_ch_60.docx": [104, 632], "Jeremiah_ch_13.docx": [3488], "Obadiah_ch_1.docx": [4335], "1 Timothy_ch_5.docx": [272]}

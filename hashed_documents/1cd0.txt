@@ -1,4 +1,2 @@
 
-balle	{"Genesis_ch_36.docx": [3894, 3962, 3962, 3962]}
-balle	{"Genesis_ch_36.docx": [3894, 3962, 3962]}
 balle	{"Genesis_ch_36.docx": [3894, 3962]}

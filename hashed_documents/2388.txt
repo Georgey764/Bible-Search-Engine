@@ -1,4 +1,2 @@
 
-ainan	{"Genesis_ch_38.docx": [1685, 2887, 2887, 2887], "Numbers_ch_1.docx": [1291, 1291, 1291], "Numbers_ch_7.docx": [9074, 9714, 9074, 9714, 9074, 9714], "Numbers_ch_10.docx": [2868, 2868, 2868], "1 Kings_ch_4.docx": [3500, 3500, 3500], "1 Chronicles_ch_6.docx": [6278, 6278, 6278]}
-ainan	{"Genesis_ch_38.docx": [1685, 2887, 2887], "Numbers_ch_1.docx": [1291, 1291], "Numbers_ch_7.docx": [9074, 9714, 9074, 9714], "Numbers_ch_10.docx": [2868, 2868], "1 Kings_ch_4.docx": [3500, 3500], "1 Chronicles_ch_6.docx": [6278, 6278]}
 ainan	{"Genesis_ch_38.docx": [1685, 2887], "Numbers_ch_1.docx": [1291], "Numbers_ch_7.docx": [9074, 9714], "Numbers_ch_10.docx": [2868], "1 Kings_ch_4.docx": [3500], "1 Chronicles_ch_6.docx": [6278]}

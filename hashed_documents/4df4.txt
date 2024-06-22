@@ -1,4 +1,2 @@
 
-road!	{"1 Kings_ch_13.docx": [3714], "2 Kings_ch_6.docx": [2807, 2807, 2807], "Job_ch_18.docx": [915, 915, 915], "Matthew_ch_15.docx": [3751, 3751, 3751], "Mark_ch_8.docx": [301, 301]}
-road!	{"1 Kings_ch_13.docx": [3714], "2 Kings_ch_6.docx": [2807, 2807], "Job_ch_18.docx": [915, 915], "Matthew_ch_15.docx": [3751, 3751], "Mark_ch_8.docx": [301]}
 road!	{"1 Kings_ch_13.docx": [3714], "2 Kings_ch_6.docx": [2807], "Job_ch_18.docx": [915], "Matthew_ch_15.docx": [3751], "Mark_ch_8.docx": [301]}

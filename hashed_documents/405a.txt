@@ -1,3 +1,2 @@
 
-nature	{"Romans_ch_11.docx": [3665, 3670, 3670], "1 Corinthians_ch_11.docx": [1561, 1561], "2 Peter_ch_1.docx": [580, 580]}
-nature	{"Romans_ch_11.docx": [3665, 3670], "1 Corinthians_ch_11.docx": [1561], "2 Peter_ch_1.docx": [580]}
+nature	{"Romans_ch_11.docx": [3665, 3670], "1 Corinthians_ch_11.docx": [1561], "Galatians_ch_6.docx": [1394], "2 Peter_ch_1.docx": [580]}

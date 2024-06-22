@@ -1,4 +1,2 @@
 
-bedded	{"1 Samuel_ch_9.docx": [4223], "2 Samuel_ch_11.docx": [1189, 1189, 1189], "1 Kings_ch_19.docx": [715, 715, 715]}
-bedded	{"1 Samuel_ch_9.docx": [4223], "2 Samuel_ch_11.docx": [1189, 1189], "1 Kings_ch_19.docx": [715, 715]}
 bedded	{"1 Samuel_ch_9.docx": [4223], "2 Samuel_ch_11.docx": [1189], "1 Kings_ch_19.docx": [715]}

@@ -1,4 +1,2 @@
 
-gamali	{"Numbers_ch_1.docx": [948], "Numbers_ch_2.docx": [1848, 1848, 1848], "Numbers_ch_7.docx": [6314, 6959, 6314, 6959, 6314, 6959], "Numbers_ch_10.docx": [2564, 2564, 2564], "Numbers_ch_13.docx": [884, 884, 884], "Acts_ch_5.docx": [4610, 4610], "Acts_ch_22.docx": [333, 333]}
-gamali	{"Numbers_ch_1.docx": [948], "Numbers_ch_2.docx": [1848, 1848], "Numbers_ch_7.docx": [6314, 6959, 6314, 6959], "Numbers_ch_10.docx": [2564, 2564], "Numbers_ch_13.docx": [884, 884], "Acts_ch_5.docx": [4610], "Acts_ch_22.docx": [333]}
 gamali	{"Numbers_ch_1.docx": [948], "Numbers_ch_2.docx": [1848], "Numbers_ch_7.docx": [6314, 6959], "Numbers_ch_10.docx": [2564], "Numbers_ch_13.docx": [884], "Acts_ch_5.docx": [4610], "Acts_ch_22.docx": [333]}

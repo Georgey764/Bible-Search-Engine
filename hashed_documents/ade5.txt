@@ -1,5 +1,2 @@
 
-lodaba	{"2 Samuel_ch_9.docx": [614], "2 Samuel_ch_17.docx": [4329, 4329, 4329]}
-lodaba	{"2 Samuel_ch_9.docx": [614], "2 Samuel_ch_17.docx": [4329, 4329]}
-18make	{"Proverbs_ch_20.docx": [2465]}
 lodaba	{"2 Samuel_ch_9.docx": [614], "2 Samuel_ch_17.docx": [4329]}

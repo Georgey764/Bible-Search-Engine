@@ -1,4 +1,2 @@
 
-joram	{"1 Chronicles_ch_26.docx": [3092], "2 Chronicles_ch_17.docx": [1121, 1121, 1121]}
-joram	{"1 Chronicles_ch_26.docx": [3092], "2 Chronicles_ch_17.docx": [1121, 1121]}
 joram	{"1 Chronicles_ch_26.docx": [3092], "2 Chronicles_ch_17.docx": [1121]}

@@ -1,4 +1,3 @@
 
-excrem	{"Deuteronomy_ch_23.docx": [1328], "Isaiah_ch_36.docx": [2119, 2119, 2119]}
-excrem	{"Deuteronomy_ch_23.docx": [1328], "Isaiah_ch_36.docx": [2119, 2119]}
 excrem	{"Deuteronomy_ch_23.docx": [1328], "Isaiah_ch_36.docx": [2119]}
+sicim	{"Joshua_ch_24.docx": [5218, 5231]}

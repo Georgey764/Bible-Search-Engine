@@ -1,4 +1,2 @@
 
-cyprus	{"Isaiah_ch_23.docx": [122, 1401, 1401, 1401], "Jeremiah_ch_2.docx": [1638, 1638, 1638], "Ezekiel_ch_27.docx": [689, 3023, 689, 3023, 689, 3023], "Daniel_ch_11.docx": [5531, 5531, 5531], "Acts_ch_4.docx": [5049, 5049], "Acts_ch_13.docx": [1629, 1629], "Acts_ch_27.docx": [544, 544]}
-cyprus	{"Isaiah_ch_23.docx": [122, 1401, 1401], "Jeremiah_ch_2.docx": [1638, 1638], "Ezekiel_ch_27.docx": [689, 3023, 689, 3023], "Daniel_ch_11.docx": [5531, 5531], "Acts_ch_4.docx": [5049], "Acts_ch_13.docx": [1629], "Acts_ch_27.docx": [544]}
 cyprus	{"Isaiah_ch_23.docx": [122, 1401], "Jeremiah_ch_2.docx": [1638], "Ezekiel_ch_27.docx": [689, 3023], "Daniel_ch_11.docx": [5531], "Acts_ch_4.docx": [5049], "Acts_ch_13.docx": [1629], "Acts_ch_27.docx": [544]}

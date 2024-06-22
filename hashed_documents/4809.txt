@@ -1,4 +1,2 @@
 
-rishat	{"Judges_ch_3.docx": [4576, 4598, 4622, 4598, 4622, 4598, 4622]}
-rishat	{"Judges_ch_3.docx": [4576, 4598, 4622, 4598, 4622]}
 rishat	{"Judges_ch_3.docx": [4576, 4598, 4622]}

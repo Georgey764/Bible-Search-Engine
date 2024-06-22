@@ -1,6 +1,2 @@
 
-kettu	{"Genesis_ch_25.docx": [15, 371, 371, 371]}
-kettu	{"Genesis_ch_25.docx": [15, 371, 371]}
-9give	{"Proverbs_ch_9.docx": [857]}
-13‘eve	{"Isaiah_ch_43.docx": [2181]}
 kettu	{"Genesis_ch_25.docx": [15, 371]}

@@ -1,5 +1,2 @@
 
-outl	{"Exodus_ch_21.docx": [8], "Joshua_ch_21.docx": [4839, 4839, 4839]}
-56bu	{"Genesis_ch_24.docx": [8505], "Leviticus_ch_13.docx": [7753], "Psalms_ch_78.docx": [5465]}
-outl	{"Exodus_ch_21.docx": [8], "Joshua_ch_21.docx": [4839, 4839]}
 outl	{"Exodus_ch_21.docx": [8], "Joshua_ch_21.docx": [4839]}

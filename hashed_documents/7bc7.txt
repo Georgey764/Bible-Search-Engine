@@ -1,5 +1,2 @@
 
-slacke	{"Exodus_ch_5.docx": [2544], "Ezekiel_ch_16.docx": [6766, 6766, 6766], "Ezekiel_ch_21.docx": [2766, 2766, 2766]}
-slacke	{"Exodus_ch_5.docx": [2544], "Ezekiel_ch_16.docx": [6766, 6766], "Ezekiel_ch_21.docx": [2766, 2766]}
-38even	{"Matthew_ch_15.docx": [4419]}
 slacke	{"Exodus_ch_5.docx": [2544], "Ezekiel_ch_16.docx": [6766], "Ezekiel_ch_21.docx": [2766]}

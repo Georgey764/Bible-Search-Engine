@@ -1,2 +1,0 @@
-
-23al	{"Exodus_ch_38.docx": [2594], "Deuteronomy_ch_2.docx": [2766], "1 Kings_ch_9.docx": [3507], "Psalms_ch_22.docx": [2176], "Proverbs_ch_18.docx": [2202], "Ezekiel_ch_32.docx": [3609], "Ezekiel_ch_39.docx": [3957]}

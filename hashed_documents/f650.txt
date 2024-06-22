@@ -1,7 +1,3 @@
 
-tarshi	{"Genesis_ch_10.docx": [533], "1 Kings_ch_10.docx": [3447, 3447, 3447], "2 Chronicles_ch_9.docx": [3277, 3277, 3277], "2 Chronicles_ch_20.docx": [6002, 6350, 6002, 6350, 6002, 6350], "Esther_ch_1.docx": [2503, 2503, 2503], "Psalms_ch_48.docx": [599, 599, 599], "Isaiah_ch_60.docx": [1264, 1264, 1264], "Jeremiah_ch_10.docx": [1154, 1154, 1154]}
-dodai	{"1 Chronicles_ch_11.docx": [2074], "1 Chronicles_ch_27.docx": [524, 524, 524]}
-tarshi	{"Genesis_ch_10.docx": [533], "1 Kings_ch_10.docx": [3447, 3447], "2 Chronicles_ch_9.docx": [3277, 3277], "2 Chronicles_ch_20.docx": [6002, 6350, 6002, 6350], "Esther_ch_1.docx": [2503, 2503], "Psalms_ch_48.docx": [599, 599], "Isaiah_ch_60.docx": [1264, 1264], "Jeremiah_ch_10.docx": [1154, 1154]}
-dodai	{"1 Chronicles_ch_11.docx": [2074], "1 Chronicles_ch_27.docx": [524, 524]}
-tarshi	{"Genesis_ch_10.docx": [533], "1 Kings_ch_10.docx": [3447], "2 Chronicles_ch_9.docx": [3277], "2 Chronicles_ch_20.docx": [6002, 6350], "Esther_ch_1.docx": [2503], "Psalms_ch_48.docx": [599], "Isaiah_ch_60.docx": [1264], "Jeremiah_ch_10.docx": [1154]}
+tarshi	{"Genesis_ch_10.docx": [533], "1 Kings_ch_10.docx": [3447], "2 Chronicles_ch_9.docx": [3277], "2 Chronicles_ch_20.docx": [6002, 6350], "Esther_ch_1.docx": [2503], "Psalms_ch_48.docx": [599], "Isaiah_ch_60.docx": [1264], "Isaiah_ch_66.docx": [3698], "Jeremiah_ch_10.docx": [1154]}
 dodai	{"1 Chronicles_ch_11.docx": [2074], "1 Chronicles_ch_27.docx": [524]}

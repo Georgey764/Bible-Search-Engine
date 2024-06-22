@@ -1,7 +1,3 @@
 
-unacc	{"Leviticus_ch_22.docx": [3346, 3659, 3659, 3659]}
-yam	{"1 Chronicles_ch_7.docx": [4230]}
-unacc	{"Leviticus_ch_22.docx": [3346, 3659, 3659]}
-yam	{"1 Chronicles_ch_7.docx": [4230]}
-unacc	{"Leviticus_ch_22.docx": [3346, 3659]}
+unacc	{"Leviticus_ch_22.docx": [3346, 3659], "Jude_ch_1.docx": [5038]}
 yam	{"1 Chronicles_ch_7.docx": [4230]}

@@ -1,4 +1,2 @@
 
-word!	{"Nehemiah_ch_5.docx": [1435], "2 Corinthians_ch_4.docx": [183, 183]}
-word!	{"Nehemiah_ch_5.docx": [1435], "2 Corinthians_ch_4.docx": [183]}
-word!	{"Nehemiah_ch_5.docx": [1435], "2 Corinthians_ch_4.docx": [183]}
+word!	{"Nehemiah_ch_5.docx": [1435], "2 Corinthians_ch_4.docx": [183], "2 Timothy_ch_4.docx": [40]}

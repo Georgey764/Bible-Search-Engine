@@ -1,4 +1,2 @@
 
-consta	{"Joshua_ch_19.docx": [3752], "Luke_ch_11.docx": [7460, 7460], "Acts_ch_24.docx": [2516, 2516], "Romans_ch_9.docx": [120, 120], "Philippians_ch_1.docx": [277, 277]}
-consta	{"Joshua_ch_19.docx": [3752], "Luke_ch_11.docx": [7460], "Acts_ch_24.docx": [2516], "Romans_ch_9.docx": [120], "Philippians_ch_1.docx": [277]}
-consta	{"Joshua_ch_19.docx": [3752], "Luke_ch_11.docx": [7460], "Acts_ch_24.docx": [2516], "Romans_ch_9.docx": [120], "Philippians_ch_1.docx": [277]}
+consta	{"Joshua_ch_19.docx": [3752], "Song of Solomon_ch_8.docx": [3272], "Isaiah_ch_66.docx": [6418], "Lamentations_ch_5.docx": [3448], "Daniel_ch_12.docx": [5113], "Hosea_ch_14.docx": [2668], "Joel_ch_3.docx": [5784], "Jonah_ch_4.docx": [2767], "Micah_ch_7.docx": [5636], "Nahum_ch_3.docx": [4844], "Habakkuk_ch_3.docx": [4484], "Zephaniah_ch_3.docx": [5574], "Haggai_ch_2.docx": [5891], "Luke_ch_11.docx": [7460], "Acts_ch_24.docx": [2516], "Romans_ch_9.docx": [120], "Philippians_ch_1.docx": [277], "Colossians_ch_4.docx": [140], "1 Thessalonians_ch_5.docx": [1987]}

@@ -1,2 +1,0 @@
-
-20‘so	{"1 Kings_ch_1.docx": [2807], "1 Kings_ch_8.docx": [2741], "Job_ch_24.docx": [2070], "Job_ch_28.docx": [1795], "Jeremiah_ch_4.docx": [3487], "Jeremiah_ch_5.docx": [3549], "Jeremiah_ch_13.docx": [3242], "Jeremiah_ch_51.docx": [3323], "Ezekiel_ch_33.docx": [3790], "Matthew_ch_25.docx": [1996]}

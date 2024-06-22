@@ -1,4 +1,2 @@
 
-asa’s	{"2 Chronicles_ch_15.docx": [2575, 2876, 2876, 2876], "2 Chronicles_ch_16.docx": [1974, 1974, 1974], "2 Chronicles_ch_17.docx": [8, 8, 8]}
-asa’s	{"2 Chronicles_ch_15.docx": [2575, 2876, 2876], "2 Chronicles_ch_16.docx": [1974, 1974], "2 Chronicles_ch_17.docx": [8, 8]}
 asa’s	{"2 Chronicles_ch_15.docx": [2575, 2876], "2 Chronicles_ch_16.docx": [1974], "2 Chronicles_ch_17.docx": [8]}

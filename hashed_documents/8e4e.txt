@@ -1,4 +1,2 @@
 
-mined	{"Deuteronomy_ch_8.docx": [1176], "Job_ch_28.docx": [12, 609, 12, 609, 12, 609]}
-mined	{"Deuteronomy_ch_8.docx": [1176], "Job_ch_28.docx": [12, 609, 12, 609]}
 mined	{"Deuteronomy_ch_8.docx": [1176], "Job_ch_28.docx": [12, 609]}

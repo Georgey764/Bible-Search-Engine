@@ -1,5 +1,2 @@
 
-stink	{"Exodus_ch_7.docx": [2335], "Exodus_ch_8.docx": [1832, 1832, 1832], "Exodus_ch_16.docx": [3865, 3865, 3865]}
-stink	{"Exodus_ch_7.docx": [2335], "Exodus_ch_8.docx": [1832, 1832], "Exodus_ch_16.docx": [3865, 3865]}
-20tre	{"Proverbs_ch_21.docx": [1961]}
 stink	{"Exodus_ch_7.docx": [2335], "Exodus_ch_8.docx": [1832], "Exodus_ch_16.docx": [3865]}

@@ -1,4 +1,2 @@
 
-maon	{"1 Samuel_ch_23.docx": [3587, 3625, 3625, 3625], "1 Samuel_ch_25.docx": [152, 152, 152], "1 Chronicles_ch_2.docx": [3954, 3954, 3954]}
-maon	{"1 Samuel_ch_23.docx": [3587, 3625, 3625], "1 Samuel_ch_25.docx": [152, 152], "1 Chronicles_ch_2.docx": [3954, 3954]}
 maon	{"1 Samuel_ch_23.docx": [3587, 3625], "1 Samuel_ch_25.docx": [152], "1 Chronicles_ch_2.docx": [3954]}

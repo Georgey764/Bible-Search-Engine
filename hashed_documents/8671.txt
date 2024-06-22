@@ -1,4 +1,2 @@
 
-gesham	{"Nehemiah_ch_2.docx": [5004], "Nehemiah_ch_6.docx": [8, 220, 8, 220, 8, 220]}
-gesham	{"Nehemiah_ch_2.docx": [5004], "Nehemiah_ch_6.docx": [8, 220, 8, 220]}
 gesham	{"Nehemiah_ch_2.docx": [5004], "Nehemiah_ch_6.docx": [8, 220]}

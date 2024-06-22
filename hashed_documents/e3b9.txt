@@ -1,5 +1,2 @@
 
 jaba	{"2 Samuel_ch_23.docx": [4657]}
-8with	{"Joshua_ch_22.docx": [975], "Psalms_ch_10.docx": [864], "Isaiah_ch_2.docx": [1214]}
-jaba	{"2 Samuel_ch_23.docx": [4657]}
-jaba	{"2 Samuel_ch_23.docx": [4657]}

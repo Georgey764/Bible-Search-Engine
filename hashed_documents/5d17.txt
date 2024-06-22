@@ -1,7 +1,3 @@
 
-valued	{"Numbers_ch_31.docx": [5405], "1 Samuel_ch_26.docx": [4004, 4004, 4004], "2 Kings_ch_5.docx": [23, 23, 23], "Psalms_ch_72.docx": [1242, 1242, 1242], "Isaiah_ch_7.docx": [3259, 3259, 3259], "Micah_ch_1.docx": [5180, 5180, 5180]}
-minaea	{"1 Chronicles_ch_4.docx": [4552], "2 Chronicles_ch_20.docx": [18, 18, 18], "2 Chronicles_ch_26.docx": [950, 952, 950, 952, 950, 952], "Job_ch_2.docx": [1691, 1691, 1691], "Job_ch_11.docx": [7, 7, 7], "Job_ch_20.docx": [7, 7, 7]}
-valued	{"Numbers_ch_31.docx": [5405], "1 Samuel_ch_26.docx": [4004, 4004], "2 Kings_ch_5.docx": [23, 23], "Psalms_ch_72.docx": [1242, 1242], "Isaiah_ch_7.docx": [3259, 3259], "Micah_ch_1.docx": [5180, 5180]}
-minaea	{"1 Chronicles_ch_4.docx": [4552], "2 Chronicles_ch_20.docx": [18, 18], "2 Chronicles_ch_26.docx": [950, 952, 950, 952], "Job_ch_2.docx": [1691, 1691], "Job_ch_11.docx": [7, 7], "Job_ch_20.docx": [7, 7]}
-valued	{"Numbers_ch_31.docx": [5405], "1 Samuel_ch_26.docx": [4004], "2 Kings_ch_5.docx": [23], "Psalms_ch_72.docx": [1242], "Isaiah_ch_7.docx": [3259], "Micah_ch_1.docx": [5180]}
+valued	{"Leviticus_ch_27.docx": [1943, 2084], "Numbers_ch_31.docx": [5405], "1 Samuel_ch_26.docx": [4004], "2 Kings_ch_5.docx": [23], "Psalms_ch_72.docx": [1242], "Isaiah_ch_7.docx": [3259], "Micah_ch_1.docx": [5180]}
 minaea	{"1 Chronicles_ch_4.docx": [4552], "2 Chronicles_ch_20.docx": [18], "2 Chronicles_ch_26.docx": [950, 952], "Job_ch_2.docx": [1691], "Job_ch_11.docx": [7], "Job_ch_20.docx": [7]}

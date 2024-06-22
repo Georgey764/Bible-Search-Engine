@@ -1,4 +1,2 @@
 
-hamst	{"Joshua_ch_11.docx": [3024, 5066, 5066, 5066]}
-hamst	{"Joshua_ch_11.docx": [3024, 5066, 5066]}
 hamst	{"Joshua_ch_11.docx": [3024, 5066]}

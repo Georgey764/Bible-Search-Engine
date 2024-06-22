@@ -1,7 +1,3 @@
 
 eyelas	{"Leviticus_ch_21.docx": [2385]}
 zabu	{"Esther_ch_9.docx": [667]}
-eyelas	{"Leviticus_ch_21.docx": [2385]}
-zabu	{"Esther_ch_9.docx": [667]}
-eyelas	{"Leviticus_ch_21.docx": [2385]}
-zabu	{"Esther_ch_9.docx": [667]}

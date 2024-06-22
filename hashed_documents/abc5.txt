@@ -1,5 +1,2 @@
 
 zaan	{"1 Chronicles_ch_1.docx": [3490]}
-29be	{"Genesis_ch_35.docx": [3503], "Proverbs_ch_1.docx": [3002], "Matthew_ch_7.docx": [3205], "Matthew_ch_25.docx": [3263]}
-zaan	{"1 Chronicles_ch_1.docx": [3490]}
-zaan	{"1 Chronicles_ch_1.docx": [3490]}

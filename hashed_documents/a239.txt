@@ -1,6 +1,2 @@
 
-lost!	{"1 Samuel_ch_4.docx": [1749], "Luke_ch_15.docx": [649, 1161, 649, 1161], "Galatians_ch_5.docx": [1463, 1463]}
-lost!	{"1 Samuel_ch_4.docx": [1749], "Luke_ch_15.docx": [649, 1161], "Galatians_ch_5.docx": [1463]}
-3befo	{"Psalms_ch_26.docx": [260]}
-32won’	{"Ezekiel_ch_20.docx": [5748]}
 lost!	{"1 Samuel_ch_4.docx": [1749], "Luke_ch_15.docx": [649, 1161], "Galatians_ch_5.docx": [1463]}

@@ -1,4 +1,2 @@
 
-noadi	{"1 Chronicles_ch_4.docx": [4949], "Ezra_ch_8.docx": [4883, 4883, 4883], "Nehemiah_ch_6.docx": [2251, 2251, 2251]}
-noadi	{"1 Chronicles_ch_4.docx": [4949], "Ezra_ch_8.docx": [4883, 4883], "Nehemiah_ch_6.docx": [2251, 2251]}
 noadi	{"1 Chronicles_ch_4.docx": [4949], "Ezra_ch_8.docx": [4883], "Nehemiah_ch_6.docx": [2251]}

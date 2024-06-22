@@ -1,4 +1,2 @@
 
-introd	{"Numbers_ch_22.docx": [5771], "Job_ch_40.docx": [2522, 2522, 2522], "Isaiah_ch_40.docx": [3694, 3694, 3694], "Jeremiah_ch_27.docx": [41, 41, 41], "2 Corinthians_ch_3.docx": [11, 11], "2 Peter_ch_2.docx": [22, 22]}
-introd	{"Numbers_ch_22.docx": [5771], "Job_ch_40.docx": [2522, 2522], "Isaiah_ch_40.docx": [3694, 3694], "Jeremiah_ch_27.docx": [41, 41], "2 Corinthians_ch_3.docx": [11], "2 Peter_ch_2.docx": [22]}
 introd	{"Numbers_ch_22.docx": [5771], "Job_ch_40.docx": [2522], "Isaiah_ch_40.docx": [3694], "Jeremiah_ch_27.docx": [41], "2 Corinthians_ch_3.docx": [11], "2 Peter_ch_2.docx": [22]}

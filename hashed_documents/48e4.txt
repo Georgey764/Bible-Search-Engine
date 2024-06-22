@@ -1,4 +1,2 @@
 
-ress	{"Numbers_ch_33.docx": [1884, 1927, 1927, 1927]}
-ress	{"Numbers_ch_33.docx": [1884, 1927, 1927]}
 ress	{"Numbers_ch_33.docx": [1884, 1927]}

@@ -1,5 +1,2 @@
 
-frau	{"Genesis_ch_31.docx": [5645], "Hosea_ch_4.docx": [232, 232, 232]}
-frau	{"Genesis_ch_31.docx": [5645], "Hosea_ch_4.docx": [232, 232]}
-34‘you	{"Leviticus_ch_19.docx": [4520], "Numbers_ch_35.docx": [4585], "Jeremiah_ch_23.docx": [6146], "Ezekiel_ch_16.docx": [5258], "Ezekiel_ch_23.docx": [5560], "Ezekiel_ch_36.docx": [6101]}
-frau	{"Genesis_ch_31.docx": [5645], "Hosea_ch_4.docx": [232]}
+frau	{"Genesis_ch_31.docx": [5645], "Hosea_ch_4.docx": [232], "3 John_ch_1.docx": [2082]}

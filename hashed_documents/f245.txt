@@ -1,3 +1,2 @@
 
-– b	{"1 Timothy_ch_4.docx": [1120], "Hebrews_ch_4.docx": [191, 216, 191, 216]}
-– b	{"1 Timothy_ch_4.docx": [1120], "Hebrews_ch_4.docx": [191, 216]}
+– b	{"Galatians_ch_6.docx": [1076], "1 Timothy_ch_4.docx": [1120], "Hebrews_ch_4.docx": [191, 216]}

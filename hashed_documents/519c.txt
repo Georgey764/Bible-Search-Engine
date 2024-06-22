@@ -1,4 +1,2 @@
 
-esriel	{"Numbers_ch_26.docx": [3621, 3626, 3626]}
-esriel	{"Numbers_ch_26.docx": [3626, 3626]}
 esriel	{"Numbers_ch_26.docx": [3621, 3626]}

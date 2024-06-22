@@ -1,5 +1,2 @@
 
-bigv	{"Ezra_ch_2.docx": [475, 834, 834, 834], "Ezra_ch_8.docx": [1467, 1467, 1467], "Nehemiah_ch_7.docx": [1094, 1687, 1094, 1687, 1094, 1687], "Nehemiah_ch_10.docx": [867, 867, 867]}
-21‘whe	{"Deuteronomy_ch_23.docx": [2637], "Jeremiah_ch_44.docx": [4233]}
-bigv	{"Ezra_ch_2.docx": [475, 834, 834], "Ezra_ch_8.docx": [1467, 1467], "Nehemiah_ch_7.docx": [1094, 1687, 1094, 1687], "Nehemiah_ch_10.docx": [867, 867]}
 bigv	{"Ezra_ch_2.docx": [475, 834], "Ezra_ch_8.docx": [1467], "Nehemiah_ch_7.docx": [1094, 1687], "Nehemiah_ch_10.docx": [867]}

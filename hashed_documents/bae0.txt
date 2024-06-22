@@ -1,3 +1,2 @@
 
 fails!	{"1 Corinthians_ch_13.docx": [859]}
-fails!	{"1 Corinthians_ch_13.docx": [859]}

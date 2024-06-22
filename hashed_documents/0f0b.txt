@@ -1,2 +1,0 @@
-
-4‘f	{"Genesis_ch_7.docx": [540], "Numbers_ch_4.docx": [248], "Deuteronomy_ch_16.docx": [560], "Esther_ch_7.docx": [402], "Job_ch_13.docx": [273], "Job_ch_17.docx": [245], "Ecclesiastes_ch_1.docx": [347], "Isaiah_ch_17.docx": [558], "Isaiah_ch_20.docx": [574], "Isaiah_ch_56.docx": [617], "Isaiah_ch_63.docx": [582], "Jeremiah_ch_19.docx": [555], "Jeremiah_ch_22.docx": [660], "Ezekiel_ch_11.docx": [583], "Joel_ch_1.docx": [376], "Amos_ch_4.docx": [931], "Amos_ch_5.docx": [448], "Zephaniah_ch_2.docx": [390], "Zechariah_ch_5.docx": [406]}

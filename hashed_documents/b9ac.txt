@@ -1,7 +1,3 @@
 
-gesion	{"Numbers_ch_33.docx": [2564, 2606, 2606, 2606], "Deuteronomy_ch_2.docx": [1032, 1032, 1032]}
-stud	{"1 Kings_ch_3.docx": [3496], "Nehemiah_ch_2.docx": [3352, 3372, 3394, 3352, 3372, 3394, 3352, 3372, 3394], "Psalms_ch_119.docx": [466, 6344, 466, 6344, 466, 6344], "Isaiah_ch_27.docx": [1042, 1042, 1042], "Daniel_ch_1.docx": [2472, 2472, 2472], "Luke_ch_14.docx": [240, 240], "John_ch_7.docx": [1929, 1929], "Acts_ch_17.docx": [2083, 2083], "2 Timothy_ch_3.docx": [1041, 1041]}
-gesion	{"Numbers_ch_33.docx": [2564, 2606, 2606], "Deuteronomy_ch_2.docx": [1032, 1032]}
-stud	{"1 Kings_ch_3.docx": [3496], "Nehemiah_ch_2.docx": [3352, 3372, 3394, 3352, 3372, 3394], "Psalms_ch_119.docx": [466, 6344, 466, 6344], "Isaiah_ch_27.docx": [1042, 1042], "Daniel_ch_1.docx": [2472, 2472], "Luke_ch_14.docx": [240], "John_ch_7.docx": [1929], "Acts_ch_17.docx": [2083], "2 Timothy_ch_3.docx": [1041]}
 gesion	{"Numbers_ch_33.docx": [2564, 2606], "Deuteronomy_ch_2.docx": [1032]}
 stud	{"1 Kings_ch_3.docx": [3496], "Nehemiah_ch_2.docx": [3352, 3372, 3394], "Psalms_ch_119.docx": [466, 6344], "Isaiah_ch_27.docx": [1042], "Daniel_ch_1.docx": [2472], "Luke_ch_14.docx": [240], "John_ch_7.docx": [1929], "Acts_ch_17.docx": [2083], "2 Timothy_ch_3.docx": [1041]}

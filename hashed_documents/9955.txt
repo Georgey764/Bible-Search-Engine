@@ -1,4 +1,2 @@
 
-moor	{"2 Samuel_ch_23.docx": [4430], "Ezekiel_ch_27.docx": [1499, 1499, 1499]}
-moor	{"2 Samuel_ch_23.docx": [4430], "Ezekiel_ch_27.docx": [1499, 1499]}
 moor	{"2 Samuel_ch_23.docx": [4430], "Ezekiel_ch_27.docx": [1499]}

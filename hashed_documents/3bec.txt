@@ -1,4 +1,2 @@
 
-bok	{"1 Chronicles_ch_6.docx": [358, 383, 4157, 383, 383, 4157]}
-bok	{"1 Chronicles_ch_6.docx": [358, 383, 383, 4157]}
 bok	{"1 Chronicles_ch_6.docx": [358, 383, 4157]}

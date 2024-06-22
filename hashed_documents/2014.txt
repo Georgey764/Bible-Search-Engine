@@ -1,4 +1,2 @@
 
-washba	{"2 Kings_ch_16.docx": [2864], "2 Chronicles_ch_4.docx": [761, 761, 761], "Ezra_ch_1.docx": [1637, 1637, 1637]}
-washba	{"2 Kings_ch_16.docx": [2864], "2 Chronicles_ch_4.docx": [761, 761], "Ezra_ch_1.docx": [1637, 1637]}
 washba	{"2 Kings_ch_16.docx": [2864], "2 Chronicles_ch_4.docx": [761], "Ezra_ch_1.docx": [1637]}

@@ -1,4 +1,2 @@
 
 exerci	{"1 Timothy_ch_4.docx": [822]}
-20al	{"Ezra_ch_7.docx": [2673], "Nehemiah_ch_11.docx": [3064], "Psalms_ch_69.docx": [2198], "Jeremiah_ch_16.docx": [3670], "Ezekiel_ch_1.docx": [2536]}
-exerci	{"1 Timothy_ch_4.docx": [822]}

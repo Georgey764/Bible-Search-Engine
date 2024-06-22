@@ -1,4 +1,2 @@
 
-belae	{"1 Chronicles_ch_1.docx": [4146, 4212, 4212, 4212]}
-belae	{"1 Chronicles_ch_1.docx": [4146, 4212, 4212]}
 belae	{"1 Chronicles_ch_1.docx": [4146, 4212]}

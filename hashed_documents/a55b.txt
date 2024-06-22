@@ -1,5 +1,2 @@
 
-semm	{"1 Chronicles_ch_7.docx": [4365], "1 Chronicles_ch_8.docx": [844, 844, 844]}
-1as	{"1 Samuel_ch_20.docx": [5], "2 Samuel_ch_12.docx": [5], "Psalms_ch_42.docx": [82], "Proverbs_ch_26.docx": [4]}
-semm	{"1 Chronicles_ch_7.docx": [4365], "1 Chronicles_ch_8.docx": [844, 844]}
 semm	{"1 Chronicles_ch_7.docx": [4365], "1 Chronicles_ch_8.docx": [844]}

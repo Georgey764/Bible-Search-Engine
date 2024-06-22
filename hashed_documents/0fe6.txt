@@ -1,4 +1,2 @@
 
-groan;	{"Job_ch_9.docx": [2550], "Proverbs_ch_28.docx": [2603, 2603, 2603]}
-groan;	{"Job_ch_9.docx": [2550], "Proverbs_ch_28.docx": [2603, 2603]}
 groan;	{"Job_ch_9.docx": [2550], "Proverbs_ch_28.docx": [2603]}

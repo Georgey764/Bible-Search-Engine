@@ -1,5 +1,2 @@
 
 nostr	{"Job_ch_41.docx": [1782]}
-28ch	{"Joshua_ch_15.docx": [4283]}
-nostr	{"Job_ch_41.docx": [1782]}
-nostr	{"Job_ch_41.docx": [1782]}

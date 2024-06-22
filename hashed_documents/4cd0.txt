@@ -1,4 +1,2 @@
 
-atar	{"Numbers_ch_32.docx": [315, 4921, 4921, 4921], "Joshua_ch_16.docx": [507, 681, 507, 681, 507, 681], "1 Chronicles_ch_2.docx": [2439, 4936, 2439, 4936, 2439, 4936], "Nehemiah_ch_8.docx": [2225, 2225, 2225]}
-atar	{"Numbers_ch_32.docx": [315, 4921, 4921], "Joshua_ch_16.docx": [507, 681, 507, 681], "1 Chronicles_ch_2.docx": [2439, 4936, 2439, 4936], "Nehemiah_ch_8.docx": [2225, 2225]}
 atar	{"Numbers_ch_32.docx": [315, 4921], "Joshua_ch_16.docx": [507, 681], "1 Chronicles_ch_2.docx": [2439, 4936], "Nehemiah_ch_8.docx": [2225]}

@@ -1,4 +1,2 @@
 
-while!	{"Isaiah_ch_26.docx": [2667], "Acts_ch_13.docx": [2723, 2723]}
-while!	{"Isaiah_ch_26.docx": [2667], "Acts_ch_13.docx": [2723]}
 while!	{"Isaiah_ch_26.docx": [2667], "Acts_ch_13.docx": [2723]}

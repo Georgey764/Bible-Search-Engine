@@ -1,9 +1,4 @@
 
-shina	{"Genesis_ch_10.docx": [1108], "Genesis_ch_11.docx": [36, 36, 36], "Genesis_ch_14.docx": [14, 1088, 14, 1088, 14, 1088], "Song of Solomon_ch_4.docx": [1177, 1177, 1177], "Daniel_ch_1.docx": [198, 198, 198]}
-dibon	{"Isaiah_ch_15.docx": [145, 1380, 1380, 1380], "Jeremiah_ch_48.docx": [2391, 2851, 2391, 2851, 2391, 2851]}
-dilut	{"2 Corinthians_ch_2.docx": [2503, 2512, 2512]}
-shina	{"Genesis_ch_10.docx": [1108], "Genesis_ch_11.docx": [36, 36], "Genesis_ch_14.docx": [14, 1088, 14, 1088], "Song of Solomon_ch_4.docx": [1177, 1177], "Daniel_ch_1.docx": [198, 198]}
-dibon	{"Isaiah_ch_15.docx": [145, 1380, 1380], "Jeremiah_ch_48.docx": [2391, 2851, 2391, 2851]}
 shina	{"Genesis_ch_10.docx": [1108], "Genesis_ch_11.docx": [36], "Genesis_ch_14.docx": [14, 1088], "Song of Solomon_ch_4.docx": [1177], "Daniel_ch_1.docx": [198]}
 dibon	{"Isaiah_ch_15.docx": [145, 1380], "Jeremiah_ch_48.docx": [2391, 2851]}
 dilut	{"2 Corinthians_ch_2.docx": [2503, 2512]}

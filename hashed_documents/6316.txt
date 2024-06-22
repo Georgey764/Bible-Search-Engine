@@ -1,5 +1,2 @@
 
-isaar	{"Numbers_ch_16.docx": [63], "1 Chronicles_ch_6.docx": [2986, 2986, 2986], "1 Chronicles_ch_23.docx": [1312, 1893, 1312, 1893, 1312, 1893], "1 Chronicles_ch_24.docx": [2383, 2383, 2383], "1 Chronicles_ch_26.docx": [2912, 3764, 2912, 3764, 2912, 3764]}
-isaar	{"Numbers_ch_16.docx": [63], "1 Chronicles_ch_6.docx": [2986, 2986], "1 Chronicles_ch_23.docx": [1312, 1893, 1312, 1893], "1 Chronicles_ch_24.docx": [2383, 2383], "1 Chronicles_ch_26.docx": [2912, 3764, 2912, 3764]}
-63i’m	{"Psalms_ch_119.docx": [5050]}
 isaar	{"Numbers_ch_16.docx": [63], "1 Chronicles_ch_6.docx": [2986], "1 Chronicles_ch_23.docx": [1312, 1893], "1 Chronicles_ch_24.docx": [2383], "1 Chronicles_ch_26.docx": [2912, 3764]}

@@ -1,4 +1,2 @@
 
 rail	{"Psalms_ch_140.docx": [823]}
-rail	{"Psalms_ch_140.docx": [823]}
-rail	{"Psalms_ch_140.docx": [823]}

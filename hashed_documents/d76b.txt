@@ -1,7 +1,3 @@
 
 miscom	{"1 Samuel_ch_20.docx": [3364]}
 near)	{"Joel_ch_2.docx": [178]}
-miscom	{"1 Samuel_ch_20.docx": [3364]}
-near)	{"Joel_ch_2.docx": [178]}
-miscom	{"1 Samuel_ch_20.docx": [3364]}
-near)	{"Joel_ch_2.docx": [178]}

@@ -1,3 +1,2 @@
 
-tarsus	{"Acts_ch_9.docx": [1878, 4591, 4591]}
 tarsus	{"Acts_ch_9.docx": [1878, 4591]}

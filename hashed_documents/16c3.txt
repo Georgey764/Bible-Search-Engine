@@ -1,4 +1,2 @@
 
-maraud	{"Job_ch_16.docx": [875], "Job_ch_19.docx": [1075, 1075, 1075], "Psalms_ch_18.docx": [2820, 2820, 2820]}
-maraud	{"Job_ch_16.docx": [875], "Job_ch_19.docx": [1075, 1075], "Psalms_ch_18.docx": [2820, 2820]}
 maraud	{"Job_ch_16.docx": [875], "Job_ch_19.docx": [1075], "Psalms_ch_18.docx": [2820]}

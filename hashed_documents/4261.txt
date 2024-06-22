@@ -1,6 +1,3 @@
 
  zakch	{"1 Chronicles_ch_8.docx": [1988]}
 too.t	{"1 Corinthians_ch_8.docx": [721]}
- zakch	{"1 Chronicles_ch_8.docx": [1988]}
- zakch	{"1 Chronicles_ch_8.docx": [1988]}
-too.t	{"1 Corinthians_ch_8.docx": [721]}

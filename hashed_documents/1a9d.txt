@@ -1,4 +1,3 @@
 
 zidk	{"Nehemiah_ch_10.docx": [114]}
-zidk	{"Nehemiah_ch_10.docx": [114]}
-zidk	{"Nehemiah_ch_10.docx": [114]}
+gramm	{"Ecclesiastes_ch_12.docx": [2531]}

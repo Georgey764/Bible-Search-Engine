@@ -1,4 +1,2 @@
 
  sel	{"1 Chronicles_ch_6.docx": [4707]}
- sel	{"1 Chronicles_ch_6.docx": [4707]}
- sel	{"1 Chronicles_ch_6.docx": [4707]}

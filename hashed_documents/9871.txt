@@ -1,4 +1,2 @@
 
-in!	{"Exodus_ch_14.docx": [689], "1 Samuel_ch_24.docx": [303, 303, 303], "1 Kings_ch_8.docx": [1682, 1682, 1682], "Esther_ch_6.docx": [872, 872, 872], "John_ch_5.docx": [5571, 5571], "Romans_ch_4.docx": [2883, 2883]}
-in!	{"Exodus_ch_14.docx": [689], "1 Samuel_ch_24.docx": [303, 303], "1 Kings_ch_8.docx": [1682, 1682], "Esther_ch_6.docx": [872, 872], "John_ch_5.docx": [5571], "Romans_ch_4.docx": [2883]}
 in!	{"Exodus_ch_14.docx": [689], "1 Samuel_ch_24.docx": [303], "1 Kings_ch_8.docx": [1682], "Esther_ch_6.docx": [872], "John_ch_5.docx": [5571], "Romans_ch_4.docx": [2883]}

@@ -1,4 +1,2 @@
 
-balada	{"2 Kings_ch_20.docx": [1645, 1648, 1648, 1648], "Isaiah_ch_39.docx": [9, 12, 9, 12, 9, 12]}
-balada	{"2 Kings_ch_20.docx": [1645, 1648, 1648], "Isaiah_ch_39.docx": [9, 12, 9, 12]}
 balada	{"2 Kings_ch_20.docx": [1645, 1648], "Isaiah_ch_39.docx": [9, 12]}

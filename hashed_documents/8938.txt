@@ -1,5 +1,2 @@
 
-profu	{"Genesis_ch_46.docx": [3444], "Genesis_ch_47.docx": [4527, 4527, 4527]}
-profu	{"Genesis_ch_46.docx": [3444], "Genesis_ch_47.docx": [4527, 4527]}
-13‘lo	{"Jeremiah_ch_4.docx": [2395], "Jeremiah_ch_21.docx": [2268], "Amos_ch_4.docx": [3263]}
 profu	{"Genesis_ch_46.docx": [3444], "Genesis_ch_47.docx": [4527]}

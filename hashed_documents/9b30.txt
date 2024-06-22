@@ -1,7 +1,3 @@
 
-unha	{"Genesis_ch_24.docx": [5687], "Deuteronomy_ch_21.docx": [1919, 1919, 1919], "1 Samuel_ch_15.docx": [5525, 5525, 5525], "2 Kings_ch_17.docx": [413, 413, 413], "Nehemiah_ch_2.docx": [234, 1840, 234, 1840, 234, 1840]}
-sain	{"Matthew_ch_27.docx": [5968]}
-unha	{"Genesis_ch_24.docx": [5687], "Deuteronomy_ch_21.docx": [1919, 1919], "1 Samuel_ch_15.docx": [5525, 5525], "2 Kings_ch_17.docx": [413, 413], "Nehemiah_ch_2.docx": [234, 1840, 234, 1840]}
-50he	{"Psalms_ch_78.docx": [4839]}
 unha	{"Genesis_ch_24.docx": [5687], "Deuteronomy_ch_21.docx": [1919], "1 Samuel_ch_15.docx": [5525], "2 Kings_ch_17.docx": [413], "Nehemiah_ch_2.docx": [234, 1840]}
 sain	{"Matthew_ch_27.docx": [5968]}

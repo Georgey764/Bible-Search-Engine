@@ -1,4 +1,2 @@
 
-nimro	{"Genesis_ch_10.docx": [1060, 1082, 1082, 1082], "1 Chronicles_ch_1.docx": [621, 621, 621], "Micah_ch_5.docx": [1726, 1735, 1726, 1735, 1726, 1735]}
-nimro	{"Genesis_ch_10.docx": [1060, 1082, 1082], "1 Chronicles_ch_1.docx": [621, 621], "Micah_ch_5.docx": [1726, 1735, 1726, 1735]}
 nimro	{"Genesis_ch_10.docx": [1060, 1082], "1 Chronicles_ch_1.docx": [621], "Micah_ch_5.docx": [1726, 1735]}

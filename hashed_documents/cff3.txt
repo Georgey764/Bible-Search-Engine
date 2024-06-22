@@ -1,5 +1,2 @@
 
-quive	{"Genesis_ch_27.docx": [237], "Job_ch_30.docx": [1137, 1137, 1137], "Psalms_ch_11.docx": [228, 228, 228], "Psalms_ch_127.docx": [558, 558, 558], "Isaiah_ch_49.docx": [536, 536, 536], "Isaiah_ch_64.docx": [240, 240, 240], "Jeremiah_ch_5.docx": [2850, 2850, 2850], "Jeremiah_ch_51.docx": [1721, 1721, 1721], "Ezekiel_ch_27.docx": [1496, 1496, 1496]}
-quive	{"Genesis_ch_27.docx": [237], "Job_ch_30.docx": [1137, 1137], "Psalms_ch_11.docx": [228, 228], "Psalms_ch_127.docx": [558, 558], "Isaiah_ch_49.docx": [536, 536], "Isaiah_ch_64.docx": [240, 240], "Jeremiah_ch_5.docx": [2850, 2850], "Jeremiah_ch_51.docx": [1721, 1721], "Ezekiel_ch_27.docx": [1496, 1496]}
-12[yet	{"Psalms_ch_105.docx": [928]}
 quive	{"Genesis_ch_27.docx": [237], "Job_ch_30.docx": [1137], "Psalms_ch_11.docx": [228], "Psalms_ch_127.docx": [558], "Isaiah_ch_49.docx": [536], "Isaiah_ch_64.docx": [240], "Jeremiah_ch_5.docx": [2850], "Jeremiah_ch_51.docx": [1721], "Ezekiel_ch_27.docx": [1496]}

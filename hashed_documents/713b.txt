@@ -1,4 +1,2 @@
 
-tort	{"Matthew_ch_10.docx": [4785], "Acts_ch_22.docx": [6393, 6413, 6434, 6393, 6413, 6434], "Hebrews_ch_11.docx": [6811, 6823, 6811, 6823], "2 Peter_ch_2.docx": [1123, 1123], "Revelation_ch_14.docx": [1497, 1795, 1497, 1795], "Revelation_ch_18.docx": [1753, 2736, 1753, 2736], "Revelation_ch_20.docx": [1726, 1726]}
-tort	{"Matthew_ch_10.docx": [4785], "Acts_ch_22.docx": [6393, 6413, 6434], "Hebrews_ch_11.docx": [6811, 6823], "2 Peter_ch_2.docx": [1123], "Revelation_ch_14.docx": [1497, 1795], "Revelation_ch_18.docx": [1753, 2736], "Revelation_ch_20.docx": [1726]}
 tort	{"Matthew_ch_10.docx": [4785], "Acts_ch_22.docx": [6393, 6413, 6434], "Hebrews_ch_11.docx": [6811, 6823], "2 Peter_ch_2.docx": [1123], "Revelation_ch_14.docx": [1497, 1795], "Revelation_ch_18.docx": [1753, 2736], "Revelation_ch_20.docx": [1726]}

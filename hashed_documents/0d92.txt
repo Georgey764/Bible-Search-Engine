@@ -1,4 +1,2 @@
 
-pis	{"Deuteronomy_ch_4.docx": [7228], "Acts_ch_13.docx": [3233, 3233]}
-pis	{"Deuteronomy_ch_4.docx": [7228], "Acts_ch_13.docx": [3233]}
-pis	{"Deuteronomy_ch_4.docx": [7228], "Acts_ch_13.docx": [3233]}
+pis	{"Deuteronomy_ch_4.docx": [7228], "Deuteronomy_ch_34.docx": [22], "Acts_ch_13.docx": [3233]}

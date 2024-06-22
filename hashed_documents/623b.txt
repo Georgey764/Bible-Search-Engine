@@ -1,4 +1,2 @@
 
-that;	{"2 Chronicles_ch_18.docx": [3263], "Isaiah_ch_26.docx": [2707, 2707, 2707]}
-that;	{"2 Chronicles_ch_18.docx": [3263], "Isaiah_ch_26.docx": [2707, 2707]}
 that;	{"2 Chronicles_ch_18.docx": [3263], "Isaiah_ch_26.docx": [2707]}

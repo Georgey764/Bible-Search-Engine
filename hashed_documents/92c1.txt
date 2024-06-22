@@ -1,4 +1,2 @@
 
-expa	{"Genesis_ch_26.docx": [2962], "1 Kings_ch_7.docx": [791, 791, 791], "1 Chronicles_ch_4.docx": [988, 988, 988], "Psalms_ch_150.docx": [169]}
-expa	{"Genesis_ch_26.docx": [2962], "1 Kings_ch_7.docx": [791, 791], "1 Chronicles_ch_4.docx": [988, 988]}
-expa	{"Genesis_ch_26.docx": [2962], "1 Kings_ch_7.docx": [791], "1 Chronicles_ch_4.docx": [988]}
+expa	{"Genesis_ch_26.docx": [2962], "1 Kings_ch_7.docx": [791], "1 Chronicles_ch_4.docx": [988], "Psalms_ch_150.docx": [169]}

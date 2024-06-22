@@ -1,4 +1,0 @@
-
-6yes	{"Job_ch_35.docx": [417], "Psalms_ch_17.docx": [614]}
-8gi	{"Psalms_ch_108.docx": [703]}
-87ye	{"Psalms_ch_119.docx": [7169]}

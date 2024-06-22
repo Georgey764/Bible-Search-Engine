@@ -1,6 +1,2 @@
 
-orches	{"1 Chronicles_ch_15.docx": [2990], "1 Chronicles_ch_16.docx": [420, 420, 420], "1 Chronicles_ch_25.docx": [24, 24, 24]}
-19‘ple	{"2 Samuel_ch_19.docx": [3349], "2 Chronicles_ch_6.docx": [2869], "Daniel_ch_9.docx": [3555]}
-orches	{"1 Chronicles_ch_15.docx": [2990], "1 Chronicles_ch_16.docx": [420, 420], "1 Chronicles_ch_25.docx": [24, 24]}
-55duri	{"Psalms_ch_119.docx": [4363]}
 orches	{"1 Chronicles_ch_15.docx": [2990], "1 Chronicles_ch_16.docx": [420], "1 Chronicles_ch_25.docx": [24]}

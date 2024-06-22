@@ -1,5 +1,2 @@
 
-knife	{"Genesis_ch_22.docx": [865, 1559, 1559, 1559], "Deuteronomy_ch_21.docx": [13, 13, 13], "Ezekiel_ch_5.docx": [416, 416, 416]}
-knife	{"Genesis_ch_22.docx": [865, 1559, 1559], "Deuteronomy_ch_21.docx": [13, 13], "Ezekiel_ch_5.docx": [416, 416]}
-51go	{"Joshua_ch_15.docx": [5621]}
 knife	{"Genesis_ch_22.docx": [865, 1559], "Deuteronomy_ch_21.docx": [13], "Ezekiel_ch_5.docx": [416]}

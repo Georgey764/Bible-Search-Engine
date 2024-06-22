@@ -1,5 +1,2 @@
 
 golada	{"1 Chronicles_ch_1.docx": [4375]}
-53‘	{"Genesis_ch_31.docx": [7651], "Leviticus_ch_13.docx": [7475], "Leviticus_ch_25.docx": [7477], "Numbers_ch_26.docx": [5349], "Deuteronomy_ch_28.docx": [7352], "Jeremiah_ch_51.docx": [8839], "Ezekiel_ch_16.docx": [8743]}
-golada	{"1 Chronicles_ch_1.docx": [4375]}
-golada	{"1 Chronicles_ch_1.docx": [4375]}

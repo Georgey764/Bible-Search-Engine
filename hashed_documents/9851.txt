@@ -1,2 +1,0 @@
-
-31ther	{"Genesis_ch_43.docx": [4331], "Exodus_ch_32.docx": [4623], "Joshua_ch_10.docx": [11487], "1 Kings_ch_20.docx": [5360], "Nehemiah_ch_12.docx": [4203], "Matthew_ch_13.docx": [4070]}

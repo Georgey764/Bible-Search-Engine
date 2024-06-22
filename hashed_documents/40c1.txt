@@ -1,4 +1,2 @@
 
-astaro	{"Deuteronomy_ch_1.docx": [376], "Joshua_ch_12.docx": [5491, 5491, 5491], "1 Samuel_ch_7.docx": [864, 864, 864], "1 Chronicles_ch_6.docx": [6111, 6111, 6111], "1 Chronicles_ch_11.docx": [6355, 6355, 6355]}
-astaro	{"Deuteronomy_ch_1.docx": [376], "Joshua_ch_12.docx": [5491, 5491], "1 Samuel_ch_7.docx": [864, 864], "1 Chronicles_ch_6.docx": [6111, 6111], "1 Chronicles_ch_11.docx": [6355, 6355]}
-astaro	{"Deuteronomy_ch_1.docx": [376], "Joshua_ch_12.docx": [5491], "1 Samuel_ch_7.docx": [864], "1 Chronicles_ch_6.docx": [6111], "1 Chronicles_ch_11.docx": [6355]}
+astaro	{"Deuteronomy_ch_1.docx": [376], "Joshua_ch_12.docx": [5491], "Joshua_ch_24.docx": [5844], "1 Samuel_ch_7.docx": [864], "1 Chronicles_ch_6.docx": [6111], "1 Chronicles_ch_11.docx": [6355]}

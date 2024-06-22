@@ -1,3 +1,0 @@
-
-29up	{"Genesis_ch_10.docx": [3048]}
-13‘g	{"Exodus_ch_23.docx": [1509], "2 Kings_ch_22.docx": [2000], "Esther_ch_4.docx": [2283], "Jeremiah_ch_28.docx": [1793]}

@@ -1,5 +1,2 @@
 
-susa	{"2 Samuel_ch_8.docx": [990], "2 Samuel_ch_20.docx": [4585, 4585, 4585], "1 Kings_ch_11.docx": [6238, 6238, 6238], "Nehemiah_ch_1.docx": [90, 90, 90], "Esther_ch_2.docx": [1722, 1722, 1722], "Esther_ch_4.docx": [940, 2624, 940, 2624, 940, 2624], "Esther_ch_8.docx": [2244, 2481, 2244, 2481, 2244, 2481], "Esther_ch_9.docx": [473, 845, 1127, 1267, 1748, 473, 845, 1127, 1267, 1748, 473, 845, 1127, 1267, 1748], "Luke_ch_8.docx": [233, 233]}
-susa	{"2 Samuel_ch_8.docx": [990], "2 Samuel_ch_20.docx": [4585, 4585], "1 Kings_ch_11.docx": [6238, 6238], "Nehemiah_ch_1.docx": [90, 90], "Esther_ch_2.docx": [1722, 1722], "Esther_ch_4.docx": [940, 2624, 940, 2624], "Esther_ch_8.docx": [2244, 2481, 2244, 2481], "Esther_ch_9.docx": [473, 845, 1127, 1267, 1748, 473, 845, 1127, 1267, 1748], "Luke_ch_8.docx": [233]}
-4‘to	{"Jeremiah_ch_15.docx": [969], "Habakkuk_ch_2.docx": [595]}
 susa	{"2 Samuel_ch_8.docx": [990], "2 Samuel_ch_20.docx": [4585], "1 Kings_ch_11.docx": [6238], "Nehemiah_ch_1.docx": [90], "Esther_ch_2.docx": [1722], "Esther_ch_4.docx": [940, 2624], "Esther_ch_8.docx": [2244, 2481], "Esther_ch_9.docx": [473, 845, 1127, 1267, 1748], "Luke_ch_8.docx": [233]}

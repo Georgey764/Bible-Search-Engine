@@ -1,5 +1,2 @@
 
-out-	{"Exodus_ch_37.docx": [809], "Isaiah_ch_8.docx": [1203, 1203, 1203], "John_ch_20.docx": [387, 387]}
-out-	{"Exodus_ch_37.docx": [809], "Isaiah_ch_8.docx": [1203, 1203], "John_ch_20.docx": [387]}
-1ou	{"Psalms_ch_46.docx": [85]}
 out-	{"Exodus_ch_37.docx": [809], "Isaiah_ch_8.docx": [1203], "John_ch_20.docx": [387]}

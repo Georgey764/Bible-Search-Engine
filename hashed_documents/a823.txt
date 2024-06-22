@@ -1,4 +1,2 @@
 
-wombs	{"Genesis_ch_20.docx": [2721], "Amos_ch_1.docx": [3631, 7016, 3631, 7016, 3631, 7016], "Luke_ch_23.docx": [3420, 3420]}
-wombs	{"Genesis_ch_20.docx": [2721], "Amos_ch_1.docx": [3631, 7016, 3631, 7016], "Luke_ch_23.docx": [3420]}
 wombs	{"Genesis_ch_20.docx": [2721], "Amos_ch_1.docx": [3631, 7016], "Luke_ch_23.docx": [3420]}

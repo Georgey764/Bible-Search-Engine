@@ -1,2 +1,0 @@
-
-25‘i	{"Exodus_ch_22.docx": [3342], "Exodus_ch_23.docx": [3592], "Leviticus_ch_25.docx": [3359], "Leviticus_ch_26.docx": [3165], "1 Samuel_ch_2.docx": [4523], "Job_ch_15.docx": [2263], "Job_ch_24.docx": [2693], "Psalms_ch_89.docx": [2432], "Isaiah_ch_43.docx": [3905], "Isaiah_ch_44.docx": [4349], "Jeremiah_ch_29.docx": [4089], "Ezekiel_ch_30.docx": [3759], "Ezekiel_ch_36.docx": [4618], "Matthew_ch_6.docx": [3346]}

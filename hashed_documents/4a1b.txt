@@ -1,4 +1,2 @@
 
-halt	{"Ezra_ch_4.docx": [4080], "Nehemiah_ch_6.docx": [453, 453, 453], "Job_ch_41.docx": [74, 74, 74]}
-halt	{"Ezra_ch_4.docx": [4080], "Nehemiah_ch_6.docx": [453, 453], "Job_ch_41.docx": [74, 74]}
 halt	{"Ezra_ch_4.docx": [4080], "Nehemiah_ch_6.docx": [453], "Job_ch_41.docx": [74]}

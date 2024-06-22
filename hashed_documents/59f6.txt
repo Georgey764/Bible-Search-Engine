@@ -1,7 +1,3 @@
 
-orpa	{"Ruth_ch_1.docx": [371, 2026, 2026, 2026]}
-pup	{"Psalms_ch_17.docx": [834], "Proverbs_ch_7.docx": [240, 240, 240], "Proverbs_ch_20.docx": [1367, 1367, 1367], "Zechariah_ch_2.docx": [983, 983, 983], "Matthew_ch_15.docx": [2848, 2935, 2848, 2935, 2848, 2935], "Mark_ch_7.docx": [3541, 3663, 3541, 3663]}
-orpa	{"Ruth_ch_1.docx": [371, 2026, 2026]}
-pup	{"Psalms_ch_17.docx": [834], "Proverbs_ch_7.docx": [240, 240], "Proverbs_ch_20.docx": [1367, 1367], "Zechariah_ch_2.docx": [983, 983], "Matthew_ch_15.docx": [2848, 2935, 2848, 2935], "Mark_ch_7.docx": [3541, 3663]}
 orpa	{"Ruth_ch_1.docx": [371, 2026]}
 pup	{"Psalms_ch_17.docx": [834], "Proverbs_ch_7.docx": [240], "Proverbs_ch_20.docx": [1367], "Zechariah_ch_2.docx": [983], "Matthew_ch_15.docx": [2848, 2935], "Mark_ch_7.docx": [3541, 3663]}

@@ -1,4 +1,2 @@
 
-moaned	{"Job_ch_30.docx": [2501], "Isaiah_ch_21.docx": [269, 269, 269], "Jeremiah_ch_31.docx": [3451, 3451, 3451]}
-moaned	{"Job_ch_30.docx": [2501], "Isaiah_ch_21.docx": [269, 269], "Jeremiah_ch_31.docx": [3451, 3451]}
 moaned	{"Job_ch_30.docx": [2501], "Isaiah_ch_21.docx": [269], "Jeremiah_ch_31.docx": [3451]}

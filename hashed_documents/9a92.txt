@@ -1,5 +1,2 @@
 
-wormwo	{"Revelation_ch_8.docx": [1619, 1669, 1669]}
-49brou	{"Numbers_ch_7.docx": [5641]}
-27‘sin	{"Jeremiah_ch_32.docx": [4578]}
 wormwo	{"Revelation_ch_8.docx": [1619, 1669]}

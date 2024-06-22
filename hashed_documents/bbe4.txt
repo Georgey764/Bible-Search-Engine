@@ -1,4 +1,2 @@
 
-gaps	{"Nehemiah_ch_4.docx": [1158], "Psalms_ch_62.docx": [381, 381, 381]}
-gaps	{"Nehemiah_ch_4.docx": [1158], "Psalms_ch_62.docx": [381, 381]}
-gaps	{"Nehemiah_ch_4.docx": [1158], "Psalms_ch_62.docx": [381]}
+gaps	{"2 Samuel_ch_24.docx": [5608], "1 Kings_ch_22.docx": [9405], "Ezra_ch_10.docx": [6793], "Nehemiah_ch_4.docx": [1158], "Psalms_ch_62.docx": [381]}

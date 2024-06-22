@@ -1,2 +1,0 @@
-
-29bu	{"Genesis_ch_38.docx": [4081], "Numbers_ch_11.docx": [4578], "1 Samuel_ch_17.docx": [4373], "2 Samuel_ch_14.docx": [4630], "1 Kings_ch_11.docx": [4162], "Job_ch_36.docx": [3035], "Psalms_ch_37.docx": [2790], "Psalms_ch_104.docx": [2902], "Isaiah_ch_41.docx": [5174]}

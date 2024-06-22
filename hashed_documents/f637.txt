@@ -1,7 +1,3 @@
 
-trick	{"1 Samuel_ch_23.docx": [3249], "2 Samuel_ch_21.docx": [973, 973, 973], "2 Kings_ch_10.docx": [3696, 3696, 3696], "Isaiah_ch_30.docx": [3737, 3737, 3737], "Micah_ch_2.docx": [1872, 1872, 1872], "Luke_ch_20.docx": [2600, 2600], "2 Corinthians_ch_12.docx": [2696, 2696]}
-isowi	{"1 Chronicles_ch_7.docx": [3804]}
-trick	{"1 Samuel_ch_23.docx": [3249], "2 Samuel_ch_21.docx": [973, 973], "2 Kings_ch_10.docx": [3696, 3696], "Isaiah_ch_30.docx": [3737, 3737], "Micah_ch_2.docx": [1872, 1872], "Luke_ch_20.docx": [2600], "2 Corinthians_ch_12.docx": [2696]}
-isowi	{"1 Chronicles_ch_7.docx": [3804]}
-trick	{"1 Samuel_ch_23.docx": [3249], "2 Samuel_ch_21.docx": [973], "2 Kings_ch_10.docx": [3696], "Isaiah_ch_30.docx": [3737], "Micah_ch_2.docx": [1872], "Luke_ch_20.docx": [2600], "2 Corinthians_ch_12.docx": [2696]}
+trick	{"1 Samuel_ch_23.docx": [3249], "2 Samuel_ch_21.docx": [973], "2 Kings_ch_10.docx": [3696], "Ecclesiastes_ch_12.docx": [2465], "Isaiah_ch_30.docx": [3737], "Joel_ch_3.docx": [3753], "Amos_ch_9.docx": [3378], "Micah_ch_2.docx": [1872], "Luke_ch_20.docx": [2600], "2 Corinthians_ch_12.docx": [2696]}
 isowi	{"1 Chronicles_ch_7.docx": [3804]}

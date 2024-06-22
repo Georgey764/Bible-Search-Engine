@@ -1,4 +1,2 @@
 
-swelte	{"Job_ch_30.docx": [2911], "Proverbs_ch_10.docx": [452, 452, 452], "Jeremiah_ch_17.docx": [1310, 1310, 1310], "Jeremiah_ch_36.docx": [5321, 5321, 5321]}
-swelte	{"Job_ch_30.docx": [2911], "Proverbs_ch_10.docx": [452, 452], "Jeremiah_ch_17.docx": [1310, 1310], "Jeremiah_ch_36.docx": [5321, 5321]}
 swelte	{"Job_ch_30.docx": [2911], "Proverbs_ch_10.docx": [452], "Jeremiah_ch_17.docx": [1310], "Jeremiah_ch_36.docx": [5321]}

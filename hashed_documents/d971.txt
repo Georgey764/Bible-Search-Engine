@@ -1,2 +1,0 @@
-
-36bu	{"Judges_ch_11.docx": [8462], "2 Kings_ch_10.docx": [6658], "Psalms_ch_78.docx": [3556], "Proverbs_ch_8.docx": [3367], "Lamentations_ch_3.docx": [2925]}

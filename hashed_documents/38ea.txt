@@ -1,5 +1,2 @@
 
-deson’	{"Genesis_ch_36.docx": [2876], "1 Chronicles_ch_1.docx": [3366, 3511, 3511, 3366, 3511]}
-2he’s	{"Exodus_ch_15.docx": [193], "Psalms_ch_144.docx": [148], "Proverbs_ch_8.docx": [87]}
-deson’	{"1 Chronicles_ch_1.docx": [3366, 3511, 3366, 3511]}
 deson’	{"Genesis_ch_36.docx": [2876], "1 Chronicles_ch_1.docx": [3366, 3511]}

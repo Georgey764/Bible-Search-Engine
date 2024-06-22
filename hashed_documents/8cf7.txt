@@ -1,4 +1,2 @@
 
-gravy	{"Judges_ch_6.docx": [4091, 4360, 4360, 4360], "Isaiah_ch_65.docx": [579, 579, 579]}
-gravy	{"Judges_ch_6.docx": [4091, 4360, 4360], "Isaiah_ch_65.docx": [579, 579]}
 gravy	{"Judges_ch_6.docx": [4091, 4360], "Isaiah_ch_65.docx": [579]}

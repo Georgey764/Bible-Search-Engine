@@ -1,7 +1,3 @@
 
-trappe	{"Judges_ch_15.docx": [495], "Job_ch_30.docx": [2788, 2788, 2788], "Proverbs_ch_6.docx": [2624, 2624, 2624], "Ecclesiastes_ch_9.docx": [2379, 2379, 2379], "Matthew_ch_13.docx": [2606, 2606, 2606], "Matthew_ch_26.docx": [3877, 3877]}
-bean	{"2 Samuel_ch_17.docx": [4592], "Ezekiel_ch_4.docx": [1335, 1335, 1335]}
-trappe	{"Judges_ch_15.docx": [495], "Job_ch_30.docx": [2788, 2788], "Proverbs_ch_6.docx": [2624, 2624], "Ecclesiastes_ch_9.docx": [2379, 2379], "Matthew_ch_13.docx": [2606, 2606], "Matthew_ch_26.docx": [3877]}
-bean	{"2 Samuel_ch_17.docx": [4592], "Ezekiel_ch_4.docx": [1335, 1335]}
 trappe	{"Judges_ch_15.docx": [495], "Job_ch_30.docx": [2788], "Proverbs_ch_6.docx": [2624], "Ecclesiastes_ch_9.docx": [2379], "Matthew_ch_13.docx": [2606], "Matthew_ch_26.docx": [3877]}
 bean	{"2 Samuel_ch_17.docx": [4592], "Ezekiel_ch_4.docx": [1335]}

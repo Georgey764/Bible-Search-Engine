@@ -1,6 +1,2 @@
 
-shammu	{"Nehemiah_ch_11.docx": [2517], "Nehemiah_ch_12.docx": [1582, 1582, 1582]}
-shammu	{"Nehemiah_ch_11.docx": [2517], "Nehemiah_ch_12.docx": [1582, 1582]}
-20don’	{"Proverbs_ch_5.docx": [1737], "Proverbs_ch_23.docx": [1668]}
-27wha	{"Matthew_ch_10.docx": [3426]}
 shammu	{"Nehemiah_ch_11.docx": [2517], "Nehemiah_ch_12.docx": [1582]}

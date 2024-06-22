@@ -1,5 +1,2 @@
 
-buryi	{"Genesis_ch_23.docx": [306, 540, 811, 2343, 540, 811, 2343, 540, 811, 2343], "Numbers_ch_33.docx": [394, 394, 394]}
-buryi	{"Genesis_ch_23.docx": [306, 540, 811, 2343, 540, 811, 2343], "Numbers_ch_33.docx": [394, 394]}
-4du	{"Numbers_ch_6.docx": [163]}
-buryi	{"Genesis_ch_23.docx": [306, 540, 811, 2343], "Numbers_ch_33.docx": [394]}
+buryi	{"Genesis_ch_23.docx": [306, 540, 811, 2343], "Genesis_ch_50.docx": [1722], "Numbers_ch_33.docx": [394]}

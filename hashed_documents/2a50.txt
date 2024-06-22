@@ -1,6 +1,2 @@
 
-pedaij	{"Nehemiah_ch_3.docx": [12318], "Nehemiah_ch_8.docx": [1398, 1398, 1398], "Nehemiah_ch_11.docx": [1266, 1266, 1266]}
-1320	{"Exodus_ch_26.docx": [1298]}
-9when	{"Numbers_ch_33.docx": [1054], "Psalms_ch_71.docx": [870], "Isaiah_ch_58.docx": [1953]}
-pedaij	{"Nehemiah_ch_3.docx": [12318], "Nehemiah_ch_8.docx": [1398, 1398], "Nehemiah_ch_11.docx": [1266, 1266]}
 pedaij	{"Nehemiah_ch_3.docx": [12318], "Nehemiah_ch_8.docx": [1398], "Nehemiah_ch_11.docx": [1266]}

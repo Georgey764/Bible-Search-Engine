@@ -1,5 +1,2 @@
 
-gas	{"Leviticus_ch_21.docx": [416], "Joshua_ch_18.docx": [2422, 2422, 2422]}
-gas	{"Leviticus_ch_21.docx": [416], "Joshua_ch_18.docx": [2422, 2422]}
-21wit	{"Job_ch_8.docx": [1888], "Psalms_ch_33.docx": [1727], "Psalms_ch_55.docx": [2136], "Isaiah_ch_29.docx": [3629]}
 gas	{"Leviticus_ch_21.docx": [416], "Joshua_ch_18.docx": [2422]}

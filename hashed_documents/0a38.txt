@@ -1,4 +1,2 @@
 
-alters	{"Job_ch_5.docx": [1011], "Hosea_ch_8.docx": [1554, 1554, 1554]}
-alters	{"Job_ch_5.docx": [1011], "Hosea_ch_8.docx": [1554, 1554]}
 alters	{"Job_ch_5.docx": [1011], "Hosea_ch_8.docx": [1554]}

@@ -1,5 +1,2 @@
 
-rak	{"Isaiah_ch_65.docx": [947, 1138, 1138, 1138]}
-16with	{"Joshua_ch_2.docx": [2129], "Lamentations_ch_3.docx": [1217]}
-rak	{"Isaiah_ch_65.docx": [947, 1138, 1138]}
 rak	{"Isaiah_ch_65.docx": [947, 1138]}

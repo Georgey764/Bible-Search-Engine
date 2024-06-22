@@ -1,4 +1,2 @@
 
-scru	{"Job_ch_9.docx": [2770], "Isaiah_ch_1.docx": [4027, 4027, 4027], "Isaiah_ch_28.docx": [4085, 4085, 4085], "Jeremiah_ch_30.docx": [1908, 1908, 1908]}
-scru	{"Job_ch_9.docx": [2770], "Isaiah_ch_1.docx": [4027, 4027], "Isaiah_ch_28.docx": [4085, 4085], "Jeremiah_ch_30.docx": [1908, 1908]}
 scru	{"Job_ch_9.docx": [2770], "Isaiah_ch_1.docx": [4027], "Isaiah_ch_28.docx": [4085], "Jeremiah_ch_30.docx": [1908]}

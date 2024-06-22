@@ -1,4 +1,2 @@
 
-zabadi	{"1 Chronicles_ch_8.docx": [1109], "1 Chronicles_ch_26.docx": [238, 238], "1 Chronicles_ch_27.docx": [928, 928, 928]}
-zabadi	{"1 Chronicles_ch_26.docx": [238, 238], "1 Chronicles_ch_27.docx": [928, 928]}
 zabadi	{"1 Chronicles_ch_8.docx": [1109], "1 Chronicles_ch_26.docx": [238], "1 Chronicles_ch_27.docx": [928]}

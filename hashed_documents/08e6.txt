@@ -1,4 +1,2 @@
 
 /3-o	{"Exodus_ch_16.docx": [5167]}
-10‘spe	{"Leviticus_ch_23.docx": [1093], "Numbers_ch_35.docx": [1287], "Isaiah_ch_32.docx": [1348]}
-/3-o	{"Exodus_ch_16.docx": [5167]}

@@ -1,4 +1,2 @@
 
-cots	{"2 Samuel_ch_17.docx": [4496], "Mark_ch_6.docx": [7487, 7487], "Acts_ch_5.docx": [1941, 1941]}
-cots	{"2 Samuel_ch_17.docx": [4496], "Mark_ch_6.docx": [7487], "Acts_ch_5.docx": [1941]}
 cots	{"2 Samuel_ch_17.docx": [4496], "Mark_ch_6.docx": [7487], "Acts_ch_5.docx": [1941]}

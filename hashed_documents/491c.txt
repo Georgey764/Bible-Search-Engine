@@ -1,3 +1,0 @@
-
-21‘f	{"Numbers_ch_14.docx": [3007], "Ruth_ch_1.docx": [3061], "2 Samuel_ch_11.docx": [3037], "2 Samuel_ch_20.docx": [3740], "Job_ch_20.docx": [2068], "Job_ch_37.docx": [1898], "Ecclesiastes_ch_2.docx": [3128], "Isaiah_ch_24.docx": [3330], "Isaiah_ch_28.docx": [3195], "Jeremiah_ch_9.docx": [3742], "Jeremiah_ch_17.docx": [3389], "Jeremiah_ch_27.docx": [3844], "Jeremiah_ch_29.docx": [3176], "Jeremiah_ch_30.docx": [3725], "Jeremiah_ch_48.docx": [2760], "Ezekiel_ch_34.docx": [3632], "Matthew_ch_6.docx": [2794], "Matthew_ch_10.docx": [2485], "Matthew_ch_24.docx": [2183]}
-62‘the	{"Deuteronomy_ch_28.docx": [8746]}

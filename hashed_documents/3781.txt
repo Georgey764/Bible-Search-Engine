@@ -1,7 +1,3 @@
 
 baeer	{"Judges_ch_9.docx": [4444]}
 concoc	{"Isaiah_ch_19.docx": [1893]}
-baeer	{"Judges_ch_9.docx": [4444]}
-concoc	{"Isaiah_ch_19.docx": [1893]}
-baeer	{"Judges_ch_9.docx": [4444]}
-concoc	{"Isaiah_ch_19.docx": [1893]}

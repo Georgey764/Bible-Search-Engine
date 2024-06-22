@@ -1,5 +1,2 @@
 
-theft	{"Leviticus_ch_6.docx": [344], "Matthew_ch_23.docx": [3130, 3130, 3130]}
-theft	{"Leviticus_ch_6.docx": [344], "Matthew_ch_23.docx": [3130, 3130]}
-37‘bec	{"2 Chronicles_ch_20.docx": [6238]}
 theft	{"Leviticus_ch_6.docx": [344], "Matthew_ch_23.docx": [3130]}

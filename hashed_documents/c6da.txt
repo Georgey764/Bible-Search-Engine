@@ -1,6 +1,2 @@
 
 symob	{"Genesis_ch_14.docx": [305]}
-28l	{"Genesis_ch_5.docx": [2019], "Psalms_ch_18.docx": [2742]}
-symob	{"Genesis_ch_14.docx": [305]}
-5salmo	{"Matthew_ch_1.docx": [369]}
-symob	{"Genesis_ch_14.docx": [305]}

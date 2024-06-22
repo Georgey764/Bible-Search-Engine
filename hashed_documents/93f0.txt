@@ -1,2 +1,0 @@
-
-7yes	{"Psalms_ch_22.docx": [670], "Psalms_ch_37.docx": [554], "Psalms_ch_62.docx": [761], "Nahum_ch_2.docx": [1389], "Matthew_ch_24.docx": [705]}

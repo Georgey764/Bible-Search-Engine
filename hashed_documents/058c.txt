@@ -1,4 +1,2 @@
 
-rake	{"Isaiah_ch_65.docx": [947, 1138, 1138, 1138]}
-rake	{"Isaiah_ch_65.docx": [947, 1138, 1138]}
 rake	{"Isaiah_ch_65.docx": [947, 1138]}

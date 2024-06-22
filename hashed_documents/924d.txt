@@ -1,7 +1,3 @@
 
-peninn	{"1 Samuel_ch_1.docx": [269, 271, 617, 829, 271, 617, 829, 271, 617, 829]}
-haba	{"Ezra_ch_2.docx": [2695], "Nehemiah_ch_7.docx": [3818, 3818, 3818], "Jeremiah_ch_35.docx": [303, 303, 303], "Habakkuk_ch_1.docx": [1, 10, 1982, 1, 10, 1982, 1, 10, 1982], "Habakkuk_ch_2.docx": [1, 1, 1], "Acts_ch_13.docx": [7394, 7394], "Romans_ch_1.docx": [1984, 1984], "Galatians_ch_3.docx": [1512, 1512], "Hebrews_ch_10.docx": [5310, 5355, 5426, 5310, 5355, 5426]}
-peninn	{"1 Samuel_ch_1.docx": [269, 271, 617, 829, 271, 617, 829]}
-haba	{"Ezra_ch_2.docx": [2695], "Nehemiah_ch_7.docx": [3818, 3818], "Jeremiah_ch_35.docx": [303, 303], "Habakkuk_ch_1.docx": [1, 10, 1982, 1, 10, 1982], "Habakkuk_ch_2.docx": [1, 1], "Acts_ch_13.docx": [7394], "Romans_ch_1.docx": [1984], "Galatians_ch_3.docx": [1512], "Hebrews_ch_10.docx": [5310, 5355, 5426]}
 peninn	{"1 Samuel_ch_1.docx": [269, 271, 617, 829]}
-haba	{"Ezra_ch_2.docx": [2695], "Nehemiah_ch_7.docx": [3818], "Jeremiah_ch_35.docx": [303], "Habakkuk_ch_1.docx": [1, 10, 1982], "Habakkuk_ch_2.docx": [1], "Acts_ch_13.docx": [7394], "Romans_ch_1.docx": [1984], "Galatians_ch_3.docx": [1512], "Hebrews_ch_10.docx": [5310, 5355, 5426]}
+haba	{"Ezra_ch_2.docx": [2695], "Nehemiah_ch_7.docx": [3818], "Jeremiah_ch_35.docx": [303], "Nahum_ch_3.docx": [4090, 4091, 4101], "Habakkuk_ch_1.docx": [1, 10, 1982], "Habakkuk_ch_2.docx": [1], "Habakkuk_ch_3.docx": [1, 8], "Acts_ch_13.docx": [7394], "Romans_ch_1.docx": [1984], "Galatians_ch_3.docx": [1512], "Hebrews_ch_10.docx": [5310, 5355, 5426]}

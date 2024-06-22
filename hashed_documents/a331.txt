@@ -1,7 +1,3 @@
 
-sub-	{"Esther_ch_1.docx": [2510, 3123, 3123, 3123], "Jeremiah_ch_38.docx": [1907, 1907, 1907]}
-floods	{"Job_ch_14.docx": [2104], "Job_ch_20.docx": [2391, 2391, 2391], "Psalms_ch_18.docx": [554, 1749, 554, 1749, 554, 1749], "Psalms_ch_42.docx": [865, 865, 865], "Isaiah_ch_17.docx": [2016, 2016, 2016], "Matthew_ch_7.docx": [2946, 3100, 2946, 3100, 2946, 3100], "Luke_ch_6.docx": [6303, 6303]}
-sub-	{"Esther_ch_1.docx": [2510, 3123, 3123], "Jeremiah_ch_38.docx": [1907, 1907]}
-floods	{"Job_ch_14.docx": [2104], "Job_ch_20.docx": [2391, 2391], "Psalms_ch_18.docx": [554, 1749, 554, 1749], "Psalms_ch_42.docx": [865, 865], "Isaiah_ch_17.docx": [2016, 2016], "Matthew_ch_7.docx": [2946, 3100, 2946, 3100], "Luke_ch_6.docx": [6303]}
 sub-	{"Esther_ch_1.docx": [2510, 3123], "Jeremiah_ch_38.docx": [1907]}
 floods	{"Job_ch_14.docx": [2104], "Job_ch_20.docx": [2391], "Psalms_ch_18.docx": [554, 1749], "Psalms_ch_42.docx": [865], "Isaiah_ch_17.docx": [2016], "Matthew_ch_7.docx": [2946, 3100], "Luke_ch_6.docx": [6303]}

@@ -1,6 +1,2 @@
 
 meat;	{"Hosea_ch_8.docx": [1781]}
-40he	{"1 Kings_ch_2.docx": [7263]}
-157a	{"Psalms_ch_119.docx": [13221]}
-meat;	{"Hosea_ch_8.docx": [1781]}
-meat;	{"Hosea_ch_8.docx": [1781]}

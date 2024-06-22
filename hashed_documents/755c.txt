@@ -1,4 +1,2 @@
 
-embi	{"Psalms_ch_78.docx": [1748, 5469, 5469, 5469], "Lamentations_ch_1.docx": [4491, 4491, 4491], "Hosea_ch_10.docx": [1096, 1096, 1096]}
-embi	{"Psalms_ch_78.docx": [1748, 5469, 5469], "Lamentations_ch_1.docx": [4491, 4491], "Hosea_ch_10.docx": [1096, 1096]}
 embi	{"Psalms_ch_78.docx": [1748, 5469], "Lamentations_ch_1.docx": [4491], "Hosea_ch_10.docx": [1096]}

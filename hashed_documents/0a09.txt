@@ -1,6 +1,2 @@
 
-34b	{"1 Chronicles_ch_11.docx": [5655]}
-34b	{"1 Chronicles_ch_11.docx": [5655]}
-144	{"Psalms_ch_119.docx": [12091], "Psalms_ch_144.docx": [3]}
-4‘wi	{"Amos_ch_3.docx": [396]}
  34b	{"1 Chronicles_ch_11.docx": [5655]}

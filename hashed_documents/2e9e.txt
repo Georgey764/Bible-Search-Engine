@@ -1,7 +1,3 @@
 
-phag	{"Numbers_ch_1.docx": [1175], "Numbers_ch_7.docx": [8386, 9025, 8386, 9025, 8386, 9025], "Numbers_ch_10.docx": [2846, 2846, 2846], "Joshua_ch_15.docx": [6193, 6193, 6193], "Jeremiah_ch_31.docx": [7452, 7452, 7452]}
-sue	{"2 Samuel_ch_8.docx": [1472], "Matthew_ch_5.docx": [5043, 5043, 5043], "Luke_ch_14.docx": [4099, 4099], "Luke_ch_18.docx": [276, 276]}
-phag	{"Numbers_ch_1.docx": [1175], "Numbers_ch_7.docx": [8386, 9025, 8386, 9025], "Numbers_ch_10.docx": [2846, 2846], "Joshua_ch_15.docx": [6193, 6193], "Jeremiah_ch_31.docx": [7452, 7452]}
-sue	{"2 Samuel_ch_8.docx": [1472], "Matthew_ch_5.docx": [5043, 5043], "Luke_ch_14.docx": [4099], "Luke_ch_18.docx": [276]}
 phag	{"Numbers_ch_1.docx": [1175], "Numbers_ch_7.docx": [8386, 9025], "Numbers_ch_10.docx": [2846], "Joshua_ch_15.docx": [6193], "Jeremiah_ch_31.docx": [7452]}
 sue	{"2 Samuel_ch_8.docx": [1472], "Matthew_ch_5.docx": [5043], "Luke_ch_14.docx": [4099], "Luke_ch_18.docx": [276]}

@@ -1,4 +1,2 @@
 
-nave	{"Job_ch_40.docx": [2993], "Song of Solomon_ch_7.docx": [192, 192, 192], "Isaiah_ch_62.docx": [1138, 1138, 1138], "Ezekiel_ch_38.docx": [2331, 2331, 2331]}
-nave	{"Job_ch_40.docx": [2993], "Song of Solomon_ch_7.docx": [192, 192], "Isaiah_ch_62.docx": [1138, 1138], "Ezekiel_ch_38.docx": [2331, 2331]}
 nave	{"Job_ch_40.docx": [2993], "Song of Solomon_ch_7.docx": [192], "Isaiah_ch_62.docx": [1138], "Ezekiel_ch_38.docx": [2331]}

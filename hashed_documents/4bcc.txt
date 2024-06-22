@@ -1,2 +1,0 @@
-
-45then	{"Numbers_ch_33.docx": [3334], "2 Samuel_ch_22.docx": [4281], "1 Kings_ch_1.docx": [6237], "Lamentations_ch_3.docx": [3768], "Ezekiel_ch_20.docx": [8084]}

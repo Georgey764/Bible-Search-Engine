@@ -1,4 +1,2 @@
 
-thumb	{"Exodus_ch_29.docx": [2168, 2196, 2196, 2196], "Leviticus_ch_8.docx": [2763, 2906, 2763, 2906, 2763, 2906], "Leviticus_ch_14.docx": [2068, 2501, 3921, 4336, 2068, 2501, 3921, 4336, 2068, 2501, 3921, 4336], "Judges_ch_1.docx": [592, 988, 592, 988, 592, 988]}
-thumb	{"Exodus_ch_29.docx": [2168, 2196, 2196], "Leviticus_ch_8.docx": [2763, 2906, 2763, 2906], "Leviticus_ch_14.docx": [2068, 2501, 3921, 4336, 2068, 2501, 3921, 4336], "Judges_ch_1.docx": [592, 988, 592, 988]}
 thumb	{"Exodus_ch_29.docx": [2168, 2196], "Leviticus_ch_8.docx": [2763, 2906], "Leviticus_ch_14.docx": [2068, 2501, 3921, 4336], "Judges_ch_1.docx": [592, 988]}

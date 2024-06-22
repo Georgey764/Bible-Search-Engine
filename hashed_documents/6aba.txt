@@ -1,5 +1,2 @@
 
 unbur	{"Psalms_ch_79.docx": [400]}
-67an	{"Genesis_ch_24.docx": [9810]}
-unbur	{"Psalms_ch_79.docx": [400]}
-unbur	{"Psalms_ch_79.docx": [400]}

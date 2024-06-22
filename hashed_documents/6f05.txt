@@ -1,3 +1,0 @@
-
-49the	{"Numbers_ch_4.docx": [6142], "Numbers_ch_33.docx": [3667], "1 Samuel_ch_17.docx": [7540], "1 Kings_ch_7.docx": [6426], "1 Chronicles_ch_1.docx": [4142], "1 Chronicles_ch_6.docx": [3834], "Psalms_ch_78.docx": [4739], "Matthew_ch_12.docx": [6279]}
-26fro	{"Numbers_ch_34.docx": [2450], "1 Chronicles_ch_12.docx": [3472]}

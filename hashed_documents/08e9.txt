@@ -1,5 +1,2 @@
 
-zamb	{"Numbers_ch_25.docx": [1836], "Joshua_ch_7.docx": [31, 3540, 31, 3540, 31, 3540], "1 Chronicles_ch_2.docx": [600, 600, 600], "1 Chronicles_ch_8.docx": [2428, 2436, 2428, 2436, 2428, 2436], "1 Chronicles_ch_9.docx": [5782, 5790, 5782, 5790, 5782, 5790], "2 Chronicles_ch_29.docx": [2106, 2106, 2106]}
-zamb	{"Numbers_ch_25.docx": [1836], "Joshua_ch_7.docx": [31, 3540, 31, 3540], "1 Chronicles_ch_2.docx": [600, 600], "1 Chronicles_ch_8.docx": [2428, 2436, 2428, 2436], "1 Chronicles_ch_9.docx": [5782, 5790, 5782, 5790], "2 Chronicles_ch_29.docx": [2106, 2106]}
-33‘in	{"Job_ch_21.docx": [2940]}
 zamb	{"Numbers_ch_25.docx": [1836], "Joshua_ch_7.docx": [31, 3540], "1 Chronicles_ch_2.docx": [600], "1 Chronicles_ch_8.docx": [2428, 2436], "1 Chronicles_ch_9.docx": [5782, 5790], "2 Chronicles_ch_29.docx": [2106]}

@@ -1,3 +1,2 @@
 
-hairst	{"1 Timothy_ch_2.docx": [977], "1 Peter_ch_3.docx": [230, 230]}
 hairst	{"1 Timothy_ch_2.docx": [977], "1 Peter_ch_3.docx": [230]}

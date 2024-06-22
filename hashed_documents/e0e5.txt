@@ -1,4 +1,2 @@
 
-azarya	{"1 Chronicles_ch_6.docx": [578, 607, 607, 607]}
-azarya	{"1 Chronicles_ch_6.docx": [578, 607, 607]}
 azarya	{"1 Chronicles_ch_6.docx": [578, 607]}

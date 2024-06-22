@@ -1,8 +1,3 @@
 
 unni	{"Nehemiah_ch_12.docx": [640]}
 mazur	{"Job_ch_38.docx": [2995]}
-49‘je	{"Deuteronomy_ch_28.docx": [6754]}
-unni	{"Nehemiah_ch_12.docx": [640]}
-mazur	{"Job_ch_38.docx": [2995]}
-unni	{"Nehemiah_ch_12.docx": [640]}
-mazur	{"Job_ch_38.docx": [2995]}

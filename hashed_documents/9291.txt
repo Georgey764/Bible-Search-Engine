@@ -1,6 +1,2 @@
 
-hand-m	{"Ezekiel_ch_46.docx": [941], "Acts_ch_19.docx": [7279, 7279]}
-19it’	{"Job_ch_3.docx": [1817], "Proverbs_ch_16.docx": [1989], "Proverbs_ch_21.docx": [1847]}
-94beca	{"Psalms_ch_119.docx": [7826]}
-hand-m	{"Ezekiel_ch_46.docx": [941], "Acts_ch_19.docx": [7279]}
-hand-m	{"Ezekiel_ch_46.docx": [941], "Acts_ch_19.docx": [7279]}
+hand-m	{"Ezekiel_ch_46.docx": [941], "Hosea_ch_14.docx": [465], "Acts_ch_19.docx": [7279]}

@@ -1,6 +1,2 @@
 
-incor	{"Jeremiah_ch_27.docx": [35], "Romans_ch_1.docx": [2716, 2716], "Romans_ch_2.docx": [949, 949], "1 Corinthians_ch_15.docx": [5989, 6183, 6377, 5989, 6183, 6377], "1 Timothy_ch_1.docx": [2519, 2519], "1 Peter_ch_1.docx": [2576, 2576]}
-2eac	{"Psalms_ch_12.docx": [175], "Isaiah_ch_32.docx": [119]}
-40your	{"Psalms_ch_119.docx": [3116]}
-incor	{"Jeremiah_ch_27.docx": [35], "Romans_ch_1.docx": [2716], "Romans_ch_2.docx": [949], "1 Corinthians_ch_15.docx": [5989, 6183, 6377], "1 Timothy_ch_1.docx": [2519], "1 Peter_ch_1.docx": [2576]}
-incor	{"Jeremiah_ch_27.docx": [35], "Romans_ch_1.docx": [2716], "Romans_ch_2.docx": [949], "1 Corinthians_ch_15.docx": [5989, 6183, 6377], "1 Timothy_ch_1.docx": [2519], "1 Peter_ch_1.docx": [2576]}
+incor	{"Esther_ch_10.docx": [1831], "Song of Solomon_ch_8.docx": [4381], "Isaiah_ch_66.docx": [7527], "Jeremiah_ch_27.docx": [35], "Lamentations_ch_5.docx": [4557], "Daniel_ch_12.docx": [6222], "Hosea_ch_14.docx": [3777], "Joel_ch_3.docx": [6893], "Jonah_ch_4.docx": [3876], "Micah_ch_7.docx": [6745], "Nahum_ch_3.docx": [5953], "Habakkuk_ch_3.docx": [5593], "Zephaniah_ch_3.docx": [6678], "Haggai_ch_2.docx": [7000], "Romans_ch_1.docx": [2716], "Romans_ch_2.docx": [949], "1 Corinthians_ch_15.docx": [5989, 6183, 6377], "1 Timothy_ch_1.docx": [2519], "1 Peter_ch_1.docx": [2576]}

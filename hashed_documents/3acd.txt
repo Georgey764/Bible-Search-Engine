@@ -1,5 +1,2 @@
 
 kabas	{"1 Chronicles_ch_11.docx": [4244]}
-kabas	{"1 Chronicles_ch_11.docx": [4244]}
-19j	{"Psalms_ch_102.docx": [1662], "Psalms_ch_103.docx": [1616]}
-kabas	{"1 Chronicles_ch_11.docx": [4244]}

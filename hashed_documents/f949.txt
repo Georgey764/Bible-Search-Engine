@@ -1,4 +1,2 @@
 
-comr	{"Judges_ch_7.docx": [3260, 3520, 3520, 3520], "Proverbs_ch_11.docx": [1283, 1283, 1283], "Jeremiah_ch_46.docx": [2530, 2530, 2530]}
-comr	{"Judges_ch_7.docx": [3260, 3520, 3520], "Proverbs_ch_11.docx": [1283, 1283], "Jeremiah_ch_46.docx": [2530, 2530]}
 comr	{"Judges_ch_7.docx": [3260, 3520], "Proverbs_ch_11.docx": [1283], "Jeremiah_ch_46.docx": [2530]}

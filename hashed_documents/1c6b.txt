@@ -1,8 +1,3 @@
 
 gop	{"1 Chronicles_ch_4.docx": [1503]}
 fond!	{"Hosea_ch_3.docx": [222]}
-39‘t	{"Genesis_ch_24.docx": [5652], "Exodus_ch_28.docx": [5032], "Numbers_ch_15.docx": [4947], "Ezekiel_ch_23.docx": [6429], "Matthew_ch_22.docx": [4231]}
-gop	{"1 Chronicles_ch_4.docx": [1503]}
-fond!	{"Hosea_ch_3.docx": [222]}
-gop	{"1 Chronicles_ch_4.docx": [1503]}
-fond!	{"Hosea_ch_3.docx": [222]}

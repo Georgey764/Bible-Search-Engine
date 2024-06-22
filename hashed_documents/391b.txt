@@ -1,2 +1,0 @@
-
-3fro	{"Joshua_ch_13.docx": [295], "1 Chronicles_ch_27.docx": [315], "Ezra_ch_8.docx": [307], "Psalms_ch_43.docx": [260], "Psalms_ch_57.docx": [441], "Psalms_ch_69.docx": [308], "Psalms_ch_91.docx": [234], "Psalms_ch_107.docx": [197], "Psalms_ch_113.docx": [170], "Proverbs_ch_14.docx": [208]}

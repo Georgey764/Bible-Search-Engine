@@ -1,4 +1,2 @@
 
-phras	{"Psalms_ch_136.docx": [48, 80, 80, 80], "Romans_ch_13.docx": [1463, 1463]}
-phras	{"Psalms_ch_136.docx": [48, 80, 80], "Romans_ch_13.docx": [1463]}
-phras	{"Psalms_ch_136.docx": [48, 80], "Romans_ch_13.docx": [1463]}
+phras	{"Deuteronomy_ch_34.docx": [2270], "Ezra_ch_10.docx": [6311], "Esther_ch_10.docx": [2184], "Psalms_ch_136.docx": [48, 80], "Romans_ch_13.docx": [1463]}

@@ -1,4 +1,2 @@
 
-table!	{"1 Samuel_ch_20.docx": [4391], "2 Samuel_ch_19.docx": [4729, 4729, 4729], "Daniel_ch_1.docx": [2234, 2234, 2234], "Luke_ch_22.docx": [2150, 2150]}
-table!	{"1 Samuel_ch_20.docx": [4391], "2 Samuel_ch_19.docx": [4729, 4729], "Daniel_ch_1.docx": [2234, 2234], "Luke_ch_22.docx": [2150]}
 table!	{"1 Samuel_ch_20.docx": [4391], "2 Samuel_ch_19.docx": [4729], "Daniel_ch_1.docx": [2234], "Luke_ch_22.docx": [2150]}

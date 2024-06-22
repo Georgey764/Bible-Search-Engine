@@ -1,5 +1,2 @@
 
-jechel	{"2 Kings_ch_15.docx": [52], "2 Chronicles_ch_26.docx": [221, 221, 221]}
-4‘jeho	{"Deuteronomy_ch_31.docx": [418], "Psalms_ch_39.docx": [412], "Isaiah_ch_50.docx": [942], "Jeremiah_ch_29.docx": [632]}
-jechel	{"2 Kings_ch_15.docx": [52], "2 Chronicles_ch_26.docx": [221, 221]}
 jechel	{"2 Kings_ch_15.docx": [52], "2 Chronicles_ch_26.docx": [221]}

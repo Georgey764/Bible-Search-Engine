@@ -1,4 +1,2 @@
 
-float	{"2 Kings_ch_6.docx": [697], "Job_ch_41.docx": [535, 535, 535], "Acts_ch_27.docx": [5928, 5928]}
-float	{"2 Kings_ch_6.docx": [697], "Job_ch_41.docx": [535, 535], "Acts_ch_27.docx": [5928]}
 float	{"2 Kings_ch_6.docx": [697], "Job_ch_41.docx": [535], "Acts_ch_27.docx": [5928]}

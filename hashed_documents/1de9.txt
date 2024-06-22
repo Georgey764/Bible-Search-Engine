@@ -1,10 +1,4 @@
 
-samai	{"2 Samuel_ch_23.docx": [1891, 4257, 4257], "1 Chronicles_ch_2.docx": [2639, 2663, 3949, 3951, 2663, 3949, 3951, 2639, 2663, 3949, 3951], "1 Chronicles_ch_8.docx": [2014, 2014, 2014], "1 Chronicles_ch_9.docx": [1960, 1960, 1960], "1 Chronicles_ch_24.docx": [926, 926, 926], "1 Chronicles_ch_26.docx": [401, 616, 728, 401, 616, 401, 616, 728], "1 Chronicles_ch_27.docx": [2486, 2486, 2486], "2 Chronicles_ch_29.docx": [2288, 2288, 2288], "2 Chronicles_ch_35.docx": [1707, 1707, 1707]}
-estima	{"1 Chronicles_ch_22.docx": [2352]}
-reader	{"Ezekiel_ch_41.docx": [1323], "Matthew_ch_24.docx": [1630, 1630, 1630], "Mark_ch_13.docx": [1832, 1832]}
-samai	{"1 Chronicles_ch_2.docx": [2639, 2663, 3949, 3951, 2639, 2663, 3949, 3951], "1 Chronicles_ch_8.docx": [2014, 2014], "1 Chronicles_ch_9.docx": [1960, 1960], "1 Chronicles_ch_24.docx": [926, 926], "1 Chronicles_ch_26.docx": [401, 616, 401, 616, 728], "1 Chronicles_ch_27.docx": [2486, 2486], "2 Chronicles_ch_29.docx": [2288, 2288], "2 Chronicles_ch_35.docx": [1707, 1707], "2 Samuel_ch_23.docx": [4257]}
-estima	{"1 Chronicles_ch_22.docx": [2352]}
-reader	{"Ezekiel_ch_41.docx": [1323], "Matthew_ch_24.docx": [1630, 1630], "Mark_ch_13.docx": [1832]}
 samai	{"2 Samuel_ch_23.docx": [1891, 4257], "1 Chronicles_ch_2.docx": [2639, 2663, 3949, 3951], "1 Chronicles_ch_8.docx": [2014], "1 Chronicles_ch_9.docx": [1960], "1 Chronicles_ch_24.docx": [926], "1 Chronicles_ch_26.docx": [401, 616, 728], "1 Chronicles_ch_27.docx": [2486], "2 Chronicles_ch_29.docx": [2288], "2 Chronicles_ch_35.docx": [1707]}
-estima	{"1 Chronicles_ch_22.docx": [2352]}
-reader	{"Ezekiel_ch_41.docx": [1323], "Matthew_ch_24.docx": [1630], "Mark_ch_13.docx": [1832]}
+estima	{"2 Kings_ch_25.docx": [2052], "1 Chronicles_ch_22.docx": [2352], "Joel_ch_3.docx": [5119]}
+reader	{"Nehemiah_ch_13.docx": [6207], "Ecclesiastes_ch_12.docx": [2522], "Ezekiel_ch_41.docx": [1323], "Ezekiel_ch_48.docx": [7196], "Daniel_ch_12.docx": [3555], "Malachi_ch_4.docx": [2819, 3076], "Matthew_ch_24.docx": [1630], "Matthew_ch_28.docx": [3752, 4009], "Mark_ch_13.docx": [1832], "Mark_ch_16.docx": [3099, 3356]}

@@ -1,5 +1,2 @@
 
-pathru	{"Genesis_ch_10.docx": [1683], "1 Chronicles_ch_1.docx": [1006, 1006]}
-pathru	{"Genesis_ch_10.docx": [1683], "1 Chronicles_ch_1.docx": [1006]}
-8isn’t	{"Job_ch_13.docx": [645]}
 pathru	{"Genesis_ch_10.docx": [1683], "1 Chronicles_ch_1.docx": [1006]}

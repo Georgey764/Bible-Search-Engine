@@ -1,4 +1,2 @@
 
-jeglom	{"Genesis_ch_36.docx": [346, 1579, 2165, 1579, 2165, 1579, 2165]}
-jeglom	{"Genesis_ch_36.docx": [346, 1579, 2165, 1579, 2165]}
 jeglom	{"Genesis_ch_36.docx": [346, 1579, 2165]}

@@ -1,4 +1,2 @@
 
 childb	{"Galatians_ch_4.docx": [2209]}
-8wit	{"Joshua_ch_22.docx": [975], "Psalms_ch_10.docx": [864], "Isaiah_ch_2.docx": [1214]}
-childb	{"Galatians_ch_4.docx": [2209]}

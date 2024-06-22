@@ -1,4 +1,2 @@
 
-bites	{"Genesis_ch_49.docx": [2091], "Ecclesiastes_ch_10.docx": [1131, 1131, 1131]}
-bites	{"Genesis_ch_49.docx": [2091], "Ecclesiastes_ch_10.docx": [1131, 1131]}
 bites	{"Genesis_ch_49.docx": [2091], "Ecclesiastes_ch_10.docx": [1131]}

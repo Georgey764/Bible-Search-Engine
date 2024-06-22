@@ -1,4 +1,2 @@
 
-moi	{"Jeremiah_ch_17.docx": [1272], "Luke_ch_23.docx": [3743, 3743]}
-moi	{"Jeremiah_ch_17.docx": [1272], "Luke_ch_23.docx": [3743]}
 moi	{"Jeremiah_ch_17.docx": [1272], "Luke_ch_23.docx": [3743]}

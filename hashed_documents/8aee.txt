@@ -1,5 +1,2 @@
 
 squan	{"Luke_ch_15.docx": [1611]}
-180,00	{"2 Chronicles_ch_11.docx": [20], "2 Chronicles_ch_17.docx": [2321]}
-8isr	{"Psalms_ch_130.docx": [616]}
-squan	{"Luke_ch_15.docx": [1611]}

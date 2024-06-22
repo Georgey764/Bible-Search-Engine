@@ -1,4 +1,3 @@
 
 delan	{"Joshua_ch_17.docx": [1095]}
-delan	{"Joshua_ch_17.docx": [1095]}
-delan	{"Joshua_ch_17.docx": [1095]}
+ampl	{"Romans_ch_16.docx": [1249]}

@@ -1,4 +1,2 @@
 
-fan	{"Zechariah_ch_10.docx": [119], "Galatians_ch_1.docx": [1611, 1611], "1 Timothy_ch_2.docx": [976, 986, 976, 986], "1 Peter_ch_3.docx": [229, 229]}
-fan	{"Zechariah_ch_10.docx": [119], "Galatians_ch_1.docx": [1611], "1 Timothy_ch_2.docx": [976, 986], "1 Peter_ch_3.docx": [229]}
 fan	{"Zechariah_ch_10.docx": [119], "Galatians_ch_1.docx": [1611], "1 Timothy_ch_2.docx": [976, 986], "1 Peter_ch_3.docx": [229]}

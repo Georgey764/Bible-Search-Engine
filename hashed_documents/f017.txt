@@ -1,4 +1,2 @@
 
-curd	{"Job_ch_10.docx": [963], "Psalms_ch_119.docx": [5648, 5648, 5648]}
-curd	{"Job_ch_10.docx": [963], "Psalms_ch_119.docx": [5648, 5648]}
 curd	{"Job_ch_10.docx": [963], "Psalms_ch_119.docx": [5648]}

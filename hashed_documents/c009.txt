@@ -1,2 +1,0 @@
-
-25‘i’	{"Leviticus_ch_26.docx": [3165], "Psalms_ch_89.docx": [2432], "Isaiah_ch_44.docx": [4349], "Jeremiah_ch_29.docx": [4089], "Ezekiel_ch_30.docx": [3759], "Ezekiel_ch_36.docx": [4618], "Matthew_ch_6.docx": [3346]}

@@ -1,4 +1,2 @@
 
-cool	{"2 Samuel_ch_17.docx": [2918], "2 Kings_ch_19.docx": [4098, 4098, 4098], "Jeremiah_ch_6.docx": [925, 971, 925, 971, 925, 971], "Luke_ch_16.docx": [3666, 3666]}
-cool	{"2 Samuel_ch_17.docx": [2918], "2 Kings_ch_19.docx": [4098, 4098], "Jeremiah_ch_6.docx": [925, 971, 925, 971], "Luke_ch_16.docx": [3666]}
 cool	{"2 Samuel_ch_17.docx": [2918], "2 Kings_ch_19.docx": [4098], "Jeremiah_ch_6.docx": [925, 971], "Luke_ch_16.docx": [3666]}

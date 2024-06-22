@@ -1,4 +1,2 @@
 
-chao	{"Psalms_ch_94.docx": [1755], "Micah_ch_1.docx": [2547, 2547, 2547]}
-chao	{"Psalms_ch_94.docx": [1755], "Micah_ch_1.docx": [2547, 2547]}
-chao	{"Psalms_ch_94.docx": [1755], "Micah_ch_1.docx": [2547]}
+chao	{"Psalms_ch_94.docx": [1755], "Micah_ch_1.docx": [2547], "Zechariah_ch_14.docx": [625]}

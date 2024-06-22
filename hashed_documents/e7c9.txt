@@ -1,4 +1,2 @@
 
-thaema	{"Genesis_ch_25.docx": [1471], "Genesis_ch_36.docx": [1262, 1663, 3534, 4366, 1262, 1663, 3534, 4366, 1262, 1663, 3534, 4366]}
-thaema	{"Genesis_ch_25.docx": [1471], "Genesis_ch_36.docx": [1262, 1663, 3534, 4366, 1262, 1663, 3534, 4366]}
 thaema	{"Genesis_ch_25.docx": [1471], "Genesis_ch_36.docx": [1262, 1663, 3534, 4366]}

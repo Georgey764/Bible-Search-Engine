@@ -1,4 +1,2 @@
 
-over;	{"Job_ch_29.docx": [1213], "Jeremiah_ch_34.docx": [463, 463, 463], "Jeremiah_ch_38.docx": [481, 481, 481]}
-over;	{"Job_ch_29.docx": [1213], "Jeremiah_ch_34.docx": [463, 463], "Jeremiah_ch_38.docx": [481, 481]}
 over;	{"Job_ch_29.docx": [1213], "Jeremiah_ch_34.docx": [463], "Jeremiah_ch_38.docx": [481]}

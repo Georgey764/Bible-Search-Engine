@@ -1,5 +1,2 @@
 
-harsha	{"Ezra_ch_2.docx": [2098], "Nehemiah_ch_7.docx": [3165, 3165, 3165]}
-harsha	{"Ezra_ch_2.docx": [2098], "Nehemiah_ch_7.docx": [3165, 3165]}
-33‘j	{"Jeremiah_ch_50.docx": [6065]}
 harsha	{"Ezra_ch_2.docx": [2098], "Nehemiah_ch_7.docx": [3165]}

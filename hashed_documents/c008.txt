@@ -1,5 +1,2 @@
 
-exas	{"Judges_ch_16.docx": [2858], "2 Kings_ch_2.docx": [2818, 2818, 2818]}
-exas	{"Judges_ch_16.docx": [2858], "2 Kings_ch_2.docx": [2818, 2818]}
-21‘ar	{"Ezekiel_ch_27.docx": [3018]}
 exas	{"Judges_ch_16.docx": [2858], "2 Kings_ch_2.docx": [2818]}

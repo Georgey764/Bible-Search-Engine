@@ -1,4 +1,2 @@
 
-topi	{"1 Kings_ch_9.docx": [1253], "Job_ch_30.docx": [1018, 1018, 1018], "2 Timothy_ch_2.docx": [2028, 2028]}
-topi	{"1 Kings_ch_9.docx": [1253], "Job_ch_30.docx": [1018, 1018], "2 Timothy_ch_2.docx": [2028]}
-topi	{"1 Kings_ch_9.docx": [1253], "Job_ch_30.docx": [1018], "2 Timothy_ch_2.docx": [2028]}
+topi	{"Genesis_ch_50.docx": [4354], "Exodus_ch_40.docx": [4581], "Leviticus_ch_27.docx": [5291], "Numbers_ch_36.docx": [2976], "1 Kings_ch_9.docx": [1253], "Job_ch_30.docx": [1018], "2 Timothy_ch_2.docx": [2028]}

@@ -1,4 +1,2 @@
 
-grey	{"Leviticus_ch_19.docx": [4274], "Judges_ch_8.docx": [6268, 6294, 6321, 6268, 6294, 6321, 6268, 6294, 6321], "1 Kings_ch_2.docx": [943, 1673, 943, 1673, 943, 1673], "Psalms_ch_71.docx": [1651, 1651, 1651], "Hosea_ch_7.docx": [1568, 1568, 1568]}
-grey	{"Leviticus_ch_19.docx": [4274], "Judges_ch_8.docx": [6268, 6294, 6321, 6268, 6294, 6321], "1 Kings_ch_2.docx": [943, 1673, 943, 1673], "Psalms_ch_71.docx": [1651, 1651], "Hosea_ch_7.docx": [1568, 1568]}
-grey	{"Leviticus_ch_19.docx": [4274], "Judges_ch_8.docx": [6268, 6294, 6321], "1 Kings_ch_2.docx": [943, 1673], "Psalms_ch_71.docx": [1651], "Hosea_ch_7.docx": [1568]}
+grey	{"Leviticus_ch_19.docx": [4274], "Judges_ch_8.docx": [6268, 6294, 6321], "Ruth_ch_4.docx": [3029], "1 Kings_ch_2.docx": [943, 1673], "Psalms_ch_71.docx": [1651], "Hosea_ch_7.docx": [1568]}

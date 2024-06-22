@@ -1,5 +1,2 @@
 
-gigant	{"Genesis_ch_10.docx": [1071, 1085, 1085, 1085]}
-gigant	{"Genesis_ch_10.docx": [1071, 1085, 1085]}
-30‘bab	{"Jeremiah_ch_51.docx": [4944]}
 gigant	{"Genesis_ch_10.docx": [1071, 1085]}

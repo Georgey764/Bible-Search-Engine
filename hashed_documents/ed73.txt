@@ -1,5 +1,2 @@
 
-bite	{"Genesis_ch_49.docx": [2091], "Judges_ch_19.docx": [754, 754, 754], "Psalms_ch_78.docx": [4403, 4403, 4403], "Proverbs_ch_23.docx": [2976, 2976, 2976], "Ecclesiastes_ch_10.docx": [1131, 1131, 1131], "Jeremiah_ch_8.docx": [3415, 3415, 3415], "Habakkuk_ch_2.docx": [1220, 1220, 1220], "Acts_ch_23.docx": [2568, 2568]}
-bite	{"Genesis_ch_49.docx": [2091], "Judges_ch_19.docx": [754, 754], "Psalms_ch_78.docx": [4403, 4403], "Proverbs_ch_23.docx": [2976, 2976], "Ecclesiastes_ch_10.docx": [1131, 1131], "Jeremiah_ch_8.docx": [3415, 3415], "Habakkuk_ch_2.docx": [1220, 1220], "Acts_ch_23.docx": [2568]}
-19alth	{"Psalms_ch_34.docx": [1605]}
-bite	{"Genesis_ch_49.docx": [2091], "Judges_ch_19.docx": [754], "Psalms_ch_78.docx": [4403], "Proverbs_ch_23.docx": [2976], "Ecclesiastes_ch_10.docx": [1131], "Jeremiah_ch_8.docx": [3415], "Habakkuk_ch_2.docx": [1220], "Acts_ch_23.docx": [2568]}
+bite	{"Genesis_ch_49.docx": [2091], "Judges_ch_19.docx": [754], "Psalms_ch_78.docx": [4403], "Proverbs_ch_23.docx": [2976], "Ecclesiastes_ch_10.docx": [1131], "Jeremiah_ch_8.docx": [3415], "Amos_ch_9.docx": [792], "Habakkuk_ch_2.docx": [1220], "Acts_ch_23.docx": [2568], "2 Thessalonians_ch_3.docx": [1377]}

@@ -1,4 +1,2 @@
 
-strif	{"Job_ch_11.docx": [1928], "Proverbs_ch_17.docx": [1914, 1914, 1914], "1 Corinthians_ch_11.docx": [1983, 1983]}
-strif	{"Job_ch_11.docx": [1928], "Proverbs_ch_17.docx": [1914, 1914], "1 Corinthians_ch_11.docx": [1983]}
 strif	{"Job_ch_11.docx": [1928], "Proverbs_ch_17.docx": [1914], "1 Corinthians_ch_11.docx": [1983]}

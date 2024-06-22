@@ -1,5 +1,2 @@
 
-kenite	{"Numbers_ch_24.docx": [2762], "Joshua_ch_14.docx": [651, 651, 651], "Judges_ch_1.docx": [2883, 2896, 2913, 2949, 2986, 2883, 2896, 2913, 2949, 2986, 2883, 2896, 2913, 2949, 2986], "Judges_ch_4.docx": [6461, 6461, 6461], "Judges_ch_5.docx": [3499, 3499, 3499], "1 Samuel_ch_30.docx": [4479, 4479, 4479]}
-14[s	{"Genesis_ch_16.docx": [2145]}
-kenite	{"Numbers_ch_24.docx": [2762], "Joshua_ch_14.docx": [651, 651], "Judges_ch_1.docx": [2883, 2896, 2913, 2949, 2986, 2883, 2896, 2913, 2949, 2986], "Judges_ch_4.docx": [6461, 6461], "Judges_ch_5.docx": [3499, 3499], "1 Samuel_ch_30.docx": [4479, 4479]}
 kenite	{"Numbers_ch_24.docx": [2762], "Joshua_ch_14.docx": [651], "Judges_ch_1.docx": [2883, 2896, 2913, 2949, 2986], "Judges_ch_4.docx": [6461], "Judges_ch_5.docx": [3499], "1 Samuel_ch_30.docx": [4479]}

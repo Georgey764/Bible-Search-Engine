@@ -1,2 +1,0 @@
-
-5‘h	{"Leviticus_ch_5.docx": [729], "Deuteronomy_ch_33.docx": [531], "Joshua_ch_22.docx": [615], "1 Samuel_ch_19.docx": [724], "Job_ch_22.docx": [365], "Jeremiah_ch_19.docx": [791], "Ezekiel_ch_17.docx": [510], "Matthew_ch_7.docx": [468], "Matthew_ch_22.docx": [553]}

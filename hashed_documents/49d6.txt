@@ -1,6 +1,3 @@
 
-spari	{"Job_ch_37.docx": [1180], "Proverbs_ch_25.docx": [1636, 1636]}
-supera	{"Romans_ch_5.docx": [3056]}
-spari	{"Proverbs_ch_25.docx": [1636, 1636]}
 spari	{"Job_ch_37.docx": [1180], "Proverbs_ch_25.docx": [1636]}
 supera	{"Romans_ch_5.docx": [3056]}

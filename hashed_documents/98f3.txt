@@ -1,4 +1,2 @@
 
-widowe	{"Leviticus_ch_22.docx": [1695], "Isaiah_ch_47.docx": [1595, 1595, 1595], "Isaiah_ch_49.docx": [4513, 4513, 4513]}
-widowe	{"Leviticus_ch_22.docx": [1695], "Isaiah_ch_47.docx": [1595, 1595], "Isaiah_ch_49.docx": [4513, 4513]}
 widowe	{"Leviticus_ch_22.docx": [1695], "Isaiah_ch_47.docx": [1595], "Isaiah_ch_49.docx": [4513]}

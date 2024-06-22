@@ -1,5 +1,2 @@
 
 mosoat	{"2 Kings_ch_23.docx": [3241]}
-9‘i’l	{"Genesis_ch_43.docx": [962], "Ezekiel_ch_35.docx": [1076], "Amos_ch_7.docx": [1454]}
-mosoat	{"2 Kings_ch_23.docx": [3241]}
-mosoat	{"2 Kings_ch_23.docx": [3241]}

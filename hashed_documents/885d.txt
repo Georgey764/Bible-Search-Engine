@@ -1,4 +1,2 @@
 
-joinin	{"Numbers_ch_27.docx": [403], "2 Corinthians_ch_6.docx": [1611, 1611]}
-joinin	{"Numbers_ch_27.docx": [403], "2 Corinthians_ch_6.docx": [1611]}
 joinin	{"Numbers_ch_27.docx": [403], "2 Corinthians_ch_6.docx": [1611]}

@@ -1,3 +1,0 @@
-
-19‘fo	{"Leviticus_ch_14.docx": [2915], "1 Samuel_ch_24.docx": [2864], "2 Samuel_ch_16.docx": [2839], "Ecclesiastes_ch_5.docx": [2802], "Jeremiah_ch_27.docx": [3463], "Jeremiah_ch_29.docx": [2826], "Lamentations_ch_4.docx": [3109]}
-20wr	{"Proverbs_ch_22.docx": [2080]}

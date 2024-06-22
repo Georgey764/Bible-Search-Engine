@@ -1,6 +1,3 @@
 
-unan	{"Exodus_ch_19.docx": [908], "Exodus_ch_24.docx": [349, 349, 349], "Acts_ch_15.docx": [3858, 3883, 3909, 5794, 3858, 3883, 3909, 5794]}
-you.	{"Ephesians_ch_4.docx": [1553, 1580, 1580]}
-unan	{"Exodus_ch_19.docx": [908], "Exodus_ch_24.docx": [349, 349], "Acts_ch_15.docx": [3858, 3883, 3909, 5794]}
 unan	{"Exodus_ch_19.docx": [908], "Exodus_ch_24.docx": [349], "Acts_ch_15.docx": [3858, 3883, 3909, 5794]}
 you.	{"Ephesians_ch_4.docx": [1553, 1580]}

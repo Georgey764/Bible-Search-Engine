@@ -1,3 +1,0 @@
-
-20m	{"Genesis_ch_31.docx": [2593], "Numbers_ch_3.docx": [2541], "Judges_ch_14.docx": [3685], "1 Samuel_ch_30.docx": [2853], "2 Kings_ch_15.docx": [2794], "Nehemiah_ch_10.docx": [992], "Job_ch_16.docx": [1926], "Job_ch_21.docx": [1729], "Psalms_ch_109.docx": [1718]}
-9what	{"Psalms_ch_30.docx": [797]}

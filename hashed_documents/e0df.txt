@@ -1,10 +1,4 @@
 
-insert	{"Exodus_ch_37.docx": [376], "Exodus_ch_38.docx": [654, 654, 654], "1 Chronicles_ch_1.docx": [1321, 1321, 1321], "1 Chronicles_ch_11.docx": [1615, 1615, 1615], "Ezra_ch_5.docx": [1225, 1225, 1225]}
-cheere	{"Ruth_ch_1.docx": [2851]}
-seeir	{"1 Chronicles_ch_1.docx": [3062]}
-insert	{"Exodus_ch_37.docx": [376], "Exodus_ch_38.docx": [654, 654], "1 Chronicles_ch_1.docx": [1321, 1321], "1 Chronicles_ch_11.docx": [1615, 1615], "Ezra_ch_5.docx": [1225, 1225]}
-cheere	{"Ruth_ch_1.docx": [2851]}
-seeir	{"1 Chronicles_ch_1.docx": [3062]}
 insert	{"Exodus_ch_37.docx": [376], "Exodus_ch_38.docx": [654], "1 Chronicles_ch_1.docx": [1321], "1 Chronicles_ch_11.docx": [1615], "Ezra_ch_5.docx": [1225]}
 cheere	{"Ruth_ch_1.docx": [2851]}
 seeir	{"1 Chronicles_ch_1.docx": [3062]}

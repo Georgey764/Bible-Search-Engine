@@ -1,4 +1,2 @@
 
-shovel	{"Matthew_ch_3.docx": [1402], "Luke_ch_3.docx": [5307, 5307]}
-shovel	{"Matthew_ch_3.docx": [1402], "Luke_ch_3.docx": [5307]}
-shovel	{"Matthew_ch_3.docx": [1402], "Luke_ch_3.docx": [5307]}
+shovel	{"2 Kings_ch_25.docx": [1868], "Amos_ch_9.docx": [2552], "Matthew_ch_3.docx": [1402], "Luke_ch_3.docx": [5307]}

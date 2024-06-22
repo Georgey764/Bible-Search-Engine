@@ -1,3 +1,2 @@
 
-body!	{"1 Corinthians_ch_6.docx": [2484], "1 Corinthians_ch_11.docx": [3312, 3312], "Hebrews_ch_10.docx": [1221, 1221]}
-body!	{"1 Corinthians_ch_6.docx": [2484], "1 Corinthians_ch_11.docx": [3312], "Hebrews_ch_10.docx": [1221]}
+body!	{"1 Corinthians_ch_6.docx": [2484], "1 Corinthians_ch_11.docx": [3312], "Galatians_ch_6.docx": [2212], "Hebrews_ch_10.docx": [1221]}

@@ -1,6 +1,2 @@
 
  baan	{"1 Chronicles_ch_8.docx": [2482]}
- baan	{"1 Chronicles_ch_8.docx": [2482]}
-42for	{"Psalms_ch_105.docx": [3472]}
-22resc	{"Psalms_ch_109.docx": [1910]}
- baan	{"1 Chronicles_ch_8.docx": [2482]}

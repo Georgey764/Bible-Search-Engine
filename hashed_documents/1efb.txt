@@ -1,4 +1,2 @@
 
-jesi	{"1 Chronicles_ch_3.docx": [1899], "1 Chronicles_ch_7.docx": [488, 488, 488], "1 Chronicles_ch_12.docx": [774, 774, 774], "1 Chronicles_ch_24.docx": [2320, 2320, 2320]}
-jesi	{"1 Chronicles_ch_3.docx": [1899], "1 Chronicles_ch_7.docx": [488, 488], "1 Chronicles_ch_12.docx": [774, 774], "1 Chronicles_ch_24.docx": [2320, 2320]}
 jesi	{"1 Chronicles_ch_3.docx": [1899], "1 Chronicles_ch_7.docx": [488], "1 Chronicles_ch_12.docx": [774], "1 Chronicles_ch_24.docx": [2320]}

@@ -1,4 +1,2 @@
 
 spine	{"Job_ch_40.docx": [3181]}
-spine	{"Job_ch_40.docx": [3181]}
-spine	{"Job_ch_40.docx": [3181]}

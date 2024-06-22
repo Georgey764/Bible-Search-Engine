@@ -1,10 +1,4 @@
 
-barija	{"Genesis_ch_46.docx": [2001, 2038, 2038, 2038]}
-swans	{"Leviticus_ch_11.docx": [1921], "Deuteronomy_ch_14.docx": [1402, 1402, 1402]}
-dynam	{"Psalms_ch_24.docx": [795]}
-barija	{"Genesis_ch_46.docx": [2001, 2038, 2038]}
-swans	{"Leviticus_ch_11.docx": [1921], "Deuteronomy_ch_14.docx": [1402, 1402]}
-dynam	{"Psalms_ch_24.docx": [795]}
 barija	{"Genesis_ch_46.docx": [2001, 2038]}
 swans	{"Leviticus_ch_11.docx": [1921], "Deuteronomy_ch_14.docx": [1402]}
 dynam	{"Psalms_ch_24.docx": [795]}

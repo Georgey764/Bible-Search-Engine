@@ -1,4 +1,2 @@
 
-skinn	{"Genesis_ch_41.docx": [139, 362, 2116, 2368, 3245, 362, 2116, 2368, 3245, 362, 2116, 2368, 3245], "2 Chronicles_ch_35.docx": [2103, 2103, 2103]}
-skinn	{"Genesis_ch_41.docx": [139, 362, 2116, 2368, 3245, 362, 2116, 2368, 3245], "2 Chronicles_ch_35.docx": [2103, 2103]}
 skinn	{"Genesis_ch_41.docx": [139, 362, 2116, 2368, 3245], "2 Chronicles_ch_35.docx": [2103]}

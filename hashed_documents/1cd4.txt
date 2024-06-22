@@ -1,5 +1,2 @@
 
-favor!	{"Psalms_ch_45.docx": [1934], "Acts_ch_25.docx": [4270, 4270]}
-13se	{"1 Chronicles_ch_6.docx": [851]}
-favor!	{"Psalms_ch_45.docx": [1934], "Acts_ch_25.docx": [4270]}
 favor!	{"Psalms_ch_45.docx": [1934], "Acts_ch_25.docx": [4270]}

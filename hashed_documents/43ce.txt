@@ -1,4 +1,3 @@
 
 idb	{"1 Chronicles_ch_4.docx": [273]}
-idb	{"1 Chronicles_ch_4.docx": [273]}
-idb	{"1 Chronicles_ch_4.docx": [273]}
+spindl	{"Proverbs_ch_31.docx": [1767]}

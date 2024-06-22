@@ -1,4 +1,2 @@
 
-pyre	{"Ezekiel_ch_24.docx": [1256]}
-pyre	{"Ezekiel_ch_24.docx": [1256]}
-pyre	{"Ezekiel_ch_24.docx": [1256]}
+pyre	{"1 Samuel_ch_31.docx": [1633], "Ezekiel_ch_24.docx": [1256]}

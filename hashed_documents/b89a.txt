@@ -1,4 +1,2 @@
 
-apham	{"1 Chronicles_ch_2.docx": [3448, 3475, 3475, 3475]}
-apham	{"1 Chronicles_ch_2.docx": [3448, 3475, 3475]}
 apham	{"1 Chronicles_ch_2.docx": [3448, 3475]}

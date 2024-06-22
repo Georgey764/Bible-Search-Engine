@@ -1,7 +1,3 @@
 
-dothai	{"Genesis_ch_37.docx": [2232, 2292, 2292, 2292]}
-elo	{"1 Chronicles_ch_9.docx": [996]}
-dothai	{"Genesis_ch_37.docx": [2232, 2292, 2292]}
-elo	{"1 Chronicles_ch_9.docx": [996]}
 dothai	{"Genesis_ch_37.docx": [2232, 2292]}
  elo	{"1 Chronicles_ch_9.docx": [996]}

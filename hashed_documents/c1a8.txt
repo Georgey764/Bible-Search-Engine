@@ -1,4 +1,2 @@
 
-cades	{"Genesis_ch_14.docx": [875], "Genesis_ch_16.docx": [2170, 2170, 2170], "Genesis_ch_20.docx": [22, 22, 22], "Judges_ch_4.docx": [2004, 3148, 2004, 3148, 2004, 3148], "Judges_ch_11.docx": [2232, 2232, 2232]}
-cades	{"Genesis_ch_14.docx": [875], "Genesis_ch_16.docx": [2170, 2170], "Genesis_ch_20.docx": [22, 22], "Judges_ch_4.docx": [2004, 3148, 2004, 3148], "Judges_ch_11.docx": [2232, 2232]}
 cades	{"Genesis_ch_14.docx": [875], "Genesis_ch_16.docx": [2170], "Genesis_ch_20.docx": [22], "Judges_ch_4.docx": [2004, 3148], "Judges_ch_11.docx": [2232]}

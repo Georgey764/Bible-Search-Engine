@@ -1,3 +1,2 @@
 
-zaccha	{"Luke_ch_19.docx": [21, 442, 754, 442, 754]}
 zaccha	{"Luke_ch_19.docx": [21, 442, 754]}

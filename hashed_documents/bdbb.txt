@@ -1,7 +1,3 @@
 
 floats	{"Job_ch_41.docx": [535]}
 news’s	{"Philippians_ch_1.docx": [1359]}
-11it	{"Genesis_ch_7.docx": [1335], "Exodus_ch_28.docx": [1105], "Joshua_ch_18.docx": [1753], "Esther_ch_8.docx": [1693], "Zechariah_ch_11.docx": [1949], "Matthew_ch_15.docx": [1158]}
-floats	{"Job_ch_41.docx": [535]}
-floats	{"Job_ch_41.docx": [535]}
-news’s	{"Philippians_ch_1.docx": [1359]}

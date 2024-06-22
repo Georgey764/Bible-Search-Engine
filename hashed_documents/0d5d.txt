@@ -1,5 +1,2 @@
 
 liqueu	{"Judges_ch_13.docx": [2309]}
-liqueu	{"Judges_ch_13.docx": [2309]}
-1show	{"Psalms_ch_51.docx": [160], "Psalms_ch_56.docx": [166]}
-liqueu	{"Judges_ch_13.docx": [2309]}

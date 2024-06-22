@@ -1,11 +1,4 @@
 
-ako	{"1 Chronicles_ch_2.docx": [2611], "1 Chronicles_ch_3.docx": [2228, 2228, 2228], "1 Chronicles_ch_9.docx": [2541, 2541, 2541]}
-wiser;	{"Proverbs_ch_10.docx": [336], "Proverbs_ch_19.docx": [2362, 2362, 2362]}
-vagr	{"Hebrews_ch_11.docx": [7212, 7228, 7228]}
-40-yea	{"2 Samuel_ch_2.docx": [1422]}
-ako	{"1 Chronicles_ch_2.docx": [2611], "1 Chronicles_ch_3.docx": [2228, 2228], "1 Chronicles_ch_9.docx": [2541, 2541]}
-3dur	{"Esther_ch_1.docx": [184]}
-wiser;	{"Proverbs_ch_10.docx": [336], "Proverbs_ch_19.docx": [2362, 2362]}
 ako	{"1 Chronicles_ch_2.docx": [2611], "1 Chronicles_ch_3.docx": [2228], "1 Chronicles_ch_9.docx": [2541]}
 wiser;	{"Proverbs_ch_10.docx": [336], "Proverbs_ch_19.docx": [2362]}
 vagr	{"Hebrews_ch_11.docx": [7212, 7228]}

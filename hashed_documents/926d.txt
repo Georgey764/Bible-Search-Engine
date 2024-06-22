@@ -1,4 +1,2 @@
 
-luxuri	{"Proverbs_ch_4.docx": [859], "Song of Solomon_ch_4.docx": [181, 181, 181], "Song of Solomon_ch_7.docx": [845, 845, 845], "Ezekiel_ch_36.docx": [6308, 6308, 6308]}
-luxuri	{"Proverbs_ch_4.docx": [859], "Song of Solomon_ch_4.docx": [181, 181], "Song of Solomon_ch_7.docx": [845, 845], "Ezekiel_ch_36.docx": [6308, 6308]}
 luxuri	{"Proverbs_ch_4.docx": [859], "Song of Solomon_ch_4.docx": [181], "Song of Solomon_ch_7.docx": [845], "Ezekiel_ch_36.docx": [6308]}

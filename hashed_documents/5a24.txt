@@ -1,3 +1,2 @@
 
-devoti	{"Acts_ch_3.docx": [1387], "1 Timothy_ch_3.docx": [1861, 1861]}
 devoti	{"Acts_ch_3.docx": [1387], "1 Timothy_ch_3.docx": [1861]}

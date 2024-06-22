@@ -1,4 +1,2 @@
 
 plug	{"Proverbs_ch_25.docx": [2531]}
-plug	{"Proverbs_ch_25.docx": [2531]}
-plug	{"Proverbs_ch_25.docx": [2531]}

@@ -1,4 +1,2 @@
 
 edn	{"1 Chronicles_ch_12.docx": [2754]}
-edn	{"1 Chronicles_ch_12.docx": [2754]}
-edn	{"1 Chronicles_ch_12.docx": [2754]}

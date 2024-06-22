@@ -1,4 +1,2 @@
 
-abishu	{"1 Chronicles_ch_2.docx": [2700, 2710, 2710, 2710], "1 Chronicles_ch_8.docx": [215, 215], "Ezra_ch_7.docx": [404, 404, 404]}
-abishu	{"1 Chronicles_ch_2.docx": [2700, 2710, 2710], "Ezra_ch_7.docx": [404, 404], "1 Chronicles_ch_8.docx": [215]}
 abishu	{"1 Chronicles_ch_2.docx": [2700, 2710], "1 Chronicles_ch_8.docx": [215], "Ezra_ch_7.docx": [404]}

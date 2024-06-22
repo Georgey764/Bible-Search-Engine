@@ -1,7 +1,3 @@
 
-plig	{"Job_ch_7.docx": [1165], "Job_ch_30.docx": [2089, 2089, 2089]}
-peek	{"Song of Solomon_ch_2.docx": [1096]}
-plig	{"Job_ch_7.docx": [1165], "Job_ch_30.docx": [2089, 2089]}
-peek	{"Song of Solomon_ch_2.docx": [1096]}
 plig	{"Job_ch_7.docx": [1165], "Job_ch_30.docx": [2089]}
 peek	{"Song of Solomon_ch_2.docx": [1096]}

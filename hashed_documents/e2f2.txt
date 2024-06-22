@@ -1,8 +1,3 @@
 
-gaid	{"Genesis_ch_4.docx": [2194, 2220, 2220, 2220]}
-city</	{"Nehemiah_ch_11.docx": [2770], "Luke_ch_2.docx": [2440, 2440]}
-gaid	{"Genesis_ch_4.docx": [2194, 2220, 2220]}
-city</	{"Nehemiah_ch_11.docx": [2770], "Luke_ch_2.docx": [2440]}
-10law	{"Psalms_ch_55.docx": [938]}
 gaid	{"Genesis_ch_4.docx": [2194, 2220]}
 city</	{"Nehemiah_ch_11.docx": [2770], "Luke_ch_2.docx": [2440]}

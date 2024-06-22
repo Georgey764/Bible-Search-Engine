@@ -1,3 +1,0 @@
-
-21e	{"Genesis_ch_5.docx": [1478], "Esther_ch_9.docx": [2165], "Jeremiah_ch_10.docx": [2656], "Ezekiel_ch_10.docx": [3191]}
-5‘have	{"Job_ch_22.docx": [365]}

@@ -1,5 +1,2 @@
 
-switc	{"2 Samuel_ch_7.docx": [2074], "Psalms_ch_89.docx": [3094, 3094, 3094]}
-175	{"Genesis_ch_25.docx": [592], "Psalms_ch_119.docx": [14831]}
-switc	{"2 Samuel_ch_7.docx": [2074], "Psalms_ch_89.docx": [3094, 3094]}
-switc	{"2 Samuel_ch_7.docx": [2074], "Psalms_ch_89.docx": [3094]}
+switc	{"2 Samuel_ch_7.docx": [2074], "Esther_ch_10.docx": [4504], "Psalms_ch_89.docx": [3094]}

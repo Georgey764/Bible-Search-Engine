@@ -1,4 +1,2 @@
 
-hinds	{"Job_ch_39.docx": [95], "Psalms_ch_29.docx": [744, 744, 744], "Song of Solomon_ch_2.docx": [1022, 2246, 1022, 2246, 1022, 2246], "Jeremiah_ch_14.docx": [531, 531, 531]}
-hinds	{"Job_ch_39.docx": [95], "Psalms_ch_29.docx": [744, 744], "Song of Solomon_ch_2.docx": [1022, 2246, 1022, 2246], "Jeremiah_ch_14.docx": [531, 531]}
 hinds	{"Job_ch_39.docx": [95], "Psalms_ch_29.docx": [744], "Song of Solomon_ch_2.docx": [1022, 2246], "Jeremiah_ch_14.docx": [531]}

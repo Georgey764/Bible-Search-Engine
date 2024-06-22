@@ -1,4 +1,2 @@
 
-peers	{"Psalms_ch_45.docx": [1429], "Psalms_ch_85.docx": [995, 995, 995], "Daniel_ch_1.docx": [1590, 1590, 1590]}
-peers	{"Psalms_ch_45.docx": [1429], "Psalms_ch_85.docx": [995, 995], "Daniel_ch_1.docx": [1590, 1590]}
 peers	{"Psalms_ch_45.docx": [1429], "Psalms_ch_85.docx": [995], "Daniel_ch_1.docx": [1590]}

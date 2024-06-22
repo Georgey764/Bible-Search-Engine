@@ -1,4 +1,2 @@
 
-tharga	{"Genesis_ch_14.docx": [28, 1080, 1080, 1080], "1 Chronicles_ch_2.docx": [5068, 5068, 5068]}
-tharga	{"Genesis_ch_14.docx": [28, 1080, 1080], "1 Chronicles_ch_2.docx": [5068, 5068]}
 tharga	{"Genesis_ch_14.docx": [28, 1080], "1 Chronicles_ch_2.docx": [5068]}

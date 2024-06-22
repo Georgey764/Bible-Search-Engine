@@ -1,5 +1,2 @@
 
-zabad	{"1 Chronicles_ch_8.docx": [1109, 1211, 1211], "1 Chronicles_ch_12.docx": [824, 824, 824], "1 Chronicles_ch_26.docx": [238, 238, 238], "1 Chronicles_ch_27.docx": [707, 928, 707, 928, 707, 928]}
-zabad	{"1 Chronicles_ch_8.docx": [1211, 1211], "1 Chronicles_ch_12.docx": [824, 824], "1 Chronicles_ch_26.docx": [238, 238], "1 Chronicles_ch_27.docx": [707, 928, 707, 928]}
-15fool	{"Proverbs_ch_12.docx": [1476], "Proverbs_ch_22.docx": [1527]}
-zabad	{"1 Chronicles_ch_8.docx": [1109, 1211], "1 Chronicles_ch_12.docx": [824], "1 Chronicles_ch_26.docx": [238], "1 Chronicles_ch_27.docx": [707, 928]}
+zabad	{"1 Chronicles_ch_8.docx": [1109, 1211], "1 Chronicles_ch_12.docx": [824], "1 Chronicles_ch_26.docx": [238], "1 Chronicles_ch_27.docx": [707, 928], "Ezra_ch_10.docx": [4687, 5279, 5790]}

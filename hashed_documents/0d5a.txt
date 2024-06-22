@@ -1,5 +1,2 @@
 
-banaya	{"Numbers_ch_33.docx": [2353, 2398, 2398, 2398]}
-banaya	{"Numbers_ch_33.docx": [2353, 2398, 2398]}
-41ana	{"1 Chronicles_ch_1.docx": [3361]}
 banaya	{"Numbers_ch_33.docx": [2353, 2398]}

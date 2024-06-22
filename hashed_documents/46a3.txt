@@ -1,3 +1,2 @@
 
-prose	{"Acts_ch_2.docx": [1864], "Acts_ch_6.docx": [623, 623], "Acts_ch_13.docx": [7609, 7609]}
 prose	{"Acts_ch_2.docx": [1864], "Acts_ch_6.docx": [623], "Acts_ch_13.docx": [7609]}

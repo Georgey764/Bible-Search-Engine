@@ -1,5 +1,2 @@
 
-regm	{"Joshua_ch_15.docx": [3886], "1 Chronicles_ch_1.docx": [547, 573, 547, 573, 547, 573]}
-regm	{"Joshua_ch_15.docx": [3886], "1 Chronicles_ch_1.docx": [547, 573, 547, 573]}
-25‘j	{"Ezekiel_ch_28.docx": [4001]}
 regm	{"Joshua_ch_15.docx": [3886], "1 Chronicles_ch_1.docx": [547, 573]}

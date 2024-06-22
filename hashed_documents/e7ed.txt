@@ -1,2 +1,0 @@
-
-7‘h	{"Exodus_ch_11.docx": [969], "Leviticus_ch_2.docx": [857], "Leviticus_ch_13.docx": [1098], "Numbers_ch_12.docx": [788], "Deuteronomy_ch_25.docx": [907], "Deuteronomy_ch_26.docx": [1023], "Joshua_ch_18.docx": [935], "1 Kings_ch_2.docx": [1162], "2 Chronicles_ch_2.docx": [1132], "Job_ch_37.docx": [686], "Job_ch_39.docx": [600], "Isaiah_ch_51.docx": [1347], "Lamentations_ch_4.docx": [1046], "Ezekiel_ch_13.docx": [1065], "Ezekiel_ch_31.docx": [964]}

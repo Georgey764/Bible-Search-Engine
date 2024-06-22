@@ -1,7 +1,3 @@
 
-yelli	{"1 Samuel_ch_4.docx": [2445], "2 Kings_ch_3.docx": [3116, 3116, 3116], "Isaiah_ch_15.docx": [945, 945, 945], "Isaiah_ch_27.docx": [568, 568, 568], "Jeremiah_ch_12.docx": [1078, 1078, 1078], "Jeremiah_ch_48.docx": [3984, 3984, 3984], "Lamentations_ch_2.docx": [3983, 3983, 3983], "Jonah_ch_1.docx": [505, 505, 505], "Mark_ch_5.docx": [279, 279], "Luke_ch_23.docx": [2222, 2222]}
-ruins	{"Psalms_ch_74.docx": [297], "Jeremiah_ch_4.docx": [4663, 4663, 4663], "Haggai_ch_1.docx": [634, 634, 634]}
-yelli	{"1 Samuel_ch_4.docx": [2445], "2 Kings_ch_3.docx": [3116, 3116], "Isaiah_ch_15.docx": [945, 945], "Isaiah_ch_27.docx": [568, 568], "Jeremiah_ch_12.docx": [1078, 1078], "Jeremiah_ch_48.docx": [3984, 3984], "Lamentations_ch_2.docx": [3983, 3983], "Jonah_ch_1.docx": [505, 505], "Mark_ch_5.docx": [279], "Luke_ch_23.docx": [2222]}
-ruins	{"Psalms_ch_74.docx": [297], "Jeremiah_ch_4.docx": [4663, 4663], "Haggai_ch_1.docx": [634, 634]}
 yelli	{"1 Samuel_ch_4.docx": [2445], "2 Kings_ch_3.docx": [3116], "Isaiah_ch_15.docx": [945], "Isaiah_ch_27.docx": [568], "Jeremiah_ch_12.docx": [1078], "Jeremiah_ch_48.docx": [3984], "Lamentations_ch_2.docx": [3983], "Jonah_ch_1.docx": [505], "Mark_ch_5.docx": [279], "Luke_ch_23.docx": [2222]}
 ruins	{"Psalms_ch_74.docx": [297], "Jeremiah_ch_4.docx": [4663], "Haggai_ch_1.docx": [634]}

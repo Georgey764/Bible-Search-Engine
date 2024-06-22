@@ -1,4 +1,2 @@
 
-geze	{"2 Samuel_ch_5.docx": [3711], "1 Kings_ch_9.docx": [2435, 2650, 2849, 2435, 2650, 2849, 2435, 2650, 2849], "1 Chronicles_ch_14.docx": [1886, 1886, 1886]}
-geze	{"2 Samuel_ch_5.docx": [3711], "1 Kings_ch_9.docx": [2435, 2650, 2849, 2435, 2650, 2849], "1 Chronicles_ch_14.docx": [1886, 1886]}
 geze	{"2 Samuel_ch_5.docx": [3711], "1 Kings_ch_9.docx": [2435, 2650, 2849], "1 Chronicles_ch_14.docx": [1886]}

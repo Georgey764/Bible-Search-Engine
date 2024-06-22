@@ -1,5 +1,2 @@
 
 venus	{"Job_ch_38.docx": [3047]}
-21eno	{"Genesis_ch_5.docx": [1478]}
-venus	{"Job_ch_38.docx": [3047]}
-venus	{"Job_ch_38.docx": [3047]}

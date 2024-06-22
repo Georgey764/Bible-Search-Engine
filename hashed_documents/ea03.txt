@@ -1,2 +1,2 @@
 
-9el	{"2 Samuel_ch_23.docx": [1447], "1 Chronicles_ch_15.docx": [914]}
+kres	{"2 Timothy_ch_4.docx": [1388]}

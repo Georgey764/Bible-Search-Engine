@@ -1,4 +1,2 @@
 
-adonir	{"2 Samuel_ch_20.docx": [4477], "1 Kings_ch_4.docx": [578, 578], "1 Kings_ch_5.docx": [2203, 2203, 2203], "1 Kings_ch_12.docx": [2887, 2887, 2887], "2 Chronicles_ch_10.docx": [2519, 2519, 2519]}
-adonir	{"1 Kings_ch_4.docx": [578, 578], "1 Kings_ch_5.docx": [2203, 2203], "1 Kings_ch_12.docx": [2887, 2887], "2 Chronicles_ch_10.docx": [2519, 2519]}
 adonir	{"2 Samuel_ch_20.docx": [4477], "1 Kings_ch_4.docx": [578], "1 Kings_ch_5.docx": [2203], "1 Kings_ch_12.docx": [2887], "2 Chronicles_ch_10.docx": [2519]}

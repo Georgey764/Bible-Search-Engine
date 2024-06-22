@@ -1,4 +1,2 @@
 
-barzel	{"1 Kings_ch_2.docx": [1173, 1183, 1183, 1183]}
-barzel	{"1 Kings_ch_2.docx": [1173, 1183, 1183]}
 barzel	{"1 Kings_ch_2.docx": [1173, 1183]}

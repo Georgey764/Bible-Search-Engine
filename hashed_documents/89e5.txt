@@ -1,4 +1,2 @@
 
-nazari	{"Judges_ch_13.docx": [799, 1229, 1229, 1229], "Lamentations_ch_4.docx": [1047, 1047, 1047], "Amos_ch_2.docx": [3207, 3413, 3207, 3413, 3207, 3413]}
-nazari	{"Judges_ch_13.docx": [799, 1229, 1229], "Lamentations_ch_4.docx": [1047, 1047], "Amos_ch_2.docx": [3207, 3413, 3207, 3413]}
 nazari	{"Judges_ch_13.docx": [799, 1229], "Lamentations_ch_4.docx": [1047], "Amos_ch_2.docx": [3207, 3413]}

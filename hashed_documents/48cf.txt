@@ -1,4 +1,2 @@
 
-sophe	{"1 Kings_ch_9.docx": [4384], "Ezra_ch_2.docx": [2229, 2229, 2229], "Nehemiah_ch_7.docx": [3329, 3329, 3329]}
-sophe	{"1 Kings_ch_9.docx": [4384], "Ezra_ch_2.docx": [2229, 2229], "Nehemiah_ch_7.docx": [3329, 3329]}
 sophe	{"1 Kings_ch_9.docx": [4384], "Ezra_ch_2.docx": [2229], "Nehemiah_ch_7.docx": [3329]}

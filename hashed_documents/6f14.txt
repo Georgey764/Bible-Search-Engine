@@ -1,4 +1,2 @@
 
 ferr	{"Leviticus_ch_11.docx": [3316]}
-42c	{"Genesis_ch_36.docx": [4347]}
-ferr	{"Leviticus_ch_11.docx": [3316]}

@@ -1,9 +1,3 @@
 
 edeni	{"Numbers_ch_26.docx": [4122]}
-merem	{"Ezra_ch_8.docx": [4775]}
-edeni	{"Numbers_ch_26.docx": [4122]}
-10‘loo	{"1 Samuel_ch_24.docx": [1441], "Ezekiel_ch_7.docx": [1360]}
-merem	{"Ezra_ch_8.docx": [4775]}
-11sh	{"Proverbs_ch_7.docx": [947]}
-edeni	{"Numbers_ch_26.docx": [4122]}
  merem	{"Ezra_ch_8.docx": [4775]}

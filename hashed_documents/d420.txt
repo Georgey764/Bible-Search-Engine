@@ -1,4 +1,2 @@
 
-sechen	{"Nehemiah_ch_9.docx": [514, 535, 558, 1016, 535, 558, 1016, 535, 558, 1016], "Nehemiah_ch_12.docx": [1212, 1212, 1212]}
-sechen	{"Nehemiah_ch_9.docx": [514, 535, 558, 1016, 535, 558, 1016], "Nehemiah_ch_12.docx": [1212, 1212]}
 sechen	{"Nehemiah_ch_9.docx": [514, 535, 558, 1016], "Nehemiah_ch_12.docx": [1212]}

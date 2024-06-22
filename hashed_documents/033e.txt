@@ -1,4 +1,2 @@
 
-heral	{"Genesis_ch_41.docx": [5270], "Daniel_ch_3.docx": [495, 495, 495]}
-heral	{"Genesis_ch_41.docx": [5270], "Daniel_ch_3.docx": [495, 495]}
 heral	{"Genesis_ch_41.docx": [5270], "Daniel_ch_3.docx": [495]}

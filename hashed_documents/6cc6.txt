@@ -1,4 +1,2 @@
 
-keeper	{"Genesis_ch_4.docx": [1107], "2 Kings_ch_22.docx": [2378, 2378, 2378], "Esther_ch_2.docx": [1730, 2832, 1730, 2832, 1730, 2832], "Job_ch_38.docx": [1609, 1609, 1609], "Ezekiel_ch_44.docx": [2114, 2114, 2114]}
-keeper	{"Genesis_ch_4.docx": [1107], "2 Kings_ch_22.docx": [2378, 2378], "Esther_ch_2.docx": [1730, 2832, 1730, 2832], "Job_ch_38.docx": [1609, 1609], "Ezekiel_ch_44.docx": [2114, 2114]}
 keeper	{"Genesis_ch_4.docx": [1107], "2 Kings_ch_22.docx": [2378], "Esther_ch_2.docx": [1730, 2832], "Job_ch_38.docx": [1609], "Ezekiel_ch_44.docx": [2114]}

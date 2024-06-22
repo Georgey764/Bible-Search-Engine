@@ -1,6 +1,3 @@
 
-half-b	{"Isaiah_ch_51.docx": [3839]}
-jaile	{"Acts_ch_16.docx": [6693, 6701, 7204, 7434, 8192, 6701, 7204, 7434, 8192], "Revelation_ch_13.docx": [1459, 1459]}
-half-b	{"Isaiah_ch_51.docx": [3839]}
-half-b	{"Isaiah_ch_51.docx": [3839]}
+half-b	{"Isaiah_ch_51.docx": [3839], "Hebrews_ch_13.docx": [3789], "3 John_ch_1.docx": [1886]}
 jaile	{"Acts_ch_16.docx": [6693, 6701, 7204, 7434, 8192], "Revelation_ch_13.docx": [1459]}

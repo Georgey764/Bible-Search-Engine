@@ -1,0 +1,2 @@
+
+etc	{"Song of Solomon_ch_8.docx": [3280], "Isaiah_ch_66.docx": [6426], "Lamentations_ch_5.docx": [3456], "Daniel_ch_12.docx": [5121], "Hosea_ch_14.docx": [2676], "Joel_ch_3.docx": [5792], "Jonah_ch_4.docx": [2775], "Micah_ch_7.docx": [5644], "Nahum_ch_3.docx": [4852], "Habakkuk_ch_3.docx": [4492], "Zephaniah_ch_3.docx": [5582], "Haggai_ch_2.docx": [5899]}

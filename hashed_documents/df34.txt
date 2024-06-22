@@ -1,4 +1,2 @@
 
-rows	{"Exodus_ch_39.docx": [1264], "Leviticus_ch_24.docx": [624, 624, 624], "1 Kings_ch_6.docx": [4231, 4231, 4231], "1 Kings_ch_7.docx": [244, 322, 1519, 2313, 2571, 3043, 5643, 244, 322, 1519, 2313, 2571, 3043, 5643, 244, 322, 1519, 2313, 2571, 3043, 5643], "Psalms_ch_65.docx": [1151, 1151, 1151], "Mark_ch_6.docx": [5631, 5636, 5631, 5636], "Luke_ch_9.docx": [2083, 2083]}
-rows	{"Exodus_ch_39.docx": [1264], "Leviticus_ch_24.docx": [624, 624], "1 Kings_ch_6.docx": [4231, 4231], "1 Kings_ch_7.docx": [244, 322, 1519, 2313, 2571, 3043, 5643, 244, 322, 1519, 2313, 2571, 3043, 5643], "Psalms_ch_65.docx": [1151, 1151], "Mark_ch_6.docx": [5631, 5636], "Luke_ch_9.docx": [2083]}
 rows	{"Exodus_ch_39.docx": [1264], "Leviticus_ch_24.docx": [624], "1 Kings_ch_6.docx": [4231], "1 Kings_ch_7.docx": [244, 322, 1519, 2313, 2571, 3043, 5643], "Psalms_ch_65.docx": [1151], "Mark_ch_6.docx": [5631, 5636], "Luke_ch_9.docx": [2083]}

@@ -1,4 +1,2 @@
 
-southe	{"Genesis_ch_10.docx": [869], "Genesis_ch_20.docx": [12, 12, 12], "Genesis_ch_24.docx": [9271, 9271, 9271], "Numbers_ch_34.docx": [213, 1686, 213, 1686, 213, 1686], "Joshua_ch_15.docx": [601, 601, 601], "Joshua_ch_18.docx": [2954, 2954, 2954], "1 Samuel_ch_30.docx": [4356, 4356, 4356], "1 Kings_ch_7.docx": [5226, 5226, 5226], "Acts_ch_27.docx": [1560, 1560]}
-southe	{"Genesis_ch_10.docx": [869], "Genesis_ch_20.docx": [12, 12], "Genesis_ch_24.docx": [9271, 9271], "Numbers_ch_34.docx": [213, 1686, 213, 1686], "Joshua_ch_15.docx": [601, 601], "Joshua_ch_18.docx": [2954, 2954], "1 Samuel_ch_30.docx": [4356, 4356], "1 Kings_ch_7.docx": [5226, 5226], "Acts_ch_27.docx": [1560]}
 southe	{"Genesis_ch_10.docx": [869], "Genesis_ch_20.docx": [12], "Genesis_ch_24.docx": [9271], "Numbers_ch_34.docx": [213, 1686], "Joshua_ch_15.docx": [601], "Joshua_ch_18.docx": [2954], "1 Samuel_ch_30.docx": [4356], "1 Kings_ch_7.docx": [5226], "Acts_ch_27.docx": [1560]}

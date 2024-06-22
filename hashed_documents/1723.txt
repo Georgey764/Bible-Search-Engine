@@ -1,5 +1,2 @@
 
 wrun	{"Judges_ch_6.docx": [10092]}
-wrun	{"Judges_ch_6.docx": [10092]}
-14tur	{"Psalms_ch_34.docx": [1178]}
-wrun	{"Judges_ch_6.docx": [10092]}

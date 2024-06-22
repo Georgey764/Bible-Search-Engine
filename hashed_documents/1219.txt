@@ -1,4 +1,2 @@
 
-mid-	{"Genesis_ch_29.docx": [916], "Zephaniah_ch_2.docx": [684, 684, 684]}
-mid-	{"Genesis_ch_29.docx": [916], "Zephaniah_ch_2.docx": [684, 684]}
-mid-	{"Genesis_ch_29.docx": [916], "Zephaniah_ch_2.docx": [684]}
+mid-	{"Genesis_ch_29.docx": [916], "Obadiah_ch_1.docx": [4095], "Micah_ch_7.docx": [4519], "Zephaniah_ch_2.docx": [684], "Mark_ch_16.docx": [1081]}

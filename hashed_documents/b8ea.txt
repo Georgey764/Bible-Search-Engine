@@ -1,4 +1,2 @@
 
-altere	{"Isaiah_ch_41.docx": [119], "Daniel_ch_6.docx": [2536, 2536, 2536]}
-altere	{"Isaiah_ch_41.docx": [119], "Daniel_ch_6.docx": [2536, 2536]}
-altere	{"Isaiah_ch_41.docx": [119], "Daniel_ch_6.docx": [2536]}
+altere	{"Esther_ch_10.docx": [3924], "Isaiah_ch_41.docx": [119], "Daniel_ch_6.docx": [2536]}

@@ -1,2 +1,0 @@
-
-27,	{"Exodus_ch_38.docx": [3107, 3391], "1 Kings_ch_20.docx": [5228], "2 Chronicles_ch_27.docx": [753, 790]}

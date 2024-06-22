@@ -1,2 +1,0 @@
-
-25h	{"Exodus_ch_10.docx": [4050], "Exodus_ch_18.docx": [3441], "Numbers_ch_7.docx": [2913], "Deuteronomy_ch_5.docx": [3098], "Joshua_ch_6.docx": [3323], "Judges_ch_19.docx": [4241], "2 Samuel_ch_1.docx": [3519], "2 Samuel_ch_13.docx": [3892], "2 Samuel_ch_18.docx": [4045], "2 Kings_ch_14.docx": [3856], "1 Chronicles_ch_5.docx": [3254], "2 Chronicles_ch_25.docx": [4551], "Job_ch_34.docx": [2369], "Joel_ch_2.docx": [4445], "Matthew_ch_1.docx": [2545], "Matthew_ch_10.docx": [2960], "Matthew_ch_20.docx": [3157]}

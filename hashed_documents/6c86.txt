@@ -1,5 +1,2 @@
 
 thatam	{"2 Samuel_ch_13.docx": [5154]}
-7‘then	{"Leviticus_ch_12.docx": [1053], "Leviticus_ch_16.docx": [1007], "Numbers_ch_19.docx": [789], "Deuteronomy_ch_12.docx": [1039], "Deuteronomy_ch_29.docx": [855], "Song of Solomon_ch_5.docx": [1366], "Isaiah_ch_18.docx": [971], "Isaiah_ch_34.docx": [959], "Jeremiah_ch_3.docx": [1221], "Jeremiah_ch_31.docx": [958], "Ezekiel_ch_32.docx": [1062], "Ezekiel_ch_45.docx": [1214], "Daniel_ch_11.docx": [1390], "Hosea_ch_2.docx": [1103], "Jonah_ch_2.docx": [885], "Micah_ch_2.docx": [1117], "Zechariah_ch_10.docx": [1305]}
-thatam	{"2 Samuel_ch_13.docx": [5154]}
-thatam	{"2 Samuel_ch_13.docx": [5154]}

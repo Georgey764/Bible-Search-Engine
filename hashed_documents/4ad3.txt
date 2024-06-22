@@ -1,4 +1,2 @@
 
-giver	{"Proverbs_ch_22.docx": [775], "2 Corinthians_ch_9.docx": [1102, 1102]}
-giver	{"Proverbs_ch_22.docx": [775], "2 Corinthians_ch_9.docx": [1102]}
 giver	{"Proverbs_ch_22.docx": [775], "2 Corinthians_ch_9.docx": [1102]}

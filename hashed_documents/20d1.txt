@@ -1,4 +1,3 @@
 
-socch	{"Exodus_ch_12.docx": [5763], "Numbers_ch_33.docx": [638, 692, 638, 692, 638, 692], "Joshua_ch_15.docx": [1726, 1726, 1726], "2 Chronicles_ch_11.docx": [823, 823, 823]}
-socch	{"Exodus_ch_12.docx": [5763], "Numbers_ch_33.docx": [638, 692, 638, 692], "Joshua_ch_15.docx": [1726, 1726], "2 Chronicles_ch_11.docx": [823, 823]}
 socch	{"Exodus_ch_12.docx": [5763], "Numbers_ch_33.docx": [638, 692], "Joshua_ch_15.docx": [1726], "2 Chronicles_ch_11.docx": [823]}
+rabbin	{"2 Chronicles_ch_36.docx": [7057, 7261, 7507]}

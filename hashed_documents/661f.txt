@@ -1,4 +1,2 @@
 
-mela	{"1 Chronicles_ch_8.docx": [2314], "Nehemiah_ch_3.docx": [2643, 2643, 2643]}
-mela	{"1 Chronicles_ch_8.docx": [2314], "Nehemiah_ch_3.docx": [2643, 2643]}
 mela	{"1 Chronicles_ch_8.docx": [2314], "Nehemiah_ch_3.docx": [2643]}

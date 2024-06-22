@@ -1,2 +1,0 @@
-
-10m	{"Genesis_ch_28.docx": [1346], "Judges_ch_8.docx": [2077], "1 Samuel_ch_7.docx": [1932], "2 Chronicles_ch_3.docx": [352, 448, 453, 1004, 1010, 1286], "2 Chronicles_ch_4.docx": [69, 92], "Job_ch_31.docx": [894], "Psalms_ch_19.docx": [1150], "Psalms_ch_31.docx": [1064], "Psalms_ch_63.docx": [938], "Psalms_ch_71.docx": [955], "Psalms_ch_72.docx": [788], "Psalms_ch_118.docx": [721], "Psalms_ch_145.docx": [929]}

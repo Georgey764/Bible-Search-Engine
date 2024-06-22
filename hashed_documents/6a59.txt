@@ -1,4 +1,2 @@
 
-tahpa	{"Jeremiah_ch_2.docx": [2454], "Jeremiah_ch_43.docx": [624, 1194, 1375, 624, 1194, 1375, 624, 1194, 1375], "Jeremiah_ch_44.docx": [34, 34, 34], "Jeremiah_ch_46.docx": [2287, 2287, 2287], "Ezekiel_ch_30.docx": [2581, 2581, 2581]}
-tahpa	{"Jeremiah_ch_2.docx": [2454], "Jeremiah_ch_43.docx": [624, 1194, 1375, 624, 1194, 1375], "Jeremiah_ch_44.docx": [34, 34], "Jeremiah_ch_46.docx": [2287, 2287], "Ezekiel_ch_30.docx": [2581, 2581]}
 tahpa	{"Jeremiah_ch_2.docx": [2454], "Jeremiah_ch_43.docx": [624, 1194, 1375], "Jeremiah_ch_44.docx": [34], "Jeremiah_ch_46.docx": [2287], "Ezekiel_ch_30.docx": [2581]}

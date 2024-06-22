@@ -1,2 +1,0 @@
-
-23‘no	{"1 Samuel_ch_12.docx": [3860], "1 Samuel_ch_15.docx": [3503], "1 Samuel_ch_20.docx": [3618], "1 Samuel_ch_22.docx": [3618], "2 Kings_ch_18.docx": [3847], "Isaiah_ch_45.docx": [4458], "Jeremiah_ch_11.docx": [4463], "Daniel_ch_8.docx": [3391]}

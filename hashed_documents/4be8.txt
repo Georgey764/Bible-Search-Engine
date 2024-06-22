@@ -1,4 +1,2 @@
 
-archa	{"Genesis_ch_10.docx": [1098]}
-archa	{"Genesis_ch_10.docx": [1098]}
-archa	{"Genesis_ch_10.docx": [1098]}
+archa	{"Genesis_ch_10.docx": [1098], "Obadiah_ch_1.docx": [4404]}

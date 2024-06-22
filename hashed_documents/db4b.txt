@@ -1,4 +1,2 @@
 
 stand!	{"Romans_ch_14.docx": [583]}
-26it	{"2 Chronicles_ch_30.docx": [4826], "Nehemiah_ch_12.docx": [2744], "Proverbs_ch_17.docx": [2516], "Ezekiel_ch_32.docx": [4278]}
-stand!	{"Romans_ch_14.docx": [583]}

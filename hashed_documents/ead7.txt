@@ -1,4 +1,2 @@
 
-virtua	{"Exodus_ch_8.docx": [3770], "Mark_ch_1.docx": [3665, 3665], "Hebrews_ch_7.docx": [458, 458]}
-virtua	{"Exodus_ch_8.docx": [3770], "Mark_ch_1.docx": [3665], "Hebrews_ch_7.docx": [458]}
 virtua	{"Exodus_ch_8.docx": [3770], "Mark_ch_1.docx": [3665], "Hebrews_ch_7.docx": [458]}

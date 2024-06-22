@@ -1,5 +1,2 @@
 
-exclus	{"Deuteronomy_ch_26.docx": [2883], "1 Chronicles_ch_17.docx": [3175, 3175, 3175]}
-20no	{"Exodus_ch_6.docx": [2534], "1 Samuel_ch_18.docx": [3121], "1 Kings_ch_4.docx": [2142], "Isaiah_ch_65.docx": [3468], "Jeremiah_ch_8.docx": [3810]}
-exclus	{"Deuteronomy_ch_26.docx": [2883], "1 Chronicles_ch_17.docx": [3175, 3175]}
 exclus	{"Deuteronomy_ch_26.docx": [2883], "1 Chronicles_ch_17.docx": [3175]}

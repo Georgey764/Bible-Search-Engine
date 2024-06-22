@@ -1,5 +1,2 @@
 
-gotho	{"Genesis_ch_36.docx": [1294, 1746, 1746, 1746], "Joshua_ch_15.docx": [2562, 2562, 2562], "Judges_ch_1.docx": [2206, 2225, 2354, 2206, 2225, 2354, 2206, 2225, 2354], "Judges_ch_3.docx": [5078, 5838, 5078, 5838, 5078, 5838], "1 Chronicles_ch_4.docx": [1433, 1459, 1433, 1459, 1433, 1459], "1 Chronicles_ch_8.docx": [1667, 1667, 1667], "1 Chronicles_ch_27.docx": [1920, 1920, 1920]}
-gotho	{"Genesis_ch_36.docx": [1294, 1746, 1746], "Joshua_ch_15.docx": [2562, 2562], "Judges_ch_1.docx": [2206, 2225, 2354, 2206, 2225, 2354], "Judges_ch_3.docx": [5078, 5838, 5078, 5838], "1 Chronicles_ch_4.docx": [1433, 1459, 1433, 1459], "1 Chronicles_ch_8.docx": [1667, 1667], "1 Chronicles_ch_27.docx": [1920, 1920]}
-8thr	{"Psalms_ch_77.docx": [803], "Psalms_ch_92.docx": [686]}
 gotho	{"Genesis_ch_36.docx": [1294, 1746], "Joshua_ch_15.docx": [2562], "Judges_ch_1.docx": [2206, 2225, 2354], "Judges_ch_3.docx": [5078, 5838], "1 Chronicles_ch_4.docx": [1433, 1459], "1 Chronicles_ch_8.docx": [1667], "1 Chronicles_ch_27.docx": [1920]}

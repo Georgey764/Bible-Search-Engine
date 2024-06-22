@@ -1,5 +1,2 @@
 
 moddi	{"1 Chronicles_ch_2.docx": [2781]}
-moddi	{"1 Chronicles_ch_2.docx": [2781]}
-10by	{"Psalms_ch_22.docx": [959], "Proverbs_ch_11.docx": [1076]}
-moddi	{"1 Chronicles_ch_2.docx": [2781]}

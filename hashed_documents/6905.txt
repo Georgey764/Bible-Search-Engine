@@ -1,4 +1,2 @@
 
-unifor	{"1 Samuel_ch_18.docx": [694], "2 Samuel_ch_10.docx": [526, 526, 526], "2 Samuel_ch_20.docx": [1579, 1579, 1579], "2 Chronicles_ch_9.docx": [452, 452, 452]}
-unifor	{"1 Samuel_ch_18.docx": [694], "2 Samuel_ch_10.docx": [526, 526], "2 Samuel_ch_20.docx": [1579, 1579], "2 Chronicles_ch_9.docx": [452, 452]}
 unifor	{"1 Samuel_ch_18.docx": [694], "2 Samuel_ch_10.docx": [526], "2 Samuel_ch_20.docx": [1579], "2 Chronicles_ch_9.docx": [452]}

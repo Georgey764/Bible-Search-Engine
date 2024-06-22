@@ -1,4 +1,2 @@
 
-roare	{"Judges_ch_14.docx": [786], "Psalms_ch_38.docx": [669, 669, 669], "Jeremiah_ch_12.docx": [1409, 1409, 1409], "Zechariah_ch_11.docx": [1599, 1599, 1599]}
-roare	{"Judges_ch_14.docx": [786], "Psalms_ch_38.docx": [669, 669], "Jeremiah_ch_12.docx": [1409, 1409], "Zechariah_ch_11.docx": [1599, 1599]}
 roare	{"Judges_ch_14.docx": [786], "Psalms_ch_38.docx": [669], "Jeremiah_ch_12.docx": [1409], "Zechariah_ch_11.docx": [1599]}

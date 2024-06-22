@@ -1,6 +1,2 @@
 
 roused	{"Nahum_ch_1.docx": [1813]}
-22tell	{"Joshua_ch_4.docx": [2919], "Ezekiel_ch_28.docx": [3334]}
-142	{"Psalms_ch_119.docx": [11906], "Psalms_ch_142.docx": [3]}
-roused	{"Nahum_ch_1.docx": [1813]}
-roused	{"Nahum_ch_1.docx": [1813]}

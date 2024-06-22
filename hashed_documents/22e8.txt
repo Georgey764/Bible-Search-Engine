@@ -1,5 +1,2 @@
 
-rebi	{"1 Chronicles_ch_11.docx": [5468], "Matthew_ch_19.docx": [3524, 3524, 3524]}
-rebi	{"1 Chronicles_ch_11.docx": [5468], "Matthew_ch_19.docx": [3524, 3524]}
-3‘can	{"Amos_ch_3.docx": [342]}
 rebi	{"1 Chronicles_ch_11.docx": [5468], "Matthew_ch_19.docx": [3524]}

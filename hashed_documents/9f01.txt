@@ -1,5 +1,2 @@
 
-joash	{"1 Chronicles_ch_12.docx": [382]}
-7‘don’	{"Leviticus_ch_17.docx": [1122], "2 Chronicles_ch_30.docx": [1137]}
-joash	{"1 Chronicles_ch_12.docx": [382]}
  joash	{"1 Chronicles_ch_12.docx": [382]}

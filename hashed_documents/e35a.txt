@@ -1,7 +1,3 @@
 
 jakin	{"1 Kings_ch_7.docx": [2735]}
 aspa	{"Esther_ch_9.docx": [578]}
-jakin	{"1 Kings_ch_7.docx": [2735]}
-aspa	{"Esther_ch_9.docx": [578]}
-jakin	{"1 Kings_ch_7.docx": [2735]}
-aspa	{"Esther_ch_9.docx": [578]}

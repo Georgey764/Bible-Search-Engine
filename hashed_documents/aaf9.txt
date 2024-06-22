@@ -1,4 +1,2 @@
 
-supply	{"Ezra_ch_7.docx": [3337], "Isaiah_ch_7.docx": [1791, 1791, 1791], "Isaiah_ch_14.docx": [5148, 5148, 5148], "Joel_ch_1.docx": [1516, 1516, 1516], "Acts_ch_12.docx": [4049, 4049], "Romans_ch_15.docx": [620, 620], "2 Corinthians_ch_9.docx": [1456, 1767, 1456, 1767], "Philippians_ch_1.docx": [2344, 2344]}
-supply	{"Ezra_ch_7.docx": [3337], "Isaiah_ch_7.docx": [1791, 1791], "Isaiah_ch_14.docx": [5148, 5148], "Joel_ch_1.docx": [1516, 1516], "Acts_ch_12.docx": [4049], "Romans_ch_15.docx": [620], "2 Corinthians_ch_9.docx": [1456, 1767], "Philippians_ch_1.docx": [2344]}
-supply	{"Ezra_ch_7.docx": [3337], "Isaiah_ch_7.docx": [1791], "Isaiah_ch_14.docx": [5148], "Joel_ch_1.docx": [1516], "Acts_ch_12.docx": [4049], "Romans_ch_15.docx": [620], "2 Corinthians_ch_9.docx": [1456, 1767], "Philippians_ch_1.docx": [2344]}
+supply	{"Ezra_ch_7.docx": [3337], "Isaiah_ch_7.docx": [1791], "Isaiah_ch_14.docx": [5148], "Joel_ch_1.docx": [1516], "Acts_ch_12.docx": [4049], "Romans_ch_15.docx": [620], "2 Corinthians_ch_9.docx": [1456, 1767], "Philippians_ch_1.docx": [2344], "Philippians_ch_4.docx": [2481]}

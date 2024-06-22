@@ -1,4 +1,2 @@
 
-havens	{"Numbers_ch_35.docx": [733, 1485, 1485, 1485], "Joshua_ch_20.docx": [87, 87, 87], "Psalms_ch_89.docx": [3820, 3820, 3820], "Zephaniah_ch_2.docx": [1561, 1561, 1561], "Acts_ch_27.docx": [1019, 1019]}
-havens	{"Numbers_ch_35.docx": [733, 1485, 1485], "Joshua_ch_20.docx": [87, 87], "Psalms_ch_89.docx": [3820, 3820], "Zephaniah_ch_2.docx": [1561, 1561], "Acts_ch_27.docx": [1019]}
 havens	{"Numbers_ch_35.docx": [733, 1485], "Joshua_ch_20.docx": [87], "Psalms_ch_89.docx": [3820], "Zephaniah_ch_2.docx": [1561], "Acts_ch_27.docx": [1019]}

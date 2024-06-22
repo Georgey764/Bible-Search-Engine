@@ -1,8 +1,3 @@
 
-sebam	{"Numbers_ch_32.docx": [396, 5196, 5196, 5196]}
-unlov	{"Hosea_ch_2.docx": [3861]}
-8yo	{"Leviticus_ch_20.docx": [1044], "Deuteronomy_ch_15.docx": [883], "Joshua_ch_8.docx": [855], "Psalms_ch_45.docx": [1460], "Psalms_ch_80.docx": [756], "Psalms_ch_88.docx": [794], "Psalms_ch_91.docx": [726], "Matthew_ch_3.docx": [807]}
-sebam	{"Numbers_ch_32.docx": [396, 5196, 5196]}
-unlov	{"Hosea_ch_2.docx": [3861]}
 sebam	{"Numbers_ch_32.docx": [396, 5196]}
 unlov	{"Hosea_ch_2.docx": [3861]}

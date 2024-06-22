@@ -1,4 +1,2 @@
 
-abihai	{"1 Chronicles_ch_2.docx": [2712], "Esther_ch_2.docx": [3043, 3043, 3043], "Esther_ch_9.docx": [3672, 3672, 3672]}
-abihai	{"1 Chronicles_ch_2.docx": [2712], "Esther_ch_2.docx": [3043, 3043], "Esther_ch_9.docx": [3672, 3672]}
 abihai	{"1 Chronicles_ch_2.docx": [2712], "Esther_ch_2.docx": [3043], "Esther_ch_9.docx": [3672]}

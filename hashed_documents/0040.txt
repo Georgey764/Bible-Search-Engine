@@ -1,5 +1,2 @@
 
-aphai	{"1 Chronicles_ch_2.docx": [2830, 2848, 2848, 2848]}
-26[wh	{"1 Chronicles_ch_1.docx": [2071]}
-aphai	{"1 Chronicles_ch_2.docx": [2830, 2848, 2848]}
 aphai	{"1 Chronicles_ch_2.docx": [2830, 2848]}

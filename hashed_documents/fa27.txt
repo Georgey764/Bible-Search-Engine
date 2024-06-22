@@ -1,4 +1,2 @@
 
-jan	{"Numbers_ch_21.docx": [2617], "Joshua_ch_15.docx": [5085, 5085], "Joshua_ch_16.docx": [678, 678, 678], "2 Samuel_ch_5.docx": [2343, 2343, 2343], "1 Chronicles_ch_5.docx": [1492, 1492, 1492], "Luke_ch_3.docx": [6306, 6306], "2 Timothy_ch_3.docx": [1349, 1574, 1349, 1574]}
-jan	{"Numbers_ch_21.docx": [2617], "Joshua_ch_16.docx": [678, 678], "2 Samuel_ch_5.docx": [2343, 2343], "1 Chronicles_ch_5.docx": [1492, 1492], "Joshua_ch_15.docx": [5085], "Luke_ch_3.docx": [6306], "2 Timothy_ch_3.docx": [1349, 1574]}
 jan	{"Numbers_ch_21.docx": [2617], "Joshua_ch_15.docx": [5085], "Joshua_ch_16.docx": [678], "2 Samuel_ch_5.docx": [2343], "1 Chronicles_ch_5.docx": [1492], "Luke_ch_3.docx": [6306], "2 Timothy_ch_3.docx": [1349, 1574]}

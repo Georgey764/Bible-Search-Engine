@@ -1,4 +1,2 @@
 
-eliath	{"1 Chronicles_ch_25.docx": [746, 2718, 2718, 2718]}
-eliath	{"1 Chronicles_ch_25.docx": [746, 2718, 2718]}
 eliath	{"1 Chronicles_ch_25.docx": [746, 2718]}

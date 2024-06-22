@@ -1,5 +1,2 @@
 
-multi-	{"Genesis_ch_37.docx": [495, 3039, 4182, 3039, 4182, 3039, 4182]}
-multi-	{"Genesis_ch_37.docx": [495, 3039, 4182, 3039, 4182]}
-40‘but	{"1 Kings_ch_20.docx": [7305]}
 multi-	{"Genesis_ch_37.docx": [495, 3039, 4182]}

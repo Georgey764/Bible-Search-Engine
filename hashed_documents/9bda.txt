@@ -1,6 +1,2 @@
 
 arah;	{"Ezra_ch_2.docx": [604]}
-31how	{"Exodus_ch_34.docx": [4667], "Numbers_ch_10.docx": [3569], "2 Samuel_ch_2.docx": [4477]}
-17l	{"Deuteronomy_ch_33.docx": [2306], "Psalms_ch_88.docx": [1710], "Psalms_ch_147.docx": [1513], "Proverbs_ch_5.docx": [1431], "Proverbs_ch_22.docx": [1747], "Isaiah_ch_1.docx": [2787]}
-arah;	{"Ezra_ch_2.docx": [604]}
-arah;	{"Ezra_ch_2.docx": [604]}

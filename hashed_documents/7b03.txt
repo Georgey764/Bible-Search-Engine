@@ -1,10 +1,4 @@
 
-asen	{"Genesis_ch_10.docx": [2036], "Genesis_ch_41.docx": [5719, 6579, 5719, 6579, 5719, 6579], "Genesis_ch_46.docx": [2283, 2283, 2283], "Nehemiah_ch_7.docx": [1921, 1921, 1921]}
-sheet	{"Exodus_ch_36.docx": [2378], "Exodus_ch_39.docx": [340, 340, 340], "Deuteronomy_ch_22.docx": [2311, 2311, 2311], "Proverbs_ch_7.docx": [1441, 1441, 1441], "Acts_ch_10.docx": [1072, 1072], "Acts_ch_11.docx": [666, 666]}
-dwells	{"Numbers_ch_35.docx": [4674], "Psalms_ch_68.docx": [715, 715, 715], "Psalms_ch_113.docx": [368, 368, 368], "Psalms_ch_115.docx": [257, 257, 257], "Isaiah_ch_8.docx": [2934, 2934, 2934], "Isaiah_ch_57.docx": [2404, 2404, 2404], "Ezekiel_ch_27.docx": [161, 161, 161], "Matthew_ch_23.docx": [2564, 2564, 2564], "Romans_ch_7.docx": [2953, 2953], "2 Timothy_ch_1.docx": [1783, 1783]}
-asen	{"Genesis_ch_10.docx": [2036], "Genesis_ch_41.docx": [5719, 6579, 5719, 6579], "Genesis_ch_46.docx": [2283, 2283], "Nehemiah_ch_7.docx": [1921, 1921]}
-sheet	{"Exodus_ch_36.docx": [2378], "Exodus_ch_39.docx": [340, 340], "Deuteronomy_ch_22.docx": [2311, 2311], "Proverbs_ch_7.docx": [1441, 1441], "Acts_ch_10.docx": [1072], "Acts_ch_11.docx": [666]}
-dwells	{"Numbers_ch_35.docx": [4674], "Psalms_ch_68.docx": [715, 715], "Psalms_ch_113.docx": [368, 368], "Psalms_ch_115.docx": [257, 257], "Isaiah_ch_8.docx": [2934, 2934], "Isaiah_ch_57.docx": [2404, 2404], "Ezekiel_ch_27.docx": [161, 161], "Matthew_ch_23.docx": [2564, 2564], "Romans_ch_7.docx": [2953], "2 Timothy_ch_1.docx": [1783]}
 asen	{"Genesis_ch_10.docx": [2036], "Genesis_ch_41.docx": [5719, 6579], "Genesis_ch_46.docx": [2283], "Nehemiah_ch_7.docx": [1921]}
 sheet	{"Exodus_ch_36.docx": [2378], "Exodus_ch_39.docx": [340], "Deuteronomy_ch_22.docx": [2311], "Proverbs_ch_7.docx": [1441], "Acts_ch_10.docx": [1072], "Acts_ch_11.docx": [666]}
 dwells	{"Numbers_ch_35.docx": [4674], "Psalms_ch_68.docx": [715], "Psalms_ch_113.docx": [368], "Psalms_ch_115.docx": [257], "Isaiah_ch_8.docx": [2934], "Isaiah_ch_57.docx": [2404], "Ezekiel_ch_27.docx": [161], "Matthew_ch_23.docx": [2564], "Romans_ch_7.docx": [2953], "2 Timothy_ch_1.docx": [1783]}

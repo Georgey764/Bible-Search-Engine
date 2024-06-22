@@ -1,10 +1,4 @@
 
-thobe	{"Genesis_ch_4.docx": [2555], "Genesis_ch_10.docx": [263, 263, 263], "Joshua_ch_15.docx": [6234, 6234, 6234]}
-jeopa	{"1 Kings_ch_1.docx": [2882]}
-phasp	{"1 Chronicles_ch_7.docx": [4452]}
-thobe	{"Genesis_ch_4.docx": [2555], "Genesis_ch_10.docx": [263, 263], "Joshua_ch_15.docx": [6234, 6234]}
-jeopa	{"1 Kings_ch_1.docx": [2882]}
-phasp	{"1 Chronicles_ch_7.docx": [4452]}
 thobe	{"Genesis_ch_4.docx": [2555], "Genesis_ch_10.docx": [263], "Joshua_ch_15.docx": [6234]}
 jeopa	{"1 Kings_ch_1.docx": [2882]}
 phasp	{"1 Chronicles_ch_7.docx": [4452]}

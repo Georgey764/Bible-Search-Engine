@@ -1,4 +1,2 @@
 
-abiez	{"Judges_ch_8.docx": [217], "1 Samuel_ch_11.docx": [1227, 1227, 1227], "2 Samuel_ch_23.docx": [4344, 4344], "1 Chronicles_ch_7.docx": [2356, 2356, 2356], "1 Chronicles_ch_27.docx": [1523, 1523, 1523]}
-abiez	{"Judges_ch_8.docx": [217], "1 Samuel_ch_11.docx": [1227, 1227], "1 Chronicles_ch_7.docx": [2356, 2356], "1 Chronicles_ch_27.docx": [1523, 1523], "2 Samuel_ch_23.docx": [4344]}
 abiez	{"Judges_ch_8.docx": [217], "1 Samuel_ch_11.docx": [1227], "2 Samuel_ch_23.docx": [4344], "1 Chronicles_ch_7.docx": [2356], "1 Chronicles_ch_27.docx": [1523]}

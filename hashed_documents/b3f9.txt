@@ -1,4 +1,2 @@
 
-pepper	{"Isaiah_ch_28.docx": [3886, 4086, 4172, 4086, 4172, 4086, 4172]}
-pepper	{"Isaiah_ch_28.docx": [3886, 4086, 4172, 4086, 4172]}
 pepper	{"Isaiah_ch_28.docx": [3886, 4086, 4172]}

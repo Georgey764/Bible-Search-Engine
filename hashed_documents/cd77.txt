@@ -1,6 +1,3 @@
 
-arml	{"Numbers_ch_31.docx": [5202], "2 Samuel_ch_1.docx": [1246, 1246, 1246], "2 Samuel_ch_8.docx": [972, 972, 972], "Isaiah_ch_3.docx": [2884, 2884, 2884]}
-alcat	{"Joshua_ch_19.docx": [3439]}
-arml	{"Numbers_ch_31.docx": [5202], "2 Samuel_ch_1.docx": [1246, 1246], "2 Samuel_ch_8.docx": [972, 972], "Isaiah_ch_3.docx": [2884, 2884]}
 arml	{"Numbers_ch_31.docx": [5202], "2 Samuel_ch_1.docx": [1246], "2 Samuel_ch_8.docx": [972], "Isaiah_ch_3.docx": [2884]}
 alcat	{"Joshua_ch_19.docx": [3439]}

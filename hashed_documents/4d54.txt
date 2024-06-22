@@ -1,3 +1,0 @@
-
-7‘now	{"Genesis_ch_9.docx": [827], "Numbers_ch_18.docx": [1092], "2 Samuel_ch_19.docx": [942], "2 Kings_ch_9.docx": [1069], "Job_ch_16.docx": [598], "Job_ch_40.docx": [549], "Jeremiah_ch_4.docx": [1236], "Ezekiel_ch_35.docx": [806], "Zechariah_ch_7.docx": [969]}
-8‘rath	{"Joshua_ch_23.docx": [1180]}

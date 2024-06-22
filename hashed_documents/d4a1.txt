@@ -1,4 +1,2 @@
 
-untied	{"Job_ch_39.docx": [439], "Isaiah_ch_40.docx": [211, 211, 211], "Mark_ch_11.docx": [470, 470], "Luke_ch_13.docx": [2085, 2085], "Acts_ch_27.docx": [5378, 5378], "Revelation_ch_9.docx": [1998, 1998]}
-untied	{"Job_ch_39.docx": [439], "Isaiah_ch_40.docx": [211, 211], "Mark_ch_11.docx": [470], "Luke_ch_13.docx": [2085], "Acts_ch_27.docx": [5378], "Revelation_ch_9.docx": [1998]}
-untied	{"Job_ch_39.docx": [439], "Isaiah_ch_40.docx": [211], "Mark_ch_11.docx": [470], "Luke_ch_13.docx": [2085], "Acts_ch_27.docx": [5378], "Revelation_ch_9.docx": [1998]}
+untied	{"Ruth_ch_4.docx": [1724], "Job_ch_39.docx": [439], "Isaiah_ch_40.docx": [211], "Mark_ch_11.docx": [470], "Luke_ch_13.docx": [2085], "Acts_ch_27.docx": [5378], "Revelation_ch_9.docx": [1998]}

@@ -1,7 +1,3 @@
 
-emptyi	{"Genesis_ch_42.docx": [4572], "1 Samuel_ch_24.docx": [284, 284, 284]}
-coasts	{"Isaiah_ch_9.docx": [106], "Matthew_ch_4.docx": [1769, 1769, 1769]}
-emptyi	{"Genesis_ch_42.docx": [4572], "1 Samuel_ch_24.docx": [284, 284]}
-coasts	{"Isaiah_ch_9.docx": [106], "Matthew_ch_4.docx": [1769, 1769]}
 emptyi	{"Genesis_ch_42.docx": [4572], "1 Samuel_ch_24.docx": [284]}
 coasts	{"Isaiah_ch_9.docx": [106], "Matthew_ch_4.docx": [1769]}

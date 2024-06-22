@@ -1,4 +1,2 @@
 
-hazar	{"1 Chronicles_ch_1.docx": [1772], "Nehemiah_ch_11.docx": [4419, 4422, 4426, 4419, 4422, 4426, 4419, 4422, 4426], "Acts_ch_27.docx": [1127, 1127]}
-hazar	{"1 Chronicles_ch_1.docx": [1772], "Nehemiah_ch_11.docx": [4419, 4422, 4426, 4419, 4422, 4426], "Acts_ch_27.docx": [1127]}
 hazar	{"1 Chronicles_ch_1.docx": [1772], "Nehemiah_ch_11.docx": [4419, 4422, 4426], "Acts_ch_27.docx": [1127]}

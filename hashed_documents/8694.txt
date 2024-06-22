@@ -1,5 +1,2 @@
 
 hordes	{"Ezekiel_ch_39.docx": [2004]}
-31‘lo	{"1 Samuel_ch_2.docx": [5898], "Jeremiah_ch_31.docx": [5587], "Jeremiah_ch_50.docx": [5744]}
-hordes	{"Ezekiel_ch_39.docx": [2004]}
-hordes	{"Ezekiel_ch_39.docx": [2004]}

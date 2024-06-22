@@ -1,4 +1,2 @@
 
 relay	{"1 Chronicles_ch_17.docx": [2192]}
-relay	{"1 Chronicles_ch_17.docx": [2192]}
-relay	{"1 Chronicles_ch_17.docx": [2192]}

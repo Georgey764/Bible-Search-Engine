@@ -1,4 +1,2 @@
 
-saucer	{"Exodus_ch_37.docx": [1597], "1 Kings_ch_7.docx": [6462, 6462, 6462]}
-saucer	{"Exodus_ch_37.docx": [1597], "1 Kings_ch_7.docx": [6462, 6462]}
 saucer	{"Exodus_ch_37.docx": [1597], "1 Kings_ch_7.docx": [6462]}

@@ -1,4 +1,2 @@
 
-rabba	{"2 Samuel_ch_11.docx": [44], "2 Samuel_ch_12.docx": [4438, 4588, 4838, 4438, 4588, 4838, 4438, 4588, 4838], "2 Samuel_ch_17.docx": [4321, 4321, 4321], "1 Chronicles_ch_20.docx": [38, 235, 38, 235, 38, 235], "Jeremiah_ch_49.docx": [327, 602, 327, 602, 327, 602], "Ezekiel_ch_21.docx": [3159, 3159, 3159]}
-rabba	{"2 Samuel_ch_11.docx": [44], "2 Samuel_ch_12.docx": [4438, 4588, 4838, 4438, 4588, 4838], "2 Samuel_ch_17.docx": [4321, 4321], "1 Chronicles_ch_20.docx": [38, 235, 38, 235], "Jeremiah_ch_49.docx": [327, 602, 327, 602], "Ezekiel_ch_21.docx": [3159, 3159]}
 rabba	{"2 Samuel_ch_11.docx": [44], "2 Samuel_ch_12.docx": [4438, 4588, 4838], "2 Samuel_ch_17.docx": [4321], "1 Chronicles_ch_20.docx": [38, 235], "Jeremiah_ch_49.docx": [327, 602], "Ezekiel_ch_21.docx": [3159]}

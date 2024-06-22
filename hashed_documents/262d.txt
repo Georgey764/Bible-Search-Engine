@@ -1,6 +1,2 @@
 
-abijam	{"1 Kings_ch_14.docx": [5557], "1 Kings_ch_15.docx": [20, 705, 854, 859, 20, 705, 854, 859, 20, 705, 854, 859]}
-abijam	{"1 Kings_ch_14.docx": [5557], "1 Kings_ch_15.docx": [20, 705, 854, 859, 20, 705, 854, 859]}
-25doe	{"Isaiah_ch_28.docx": [3854]}
-16‘l	{"Matthew_ch_10.docx": [1863]}
 abijam	{"1 Kings_ch_14.docx": [5557], "1 Kings_ch_15.docx": [20, 705, 854, 859]}

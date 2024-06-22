@@ -1,5 +1,2 @@
 
  12	{"1 Chronicles_ch_12.docx": [1363]}
- 12	{"1 Chronicles_ch_12.docx": [1363]}
-4john	{"Matthew_ch_3.docx": [363]}
- 12	{"1 Chronicles_ch_12.docx": [1363]}

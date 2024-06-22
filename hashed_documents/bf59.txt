@@ -1,3 +1,2 @@
 
-bibles	{"Psalms_ch_150.docx": [949]}
-27[the	{"Exodus_ch_38.docx": [3387]}
+bibles	{"Psalms_ch_150.docx": [949], "Lamentations_ch_5.docx": [2448], "Ezekiel_ch_48.docx": [6452], "Daniel_ch_12.docx": [2887], "Malachi_ch_4.docx": [2797], "Matthew_ch_28.docx": [3730], "Mark_ch_16.docx": [1490, 3077]}

@@ -1,8 +1,3 @@
 
-whistl	{"1 Kings_ch_9.docx": [1339], "Job_ch_27.docx": [2101, 2101, 2101], "Isaiah_ch_5.docx": [4205, 4205, 4205], "Isaiah_ch_7.docx": [2528, 2528, 2528], "Jeremiah_ch_19.docx": [1653, 1653, 1653], "Jeremiah_ch_49.docx": [3183, 3183, 3183], "Jeremiah_ch_50.docx": [2563, 2563, 2563], "Lamentations_ch_2.docx": [3341, 3547, 3341, 3547, 3341, 3547], "Ezekiel_ch_27.docx": [5255, 5255, 5255], "Zephaniah_ch_2.docx": [4937, 4937, 4937]}
-erm	{"1 Chronicles_ch_4.docx": [3488]}
-14[the	{"Genesis_ch_40.docx": [1579], "Exodus_ch_38.docx": [1580], "Numbers_ch_7.docx": [1831], "1 Samuel_ch_10.docx": [2513]}
-whistl	{"1 Kings_ch_9.docx": [1339], "Job_ch_27.docx": [2101, 2101], "Isaiah_ch_5.docx": [4205, 4205], "Isaiah_ch_7.docx": [2528, 2528], "Jeremiah_ch_19.docx": [1653, 1653], "Jeremiah_ch_49.docx": [3183, 3183], "Jeremiah_ch_50.docx": [2563, 2563], "Lamentations_ch_2.docx": [3341, 3547, 3341, 3547], "Ezekiel_ch_27.docx": [5255, 5255], "Zephaniah_ch_2.docx": [4937, 4937]}
-erm	{"1 Chronicles_ch_4.docx": [3488]}
 whistl	{"1 Kings_ch_9.docx": [1339], "Job_ch_27.docx": [2101], "Isaiah_ch_5.docx": [4205], "Isaiah_ch_7.docx": [2528], "Jeremiah_ch_19.docx": [1653], "Jeremiah_ch_49.docx": [3183], "Jeremiah_ch_50.docx": [2563], "Lamentations_ch_2.docx": [3341, 3547], "Ezekiel_ch_27.docx": [5255], "Zephaniah_ch_2.docx": [4937]}
 erm	{"1 Chronicles_ch_4.docx": [3488]}

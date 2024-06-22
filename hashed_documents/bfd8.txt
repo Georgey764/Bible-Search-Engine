@@ -1,4 +1,2 @@
 
-penalt	{"Genesis_ch_4.docx": [1813]}
-penalt	{"Genesis_ch_4.docx": [1813]}
-penalt	{"Genesis_ch_4.docx": [1813]}
+penalt	{"Genesis_ch_4.docx": [1813], "2 Samuel_ch_24.docx": [1896], "Jude_ch_1.docx": [1478]}

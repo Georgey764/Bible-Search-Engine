@@ -1,5 +1,2 @@
 
-befoul	{"Job_ch_30.docx": [1515], "Psalms_ch_144.docx": [1594, 1594, 1594], "Ezekiel_ch_7.docx": [3842, 3842, 3842], "Ezekiel_ch_16.docx": [3653, 3653, 3653]}
-befoul	{"Job_ch_30.docx": [1515], "Psalms_ch_144.docx": [1594, 1594], "Ezekiel_ch_7.docx": [3842, 3842], "Ezekiel_ch_16.docx": [3653, 3653]}
-33un	{"Proverbs_ch_16.docx": [3442]}
 befoul	{"Job_ch_30.docx": [1515], "Psalms_ch_144.docx": [1594], "Ezekiel_ch_7.docx": [3842], "Ezekiel_ch_16.docx": [3653]}

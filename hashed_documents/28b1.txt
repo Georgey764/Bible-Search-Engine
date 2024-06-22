@@ -1,5 +1,2 @@
 
-smelt	{"2 Samuel_ch_12.docx": [5120], "1 Kings_ch_7.docx": [2095, 2095, 2095], "Revelation_ch_1.docx": [2291, 2291]}
-smelt	{"2 Samuel_ch_12.docx": [5120], "1 Kings_ch_7.docx": [2095, 2095], "Revelation_ch_1.docx": [2291]}
-4thos	{"Psalms_ch_12.docx": [381], "Psalms_ch_14.docx": [727], "Proverbs_ch_28.docx": [273], "Amos_ch_6.docx": [1272]}
 smelt	{"2 Samuel_ch_12.docx": [5120], "1 Kings_ch_7.docx": [2095], "Revelation_ch_1.docx": [2291]}

@@ -1,7 +1,3 @@
 
-adn	{"2 Chronicles_ch_17.docx": [1976], "Nehemiah_ch_12.docx": [1266, 1266, 1266]}
-lurki	{"Lamentations_ch_3.docx": [780]}
-adn	{"2 Chronicles_ch_17.docx": [1976], "Nehemiah_ch_12.docx": [1266, 1266]}
-lurki	{"Lamentations_ch_3.docx": [780]}
-adn	{"2 Chronicles_ch_17.docx": [1976], "Nehemiah_ch_12.docx": [1266]}
+adn	{"2 Chronicles_ch_17.docx": [1976], "Ezra_ch_10.docx": [4951], "Nehemiah_ch_12.docx": [1266]}
 lurki	{"Lamentations_ch_3.docx": [780]}

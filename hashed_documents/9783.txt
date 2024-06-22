@@ -1,3 +1,0 @@
-
-3‘b	{"Deuteronomy_ch_9.docx": [414], "1 Chronicles_ch_28.docx": [687], "Job_ch_14.docx": [198], "Job_ch_29.docx": [196], "Isaiah_ch_22.docx": [282], "Isaiah_ch_65.docx": [386], "Ezekiel_ch_26.docx": [383], "Hosea_ch_8.docx": [282], "Matthew_ch_5.docx": [184]}
-26(th	{"Jeremiah_ch_9.docx": [4629]}

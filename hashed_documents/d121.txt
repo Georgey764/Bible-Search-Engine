@@ -1,2 +1,0 @@
-
-24[	{"Exodus_ch_2.docx": [3307], "Exodus_ch_16.docx": [3844], "Exodus_ch_38.docx": [2943], "Deuteronomy_ch_27.docx": [3675], "Judges_ch_9.docx": [4565], "2 Chronicles_ch_25.docx": [4142], "Jeremiah_ch_33.docx": [4188], "Matthew_ch_23.docx": [2967]}

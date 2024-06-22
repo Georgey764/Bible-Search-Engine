@@ -1,7 +1,3 @@
 
-volun	{"Leviticus_ch_7.docx": [2138], "Ezra_ch_8.docx": [3854, 3854, 3854]}
-aigla	{"2 Samuel_ch_3.docx": [539]}
-volun	{"Leviticus_ch_7.docx": [2138], "Ezra_ch_8.docx": [3854, 3854]}
-aigla	{"2 Samuel_ch_3.docx": [539]}
 volun	{"Leviticus_ch_7.docx": [2138], "Ezra_ch_8.docx": [3854]}
 aigla	{"2 Samuel_ch_3.docx": [539]}

@@ -1,4 +1,2 @@
 
-soil	{"Ezekiel_ch_17.docx": [1232], "Matthew_ch_13.docx": [426, 711, 3003, 426, 711, 3003, 426, 711, 3003], "Mark_ch_4.docx": [541, 789, 2163, 541, 789, 2163], "Luke_ch_8.docx": [967, 2096, 967, 2096], "Luke_ch_14.docx": [4447, 4447]}
-soil	{"Ezekiel_ch_17.docx": [1232], "Matthew_ch_13.docx": [426, 711, 3003, 426, 711, 3003], "Mark_ch_4.docx": [541, 789, 2163], "Luke_ch_8.docx": [967, 2096], "Luke_ch_14.docx": [4447]}
 soil	{"Ezekiel_ch_17.docx": [1232], "Matthew_ch_13.docx": [426, 711, 3003], "Mark_ch_4.docx": [541, 789, 2163], "Luke_ch_8.docx": [967, 2096], "Luke_ch_14.docx": [4447]}

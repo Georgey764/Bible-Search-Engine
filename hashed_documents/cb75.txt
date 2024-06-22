@@ -1,7 +1,3 @@
 
-affe	{"Genesis_ch_42.docx": [461], "Leviticus_ch_15.docx": [244, 244, 244], "Numbers_ch_30.docx": [1988, 1988, 1988], "2 Samuel_ch_1.docx": [3697, 3697, 3697], "Jeremiah_ch_2.docx": [5936, 5936, 5936], "1 Corinthians_ch_8.docx": [1004, 1004], "Philippians_ch_1.docx": [836, 836], "1 Peter_ch_3.docx": [779, 779]}
-addo	{"1 Chronicles_ch_6.docx": [1484], "2 Chronicles_ch_12.docx": [2267, 2267, 2267], "2 Chronicles_ch_13.docx": [3644, 3644, 3644], "Nehemiah_ch_7.docx": [3565, 3565, 3565]}
-affe	{"Genesis_ch_42.docx": [461], "Leviticus_ch_15.docx": [244, 244], "Numbers_ch_30.docx": [1988, 1988], "2 Samuel_ch_1.docx": [3697, 3697], "Jeremiah_ch_2.docx": [5936, 5936], "1 Corinthians_ch_8.docx": [1004], "Philippians_ch_1.docx": [836], "1 Peter_ch_3.docx": [779]}
-addo	{"1 Chronicles_ch_6.docx": [1484], "2 Chronicles_ch_12.docx": [2267, 2267], "2 Chronicles_ch_13.docx": [3644, 3644], "Nehemiah_ch_7.docx": [3565, 3565]}
-affe	{"Genesis_ch_42.docx": [461], "Leviticus_ch_15.docx": [244], "Numbers_ch_30.docx": [1988], "2 Samuel_ch_1.docx": [3697], "Jeremiah_ch_2.docx": [5936], "1 Corinthians_ch_8.docx": [1004], "Philippians_ch_1.docx": [836], "1 Peter_ch_3.docx": [779]}
+affe	{"Genesis_ch_42.docx": [461], "Leviticus_ch_15.docx": [244], "Numbers_ch_30.docx": [1988], "2 Samuel_ch_1.docx": [3697], "Ezra_ch_10.docx": [814], "Jeremiah_ch_2.docx": [5936], "1 Corinthians_ch_8.docx": [1004], "Philippians_ch_1.docx": [836], "1 Peter_ch_3.docx": [779]}
 addo	{"1 Chronicles_ch_6.docx": [1484], "2 Chronicles_ch_12.docx": [2267], "2 Chronicles_ch_13.docx": [3644], "Nehemiah_ch_7.docx": [3565]}

@@ -1,2 +1,0 @@
-
-1:1	{"Genesis_ch_1.docx": [10], "Psalms_ch_102.docx": [2195]}

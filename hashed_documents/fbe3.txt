@@ -1,4 +1,2 @@
 
-mirror	{"Exodus_ch_38.docx": [896], "Job_ch_37.docx": [1695, 1695, 1695], "1 Corinthians_ch_13.docx": [1395, 1395], "2 Corinthians_ch_3.docx": [2412, 2412], "James_ch_1.docx": [2562, 2562]}
-mirror	{"Exodus_ch_38.docx": [896], "Job_ch_37.docx": [1695, 1695], "1 Corinthians_ch_13.docx": [1395], "2 Corinthians_ch_3.docx": [2412], "James_ch_1.docx": [2562]}
 mirror	{"Exodus_ch_38.docx": [896], "Job_ch_37.docx": [1695], "1 Corinthians_ch_13.docx": [1395], "2 Corinthians_ch_3.docx": [2412], "James_ch_1.docx": [2562]}

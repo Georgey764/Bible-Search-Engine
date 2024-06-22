@@ -1,2 +1,0 @@
-
-18ho	{"Genesis_ch_37.docx": [2293], "Numbers_ch_22.docx": [2432], "Joshua_ch_9.docx": [9364], "Judges_ch_1.docx": [5164], "1 Samuel_ch_18.docx": [2838], "1 Kings_ch_13.docx": [2815], "1 Kings_ch_14.docx": [3194], "2 Kings_ch_8.docx": [3297], "Nehemiah_ch_10.docx": [921], "Matthew_ch_8.docx": [2273]}

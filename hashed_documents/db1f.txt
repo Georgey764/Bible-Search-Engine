@@ -1,8 +1,3 @@
 
 headwe	{"Exodus_ch_28.docx": [5164]}
-zak	{"1 Chronicles_ch_8.docx": [1988]}
-headwe	{"Exodus_ch_28.docx": [5164]}
-zak	{"1 Chronicles_ch_8.docx": [1988]}
-14‘fr	{"Ezekiel_ch_27.docx": [1928], "Ezekiel_ch_28.docx": [2031]}
-headwe	{"Exodus_ch_28.docx": [5164]}
  zak	{"1 Chronicles_ch_8.docx": [1988]}

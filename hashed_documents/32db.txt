@@ -1,5 +1,2 @@
 
-sharez	{"Isaiah_ch_37.docx": [6055], "Jeremiah_ch_39.docx": [2068, 2068, 2068]}
-sharez	{"Isaiah_ch_37.docx": [6055], "Jeremiah_ch_39.docx": [2068, 2068]}
-5‘ce	{"Ezekiel_ch_27.docx": [408]}
 sharez	{"Isaiah_ch_37.docx": [6055], "Jeremiah_ch_39.docx": [2068]}

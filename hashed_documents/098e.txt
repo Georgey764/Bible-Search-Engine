@@ -1,3 +1,2 @@
 
-zeus	{"Acts_ch_14.docx": [2889, 2909, 2909]}
-zeus	{"Acts_ch_14.docx": [2889, 2909]}
+zeus	{"Acts_ch_14.docx": [2889, 2909], "Acts_ch_28.docx": [1678]}

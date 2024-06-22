@@ -1,5 +1,2 @@
 
 antim	{"Jeremiah_ch_4.docx": [5261]}
-99i	{"Psalms_ch_119.docx": [8242]}
-antim	{"Jeremiah_ch_4.docx": [5261]}
-antim	{"Jeremiah_ch_4.docx": [5261]}

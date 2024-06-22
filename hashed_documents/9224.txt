@@ -1,7 +1,3 @@
 
-budde	{"Genesis_ch_40.docx": [961], "Song of Solomon_ch_7.docx": [1702, 1702, 1702]}
-colog	{"Daniel_ch_2.docx": [8188], "Amos_ch_6.docx": [1624, 1624, 1624]}
-budde	{"Genesis_ch_40.docx": [961], "Song of Solomon_ch_7.docx": [1702, 1702]}
-colog	{"Daniel_ch_2.docx": [8188], "Amos_ch_6.docx": [1624, 1624]}
 budde	{"Genesis_ch_40.docx": [961], "Song of Solomon_ch_7.docx": [1702]}
 colog	{"Daniel_ch_2.docx": [8188], "Amos_ch_6.docx": [1624]}

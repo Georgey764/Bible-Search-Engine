@@ -1,4 +1,2 @@
 
-learns	{"Proverbs_ch_17.docx": [1054], "Proverbs_ch_28.docx": [1448, 1448, 1448], "Isaiah_ch_8.docx": [566, 566, 566]}
-learns	{"Proverbs_ch_17.docx": [1054], "Proverbs_ch_28.docx": [1448, 1448], "Isaiah_ch_8.docx": [566, 566]}
 learns	{"Proverbs_ch_17.docx": [1054], "Proverbs_ch_28.docx": [1448], "Isaiah_ch_8.docx": [566]}

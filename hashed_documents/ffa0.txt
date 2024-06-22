@@ -1,4 +1,2 @@
 
-kit	{"Leviticus_ch_11.docx": [1752], "Deuteronomy_ch_14.docx": [1295, 1295, 1295], "1 Chronicles_ch_1.docx": [406, 406, 406]}
-kit	{"Leviticus_ch_11.docx": [1752], "Deuteronomy_ch_14.docx": [1295, 1295], "1 Chronicles_ch_1.docx": [406, 406]}
 kit	{"Leviticus_ch_11.docx": [1752], "Deuteronomy_ch_14.docx": [1295], "1 Chronicles_ch_1.docx": [406]}

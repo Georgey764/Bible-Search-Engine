@@ -1,4 +1,2 @@
 
-amit	{"2 Kings_ch_23.docx": [7027], "2 Kings_ch_24.docx": [2830, 2830, 2830]}
-amit	{"2 Kings_ch_23.docx": [7027], "2 Kings_ch_24.docx": [2830, 2830]}
-amit	{"2 Kings_ch_23.docx": [7027], "2 Kings_ch_24.docx": [2830]}
+amit	{"2 Kings_ch_23.docx": [7027], "2 Kings_ch_24.docx": [2830], "2 Chronicles_ch_36.docx": [50]}

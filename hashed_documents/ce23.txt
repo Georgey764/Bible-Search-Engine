@@ -1,5 +1,2 @@
 
 sifti	{"2 Samuel_ch_4.docx": [790]}
-20jeho	{"Deuteronomy_ch_28.docx": [2557]}
-sifti	{"2 Samuel_ch_4.docx": [790]}
-sifti	{"2 Samuel_ch_4.docx": [790]}

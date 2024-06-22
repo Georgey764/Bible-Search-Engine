@@ -1,4 +1,2 @@
 
-aine	{"Acts_ch_9.docx": [5364, 5488, 5488]}
-83alt	{"Psalms_ch_119.docx": [6825]}
 aine	{"Acts_ch_9.docx": [5364, 5488]}

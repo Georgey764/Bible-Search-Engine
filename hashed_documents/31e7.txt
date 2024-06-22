@@ -1,3 +1,2 @@
 
 pomp	{"Acts_ch_25.docx": [6902]}
-pomp	{"Acts_ch_25.docx": [6902]}

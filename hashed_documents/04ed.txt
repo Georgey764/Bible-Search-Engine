@@ -1,4 +1,2 @@
 
-semiu	{"Numbers_ch_10.docx": [2548], "Numbers_ch_34.docx": [2036, 2036, 2036]}
-semiu	{"Numbers_ch_10.docx": [2548], "Numbers_ch_34.docx": [2036, 2036]}
 semiu	{"Numbers_ch_10.docx": [2548], "Numbers_ch_34.docx": [2036]}

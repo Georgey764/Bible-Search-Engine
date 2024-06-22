@@ -1,4 +1,2 @@
 
-kings!	{"Joshua_ch_10.docx": [7866], "Joshua_ch_23.docx": [733, 733, 733]}
-kings!	{"Joshua_ch_10.docx": [7866], "Joshua_ch_23.docx": [733, 733]}
 kings!	{"Joshua_ch_10.docx": [7866], "Joshua_ch_23.docx": [733]}

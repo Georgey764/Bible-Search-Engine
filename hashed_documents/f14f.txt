@@ -1,4 +1,2 @@
 
-teeth!	{"Matthew_ch_22.docx": [1565], "Matthew_ch_25.docx": [3468, 3468, 3468]}
-teeth!	{"Matthew_ch_22.docx": [1565], "Matthew_ch_25.docx": [3468, 3468]}
 teeth!	{"Matthew_ch_22.docx": [1565], "Matthew_ch_25.docx": [3468]}

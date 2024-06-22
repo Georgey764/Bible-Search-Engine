@@ -1,2 +1,0 @@
-
-34‘a	{"Exodus_ch_28.docx": [4449], "Exodus_ch_29.docx": [4609], "Exodus_ch_30.docx": [4207], "Leviticus_ch_25.docx": [4882], "Deuteronomy_ch_1.docx": [4926], "1 Samuel_ch_25.docx": [5254], "1 Chronicles_ch_16.docx": [3539], "2 Chronicles_ch_6.docx": [5722], "Matthew_ch_18.docx": [4480], "Matthew_ch_25.docx": [3913]}

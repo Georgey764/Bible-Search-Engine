@@ -1,7 +1,3 @@
 
-sores	{"Leviticus_ch_14.docx": [8056], "Leviticus_ch_21.docx": [2413, 2413], "Deuteronomy_ch_28.docx": [2901, 3625, 4777, 2901, 3625, 4777, 2901, 3625, 4777], "Job_ch_2.docx": [989, 989, 989], "Job_ch_6.docx": [2217, 2217, 2217], "Job_ch_16.docx": [511, 511, 511], "Job_ch_19.docx": [1770, 1770, 1770], "Luke_ch_16.docx": [3007, 3034, 3007, 3034], "Revelation_ch_16.docx": [274, 1500, 274, 1500]}
-malign	{"Revelation_ch_16.docx": [273]}
-sores	{"Leviticus_ch_21.docx": [2413, 2413], "Deuteronomy_ch_28.docx": [2901, 3625, 4777, 2901, 3625, 4777], "Job_ch_2.docx": [989, 989], "Job_ch_6.docx": [2217, 2217], "Job_ch_16.docx": [511, 511], "Job_ch_19.docx": [1770, 1770], "Luke_ch_16.docx": [3007, 3034], "Revelation_ch_16.docx": [274, 1500]}
-3372,	{"Numbers_ch_31.docx": [3972]}
 sores	{"Leviticus_ch_14.docx": [8056], "Leviticus_ch_21.docx": [2413], "Deuteronomy_ch_28.docx": [2901, 3625, 4777], "Job_ch_2.docx": [989], "Job_ch_6.docx": [2217], "Job_ch_16.docx": [511], "Job_ch_19.docx": [1770], "Luke_ch_16.docx": [3007, 3034], "Revelation_ch_16.docx": [274, 1500]}
 malign	{"Revelation_ch_16.docx": [273]}

@@ -19,10 +19,10 @@ from docx import Document
 
 # print(not "hi" in json_hi or 3 > 1)
 
-# print(hashlib.md5("beginn".encode("UTF-8")).hexdigest()[:4])
-docx = Document(f"./Books/Genesis/Genesis_ch_1.docx")
-hi = [paragraph.text.split(" ") for paragraph in docx.paragraphs]
-print(hi)
+print(hashlib.md5("justic".encode("UTF-8")).hexdigest()[:4])
+# docx = Document(f"./Books/Genesis/Genesis_ch_1.docx")
+# hi = [paragraph.text.split(" ") for paragraph in docx.paragraphs]
+# print(hi)
 
 # query = """
 # 	beginning

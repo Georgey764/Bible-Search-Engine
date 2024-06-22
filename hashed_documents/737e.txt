@@ -1,4 +1,2 @@
 
-scraps	{"Job_ch_22.docx": [610], "Job_ch_24.docx": [986, 986, 986], "Ezekiel_ch_13.docx": [3750, 3750, 3750], "Matthew_ch_14.docx": [2397, 2397, 2397], "Matthew_ch_15.docx": [4409, 4409, 4409], "Mark_ch_6.docx": [6044, 6044]}
-scraps	{"Job_ch_22.docx": [610], "Job_ch_24.docx": [986, 986], "Ezekiel_ch_13.docx": [3750, 3750], "Matthew_ch_14.docx": [2397, 2397], "Matthew_ch_15.docx": [4409, 4409], "Mark_ch_6.docx": [6044]}
 scraps	{"Job_ch_22.docx": [610], "Job_ch_24.docx": [986], "Ezekiel_ch_13.docx": [3750], "Matthew_ch_14.docx": [2397], "Matthew_ch_15.docx": [4409], "Mark_ch_6.docx": [6044]}

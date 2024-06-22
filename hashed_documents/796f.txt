@@ -1,3 +1,2 @@
 
-soundi	{"Acts_ch_27.docx": [3831, 3900, 3900]}
 soundi	{"Acts_ch_27.docx": [3831, 3900]}

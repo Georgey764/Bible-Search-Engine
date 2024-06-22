@@ -1,5 +1,2 @@
 
-bypa	{"Isaiah_ch_10.docx": [4292], "Luke_ch_11.docx": [5841, 5841]}
-28am	{"Numbers_ch_1.docx": [2593], "Job_ch_39.docx": [2496]}
-bypa	{"Isaiah_ch_10.docx": [4292], "Luke_ch_11.docx": [5841]}
 bypa	{"Isaiah_ch_10.docx": [4292], "Luke_ch_11.docx": [5841]}

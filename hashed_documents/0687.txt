@@ -1,5 +1,2 @@
 
-agitat	{"Matthew_ch_8.docx": [2892], "Acts_ch_17.docx": [1646, 2583, 1646, 2583], "Galatians_ch_5.docx": [1125, 1125]}
-53‘so	{"Jeremiah_ch_51.docx": [8839], "Ezekiel_ch_16.docx": [8743]}
-agitat	{"Matthew_ch_8.docx": [2892], "Acts_ch_17.docx": [1646, 2583], "Galatians_ch_5.docx": [1125]}
 agitat	{"Matthew_ch_8.docx": [2892], "Acts_ch_17.docx": [1646, 2583], "Galatians_ch_5.docx": [1125]}

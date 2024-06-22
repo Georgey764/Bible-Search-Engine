@@ -1,7 +1,3 @@
 
-wines	{"Esther_ch_1.docx": [1453], "Ecclesiastes_ch_9.docx": [1369, 1369, 1369], "Song of Solomon_ch_4.docx": [1471, 1471, 1471], "Song of Solomon_ch_7.docx": [242, 1210, 242, 1210, 242, 1210], "Isaiah_ch_55.docx": [157, 157, 157], "Ezekiel_ch_27.docx": [2729, 2729, 2729], "Matthew_ch_9.docx": [2261, 2268, 2287, 2261, 2268, 2287, 2261, 2268, 2287], "Mark_ch_2.docx": [3009, 3035, 3009, 3035], "Luke_ch_5.docx": [6529, 6667, 6529, 6667]}
-dazzle	{"Acts_ch_7.docx": [4090], "Acts_ch_8.docx": [3208, 3208]}
-43thi	{"Exodus_ch_29.docx": [5766]}
-wines	{"Esther_ch_1.docx": [1453], "Ecclesiastes_ch_9.docx": [1369, 1369], "Song of Solomon_ch_4.docx": [1471, 1471], "Song of Solomon_ch_7.docx": [242, 1210, 242, 1210], "Isaiah_ch_55.docx": [157, 157], "Ezekiel_ch_27.docx": [2729, 2729], "Matthew_ch_9.docx": [2261, 2268, 2287, 2261, 2268, 2287], "Mark_ch_2.docx": [3009, 3035], "Luke_ch_5.docx": [6529, 6667]}
-wines	{"Esther_ch_1.docx": [1453], "Ecclesiastes_ch_9.docx": [1369], "Song of Solomon_ch_4.docx": [1471], "Song of Solomon_ch_7.docx": [242, 1210], "Isaiah_ch_55.docx": [157], "Ezekiel_ch_27.docx": [2729], "Matthew_ch_9.docx": [2261, 2268, 2287], "Mark_ch_2.docx": [3009, 3035], "Luke_ch_5.docx": [6529, 6667]}
+wines	{"Esther_ch_1.docx": [1453], "Ecclesiastes_ch_9.docx": [1369], "Song of Solomon_ch_4.docx": [1471], "Song of Solomon_ch_7.docx": [242, 1210], "Isaiah_ch_55.docx": [157], "Ezekiel_ch_27.docx": [2729], "Hosea_ch_14.docx": [1125], "Matthew_ch_9.docx": [2261, 2268, 2287], "Mark_ch_2.docx": [3009, 3035], "Luke_ch_5.docx": [6529, 6667]}
 dazzle	{"Acts_ch_7.docx": [4090], "Acts_ch_8.docx": [3208]}

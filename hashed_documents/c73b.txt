@@ -1,4 +1,2 @@
 
-woman;	{"Exodus_ch_21.docx": [3553], "Leviticus_ch_20.docx": [1340, 1525, 1340, 1525, 1340, 1525], "Matthew_ch_15.docx": [3068, 3068, 3068]}
-woman;	{"Exodus_ch_21.docx": [3553], "Leviticus_ch_20.docx": [1340, 1525, 1340, 1525], "Matthew_ch_15.docx": [3068, 3068]}
 woman;	{"Exodus_ch_21.docx": [3553], "Leviticus_ch_20.docx": [1340, 1525], "Matthew_ch_15.docx": [3068]}

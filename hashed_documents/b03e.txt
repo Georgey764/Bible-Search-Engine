@@ -1,6 +1,2 @@
 
-specta	{"Matthew_ch_1.docx": [1668], "Luke_ch_23.docx": [5682, 5682], "1 Corinthians_ch_4.docx": [1529, 1529], "2 Corinthians_ch_2.docx": [2040, 2040], "Hebrews_ch_10.docx": [4411, 4414, 4411, 4414]}
-12‘i’	{"Exodus_ch_16.docx": [1893], "Leviticus_ch_26.docx": [1392], "Nehemiah_ch_6.docx": [1875], "Isaiah_ch_43.docx": [2026], "Ezekiel_ch_29.docx": [2016]}
-32‘wel	{"Deuteronomy_ch_2.docx": [4554]}
-specta	{"Matthew_ch_1.docx": [1668], "Luke_ch_23.docx": [5682], "1 Corinthians_ch_4.docx": [1529], "2 Corinthians_ch_2.docx": [2040], "Hebrews_ch_10.docx": [4411, 4414]}
 specta	{"Matthew_ch_1.docx": [1668], "Luke_ch_23.docx": [5682], "1 Corinthians_ch_4.docx": [1529], "2 Corinthians_ch_2.docx": [2040], "Hebrews_ch_10.docx": [4411, 4414]}

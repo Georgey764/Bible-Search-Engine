@@ -1,2 +1,0 @@
-
-43t	{"Genesis_ch_31.docx": [6093], "Genesis_ch_41.docx": [5259], "Exodus_ch_12.docx": [6753], "Exodus_ch_29.docx": [5766], "Numbers_ch_14.docx": [5957], "Numbers_ch_16.docx": [6200], "Numbers_ch_31.docx": [4654], "Deuteronomy_ch_28.docx": [5887], "Judges_ch_20.docx": [6735], "2 Samuel_ch_19.docx": [7079], "1 Chronicles_ch_1.docx": [3547], "1 Chronicles_ch_4.docx": [4987], "Ezra_ch_2.docx": [1750], "Nehemiah_ch_7.docx": [2588], "Jeremiah_ch_32.docx": [7370], "Lamentations_ch_3.docx": [3526]}

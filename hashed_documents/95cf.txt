@@ -1,4 +1,2 @@
 
-spoke;	{"Job_ch_29.docx": [1915], "Psalms_ch_116.docx": [843, 843, 843]}
-spoke;	{"Job_ch_29.docx": [1915], "Psalms_ch_116.docx": [843, 843]}
 spoke;	{"Job_ch_29.docx": [1915], "Psalms_ch_116.docx": [843]}

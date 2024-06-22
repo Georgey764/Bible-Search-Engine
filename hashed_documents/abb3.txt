@@ -1,4 +1,2 @@
 
-virtue	{"Isaiah_ch_42.docx": [1714], "Isaiah_ch_43.docx": [3412, 3412, 3412], "Isaiah_ch_63.docx": [964, 964, 964], "1 Peter_ch_2.docx": [1186, 1186], "2 Peter_ch_1.docx": [555, 966, 997, 555, 966, 997]}
-virtue	{"Isaiah_ch_42.docx": [1714], "Isaiah_ch_43.docx": [3412, 3412], "Isaiah_ch_63.docx": [964, 964], "1 Peter_ch_2.docx": [1186], "2 Peter_ch_1.docx": [555, 966, 997]}
-virtue	{"Isaiah_ch_42.docx": [1714], "Isaiah_ch_43.docx": [3412], "Isaiah_ch_63.docx": [964], "1 Peter_ch_2.docx": [1186], "2 Peter_ch_1.docx": [555, 966, 997]}
+virtue	{"Isaiah_ch_42.docx": [1714], "Isaiah_ch_43.docx": [3412], "Isaiah_ch_63.docx": [964], "Habakkuk_ch_3.docx": [734], "1 Peter_ch_2.docx": [1186], "2 Peter_ch_1.docx": [555, 966, 997]}

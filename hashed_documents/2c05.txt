@@ -1,10 +1,4 @@
 
-rapidl	{"Genesis_ch_47.docx": [4525], "Daniel_ch_8.docx": [1416, 1416, 1416]}
-macki	{"Numbers_ch_13.docx": [1068]}
-forces	{"1 Samuel_ch_11.docx": [1220], "1 Kings_ch_20.docx": [3662, 3662, 3662], "2 Kings_ch_9.docx": [2290, 2290, 2290], "2 Chronicles_ch_25.docx": [1050, 1050, 1050], "Isaiah_ch_7.docx": [272, 272, 272]}
-rapidl	{"Genesis_ch_47.docx": [4525], "Daniel_ch_8.docx": [1416, 1416]}
-macki	{"Numbers_ch_13.docx": [1068]}
-forces	{"1 Samuel_ch_11.docx": [1220], "1 Kings_ch_20.docx": [3662, 3662], "2 Kings_ch_9.docx": [2290, 2290], "2 Chronicles_ch_25.docx": [1050, 1050], "Isaiah_ch_7.docx": [272, 272]}
-rapidl	{"Genesis_ch_47.docx": [4525], "Daniel_ch_8.docx": [1416]}
+rapidl	{"Genesis_ch_47.docx": [4525], "Daniel_ch_8.docx": [1416], "2 Thessalonians_ch_3.docx": [70]}
 macki	{"Numbers_ch_13.docx": [1068]}
 forces	{"1 Samuel_ch_11.docx": [1220], "1 Kings_ch_20.docx": [3662], "2 Kings_ch_9.docx": [2290], "2 Chronicles_ch_25.docx": [1050], "Isaiah_ch_7.docx": [272]}

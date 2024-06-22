@@ -1,4 +1,2 @@
 
-shorta	{"Deuteronomy_ch_28.docx": [2560], "2 Corinthians_ch_6.docx": [422, 422]}
-shorta	{"Deuteronomy_ch_28.docx": [2560], "2 Corinthians_ch_6.docx": [422]}
 shorta	{"Deuteronomy_ch_28.docx": [2560], "2 Corinthians_ch_6.docx": [422]}

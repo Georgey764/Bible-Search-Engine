@@ -1,5 +1,2 @@
 
-hails	{"Exodus_ch_9.docx": [1707, 2426, 3090, 3454, 2426, 3090, 3454, 2426, 3090, 3454], "Joshua_ch_10.docx": [4564, 4593, 4623, 5935, 4564, 4593, 4623, 5935, 4564, 4593, 4623, 5935], "Ezekiel_ch_38.docx": [4270, 4270, 4270], "Revelation_ch_11.docx": [3281, 3281], "Revelation_ch_16.docx": [2978, 2978]}
-hails	{"Exodus_ch_9.docx": [1707, 2426, 3090, 3454, 2426, 3090, 3454], "Joshua_ch_10.docx": [4564, 4593, 4623, 5935, 4564, 4593, 4623, 5935], "Ezekiel_ch_38.docx": [4270, 4270], "Revelation_ch_11.docx": [3281], "Revelation_ch_16.docx": [2978]}
-8hea	{"Proverbs_ch_1.docx": [837]}
 hails	{"Exodus_ch_9.docx": [1707, 2426, 3090, 3454], "Joshua_ch_10.docx": [4564, 4593, 4623, 5935], "Ezekiel_ch_38.docx": [4270], "Revelation_ch_11.docx": [3281], "Revelation_ch_16.docx": [2978]}

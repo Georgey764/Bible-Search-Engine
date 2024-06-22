@@ -1,5 +1,2 @@
 
-eschol	{"Genesis_ch_14.docx": [1750, 3395, 3395, 3395]}
-eschol	{"Genesis_ch_14.docx": [1750, 3395, 3395]}
-54then	{"Numbers_ch_31.docx": [5651], "Lamentations_ch_3.docx": [4438]}
 eschol	{"Genesis_ch_14.docx": [1750, 3395]}

@@ -1,5 +1,2 @@
 
 phasea	{"Nehemiah_ch_7.docx": [2856]}
-phasea	{"Nehemiah_ch_7.docx": [2856]}
-22may	{"Job_ch_31.docx": [2030], "Psalms_ch_69.docx": [2379]}
-phasea	{"Nehemiah_ch_7.docx": [2856]}

@@ -1,4 +1,2 @@
 
-neko	{"Ezra_ch_2.docx": [1915, 2642, 2642, 2642], "Nehemiah_ch_7.docx": [2852, 3746, 2852, 3746, 2852, 3746]}
-neko	{"Ezra_ch_2.docx": [1915, 2642, 2642], "Nehemiah_ch_7.docx": [2852, 3746, 2852, 3746]}
 neko	{"Ezra_ch_2.docx": [1915, 2642], "Nehemiah_ch_7.docx": [2852, 3746]}

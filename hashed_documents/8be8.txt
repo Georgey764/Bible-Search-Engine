@@ -1,4 +1,2 @@
 
-oaks	{"Hosea_ch_4.docx": [1979], "Amos_ch_2.docx": [2598, 2598, 2598], "Zechariah_ch_11.docx": [216, 221, 227, 216, 221, 227, 216, 221, 227]}
-oaks	{"Hosea_ch_4.docx": [1979], "Amos_ch_2.docx": [2598, 2598], "Zechariah_ch_11.docx": [216, 221, 227, 216, 221, 227]}
 oaks	{"Hosea_ch_4.docx": [1979], "Amos_ch_2.docx": [2598], "Zechariah_ch_11.docx": [216, 221, 227]}

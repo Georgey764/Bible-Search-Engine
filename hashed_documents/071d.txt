@@ -1,5 +1,3 @@
 
-wantin	{"1 Kings_ch_16.docx": [3230], "Luke_ch_23.docx": [861, 861], "John_ch_8.docx": [5447, 5447], "Romans_ch_15.docx": [3274, 3274]}
+wantin	{"1 Kings_ch_16.docx": [3230], "Luke_ch_23.docx": [861], "John_ch_8.docx": [5447], "Romans_ch_15.docx": [3274]}
 mush	{"Job_ch_42.docx": [4350]}
-wantin	{"1 Kings_ch_16.docx": [3230], "Luke_ch_23.docx": [861], "John_ch_8.docx": [5447], "Romans_ch_15.docx": [3274]}
-wantin	{"1 Kings_ch_16.docx": [3230], "Luke_ch_23.docx": [861], "John_ch_8.docx": [5447], "Romans_ch_15.docx": [3274]}

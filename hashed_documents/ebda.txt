@@ -1,7 +1,3 @@
 
 zadi	{"1 Chronicles_ch_27.docx": [2777]}
-imita	{"1 Corinthians_ch_4.docx": [2177], "1 Corinthians_ch_11.docx": [9, 13, 9, 13], "Ephesians_ch_5.docx": [5, 5], "1 Thessalonians_ch_2.docx": [1908, 1908]}
-57we	{"1 Samuel_ch_17.docx": [9370]}
-zadi	{"1 Chronicles_ch_27.docx": [2777]}
-zadi	{"1 Chronicles_ch_27.docx": [2777]}
-imita	{"1 Corinthians_ch_4.docx": [2177], "1 Corinthians_ch_11.docx": [9, 13], "Ephesians_ch_5.docx": [5], "1 Thessalonians_ch_2.docx": [1908]}
+imita	{"1 Corinthians_ch_4.docx": [2177], "1 Corinthians_ch_11.docx": [9, 13], "Ephesians_ch_5.docx": [5], "1 Thessalonians_ch_2.docx": [1908], "2 Thessalonians_ch_3.docx": [783, 1099], "3 John_ch_1.docx": [1299]}

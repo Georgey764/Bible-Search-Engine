@@ -1,7 +1,3 @@
 
-melo	{"Numbers_ch_11.docx": [645], "Joel_ch_1.docx": [1776, 1776, 1776]}
-nemm	{"Joshua_ch_21.docx": [3973]}
-melo	{"Numbers_ch_11.docx": [645], "Joel_ch_1.docx": [1776, 1776]}
-nemm	{"Joshua_ch_21.docx": [3973]}
 melo	{"Numbers_ch_11.docx": [645], "Joel_ch_1.docx": [1776]}
 nemm	{"Joshua_ch_21.docx": [3973]}

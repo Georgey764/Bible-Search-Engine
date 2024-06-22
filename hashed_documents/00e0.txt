@@ -1,4 +1,2 @@
 
-regain	{"Genesis_ch_43.docx": [4337], "Judges_ch_15.docx": [3604, 3604, 3604], "1 Samuel_ch_28.docx": [3573, 3573, 3573], "2 Chronicles_ch_12.docx": [1670, 1670, 1670], "Luke_ch_4.docx": [2549, 2549], "Acts_ch_9.docx": [2994, 2994]}
-regain	{"Genesis_ch_43.docx": [4337], "Judges_ch_15.docx": [3604, 3604], "1 Samuel_ch_28.docx": [3573, 3573], "2 Chronicles_ch_12.docx": [1670, 1670], "Luke_ch_4.docx": [2549], "Acts_ch_9.docx": [2994]}
 regain	{"Genesis_ch_43.docx": [4337], "Judges_ch_15.docx": [3604], "1 Samuel_ch_28.docx": [3573], "2 Chronicles_ch_12.docx": [1670], "Luke_ch_4.docx": [2549], "Acts_ch_9.docx": [2994]}

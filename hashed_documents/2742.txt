@@ -1,4 +1,2 @@
 
-out-s	{"Exodus_ch_37.docx": [809], "Isaiah_ch_8.docx": [1203, 1203, 1203]}
-out-s	{"Exodus_ch_37.docx": [809], "Isaiah_ch_8.docx": [1203, 1203]}
 out-s	{"Exodus_ch_37.docx": [809], "Isaiah_ch_8.docx": [1203]}

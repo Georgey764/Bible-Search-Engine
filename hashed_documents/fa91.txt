@@ -1,4 +1,2 @@
 
-outerm	{"1 Kings_ch_6.docx": [3393, 3413, 3413, 3413]}
-outerm	{"1 Kings_ch_6.docx": [3393, 3413, 3413]}
 outerm	{"1 Kings_ch_6.docx": [3393, 3413]}

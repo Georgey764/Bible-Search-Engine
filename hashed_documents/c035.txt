@@ -1,5 +1,2 @@
 
-scorc	{"Isaiah_ch_9.docx": [880], "Isaiah_ch_64.docx": [1409, 1409, 1409], "Matthew_ch_13.docx": [524, 524, 524], "Mark_ch_4.docx": [583, 583]}
-6all	{"Joshua_ch_13.docx": [9772], "2 Kings_ch_15.docx": [724]}
-scorc	{"Isaiah_ch_9.docx": [880], "Isaiah_ch_64.docx": [1409, 1409], "Matthew_ch_13.docx": [524, 524], "Mark_ch_4.docx": [583]}
 scorc	{"Isaiah_ch_9.docx": [880], "Isaiah_ch_64.docx": [1409], "Matthew_ch_13.docx": [524], "Mark_ch_4.docx": [583]}

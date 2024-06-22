@@ -1,5 +1,2 @@
 
 zadd	{"1 Chronicles_ch_2.docx": [1236]}
-55no	{"1 Samuel_ch_17.docx": [9095]}
-zadd	{"1 Chronicles_ch_2.docx": [1236]}
-zadd	{"1 Chronicles_ch_2.docx": [1236]}

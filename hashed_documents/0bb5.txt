@@ -1,4 +1,2 @@
 
-sobal	{"Genesis_ch_36.docx": [2364, 2570, 3100, 2570, 3100, 2570, 3100], "1 Chronicles_ch_2.docx": [4530, 4610, 4530, 4610, 4530, 4610], "Psalms_ch_60.docx": [118, 118, 118]}
-sobal	{"Genesis_ch_36.docx": [2364, 2570, 3100, 2570, 3100], "1 Chronicles_ch_2.docx": [4530, 4610, 4530, 4610], "Psalms_ch_60.docx": [118, 118]}
 sobal	{"Genesis_ch_36.docx": [2364, 2570, 3100], "1 Chronicles_ch_2.docx": [4530, 4610], "Psalms_ch_60.docx": [118]}

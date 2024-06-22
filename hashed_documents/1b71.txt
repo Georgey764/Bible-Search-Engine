@@ -1,4 +1,2 @@
 
-dome	{"Genesis_ch_9.docx": [991], "Ezekiel_ch_1.docx": [3041, 3057, 3596, 3041, 3057, 3596, 3041, 3057, 3596], "Ezekiel_ch_10.docx": [24, 24, 24]}
-dome	{"Genesis_ch_9.docx": [991], "Ezekiel_ch_1.docx": [3041, 3057, 3596, 3041, 3057, 3596], "Ezekiel_ch_10.docx": [24, 24]}
 dome	{"Genesis_ch_9.docx": [991], "Ezekiel_ch_1.docx": [3041, 3057, 3596], "Ezekiel_ch_10.docx": [24]}

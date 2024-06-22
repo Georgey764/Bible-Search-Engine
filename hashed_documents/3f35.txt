@@ -1,4 +1,2 @@
 
-stone;	{"1 Kings_ch_6.docx": [928], "Ezekiel_ch_1.docx": [3665, 3665, 3665]}
-stone;	{"1 Kings_ch_6.docx": [928], "Ezekiel_ch_1.docx": [3665, 3665]}
 stone;	{"1 Kings_ch_6.docx": [928], "Ezekiel_ch_1.docx": [3665]}

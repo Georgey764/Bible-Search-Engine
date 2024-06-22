@@ -1,4 +1,2 @@
 
-jekl	{"1 Chronicles_ch_2.docx": [3945, 3946, 3946, 3946]}
-jekl	{"1 Chronicles_ch_2.docx": [3945, 3946, 3946]}
 jekl	{"1 Chronicles_ch_2.docx": [3945, 3946]}

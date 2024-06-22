@@ -1,4 +1,2 @@
 
-helme	{"1 Samuel_ch_17.docx": [448, 5652, 5652, 5652], "2 Chronicles_ch_26.docx": [2025, 2025, 2025], "Isaiah_ch_59.docx": [2646, 2646, 2646], "Jeremiah_ch_46.docx": [525, 525, 525], "Ezekiel_ch_23.docx": [3933, 3933, 3933], "Ezekiel_ch_27.docx": [1269, 1269, 1269], "Ezekiel_ch_38.docx": [582, 672, 582, 672, 582, 672]}
-helme	{"1 Samuel_ch_17.docx": [448, 5652, 5652], "2 Chronicles_ch_26.docx": [2025, 2025], "Isaiah_ch_59.docx": [2646, 2646], "Jeremiah_ch_46.docx": [525, 525], "Ezekiel_ch_23.docx": [3933, 3933], "Ezekiel_ch_27.docx": [1269, 1269], "Ezekiel_ch_38.docx": [582, 672, 582, 672]}
-helme	{"1 Samuel_ch_17.docx": [448, 5652], "2 Chronicles_ch_26.docx": [2025], "Isaiah_ch_59.docx": [2646], "Jeremiah_ch_46.docx": [525], "Ezekiel_ch_23.docx": [3933], "Ezekiel_ch_27.docx": [1269], "Ezekiel_ch_38.docx": [582, 672]}
+helme	{"1 Samuel_ch_17.docx": [448, 5652], "2 Chronicles_ch_26.docx": [2025], "Isaiah_ch_59.docx": [2646], "Jeremiah_ch_46.docx": [525], "Ezekiel_ch_23.docx": [3933], "Ezekiel_ch_27.docx": [1269], "Ezekiel_ch_38.docx": [582, 672], "Ephesians_ch_6.docx": [1817], "1 Thessalonians_ch_5.docx": [914]}

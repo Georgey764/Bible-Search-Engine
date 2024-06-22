@@ -1,7 +1,3 @@
 
-ladi	{"Judges_ch_5.docx": [4204], "Isaiah_ch_24.docx": [274, 274, 274]}
-sewin	{"Proverbs_ch_7.docx": [1393]}
-ladi	{"Judges_ch_5.docx": [4204], "Isaiah_ch_24.docx": [274, 274]}
-sewin	{"Proverbs_ch_7.docx": [1393]}
 ladi	{"Judges_ch_5.docx": [4204], "Isaiah_ch_24.docx": [274]}
 sewin	{"Proverbs_ch_7.docx": [1393]}

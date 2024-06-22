@@ -1,4 +1,2 @@
 
 jaro	{"1 Chronicles_ch_5.docx": [1752]}
-jaro	{"1 Chronicles_ch_5.docx": [1752]}
-jaro	{"1 Chronicles_ch_5.docx": [1752]}

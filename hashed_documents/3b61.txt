@@ -1,4 +1,2 @@
 
-boldly	{"Ezekiel_ch_19.docx": [722], "Acts_ch_9.docx": [4210, 4210], "Acts_ch_13.docx": [8022, 8022], "Acts_ch_14.docx": [345, 345], "Acts_ch_18.docx": [8650, 8650], "Acts_ch_19.docx": [1309, 1309]}
-boldly	{"Ezekiel_ch_19.docx": [722], "Acts_ch_9.docx": [4210], "Acts_ch_13.docx": [8022], "Acts_ch_14.docx": [345], "Acts_ch_18.docx": [8650], "Acts_ch_19.docx": [1309]}
-boldly	{"Ezekiel_ch_19.docx": [722], "Acts_ch_9.docx": [4210], "Acts_ch_13.docx": [8022], "Acts_ch_14.docx": [345], "Acts_ch_18.docx": [8650], "Acts_ch_19.docx": [1309]}
+boldly	{"Ezekiel_ch_19.docx": [722], "Acts_ch_9.docx": [4210], "Acts_ch_13.docx": [8022], "Acts_ch_14.docx": [345], "Acts_ch_18.docx": [8650], "Acts_ch_19.docx": [1309], "Ephesians_ch_6.docx": [2256]}

@@ -1,4 +1,2 @@
 
 types;	{"2 Chronicles_ch_4.docx": [325]}
-types;	{"2 Chronicles_ch_4.docx": [325]}
-types;	{"2 Chronicles_ch_4.docx": [325]}

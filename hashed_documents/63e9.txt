@@ -1,7 +1,3 @@
 
-stabs	{"Numbers_ch_35.docx": [2638], "Ezekiel_ch_21.docx": [1688, 1688, 1688]}
-azaree	{"Nehemiah_ch_11.docx": [1873]}
-stabs	{"Numbers_ch_35.docx": [2638], "Ezekiel_ch_21.docx": [1688, 1688]}
-azaree	{"Nehemiah_ch_11.docx": [1873]}
 stabs	{"Numbers_ch_35.docx": [2638], "Ezekiel_ch_21.docx": [1688]}
-azaree	{"Nehemiah_ch_11.docx": [1873]}
+azaree	{"Ezra_ch_10.docx": [5644], "Nehemiah_ch_11.docx": [1873]}

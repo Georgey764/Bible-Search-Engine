@@ -1,5 +1,2 @@
 
 akor	{"1 Chronicles_ch_2.docx": [2611]}
-20‘do	{"2 Samuel_ch_1.docx": [2566], "Isaiah_ch_40.docx": [2771]}
-akor	{"1 Chronicles_ch_2.docx": [2611]}
-akor	{"1 Chronicles_ch_2.docx": [2611]}

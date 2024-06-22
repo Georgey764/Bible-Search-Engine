@@ -1,5 +1,2 @@
 
-guide!	{"Psalms_ch_80.docx": [232], "Ezekiel_ch_45.docx": [2182, 2182, 2182]}
-2,75	{"Numbers_ch_4.docx": [4826]}
-guide!	{"Psalms_ch_80.docx": [232], "Ezekiel_ch_45.docx": [2182, 2182]}
 guide!	{"Psalms_ch_80.docx": [232], "Ezekiel_ch_45.docx": [2182]}

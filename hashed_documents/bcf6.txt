@@ -1,7 +1,3 @@
 
-hezro	{"1 Chronicles_ch_2.docx": [549, 831, 1424, 1752, 2149, 2157, 2303, 831, 1424, 1752, 2149, 2157, 2303, 831, 1424, 1752, 2149, 2157, 2303], "Matthew_ch_1.docx": [248, 270, 248, 270, 248, 270], "Luke_ch_3.docx": [6932, 6932]}
-paral	{"1 Chronicles_ch_11.docx": [1591], "Matthew_ch_4.docx": [2999, 2999, 2999], "Matthew_ch_8.docx": [650, 650, 650], "Matthew_ch_9.docx": [34, 727, 34, 727, 34, 727], "Mark_ch_2.docx": [245, 524, 994, 245, 524, 994], "Luke_ch_5.docx": [3977, 4789, 3977, 4789], "Acts_ch_8.docx": [2122, 2122], "Acts_ch_9.docx": [5378, 5378]}
-hezro	{"1 Chronicles_ch_2.docx": [549, 831, 1424, 1752, 2149, 2157, 2303, 831, 1424, 1752, 2149, 2157, 2303], "Matthew_ch_1.docx": [248, 270, 248, 270], "Luke_ch_3.docx": [6932]}
-paral	{"1 Chronicles_ch_11.docx": [1591], "Matthew_ch_4.docx": [2999, 2999], "Matthew_ch_8.docx": [650, 650], "Matthew_ch_9.docx": [34, 727, 34, 727], "Mark_ch_2.docx": [245, 524, 994], "Luke_ch_5.docx": [3977, 4789], "Acts_ch_8.docx": [2122], "Acts_ch_9.docx": [5378]}
-hezro	{"1 Chronicles_ch_2.docx": [549, 831, 1424, 1752, 2149, 2157, 2303], "Matthew_ch_1.docx": [248, 270], "Luke_ch_3.docx": [6932]}
-paral	{"1 Chronicles_ch_11.docx": [1591], "Matthew_ch_4.docx": [2999], "Matthew_ch_8.docx": [650], "Matthew_ch_9.docx": [34, 727], "Mark_ch_2.docx": [245, 524, 994], "Luke_ch_5.docx": [3977, 4789], "Acts_ch_8.docx": [2122], "Acts_ch_9.docx": [5378]}
+hezro	{"Ruth_ch_4.docx": [3550, 3574], "1 Chronicles_ch_2.docx": [549, 831, 1424, 1752, 2149, 2157, 2303], "Matthew_ch_1.docx": [248, 270], "Luke_ch_3.docx": [6932]}
+paral	{"1 Chronicles_ch_11.docx": [1591], "Matthew_ch_4.docx": [2999], "Matthew_ch_8.docx": [650], "Matthew_ch_9.docx": [34, 727], "Mark_ch_2.docx": [245, 524, 994], "Mark_ch_16.docx": [2245], "Luke_ch_5.docx": [3977, 4789], "Acts_ch_8.docx": [2122], "Acts_ch_9.docx": [5378]}

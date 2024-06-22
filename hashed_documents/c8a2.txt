@@ -1,7 +1,3 @@
 
-headw	{"Exodus_ch_28.docx": [5164], "Mark_ch_6.docx": [6526, 6526]}
-agagit	{"Esther_ch_3.docx": [15]}
-headw	{"Exodus_ch_28.docx": [5164], "Mark_ch_6.docx": [6526]}
-agagit	{"Esther_ch_3.docx": [15]}
 headw	{"Exodus_ch_28.docx": [5164], "Mark_ch_6.docx": [6526]}
 agagit	{"Esther_ch_3.docx": [15]}

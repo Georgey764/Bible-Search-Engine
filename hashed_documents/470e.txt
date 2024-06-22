@@ -1,10 +1,4 @@
 
 angis	{"Genesis_ch_46.docx": [1872]}
-compr	{"Exodus_ch_28.docx": [201], "Joshua_ch_13.docx": [34911, 34911, 34911], "Job_ch_12.docx": [1533, 1533, 1533], "Job_ch_36.docx": [2899, 2899, 2899], "Psalms_ch_92.docx": [515, 515, 515], "Psalms_ch_119.docx": [5981, 5981, 5981], "Psalms_ch_139.docx": [578, 578, 578], "Proverbs_ch_22.docx": [1857, 1857, 1857], "Proverbs_ch_30.docx": [1966, 1966, 1966], "Ecclesiastes_ch_9.docx": [147, 147, 147], "Isaiah_ch_6.docx": [1436, 1436, 1436], "Isaiah_ch_44.docx": [3011, 3011, 3011], "Jeremiah_ch_5.docx": [710, 710, 710], "Jeremiah_ch_23.docx": [3854, 3854, 3854], "Micah_ch_4.docx": [2624, 2624, 2624], "John_ch_12.docx": [5662, 5662], "Ephesians_ch_3.docx": [2227, 2227]}
-entrai	{"Leviticus_ch_1.docx": [948, 1682, 1682, 1682], "Leviticus_ch_7.docx": [391, 391, 391]}
-angis	{"Genesis_ch_46.docx": [1872]}
-compr	{"Exodus_ch_28.docx": [201], "Joshua_ch_13.docx": [34911, 34911], "Job_ch_12.docx": [1533, 1533], "Job_ch_36.docx": [2899, 2899], "Psalms_ch_92.docx": [515, 515], "Psalms_ch_119.docx": [5981, 5981], "Psalms_ch_139.docx": [578, 578], "Proverbs_ch_22.docx": [1857, 1857], "Proverbs_ch_30.docx": [1966, 1966], "Ecclesiastes_ch_9.docx": [147, 147], "Isaiah_ch_6.docx": [1436, 1436], "Isaiah_ch_44.docx": [3011, 3011], "Jeremiah_ch_5.docx": [710, 710], "Jeremiah_ch_23.docx": [3854, 3854], "Micah_ch_4.docx": [2624, 2624], "John_ch_12.docx": [5662], "Ephesians_ch_3.docx": [2227]}
-entrai	{"Leviticus_ch_1.docx": [948, 1682, 1682], "Leviticus_ch_7.docx": [391, 391]}
-angis	{"Genesis_ch_46.docx": [1872]}
 compr	{"Exodus_ch_28.docx": [201], "Joshua_ch_13.docx": [34911], "Job_ch_12.docx": [1533], "Job_ch_36.docx": [2899], "Psalms_ch_92.docx": [515], "Psalms_ch_119.docx": [5981], "Psalms_ch_139.docx": [578], "Proverbs_ch_22.docx": [1857], "Proverbs_ch_30.docx": [1966], "Ecclesiastes_ch_9.docx": [147], "Isaiah_ch_6.docx": [1436], "Isaiah_ch_44.docx": [3011], "Jeremiah_ch_5.docx": [710], "Jeremiah_ch_23.docx": [3854], "Micah_ch_4.docx": [2624], "John_ch_12.docx": [5662], "Ephesians_ch_3.docx": [2227]}
 entrai	{"Leviticus_ch_1.docx": [948, 1682], "Leviticus_ch_7.docx": [391]}

@@ -1,4 +1,2 @@
 
-thecoe	{"2 Samuel_ch_14.docx": [24, 375, 1316, 375, 1316, 375, 1316], "2 Chronicles_ch_20.docx": [3204, 3204, 3204]}
-thecoe	{"2 Samuel_ch_14.docx": [24, 375, 1316, 375, 1316], "2 Chronicles_ch_20.docx": [3204, 3204]}
 thecoe	{"2 Samuel_ch_14.docx": [24, 375, 1316], "2 Chronicles_ch_20.docx": [3204]}

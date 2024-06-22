@@ -1,4 +1,2 @@
 
-plans!	{"2 Samuel_ch_3.docx": [3689], "Psalms_ch_35.docx": [1756, 1756, 1756], "Isaiah_ch_55.docx": [1166, 1166, 1166]}
-plans!	{"2 Samuel_ch_3.docx": [3689], "Psalms_ch_35.docx": [1756, 1756], "Isaiah_ch_55.docx": [1166, 1166]}
 plans!	{"2 Samuel_ch_3.docx": [3689], "Psalms_ch_35.docx": [1756], "Isaiah_ch_55.docx": [1166]}

@@ -1,4 +1,2 @@
 
-unite	{"Numbers_ch_27.docx": [2765], "Joshua_ch_10.docx": [3683, 3683, 3683], "1 Kings_ch_3.docx": [11, 11, 11], "2 Chronicles_ch_30.docx": [2013, 2013, 2013], "Luke_ch_12.docx": [1105, 1105], "1 Corinthians_ch_1.docx": [1212, 1228, 1212, 1228], "Ephesians_ch_2.docx": [2094, 2112, 2094, 2112]}
-unite	{"Numbers_ch_27.docx": [2765], "Joshua_ch_10.docx": [3683, 3683], "1 Kings_ch_3.docx": [11, 11], "2 Chronicles_ch_30.docx": [2013, 2013], "Luke_ch_12.docx": [1105], "1 Corinthians_ch_1.docx": [1212, 1228], "Ephesians_ch_2.docx": [2094, 2112]}
 unite	{"Numbers_ch_27.docx": [2765], "Joshua_ch_10.docx": [3683], "1 Kings_ch_3.docx": [11], "2 Chronicles_ch_30.docx": [2013], "Luke_ch_12.docx": [1105], "1 Corinthians_ch_1.docx": [1212, 1228], "Ephesians_ch_2.docx": [2094, 2112]}

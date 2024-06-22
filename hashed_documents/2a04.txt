@@ -1,5 +1,2 @@
 
-mansio	{"Amos_ch_6.docx": [2491], "Matthew_ch_11.docx": [959, 959, 959], "Luke_ch_7.docx": [3682, 3682], "Luke_ch_11.docx": [2850, 2850]}
-22‘ha	{"Job_ch_38.docx": [2103]}
-mansio	{"Amos_ch_6.docx": [2491], "Matthew_ch_11.docx": [959, 959], "Luke_ch_7.docx": [3682], "Luke_ch_11.docx": [2850]}
-mansio	{"Amos_ch_6.docx": [2491], "Matthew_ch_11.docx": [959], "Luke_ch_7.docx": [3682], "Luke_ch_11.docx": [2850]}
+mansio	{"Jeremiah_ch_52.docx": [1895], "Amos_ch_6.docx": [2491], "Matthew_ch_11.docx": [959], "Luke_ch_7.docx": [3682], "Luke_ch_11.docx": [2850]}

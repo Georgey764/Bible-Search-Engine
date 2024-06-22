@@ -1,3 +1,2 @@
 
-lyst	{"Acts_ch_16.docx": [31], "2 Timothy_ch_3.docx": [1719, 1719]}
 lyst	{"Acts_ch_16.docx": [31], "2 Timothy_ch_3.docx": [1719]}

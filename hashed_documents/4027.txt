@@ -1,3 +1,2 @@
 
-fanc	{"1 Timothy_ch_2.docx": [976, 986, 986], "1 Peter_ch_3.docx": [229, 229]}
 fanc	{"1 Timothy_ch_2.docx": [976, 986], "1 Peter_ch_3.docx": [229]}

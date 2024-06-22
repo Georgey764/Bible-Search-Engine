@@ -1,4 +1,2 @@
 
-miami	{"Nehemiah_ch_12.docx": [267]}
-10shou	{"Ezra_ch_6.docx": [1816]}
-miami	{"Nehemiah_ch_12.docx": [267]}
+miami	{"Ezra_ch_10.docx": [4431], "Nehemiah_ch_12.docx": [267]}

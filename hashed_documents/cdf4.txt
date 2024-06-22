@@ -1,4 +1,2 @@
 
-biting	{"Deuteronomy_ch_8.docx": [1718], "Revelation_ch_16.docx": [1338, 1338]}
-biting	{"Deuteronomy_ch_8.docx": [1718], "Revelation_ch_16.docx": [1338]}
 biting	{"Deuteronomy_ch_8.docx": [1718], "Revelation_ch_16.docx": [1338]}

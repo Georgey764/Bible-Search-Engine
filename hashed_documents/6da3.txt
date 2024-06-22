@@ -1,5 +1,2 @@
 
 names;	{"1 Chronicles_ch_14.docx": [437]}
-331	{"Numbers_ch_7.docx": [3984]}
-names;	{"1 Chronicles_ch_14.docx": [437]}
-names;	{"1 Chronicles_ch_14.docx": [437]}

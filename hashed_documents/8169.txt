@@ -1,9 +1,4 @@
 
-foxe	{"Judges_ch_1.docx": [18829], "Judges_ch_15.docx": [497, 501, 522, 497, 501, 522, 497, 501, 522], "1 Kings_ch_20.docx": [1563, 1563, 1563], "Psalms_ch_63.docx": [980, 980, 980], "Song of Solomon_ch_2.docx": [1921, 1921, 1921], "Ezekiel_ch_13.docx": [601, 601, 601], "Matthew_ch_8.docx": [2560, 2560, 2560], "Luke_ch_9.docx": [7964, 7964]}
-slun	{"1 Samuel_ch_17.docx": [7551], "1 Chronicles_ch_12.docx": [51, 51, 51]}
-news;	{"Romans_ch_10.docx": [2107]}
-foxe	{"Judges_ch_1.docx": [18829], "Judges_ch_15.docx": [497, 501, 522, 497, 501, 522], "1 Kings_ch_20.docx": [1563, 1563], "Psalms_ch_63.docx": [980, 980], "Song of Solomon_ch_2.docx": [1921, 1921], "Ezekiel_ch_13.docx": [601, 601], "Matthew_ch_8.docx": [2560, 2560], "Luke_ch_9.docx": [7964]}
-slun	{"1 Samuel_ch_17.docx": [7551], "1 Chronicles_ch_12.docx": [51, 51]}
-foxe	{"Judges_ch_1.docx": [18829], "Judges_ch_15.docx": [497, 501, 522], "1 Kings_ch_20.docx": [1563], "Psalms_ch_63.docx": [980], "Song of Solomon_ch_2.docx": [1921], "Ezekiel_ch_13.docx": [601], "Matthew_ch_8.docx": [2560], "Luke_ch_9.docx": [7964]}
+foxe	{"Judges_ch_1.docx": [18829], "Judges_ch_15.docx": [497, 501, 522], "1 Kings_ch_20.docx": [1563], "Psalms_ch_63.docx": [980], "Song of Solomon_ch_2.docx": [1921], "Lamentations_ch_5.docx": [1500], "Ezekiel_ch_13.docx": [601], "Matthew_ch_8.docx": [2560], "Luke_ch_9.docx": [7964]}
 slun	{"1 Samuel_ch_17.docx": [7551], "1 Chronicles_ch_12.docx": [51]}
 news;	{"Romans_ch_10.docx": [2107]}

@@ -1,3 +1,0 @@
-
-53a	{"Leviticus_ch_14.docx": [7744], "Numbers_ch_33.docx": [4064], "1 Samuel_ch_17.docx": [8425], "Lamentations_ch_3.docx": [4333]}
-3again	{"Psalms_ch_83.docx": [217]}

@@ -1,4 +1,2 @@
 
-breed	{"Leviticus_ch_19.docx": [2420], "1 Kings_ch_4.docx": [3033, 3033, 3033], "Amos_ch_7.docx": [17, 17, 17]}
-breed	{"Leviticus_ch_19.docx": [2420], "1 Kings_ch_4.docx": [3033, 3033], "Amos_ch_7.docx": [17, 17]}
 breed	{"Leviticus_ch_19.docx": [2420], "1 Kings_ch_4.docx": [3033], "Amos_ch_7.docx": [17]}

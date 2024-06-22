@@ -1,5 +1,2 @@
 
-food!	{"Genesis_ch_42.docx": [1285], "Isaiah_ch_3.docx": [984, 984, 984], "John_ch_4.docx": [4393, 4393], "Romans_ch_14.docx": [2815, 2815], "Hebrews_ch_5.docx": [1630, 1630]}
-food!	{"Genesis_ch_42.docx": [1285], "Isaiah_ch_3.docx": [984, 984], "John_ch_4.docx": [4393], "Romans_ch_14.docx": [2815], "Hebrews_ch_5.docx": [1630]}
-13jes	{"1 Chronicles_ch_2.docx": [1117]}
 food!	{"Genesis_ch_42.docx": [1285], "Isaiah_ch_3.docx": [984], "John_ch_4.docx": [4393], "Romans_ch_14.docx": [2815], "Hebrews_ch_5.docx": [1630]}

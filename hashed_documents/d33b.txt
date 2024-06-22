@@ -1,4 +1,2 @@
 
-rez	{"1 Kings_ch_11.docx": [3302], "Ezra_ch_2.docx": [1769, 1769], "Nehemiah_ch_7.docx": [2851, 2851, 2851], "Isaiah_ch_7.docx": [24, 1203, 24, 1203, 24, 1203], "Isaiah_ch_8.docx": [852, 852, 852], "Isaiah_ch_37.docx": [1913, 1913, 1913]}
-rez	{"1 Kings_ch_11.docx": [3302], "Nehemiah_ch_7.docx": [2851, 2851], "Isaiah_ch_7.docx": [24, 1203, 24, 1203], "Isaiah_ch_8.docx": [852, 852], "Isaiah_ch_37.docx": [1913, 1913], "Ezra_ch_2.docx": [1769]}
 rez	{"1 Kings_ch_11.docx": [3302], "Ezra_ch_2.docx": [1769], "Nehemiah_ch_7.docx": [2851], "Isaiah_ch_7.docx": [24, 1203], "Isaiah_ch_8.docx": [852], "Isaiah_ch_37.docx": [1913]}

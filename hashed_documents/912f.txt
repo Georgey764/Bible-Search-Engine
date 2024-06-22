@@ -1,4 +1,2 @@
 
-excit	{"Song of Solomon_ch_6.docx": [678], "Habakkuk_ch_2.docx": [2578, 2578, 2578], "Acts_ch_12.docx": [2104, 2104]}
-excit	{"Song of Solomon_ch_6.docx": [678], "Habakkuk_ch_2.docx": [2578, 2578], "Acts_ch_12.docx": [2104]}
-excit	{"Song of Solomon_ch_6.docx": [678], "Habakkuk_ch_2.docx": [2578], "Acts_ch_12.docx": [2104]}
+excit	{"Song of Solomon_ch_6.docx": [678], "Habakkuk_ch_2.docx": [2578], "Mark_ch_16.docx": [920], "Acts_ch_12.docx": [2104]}

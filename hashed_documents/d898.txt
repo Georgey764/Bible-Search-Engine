@@ -1,4 +1,2 @@
 
-pot;	{"Job_ch_41.docx": [2768], "Ezekiel_ch_4.docx": [1432, 1432, 1432]}
-pot;	{"Job_ch_41.docx": [2768], "Ezekiel_ch_4.docx": [1432, 1432]}
 pot;	{"Job_ch_41.docx": [2768], "Ezekiel_ch_4.docx": [1432]}

@@ -1,3 +1,0 @@
-
-55the	{"Genesis_ch_41.docx": [7253], "Judges_ch_9.docx": [9861], "1 Chronicles_ch_2.docx": [5013], "1 Chronicles_ch_6.docx": [4452], "Psalms_ch_78.docx": [5310]}
-14yo	{"Exodus_ch_34.docx": [2021], "Deuteronomy_ch_28.docx": [1919], "1 Samuel_ch_12.docx": [2439], "Psalms_ch_44.docx": [1387], "Psalms_ch_77.docx": [1297], "Isaiah_ch_54.docx": [2092]}

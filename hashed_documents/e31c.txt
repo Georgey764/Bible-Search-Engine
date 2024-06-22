@@ -1,5 +1,2 @@
 
-rapi	{"Genesis_ch_47.docx": [4525], "Daniel_ch_8.docx": [1416, 1416, 1416]}
-rapi	{"Genesis_ch_47.docx": [4525], "Daniel_ch_8.docx": [1416, 1416]}
-44esel	{"1 Chronicles_ch_9.docx": [5923]}
-rapi	{"Genesis_ch_47.docx": [4525], "Daniel_ch_8.docx": [1416]}
+rapi	{"Genesis_ch_47.docx": [4525], "Daniel_ch_8.docx": [1416], "2 Thessalonians_ch_3.docx": [70]}

@@ -1,3 +1,2 @@
 
-galat	{"Galatians_ch_1.docx": [1, 51, 51], "Galatians_ch_2.docx": [1, 1], "Galatians_ch_3.docx": [1, 7, 1, 7], "Galatians_ch_4.docx": [1, 1], "Galatians_ch_5.docx": [1, 1]}
-galat	{"Galatians_ch_1.docx": [1, 51], "Galatians_ch_2.docx": [1], "Galatians_ch_3.docx": [1, 7], "Galatians_ch_4.docx": [1], "Galatians_ch_5.docx": [1]}
+galat	{"2 Corinthians_ch_13.docx": [2170, 2178], "Galatians_ch_1.docx": [1, 51], "Galatians_ch_2.docx": [1], "Galatians_ch_3.docx": [1, 7], "Galatians_ch_4.docx": [1], "Galatians_ch_5.docx": [1], "Galatians_ch_6.docx": [1], "2 Timothy_ch_4.docx": [1392]}

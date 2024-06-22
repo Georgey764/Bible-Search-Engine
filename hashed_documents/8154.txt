@@ -1,4 +1,2 @@
 
-recent	{"Deuteronomy_ch_24.docx": [729], "1 Samuel_ch_17.docx": [8734, 8734, 8734], "Acts_ch_18.docx": [425, 455, 486, 425, 455, 486], "Revelation_ch_2.docx": [3260, 3260]}
-recent	{"Deuteronomy_ch_24.docx": [729], "1 Samuel_ch_17.docx": [8734, 8734], "Acts_ch_18.docx": [425, 455, 486], "Revelation_ch_2.docx": [3260]}
 recent	{"Deuteronomy_ch_24.docx": [729], "1 Samuel_ch_17.docx": [8734], "Acts_ch_18.docx": [425, 455, 486], "Revelation_ch_2.docx": [3260]}

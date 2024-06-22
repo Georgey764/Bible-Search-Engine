@@ -1,5 +1,2 @@
 
-girl’s	{"Deuteronomy_ch_22.docx": [1985, 1998, 2409, 2678, 1998, 2409, 2678, 1998, 2409, 2678], "Judges_ch_19.docx": [535, 856, 1099, 535, 856, 1099, 535, 856, 1099], "Luke_ch_8.docx": [7548, 7548], "Galatians_ch_4.docx": [3632, 3632]}
-girl’s	{"Deuteronomy_ch_22.docx": [1985, 1998, 2409, 2678, 1998, 2409, 2678], "Judges_ch_19.docx": [535, 856, 1099, 535, 856, 1099], "Luke_ch_8.docx": [7548], "Galatians_ch_4.docx": [3632]}
-11whi	{"2 Samuel_ch_8.docx": [1498], "1 Chronicles_ch_19.docx": [1632]}
 girl’s	{"Deuteronomy_ch_22.docx": [1985, 1998, 2409, 2678], "Judges_ch_19.docx": [535, 856, 1099], "Luke_ch_8.docx": [7548], "Galatians_ch_4.docx": [3632]}

@@ -1,5 +1,2 @@
 
-appla	{"Psalms_ch_105.docx": [173], "Psalms_ch_106.docx": [423, 423, 423], "Isaiah_ch_52.docx": [1553, 1553, 1553], "Jeremiah_ch_5.docx": [5370, 5370, 5370]}
-appla	{"Psalms_ch_105.docx": [173], "Psalms_ch_106.docx": [423, 423], "Isaiah_ch_52.docx": [1553, 1553], "Jeremiah_ch_5.docx": [5370, 5370]}
-2‘get	{"Jeremiah_ch_36.docx": [152], "Jonah_ch_1.docx": [80]}
 appla	{"Psalms_ch_105.docx": [173], "Psalms_ch_106.docx": [423], "Isaiah_ch_52.docx": [1553], "Jeremiah_ch_5.docx": [5370]}

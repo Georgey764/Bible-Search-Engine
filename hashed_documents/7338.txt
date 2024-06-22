@@ -1,5 +1,2 @@
 
 taber	{"1 Kings_ch_15.docx": [2220]}
-taber	{"1 Kings_ch_15.docx": [2220]}
-161wit	{"Psalms_ch_119.docx": [13635]}
-taber	{"1 Kings_ch_15.docx": [2220]}

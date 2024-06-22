@@ -1,4 +1,2 @@
 
-curls	{"Song of Solomon_ch_5.docx": [699, 2054, 2054, 2054]}
-curls	{"Song of Solomon_ch_5.docx": [699, 2054, 2054]}
 curls	{"Song of Solomon_ch_5.docx": [699, 2054]}

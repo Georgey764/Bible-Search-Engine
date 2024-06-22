@@ -1,4 +1,2 @@
 
 semein	{"Luke_ch_3.docx": [6438]}
-11you	{"Deuteronomy_ch_24.docx": [1524], "Job_ch_10.docx": [1000], "Psalms_ch_65.docx": [1292], "Psalms_ch_89.docx": [1114], "Isaiah_ch_58.docx": [2333], "Isaiah_ch_64.docx": [1332], "Matthew_ch_26.docx": [965]}
-semein	{"Luke_ch_3.docx": [6438]}

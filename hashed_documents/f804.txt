@@ -1,5 +1,2 @@
 
-ancho	{"Acts_ch_27.docx": [1782, 4023, 4172, 5369, 4023, 4172, 5369], "Hebrews_ch_6.docx": [2579, 2579]}
-8bring	{"2 Samuel_ch_4.docx": [1106]}
-12gi	{"Psalms_ch_2.docx": [1277]}
 ancho	{"Acts_ch_27.docx": [1782, 4023, 4172, 5369], "Hebrews_ch_6.docx": [2579]}

@@ -1,5 +1,2 @@
 
-succot	{"Genesis_ch_33.docx": [2199], "Exodus_ch_13.docx": [3285, 3285, 3285]}
-succot	{"Genesis_ch_33.docx": [2199], "Exodus_ch_13.docx": [3285, 3285]}
-12‘in	{"Isaiah_ch_27.docx": [1928]}
 succot	{"Genesis_ch_33.docx": [2199], "Exodus_ch_13.docx": [3285]}

@@ -1,7 +1,3 @@
 
-bib	{"1 Samuel_ch_17.docx": [8697], "Psalms_ch_150.docx": [801, 949, 993], "Ezekiel_ch_41.docx": [1614, 1614, 1614]}
-tiar	{"Jeremiah_ch_2.docx": [5714]}
-bib	{"1 Samuel_ch_17.docx": [8697], "Ezekiel_ch_41.docx": [1614, 1614]}
-tiar	{"Jeremiah_ch_2.docx": [5714]}
-bib	{"1 Samuel_ch_17.docx": [8697], "Ezekiel_ch_41.docx": [1614]}
+bib	{"1 Samuel_ch_17.docx": [8697], "2 Kings_ch_25.docx": [4947], "1 Chronicles_ch_29.docx": [5762], "2 Chronicles_ch_36.docx": [6065, 7267], "Ezra_ch_10.docx": [6801], "Esther_ch_10.docx": [1227, 3920], "Psalms_ch_150.docx": [801, 949, 993], "Ecclesiastes_ch_12.docx": [2492], "Song of Solomon_ch_8.docx": [2724], "Isaiah_ch_66.docx": [5870], "Lamentations_ch_5.docx": [2448, 2900], "Ezekiel_ch_41.docx": [1614], "Ezekiel_ch_48.docx": [6452, 6699, 8032], "Daniel_ch_12.docx": [2887, 3133, 4565], "Hosea_ch_14.docx": [2120], "Joel_ch_3.docx": [5109, 5236], "Amos_ch_9.docx": [4356], "Obadiah_ch_1.docx": [4413, 4452, 4935], "Jonah_ch_4.docx": [2219], "Micah_ch_7.docx": [4749, 5088], "Nahum_ch_3.docx": [4296], "Habakkuk_ch_3.docx": [3936], "Zephaniah_ch_3.docx": [5026], "Haggai_ch_2.docx": [5343], "Zechariah_ch_14.docx": [5193], "Malachi_ch_4.docx": [2797, 2818], "Matthew_ch_28.docx": [3730, 3751], "Mark_ch_16.docx": [1490, 1944, 3077, 3098], "Hebrews_ch_13.docx": [4235], "3 John_ch_1.docx": [2052, 2056]}
 tiar	{"Jeremiah_ch_2.docx": [5714]}

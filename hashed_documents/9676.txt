@@ -1,4 +1,2 @@
 
-mallo	{"2 Kings_ch_12.docx": [3361], "Job_ch_24.docx": [2604, 2604, 2604]}
-mallo	{"2 Kings_ch_12.docx": [3361], "Job_ch_24.docx": [2604, 2604]}
 mallo	{"2 Kings_ch_12.docx": [3361], "Job_ch_24.docx": [2604]}

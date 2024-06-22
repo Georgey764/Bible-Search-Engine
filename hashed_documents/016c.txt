@@ -1,2 +1,0 @@
-
-8it	{"Numbers_ch_33.docx": [874], "Deuteronomy_ch_10.docx": [1089], "Joshua_ch_17.docx": [1116], "1 Kings_ch_16.docx": [1226], "2 Kings_ch_15.docx": [1018], "2 Chronicles_ch_34.docx": [1318], "Ezra_ch_4.docx": [1313], "Psalms_ch_118.docx": [599], "Ezekiel_ch_35.docx": [926]}

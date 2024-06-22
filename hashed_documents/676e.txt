@@ -1,4 +1,2 @@
 
-flaw	{"Leviticus_ch_22.docx": [2922], "2 Samuel_ch_22.docx": [2943, 3233, 2943, 3233, 2943, 3233], "Psalms_ch_15.docx": [121, 121, 121], "Psalms_ch_18.docx": [2311, 2906, 3145, 2311, 2906, 3145, 2311, 2906, 3145], "Psalms_ch_37.docx": [1631, 1631, 1631], "2 Peter_ch_2.docx": [2094, 2094]}
-flaw	{"Leviticus_ch_22.docx": [2922], "2 Samuel_ch_22.docx": [2943, 3233, 2943, 3233], "Psalms_ch_15.docx": [121, 121], "Psalms_ch_18.docx": [2311, 2906, 3145, 2311, 2906, 3145], "Psalms_ch_37.docx": [1631, 1631], "2 Peter_ch_2.docx": [2094]}
-flaw	{"Leviticus_ch_22.docx": [2922], "2 Samuel_ch_22.docx": [2943, 3233], "Psalms_ch_15.docx": [121], "Psalms_ch_18.docx": [2311, 2906, 3145], "Psalms_ch_37.docx": [1631], "2 Peter_ch_2.docx": [2094]}
+flaw	{"Leviticus_ch_22.docx": [2922], "2 Samuel_ch_22.docx": [2943, 3233], "Psalms_ch_15.docx": [121], "Psalms_ch_18.docx": [2311, 2906, 3145], "Psalms_ch_37.docx": [1631], "1 Timothy_ch_6.docx": [1980], "2 Peter_ch_2.docx": [2094], "2 Peter_ch_3.docx": [2165]}

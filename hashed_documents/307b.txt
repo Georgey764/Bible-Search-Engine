@@ -1,6 +1,3 @@
 
-shevna	{"Isaiah_ch_22.docx": [2208, 3735, 3735, 3735]}
-unsavo	{"Ephesians_ch_5.docx": [1898]}
-shevna	{"Isaiah_ch_22.docx": [2208, 3735, 3735]}
 shevna	{"Isaiah_ch_22.docx": [2208, 3735]}
 unsavo	{"Ephesians_ch_5.docx": [1898]}

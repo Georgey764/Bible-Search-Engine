@@ -1,3 +1,0 @@
-
-20‘yo	{"Numbers_ch_31.docx": [2461], "Deuteronomy_ch_5.docx": [2258], "Deuteronomy_ch_10.docx": [2827], "Deuteronomy_ch_14.docx": [1661], "Deuteronomy_ch_15.docx": [3005], "Deuteronomy_ch_16.docx": [3306], "Deuteronomy_ch_23.docx": [2453], "Jeremiah_ch_32.docx": [3299], "Ezekiel_ch_16.docx": [3254]}
-13‘if	{"Deuteronomy_ch_22.docx": [1724], "Job_ch_31.docx": [1149], "Psalms_ch_81.docx": [1322], "Isaiah_ch_58.docx": [2713], "Habakkuk_ch_1.docx": [2209]}

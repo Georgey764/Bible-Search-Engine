@@ -1,2 +1,0 @@
-
-17ther	{"Genesis_ch_4.docx": [2040], "Genesis_ch_7.docx": [2162], "Genesis_ch_27.docx": [1979], "Numbers_ch_10.docx": [2014], "Judges_ch_1.docx": [3919], "Judges_ch_15.docx": [3218], "2 Samuel_ch_3.docx": [2401], "1 Kings_ch_9.docx": [2846], "1 Kings_ch_12.docx": [2689], "1 Kings_ch_21.docx": [2389], "2 Kings_ch_11.docx": [2709], "2 Chronicles_ch_9.docx": [2637], "2 Chronicles_ch_13.docx": [2984], "2 Chronicles_ch_35.docx": [3395], "Nehemiah_ch_11.docx": [2476], "Ezekiel_ch_12.docx": [2945]}

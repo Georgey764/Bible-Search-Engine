@@ -1,5 +1,2 @@
 
-hemp	{"Judges_ch_15.docx": [2576], "Isaiah_ch_1.docx": [4728, 4728, 4728]}
-hemp	{"Judges_ch_15.docx": [2576], "Isaiah_ch_1.docx": [4728, 4728]}
-13‘woe	{"Matthew_ch_23.docx": [1281]}
 hemp	{"Judges_ch_15.docx": [2576], "Isaiah_ch_1.docx": [4728]}

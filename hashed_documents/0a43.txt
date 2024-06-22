@@ -1,5 +1,2 @@
 
-jesou	{"1 Chronicles_ch_1.docx": [2815], "1 Chronicles_ch_7.docx": [3308, 3308, 3308]}
-12beat	{"2 Samuel_ch_1.docx": [1446]}
-jesou	{"1 Chronicles_ch_1.docx": [2815], "1 Chronicles_ch_7.docx": [3308, 3308]}
 jesou	{"1 Chronicles_ch_1.docx": [2815], "1 Chronicles_ch_7.docx": [3308]}

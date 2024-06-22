@@ -1,4 +1,2 @@
 
-furthe	{"Numbers_ch_18.docx": [4499], "Job_ch_32.docx": [1521, 1521, 1521], "Matthew_ch_27.docx": [809, 809], "Acts_ch_7.docx": [4465, 4465], "2 Corinthians_ch_3.docx": [264, 264], "Hebrews_ch_4.docx": [1195, 1195], "Hebrews_ch_7.docx": [445, 445], "Hebrews_ch_11.docx": [6805, 6805]}
-furthe	{"Numbers_ch_18.docx": [4499], "Job_ch_32.docx": [1521, 1521], "Matthew_ch_27.docx": [809], "Acts_ch_7.docx": [4465], "2 Corinthians_ch_3.docx": [264], "Hebrews_ch_4.docx": [1195], "Hebrews_ch_7.docx": [445], "Hebrews_ch_11.docx": [6805]}
-furthe	{"Numbers_ch_18.docx": [4499], "Job_ch_32.docx": [1521], "Matthew_ch_27.docx": [809], "Acts_ch_7.docx": [4465], "2 Corinthians_ch_3.docx": [264], "Hebrews_ch_4.docx": [1195], "Hebrews_ch_7.docx": [445], "Hebrews_ch_11.docx": [6805]}
+furthe	{"Numbers_ch_18.docx": [4499], "2 Samuel_ch_24.docx": [6284], "1 Kings_ch_22.docx": [10082], "2 Chronicles_ch_36.docx": [7480], "Job_ch_32.docx": [1521], "Matthew_ch_27.docx": [809], "Acts_ch_7.docx": [4465], "2 Corinthians_ch_3.docx": [264], "Hebrews_ch_4.docx": [1195], "Hebrews_ch_7.docx": [445], "Hebrews_ch_11.docx": [6805], "Hebrews_ch_13.docx": [4224, 4495]}

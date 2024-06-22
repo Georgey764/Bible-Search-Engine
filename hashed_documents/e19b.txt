@@ -1,4 +1,2 @@
 
-zabed	{"1 Chronicles_ch_2.docx": [3422, 3446, 3446], "1 Chronicles_ch_7.docx": [2542, 2542]}
-zabed	{"1 Chronicles_ch_2.docx": [3422, 3446], "1 Chronicles_ch_7.docx": [2542]}
 zabed	{"1 Chronicles_ch_2.docx": [3422, 3446], "1 Chronicles_ch_7.docx": [2542]}

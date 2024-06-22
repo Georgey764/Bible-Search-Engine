@@ -1,5 +1,2 @@
 
-throws	{"Numbers_ch_35.docx": [2090, 2641, 2641, 2641], "Mark_ch_9.docx": [2246, 2246], "Luke_ch_9.docx": [5430, 5430]}
-throws	{"Numbers_ch_35.docx": [2090, 2641, 2641], "Mark_ch_9.docx": [2246], "Luke_ch_9.docx": [5430]}
-7‘yes	{"Isaiah_ch_49.docx": [1463], "Jeremiah_ch_29.docx": [1094], "Ezekiel_ch_5.docx": [1170], "Hosea_ch_5.docx": [1126], "Hosea_ch_8.docx": [920], "Micah_ch_4.docx": [1484]}
 throws	{"Numbers_ch_35.docx": [2090, 2641], "Mark_ch_9.docx": [2246], "Luke_ch_9.docx": [5430]}

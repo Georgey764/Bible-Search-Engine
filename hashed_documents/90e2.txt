@@ -1,5 +1,2 @@
 
-roug	{"1 Kings_ch_6.docx": [927], "1 Chronicles_ch_7.docx": [4121, 4121, 4121], "Jeremiah_ch_38.docx": [1035, 1035, 1035], "Ezekiel_ch_27.docx": [3492, 3492, 3492], "Amos_ch_2.docx": [2135, 2135, 2135], "John_ch_6.docx": [2210, 2210]}
-8bec	{"Genesis_ch_31.docx": [514], "Nehemiah_ch_9.docx": [1646], "Psalms_ch_129.docx": [696], "Jeremiah_ch_4.docx": [1486]}
-roug	{"1 Kings_ch_6.docx": [927], "1 Chronicles_ch_7.docx": [4121, 4121], "Jeremiah_ch_38.docx": [1035, 1035], "Ezekiel_ch_27.docx": [3492, 3492], "Amos_ch_2.docx": [2135, 2135], "John_ch_6.docx": [2210]}
-roug	{"1 Kings_ch_6.docx": [927], "1 Chronicles_ch_7.docx": [4121], "Jeremiah_ch_38.docx": [1035], "Ezekiel_ch_27.docx": [3492], "Amos_ch_2.docx": [2135], "John_ch_6.docx": [2210]}
+roug	{"1 Kings_ch_6.docx": [927], "1 Chronicles_ch_7.docx": [4121], "Isaiah_ch_66.docx": [5014], "Jeremiah_ch_38.docx": [1035], "Ezekiel_ch_27.docx": [3492], "Amos_ch_2.docx": [2135], "John_ch_6.docx": [2210]}

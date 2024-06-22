@@ -1,5 +1,2 @@
 
-managi	{"Luke_ch_16.docx": [263], "1 Timothy_ch_3.docx": [1399, 1399]}
-13bro	{"Numbers_ch_7.docx": [1532]}
-110a	{"Psalms_ch_119.docx": [9149]}
 managi	{"Luke_ch_16.docx": [263], "1 Timothy_ch_3.docx": [1399]}

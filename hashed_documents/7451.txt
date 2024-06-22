@@ -1,9 +1,4 @@
 
 knitte	{"Exodus_ch_28.docx": [5033]}
-gravel	{"Job_ch_8.docx": [1547], "Job_ch_21.docx": [2941, 2941, 2941], "Proverbs_ch_20.docx": [2426, 2426, 2426]}
-scente	{"Revelation_ch_18.docx": [1995]}
-knitte	{"Exodus_ch_28.docx": [5033]}
-gravel	{"Job_ch_8.docx": [1547], "Job_ch_21.docx": [2941, 2941], "Proverbs_ch_20.docx": [2426, 2426]}
-knitte	{"Exodus_ch_28.docx": [5033]}
 gravel	{"Job_ch_8.docx": [1547], "Job_ch_21.docx": [2941], "Proverbs_ch_20.docx": [2426]}
-scente	{"Revelation_ch_18.docx": [1995]}
+scente	{"Song of Solomon_ch_8.docx": [2353], "Revelation_ch_18.docx": [1995]}

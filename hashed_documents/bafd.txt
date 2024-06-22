@@ -1,5 +1,2 @@
 
 amuses	{"Ecclesiastes_ch_5.docx": [3051]}
-20‘als	{"Leviticus_ch_11.docx": [2037], "Leviticus_ch_15.docx": [2782], "Numbers_ch_13.docx": [1633]}
-amuses	{"Ecclesiastes_ch_5.docx": [3051]}
-amuses	{"Ecclesiastes_ch_5.docx": [3051]}

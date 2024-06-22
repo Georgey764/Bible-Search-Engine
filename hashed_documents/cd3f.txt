@@ -1,4 +1,2 @@
 
-vile	{"Job_ch_9.docx": [2062], "Proverbs_ch_16.docx": [2175, 2175, 2175], "Jeremiah_ch_3.docx": [926, 926, 926], "Ezekiel_ch_6.docx": [1457, 1457, 1457], "Hosea_ch_7.docx": [933, 933, 933]}
-vile	{"Job_ch_9.docx": [2062], "Proverbs_ch_16.docx": [2175, 2175], "Jeremiah_ch_3.docx": [926, 926], "Ezekiel_ch_6.docx": [1457, 1457], "Hosea_ch_7.docx": [933, 933]}
 vile	{"Job_ch_9.docx": [2062], "Proverbs_ch_16.docx": [2175], "Jeremiah_ch_3.docx": [926], "Ezekiel_ch_6.docx": [1457], "Hosea_ch_7.docx": [933]}

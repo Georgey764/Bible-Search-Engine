@@ -1,5 +1,2 @@
 
-dyse	{"Deuteronomy_ch_28.docx": [2897]}
-18(si	{"Genesis_ch_20.docx": [2715]}
-dyse	{"Deuteronomy_ch_28.docx": [2897]}
-dyse	{"Deuteronomy_ch_28.docx": [2897]}
+dyse	{"Deuteronomy_ch_28.docx": [2897], "Acts_ch_28.docx": [1321]}

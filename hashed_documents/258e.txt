@@ -1,4 +1,2 @@
 
-phadij	{"1 Chronicles_ch_3.docx": [1544], "1 Chronicles_ch_27.docx": [2693, 2693, 2693]}
-phadij	{"1 Chronicles_ch_3.docx": [1544], "1 Chronicles_ch_27.docx": [2693, 2693]}
 phadij	{"1 Chronicles_ch_3.docx": [1544], "1 Chronicles_ch_27.docx": [2693]}

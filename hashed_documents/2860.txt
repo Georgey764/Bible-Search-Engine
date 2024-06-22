@@ -1,5 +1,2 @@
 
-rheg	{"Genesis_ch_10.docx": [927, 973, 973, 973]}
-rheg	{"Genesis_ch_10.docx": [927, 973, 973]}
-23mak	{"Exodus_ch_28.docx": [2736]}
 rheg	{"Genesis_ch_10.docx": [927, 973]}

@@ -1,4 +1,2 @@
 
-naas	{"Exodus_ch_6.docx": [2875], "Numbers_ch_1.docx": [764, 764, 764], "Numbers_ch_7.docx": [1521, 2163, 1521, 2163, 1521, 2163], "Numbers_ch_10.docx": [1763, 1763, 1763], "2 Samuel_ch_17.docx": [4319, 4319, 4319]}
-naas	{"Exodus_ch_6.docx": [2875], "Numbers_ch_1.docx": [764, 764], "Numbers_ch_7.docx": [1521, 2163, 1521, 2163], "Numbers_ch_10.docx": [1763, 1763], "2 Samuel_ch_17.docx": [4319, 4319]}
 naas	{"Exodus_ch_6.docx": [2875], "Numbers_ch_1.docx": [764], "Numbers_ch_7.docx": [1521, 2163], "Numbers_ch_10.docx": [1763], "2 Samuel_ch_17.docx": [4319]}

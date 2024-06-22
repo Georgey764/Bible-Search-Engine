@@ -1,4 +1,2 @@
 
-remal	{"2 Chronicles_ch_28.docx": [704], "Isaiah_ch_7.docx": [31, 856, 1370, 31, 856, 1370, 31, 856, 1370]}
-remal	{"2 Chronicles_ch_28.docx": [704], "Isaiah_ch_7.docx": [31, 856, 1370, 31, 856, 1370]}
 remal	{"2 Chronicles_ch_28.docx": [704], "Isaiah_ch_7.docx": [31, 856, 1370]}

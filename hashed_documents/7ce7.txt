@@ -1,4 +1,2 @@
 
-enth	{"Esther_ch_1.docx": [143, 158, 174, 158, 174, 158, 174], "Acts_ch_18.docx": [8892, 8892]}
-enth	{"Esther_ch_1.docx": [143, 158, 174, 158, 174], "Acts_ch_18.docx": [8892]}
 enth	{"Esther_ch_1.docx": [143, 158, 174], "Acts_ch_18.docx": [8892]}

@@ -1,4 +1,2 @@
 
-danced	{"2 Samuel_ch_6.docx": [2200, 3216, 3216, 3216], "1 Chronicles_ch_13.docx": [1080, 1080, 1080], "Matthew_ch_14.docx": [602, 602, 602], "Mark_ch_6.docx": [3151, 3151]}
-danced	{"2 Samuel_ch_6.docx": [2200, 3216, 3216], "1 Chronicles_ch_13.docx": [1080, 1080], "Matthew_ch_14.docx": [602, 602], "Mark_ch_6.docx": [3151]}
 danced	{"2 Samuel_ch_6.docx": [2200, 3216], "1 Chronicles_ch_13.docx": [1080], "Matthew_ch_14.docx": [602], "Mark_ch_6.docx": [3151]}

@@ -1,5 +1,2 @@
 
-choosi	{"Numbers_ch_32.docx": [2046], "Deuteronomy_ch_26.docx": [2849, 2849, 2849], "2 Chronicles_ch_9.docx": [1043, 1043, 1043], "Psalms_ch_22.docx": [3095, 3095, 3095], "Psalms_ch_119.docx": [7589, 7589, 7589], "Proverbs_ch_18.docx": [1503, 1503], "Ezekiel_ch_20.docx": [5157, 5157, 5157], "Luke_ch_14.docx": [633, 633], "Romans_ch_9.docx": [1238, 1238], "Romans_ch_11.docx": [4438, 4438], "Romans_ch_14.docx": [2969, 2969]}
-choosi	{"Numbers_ch_32.docx": [2046], "Deuteronomy_ch_26.docx": [2849, 2849], "2 Chronicles_ch_9.docx": [1043, 1043], "Psalms_ch_22.docx": [3095, 3095], "Psalms_ch_119.docx": [7589, 7589], "Ezekiel_ch_20.docx": [5157, 5157], "Proverbs_ch_18.docx": [1503], "Luke_ch_14.docx": [633], "Romans_ch_9.docx": [1238], "Romans_ch_11.docx": [4438], "Romans_ch_14.docx": [2969]}
-27make	{"Job_ch_22.docx": [2413]}
 choosi	{"Numbers_ch_32.docx": [2046], "Deuteronomy_ch_26.docx": [2849], "2 Chronicles_ch_9.docx": [1043], "Psalms_ch_22.docx": [3095], "Psalms_ch_119.docx": [7589], "Proverbs_ch_18.docx": [1503], "Ezekiel_ch_20.docx": [5157], "Luke_ch_14.docx": [633], "Romans_ch_9.docx": [1238], "Romans_ch_11.docx": [4438], "Romans_ch_14.docx": [2969]}

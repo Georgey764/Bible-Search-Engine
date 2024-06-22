@@ -1,8 +1,3 @@
 
-profes	{"Exodus_ch_30.docx": [3129, 4364, 4364, 4364]}
-tanhu	{"Jeremiah_ch_40.docx": [1718]}
-profes	{"Exodus_ch_30.docx": [3129, 4364, 4364]}
-38k	{"Joshua_ch_19.docx": [3141]}
-tanhu	{"Jeremiah_ch_40.docx": [1718]}
 profes	{"Exodus_ch_30.docx": [3129, 4364]}
 tanhu	{"Jeremiah_ch_40.docx": [1718]}

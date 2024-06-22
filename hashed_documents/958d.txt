@@ -1,5 +1,2 @@
 
-asmo	{"1 Chronicles_ch_12.docx": [427], "1 Chronicles_ch_27.docx": [3425, 3425, 3425]}
-asmo	{"1 Chronicles_ch_12.docx": [427], "1 Chronicles_ch_27.docx": [3425, 3425]}
-4you’l	{"Proverbs_ch_3.docx": [352]}
 asmo	{"1 Chronicles_ch_12.docx": [427], "1 Chronicles_ch_27.docx": [3425]}

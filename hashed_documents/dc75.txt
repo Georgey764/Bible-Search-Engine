@@ -1,6 +1,2 @@
 
 scrim	{"Isaiah_ch_54.docx": [370]}
-13on	{"2 Chronicles_ch_8.docx": [1530], "Psalms_ch_108.docx": [1225]}
-3like	{"Proverbs_ch_26.docx": [220]}
-scrim	{"Isaiah_ch_54.docx": [370]}
-scrim	{"Isaiah_ch_54.docx": [370]}

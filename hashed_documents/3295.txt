@@ -1,4 +1,2 @@
 
-folly!	{"Ecclesiastes_ch_2.docx": [2977], "Ecclesiastes_ch_8.docx": [1804, 1804, 1804], "Ecclesiastes_ch_11.docx": [1427, 1427, 1427]}
-folly!	{"Ecclesiastes_ch_2.docx": [2977], "Ecclesiastes_ch_8.docx": [1804, 1804], "Ecclesiastes_ch_11.docx": [1427, 1427]}
 folly!	{"Ecclesiastes_ch_2.docx": [2977], "Ecclesiastes_ch_8.docx": [1804], "Ecclesiastes_ch_11.docx": [1427]}

@@ -1,3 +1,2 @@
 
-4our	{"Psalms_ch_99.docx": [307], "Psalms_ch_123.docx": [432]}
-13[‘j	{"Ezekiel_ch_14.docx": [2080]}
+uncer	{"Esther_ch_10.docx": [1706]}

@@ -1,10 +1,4 @@
 
-gaidad	{"Genesis_ch_4.docx": [2194, 2220, 2220, 2220]}
-noema	{"Genesis_ch_4.docx": [2567], "Genesis_ch_46.docx": [2694, 2694, 2694], "Numbers_ch_26.docx": [4543, 4551, 4556, 4543, 4551, 4556, 4543, 4551, 4556]}
-claims	{"Job_ch_33.docx": [653], "Ezekiel_ch_18.docx": [4607, 4607, 4607], "Colossians_ch_2.docx": [2954, 2954]}
-gaidad	{"Genesis_ch_4.docx": [2194, 2220, 2220]}
-noema	{"Genesis_ch_4.docx": [2567], "Genesis_ch_46.docx": [2694, 2694], "Numbers_ch_26.docx": [4543, 4551, 4556, 4543, 4551, 4556]}
-claims	{"Job_ch_33.docx": [653], "Ezekiel_ch_18.docx": [4607, 4607], "Colossians_ch_2.docx": [2954]}
 gaidad	{"Genesis_ch_4.docx": [2194, 2220]}
 noema	{"Genesis_ch_4.docx": [2567], "Genesis_ch_46.docx": [2694], "Numbers_ch_26.docx": [4543, 4551, 4556]}
-claims	{"Job_ch_33.docx": [653], "Ezekiel_ch_18.docx": [4607], "Colossians_ch_2.docx": [2954]}
+claims	{"Job_ch_33.docx": [653], "Ezekiel_ch_18.docx": [4607], "Colossians_ch_2.docx": [2954], "Hebrews_ch_13.docx": [4496], "1 Peter_ch_5.docx": [2066]}

@@ -1,5 +1,2 @@
 
 snai	{"Exodus_ch_30.docx": [4282]}
-snai	{"Exodus_ch_30.docx": [4282]}
-18g	{"Numbers_ch_3.docx": [2389], "Psalms_ch_34.docx": [1524]}
-snai	{"Exodus_ch_30.docx": [4282]}

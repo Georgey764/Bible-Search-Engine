@@ -1,5 +1,2 @@
 
-happie	{"Matthew_ch_18.docx": [1727], "1 Corinthians_ch_7.docx": [5405, 5405]}
-743	{"Ezra_ch_2.docx": [1101], "Nehemiah_ch_7.docx": [2088]}
-happie	{"Matthew_ch_18.docx": [1727], "1 Corinthians_ch_7.docx": [5405]}
 happie	{"Matthew_ch_18.docx": [1727], "1 Corinthians_ch_7.docx": [5405]}

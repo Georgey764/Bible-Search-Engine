@@ -1,4 +1,2 @@
 
-twisti	{"Numbers_ch_32.docx": [782], "Acts_ch_13.docx": [2645, 2645], "2 Corinthians_ch_4.docx": [181, 181]}
-twisti	{"Numbers_ch_32.docx": [782], "Acts_ch_13.docx": [2645], "2 Corinthians_ch_4.docx": [181]}
 twisti	{"Numbers_ch_32.docx": [782], "Acts_ch_13.docx": [2645], "2 Corinthians_ch_4.docx": [181]}

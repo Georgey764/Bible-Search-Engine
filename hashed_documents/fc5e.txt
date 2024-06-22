@@ -1,2 +1,0 @@
-
-23make	{"Exodus_ch_28.docx": [2736]}

@@ -1,6 +1,2 @@
 
 ishvi	{"1 Samuel_ch_14.docx": [8079]}
-37‘yo	{"Exodus_ch_26.docx": [3810], "Leviticus_ch_19.docx": [4911], "Leviticus_ch_25.docx": [5364], "Daniel_ch_2.docx": [6318], "Matthew_ch_12.docx": [4461]}
-34i	{"Leviticus_ch_8.docx": [4420], "1 Kings_ch_16.docx": [5266], "Nehemiah_ch_11.docx": [7738]}
-ishvi	{"1 Samuel_ch_14.docx": [8079]}
-ishvi	{"1 Samuel_ch_14.docx": [8079]}

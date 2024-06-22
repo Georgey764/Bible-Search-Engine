@@ -1,4 +1,2 @@
 
-justly	{"Job_ch_33.docx": [2798]}
-justly	{"Job_ch_33.docx": [2798]}
-justly	{"Job_ch_33.docx": [2798]}
+justly	{"Joshua_ch_24.docx": [2357], "Job_ch_33.docx": [2798]}

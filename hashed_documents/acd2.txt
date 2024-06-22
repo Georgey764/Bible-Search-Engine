@@ -1,2 +1,0 @@
-
-11i	{"Genesis_ch_7.docx": [1335], "Exodus_ch_2.docx": [1433], "Exodus_ch_21.docx": [1259], "Exodus_ch_28.docx": [1105], "Joshua_ch_18.docx": [1753], "2 Chronicles_ch_6.docx": [1188], "Esther_ch_8.docx": [1693], "Job_ch_19.docx": [998], "Job_ch_37.docx": [1020], "Job_ch_38.docx": [950], "Psalms_ch_77.docx": [1060], "Psalms_ch_119.docx": [747], "Psalms_ch_139.docx": [988], "Proverbs_ch_2.docx": [911], "Proverbs_ch_4.docx": [1024], "Isaiah_ch_11.docx": [1422], "Ezekiel_ch_31.docx": [1730], "Hosea_ch_2.docx": [1868], "Zechariah_ch_11.docx": [1949], "Matthew_ch_15.docx": [1158]}

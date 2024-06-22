@@ -1,7 +1,3 @@
 
-scyt	{"Genesis_ch_10.docx": [197]}
-napha	{"1 Chronicles_ch_14.docx": [590]}
-scyt	{"Genesis_ch_10.docx": [197]}
-napha	{"1 Chronicles_ch_14.docx": [590]}
-scyt	{"Genesis_ch_10.docx": [197]}
+scyt	{"Genesis_ch_10.docx": [197], "Joel_ch_3.docx": [2338, 2797]}
 napha	{"1 Chronicles_ch_14.docx": [590]}

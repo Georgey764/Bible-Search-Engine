@@ -1,7 +1,3 @@
 
 corres	{"Exodus_ch_36.docx": [1672]}
 tomm	{"Joshua_ch_19.docx": [1635]}
-corres	{"Exodus_ch_36.docx": [1672]}
-tomm	{"Joshua_ch_19.docx": [1635]}
-corres	{"Exodus_ch_36.docx": [1672]}
-tomm	{"Joshua_ch_19.docx": [1635]}

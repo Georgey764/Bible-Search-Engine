@@ -1,4 +1,2 @@
 
-empat	{"Psalms_ch_111.docx": [363], "Colossians_ch_3.docx": [1420, 1420], "Hebrews_ch_5.docx": [45, 45]}
-empat	{"Psalms_ch_111.docx": [363], "Colossians_ch_3.docx": [1420], "Hebrews_ch_5.docx": [45]}
 empat	{"Psalms_ch_111.docx": [363], "Colossians_ch_3.docx": [1420], "Hebrews_ch_5.docx": [45]}

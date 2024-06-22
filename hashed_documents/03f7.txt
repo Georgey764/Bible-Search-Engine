@@ -1,2 +1,0 @@
-
-5to	{"Esther_ch_9.docx": [256], "Psalms_ch_4.docx": [493], "Psalms_ch_54.docx": [525], "Proverbs_ch_16.docx": [568]}

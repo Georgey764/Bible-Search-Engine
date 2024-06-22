@@ -1,4 +1,2 @@
 
-susp	{"Numbers_ch_5.docx": [1533], "Numbers_ch_31.docx": [2127, 2127, 2127], "1 Samuel_ch_18.docx": [1544, 1544, 1544], "2 Samuel_ch_12.docx": [3200, 3200, 3200], "2 Samuel_ch_15.docx": [1440, 1440, 1440], "Ezra_ch_2.docx": [2723, 2723, 2723], "Job_ch_23.docx": [1471, 1471, 1471], "John_ch_10.docx": [2576, 2576]}
-susp	{"Numbers_ch_5.docx": [1533], "Numbers_ch_31.docx": [2127, 2127], "1 Samuel_ch_18.docx": [1544, 1544], "2 Samuel_ch_12.docx": [3200, 3200], "2 Samuel_ch_15.docx": [1440, 1440], "Ezra_ch_2.docx": [2723, 2723], "Job_ch_23.docx": [1471, 1471], "John_ch_10.docx": [2576]}
-susp	{"Numbers_ch_5.docx": [1533], "Numbers_ch_31.docx": [2127], "1 Samuel_ch_18.docx": [1544], "2 Samuel_ch_12.docx": [3200], "2 Samuel_ch_15.docx": [1440], "Ezra_ch_2.docx": [2723], "Job_ch_23.docx": [1471], "John_ch_10.docx": [2576]}
+susp	{"Numbers_ch_5.docx": [1533], "Numbers_ch_31.docx": [2127], "1 Samuel_ch_18.docx": [1544], "2 Samuel_ch_12.docx": [3200], "2 Samuel_ch_15.docx": [1440], "Ezra_ch_2.docx": [2723], "Job_ch_23.docx": [1471], "John_ch_10.docx": [2576], "1 Timothy_ch_6.docx": [513]}

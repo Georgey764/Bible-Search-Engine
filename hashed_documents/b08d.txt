@@ -1,4 +1,2 @@
 
-come!	{"1 Kings_ch_18.docx": [618], "Ecclesiastes_ch_7.docx": [1520, 1520, 1520], "Isaiah_ch_41.docx": [3945, 3945, 3945], "Jeremiah_ch_9.docx": [3102, 3102, 3102], "Luke_ch_4.docx": [5250, 5250]}
-come!	{"1 Kings_ch_18.docx": [618], "Ecclesiastes_ch_7.docx": [1520, 1520], "Isaiah_ch_41.docx": [3945, 3945], "Jeremiah_ch_9.docx": [3102, 3102], "Luke_ch_4.docx": [5250]}
-come!	{"1 Kings_ch_18.docx": [618], "Ecclesiastes_ch_7.docx": [1520], "Isaiah_ch_41.docx": [3945], "Jeremiah_ch_9.docx": [3102], "Luke_ch_4.docx": [5250]}
+come!	{"1 Kings_ch_18.docx": [618], "Ecclesiastes_ch_7.docx": [1520], "Isaiah_ch_41.docx": [3945], "Jeremiah_ch_9.docx": [3102], "Luke_ch_4.docx": [5250], "Revelation_ch_22.docx": [2535, 2545]}

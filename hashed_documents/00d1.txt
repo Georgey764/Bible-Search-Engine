@@ -1,4 +1,2 @@
 
-bigva	{"Ezra_ch_2.docx": [475, 834, 834, 834], "Ezra_ch_8.docx": [1467, 1467, 1467], "Nehemiah_ch_7.docx": [1094, 1687, 1094, 1687, 1094, 1687], "Nehemiah_ch_10.docx": [867, 867, 867]}
-bigva	{"Ezra_ch_2.docx": [475, 834, 834], "Ezra_ch_8.docx": [1467, 1467], "Nehemiah_ch_7.docx": [1094, 1687, 1094, 1687], "Nehemiah_ch_10.docx": [867, 867]}
 bigva	{"Ezra_ch_2.docx": [475, 834], "Ezra_ch_8.docx": [1467], "Nehemiah_ch_7.docx": [1094, 1687], "Nehemiah_ch_10.docx": [867]}

@@ -1,4 +1,3 @@
 
-behave	{"Numbers_ch_22.docx": [3327], "Joshua_ch_1.docx": [670, 670, 670], "1 Kings_ch_8.docx": [6348, 6348, 6348], "Psalms_ch_32.docx": [1073, 1073, 1073], "Acts_ch_23.docx": [101, 101], "Romans_ch_13.docx": [2014, 2014], "Galatians_ch_1.docx": [1603, 1603], "Philippians_ch_1.docx": [3380, 3380], "Titus_ch_2.docx": [220, 220], "James_ch_2.docx": [1469, 1469], "1 Peter_ch_2.docx": [1756, 1756]}
-behave	{"Numbers_ch_22.docx": [3327], "Joshua_ch_1.docx": [670, 670], "1 Kings_ch_8.docx": [6348, 6348], "Psalms_ch_32.docx": [1073, 1073], "Acts_ch_23.docx": [101], "Romans_ch_13.docx": [2014], "Galatians_ch_1.docx": [1603], "Philippians_ch_1.docx": [3380], "Titus_ch_2.docx": [220], "James_ch_2.docx": [1469], "1 Peter_ch_2.docx": [1756]}
 behave	{"Numbers_ch_22.docx": [3327], "Joshua_ch_1.docx": [670], "1 Kings_ch_8.docx": [6348], "Psalms_ch_32.docx": [1073], "Acts_ch_23.docx": [101], "Romans_ch_13.docx": [2014], "Galatians_ch_1.docx": [1603], "Philippians_ch_1.docx": [3380], "Titus_ch_2.docx": [220], "James_ch_2.docx": [1469], "1 Peter_ch_2.docx": [1756]}
+kouar	{"Romans_ch_16.docx": [3102]}

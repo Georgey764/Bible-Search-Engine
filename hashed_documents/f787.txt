@@ -1,6 +1,2 @@
 
 new-mo	{"Numbers_ch_10.docx": [1274]}
-29fol	{"Exodus_ch_37.docx": [3061]}
-new-mo	{"Numbers_ch_10.docx": [1274]}
-13jeho	{"Psalms_ch_18.docx": [1365], "Jeremiah_ch_35.docx": [1882]}
-new-mo	{"Numbers_ch_10.docx": [1274]}

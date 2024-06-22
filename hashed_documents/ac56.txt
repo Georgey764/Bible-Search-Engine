@@ -1,10 +1,4 @@
 
-–who	{"Genesis_ch_17.docx": [2535], "John_ch_6.docx": [3444, 3444], "Acts_ch_3.docx": [1954, 1954], "Hebrews_ch_7.docx": [829, 829], "Hebrews_ch_11.docx": [7206, 7222, 7206, 7222]}
-enw	{"2 Samuel_ch_22.docx": [584]}
-fester	{"Job_ch_16.docx": [636], "Job_ch_19.docx": [1768, 1768, 1768], "Job_ch_33.docx": [1894, 1894, 1894], "Psalms_ch_38.docx": [431, 431, 431]}
-–who	{"Genesis_ch_17.docx": [2535], "John_ch_6.docx": [3444], "Acts_ch_3.docx": [1954], "Hebrews_ch_7.docx": [829], "Hebrews_ch_11.docx": [7206, 7222]}
-enw	{"2 Samuel_ch_22.docx": [584]}
-fester	{"Job_ch_16.docx": [636], "Job_ch_19.docx": [1768, 1768], "Job_ch_33.docx": [1894, 1894], "Psalms_ch_38.docx": [431, 431]}
 –who	{"Genesis_ch_17.docx": [2535], "John_ch_6.docx": [3444], "Acts_ch_3.docx": [1954], "Hebrews_ch_7.docx": [829], "Hebrews_ch_11.docx": [7206, 7222]}
 enw	{"2 Samuel_ch_22.docx": [584]}
 fester	{"Job_ch_16.docx": [636], "Job_ch_19.docx": [1768], "Job_ch_33.docx": [1894], "Psalms_ch_38.docx": [431]}

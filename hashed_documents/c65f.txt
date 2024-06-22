@@ -1,5 +1,2 @@
 
-latter	{"Ezra_ch_8.docx": [1343], "2 Corinthians_ch_2.docx": [2228, 2228]}
-latter	{"Ezra_ch_8.docx": [1343], "2 Corinthians_ch_2.docx": [2228]}
-12when	{"Psalms_ch_106.docx": [1124], "Proverbs_ch_27.docx": [1059], "Proverbs_ch_28.docx": [1027]}
 latter	{"Ezra_ch_8.docx": [1343], "2 Corinthians_ch_2.docx": [2228]}

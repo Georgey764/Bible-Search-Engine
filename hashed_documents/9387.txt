@@ -1,4 +1,2 @@
 
-securi	{"Exodus_ch_22.docx": [3487], "Leviticus_ch_25.docx": [2592, 2592, 2592], "Deuteronomy_ch_12.docx": [1310, 1310, 1310], "Judges_ch_18.docx": [2100, 2100, 2100], "Proverbs_ch_20.docx": [2289, 2289, 2289]}
-securi	{"Exodus_ch_22.docx": [3487], "Leviticus_ch_25.docx": [2592, 2592], "Deuteronomy_ch_12.docx": [1310, 1310], "Judges_ch_18.docx": [2100, 2100], "Proverbs_ch_20.docx": [2289, 2289]}
 securi	{"Exodus_ch_22.docx": [3487], "Leviticus_ch_25.docx": [2592], "Deuteronomy_ch_12.docx": [1310], "Judges_ch_18.docx": [2100], "Proverbs_ch_20.docx": [2289]}

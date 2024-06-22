@@ -1,4 +1,2 @@
 
-rar	{"Proverbs_ch_8.docx": [1619], "Isaiah_ch_13.docx": [1772, 1823, 1772, 1823, 1772, 1823]}
-rar	{"Proverbs_ch_8.docx": [1619], "Isaiah_ch_13.docx": [1772, 1823, 1772, 1823]}
 rar	{"Proverbs_ch_8.docx": [1619], "Isaiah_ch_13.docx": [1772, 1823]}

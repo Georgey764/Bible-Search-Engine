@@ -1,7 +1,3 @@
 
 othame	{"Judges_ch_3.docx": [9235]}
 embody	{"Isaiah_ch_27.docx": [1095]}
-othame	{"Judges_ch_3.docx": [9235]}
-embody	{"Isaiah_ch_27.docx": [1095]}
-othame	{"Judges_ch_3.docx": [9235]}
-embody	{"Isaiah_ch_27.docx": [1095]}

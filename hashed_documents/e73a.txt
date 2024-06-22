@@ -1,4 +1,2 @@
 
-peniel	{"Genesis_ch_32.docx": [3989, 4135, 4135, 4135]}
-peniel	{"Genesis_ch_32.docx": [3989, 4135, 4135]}
 peniel	{"Genesis_ch_32.docx": [3989, 4135]}

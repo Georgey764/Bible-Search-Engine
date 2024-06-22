@@ -1,4 +1,2 @@
 
-butche	{"Genesis_ch_43.docx": [2078], "Leviticus_ch_1.docx": [903, 903, 903], "Leviticus_ch_7.docx": [123, 136, 123, 136, 123, 136], "Deuteronomy_ch_28.docx": [4196, 4196, 4196], "1 Samuel_ch_28.docx": [3721, 3721, 3721], "Psalms_ch_44.docx": [2191, 2191, 2191], "Zechariah_ch_11.docx": [815, 815, 815]}
-butche	{"Genesis_ch_43.docx": [2078], "Leviticus_ch_1.docx": [903, 903], "Leviticus_ch_7.docx": [123, 136, 123, 136], "Deuteronomy_ch_28.docx": [4196, 4196], "1 Samuel_ch_28.docx": [3721, 3721], "Psalms_ch_44.docx": [2191, 2191], "Zechariah_ch_11.docx": [815, 815]}
 butche	{"Genesis_ch_43.docx": [2078], "Leviticus_ch_1.docx": [903], "Leviticus_ch_7.docx": [123, 136], "Deuteronomy_ch_28.docx": [4196], "1 Samuel_ch_28.docx": [3721], "Psalms_ch_44.docx": [2191], "Zechariah_ch_11.docx": [815]}

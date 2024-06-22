@@ -1,3 +1,0 @@
-
-170	{"Genesis_ch_5.docx": [884], "Psalms_ch_119.docx": [14392]}
-21ye	{"Deuteronomy_ch_7.docx": [3207], "Psalms_ch_103.docx": [1826], "Matthew_ch_14.docx": [2408]}

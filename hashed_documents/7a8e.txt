@@ -1,4 +1,2 @@
 
-widow’	{"Genesis_ch_38.docx": [1662, 2539, 2539, 2539], "Deuteronomy_ch_24.docx": [2593, 2593, 2593], "1 Kings_ch_7.docx": [1731, 1731, 1731]}
-widow’	{"Genesis_ch_38.docx": [1662, 2539, 2539], "Deuteronomy_ch_24.docx": [2593, 2593], "1 Kings_ch_7.docx": [1731, 1731]}
 widow’	{"Genesis_ch_38.docx": [1662, 2539], "Deuteronomy_ch_24.docx": [2593], "1 Kings_ch_7.docx": [1731]}

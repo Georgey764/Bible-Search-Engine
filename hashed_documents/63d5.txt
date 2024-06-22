@@ -1,7 +1,3 @@
 
-freem	{"2 Kings_ch_9.docx": [1293], "Jeremiah_ch_29.docx": [57, 57, 57], "Galatians_ch_3.docx": [4149, 4149], "Colossians_ch_3.docx": [1109, 1109], "Revelation_ch_19.docx": [2988, 2988]}
-quill	{"Jeremiah_ch_8.docx": [1650]}
-freem	{"2 Kings_ch_9.docx": [1293], "Jeremiah_ch_29.docx": [57, 57], "Galatians_ch_3.docx": [4149], "Colossians_ch_3.docx": [1109], "Revelation_ch_19.docx": [2988]}
-quill	{"Jeremiah_ch_8.docx": [1650]}
 freem	{"2 Kings_ch_9.docx": [1293], "Jeremiah_ch_29.docx": [57], "Galatians_ch_3.docx": [4149], "Colossians_ch_3.docx": [1109], "Revelation_ch_19.docx": [2988]}
 quill	{"Jeremiah_ch_8.docx": [1650]}

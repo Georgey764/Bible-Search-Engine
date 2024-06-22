@@ -1,4 +1,2 @@
 
-jova	{"Genesis_ch_10.docx": [243, 489, 489]}
-jova	{"Genesis_ch_10.docx": [243, 489]}
 jova	{"Genesis_ch_10.docx": [243, 489]}

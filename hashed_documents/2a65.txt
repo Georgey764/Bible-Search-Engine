@@ -1,4 +1,2 @@
 
-das	{"Genesis_ch_10.docx": [1375, 2156, 2156, 2156], "Psalms_ch_137.docx": [975, 975, 975], "Isaiah_ch_13.docx": [2325, 2325, 2325], "Isaiah_ch_21.docx": [991, 991, 991], "Hosea_ch_10.docx": [3748, 3748, 3748], "Hosea_ch_13.docx": [2532, 2532, 2532]}
-das	{"Genesis_ch_10.docx": [1375, 2156, 2156], "Psalms_ch_137.docx": [975, 975], "Isaiah_ch_13.docx": [2325, 2325], "Isaiah_ch_21.docx": [991, 991], "Hosea_ch_10.docx": [3748, 3748], "Hosea_ch_13.docx": [2532, 2532]}
-das	{"Genesis_ch_10.docx": [1375, 2156], "Psalms_ch_137.docx": [975], "Isaiah_ch_13.docx": [2325], "Isaiah_ch_21.docx": [991], "Hosea_ch_10.docx": [3748], "Hosea_ch_13.docx": [2532]}
+das	{"Genesis_ch_10.docx": [1375, 2156], "Psalms_ch_137.docx": [975], "Isaiah_ch_13.docx": [2325], "Isaiah_ch_21.docx": [991], "Hosea_ch_10.docx": [3748], "Hosea_ch_13.docx": [2532], "Nahum_ch_3.docx": [2283]}

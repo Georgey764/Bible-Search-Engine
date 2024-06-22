@@ -1,2 +1,0 @@
-
-18ther	{"Numbers_ch_5.docx": [2204], "Numbers_ch_19.docx": [2318], "2 Chronicles_ch_23.docx": [3534], "2 Chronicles_ch_35.docx": [3418], "Nehemiah_ch_8.docx": [5572], "Proverbs_ch_2.docx": [1590], "Proverbs_ch_12.docx": [1708], "Proverbs_ch_30.docx": [1959]}

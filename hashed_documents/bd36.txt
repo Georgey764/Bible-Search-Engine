@@ -1,4 +1,2 @@
 
 fiftee	{"Galatians_ch_1.docx": [2311]}
-12i’	{"Genesis_ch_35.docx": [1696], "Job_ch_23.docx": [1022], "Psalms_ch_22.docx": [1139], "Psalms_ch_31.docx": [1378], "Proverbs_ch_26.docx": [1027], "Isaiah_ch_54.docx": [1838], "Ezekiel_ch_30.docx": [1519], "Hosea_ch_2.docx": [1958]}
-fiftee	{"Galatians_ch_1.docx": [2311]}

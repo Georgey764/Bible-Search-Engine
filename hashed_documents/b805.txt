@@ -1,4 +1,2 @@
 
-zaccu	{"Nehemiah_ch_3.docx": [1524], "Nehemiah_ch_10.docx": [626, 626], "Nehemiah_ch_12.docx": [4889, 4889, 4889]}
-zaccu	{"Nehemiah_ch_3.docx": [1524], "Nehemiah_ch_12.docx": [4889, 4889], "Nehemiah_ch_10.docx": [626]}
-zaccu	{"Nehemiah_ch_3.docx": [1524], "Nehemiah_ch_10.docx": [626], "Nehemiah_ch_12.docx": [4889]}
+zaccu	{"Nehemiah_ch_3.docx": [1524], "Nehemiah_ch_10.docx": [626], "Nehemiah_ch_12.docx": [4889], "Nehemiah_ch_13.docx": [1926]}

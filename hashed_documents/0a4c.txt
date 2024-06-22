@@ -1,4 +1,2 @@
 
-censer	{"Leviticus_ch_10.docx": [14], "Leviticus_ch_16.docx": [1672, 1672, 1672], "2 Chronicles_ch_4.docx": [1436, 1436, 1436]}
-censer	{"Leviticus_ch_10.docx": [14], "Leviticus_ch_16.docx": [1672, 1672], "2 Chronicles_ch_4.docx": [1436, 1436]}
-censer	{"Leviticus_ch_10.docx": [14], "Leviticus_ch_16.docx": [1672], "2 Chronicles_ch_4.docx": [1436]}
+censer	{"Leviticus_ch_10.docx": [14], "Leviticus_ch_16.docx": [1672], "2 Kings_ch_25.docx": [1935], "2 Chronicles_ch_4.docx": [1436]}

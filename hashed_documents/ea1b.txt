@@ -1,3 +1,2 @@
 
-nezij	{"Ezra_ch_2.docx": [2144], "Nehemiah_ch_7.docx": [3218, 3218]}
 nezij	{"Ezra_ch_2.docx": [2144], "Nehemiah_ch_7.docx": [3218]}

@@ -1,3 +1,2 @@
 
-beware	{"Matthew_ch_7.docx": [1786], "Hebrews_ch_12.docx": [4531, 4531]}
 beware	{"Matthew_ch_7.docx": [1786], "Hebrews_ch_12.docx": [4531]}

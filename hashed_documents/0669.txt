@@ -1,7 +1,3 @@
 
-exchan	{"Genesis_ch_30.docx": [1884], "Genesis_ch_47.docx": [2522, 2619, 2736, 2522, 2619, 2736, 2522, 2619, 2736], "Exodus_ch_13.docx": [1845, 1845, 1845], "Isaiah_ch_58.docx": [1335, 1335, 1335], "Ezekiel_ch_11.docx": [3007, 3007, 3007], "Mark_ch_8.docx": [4818, 4818], "Romans_ch_1.docx": [3037, 3037]}
-noonti	{"2 Samuel_ch_4.docx": [782]}
-exchan	{"Genesis_ch_30.docx": [1884], "Genesis_ch_47.docx": [2522, 2619, 2736, 2522, 2619, 2736], "Exodus_ch_13.docx": [1845, 1845], "Isaiah_ch_58.docx": [1335, 1335], "Ezekiel_ch_11.docx": [3007, 3007], "Mark_ch_8.docx": [4818], "Romans_ch_1.docx": [3037]}
-noonti	{"2 Samuel_ch_4.docx": [782]}
-exchan	{"Genesis_ch_30.docx": [1884], "Genesis_ch_47.docx": [2522, 2619, 2736], "Exodus_ch_13.docx": [1845], "Isaiah_ch_58.docx": [1335], "Ezekiel_ch_11.docx": [3007], "Mark_ch_8.docx": [4818], "Romans_ch_1.docx": [3037]}
+exchan	{"Genesis_ch_30.docx": [1884], "Genesis_ch_47.docx": [2522, 2619, 2736], "Exodus_ch_13.docx": [1845], "Leviticus_ch_27.docx": [4305, 4322], "Nehemiah_ch_13.docx": [1629], "Isaiah_ch_58.docx": [1335], "Ezekiel_ch_11.docx": [3007], "Mark_ch_8.docx": [4818], "Romans_ch_1.docx": [3037]}
 noonti	{"2 Samuel_ch_4.docx": [782]}

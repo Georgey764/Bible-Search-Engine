@@ -1,5 +1,2 @@
 
 shabak	{"2 Kings_ch_17.docx": [426]}
-9‘i	{"Genesis_ch_43.docx": [962], "Exodus_ch_7.docx": [924], "Exodus_ch_34.docx": [1173], "Leviticus_ch_7.docx": [1120], "Leviticus_ch_13.docx": [1408], "Leviticus_ch_26.docx": [1110], "Numbers_ch_16.docx": [1138], "Numbers_ch_27.docx": [1106], "Deuteronomy_ch_2.docx": [1211], "Joshua_ch_2.docx": [1177], "1 Samuel_ch_17.docx": [1144], "1 Chronicles_ch_17.docx": [1160], "Job_ch_13.docx": [726], "Job_ch_16.docx": [776], "Job_ch_31.docx": [801], "Job_ch_33.docx": [692], "Job_ch_38.docx": [771], "Job_ch_40.docx": [788], "Psalms_ch_40.docx": [1077], "Ecclesiastes_ch_6.docx": [1073], "Ecclesiastes_ch_8.docx": [859], "Isaiah_ch_60.docx": [1225], "Jeremiah_ch_10.docx": [1106], "Lamentations_ch_4.docx": [1336], "Ezekiel_ch_5.docx": [1695], "Ezekiel_ch_11.docx": [1263], "Ezekiel_ch_16.docx": [1452], "Ezekiel_ch_19.docx": [1001], "Ezekiel_ch_30.docx": [1023], "Ezekiel_ch_31.docx": [1312], "Ezekiel_ch_35.docx": [1076], "Hosea_ch_12.docx": [1562], "Amos_ch_7.docx": [1454], "Matthew_ch_19.docx": [913]}
-shabak	{"2 Kings_ch_17.docx": [426]}
-shabak	{"2 Kings_ch_17.docx": [426]}

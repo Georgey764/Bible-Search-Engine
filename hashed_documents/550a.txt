@@ -1,4 +1,2 @@
 
-marble	{"Song of Solomon_ch_5.docx": [2506], "Revelation_ch_18.docx": [2012, 2012]}
-marble	{"Song of Solomon_ch_5.docx": [2506], "Revelation_ch_18.docx": [2012]}
-marble	{"Song of Solomon_ch_5.docx": [2506], "Revelation_ch_18.docx": [2012]}
+marble	{"1 Chronicles_ch_29.docx": [613], "Song of Solomon_ch_5.docx": [2506], "Revelation_ch_18.docx": [2012]}

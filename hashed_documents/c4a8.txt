@@ -1,4 +1,2 @@
 
-sympat	{"Ephesians_ch_4.docx": [4154], "Hebrews_ch_4.docx": [2574, 2574], "1 Peter_ch_3.docx": [996, 996]}
-10joha	{"1 Chronicles_ch_6.docx": [636]}
-sympat	{"Ephesians_ch_4.docx": [4154], "Hebrews_ch_4.docx": [2574], "1 Peter_ch_3.docx": [996]}
+sympat	{"Jonah_ch_4.docx": [211], "Ephesians_ch_4.docx": [4154], "Hebrews_ch_4.docx": [2574], "1 Peter_ch_3.docx": [996]}

@@ -1,6 +1,3 @@
 
 keph	{"Song of Solomon_ch_5.docx": [2018]}
 stoic	{"Acts_ch_17.docx": [3681]}
-keph	{"Song of Solomon_ch_5.docx": [2018]}
-keph	{"Song of Solomon_ch_5.docx": [2018]}
-stoic	{"Acts_ch_17.docx": [3681]}

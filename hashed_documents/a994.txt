@@ -1,2 +1,0 @@
-
-49a	{"Genesis_ch_31.docx": [7114], "Leviticus_ch_25.docx": [6704], "Numbers_ch_16.docx": [7021], "Deuteronomy_ch_4.docx": [7217], "1 Chronicles_ch_2.docx": [4312], "Ezra_ch_2.docx": [1940], "Daniel_ch_2.docx": [8590]}

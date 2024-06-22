@@ -1,7 +1,2 @@
 
-hinn	{"2 Kings_ch_23.docx": [2546], "2 Chronicles_ch_28.docx": [61, 61, 61], "Nehemiah_ch_11.docx": [7413, 7413, 7413], "Jeremiah_ch_7.docx": [5085, 5332, 5085, 5332, 5085, 5332], "Jeremiah_ch_19.docx": [154, 1115, 154, 1115, 154, 1115], "Jeremiah_ch_32.docx": [6120, 6120, 6120]}
-49‘s	{"Exodus_ch_12.docx": [7454]}
-hinn	{"2 Kings_ch_23.docx": [2546], "2 Chronicles_ch_28.docx": [61, 61], "Nehemiah_ch_11.docx": [7413, 7413], "Jeremiah_ch_7.docx": [5085, 5332, 5085, 5332], "Jeremiah_ch_19.docx": [154, 1115, 154, 1115], "Jeremiah_ch_32.docx": [6120, 6120]}
-44i	{"Nehemiah_ch_12.docx": [12094], "Psalms_ch_119.docx": [3478]}
-44‘i’l	{"Matthew_ch_12.docx": [5559]}
 hinn	{"2 Kings_ch_23.docx": [2546], "2 Chronicles_ch_28.docx": [61], "Nehemiah_ch_11.docx": [7413], "Jeremiah_ch_7.docx": [5085, 5332], "Jeremiah_ch_19.docx": [154, 1115], "Jeremiah_ch_32.docx": [6120]}

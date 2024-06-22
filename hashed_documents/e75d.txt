@@ -1,3 +1,2 @@
 
-recept	{"Luke_ch_5.docx": [5429], "Luke_ch_14.docx": [740, 740]}
 recept	{"Luke_ch_5.docx": [5429], "Luke_ch_14.docx": [740]}

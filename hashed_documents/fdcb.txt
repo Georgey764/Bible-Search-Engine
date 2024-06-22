@@ -1,6 +1,2 @@
 
-aoda	{"1 Chronicles_ch_4.docx": [462, 521, 521]}
-aoda	{"1 Chronicles_ch_4.docx": [462, 521]}
-15eg	{"Isaiah_ch_19.docx": [2052]}
-26:31	{"Zechariah_ch_13.docx": [1322]}
 aoda	{"1 Chronicles_ch_4.docx": [462, 521]}

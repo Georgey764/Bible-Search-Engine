@@ -1,4 +1,2 @@
 
 lovel	{"Song of Solomon_ch_4.docx": [980]}
-lovel	{"Song of Solomon_ch_4.docx": [980]}
-lovel	{"Song of Solomon_ch_4.docx": [980]}

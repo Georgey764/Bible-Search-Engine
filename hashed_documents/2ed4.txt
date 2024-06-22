@@ -1,4 +1,2 @@
 
-sera	{"Ezra_ch_2.docx": [412], "Ezra_ch_7.docx": [125, 125, 125], "Nehemiah_ch_11.docx": [1583, 1583, 1583], "Nehemiah_ch_12.docx": [952, 952, 952], "Isaiah_ch_6.docx": [33, 888, 33, 888, 33, 888], "Jeremiah_ch_40.docx": [1715, 1715, 1715], "Jeremiah_ch_51.docx": [9749, 9776, 10194, 9749, 9776, 10194, 9749, 9776, 10194]}
-sera	{"Ezra_ch_2.docx": [412], "Ezra_ch_7.docx": [125, 125], "Nehemiah_ch_11.docx": [1583, 1583], "Nehemiah_ch_12.docx": [952, 952], "Isaiah_ch_6.docx": [33, 888, 33, 888], "Jeremiah_ch_40.docx": [1715, 1715], "Jeremiah_ch_51.docx": [9749, 9776, 10194, 9749, 9776, 10194]}
-sera	{"Ezra_ch_2.docx": [412], "Ezra_ch_7.docx": [125], "Nehemiah_ch_11.docx": [1583], "Nehemiah_ch_12.docx": [952], "Isaiah_ch_6.docx": [33, 888], "Jeremiah_ch_40.docx": [1715], "Jeremiah_ch_51.docx": [9749, 9776, 10194]}
+sera	{"Ezra_ch_2.docx": [412], "Ezra_ch_7.docx": [125], "Nehemiah_ch_11.docx": [1583], "Nehemiah_ch_12.docx": [952], "Isaiah_ch_6.docx": [33, 888], "Jeremiah_ch_40.docx": [1715], "Jeremiah_ch_51.docx": [9749, 9776, 10194], "Jeremiah_ch_52.docx": [3677]}

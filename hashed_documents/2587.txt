@@ -1,4 +1,2 @@
 
-lama	{"Matthew_ch_27.docx": [5388], "Mark_ch_15.docx": [3686, 3686]}
-27‘r	{"Deuteronomy_ch_9.docx": [4440]}
 lama	{"Matthew_ch_27.docx": [5388], "Mark_ch_15.docx": [3686]}

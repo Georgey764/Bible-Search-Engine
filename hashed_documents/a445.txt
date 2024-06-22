@@ -1,3 +1,0 @@
-
-2‘i	{"Exodus_ch_20.docx": [53], "Exodus_ch_21.docx": [183], "Exodus_ch_30.docx": [79], "Leviticus_ch_13.docx": [74], "Numbers_ch_31.docx": [99], "Deuteronomy_ch_31.docx": [115], "Judges_ch_5.docx": [90], "2 Kings_ch_10.docx": [215], "Job_ch_6.docx": [42], "Job_ch_9.docx": [42], "Job_ch_13.docx": [109], "Job_ch_23.docx": [42], "Ecclesiastes_ch_4.docx": [282], "Daniel_ch_4.docx": [157], "Daniel_ch_7.docx": [223], "Joel_ch_2.docx": [219], "Amos_ch_3.docx": [196], "Zechariah_ch_13.docx": [171], "Malachi_ch_1.docx": [143], "Malachi_ch_2.docx": [68]}
-43yo	{"Leviticus_ch_11.docx": [4994], "Psalms_ch_18.docx": [4108], "Psalms_ch_89.docx": [4124]}

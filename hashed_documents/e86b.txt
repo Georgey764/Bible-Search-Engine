@@ -1,4 +1,2 @@
 
-gade	{"Genesis_ch_35.docx": [2237], "Numbers_ch_1.docx": [1060, 1060, 1060], "Numbers_ch_7.docx": [7013, 7654, 7013, 7654, 7013, 7654], "Numbers_ch_10.docx": [2584, 2584, 2584], "Joshua_ch_12.docx": [14052, 14052, 14052], "Joshua_ch_15.docx": [4724, 4724, 4724], "1 Chronicles_ch_4.docx": [2802, 2802, 2802], "2 Chronicles_ch_28.docx": [3255, 3255, 3255]}
-gade	{"Genesis_ch_35.docx": [2237], "Numbers_ch_1.docx": [1060, 1060], "Numbers_ch_7.docx": [7013, 7654, 7013, 7654], "Numbers_ch_10.docx": [2584, 2584], "Joshua_ch_12.docx": [14052, 14052], "Joshua_ch_15.docx": [4724, 4724], "1 Chronicles_ch_4.docx": [2802, 2802], "2 Chronicles_ch_28.docx": [3255, 3255]}
 gade	{"Genesis_ch_35.docx": [2237], "Numbers_ch_1.docx": [1060], "Numbers_ch_7.docx": [7013, 7654], "Numbers_ch_10.docx": [2584], "Joshua_ch_12.docx": [14052], "Joshua_ch_15.docx": [4724], "1 Chronicles_ch_4.docx": [2802], "2 Chronicles_ch_28.docx": [3255]}

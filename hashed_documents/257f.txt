@@ -1,4 +1,2 @@
 
-sake!	{"Genesis_ch_22.docx": [1860], "2 Timothy_ch_1.docx": [833, 833]}
-sake!	{"Genesis_ch_22.docx": [1860], "2 Timothy_ch_1.docx": [833]}
 sake!	{"Genesis_ch_22.docx": [1860], "2 Timothy_ch_1.docx": [833]}

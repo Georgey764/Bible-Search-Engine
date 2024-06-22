@@ -1,2 +1,0 @@
-
-30,00	{"Joshua_ch_8.docx": [381], "1 Samuel_ch_4.docx": [1744], "1 Samuel_ch_11.docx": [1240], "1 Samuel_ch_13.docx": [851], "1 Kings_ch_5.docx": [1877], "2 Chronicles_ch_35.docx": [1258]}

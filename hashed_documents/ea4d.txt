@@ -1,4 +1,2 @@
 
-shinar	{"Genesis_ch_10.docx": [1108], "Genesis_ch_11.docx": [36, 36, 36], "Genesis_ch_14.docx": [14, 1088, 14, 1088, 14, 1088], "Song of Solomon_ch_4.docx": [1177, 1177, 1177], "Daniel_ch_1.docx": [198, 198, 198]}
-shinar	{"Genesis_ch_10.docx": [1108], "Genesis_ch_11.docx": [36, 36], "Genesis_ch_14.docx": [14, 1088, 14, 1088], "Song of Solomon_ch_4.docx": [1177, 1177], "Daniel_ch_1.docx": [198, 198]}
 shinar	{"Genesis_ch_10.docx": [1108], "Genesis_ch_11.docx": [36], "Genesis_ch_14.docx": [14, 1088], "Song of Solomon_ch_4.docx": [1177], "Daniel_ch_1.docx": [198]}

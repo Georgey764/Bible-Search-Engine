@@ -1,4 +1,2 @@
 
-stompi	{"Malachi_ch_3.docx": [1823, 1887, 2022, 1887, 2022, 1887, 2022]}
-stompi	{"Malachi_ch_3.docx": [1823, 1887, 2022, 1887, 2022]}
 stompi	{"Malachi_ch_3.docx": [1823, 1887, 2022]}

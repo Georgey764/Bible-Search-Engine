@@ -1,4 +1,2 @@
 
-thamas	{"2 Samuel_ch_11.docx": [3066, 3635, 3635, 3635]}
-thamas	{"2 Samuel_ch_11.docx": [3066, 3635, 3635]}
 thamas	{"2 Samuel_ch_11.docx": [3066, 3635]}

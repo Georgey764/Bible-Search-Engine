@@ -1,4 +1,2 @@
 
-day,	{"Revelation_ch_1.docx": [1532, 1536, 1536]}
-8char	{"1 Chronicles_ch_24.docx": [1388]}
 day,	{"Revelation_ch_1.docx": [1532, 1536]}

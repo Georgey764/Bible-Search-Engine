@@ -1,4 +1,2 @@
 
-visits	{"Job_ch_6.docx": [1449], "Job_ch_31.docx": [1306, 1306, 1306], "Psalms_ch_17.docx": [329, 329, 329], "Psalms_ch_65.docx": [965, 965, 965], "Jeremiah_ch_51.docx": [3142, 3142, 3142]}
-visits	{"Job_ch_6.docx": [1449], "Job_ch_31.docx": [1306, 1306], "Psalms_ch_17.docx": [329, 329], "Psalms_ch_65.docx": [965, 965], "Jeremiah_ch_51.docx": [3142, 3142]}
 visits	{"Job_ch_6.docx": [1449], "Job_ch_31.docx": [1306], "Psalms_ch_17.docx": [329], "Psalms_ch_65.docx": [965], "Jeremiah_ch_51.docx": [3142]}

@@ -1,4 +1,2 @@
 
-unfold	{"Deuteronomy_ch_22.docx": [2309], "Judges_ch_8.docx": [4858, 4858, 4858], "Isaiah_ch_25.docx": [1592, 1592, 1592]}
-unfold	{"Deuteronomy_ch_22.docx": [2309], "Judges_ch_8.docx": [4858, 4858], "Isaiah_ch_25.docx": [1592, 1592]}
 unfold	{"Deuteronomy_ch_22.docx": [2309], "Judges_ch_8.docx": [4858], "Isaiah_ch_25.docx": [1592]}

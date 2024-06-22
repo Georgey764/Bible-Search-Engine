@@ -1,4 +1,2 @@
 
-lamb’	{"Leviticus_ch_8.docx": [3705], "Job_ch_31.docx": [1852, 1852, 1852], "Malachi_ch_2.docx": [371, 371, 371], "Hebrews_ch_11.docx": [5516, 5516], "Revelation_ch_13.docx": [1097, 1097], "Revelation_ch_19.docx": [1005, 1371, 1005, 1371], "Revelation_ch_21.docx": [1474, 3973, 1474, 3973]}
-lamb’	{"Leviticus_ch_8.docx": [3705], "Job_ch_31.docx": [1852, 1852], "Malachi_ch_2.docx": [371, 371], "Hebrews_ch_11.docx": [5516], "Revelation_ch_13.docx": [1097], "Revelation_ch_19.docx": [1005, 1371], "Revelation_ch_21.docx": [1474, 3973]}
 lamb’	{"Leviticus_ch_8.docx": [3705], "Job_ch_31.docx": [1852], "Malachi_ch_2.docx": [371], "Hebrews_ch_11.docx": [5516], "Revelation_ch_13.docx": [1097], "Revelation_ch_19.docx": [1005, 1371], "Revelation_ch_21.docx": [1474, 3973]}

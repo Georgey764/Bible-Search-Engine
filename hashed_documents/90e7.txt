@@ -1,4 +1,2 @@
 
-taken;	{"Isaiah_ch_9.docx": [774]}
-taken;	{"Isaiah_ch_9.docx": [774]}
-taken;	{"Isaiah_ch_9.docx": [774]}
+taken;	{"Ecclesiastes_ch_12.docx": [1307], "Isaiah_ch_9.docx": [774]}

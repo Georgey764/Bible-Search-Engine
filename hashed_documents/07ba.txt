@@ -1,4 +1,2 @@
 
-lamec	{"Genesis_ch_4.docx": [2288, 2315, 2645, 2315, 2645, 2315, 2645], "Genesis_ch_5.docx": [1812, 1816, 2019, 2273, 2288, 1812, 1816, 2273, 2288, 1812, 1816, 2019, 2273, 2288], "1 Chronicles_ch_1.docx": [119, 119, 119], "Luke_ch_3.docx": [7165, 7165]}
-lamec	{"Genesis_ch_4.docx": [2288, 2315, 2645, 2315, 2645], "Genesis_ch_5.docx": [1812, 1816, 2273, 2288, 1812, 1816, 2019, 2273, 2288], "1 Chronicles_ch_1.docx": [119, 119], "Luke_ch_3.docx": [7165]}
 lamec	{"Genesis_ch_4.docx": [2288, 2315, 2645], "Genesis_ch_5.docx": [1812, 1816, 2019, 2273, 2288], "1 Chronicles_ch_1.docx": [119], "Luke_ch_3.docx": [7165]}

@@ -1,5 +1,2 @@
 
-meriba	{"1 Chronicles_ch_8.docx": [2216, 2218, 2218, 2218], "1 Chronicles_ch_9.docx": [5560, 5562, 5560, 5562, 5560, 5562]}
-meriba	{"1 Chronicles_ch_8.docx": [2216, 2218, 2218], "1 Chronicles_ch_9.docx": [5560, 5562, 5560, 5562]}
-4thr	{"Isaiah_ch_64.docx": [353]}
 meriba	{"1 Chronicles_ch_8.docx": [2216, 2218], "1 Chronicles_ch_9.docx": [5560, 5562]}

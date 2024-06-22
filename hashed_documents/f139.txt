@@ -1,3 +1,2 @@
 
-hence	{"Hebrews_ch_4.docx": [973]}
-hence	{"Hebrews_ch_4.docx": [973]}
+hence	{"Exodus_ch_40.docx": [4076], "Leviticus_ch_27.docx": [4619], "Hebrews_ch_4.docx": [973]}

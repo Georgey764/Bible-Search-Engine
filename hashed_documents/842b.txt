@@ -1,5 +1,2 @@
 
-fatne	{"Genesis_ch_27.docx": [3398, 5308, 5308, 5308], "Nehemiah_ch_8.docx": [2581, 2581, 2581], "Psalms_ch_63.docx": [494, 494, 494], "Psalms_ch_65.docx": [1346, 1346, 1346], "Psalms_ch_73.docx": [541, 541, 541], "Psalms_ch_81.docx": [1600, 1600, 1600], "Psalms_ch_147.docx": [1291, 1291, 1291], "Ezekiel_ch_25.docx": [719, 719, 719], "Romans_ch_11.docx": [2571, 2571]}
-fatne	{"Genesis_ch_27.docx": [3398, 5308, 5308], "Nehemiah_ch_8.docx": [2581, 2581], "Psalms_ch_63.docx": [494, 494], "Psalms_ch_65.docx": [1346, 1346], "Psalms_ch_73.docx": [541, 541], "Psalms_ch_81.docx": [1600, 1600], "Psalms_ch_147.docx": [1291, 1291], "Ezekiel_ch_25.docx": [719, 719], "Romans_ch_11.docx": [2571]}
-5[then	{"Habakkuk_ch_1.docx": [577]}
 fatne	{"Genesis_ch_27.docx": [3398, 5308], "Nehemiah_ch_8.docx": [2581], "Psalms_ch_63.docx": [494], "Psalms_ch_65.docx": [1346], "Psalms_ch_73.docx": [541], "Psalms_ch_81.docx": [1600], "Psalms_ch_147.docx": [1291], "Ezekiel_ch_25.docx": [719], "Romans_ch_11.docx": [2571]}

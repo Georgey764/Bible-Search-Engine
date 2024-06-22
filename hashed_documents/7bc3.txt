@@ -1,4 +1,2 @@
 
-citize	{"Exodus_ch_8.docx": [381, 3173, 4590, 4815, 3173, 4590, 4815, 3173, 4590, 4815], "Acts_ch_21.docx": [11156, 11156], "Acts_ch_22.docx": [6304, 6358, 6447, 6304, 6358, 6447], "Ephesians_ch_2.docx": [1331, 2610, 1331, 2610]}
-citize	{"Exodus_ch_8.docx": [381, 3173, 4590, 4815, 3173, 4590, 4815], "Acts_ch_21.docx": [11156], "Acts_ch_22.docx": [6304, 6358, 6447], "Ephesians_ch_2.docx": [1331, 2610]}
 citize	{"Exodus_ch_8.docx": [381, 3173, 4590, 4815], "Acts_ch_21.docx": [11156], "Acts_ch_22.docx": [6304, 6358, 6447], "Ephesians_ch_2.docx": [1331, 2610]}

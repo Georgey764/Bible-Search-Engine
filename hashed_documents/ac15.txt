@@ -1,4 +1,2 @@
 
-buthan	{"Numbers_ch_33.docx": [696, 756, 756, 756]}
-buthan	{"Numbers_ch_33.docx": [696, 756, 756]}
 buthan	{"Numbers_ch_33.docx": [696, 756]}

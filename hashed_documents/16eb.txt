@@ -1,4 +1,2 @@
 
-fives	{"Exodus_ch_26.docx": [910], "1 Kings_ch_7.docx": [324, 324, 324]}
-fives	{"Exodus_ch_26.docx": [910], "1 Kings_ch_7.docx": [324, 324]}
 fives	{"Exodus_ch_26.docx": [910], "1 Kings_ch_7.docx": [324]}

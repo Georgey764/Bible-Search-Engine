@@ -1,7 +1,3 @@
 
-eldad	{"Numbers_ch_11.docx": [4081, 4417, 4417, 4417], "Numbers_ch_34.docx": [2092, 2092, 2092]}
-ages;	{"Job_ch_19.docx": [2270], "Psalms_ch_61.docx": [435, 435, 435], "Psalms_ch_136.docx": [1481, 1741, 2342, 1481, 1741, 2342, 1481, 1741, 2342], "Proverbs_ch_10.docx": [2790, 2790, 2790], "Ecclesiastes_ch_3.docx": [1337, 1337, 1337], "Jeremiah_ch_6.docx": [2869, 2869, 2869]}
-eldad	{"Numbers_ch_11.docx": [4081, 4417, 4417], "Numbers_ch_34.docx": [2092, 2092]}
-ages;	{"Job_ch_19.docx": [2270], "Psalms_ch_61.docx": [435, 435], "Psalms_ch_136.docx": [1481, 1741, 2342, 1481, 1741, 2342], "Proverbs_ch_10.docx": [2790, 2790], "Ecclesiastes_ch_3.docx": [1337, 1337], "Jeremiah_ch_6.docx": [2869, 2869]}
 eldad	{"Numbers_ch_11.docx": [4081, 4417], "Numbers_ch_34.docx": [2092]}
-ages;	{"Job_ch_19.docx": [2270], "Psalms_ch_61.docx": [435], "Psalms_ch_136.docx": [1481, 1741, 2342], "Proverbs_ch_10.docx": [2790], "Ecclesiastes_ch_3.docx": [1337], "Jeremiah_ch_6.docx": [2869]}
+ages;	{"1 Chronicles_ch_29.docx": [2068], "Esther_ch_10.docx": [3260], "Job_ch_19.docx": [2270], "Psalms_ch_61.docx": [435], "Psalms_ch_136.docx": [1481, 1741, 2342], "Proverbs_ch_10.docx": [2790], "Ecclesiastes_ch_3.docx": [1337], "Jeremiah_ch_6.docx": [2869]}

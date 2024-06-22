@@ -1,3 +1,2 @@
 
-puz	{"John_ch_4.docx": [3682]}
-puz	{"John_ch_4.docx": [3682]}
+puz	{"Ezra_ch_10.docx": [7228], "John_ch_4.docx": [3682]}

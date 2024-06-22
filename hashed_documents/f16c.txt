@@ -1,4 +1,3 @@
 
-heshb	{"Judges_ch_11.docx": [4007], "1 Kings_ch_4.docx": [1981, 1981, 1981], "1 Chronicles_ch_6.docx": [7063, 7063], "Nehemiah_ch_9.docx": [4602, 4602, 4602], "Song of Solomon_ch_7.docx": [494, 494, 494], "Isaiah_ch_15.docx": [537, 537, 537], "Isaiah_ch_16.docx": [1334, 1790, 1334, 1790, 1334, 1790], "Jeremiah_ch_48.docx": [205, 4492, 6174, 6256, 205, 4492, 6174, 6256, 205, 4492, 6174, 6256], "Jeremiah_ch_49.docx": [554, 554, 554]}
-heshb	{"Judges_ch_11.docx": [4007], "1 Kings_ch_4.docx": [1981, 1981], "Nehemiah_ch_9.docx": [4602, 4602], "Song of Solomon_ch_7.docx": [494, 494], "Isaiah_ch_15.docx": [537, 537], "Isaiah_ch_16.docx": [1334, 1790, 1334, 1790], "Jeremiah_ch_48.docx": [205, 4492, 6174, 6256, 205, 4492, 6174, 6256], "Jeremiah_ch_49.docx": [554, 554], "1 Chronicles_ch_6.docx": [7063]}
 heshb	{"Judges_ch_11.docx": [4007], "1 Kings_ch_4.docx": [1981], "1 Chronicles_ch_6.docx": [7063], "Nehemiah_ch_9.docx": [4602], "Song of Solomon_ch_7.docx": [494], "Isaiah_ch_15.docx": [537], "Isaiah_ch_16.docx": [1334, 1790], "Jeremiah_ch_48.docx": [205, 4492, 6174, 6256], "Jeremiah_ch_49.docx": [554]}
+ramij	{"Ezra_ch_10.docx": [4393]}

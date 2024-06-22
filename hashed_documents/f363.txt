@@ -1,9 +1,4 @@
 
 daydr	{"Ecclesiastes_ch_5.docx": [1053]}
-cloudy	{"Ezekiel_ch_34.docx": [2073, 2223, 2223, 2223], "Joel_ch_2.docx": [265, 265, 265], "Habakkuk_ch_2.docx": [2447, 2447, 2447]}
-mendi	{"Mark_ch_1.docx": [2105]}
-daydr	{"Ecclesiastes_ch_5.docx": [1053]}
-cloudy	{"Ezekiel_ch_34.docx": [2073, 2223, 2223], "Joel_ch_2.docx": [265, 265], "Habakkuk_ch_2.docx": [2447, 2447]}
-daydr	{"Ecclesiastes_ch_5.docx": [1053]}
 cloudy	{"Ezekiel_ch_34.docx": [2073, 2223], "Joel_ch_2.docx": [265], "Habakkuk_ch_2.docx": [2447]}
 mendi	{"Mark_ch_1.docx": [2105]}

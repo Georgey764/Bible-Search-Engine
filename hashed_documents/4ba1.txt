@@ -1,3 +1,0 @@
-
-10howe	{"Exodus_ch_20.docx": [818], "Numbers_ch_27.docx": [1120], "1 Samuel_ch_11.docx": [1550], "Esther_ch_2.docx": [2109], "Daniel_ch_1.docx": [1501], "Daniel_ch_6.docx": [1502], "Matthew_ch_20.docx": [1107]}
-80[	{"Numbers_ch_7.docx": [9379]}

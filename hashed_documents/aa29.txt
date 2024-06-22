@@ -1,4 +1,2 @@
 
-layers	{"Ezra_ch_6.docx": [518], "Ezekiel_ch_17.docx": [857, 857, 857]}
-layers	{"Ezra_ch_6.docx": [518], "Ezekiel_ch_17.docx": [857, 857]}
 layers	{"Ezra_ch_6.docx": [518], "Ezekiel_ch_17.docx": [857]}

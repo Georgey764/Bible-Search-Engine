@@ -1,4 +1,2 @@
 
-nom	{"Joshua_ch_15.docx": [4978], "1 Chronicles_ch_7.docx": [2532, 2532, 2532]}
-nom	{"Joshua_ch_15.docx": [4978], "1 Chronicles_ch_7.docx": [2532, 2532]}
 nom	{"Joshua_ch_15.docx": [4978], "1 Chronicles_ch_7.docx": [2532]}

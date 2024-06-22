@@ -1,4 +1,2 @@
 
-cowar	{"Deuteronomy_ch_31.docx": [704], "Joshua_ch_1.docx": [1277, 1277, 1277], "Joshua_ch_10.docx": [10264, 10264, 10264], "Judges_ch_9.docx": [875, 875, 875], "Proverbs_ch_19.docx": [1344, 1344, 1344], "Mark_ch_4.docx": [4794, 4794], "Revelation_ch_21.docx": [1091, 1091]}
-cowar	{"Deuteronomy_ch_31.docx": [704], "Joshua_ch_1.docx": [1277, 1277], "Joshua_ch_10.docx": [10264, 10264], "Judges_ch_9.docx": [875, 875], "Proverbs_ch_19.docx": [1344, 1344], "Mark_ch_4.docx": [4794], "Revelation_ch_21.docx": [1091]}
 cowar	{"Deuteronomy_ch_31.docx": [704], "Joshua_ch_1.docx": [1277], "Joshua_ch_10.docx": [10264], "Judges_ch_9.docx": [875], "Proverbs_ch_19.docx": [1344], "Mark_ch_4.docx": [4794], "Revelation_ch_21.docx": [1091]}

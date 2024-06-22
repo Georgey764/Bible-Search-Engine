@@ -1,3 +1,2 @@
 
-liters	{"John_ch_2.docx": [455], "Revelation_ch_6.docx": [914, 914]}
 liters	{"John_ch_2.docx": [455], "Revelation_ch_6.docx": [914]}

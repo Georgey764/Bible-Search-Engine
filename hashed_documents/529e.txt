@@ -1,4 +1,2 @@
 
 abse	{"Romans_ch_3.docx": [2356]}
-23how	{"Genesis_ch_42.docx": [2885], "Judges_ch_13.docx": [3683], "1 Samuel_ch_28.docx": [3681], "1 Samuel_ch_30.docx": [3595], "2 Kings_ch_13.docx": [3787], "Matthew_ch_16.docx": [3111]}
-abse	{"Romans_ch_3.docx": [2356]}

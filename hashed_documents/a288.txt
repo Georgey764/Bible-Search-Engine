@@ -1,7 +1,3 @@
 
-hare	{"Leviticus_ch_11.docx": [677], "Deuteronomy_ch_14.docx": [632, 632, 632], "1 Samuel_ch_22.docx": [767, 767, 767], "Esther_ch_2.docx": [297, 324, 352, 1729, 2107, 2647, 2824, 2831, 297, 324, 352, 1729, 2107, 2647, 2824, 2831, 297, 324, 352, 1729, 2107, 2647, 2824, 2831]}
-gouni’	{"1 Chronicles_ch_5.docx": [1932]}
-hare	{"Leviticus_ch_11.docx": [677], "Deuteronomy_ch_14.docx": [632, 632], "1 Samuel_ch_22.docx": [767, 767], "Esther_ch_2.docx": [297, 324, 352, 1729, 2107, 2647, 2824, 2831, 297, 324, 352, 1729, 2107, 2647, 2824, 2831]}
-gouni’	{"1 Chronicles_ch_5.docx": [1932]}
 hare	{"Leviticus_ch_11.docx": [677], "Deuteronomy_ch_14.docx": [632], "1 Samuel_ch_22.docx": [767], "Esther_ch_2.docx": [297, 324, 352, 1729, 2107, 2647, 2824, 2831]}
 gouni’	{"1 Chronicles_ch_5.docx": [1932]}

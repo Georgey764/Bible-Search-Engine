@@ -1,7 +1,3 @@
 
-gare	{"2 Samuel_ch_23.docx": [5080], "Jeremiah_ch_31.docx": [7360, 7360, 7360]}
-life-	{"Proverbs_ch_14.docx": [2384], "Proverbs_ch_18.docx": [374, 374, 374], "Song of Solomon_ch_4.docx": [2124, 2176, 2124, 2176, 2124, 2176], "Isaiah_ch_12.docx": [345, 345, 345], "Acts_ch_7.docx": [5498, 5498], "1 Corinthians_ch_15.docx": [5438, 5438], "Philippians_ch_2.docx": [1970, 1970]}
-gare	{"2 Samuel_ch_23.docx": [5080], "Jeremiah_ch_31.docx": [7360, 7360]}
-life-	{"Proverbs_ch_14.docx": [2384], "Proverbs_ch_18.docx": [374, 374], "Song of Solomon_ch_4.docx": [2124, 2176, 2124, 2176], "Isaiah_ch_12.docx": [345, 345], "Acts_ch_7.docx": [5498], "1 Corinthians_ch_15.docx": [5438], "Philippians_ch_2.docx": [1970]}
 gare	{"2 Samuel_ch_23.docx": [5080], "Jeremiah_ch_31.docx": [7360]}
-life-	{"Proverbs_ch_14.docx": [2384], "Proverbs_ch_18.docx": [374], "Song of Solomon_ch_4.docx": [2124, 2176], "Isaiah_ch_12.docx": [345], "Acts_ch_7.docx": [5498], "1 Corinthians_ch_15.docx": [5438], "Philippians_ch_2.docx": [1970]}
+life-	{"Proverbs_ch_14.docx": [2384], "Proverbs_ch_18.docx": [374], "Song of Solomon_ch_4.docx": [2124, 2176], "Isaiah_ch_12.docx": [345], "Zechariah_ch_14.docx": [1369], "Acts_ch_7.docx": [5498], "1 Corinthians_ch_15.docx": [5438], "Philippians_ch_2.docx": [1970], "1 Timothy_ch_6.docx": [470], "2 Timothy_ch_4.docx": [426]}

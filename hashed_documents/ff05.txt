@@ -1,8 +1,3 @@
 
 semmer	{"1 Chronicles_ch_8.docx": [844]}
 bigth	{"Esther_ch_1.docx": [1893]}
-21‘lo	{"Numbers_ch_18.docx": [3672], "Isaiah_ch_26.docx": [2775]}
-semmer	{"1 Chronicles_ch_8.docx": [844]}
-bigth	{"Esther_ch_1.docx": [1893]}
-semmer	{"1 Chronicles_ch_8.docx": [844]}
-bigth	{"Esther_ch_1.docx": [1893]}

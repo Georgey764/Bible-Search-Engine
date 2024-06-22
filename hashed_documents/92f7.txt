@@ -1,4 +1,2 @@
 
-slain!	{"Proverbs_ch_24.docx": [927], "Ezekiel_ch_30.docx": [1486, 1486, 1486]}
-slain!	{"Proverbs_ch_24.docx": [927], "Ezekiel_ch_30.docx": [1486, 1486]}
 slain!	{"Proverbs_ch_24.docx": [927], "Ezekiel_ch_30.docx": [1486]}

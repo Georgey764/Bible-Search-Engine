@@ -1,2 +1,0 @@
-
-21‘s	{"Judges_ch_5.docx": [3101], "Ezra_ch_4.docx": [3516], "Job_ch_22.docx": [1887], "Isaiah_ch_51.docx": [3972], "Jeremiah_ch_31.docx": [3883], "Jeremiah_ch_50.docx": [3979], "Lamentations_ch_4.docx": [3515], "Ezekiel_ch_23.docx": [3117], "Ezekiel_ch_36.docx": [3812], "Joel_ch_2.docx": [3836], "Amos_ch_5.docx": [3765]}

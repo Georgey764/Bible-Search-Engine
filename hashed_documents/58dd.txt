@@ -1,7 +1,3 @@
 
  bak	{"1 Chronicles_ch_9.docx": [2121]}
 flanke	{"Nehemiah_ch_4.docx": [3728]}
- bak	{"1 Chronicles_ch_9.docx": [2121]}
-flanke	{"Nehemiah_ch_4.docx": [3728]}
- bak	{"1 Chronicles_ch_9.docx": [2121]}
-flanke	{"Nehemiah_ch_4.docx": [3728]}

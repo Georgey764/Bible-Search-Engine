@@ -1,2 +1,0 @@
-
-7to	{"Genesis_ch_27.docx": [731], "Psalms_ch_41.docx": [692], "Psalms_ch_103.docx": [564], "Psalms_ch_119.docx": [423], "Isaiah_ch_11.docx": [861], "Isaiah_ch_42.docx": [920], "Jeremiah_ch_49.docx": [1257]}

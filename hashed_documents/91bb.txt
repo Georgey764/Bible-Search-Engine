@@ -1,7 +1,3 @@
 
 ingre	{"Exodus_ch_25.docx": [642]}
 spas	{"Jeremiah_ch_4.docx": [3397]}
-ingre	{"Exodus_ch_25.docx": [642]}
-spas	{"Jeremiah_ch_4.docx": [3397]}
-ingre	{"Exodus_ch_25.docx": [642]}
-spas	{"Jeremiah_ch_4.docx": [3397]}

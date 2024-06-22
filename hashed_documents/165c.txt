@@ -1,3 +1,2 @@
 
-tert	{"Acts_ch_24.docx": [19, 188, 1260, 188, 1260]}
-tert	{"Acts_ch_24.docx": [19, 188, 1260]}
+tert	{"Acts_ch_24.docx": [19, 188, 1260], "Acts_ch_28.docx": [8828], "Romans_ch_16.docx": [2944]}

@@ -1,4 +1,2 @@
 
-maal	{"Numbers_ch_27.docx": [185], "Joshua_ch_17.docx": [525, 525, 525], "2 Chronicles_ch_29.docx": [1844, 1844, 1844]}
-maal	{"Numbers_ch_27.docx": [185], "Joshua_ch_17.docx": [525, 525], "2 Chronicles_ch_29.docx": [1844, 1844]}
 maal	{"Numbers_ch_27.docx": [185], "Joshua_ch_17.docx": [525], "2 Chronicles_ch_29.docx": [1844]}

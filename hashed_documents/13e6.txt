@@ -1,4 +1,2 @@
 
-re-	{"Leviticus_ch_14.docx": [6376, 6437, 6452, 7116, 6437, 6452, 7116, 6437, 6452, 7116], "2 Chronicles_ch_23.docx": [3551, 3551, 3551], "Ezra_ch_4.docx": [2134, 2134, 2134]}
-re-	{"Leviticus_ch_14.docx": [6376, 6437, 6452, 7116, 6437, 6452, 7116], "2 Chronicles_ch_23.docx": [3551, 3551], "Ezra_ch_4.docx": [2134, 2134]}
-re-	{"Leviticus_ch_14.docx": [6376, 6437, 6452, 7116], "2 Chronicles_ch_23.docx": [3551], "Ezra_ch_4.docx": [2134]}
+re-	{"Leviticus_ch_14.docx": [6376, 6437, 6452, 7116], "2 Chronicles_ch_23.docx": [3551], "Ezra_ch_4.docx": [2134], "Isaiah_ch_66.docx": [5684], "Titus_ch_3.docx": [416]}

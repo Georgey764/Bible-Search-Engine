@@ -1,4 +1,2 @@
 
-patro	{"2 Kings_ch_11.docx": [527, 3159, 3159, 3159]}
-patro	{"2 Kings_ch_11.docx": [527, 3159, 3159]}
-patro	{"2 Kings_ch_11.docx": [527, 3159]}
+patro	{"2 Kings_ch_11.docx": [527, 3159], "Romans_ch_16.docx": [1853]}

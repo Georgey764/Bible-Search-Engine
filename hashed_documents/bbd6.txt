@@ -1,3 +1,0 @@
-
-6‘ther	{"Numbers_ch_2.docx": [635], "Deuteronomy_ch_21.docx": [749], "Joshua_ch_1.docx": [634], "1 Kings_ch_5.docx": [762], "Job_ch_28.docx": [554], "Ecclesiastes_ch_3.docx": [470], "Ecclesiastes_ch_8.docx": [481], "Ezekiel_ch_17.docx": [672]}
-35‘ye	{"Jeremiah_ch_31.docx": [6500]}

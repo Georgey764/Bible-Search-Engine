@@ -1,2 +1,0 @@
-
-6be	{"Genesis_ch_39.docx": [589], "2 Samuel_ch_7.docx": [556], "2 Samuel_ch_20.docx": [1046], "1 Chronicles_ch_27.docx": [682], "2 Chronicles_ch_29.docx": [562], "Psalms_ch_96.docx": [450], "Micah_ch_3.docx": [928]}

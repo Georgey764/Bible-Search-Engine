@@ -1,4 +1,2 @@
 
-wing-	{"1 Kings_ch_6.docx": [2890, 2892, 2892, 2892]}
-wing-	{"1 Kings_ch_6.docx": [2890, 2892, 2892]}
 wing-	{"1 Kings_ch_6.docx": [2890, 2892]}

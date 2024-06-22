@@ -1,6 +1,3 @@
 
 poore	{"Micah_ch_1.docx": [5139]}
-cleop	{"John_ch_19.docx": [3482]}
-poore	{"Micah_ch_1.docx": [5139]}
-poore	{"Micah_ch_1.docx": [5139]}
-cleop	{"John_ch_19.docx": [3482]}
+cleop	{"Luke_ch_24.docx": [1866], "John_ch_19.docx": [3482]}

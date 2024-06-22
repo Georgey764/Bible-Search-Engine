@@ -1,5 +1,2 @@
 
-campgr	{"Genesis_ch_32.docx": [218, 262, 262, 262]}
-campgr	{"Genesis_ch_32.docx": [218, 262, 262]}
-5alth	{"1 Samuel_ch_2.docx": [674]}
 campgr	{"Genesis_ch_32.docx": [218, 262]}

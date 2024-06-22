@@ -1,4 +1,2 @@
 
-hoofs	{"Leviticus_ch_11.docx": [243, 703, 703, 703], "Deuteronomy_ch_14.docx": [628, 628, 628], "Judges_ch_5.docx": [3237, 3237, 3237], "Jeremiah_ch_47.docx": [437, 437, 437], "Micah_ch_4.docx": [2858, 2858, 2858]}
-hoofs	{"Leviticus_ch_11.docx": [243, 703, 703], "Deuteronomy_ch_14.docx": [628, 628], "Judges_ch_5.docx": [3237, 3237], "Jeremiah_ch_47.docx": [437, 437], "Micah_ch_4.docx": [2858, 2858]}
 hoofs	{"Leviticus_ch_11.docx": [243, 703], "Deuteronomy_ch_14.docx": [628], "Judges_ch_5.docx": [3237], "Jeremiah_ch_47.docx": [437], "Micah_ch_4.docx": [2858]}

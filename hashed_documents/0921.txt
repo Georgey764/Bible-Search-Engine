@@ -1,6 +1,3 @@
 
 repris	{"Proverbs_ch_22.docx": [2454]}
-diony	{"Acts_ch_17.docx": [6630, 6648, 6667, 6648, 6667]}
-repris	{"Proverbs_ch_22.docx": [2454]}
-repris	{"Proverbs_ch_22.docx": [2454]}
 diony	{"Acts_ch_17.docx": [6630, 6648, 6667]}

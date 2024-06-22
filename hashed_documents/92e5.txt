@@ -1,4 +1,2 @@
 
 churn	{"Proverbs_ch_30.docx": [3373]}
-churn	{"Proverbs_ch_30.docx": [3373]}
-churn	{"Proverbs_ch_30.docx": [3373]}

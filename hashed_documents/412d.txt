@@ -1,4 +1,2 @@
 
-saffr	{"Proverbs_ch_7.docx": [1482], "Song of Solomon_ch_4.docx": [1989, 1989, 1989]}
-saffr	{"Proverbs_ch_7.docx": [1482], "Song of Solomon_ch_4.docx": [1989, 1989]}
 saffr	{"Proverbs_ch_7.docx": [1482], "Song of Solomon_ch_4.docx": [1989]}

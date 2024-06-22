@@ -1,5 +1,2 @@
 
-balaan	{"1 Chronicles_ch_1.docx": [3479], "1 Chronicles_ch_7.docx": [1330, 1330, 1330]}
-30‘a	{"Numbers_ch_15.docx": [3743], "Deuteronomy_ch_22.docx": [4164], "2 Kings_ch_18.docx": [5085], "Isaiah_ch_10.docx": [4496], "Jeremiah_ch_36.docx": [5106]}
-balaan	{"1 Chronicles_ch_1.docx": [3479], "1 Chronicles_ch_7.docx": [1330, 1330]}
 balaan	{"1 Chronicles_ch_1.docx": [3479], "1 Chronicles_ch_7.docx": [1330]}

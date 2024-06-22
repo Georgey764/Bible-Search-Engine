@@ -1,5 +1,2 @@
 
 yal	{"2 Samuel_ch_5.docx": [2270]}
-yal	{"2 Samuel_ch_5.docx": [2270]}
-4blest	{"Psalms_ch_65.docx": [310], "Psalms_ch_84.docx": [437]}
-yal	{"2 Samuel_ch_5.docx": [2270]}

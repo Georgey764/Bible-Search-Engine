@@ -1,7 +1,3 @@
 
-movem	{"Job_ch_16.docx": [462], "Ezekiel_ch_1.docx": [3285, 3285, 3285]}
-brass;	{"Daniel_ch_2.docx": [5560]}
-movem	{"Job_ch_16.docx": [462], "Ezekiel_ch_1.docx": [3285, 3285]}
-brass;	{"Daniel_ch_2.docx": [5560]}
 movem	{"Job_ch_16.docx": [462], "Ezekiel_ch_1.docx": [3285]}
-brass;	{"Daniel_ch_2.docx": [5560]}
+brass;	{"Jeremiah_ch_52.docx": [3193], "Daniel_ch_2.docx": [5560]}

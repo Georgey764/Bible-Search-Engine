@@ -1,5 +1,2 @@
 
-thersa	{"Numbers_ch_26.docx": [3912], "Numbers_ch_27.docx": [227, 227, 227], "Joshua_ch_12.docx": [14576, 14576, 14576], "Joshua_ch_17.docx": [568, 568, 568]}
-thersa	{"Numbers_ch_26.docx": [3912], "Numbers_ch_27.docx": [227, 227], "Joshua_ch_12.docx": [14576, 14576], "Joshua_ch_17.docx": [568, 568]}
-12j	{"Deuteronomy_ch_28.docx": [1456], "Joshua_ch_10.docx": [6017], "1 Chronicles_ch_5.docx": [1485], "Psalms_ch_86.docx": [976], "Psalms_ch_115.docx": [1080], "Jeremiah_ch_49.docx": [2123]}
-thersa	{"Numbers_ch_26.docx": [3912], "Numbers_ch_27.docx": [227], "Joshua_ch_12.docx": [14576], "Joshua_ch_17.docx": [568]}
+thersa	{"Numbers_ch_26.docx": [3912], "Numbers_ch_27.docx": [227], "Numbers_ch_36.docx": [1889], "Joshua_ch_12.docx": [14576], "Joshua_ch_17.docx": [568]}

@@ -1,5 +1,2 @@
 
-gan	{"1 Kings_ch_11.docx": [2647], "2 Timothy_ch_2.docx": [2046, 2046]}
-3he’	{"Exodus_ch_15.docx": [361], "Psalms_ch_47.docx": [203], "Psalms_ch_147.docx": [215], "Proverbs_ch_8.docx": [165], "Matthew_ch_3.docx": [172]}
-gan	{"1 Kings_ch_11.docx": [2647], "2 Timothy_ch_2.docx": [2046]}
-gan	{"1 Kings_ch_11.docx": [2647], "2 Timothy_ch_2.docx": [2046]}
+gan	{"1 Kings_ch_11.docx": [2647], "2 Chronicles_ch_36.docx": [2513], "2 Timothy_ch_2.docx": [2046]}

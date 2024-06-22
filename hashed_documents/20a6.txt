@@ -1,2 +1,0 @@
-
-15n	{"1 Samuel_ch_23.docx": [2273], "Proverbs_ch_24.docx": [1403], "Ecclesiastes_ch_5.docx": [2163], "Jeremiah_ch_2.docx": [2281], "Jeremiah_ch_41.docx": [2329], "Ezekiel_ch_42.docx": [789], "Daniel_ch_5.docx": [2794]}

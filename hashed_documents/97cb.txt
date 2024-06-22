@@ -1,4 +1,2 @@
 
-interl	{"Ezekiel_ch_41.docx": [1609]}
-interl	{"Ezekiel_ch_41.docx": [1609]}
-interl	{"Ezekiel_ch_41.docx": [1609]}
+interl	{"Ezra_ch_10.docx": [7206], "Ezekiel_ch_41.docx": [1609]}

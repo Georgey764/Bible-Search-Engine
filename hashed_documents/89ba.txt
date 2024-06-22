@@ -1,24 +1,4 @@
 
-pichol	{"Genesis_ch_21.docx": [2630, 3630, 3630, 3630]}
-son	{"1 Chronicles_ch_6.docx": [3493, 3509]}
-son	{"1 Chronicles_ch_6.docx": [3567]}
-son	{"1 Chronicles_ch_6.docx": [3587]}
-son	{"1 Chronicles_ch_6.docx": [3607]}
-son	{"1 Chronicles_ch_6.docx": [3623]}
-son	{"1 Chronicles_ch_6.docx": [3659]}
-son	{"1 Chronicles_ch_6.docx": [3676]}
-son	{"1 Chronicles_ch_6.docx": [3694]}
-grief;	{"Psalms_ch_127.docx": [324], "Hosea_ch_5.docx": [2034, 2034, 2034]}
-pichol	{"Genesis_ch_21.docx": [2630, 3630, 3630]}
-son	{"1 Chronicles_ch_6.docx": [3493, 3509]}
-son	{"1 Chronicles_ch_6.docx": [3567]}
-son	{"1 Chronicles_ch_6.docx": [3587]}
-son	{"1 Chronicles_ch_6.docx": [3607]}
-son	{"1 Chronicles_ch_6.docx": [3623]}
-son	{"1 Chronicles_ch_6.docx": [3659]}
-son	{"1 Chronicles_ch_6.docx": [3676]}
-son	{"1 Chronicles_ch_6.docx": [3694]}
-grief;	{"Psalms_ch_127.docx": [324], "Hosea_ch_5.docx": [2034, 2034]}
 pichol	{"Genesis_ch_21.docx": [2630, 3630]}
 son	{"1 Chronicles_ch_6.docx": [3493, 3509]}
 son	{"1 Chronicles_ch_6.docx": [3567]}

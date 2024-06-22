@@ -1,5 +1,3 @@
 
-jeba	{"Joshua_ch_21.docx": [3089], "1 Chronicles_ch_7.docx": [169, 169, 169]}
-2.8l	{"Exodus_ch_29.docx": [5315], "Numbers_ch_15.docx": [941, 952], "Numbers_ch_28.docx": [552, 1590, 2778, 3615], "Numbers_ch_29.docx": [417, 1259, 2152]}
-jeba	{"Joshua_ch_21.docx": [3089], "1 Chronicles_ch_7.docx": [169, 169]}
 jeba	{"Joshua_ch_21.docx": [3089], "1 Chronicles_ch_7.docx": [169]}
+phoebe	{"Romans_ch_16.docx": [32]}

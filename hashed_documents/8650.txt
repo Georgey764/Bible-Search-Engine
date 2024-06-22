@@ -1,5 +1,2 @@
 
 soul;	{"Psalms_ch_104.docx": [39]}
-43wa	{"Numbers_ch_1.docx": [3799]}
-soul;	{"Psalms_ch_104.docx": [39]}
-soul;	{"Psalms_ch_104.docx": [39]}

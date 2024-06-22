@@ -1,4 +1,2 @@
 
-vali	{"1 Samuel_ch_14.docx": [8458], "Galatians_ch_3.docx": [2205, 2205], "Hebrews_ch_9.docx": [2543, 2543]}
-vali	{"1 Samuel_ch_14.docx": [8458], "Galatians_ch_3.docx": [2205], "Hebrews_ch_9.docx": [2543]}
 vali	{"1 Samuel_ch_14.docx": [8458], "Galatians_ch_3.docx": [2205], "Hebrews_ch_9.docx": [2543]}

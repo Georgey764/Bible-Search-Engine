@@ -1,5 +1,2 @@
 
-routed	{"Judges_ch_8.docx": [2341], "1 Samuel_ch_23.docx": [664, 664, 664], "2 Samuel_ch_8.docx": [13, 13, 13]}
-25next	{"Exodus_ch_37.docx": [2498], "Numbers_ch_10.docx": [2813]}
-routed	{"Judges_ch_8.docx": [2341], "1 Samuel_ch_23.docx": [664, 664], "2 Samuel_ch_8.docx": [13, 13]}
-routed	{"Judges_ch_8.docx": [2341], "1 Samuel_ch_23.docx": [664], "2 Samuel_ch_8.docx": [13]}
+routed	{"Judges_ch_8.docx": [2341], "1 Samuel_ch_23.docx": [664], "1 Samuel_ch_31.docx": [18], "2 Samuel_ch_8.docx": [13]}

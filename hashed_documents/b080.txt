@@ -1,5 +1,2 @@
 
 beget	{"Joshua_ch_19.docx": [3453]}
-20abra	{"Genesis_ch_25.docx": [1972]}
-beget	{"Joshua_ch_19.docx": [3453]}
-beget	{"Joshua_ch_19.docx": [3453]}

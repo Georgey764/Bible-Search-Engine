@@ -1,3 +1,2 @@
 
-crowde	{"Mark_ch_5.docx": [2792, 3586, 3586], "Luke_ch_5.docx": [12, 12], "Luke_ch_8.docx": [6425, 6425]}
 crowde	{"Mark_ch_5.docx": [2792, 3586], "Luke_ch_5.docx": [12], "Luke_ch_8.docx": [6425]}

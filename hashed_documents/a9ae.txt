@@ -1,8 +1,3 @@
 
-next-o	{"Joshua_ch_20.docx": [271], "Ruth_ch_2.docx": [3606, 3606, 3606]}
-naphag	{"1 Chronicles_ch_14.docx": [590]}
-6-inc	{"Exodus_ch_25.docx": [2806]}
-next-o	{"Joshua_ch_20.docx": [271], "Ruth_ch_2.docx": [3606, 3606]}
-naphag	{"1 Chronicles_ch_14.docx": [590]}
-next-o	{"Joshua_ch_20.docx": [271], "Ruth_ch_2.docx": [3606]}
+next-o	{"Joshua_ch_20.docx": [271], "Ruth_ch_2.docx": [3606], "Ruth_ch_4.docx": [1379]}
 naphag	{"1 Chronicles_ch_14.docx": [590]}

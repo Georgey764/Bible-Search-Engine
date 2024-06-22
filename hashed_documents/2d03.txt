@@ -1,2 +1,0 @@
-
-39then	{"Genesis_ch_41.docx": [4845], "Leviticus_ch_26.docx": [4890], "Joshua_ch_10.docx": [12909], "1 Samuel_ch_17.docx": [5662], "1 Kings_ch_1.docx": [5448], "1 Kings_ch_18.docx": [6537], "1 Chronicles_ch_12.docx": [4993], "Psalms_ch_105.docx": [3195]}

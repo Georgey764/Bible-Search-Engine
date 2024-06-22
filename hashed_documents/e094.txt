@@ -1,4 +1,2 @@
 
-gabaa	{"Joshua_ch_15.docx": [5954], "2 Kings_ch_23.docx": [1937, 1937], "Ezra_ch_2.docx": [1158, 1158, 1158], "Nehemiah_ch_7.docx": [2143, 2143, 2143]}
-gabaa	{"2 Kings_ch_23.docx": [1937, 1937], "Ezra_ch_2.docx": [1158, 1158], "Nehemiah_ch_7.docx": [2143, 2143]}
-gabaa	{"Joshua_ch_15.docx": [5954], "2 Kings_ch_23.docx": [1937], "Ezra_ch_2.docx": [1158], "Nehemiah_ch_7.docx": [2143]}
+gabaa	{"Joshua_ch_15.docx": [5954], "Joshua_ch_24.docx": [5471, 5719], "2 Kings_ch_23.docx": [1937], "Ezra_ch_2.docx": [1158], "Nehemiah_ch_7.docx": [2143]}

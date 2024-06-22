@@ -1,4 +1,2 @@
 
-ommi	{"Deuteronomy_ch_2.docx": [1440, 1472, 1472, 1472]}
-ommi	{"Deuteronomy_ch_2.docx": [1440, 1472, 1472]}
 ommi	{"Deuteronomy_ch_2.docx": [1440, 1472]}

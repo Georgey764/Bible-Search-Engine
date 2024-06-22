@@ -1,3 +1,2 @@
 
-partia	{"1 Corinthians_ch_13.docx": [1055, 1062, 1070, 1409, 1062, 1070, 1409], "2 Corinthians_ch_1.docx": [2519, 2519]}
-partia	{"1 Corinthians_ch_13.docx": [1055, 1062, 1070, 1409], "2 Corinthians_ch_1.docx": [2519]}
+partia	{"Mark_ch_16.docx": [2554], "1 Corinthians_ch_13.docx": [1055, 1062, 1070, 1409], "2 Corinthians_ch_1.docx": [2519]}

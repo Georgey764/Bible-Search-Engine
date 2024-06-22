@@ -1,6 +1,3 @@
 
-expand	{"1 Kings_ch_7.docx": [791], "1 Chronicles_ch_4.docx": [988, 988, 988]}
-– to	{"2 Corinthians_ch_1.docx": [3706]}
-expand	{"1 Kings_ch_7.docx": [791], "1 Chronicles_ch_4.docx": [988, 988]}
 expand	{"1 Kings_ch_7.docx": [791], "1 Chronicles_ch_4.docx": [988]}
 – to	{"2 Corinthians_ch_1.docx": [3706]}

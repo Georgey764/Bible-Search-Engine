@@ -1,7 +1,3 @@
 
+texts	{"Numbers_ch_36.docx": [2965], "Ruth_ch_4.docx": [4519], "Nehemiah_ch_13.docx": [6184], "Esther_ch_10.docx": [3921], "Job_ch_40.docx": [1302], "Mark_ch_16.docx": [1971]}
 flin	{"Deuteronomy_ch_8.docx": [2125]}
-texts	{"Job_ch_40.docx": [1302]}
-flin	{"Deuteronomy_ch_8.docx": [2125]}
-texts	{"Job_ch_40.docx": [1302]}
-flin	{"Deuteronomy_ch_8.docx": [2125]}
-texts	{"Job_ch_40.docx": [1302]}

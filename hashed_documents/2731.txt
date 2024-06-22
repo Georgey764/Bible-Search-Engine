@@ -1,5 +1,2 @@
 
-havi	{"Genesis_ch_34.docx": [47, 801, 801, 801], "Leviticus_ch_20.docx": [2131, 2131, 2131], "1 Samuel_ch_15.docx": [999, 999, 999], "1 Chronicles_ch_1.docx": [523, 1877, 523, 1877, 523, 1877], "Esther_ch_9.docx": [3867, 3867, 3867], "Job_ch_28.docx": [2583, 2632, 2583, 2632, 2583, 2632]}
-havi	{"Genesis_ch_34.docx": [47, 801, 801], "Leviticus_ch_20.docx": [2131, 2131], "1 Samuel_ch_15.docx": [999, 999], "1 Chronicles_ch_1.docx": [523, 1877, 523, 1877], "Esther_ch_9.docx": [3867, 3867], "Job_ch_28.docx": [2583, 2632, 2583, 2632]}
-25whil	{"Job_ch_21.docx": [2178]}
 havi	{"Genesis_ch_34.docx": [47, 801], "Leviticus_ch_20.docx": [2131], "1 Samuel_ch_15.docx": [999], "1 Chronicles_ch_1.docx": [523, 1877], "Esther_ch_9.docx": [3867], "Job_ch_28.docx": [2583, 2632]}

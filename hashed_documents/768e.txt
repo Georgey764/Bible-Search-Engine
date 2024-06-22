@@ -1,7 +1,3 @@
 
-prio	{"Genesis_ch_41.docx": [6571], "1 Chronicles_ch_9.docx": [157, 157, 157], "Romans_ch_4.docx": [1607, 1607]}
-rouma	{"2 Kings_ch_23.docx": [7955]}
-prio	{"Genesis_ch_41.docx": [6571], "1 Chronicles_ch_9.docx": [157, 157], "Romans_ch_4.docx": [1607]}
-rouma	{"2 Kings_ch_23.docx": [7955]}
-prio	{"Genesis_ch_41.docx": [6571], "1 Chronicles_ch_9.docx": [157], "Romans_ch_4.docx": [1607]}
+prio	{"Genesis_ch_41.docx": [6571], "Numbers_ch_36.docx": [2532], "Joshua_ch_24.docx": [6147], "1 Chronicles_ch_9.docx": [157], "Isaiah_ch_66.docx": [5457], "Romans_ch_4.docx": [1607]}
 rouma	{"2 Kings_ch_23.docx": [7955]}

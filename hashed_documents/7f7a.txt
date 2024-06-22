@@ -1,3 +1,0 @@
-
-9‘but	{"Exodus_ch_15.docx": [1048], "Judges_ch_5.docx": [1222], "Judges_ch_9.docx": [2653], "1 Samuel_ch_12.docx": [1508], "Nehemiah_ch_1.docx": [1473], "Isaiah_ch_44.docx": [1211], "Isaiah_ch_47.docx": [1510], "Jeremiah_ch_2.docx": [1517], "Jeremiah_ch_23.docx": [1576], "Ezekiel_ch_33.docx": [1405], "Hosea_ch_10.docx": [2212], "Hosea_ch_11.docx": [1426], "Matthew_ch_25.docx": [742]}
-6is	{"Deuteronomy_ch_32.docx": [586]}

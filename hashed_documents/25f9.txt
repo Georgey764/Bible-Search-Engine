@@ -1,3 +1,2 @@
 
-46‘the	{"Genesis_ch_24.docx": [6953], "Leviticus_ch_13.docx": [6522], "Deuteronomy_ch_28.docx": [6310], "2 Samuel_ch_22.docx": [4323], "Ezekiel_ch_23.docx": [7649], "Matthew_ch_25.docx": [5486]}
-19‘on	{"Leviticus_ch_23.docx": [2678]}
+artema	{"Titus_ch_3.docx": [1620]}

@@ -1,4 +1,2 @@
 
-hand;	{"Job_ch_31.docx": [2521], "Psalms_ch_63.docx": [805, 805, 805], "Jeremiah_ch_22.docx": [4178, 4178, 4178], "2 Corinthians_ch_8.docx": [1624, 1624]}
-hand;	{"Job_ch_31.docx": [2521], "Psalms_ch_63.docx": [805, 805], "Jeremiah_ch_22.docx": [4178, 4178], "2 Corinthians_ch_8.docx": [1624]}
 hand;	{"Job_ch_31.docx": [2521], "Psalms_ch_63.docx": [805], "Jeremiah_ch_22.docx": [4178], "2 Corinthians_ch_8.docx": [1624]}

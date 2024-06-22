@@ -1,4 +1,2 @@
 
-riblah	{"Jeremiah_ch_39.docx": [893, 924, 924, 924]}
-riblah	{"Jeremiah_ch_39.docx": [893, 924, 924]}
-riblah	{"Jeremiah_ch_39.docx": [893, 924]}
+riblah	{"Jeremiah_ch_39.docx": [893, 924], "Jeremiah_ch_52.docx": [1363, 1408, 4161, 4172]}

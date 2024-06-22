@@ -1,5 +1,0 @@
-
-34so	{"Genesis_ch_24.docx": [5049], "Exodus_ch_12.docx": [5356], "Exodus_ch_16.docx": [5287], "Numbers_ch_4.docx": [4775], "Judges_ch_8.docx": [6772], "Judges_ch_20.docx": [5245], "2 Samuel_ch_15.docx": [5138], "1 Kings_ch_2.docx": [6097], "1 Chronicles_ch_6.docx": [2690], "1 Chronicles_ch_9.docx": [4978], "2 Chronicles_ch_18.docx": [5517], "Psalms_ch_69.docx": [3486], "Matthew_ch_8.docx": [4524], "Matthew_ch_15.docx": [4042]}
-40,5	{"Numbers_ch_1.docx": [2956], "Numbers_ch_2.docx": [1804]}
-9hel	{"Psalms_ch_79.docx": [923]}
-3tho	{"Proverbs_ch_12.docx": [230], "Proverbs_ch_13.docx": [223], "Isaiah_ch_26.docx": [243]}

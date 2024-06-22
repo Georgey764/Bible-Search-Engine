@@ -1,3 +1,0 @@
-
-32f	{"Genesis_ch_18.docx": [4362], "Genesis_ch_44.docx": [4110], "Exodus_ch_36.docx": [3592], "Numbers_ch_1.docx": [2965], "Deuteronomy_ch_32.docx": [4707], "2 Samuel_ch_3.docx": [4881], "1 Kings_ch_2.docx": [5460], "2 Kings_ch_23.docx": [7187], "2 Chronicles_ch_18.docx": [5029], "Psalms_ch_78.docx": [3201], "Psalms_ch_89.docx": [3086], "Proverbs_ch_10.docx": [2966], "Proverbs_ch_14.docx": [2873], "Isaiah_ch_30.docx": [5731], "Jeremiah_ch_32.docx": [5536]}
-46or	{"Psalms_ch_78.docx": [4478]}

@@ -1,3 +1,2 @@
 
 day,n	{"Revelation_ch_1.docx": [1532]}
-day,n	{"Revelation_ch_1.docx": [1532]}

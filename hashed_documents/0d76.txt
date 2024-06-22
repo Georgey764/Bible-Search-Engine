@@ -1,4 +1,2 @@
 
-genuin	{"Proverbs_ch_20.docx": [59], "Mark_ch_14.docx": [314, 314], "John_ch_12.docx": [385, 385], "2 Corinthians_ch_8.docx": [1206, 1206], "Philippians_ch_2.docx": [2448, 2448], "1 Timothy_ch_1.docx": [29, 29]}
-genuin	{"Proverbs_ch_20.docx": [59], "Mark_ch_14.docx": [314], "John_ch_12.docx": [385], "2 Corinthians_ch_8.docx": [1206], "Philippians_ch_2.docx": [2448], "1 Timothy_ch_1.docx": [29]}
 genuin	{"Proverbs_ch_20.docx": [59], "Mark_ch_14.docx": [314], "John_ch_12.docx": [385], "2 Corinthians_ch_8.docx": [1206], "Philippians_ch_2.docx": [2448], "1 Timothy_ch_1.docx": [29]}

@@ -1,5 +1,2 @@
 
 sochor	{"2 Chronicles_ch_28.docx": [3256]}
-sochor	{"2 Chronicles_ch_28.docx": [3256]}
-62he	{"Psalms_ch_78.docx": [6006]}
-sochor	{"2 Chronicles_ch_28.docx": [3256]}

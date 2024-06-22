@@ -1,4 +1,2 @@
 
-reaped	{"Job_ch_5.docx": [2398], "Job_ch_18.docx": [1416, 1416, 1416]}
-reaped	{"Job_ch_5.docx": [2398], "Job_ch_18.docx": [1416, 1416]}
 reaped	{"Job_ch_5.docx": [2398], "Job_ch_18.docx": [1416]}

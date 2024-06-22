@@ -1,4 +1,2 @@
 
-africa	{"Genesis_ch_10.docx": [870, 945, 945, 945]}
-africa	{"Genesis_ch_10.docx": [870, 945, 945]}
 africa	{"Genesis_ch_10.docx": [870, 945]}

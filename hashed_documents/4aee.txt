@@ -1,4 +1,2 @@
 
-hide;	{"Numbers_ch_24.docx": [2920], "Job_ch_34.docx": [2078, 2078, 2078]}
-hide;	{"Numbers_ch_24.docx": [2920], "Job_ch_34.docx": [2078, 2078]}
 hide;	{"Numbers_ch_24.docx": [2920], "Job_ch_34.docx": [2078]}

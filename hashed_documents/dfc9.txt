@@ -1,2 +1,0 @@
-
-15‘i	{"Genesis_ch_3.docx": [2209], "Numbers_ch_14.docx": [2219], "Deuteronomy_ch_10.docx": [2228], "Deuteronomy_ch_19.docx": [2288], "Ezra_ch_4.docx": [2457], "Job_ch_8.docx": [1280], "Job_ch_12.docx": [1321], "Job_ch_39.docx": [1321], "Psalms_ch_132.docx": [1344], "Ecclesiastes_ch_4.docx": [1838], "Ecclesiastes_ch_7.docx": [1642], "Isaiah_ch_48.docx": [2565], "Ezekiel_ch_21.docx": [2347], "Ezekiel_ch_30.docx": [2103], "Amos_ch_3.docx": [3186], "Zephaniah_ch_1.docx": [2652], "Zechariah_ch_8.docx": [2533]}

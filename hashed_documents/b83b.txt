@@ -1,4 +1,2 @@
 
-wish!	{"Esther_ch_3.docx": [1821], "Revelation_ch_11.docx": [924, 924]}
-wish!	{"Esther_ch_3.docx": [1821], "Revelation_ch_11.docx": [924]}
 wish!	{"Esther_ch_3.docx": [1821], "Revelation_ch_11.docx": [924]}

@@ -1,5 +1,2 @@
 
-adma	{"Esther_ch_1.docx": [2502], "Hosea_ch_11.docx": [1210, 1210, 1210]}
-15zab	{"1 Chronicles_ch_8.docx": [1109]}
-adma	{"Esther_ch_1.docx": [2502], "Hosea_ch_11.docx": [1210, 1210]}
 adma	{"Esther_ch_1.docx": [2502], "Hosea_ch_11.docx": [1210]}

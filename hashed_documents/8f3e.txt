@@ -1,4 +1,2 @@
 
-alone!	{"Deuteronomy_ch_13.docx": [461], "Hosea_ch_3.docx": [416, 416, 416], "Matthew_ch_27.docx": [5730, 5730], "Acts_ch_5.docx": [5406, 5406]}
-alone!	{"Deuteronomy_ch_13.docx": [461], "Hosea_ch_3.docx": [416, 416], "Matthew_ch_27.docx": [5730], "Acts_ch_5.docx": [5406]}
 alone!	{"Deuteronomy_ch_13.docx": [461], "Hosea_ch_3.docx": [416], "Matthew_ch_27.docx": [5730], "Acts_ch_5.docx": [5406]}

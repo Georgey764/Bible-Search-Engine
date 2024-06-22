@@ -1,4 +1,2 @@
 
-remor	{"Psalms_ch_35.docx": [285], "Psalms_ch_69.docx": [2129, 2129, 2129], "Psalms_ch_70.docx": [185, 185, 185], "Psalms_ch_71.docx": [1294, 2521, 1294, 2521, 1294, 2521], "Isaiah_ch_44.docx": [1831, 1831, 1831], "Isaiah_ch_45.docx": [2932, 2932, 2932], "Ezekiel_ch_36.docx": [5842, 5842, 5842]}
-remor	{"Psalms_ch_35.docx": [285], "Psalms_ch_69.docx": [2129, 2129], "Psalms_ch_70.docx": [185, 185], "Psalms_ch_71.docx": [1294, 2521, 1294, 2521], "Isaiah_ch_44.docx": [1831, 1831], "Isaiah_ch_45.docx": [2932, 2932], "Ezekiel_ch_36.docx": [5842, 5842]}
 remor	{"Psalms_ch_35.docx": [285], "Psalms_ch_69.docx": [2129], "Psalms_ch_70.docx": [185], "Psalms_ch_71.docx": [1294, 2521], "Isaiah_ch_44.docx": [1831], "Isaiah_ch_45.docx": [2932], "Ezekiel_ch_36.docx": [5842]}

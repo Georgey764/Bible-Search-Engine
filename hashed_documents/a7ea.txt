@@ -1,4 +1,2 @@
 
-hard-h	{"Exodus_ch_4.docx": [3278], "Deuteronomy_ch_15.docx": [874, 874, 874], "Ezekiel_ch_2.docx": [431, 431, 431], "Ezekiel_ch_3.docx": [1037, 1037, 1037]}
-hard-h	{"Exodus_ch_4.docx": [3278], "Deuteronomy_ch_15.docx": [874, 874], "Ezekiel_ch_2.docx": [431, 431], "Ezekiel_ch_3.docx": [1037, 1037]}
 hard-h	{"Exodus_ch_4.docx": [3278], "Deuteronomy_ch_15.docx": [874], "Ezekiel_ch_2.docx": [431], "Ezekiel_ch_3.docx": [1037]}

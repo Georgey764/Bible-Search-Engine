@@ -1,5 +1,2 @@
 
-esau!	{"Genesis_ch_27.docx": [2522, 4217, 4217, 4217]}
-esau!	{"Genesis_ch_27.docx": [2522, 4217, 4217]}
-48‘b	{"Leviticus_ch_14.docx": [7095]}
-esau!	{"Genesis_ch_27.docx": [2522, 4217]}
+esau!	{"Genesis_ch_27.docx": [2522, 4217], "Obadiah_ch_1.docx": [3301]}

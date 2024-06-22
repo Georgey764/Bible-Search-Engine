@@ -1,5 +1,2 @@
 
-totale	{"Genesis_ch_46.docx": [3114, 3129, 3318, 3129, 3318, 3129, 3318]}
-totale	{"Genesis_ch_46.docx": [3114, 3129, 3318, 3129, 3318]}
-13in	{"Psalms_ch_59.docx": [1484], "Proverbs_ch_29.docx": [1164], "Lamentations_ch_3.docx": [1006], "Matthew_ch_6.docx": [1681], "Matthew_ch_11.docx": [1472]}
 totale	{"Genesis_ch_46.docx": [3114, 3129, 3318]}

@@ -1,5 +1,2 @@
 
  79	{"1 Chronicles_ch_6.docx": [6901]}
-10co	{"Genesis_ch_34.docx": [1052]}
- 79	{"1 Chronicles_ch_6.docx": [6901]}
- 79	{"1 Chronicles_ch_6.docx": [6901]}

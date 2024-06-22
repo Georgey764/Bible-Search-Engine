@@ -1,3 +1,0 @@
-
-9it’	{"Joshua_ch_19.docx": [472], "Psalms_ch_118.docx": [658], "Proverbs_ch_12.docx": [790], "Proverbs_ch_21.docx": [822]}
-8yes	{"1 Kings_ch_14.docx": [1195], "Psalms_ch_27.docx": [1116], "Psalms_ch_44.docx": [888], "Psalms_ch_99.docx": [758], "Isaiah_ch_3.docx": [1176], "Zechariah_ch_8.docx": [1083], "Matthew_ch_11.docx": [878]}

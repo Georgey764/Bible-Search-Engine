@@ -1,3 +1,2 @@
 
 misdir	{"2 Timothy_ch_2.docx": [2226]}
-misdir	{"2 Timothy_ch_2.docx": [2226]}

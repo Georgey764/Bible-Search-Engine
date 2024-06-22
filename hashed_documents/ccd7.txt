@@ -1,6 +1,3 @@
 
-else’	{"Exodus_ch_22.docx": [658], "2 Corinthians_ch_5.docx": [2285, 2285], "2 Corinthians_ch_10.docx": [2358, 2358]}
-sirin	{"Luke_ch_20.docx": [3827]}
-else’	{"Exodus_ch_22.docx": [658], "2 Corinthians_ch_5.docx": [2285], "2 Corinthians_ch_10.docx": [2358]}
 else’	{"Exodus_ch_22.docx": [658], "2 Corinthians_ch_5.docx": [2285], "2 Corinthians_ch_10.docx": [2358]}
 sirin	{"Luke_ch_20.docx": [3827]}

@@ -1,4 +1,2 @@
 
-arousi	{"1 Kings_ch_16.docx": [323], "Isaiah_ch_13.docx": [2463, 2463, 2463], "Amos_ch_6.docx": [2905, 2905, 2905]}
-arousi	{"1 Kings_ch_16.docx": [323], "Isaiah_ch_13.docx": [2463, 2463], "Amos_ch_6.docx": [2905, 2905]}
 arousi	{"1 Kings_ch_16.docx": [323], "Isaiah_ch_13.docx": [2463], "Amos_ch_6.docx": [2905]}

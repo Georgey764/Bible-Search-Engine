@@ -1,7 +1,3 @@
 
 few;	{"Job_ch_8.docx": [538]}
 epile	{"Matthew_ch_4.docx": [2997]}
-few;	{"Job_ch_8.docx": [538]}
-epile	{"Matthew_ch_4.docx": [2997]}
-few;	{"Job_ch_8.docx": [538]}
-epile	{"Matthew_ch_4.docx": [2997]}

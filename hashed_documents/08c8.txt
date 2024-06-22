@@ -1,4 +1,2 @@
 
-leaped	{"Jeremiah_ch_50.docx": [2140], "Hosea_ch_7.docx": [2482, 2482, 2482]}
-leaped	{"Jeremiah_ch_50.docx": [2140], "Hosea_ch_7.docx": [2482, 2482]}
 leaped	{"Jeremiah_ch_50.docx": [2140], "Hosea_ch_7.docx": [2482]}

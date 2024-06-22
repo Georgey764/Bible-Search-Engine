@@ -1,2 +1,0 @@
-
-5‘i’	{"Psalms_ch_120.docx": [440], "Ecclesiastes_ch_10.docx": [469], "Isaiah_ch_56.docx": [779], "Jeremiah_ch_20.docx": [830], "Jeremiah_ch_27.docx": [728], "Ezekiel_ch_25.docx": [774], "Ezekiel_ch_32.docx": [833]}

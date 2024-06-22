@@ -1,4 +1,2 @@
 
-witt	{"Proverbs_ch_22.docx": [2930]}
-witt	{"Proverbs_ch_22.docx": [2930]}
-witt	{"Proverbs_ch_22.docx": [2930]}
+witt	{"Ezra_ch_10.docx": [6147], "Proverbs_ch_22.docx": [2930]}

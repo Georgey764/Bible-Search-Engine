@@ -1,5 +1,2 @@
 
 mosso	{"1 Chronicles_ch_9.docx": [1389]}
-mosso	{"1 Chronicles_ch_9.docx": [1389]}
-7,70	{"2 Chronicles_ch_17.docx": [1544, 1548]}
-mosso	{"1 Chronicles_ch_9.docx": [1389]}

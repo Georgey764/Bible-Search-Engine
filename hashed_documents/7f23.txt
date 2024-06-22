@@ -1,2 +1,0 @@
-
-40then	{"Genesis_ch_30.docx": [5027], "Leviticus_ch_14.docx": [5986], "Numbers_ch_3.docx": [4825], "Numbers_ch_14.docx": [5657], "Joshua_ch_10.docx": [13269], "1 Samuel_ch_14.docx": [6475], "1 Samuel_ch_20.docx": [6224], "Psalms_ch_78.docx": [3960]}

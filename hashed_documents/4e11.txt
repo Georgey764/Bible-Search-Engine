@@ -1,2 +1,0 @@
-
-50the	{"Exodus_ch_12.docx": [7580], "Numbers_ch_3.docx": [5999], "Deuteronomy_ch_28.docx": [6779], "1 Chronicles_ch_2.docx": [4406], "1 Chronicles_ch_6.docx": [4070], "Psalms_ch_119.docx": [3938]}

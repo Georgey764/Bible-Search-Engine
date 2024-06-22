@@ -1,4 +1,2 @@
 
-merem	{"Nehemiah_ch_10.docx": [254], "Nehemiah_ch_12.docx": [218, 218]}
-merem	{"Nehemiah_ch_12.docx": [218, 218]}
-merem	{"Nehemiah_ch_10.docx": [254], "Nehemiah_ch_12.docx": [218]}
+merem	{"Ezra_ch_10.docx": [5456], "Nehemiah_ch_10.docx": [254], "Nehemiah_ch_12.docx": [218]}

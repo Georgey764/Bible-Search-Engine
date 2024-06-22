@@ -1,5 +1,3 @@
 
 heat;	{"Proverbs_ch_10.docx": [453]}
-8da	{"1 Samuel_ch_24.docx": [1136]}
-heat;	{"Proverbs_ch_10.docx": [453]}
-heat;	{"Proverbs_ch_10.docx": [453]}
+nik	{"Titus_ch_3.docx": [1632]}

@@ -1,2 +1,0 @@
-
-12n	{"1 Samuel_ch_17.docx": [1776], "2 Samuel_ch_5.docx": [1750], "2 Samuel_ch_9.docx": [1867], "2 Chronicles_ch_34.docx": [2140], "Nehemiah_ch_12.docx": [855], "Job_ch_17.docx": [975]}

@@ -1,6 +1,3 @@
 
-jokt	{"2 Kings_ch_14.docx": [984], "1 Chronicles_ch_1.docx": [1607, 1715, 1906, 1607, 1906, 1607, 1715, 1906]}
-athlet	{"2 Timothy_ch_2.docx": [373]}
-jokt	{"2 Kings_ch_14.docx": [984], "1 Chronicles_ch_1.docx": [1607, 1906, 1607, 1715, 1906]}
 jokt	{"2 Kings_ch_14.docx": [984], "1 Chronicles_ch_1.docx": [1607, 1715, 1906]}
 athlet	{"2 Timothy_ch_2.docx": [373]}

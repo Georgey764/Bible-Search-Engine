@@ -1,4 +1,2 @@
 
-you?	{"Exodus_ch_32.docx": [3179], "2 Kings_ch_2.docx": [269, 744, 269, 744, 269, 744]}
-you?	{"Exodus_ch_32.docx": [3179], "2 Kings_ch_2.docx": [269, 744, 269, 744]}
 you?	{"Exodus_ch_32.docx": [3179], "2 Kings_ch_2.docx": [269, 744]}

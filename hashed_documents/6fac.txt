@@ -1,4 +1,2 @@
 
-remad	{"Isaiah_ch_54.docx": [796], "Colossians_ch_3.docx": [926, 926]}
-remad	{"Isaiah_ch_54.docx": [796], "Colossians_ch_3.docx": [926]}
 remad	{"Isaiah_ch_54.docx": [796], "Colossians_ch_3.docx": [926]}

@@ -1,6 +1,3 @@
 
 mansl	{"Deuteronomy_ch_19.docx": [484]}
 i've	{"Song of Solomon_ch_5.docx": [751]}
-mansl	{"Deuteronomy_ch_19.docx": [484]}
-mansl	{"Deuteronomy_ch_19.docx": [484]}
-i've	{"Song of Solomon_ch_5.docx": [751]}

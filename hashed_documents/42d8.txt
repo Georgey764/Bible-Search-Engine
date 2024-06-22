@@ -1,4 +1,2 @@
 
-sadl	{"Jeremiah_ch_19.docx": [1610], "Jeremiah_ch_50.docx": [2561, 2561, 2561]}
-sadl	{"Jeremiah_ch_19.docx": [1610], "Jeremiah_ch_50.docx": [2561, 2561]}
 sadl	{"Jeremiah_ch_19.docx": [1610], "Jeremiah_ch_50.docx": [2561]}

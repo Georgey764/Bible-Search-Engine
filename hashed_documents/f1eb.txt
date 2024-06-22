@@ -1,3 +1,2 @@
 
-dinn	{"Luke_ch_11.docx": [5149], "Luke_ch_14.docx": [1363, 1363]}
-dinn	{"Luke_ch_11.docx": [5149], "Luke_ch_14.docx": [1363]}
+dinn	{"2 Samuel_ch_24.docx": [2590], "Luke_ch_11.docx": [5149], "Luke_ch_14.docx": [1363]}

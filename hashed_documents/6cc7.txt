@@ -1,4 +1,2 @@
 
-ulai	{"Daniel_ch_8.docx": [50, 2310, 2310, 2310]}
-ulai	{"Daniel_ch_8.docx": [50, 2310, 2310]}
 ulai	{"Daniel_ch_8.docx": [50, 2310]}

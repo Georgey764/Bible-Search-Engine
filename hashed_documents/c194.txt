@@ -1,7 +1,4 @@
 
-paint	{"Jeremiah_ch_22.docx": [2471], "Ezekiel_ch_8.docx": [1681, 1681, 1681], "Ezekiel_ch_23.docx": [2118, 6703, 2118, 6703, 2118, 6703]}
-beelze	{"Matthew_ch_10.docx": [3148], "Matthew_ch_12.docx": [3027, 3027, 3027], "Mark_ch_3.docx": [2587, 2587], "Luke_ch_11.docx": [2096, 2505, 2513, 2096, 2505, 2513]}
-paint	{"Jeremiah_ch_22.docx": [2471], "Ezekiel_ch_8.docx": [1681, 1681], "Ezekiel_ch_23.docx": [2118, 6703, 2118, 6703]}
-beelze	{"Matthew_ch_10.docx": [3148], "Matthew_ch_12.docx": [3027, 3027], "Mark_ch_3.docx": [2587], "Luke_ch_11.docx": [2096, 2505, 2513]}
+sarac	{"Joshua_ch_24.docx": [4675]}
 paint	{"Jeremiah_ch_22.docx": [2471], "Ezekiel_ch_8.docx": [1681], "Ezekiel_ch_23.docx": [2118, 6703]}
 beelze	{"Matthew_ch_10.docx": [3148], "Matthew_ch_12.docx": [3027], "Mark_ch_3.docx": [2587], "Luke_ch_11.docx": [2096, 2505, 2513]}

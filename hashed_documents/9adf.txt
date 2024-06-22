@@ -1,2 +1,0 @@
-
-20‘y	{"Numbers_ch_31.docx": [2461], "Deuteronomy_ch_5.docx": [2258], "Deuteronomy_ch_10.docx": [2827], "Deuteronomy_ch_14.docx": [1661], "Deuteronomy_ch_15.docx": [3005], "Deuteronomy_ch_16.docx": [3306], "Deuteronomy_ch_23.docx": [2453], "Jeremiah_ch_9.docx": [3525], "Jeremiah_ch_29.docx": [3059], "Jeremiah_ch_31.docx": [3597], "Jeremiah_ch_32.docx": [3299], "Ezekiel_ch_16.docx": [3254], "Ezekiel_ch_29.docx": [3520], "Daniel_ch_11.docx": [3809]}

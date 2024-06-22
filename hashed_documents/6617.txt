@@ -1,7 +1,3 @@
 
-fruit-	{"Leviticus_ch_26.docx": [515, 519, 519, 519], "Psalms_ch_148.docx": [846, 846, 846], "Ezekiel_ch_47.docx": [2006, 2006, 2006]}
-orpah	{"Ruth_ch_1.docx": [371, 2026, 2026, 2026]}
-fruit-	{"Leviticus_ch_26.docx": [515, 519, 519], "Psalms_ch_148.docx": [846, 846], "Ezekiel_ch_47.docx": [2006, 2006]}
-orpah	{"Ruth_ch_1.docx": [371, 2026, 2026]}
 fruit-	{"Leviticus_ch_26.docx": [515, 519], "Psalms_ch_148.docx": [846], "Ezekiel_ch_47.docx": [2006]}
 orpah	{"Ruth_ch_1.docx": [371, 2026]}

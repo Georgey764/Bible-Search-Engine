@@ -1,8 +1,3 @@
 
-narrow	{"Numbers_ch_22.docx": [3645], "1 Samuel_ch_23.docx": [2084, 2898, 4368, 2084, 2898, 4368, 2084, 2898, 4368], "1 Samuel_ch_24.docx": [3312, 3312, 3312], "Proverbs_ch_23.docx": [2327, 2327, 2327], "Zechariah_ch_10.docx": [1972, 1972, 1972], "Matthew_ch_7.docx": [1552, 1706, 1552, 1706, 1552, 1706], "Luke_ch_13.docx": [3096, 3096]}
-nache	{"1 Chronicles_ch_1.docx": [3015]}
-narrow	{"Numbers_ch_22.docx": [3645], "1 Samuel_ch_23.docx": [2084, 2898, 4368, 2084, 2898, 4368], "1 Samuel_ch_24.docx": [3312, 3312], "Proverbs_ch_23.docx": [2327, 2327], "Zechariah_ch_10.docx": [1972, 1972], "Matthew_ch_7.docx": [1552, 1706, 1552, 1706], "Luke_ch_13.docx": [3096]}
-nache	{"1 Chronicles_ch_1.docx": [3015]}
-52b	{"Ezra_ch_2.docx": [2073], "Psalms_ch_78.docx": [5030]}
 narrow	{"Numbers_ch_22.docx": [3645], "1 Samuel_ch_23.docx": [2084, 2898, 4368], "1 Samuel_ch_24.docx": [3312], "Proverbs_ch_23.docx": [2327], "Zechariah_ch_10.docx": [1972], "Matthew_ch_7.docx": [1552, 1706], "Luke_ch_13.docx": [3096]}
 nache	{"1 Chronicles_ch_1.docx": [3015]}

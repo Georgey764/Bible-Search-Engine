@@ -1,4 +1,2 @@
 
-nile	{"Genesis_ch_15.docx": [2407], "Exodus_ch_17.docx": [773, 773, 773], "Numbers_ch_34.docx": [600, 600, 600], "1 Kings_ch_8.docx": [10772, 10772, 10772], "2 Kings_ch_24.docx": [977, 977, 977], "Isaiah_ch_7.docx": [2574, 2574, 2574], "Ezekiel_ch_32.docx": [2207, 2207, 2207]}
-nile	{"Genesis_ch_15.docx": [2407], "Exodus_ch_17.docx": [773, 773], "Numbers_ch_34.docx": [600, 600], "1 Kings_ch_8.docx": [10772, 10772], "2 Kings_ch_24.docx": [977, 977], "Isaiah_ch_7.docx": [2574, 2574], "Ezekiel_ch_32.docx": [2207, 2207]}
-nile	{"Genesis_ch_15.docx": [2407], "Exodus_ch_17.docx": [773], "Numbers_ch_34.docx": [600], "1 Kings_ch_8.docx": [10772], "2 Kings_ch_24.docx": [977], "Isaiah_ch_7.docx": [2574], "Ezekiel_ch_32.docx": [2207]}
+nile	{"Genesis_ch_15.docx": [2407], "Exodus_ch_17.docx": [773], "Numbers_ch_34.docx": [600], "1 Kings_ch_8.docx": [10772], "2 Kings_ch_24.docx": [977], "Isaiah_ch_7.docx": [2574], "Ezekiel_ch_32.docx": [2207], "Amos_ch_9.docx": [1134]}

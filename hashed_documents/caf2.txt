@@ -1,7 +1,3 @@
 
 vowing	{"1 Kings_ch_8.docx": [4706]}
-baal!	{"1 Kings_ch_18.docx": [4194], "2 Kings_ch_10.docx": [4584, 4584, 4584], "Hosea_ch_2.docx": [2871, 2871, 2871]}
-vowing	{"1 Kings_ch_8.docx": [4706]}
-baal!	{"1 Kings_ch_18.docx": [4194], "2 Kings_ch_10.docx": [4584, 4584], "Hosea_ch_2.docx": [2871, 2871]}
-vowing	{"1 Kings_ch_8.docx": [4706]}
 baal!	{"1 Kings_ch_18.docx": [4194], "2 Kings_ch_10.docx": [4584], "Hosea_ch_2.docx": [2871]}

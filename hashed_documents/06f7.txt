@@ -1,4 +1,2 @@
 
-weighs	{"Job_ch_7.docx": [675], "Job_ch_28.docx": [2266, 2266, 2266], "Psalms_ch_73.docx": [1415, 1415, 1415], "Proverbs_ch_21.docx": [221, 221, 221], "Isaiah_ch_40.docx": [1949, 1949, 1949], "Hebrews_ch_12.docx": [19, 19]}
-weighs	{"Job_ch_7.docx": [675], "Job_ch_28.docx": [2266, 2266], "Psalms_ch_73.docx": [1415, 1415], "Proverbs_ch_21.docx": [221, 221], "Isaiah_ch_40.docx": [1949, 1949], "Hebrews_ch_12.docx": [19]}
 weighs	{"Job_ch_7.docx": [675], "Job_ch_28.docx": [2266], "Psalms_ch_73.docx": [1415], "Proverbs_ch_21.docx": [221], "Isaiah_ch_40.docx": [1949], "Hebrews_ch_12.docx": [19]}

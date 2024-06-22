@@ -1,4 +1,2 @@
 
-galaal	{"1 Chronicles_ch_9.docx": [2144, 2315, 2315, 2315]}
-galaal	{"1 Chronicles_ch_9.docx": [2144, 2315, 2315]}
 galaal	{"1 Chronicles_ch_9.docx": [2144, 2315]}

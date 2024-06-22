@@ -1,4 +1,2 @@
 
-consen	{"Exodus_ch_22.docx": [2531], "2 Chronicles_ch_18.docx": [329, 329, 329]}
-consen	{"Exodus_ch_22.docx": [2531], "2 Chronicles_ch_18.docx": [329, 329]}
-consen	{"Exodus_ch_22.docx": [2531], "2 Chronicles_ch_18.docx": [329]}
+consen	{"Exodus_ch_22.docx": [2531], "2 Samuel_ch_24.docx": [6134], "1 Kings_ch_22.docx": [9932], "2 Chronicles_ch_18.docx": [329], "Acts_ch_28.docx": [7245], "Philemon_ch_1.docx": [1568]}

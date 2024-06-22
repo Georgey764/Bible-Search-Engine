@@ -1,5 +1,2 @@
 
-herman	{"Numbers_ch_14.docx": [6458], "Deuteronomy_ch_1.docx": [6297, 6297, 6297], "Psalms_ch_42.docx": [836, 836, 836], "Psalms_ch_89.docx": [1255, 1255, 1255]}
-herman	{"Numbers_ch_14.docx": [6458], "Deuteronomy_ch_1.docx": [6297, 6297], "Psalms_ch_42.docx": [836, 836], "Psalms_ch_89.docx": [1255, 1255]}
-6743	{"Ezra_ch_2.docx": [3331]}
-herman	{"Numbers_ch_14.docx": [6458], "Deuteronomy_ch_1.docx": [6297], "Psalms_ch_42.docx": [836], "Psalms_ch_89.docx": [1255]}
+herman	{"Numbers_ch_14.docx": [6458], "Deuteronomy_ch_1.docx": [6297], "Psalms_ch_42.docx": [836], "Psalms_ch_89.docx": [1255], "Romans_ch_16.docx": [1854]}

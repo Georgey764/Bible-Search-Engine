@@ -1,4 +1,2 @@
 
-sailin	{"Isaiah_ch_23.docx": [120, 1114, 1114, 1114], "Jonah_ch_1.docx": [244, 244, 244], "Luke_ch_8.docx": [3202, 3202], "Acts_ch_27.docx": [303, 643, 829, 3424, 303, 643, 829, 3424]}
-sailin	{"Isaiah_ch_23.docx": [120, 1114, 1114], "Jonah_ch_1.docx": [244, 244], "Luke_ch_8.docx": [3202], "Acts_ch_27.docx": [303, 643, 829, 3424]}
 sailin	{"Isaiah_ch_23.docx": [120, 1114], "Jonah_ch_1.docx": [244], "Luke_ch_8.docx": [3202], "Acts_ch_27.docx": [303, 643, 829, 3424]}

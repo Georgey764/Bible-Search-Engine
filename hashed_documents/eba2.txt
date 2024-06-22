@@ -1,4 +1,2 @@
 
-dead;	{"Joshua_ch_1.docx": [116], "Ecclesiastes_ch_4.docx": [289, 289, 289]}
-dead;	{"Joshua_ch_1.docx": [116], "Ecclesiastes_ch_4.docx": [289, 289]}
-dead;	{"Joshua_ch_1.docx": [116], "Ecclesiastes_ch_4.docx": [289]}
+dead;	{"Joshua_ch_1.docx": [116], "Ecclesiastes_ch_4.docx": [289], "Amos_ch_9.docx": [336]}

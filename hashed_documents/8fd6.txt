@@ -1,8 +1,3 @@
 
 swarme	{"1 Samuel_ch_7.docx": [2156]}
-teams	{"1 Kings_ch_19.docx": [3445, 3838, 3838, 3838], "Job_ch_1.docx": [277, 2254, 277, 2254, 277, 2254], "Job_ch_42.docx": [2747], "Isaiah_ch_5.docx": [1638, 1638, 1638], "Isaiah_ch_60.docx": [790, 790, 790]}
-2‘bu	{"Deuteronomy_ch_20.docx": [247], "Isaiah_ch_58.docx": [190], "Zechariah_ch_10.docx": [220]}
-swarme	{"1 Samuel_ch_7.docx": [2156]}
-teams	{"1 Kings_ch_19.docx": [3445, 3838, 3838], "Job_ch_1.docx": [277, 2254, 277, 2254], "Isaiah_ch_5.docx": [1638, 1638], "Isaiah_ch_60.docx": [790, 790]}
-swarme	{"1 Samuel_ch_7.docx": [2156]}
-teams	{"1 Kings_ch_19.docx": [3445, 3838], "Job_ch_1.docx": [277, 2254], "Isaiah_ch_5.docx": [1638], "Isaiah_ch_60.docx": [790]}
+teams	{"1 Kings_ch_19.docx": [3445, 3838], "Job_ch_1.docx": [277, 2254], "Job_ch_42.docx": [2747], "Isaiah_ch_5.docx": [1638], "Isaiah_ch_60.docx": [790]}

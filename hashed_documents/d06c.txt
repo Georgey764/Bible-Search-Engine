@@ -1,4 +1,2 @@
 
-end!	{"Job_ch_6.docx": [967], "Ezekiel_ch_13.docx": [2569, 2569, 2569], "Daniel_ch_8.docx": [2713, 2713, 2713], "Hebrews_ch_7.docx": [2274, 2274]}
-end!	{"Job_ch_6.docx": [967], "Ezekiel_ch_13.docx": [2569, 2569], "Daniel_ch_8.docx": [2713, 2713], "Hebrews_ch_7.docx": [2274]}
 end!	{"Job_ch_6.docx": [967], "Ezekiel_ch_13.docx": [2569], "Daniel_ch_8.docx": [2713], "Hebrews_ch_7.docx": [2274]}

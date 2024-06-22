@@ -1,4 +1,2 @@
 
-needl	{"Job_ch_41.docx": [2638], "Isaiah_ch_1.docx": [4640, 4640, 4640], "Matthew_ch_19.docx": [2946, 2946, 2946], "Mark_ch_10.docx": [2779, 2779], "Luke_ch_18.docx": [3141, 3141], "Acts_ch_12.docx": [3278, 3278]}
-needl	{"Job_ch_41.docx": [2638], "Isaiah_ch_1.docx": [4640, 4640], "Matthew_ch_19.docx": [2946, 2946], "Mark_ch_10.docx": [2779], "Luke_ch_18.docx": [3141], "Acts_ch_12.docx": [3278]}
 needl	{"Job_ch_41.docx": [2638], "Isaiah_ch_1.docx": [4640], "Matthew_ch_19.docx": [2946], "Mark_ch_10.docx": [2779], "Luke_ch_18.docx": [3141], "Acts_ch_12.docx": [3278]}

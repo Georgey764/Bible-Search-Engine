@@ -1,4 +1,2 @@
 
-edible	{"Leviticus_ch_11.docx": [3840], "Leviticus_ch_17.docx": [2105, 2105, 2105], "Romans_ch_14.docx": [2088, 2088]}
-edible	{"Leviticus_ch_11.docx": [3840], "Leviticus_ch_17.docx": [2105, 2105], "Romans_ch_14.docx": [2088]}
 edible	{"Leviticus_ch_11.docx": [3840], "Leviticus_ch_17.docx": [2105], "Romans_ch_14.docx": [2088]}

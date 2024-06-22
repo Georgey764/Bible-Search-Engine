@@ -1,2 +1,0 @@
-
-6yo	{"Exodus_ch_19.docx": [740], "Deuteronomy_ch_28.docx": [592], "Psalms_ch_31.docx": [642], "Psalms_ch_36.docx": [589], "Psalms_ch_45.docx": [1190], "Psalms_ch_65.docx": [577], "Psalms_ch_80.docx": [593], "Psalms_ch_105.docx": [419], "Psalms_ch_114.docx": [510], "Proverbs_ch_1.docx": [525], "Isaiah_ch_46.docx": [751], "Micah_ch_2.docx": [1035]}

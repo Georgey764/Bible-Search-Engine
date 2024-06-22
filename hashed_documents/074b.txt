@@ -1,4 +1,3 @@
 
 madon	{"2 Samuel_ch_21.docx": [4004]}
-madon	{"2 Samuel_ch_21.docx": [4004]}
-madon	{"2 Samuel_ch_21.docx": [4004]}
+gad;	{"1 Chronicles_ch_29.docx": [5214]}

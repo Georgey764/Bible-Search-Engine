@@ -1,4 +1,2 @@
 
-shy	{"Nehemiah_ch_8.docx": [2758], "Psalms_ch_27.docx": [185, 185, 185]}
-shy	{"Nehemiah_ch_8.docx": [2758], "Psalms_ch_27.docx": [185, 185]}
 shy	{"Nehemiah_ch_8.docx": [2758], "Psalms_ch_27.docx": [185]}

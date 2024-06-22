@@ -1,7 +1,3 @@
 
-tanach	{"Numbers_ch_26.docx": [4075, 4080, 4080, 4080], "Joshua_ch_21.docx": [3058, 3058, 3058]}
-wanti	{"1 Kings_ch_16.docx": [3230], "Luke_ch_23.docx": [861, 861], "John_ch_8.docx": [5447, 5447], "Romans_ch_15.docx": [3274, 3274]}
-tanach	{"Numbers_ch_26.docx": [4075, 4080, 4080], "Joshua_ch_21.docx": [3058, 3058]}
-wanti	{"1 Kings_ch_16.docx": [3230], "Luke_ch_23.docx": [861], "John_ch_8.docx": [5447], "Romans_ch_15.docx": [3274]}
 tanach	{"Numbers_ch_26.docx": [4075, 4080], "Joshua_ch_21.docx": [3058]}
 wanti	{"1 Kings_ch_16.docx": [3230], "Luke_ch_23.docx": [861], "John_ch_8.docx": [5447], "Romans_ch_15.docx": [3274]}

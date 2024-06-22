@@ -1,4 +1,2 @@
 
-append	{"Joshua_ch_21.docx": [2690], "Ezekiel_ch_41.docx": [650, 650, 650]}
-append	{"Joshua_ch_21.docx": [2690], "Ezekiel_ch_41.docx": [650, 650]}
 append	{"Joshua_ch_21.docx": [2690], "Ezekiel_ch_41.docx": [650]}

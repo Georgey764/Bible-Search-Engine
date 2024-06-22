@@ -1,4 +1,2 @@
 
-risen!	{"Isaiah_ch_60.docx": [142]}
-risen!	{"Isaiah_ch_60.docx": [142]}
-risen!	{"Isaiah_ch_60.docx": [142]}
+risen!	{"Isaiah_ch_60.docx": [142], "Mark_ch_16.docx": [662], "Luke_ch_24.docx": [585]}

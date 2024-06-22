@@ -1,4 +1,2 @@
 
-fairl	{"Jeremiah_ch_11.docx": [3871], "Hosea_ch_2.docx": [3368, 3368, 3368], "Acts_ch_9.docx": [6460, 6466, 6473, 6460, 6466, 6473]}
-fairl	{"Jeremiah_ch_11.docx": [3871], "Hosea_ch_2.docx": [3368, 3368], "Acts_ch_9.docx": [6460, 6466, 6473]}
-fairl	{"Jeremiah_ch_11.docx": [3871], "Hosea_ch_2.docx": [3368], "Acts_ch_9.docx": [6460, 6466, 6473]}
+fairl	{"Jeremiah_ch_11.docx": [3871], "Hosea_ch_2.docx": [3368], "Acts_ch_9.docx": [6460, 6466, 6473], "Colossians_ch_4.docx": [34]}

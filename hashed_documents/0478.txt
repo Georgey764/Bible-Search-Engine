@@ -1,4 +1,2 @@
 
-kede	{"Jeremiah_ch_49.docx": [5057], "Ezekiel_ch_25.docx": [538, 1611, 538, 1611, 538, 1611]}
-kede	{"Jeremiah_ch_49.docx": [5057], "Ezekiel_ch_25.docx": [538, 1611, 538, 1611]}
 kede	{"Jeremiah_ch_49.docx": [5057], "Ezekiel_ch_25.docx": [538, 1611]}

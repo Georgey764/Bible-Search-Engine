@@ -1,4 +1,2 @@
 
-asked!	{"1 Samuel_ch_15.docx": [3871], "1 Kings_ch_3.docx": [1850, 1850, 1850], "2 Kings_ch_6.docx": [2697, 2697, 2697], "Esther_ch_5.docx": [837, 837, 837]}
-asked!	{"1 Samuel_ch_15.docx": [3871], "1 Kings_ch_3.docx": [1850, 1850], "2 Kings_ch_6.docx": [2697, 2697], "Esther_ch_5.docx": [837, 837]}
 asked!	{"1 Samuel_ch_15.docx": [3871], "1 Kings_ch_3.docx": [1850], "2 Kings_ch_6.docx": [2697], "Esther_ch_5.docx": [837]}

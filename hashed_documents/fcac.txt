@@ -1,4 +1,2 @@
 
-hagab	{"Ezra_ch_2.docx": [1760, 1762, 1762], "Nehemiah_ch_7.docx": [2845, 2845, 2845]}
-hagab	{"Ezra_ch_2.docx": [1760, 1762], "Nehemiah_ch_7.docx": [2845, 2845]}
 hagab	{"Ezra_ch_2.docx": [1760, 1762], "Nehemiah_ch_7.docx": [2845]}

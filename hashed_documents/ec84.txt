@@ -1,5 +1,2 @@
 
-talmo	{"Nehemiah_ch_7.docx": [2738], "Nehemiah_ch_11.docx": [2953, 2953, 2953], "Nehemiah_ch_12.docx": [2721, 2721, 2721]}
-talmo	{"Nehemiah_ch_7.docx": [2738], "Nehemiah_ch_11.docx": [2953, 2953], "Nehemiah_ch_12.docx": [2721, 2721]}
-13‘amo	{"Jeremiah_ch_23.docx": [2283]}
 talmo	{"Nehemiah_ch_7.docx": [2738], "Nehemiah_ch_11.docx": [2953], "Nehemiah_ch_12.docx": [2721]}

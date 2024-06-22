@@ -1,4 +1,2 @@
 
-twig	{"Psalms_ch_102.docx": [360], "Isaiah_ch_40.docx": [3476, 3476, 3476], "Isaiah_ch_41.docx": [450, 450, 450], "Jeremiah_ch_13.docx": [4087, 4087, 4087]}
-twig	{"Psalms_ch_102.docx": [360], "Isaiah_ch_40.docx": [3476, 3476], "Isaiah_ch_41.docx": [450, 450], "Jeremiah_ch_13.docx": [4087, 4087]}
 twig	{"Psalms_ch_102.docx": [360], "Isaiah_ch_40.docx": [3476], "Isaiah_ch_41.docx": [450], "Jeremiah_ch_13.docx": [4087]}

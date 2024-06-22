@@ -1,4 +1,2 @@
 
-peor	{"Psalms_ch_106.docx": [2632], "Hosea_ch_9.docx": [2197, 2197, 2197]}
-peor	{"Psalms_ch_106.docx": [2632], "Hosea_ch_9.docx": [2197, 2197]}
 peor	{"Psalms_ch_106.docx": [2632], "Hosea_ch_9.docx": [2197]}

@@ -1,5 +1,2 @@
 
-guida	{"2 Chronicles_ch_20.docx": [341], "Psalms_ch_18.docx": [3470, 3470, 3470], "Psalms_ch_90.docx": [1739, 1739, 1739], "Proverbs_ch_1.docx": [493, 493, 493], "Proverbs_ch_11.docx": [1455, 1455, 1455], "Proverbs_ch_20.docx": [2471, 2471, 2471], "Proverbs_ch_24.docx": [421, 421, 421]}
-30from	{"Exodus_ch_38.docx": [3674], "Proverbs_ch_11.docx": [3092]}
-guida	{"2 Chronicles_ch_20.docx": [341], "Psalms_ch_18.docx": [3470, 3470], "Psalms_ch_90.docx": [1739, 1739], "Proverbs_ch_1.docx": [493, 493], "Proverbs_ch_11.docx": [1455, 1455], "Proverbs_ch_20.docx": [2471, 2471], "Proverbs_ch_24.docx": [421, 421]}
 guida	{"2 Chronicles_ch_20.docx": [341], "Psalms_ch_18.docx": [3470], "Psalms_ch_90.docx": [1739], "Proverbs_ch_1.docx": [493], "Proverbs_ch_11.docx": [1455], "Proverbs_ch_20.docx": [2471], "Proverbs_ch_24.docx": [421]}

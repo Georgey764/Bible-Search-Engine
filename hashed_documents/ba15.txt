@@ -1,4 +1,2 @@
 
-cheers	{"Psalms_ch_5.docx": [1212], "Psalms_ch_126.docx": [213, 213, 213], "Jeremiah_ch_49.docx": [790, 790, 790]}
-cheers	{"Psalms_ch_5.docx": [1212], "Psalms_ch_126.docx": [213, 213], "Jeremiah_ch_49.docx": [790, 790]}
 cheers	{"Psalms_ch_5.docx": [1212], "Psalms_ch_126.docx": [213], "Jeremiah_ch_49.docx": [790]}

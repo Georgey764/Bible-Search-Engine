@@ -1,5 +1,2 @@
 
-mois	{"Jeremiah_ch_17.docx": [1272], "Luke_ch_23.docx": [3743, 3743]}
-50an	{"Genesis_ch_24.docx": [7683], "Leviticus_ch_14.docx": [7311], "Numbers_ch_16.docx": [7037], "Joshua_ch_15.docx": [5587], "Judges_ch_9.docx": [9164], "2 Samuel_ch_22.docx": [4716], "1 Kings_ch_1.docx": [6957], "1 Chronicles_ch_1.docx": [4210], "Matthew_ch_13.docx": [6635]}
-mois	{"Jeremiah_ch_17.docx": [1272], "Luke_ch_23.docx": [3743]}
 mois	{"Jeremiah_ch_17.docx": [1272], "Luke_ch_23.docx": [3743]}

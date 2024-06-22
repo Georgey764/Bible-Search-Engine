@@ -1,6 +1,3 @@
 
-loadi	{"2 Chronicles_ch_2.docx": [3306]}
-newnes	{"Romans_ch_7.docx": [1019]}
-loadi	{"2 Chronicles_ch_2.docx": [3306]}
-loadi	{"2 Chronicles_ch_2.docx": [3306]}
+loadi	{"2 Chronicles_ch_2.docx": [3306], "Nehemiah_ch_13.docx": [2521]}
 newnes	{"Romans_ch_7.docx": [1019]}

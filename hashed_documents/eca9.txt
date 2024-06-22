@@ -1,4 +1,2 @@
 
-nahash	{"1 Samuel_ch_11.docx": [8, 178, 464, 1560, 178, 464, 1560, 178, 464, 1560], "1 Samuel_ch_12.docx": [2168, 2168, 2168], "2 Samuel_ch_10.docx": [120, 120, 120], "1 Chronicles_ch_4.docx": [1305, 1305, 1305], "1 Chronicles_ch_19.docx": [8, 147, 8, 147, 8, 147]}
-nahash	{"1 Samuel_ch_11.docx": [8, 178, 464, 1560, 178, 464, 1560], "1 Samuel_ch_12.docx": [2168, 2168], "2 Samuel_ch_10.docx": [120, 120], "1 Chronicles_ch_4.docx": [1305, 1305], "1 Chronicles_ch_19.docx": [8, 147, 8, 147]}
 nahash	{"1 Samuel_ch_11.docx": [8, 178, 464, 1560], "1 Samuel_ch_12.docx": [2168], "2 Samuel_ch_10.docx": [120], "1 Chronicles_ch_4.docx": [1305], "1 Chronicles_ch_19.docx": [8, 147]}

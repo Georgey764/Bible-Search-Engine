@@ -1,4 +1,2 @@
 
-gono	{"Leviticus_ch_15.docx": [133, 229, 4543, 229, 4543, 229, 4543], "Numbers_ch_5.docx": [136, 136, 136], "2 Samuel_ch_3.docx": [4366, 4366, 4366]}
-gono	{"Leviticus_ch_15.docx": [133, 229, 4543, 229, 4543], "Numbers_ch_5.docx": [136, 136], "2 Samuel_ch_3.docx": [4366, 4366]}
 gono	{"Leviticus_ch_15.docx": [133, 229, 4543], "Numbers_ch_5.docx": [136], "2 Samuel_ch_3.docx": [4366]}

@@ -1,4 +1,2 @@
 
-yearne	{"Judges_ch_5.docx": [1227], "Song of Solomon_ch_5.docx": [1235, 1235, 1235]}
-yearne	{"Judges_ch_5.docx": [1227], "Song of Solomon_ch_5.docx": [1235, 1235]}
 yearne	{"Judges_ch_5.docx": [1227], "Song of Solomon_ch_5.docx": [1235]}

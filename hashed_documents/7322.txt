@@ -1,3 +1,0 @@
-
-10say	{"Psalms_ch_96.docx": [819]}
-5whol	{"Proverbs_ch_3.docx": [451]}

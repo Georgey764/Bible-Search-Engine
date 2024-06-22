@@ -1,2 +1,0 @@
-
-18as	{"1 Kings_ch_9.docx": [2850], "2 Kings_ch_17.docx": [3204], "Psalms_ch_106.docx": [1621], "Proverbs_ch_26.docx": [1545], "Ezekiel_ch_7.docx": [2789]}

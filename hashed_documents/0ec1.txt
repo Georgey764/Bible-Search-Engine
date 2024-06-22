@@ -1,5 +1,2 @@
 
-reade	{"Ezekiel_ch_41.docx": [1323], "Matthew_ch_24.docx": [1630, 1630, 1630], "Mark_ch_13.docx": [1832, 1832]}
-9:22	{"Leviticus_ch_1.docx": [21]}
-reade	{"Ezekiel_ch_41.docx": [1323], "Matthew_ch_24.docx": [1630, 1630], "Mark_ch_13.docx": [1832]}
-reade	{"Ezekiel_ch_41.docx": [1323], "Matthew_ch_24.docx": [1630], "Mark_ch_13.docx": [1832]}
+reade	{"Nehemiah_ch_13.docx": [6207], "Ecclesiastes_ch_12.docx": [2522], "Ezekiel_ch_41.docx": [1323], "Ezekiel_ch_48.docx": [7196], "Daniel_ch_12.docx": [3555], "Malachi_ch_4.docx": [2819, 3076], "Matthew_ch_24.docx": [1630], "Matthew_ch_28.docx": [3752, 4009], "Mark_ch_13.docx": [1832], "Mark_ch_16.docx": [3099, 3356]}

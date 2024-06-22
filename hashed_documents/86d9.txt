@@ -1,6 +1,3 @@
 
 eneija	{"1 Chronicles_ch_25.docx": [1575]}
-sheep-	{"John_ch_5.docx": [338, 345, 345]}
-eneija	{"1 Chronicles_ch_25.docx": [1575]}
-eneija	{"1 Chronicles_ch_25.docx": [1575]}
 sheep-	{"John_ch_5.docx": [338, 345]}

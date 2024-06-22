@@ -1,4 +1,2 @@
 
-anger;	{"Psalms_ch_27.docx": [1320], "Ezekiel_ch_13.docx": [2434, 2434, 2434]}
-anger;	{"Psalms_ch_27.docx": [1320], "Ezekiel_ch_13.docx": [2434, 2434]}
-anger;	{"Psalms_ch_27.docx": [1320], "Ezekiel_ch_13.docx": [2434]}
+anger;	{"Psalms_ch_27.docx": [1320], "Proverbs_ch_31.docx": [503], "Ezekiel_ch_13.docx": [2434]}

@@ -1,4 +1,2 @@
 
-theko	{"2 Samuel_ch_23.docx": [4312], "2 Kings_ch_22.docx": [2372, 2372, 2372], "1 Chronicles_ch_2.docx": [2172, 2172, 2172], "1 Chronicles_ch_4.docx": [458, 458, 458], "1 Chronicles_ch_11.docx": [5279, 5279, 5279], "1 Chronicles_ch_27.docx": [1156, 1156, 1156], "2 Chronicles_ch_11.docx": [797, 797, 797], "2 Chronicles_ch_34.docx": [3879, 3879, 3879]}
-theko	{"2 Samuel_ch_23.docx": [4312], "2 Kings_ch_22.docx": [2372, 2372], "1 Chronicles_ch_2.docx": [2172, 2172], "1 Chronicles_ch_4.docx": [458, 458], "1 Chronicles_ch_11.docx": [5279, 5279], "1 Chronicles_ch_27.docx": [1156, 1156], "2 Chronicles_ch_11.docx": [797, 797], "2 Chronicles_ch_34.docx": [3879, 3879]}
 theko	{"2 Samuel_ch_23.docx": [4312], "2 Kings_ch_22.docx": [2372], "1 Chronicles_ch_2.docx": [2172], "1 Chronicles_ch_4.docx": [458], "1 Chronicles_ch_11.docx": [5279], "1 Chronicles_ch_27.docx": [1156], "2 Chronicles_ch_11.docx": [797], "2 Chronicles_ch_34.docx": [3879]}

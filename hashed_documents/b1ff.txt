@@ -1,4 +1,2 @@
 
-elale	{"Numbers_ch_32.docx": [384, 5114, 5114, 5114]}
-elale	{"Numbers_ch_32.docx": [384, 5114, 5114]}
 elale	{"Numbers_ch_32.docx": [384, 5114]}

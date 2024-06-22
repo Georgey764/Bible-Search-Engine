@@ -1,4 +1,2 @@
 
 gulp	{"Matthew_ch_23.docx": [2978]}
-gulp	{"Matthew_ch_23.docx": [2978]}
-gulp	{"Matthew_ch_23.docx": [2978]}

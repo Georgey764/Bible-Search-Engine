@@ -1,4 +1,2 @@
 
-luxu	{"Proverbs_ch_4.docx": [859], "Proverbs_ch_19.docx": [819, 819], "Song of Solomon_ch_4.docx": [181, 181, 181], "Song of Solomon_ch_7.docx": [845, 845, 845], "Ezekiel_ch_36.docx": [6308, 6308, 6308], "2 Peter_ch_2.docx": [2090, 2090], "Revelation_ch_18.docx": [398, 1145, 1572, 398, 1145, 1572]}
-luxu	{"Proverbs_ch_4.docx": [859], "Song of Solomon_ch_4.docx": [181, 181], "Song of Solomon_ch_7.docx": [845, 845], "Ezekiel_ch_36.docx": [6308, 6308], "Proverbs_ch_19.docx": [819], "2 Peter_ch_2.docx": [2090], "Revelation_ch_18.docx": [398, 1145, 1572]}
 luxu	{"Proverbs_ch_4.docx": [859], "Proverbs_ch_19.docx": [819], "Song of Solomon_ch_4.docx": [181], "Song of Solomon_ch_7.docx": [845], "Ezekiel_ch_36.docx": [6308], "2 Peter_ch_2.docx": [2090], "Revelation_ch_18.docx": [398, 1145, 1572]}

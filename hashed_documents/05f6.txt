@@ -1,7 +1,3 @@
 
-impote	{"Exodus_ch_23.docx": [3622], "Deuteronomy_ch_7.docx": [2277, 2277, 2277]}
-them]!	{"Ezekiel_ch_21.docx": [1857], "Ezekiel_ch_33.docx": [6119, 6119, 6119]}
-impote	{"Exodus_ch_23.docx": [3622], "Deuteronomy_ch_7.docx": [2277, 2277]}
-them]!	{"Ezekiel_ch_21.docx": [1857], "Ezekiel_ch_33.docx": [6119, 6119]}
 impote	{"Exodus_ch_23.docx": [3622], "Deuteronomy_ch_7.docx": [2277]}
 them]!	{"Ezekiel_ch_21.docx": [1857], "Ezekiel_ch_33.docx": [6119]}

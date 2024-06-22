@@ -1,4 +1,2 @@
 
-earned	{"Matthew_ch_10.docx": [1062], "Luke_ch_19.docx": [1929, 2207, 1929, 2207], "Acts_ch_16.docx": [5432, 5432]}
-earned	{"Matthew_ch_10.docx": [1062], "Luke_ch_19.docx": [1929, 2207], "Acts_ch_16.docx": [5432]}
 earned	{"Matthew_ch_10.docx": [1062], "Luke_ch_19.docx": [1929, 2207], "Acts_ch_16.docx": [5432]}

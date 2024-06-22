@@ -1,4 +1,2 @@
 
-unro	{"2 Kings_ch_19.docx": [2255], "Isaiah_ch_37.docx": [2173, 2173, 2173], "Ezekiel_ch_2.docx": [1414, 1414, 1414]}
-unro	{"2 Kings_ch_19.docx": [2255], "Isaiah_ch_37.docx": [2173, 2173], "Ezekiel_ch_2.docx": [1414, 1414]}
 unro	{"2 Kings_ch_19.docx": [2255], "Isaiah_ch_37.docx": [2173], "Ezekiel_ch_2.docx": [1414]}

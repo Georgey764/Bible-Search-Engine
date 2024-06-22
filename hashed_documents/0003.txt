@@ -1,4 +1,2 @@
 
-assoc	{"Leviticus_ch_19.docx": [4107], "Joshua_ch_23.docx": [1030, 1562, 1030, 1562, 1030, 1562], "Acts_ch_10.docx": [3722, 3722], "Acts_ch_17.docx": [817, 817], "1 Corinthians_ch_5.docx": [1188, 1556, 1188, 1556], "Galatians_ch_2.docx": [1717, 1717]}
-assoc	{"Leviticus_ch_19.docx": [4107], "Joshua_ch_23.docx": [1030, 1562, 1030, 1562], "Acts_ch_10.docx": [3722], "Acts_ch_17.docx": [817], "1 Corinthians_ch_5.docx": [1188, 1556], "Galatians_ch_2.docx": [1717]}
-assoc	{"Leviticus_ch_19.docx": [4107], "Joshua_ch_23.docx": [1030, 1562], "Acts_ch_10.docx": [3722], "Acts_ch_17.docx": [817], "1 Corinthians_ch_5.docx": [1188, 1556], "Galatians_ch_2.docx": [1717]}
+assoc	{"Leviticus_ch_19.docx": [4107], "Joshua_ch_23.docx": [1030, 1562], "Acts_ch_10.docx": [3722], "Acts_ch_17.docx": [817], "1 Corinthians_ch_5.docx": [1188, 1556], "Galatians_ch_2.docx": [1717], "Philemon_ch_1.docx": [2079], "Hebrews_ch_13.docx": [2102, 2112]}

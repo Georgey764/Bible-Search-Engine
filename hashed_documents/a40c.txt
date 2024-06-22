@@ -1,3 +1,2 @@
 
-lord.	{"Colossians_ch_3.docx": [2428, 2440, 2440]}
 lord.	{"Colossians_ch_3.docx": [2428, 2440]}

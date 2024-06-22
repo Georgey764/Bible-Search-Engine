@@ -1,4 +1,2 @@
 
-close!	{"Deuteronomy_ch_15.docx": [1165], "Revelation_ch_3.docx": [1400, 1400]}
-close!	{"Deuteronomy_ch_15.docx": [1165], "Revelation_ch_3.docx": [1400]}
 close!	{"Deuteronomy_ch_15.docx": [1165], "Revelation_ch_3.docx": [1400]}

@@ -1,4 +1,2 @@
 
-powd	{"Exodus_ch_30.docx": [4484], "2 Chronicles_ch_34.docx": [730, 730, 730], "Job_ch_38.docx": [3540, 3540, 3540], "Psalms_ch_18.docx": [4008, 4008, 4008], "Song of Solomon_ch_3.docx": [1022, 1022, 1022], "Isaiah_ch_27.docx": [1339, 1339, 1339], "Isaiah_ch_30.docx": [3971, 3971, 3971]}
-powd	{"Exodus_ch_30.docx": [4484], "2 Chronicles_ch_34.docx": [730, 730], "Job_ch_38.docx": [3540, 3540], "Psalms_ch_18.docx": [4008, 4008], "Song of Solomon_ch_3.docx": [1022, 1022], "Isaiah_ch_27.docx": [1339, 1339], "Isaiah_ch_30.docx": [3971, 3971]}
 powd	{"Exodus_ch_30.docx": [4484], "2 Chronicles_ch_34.docx": [730], "Job_ch_38.docx": [3540], "Psalms_ch_18.docx": [4008], "Song of Solomon_ch_3.docx": [1022], "Isaiah_ch_27.docx": [1339], "Isaiah_ch_30.docx": [3971]}

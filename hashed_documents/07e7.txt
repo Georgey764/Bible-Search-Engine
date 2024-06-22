@@ -1,5 +1,2 @@
 
-imma	{"Isaiah_ch_7.docx": [1970], "Isaiah_ch_8.docx": [1251, 1251, 1251], "Matthew_ch_1.docx": [2451, 2451, 2451]}
-64how	{"Numbers_ch_26.docx": [6743]}
-imma	{"Isaiah_ch_7.docx": [1970], "Isaiah_ch_8.docx": [1251, 1251], "Matthew_ch_1.docx": [2451, 2451]}
 imma	{"Isaiah_ch_7.docx": [1970], "Isaiah_ch_8.docx": [1251], "Matthew_ch_1.docx": [2451]}

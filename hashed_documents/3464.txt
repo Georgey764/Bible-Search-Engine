@@ -1,5 +1,2 @@
 
-mystic	{"1 Kings_ch_15.docx": [1402], "Amos_ch_7.docx": [1505, 1505, 1505]}
-17‘don	{"Deuteronomy_ch_13.docx": [2528], "Deuteronomy_ch_25.docx": [2250], "Jeremiah_ch_7.docx": [2522], "Matthew_ch_5.docx": [1644]}
-mystic	{"1 Kings_ch_15.docx": [1402], "Amos_ch_7.docx": [1505, 1505]}
 mystic	{"1 Kings_ch_15.docx": [1402], "Amos_ch_7.docx": [1505]}

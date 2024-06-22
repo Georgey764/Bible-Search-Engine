@@ -1,5 +1,2 @@
 
-welfa	{"1 Chronicles_ch_18.docx": [1150], "Philippians_ch_2.docx": [2122, 3701, 2122, 3701]}
-6‘this	{"Leviticus_ch_11.docx": [671], "Numbers_ch_29.docx": [591], "Isaiah_ch_24.docx": [920], "Isaiah_ch_44.docx": [689]}
-welfa	{"1 Chronicles_ch_18.docx": [1150], "Philippians_ch_2.docx": [2122, 3701]}
-welfa	{"1 Chronicles_ch_18.docx": [1150], "Philippians_ch_2.docx": [2122, 3701]}
+welfa	{"1 Chronicles_ch_18.docx": [1150], "Esther_ch_10.docx": [326], "Philippians_ch_2.docx": [2122, 3701]}

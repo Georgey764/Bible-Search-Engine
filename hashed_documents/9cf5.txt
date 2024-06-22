@@ -1,4 +1,2 @@
 
-suit	{"Genesis_ch_2.docx": [2719], "Genesis_ch_45.docx": [3167, 3175, 3167, 3175, 3167, 3175], "2 Kings_ch_5.docx": [852, 4217, 4447, 852, 4217, 4447, 852, 4217, 4447], "Luke_ch_3.docx": [4456, 4456], "Luke_ch_9.docx": [8465, 8465]}
-suit	{"Genesis_ch_2.docx": [2719], "Genesis_ch_45.docx": [3167, 3175, 3167, 3175], "2 Kings_ch_5.docx": [852, 4217, 4447, 852, 4217, 4447], "Luke_ch_3.docx": [4456], "Luke_ch_9.docx": [8465]}
-suit	{"Genesis_ch_2.docx": [2719], "Genesis_ch_45.docx": [3167, 3175], "2 Kings_ch_5.docx": [852, 4217, 4447], "Luke_ch_3.docx": [4456], "Luke_ch_9.docx": [8465]}
+suit	{"Genesis_ch_2.docx": [2719], "Genesis_ch_45.docx": [3167, 3175], "2 Kings_ch_5.docx": [852, 4217, 4447], "2 Kings_ch_25.docx": [5312], "Luke_ch_3.docx": [4456], "Luke_ch_9.docx": [8465], "Ephesians_ch_6.docx": [1056, 1400]}

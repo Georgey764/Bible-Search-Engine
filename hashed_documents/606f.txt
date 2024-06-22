@@ -1,7 +1,2 @@
 
-unim	{"Numbers_ch_16.docx": [1141], "1 Chronicles_ch_17.docx": [2458, 2458, 2458], "Isaiah_ch_7.docx": [1758, 1758, 1758], "Acts_ch_19.docx": [8190, 8190], "Ephesians_ch_3.docx": [949, 949]}
-unim	{"Numbers_ch_16.docx": [1141], "1 Chronicles_ch_17.docx": [2458, 2458], "Isaiah_ch_7.docx": [1758, 1758], "Acts_ch_19.docx": [8190], "Ephesians_ch_3.docx": [949]}
-13[a	{"1 Chronicles_ch_9.docx": [1766], "Hosea_ch_8.docx": [1701]}
-5prais	{"Psalms_ch_148.docx": [385]}
-27don	{"Proverbs_ch_4.docx": [2474]}
 unim	{"Numbers_ch_16.docx": [1141], "1 Chronicles_ch_17.docx": [2458], "Isaiah_ch_7.docx": [1758], "Acts_ch_19.docx": [8190], "Ephesians_ch_3.docx": [949]}

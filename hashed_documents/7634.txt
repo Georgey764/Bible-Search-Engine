@@ -1,5 +1,2 @@
 
 thaest	{"2 Kings_ch_19.docx": [2090]}
-914	{"Numbers_ch_35.docx": [379, 509, 550, 592, 637], "Joshua_ch_3.docx": [424]}
-thaest	{"2 Kings_ch_19.docx": [2090]}
-thaest	{"2 Kings_ch_19.docx": [2090]}

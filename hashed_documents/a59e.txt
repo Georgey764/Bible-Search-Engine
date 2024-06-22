@@ -1,4 +1,2 @@
 
-rock!	{"1 Samuel_ch_25.docx": [5992], "Isaiah_ch_48.docx": [3739, 3739, 3739]}
-rock!	{"1 Samuel_ch_25.docx": [5992], "Isaiah_ch_48.docx": [3739, 3739]}
 rock!	{"1 Samuel_ch_25.docx": [5992], "Isaiah_ch_48.docx": [3739]}

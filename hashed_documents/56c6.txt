@@ -1,0 +1,2 @@
+
+theodo	{"Esther_ch_10.docx": [1842, 3893], "Ezekiel_ch_48.docx": [6129, 7425], "Daniel_ch_12.docx": [2560, 3784]}

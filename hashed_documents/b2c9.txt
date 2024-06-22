@@ -1,5 +1,2 @@
 
 filter	{"Amos_ch_6.docx": [1579]}
-32[	{"Numbers_ch_7.docx": [3891], "1 Kings_ch_4.docx": [3823]}
-filter	{"Amos_ch_6.docx": [1579]}
-filter	{"Amos_ch_6.docx": [1579]}

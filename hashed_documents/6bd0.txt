@@ -1,5 +1,2 @@
 
-faint-	{"Proverbs_ch_14.docx": [2593], "Isaiah_ch_35.docx": [404, 404, 404], "Habakkuk_ch_2.docx": [2231, 2231, 2231]}
-9ashe	{"Psalms_ch_102.docx": [810]}
-faint-	{"Proverbs_ch_14.docx": [2593], "Isaiah_ch_35.docx": [404, 404], "Habakkuk_ch_2.docx": [2231, 2231]}
 faint-	{"Proverbs_ch_14.docx": [2593], "Isaiah_ch_35.docx": [404], "Habakkuk_ch_2.docx": [2231]}

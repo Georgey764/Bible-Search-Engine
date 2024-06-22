@@ -1,3 +1,2 @@
 
-psalmi	{"Hebrews_ch_1.docx": [1179], "Hebrews_ch_2.docx": [1983, 1983]}
 psalmi	{"Hebrews_ch_1.docx": [1179], "Hebrews_ch_2.docx": [1983]}

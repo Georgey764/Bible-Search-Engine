@@ -1,8 +1,3 @@
 
 soubab	{"1 Chronicles_ch_2.docx": [1605]}
  gare	{"1 Chronicles_ch_11.docx": [6076]}
-32,5	{"Numbers_ch_26.docx": [4184]}
-soubab	{"1 Chronicles_ch_2.docx": [1605]}
- gare	{"1 Chronicles_ch_11.docx": [6076]}
-soubab	{"1 Chronicles_ch_2.docx": [1605]}
- gare	{"1 Chronicles_ch_11.docx": [6076]}

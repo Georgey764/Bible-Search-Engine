@@ -1,4 +1,2 @@
 
-taller	{"1 Samuel_ch_9.docx": [55], "Ezekiel_ch_31.docx": [730, 730, 730], "Daniel_ch_8.docx": [274, 274, 274]}
-taller	{"1 Samuel_ch_9.docx": [55], "Ezekiel_ch_31.docx": [730, 730], "Daniel_ch_8.docx": [274, 274]}
 taller	{"1 Samuel_ch_9.docx": [55], "Ezekiel_ch_31.docx": [730], "Daniel_ch_8.docx": [274]}

@@ -1,5 +1,2 @@
 
 chilm	{"Ezekiel_ch_27.docx": [3401]}
-130,0	{"1 Kings_ch_5.docx": [1616]}
-chilm	{"Ezekiel_ch_27.docx": [3401]}
-chilm	{"Ezekiel_ch_27.docx": [3401]}

@@ -1,9 +1,4 @@
 
-aia	{"2 Samuel_ch_21.docx": [1553, 1980, 2324, 1980, 2324, 1980, 2324], "2 Kings_ch_17.docx": [4293, 4293, 4293], "1 Chronicles_ch_1.docx": [3344, 3344, 3344]}
-jachi	{"1 Chronicles_ch_9.docx": [1318]}
-day-	{"2 Corinthians_ch_4.docx": [2621]}
-aia	{"2 Samuel_ch_21.docx": [1553, 1980, 2324, 1980, 2324], "2 Kings_ch_17.docx": [4293, 4293], "1 Chronicles_ch_1.docx": [3344, 3344]}
-jachi	{"1 Chronicles_ch_9.docx": [1318]}
 aia	{"2 Samuel_ch_21.docx": [1553, 1980, 2324], "2 Kings_ch_17.docx": [4293], "1 Chronicles_ch_1.docx": [3344]}
- jachi	{"1 Chronicles_ch_9.docx": [1318]}
-day-	{"2 Corinthians_ch_4.docx": [2621]}
+jachi	{"1 Chronicles_ch_9.docx": [1318]}
+day-	{"2 Corinthians_ch_4.docx": [2621], "Jude_ch_1.docx": [1560]}

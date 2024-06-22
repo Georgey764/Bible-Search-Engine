@@ -1,2 +1,0 @@
-
-3don	{"Exodus_ch_34.docx": [240], "Psalms_ch_25.docx": [199], "Psalms_ch_28.docx": [252], "Psalms_ch_146.docx": [190], "Proverbs_ch_23.docx": [221], "Ecclesiastes_ch_8.docx": [167]}

@@ -1,3 +1,0 @@
-
-34‘y	{"Leviticus_ch_19.docx": [4520], "Numbers_ch_35.docx": [4585], "Jeremiah_ch_23.docx": [6146], "Ezekiel_ch_16.docx": [5258], "Ezekiel_ch_23.docx": [5560], "Ezekiel_ch_36.docx": [6101]}
-1prais	{"Psalms_ch_105.docx": [4], "Psalms_ch_106.docx": [32], "Psalms_ch_107.docx": [32], "Psalms_ch_117.docx": [32], "Psalms_ch_118.docx": [32], "Psalms_ch_134.docx": [89], "Psalms_ch_135.docx": [32], "Psalms_ch_144.docx": [49], "Psalms_ch_146.docx": [65], "Psalms_ch_147.docx": [65]}

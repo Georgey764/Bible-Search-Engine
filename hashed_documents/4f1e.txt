@@ -1,2 +1,0 @@
-
-23m	{"Genesis_ch_22.docx": [3409], "Exodus_ch_28.docx": [2736], "Numbers_ch_31.docx": [2743], "1 Kings_ch_11.docx": [3293], "2 Kings_ch_14.docx": [3646], "Psalms_ch_69.docx": [2467]}

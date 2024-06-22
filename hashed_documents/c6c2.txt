@@ -1,5 +1,2 @@
 
-feels	{"2 Chronicles_ch_30.docx": [1579], "Psalms_ch_52.docx": [828, 828, 828], "Psalms_ch_103.docx": [645, 1123, 645, 1123, 645, 1123]}
-15‘[wa	{"Deuteronomy_ch_33.docx": [2027]}
-feels	{"2 Chronicles_ch_30.docx": [1579], "Psalms_ch_52.docx": [828, 828], "Psalms_ch_103.docx": [645, 1123, 645, 1123]}
 feels	{"2 Chronicles_ch_30.docx": [1579], "Psalms_ch_52.docx": [828], "Psalms_ch_103.docx": [645, 1123]}

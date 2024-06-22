@@ -1,4 +1,2 @@
 
-handli	{"Exodus_ch_18.docx": [2347], "1 Kings_ch_18.docx": [4485, 4485, 4485]}
-handli	{"Exodus_ch_18.docx": [2347], "1 Kings_ch_18.docx": [4485, 4485]}
 handli	{"Exodus_ch_18.docx": [2347], "1 Kings_ch_18.docx": [4485]}

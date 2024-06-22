@@ -1,4 +1,2 @@
 
-foolin	{"2 Kings_ch_18.docx": [5678], "James_ch_1.docx": [2414, 2414]}
-foolin	{"2 Kings_ch_18.docx": [5678], "James_ch_1.docx": [2414]}
-foolin	{"2 Kings_ch_18.docx": [5678], "James_ch_1.docx": [2414]}
+foolin	{"2 Kings_ch_18.docx": [5678], "Galatians_ch_6.docx": [332], "James_ch_1.docx": [2414]}

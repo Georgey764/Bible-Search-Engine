@@ -1,4 +1,2 @@
 
-manusc	{"1 Samuel_ch_17.docx": [1531, 8682, 8682, 8682], "1 Samuel_ch_18.docx": [20, 20, 20], "1 Kings_ch_12.docx": [2723, 2723, 2723], "Psalms_ch_2.docx": [50, 50, 50], "Proverbs_ch_20.docx": [11, 70, 1992, 2703, 11, 70, 1992, 2703, 11, 70, 1992, 2703], "Ezekiel_ch_41.docx": [82, 82, 82]}
-manusc	{"1 Samuel_ch_17.docx": [1531, 8682, 8682], "1 Samuel_ch_18.docx": [20, 20], "1 Kings_ch_12.docx": [2723, 2723], "Psalms_ch_2.docx": [50, 50], "Proverbs_ch_20.docx": [11, 70, 1992, 2703, 11, 70, 1992, 2703], "Ezekiel_ch_41.docx": [82, 82]}
-manusc	{"1 Samuel_ch_17.docx": [1531, 8682], "1 Samuel_ch_18.docx": [20], "1 Kings_ch_12.docx": [2723], "Psalms_ch_2.docx": [50], "Proverbs_ch_20.docx": [11, 70, 1992, 2703], "Ezekiel_ch_41.docx": [82]}
+manusc	{"Ruth_ch_4.docx": [4481, 4510], "1 Samuel_ch_17.docx": [1531, 8682], "1 Samuel_ch_18.docx": [20], "1 Kings_ch_12.docx": [2723], "Ezra_ch_10.docx": [6304], "Nehemiah_ch_13.docx": [6642], "Esther_ch_10.docx": [2577, 4935], "Psalms_ch_2.docx": [50], "Proverbs_ch_20.docx": [11, 70, 1992, 2703], "Ezekiel_ch_41.docx": [82], "Jude_ch_1.docx": [5742]}

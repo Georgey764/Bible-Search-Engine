@@ -1,4 +1,2 @@
 
-pred	{"Leviticus_ch_20.docx": [815], "2 Samuel_ch_11.docx": [3327, 3327, 3327], "Acts_ch_16.docx": [5430, 5430], "Ephesians_ch_1.docx": [1527, 1527]}
-pred	{"Leviticus_ch_20.docx": [815], "2 Samuel_ch_11.docx": [3327, 3327], "Acts_ch_16.docx": [5430], "Ephesians_ch_1.docx": [1527]}
-pred	{"Leviticus_ch_20.docx": [815], "2 Samuel_ch_11.docx": [3327], "Acts_ch_16.docx": [5430], "Ephesians_ch_1.docx": [1527]}
+pred	{"Leviticus_ch_20.docx": [815], "2 Samuel_ch_11.docx": [3327], "Esther_ch_10.docx": [3946], "Acts_ch_16.docx": [5430], "Ephesians_ch_1.docx": [1527]}

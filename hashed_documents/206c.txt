@@ -1,8 +1,3 @@
 
-jasp	{"Exodus_ch_28.docx": [2291], "Exodus_ch_39.docx": [1404, 1404, 1404], "Isaiah_ch_54.docx": [1843, 1843, 1843], "Ezekiel_ch_28.docx": [1829, 1829, 1829], "Revelation_ch_4.docx": [385, 385], "Revelation_ch_21.docx": [1576, 2746, 2945, 1576, 2746, 2945]}
-raises	{"1 Samuel_ch_2.docx": [1011, 1047, 2015, 1047, 2015, 1047, 2015], "2 Chronicles_ch_6.docx": [4803, 4803, 4803], "Job_ch_5.docx": [932, 932, 932], "Psalms_ch_3.docx": [270, 270, 270], "Psalms_ch_113.docx": [493, 534, 493, 534, 493, 534], "Ezekiel_ch_17.docx": [4630, 4630, 4630], "John_ch_5.docx": [2804, 2804], "2 Corinthians_ch_1.docx": [1530, 1530]}
-jasp	{"Exodus_ch_28.docx": [2291], "Exodus_ch_39.docx": [1404, 1404], "Isaiah_ch_54.docx": [1843, 1843], "Ezekiel_ch_28.docx": [1829, 1829], "Revelation_ch_4.docx": [385], "Revelation_ch_21.docx": [1576, 2746, 2945]}
-raises	{"1 Samuel_ch_2.docx": [1011, 1047, 2015, 1047, 2015], "2 Chronicles_ch_6.docx": [4803, 4803], "Job_ch_5.docx": [932, 932], "Psalms_ch_3.docx": [270, 270], "Psalms_ch_113.docx": [493, 534, 493, 534], "Ezekiel_ch_17.docx": [4630, 4630], "John_ch_5.docx": [2804], "2 Corinthians_ch_1.docx": [1530]}
-61‘may	{"1 Kings_ch_8.docx": [9927]}
 jasp	{"Exodus_ch_28.docx": [2291], "Exodus_ch_39.docx": [1404], "Isaiah_ch_54.docx": [1843], "Ezekiel_ch_28.docx": [1829], "Revelation_ch_4.docx": [385], "Revelation_ch_21.docx": [1576, 2746, 2945]}
-raises	{"1 Samuel_ch_2.docx": [1011, 1047, 2015], "2 Chronicles_ch_6.docx": [4803], "Job_ch_5.docx": [932], "Psalms_ch_3.docx": [270], "Psalms_ch_113.docx": [493, 534], "Ezekiel_ch_17.docx": [4630], "John_ch_5.docx": [2804], "2 Corinthians_ch_1.docx": [1530]}
+raises	{"1 Samuel_ch_2.docx": [1011, 1047, 2015], "2 Chronicles_ch_6.docx": [4803], "Job_ch_5.docx": [932], "Psalms_ch_3.docx": [270], "Psalms_ch_113.docx": [493, 534], "Proverbs_ch_31.docx": [2593], "Ezekiel_ch_17.docx": [4630], "John_ch_5.docx": [2804], "2 Corinthians_ch_1.docx": [1530]}

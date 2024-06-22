@@ -1,4 +1,2 @@
 
-sadn	{"Psalms_ch_34.docx": [1774], "Psalms_ch_35.docx": [1465, 1465, 1465], "Psalms_ch_38.docx": [480, 480, 480], "2 Corinthians_ch_2.docx": [635, 635], "2 Corinthians_ch_7.docx": [1625, 1773, 1625, 1773], "Philippians_ch_2.docx": [3315, 3315], "James_ch_4.docx": [1234, 1234]}
-sadn	{"Psalms_ch_34.docx": [1774], "Psalms_ch_35.docx": [1465, 1465], "Psalms_ch_38.docx": [480, 480], "2 Corinthians_ch_2.docx": [635], "2 Corinthians_ch_7.docx": [1625, 1773], "Philippians_ch_2.docx": [3315], "James_ch_4.docx": [1234]}
 sadn	{"Psalms_ch_34.docx": [1774], "Psalms_ch_35.docx": [1465], "Psalms_ch_38.docx": [480], "2 Corinthians_ch_2.docx": [635], "2 Corinthians_ch_7.docx": [1625, 1773], "Philippians_ch_2.docx": [3315], "James_ch_4.docx": [1234]}

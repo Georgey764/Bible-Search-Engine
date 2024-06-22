@@ -1,4 +1,2 @@
 
-sickn	{"Deuteronomy_ch_28.docx": [8611], "Ecclesiastes_ch_6.docx": [334, 334, 334], "John_ch_11.docx": [588, 588]}
-sickn	{"Deuteronomy_ch_28.docx": [8611], "Ecclesiastes_ch_6.docx": [334, 334], "John_ch_11.docx": [588]}
 sickn	{"Deuteronomy_ch_28.docx": [8611], "Ecclesiastes_ch_6.docx": [334], "John_ch_11.docx": [588]}

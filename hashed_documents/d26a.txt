@@ -1,6 +1,2 @@
 
-gourd	{"1 Kings_ch_6.docx": [2276], "2 Kings_ch_4.docx": [6017, 6017, 6017]}
-46‘th	{"Genesis_ch_24.docx": [6953], "Leviticus_ch_13.docx": [6522], "Deuteronomy_ch_28.docx": [6310], "2 Samuel_ch_22.docx": [4323], "Ezekiel_ch_23.docx": [7649], "Matthew_ch_25.docx": [5486]}
-12‘pl	{"Numbers_ch_28.docx": [1575], "Ruth_ch_1.docx": [1663]}
-gourd	{"1 Kings_ch_6.docx": [2276], "2 Kings_ch_4.docx": [6017, 6017]}
-gourd	{"1 Kings_ch_6.docx": [2276], "2 Kings_ch_4.docx": [6017]}
+gourd	{"1 Kings_ch_6.docx": [2276], "2 Kings_ch_4.docx": [6017], "Jonah_ch_4.docx": [684, 708, 1221]}

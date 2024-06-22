@@ -1,4 +1,2 @@
 
-rogell	{"2 Samuel_ch_17.docx": [4335], "2 Samuel_ch_19.docx": [5172, 5172, 5172]}
-rogell	{"2 Samuel_ch_17.docx": [4335], "2 Samuel_ch_19.docx": [5172, 5172]}
 rogell	{"2 Samuel_ch_17.docx": [4335], "2 Samuel_ch_19.docx": [5172]}

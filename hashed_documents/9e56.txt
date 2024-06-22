@@ -1,4 +1,2 @@
 
-amadat	{"Esther_ch_3.docx": [13], "Esther_ch_9.docx": [717, 717, 717]}
-amadat	{"Esther_ch_3.docx": [13], "Esther_ch_9.docx": [717, 717]}
 amadat	{"Esther_ch_3.docx": [13], "Esther_ch_9.docx": [717]}

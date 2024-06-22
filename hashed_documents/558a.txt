@@ -1,4 +1,2 @@
 
-jami	{"Genesis_ch_36.docx": [2703], "Genesis_ch_46.docx": [1236, 1236, 1236], "Exodus_ch_6.docx": [2057, 2057, 2057], "Numbers_ch_26.docx": [1408, 1413, 2953, 2958, 1408, 1413, 2953, 2958, 1408, 1413, 2953, 2958], "Numbers_ch_34.docx": [2577, 2577, 2577], "Joshua_ch_17.docx": [1108, 1108, 1108], "1 Chronicles_ch_2.docx": [2596, 2596, 2596], "Nehemiah_ch_8.docx": [1859, 1859, 1859]}
-jami	{"Genesis_ch_36.docx": [2703], "Genesis_ch_46.docx": [1236, 1236], "Exodus_ch_6.docx": [2057, 2057], "Numbers_ch_26.docx": [1408, 1413, 2953, 2958, 1408, 1413, 2953, 2958], "Numbers_ch_34.docx": [2577, 2577], "Joshua_ch_17.docx": [1108, 1108], "1 Chronicles_ch_2.docx": [2596, 2596], "Nehemiah_ch_8.docx": [1859, 1859]}
 jami	{"Genesis_ch_36.docx": [2703], "Genesis_ch_46.docx": [1236], "Exodus_ch_6.docx": [2057], "Numbers_ch_26.docx": [1408, 1413, 2953, 2958], "Numbers_ch_34.docx": [2577], "Joshua_ch_17.docx": [1108], "1 Chronicles_ch_2.docx": [2596], "Nehemiah_ch_8.docx": [1859]}

@@ -1,4 +1,2 @@
 
-dign	{"2 Chronicles_ch_17.docx": [913], "2 Chronicles_ch_23.docx": [4096, 4096, 4096], "2 Chronicles_ch_29.docx": [5325, 5325, 5325], "Esther_ch_1.docx": [204, 204, 204], "Isaiah_ch_14.docx": [4281, 4281, 4281], "Daniel_ch_1.docx": [2811, 2811, 2811], "1 Timothy_ch_3.docx": [580, 580]}
-dign	{"2 Chronicles_ch_17.docx": [913], "2 Chronicles_ch_23.docx": [4096, 4096], "2 Chronicles_ch_29.docx": [5325, 5325], "Esther_ch_1.docx": [204, 204], "Isaiah_ch_14.docx": [4281, 4281], "Daniel_ch_1.docx": [2811, 2811], "1 Timothy_ch_3.docx": [580]}
 dign	{"2 Chronicles_ch_17.docx": [913], "2 Chronicles_ch_23.docx": [4096], "2 Chronicles_ch_29.docx": [5325], "Esther_ch_1.docx": [204], "Isaiah_ch_14.docx": [4281], "Daniel_ch_1.docx": [2811], "1 Timothy_ch_3.docx": [580]}

@@ -1,4 +1,2 @@
 
-saloum	{"1 Chronicles_ch_2.docx": [3645, 3671, 3671]}
-saloum	{"1 Chronicles_ch_2.docx": [3645, 3671]}
 saloum	{"1 Chronicles_ch_2.docx": [3645, 3671]}

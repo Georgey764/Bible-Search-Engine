@@ -1,5 +1,2 @@
 
-shulam	{"Song of Solomon_ch_1.docx": [62], "Song of Solomon_ch_2.docx": [201, 2015, 201, 2015, 201, 2015], "Song of Solomon_ch_5.docx": [9, 9, 9], "Song of Solomon_ch_6.docx": [178, 1846, 1934, 178, 1846, 1934, 178, 1846, 1934], "Song of Solomon_ch_7.docx": [1261, 1261, 1261]}
-shulam	{"Song of Solomon_ch_1.docx": [62], "Song of Solomon_ch_2.docx": [201, 2015, 201, 2015], "Song of Solomon_ch_5.docx": [9, 9], "Song of Solomon_ch_6.docx": [178, 1846, 1934, 178, 1846, 1934], "Song of Solomon_ch_7.docx": [1261, 1261]}
-48but	{"Matthew_ch_12.docx": [6215]}
-shulam	{"Song of Solomon_ch_1.docx": [62], "Song of Solomon_ch_2.docx": [201, 2015], "Song of Solomon_ch_5.docx": [9], "Song of Solomon_ch_6.docx": [178, 1846, 1934], "Song of Solomon_ch_7.docx": [1261]}
+shulam	{"Song of Solomon_ch_1.docx": [62], "Song of Solomon_ch_2.docx": [201, 2015], "Song of Solomon_ch_5.docx": [9], "Song of Solomon_ch_6.docx": [178, 1846, 1934], "Song of Solomon_ch_7.docx": [1261], "Song of Solomon_ch_8.docx": [8, 1587]}

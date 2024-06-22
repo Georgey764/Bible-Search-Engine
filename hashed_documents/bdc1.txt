@@ -1,3 +1,2 @@
 
-greedi	{"Romans_ch_1.docx": [3820], "Ephesians_ch_4.docx": [2742, 2742], "Ephesians_ch_5.docx": [246, 246], "Colossians_ch_3.docx": [492, 492]}
 greedi	{"Romans_ch_1.docx": [3820], "Ephesians_ch_4.docx": [2742], "Ephesians_ch_5.docx": [246], "Colossians_ch_3.docx": [492]}

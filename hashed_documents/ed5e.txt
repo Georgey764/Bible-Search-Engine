@@ -1,4 +1,2 @@
 
-stomac	{"Genesis_ch_41.docx": [2393], "2 Samuel_ch_2.docx": [3183, 3183, 3183], "2 Samuel_ch_3.docx": [3958, 3958, 3958], "Job_ch_31.docx": [3150, 3150, 3150], "Psalms_ch_22.docx": [2640, 2640, 2640], "Lamentations_ch_1.docx": [4913, 4913, 4913], "Luke_ch_6.docx": [3169, 3169], "1 Timothy_ch_5.docx": [3154, 3154], "Revelation_ch_10.docx": [1652, 1783, 1652, 1783]}
-stomac	{"Genesis_ch_41.docx": [2393], "2 Samuel_ch_2.docx": [3183, 3183], "2 Samuel_ch_3.docx": [3958, 3958], "Job_ch_31.docx": [3150, 3150], "Psalms_ch_22.docx": [2640, 2640], "Lamentations_ch_1.docx": [4913, 4913], "Luke_ch_6.docx": [3169], "1 Timothy_ch_5.docx": [3154], "Revelation_ch_10.docx": [1652, 1783]}
 stomac	{"Genesis_ch_41.docx": [2393], "2 Samuel_ch_2.docx": [3183], "2 Samuel_ch_3.docx": [3958], "Job_ch_31.docx": [3150], "Psalms_ch_22.docx": [2640], "Lamentations_ch_1.docx": [4913], "Luke_ch_6.docx": [3169], "1 Timothy_ch_5.docx": [3154], "Revelation_ch_10.docx": [1652, 1783]}

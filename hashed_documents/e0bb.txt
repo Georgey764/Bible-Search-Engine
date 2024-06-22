@@ -1,4 +1,2 @@
 
-blindn	{"Genesis_ch_19.docx": [1506], "Deuteronomy_ch_28.docx": [3730, 3730, 3730], "Zechariah_ch_12.docx": [817, 817, 817]}
-blindn	{"Genesis_ch_19.docx": [1506], "Deuteronomy_ch_28.docx": [3730, 3730], "Zechariah_ch_12.docx": [817, 817]}
 blindn	{"Genesis_ch_19.docx": [1506], "Deuteronomy_ch_28.docx": [3730], "Zechariah_ch_12.docx": [817]}

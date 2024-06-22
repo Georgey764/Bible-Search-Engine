@@ -1,5 +1,2 @@
 
-lebn	{"Joshua_ch_10.docx": [11876], "Joshua_ch_12.docx": [14121, 14121, 14121], "Joshua_ch_15.docx": [1730, 5055, 1730, 5055, 1730, 5055]}
-lebn	{"Joshua_ch_10.docx": [11876], "Joshua_ch_12.docx": [14121, 14121], "Joshua_ch_15.docx": [1730, 5055, 1730, 5055]}
-18‘loo	{"Isaiah_ch_49.docx": [3748]}
 lebn	{"Joshua_ch_10.docx": [11876], "Joshua_ch_12.docx": [14121], "Joshua_ch_15.docx": [1730, 5055]}

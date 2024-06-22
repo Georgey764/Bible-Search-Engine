@@ -1,4 +1,2 @@
 
-grac	{"Psalms_ch_65.docx": [1293], "Luke_ch_4.docx": [2941, 2941], "Romans_ch_11.docx": [790, 790], "Ephesians_ch_4.docx": [4156, 4167, 4156, 4167]}
-grac	{"Psalms_ch_65.docx": [1293], "Luke_ch_4.docx": [2941], "Romans_ch_11.docx": [790], "Ephesians_ch_4.docx": [4156, 4167]}
 grac	{"Psalms_ch_65.docx": [1293], "Luke_ch_4.docx": [2941], "Romans_ch_11.docx": [790], "Ephesians_ch_4.docx": [4156, 4167]}

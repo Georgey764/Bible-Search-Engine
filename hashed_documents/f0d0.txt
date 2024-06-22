@@ -1,6 +1,2 @@
 
-sente	{"Deuteronomy_ch_21.docx": [3090], "Deuteronomy_ch_25.docx": [169, 169, 169], "Job_ch_27.docx": [342, 342, 342], "Job_ch_42.docx": [3846], "Jeremiah_ch_26.docx": [2790, 2790, 2790]}
-26ma	{"Numbers_ch_6.docx": [4013], "Joshua_ch_18.docx": [3500], "Job_ch_31.docx": [2390], "Psalms_ch_35.docx": [2710], "Psalms_ch_68.docx": [2848], "Proverbs_ch_4.docx": [2396], "Proverbs_ch_7.docx": [2300]}
-sente	{"Deuteronomy_ch_21.docx": [3090], "Deuteronomy_ch_25.docx": [169, 169], "Job_ch_27.docx": [342, 342], "Jeremiah_ch_26.docx": [2790, 2790]}
-6bath	{"Joshua_ch_19.docx": [296]}
-sente	{"Deuteronomy_ch_21.docx": [3090], "Deuteronomy_ch_25.docx": [169], "Job_ch_27.docx": [342], "Jeremiah_ch_26.docx": [2790]}
+sente	{"Deuteronomy_ch_21.docx": [3090], "Deuteronomy_ch_25.docx": [169], "Job_ch_27.docx": [342], "Job_ch_42.docx": [3846], "Jeremiah_ch_26.docx": [2790], "Luke_ch_24.docx": [2193]}

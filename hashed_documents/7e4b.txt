@@ -1,7 +1,3 @@
 
-phegor	{"Numbers_ch_25.docx": [278, 605, 605, 605]}
-proppe	{"Proverbs_ch_9.docx": [65]}
-phegor	{"Numbers_ch_25.docx": [278, 605, 605]}
-proppe	{"Proverbs_ch_9.docx": [65]}
 phegor	{"Numbers_ch_25.docx": [278, 605]}
 proppe	{"Proverbs_ch_9.docx": [65]}

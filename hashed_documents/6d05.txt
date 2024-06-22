@@ -1,4 +1,2 @@
 
-mola	{"Joshua_ch_15.docx": [4246], "Joshua_ch_19.docx": [2733, 2733, 2733], "Job_ch_29.docx": [1438, 1438, 1438], "Psalms_ch_58.docx": [652, 652, 652], "Proverbs_ch_30.docx": [1349, 1349, 1349], "Joel_ch_1.docx": [889, 889, 889]}
-mola	{"Joshua_ch_15.docx": [4246], "Joshua_ch_19.docx": [2733, 2733], "Job_ch_29.docx": [1438, 1438], "Psalms_ch_58.docx": [652, 652], "Proverbs_ch_30.docx": [1349, 1349], "Joel_ch_1.docx": [889, 889]}
 mola	{"Joshua_ch_15.docx": [4246], "Joshua_ch_19.docx": [2733], "Job_ch_29.docx": [1438], "Psalms_ch_58.docx": [652], "Proverbs_ch_30.docx": [1349], "Joel_ch_1.docx": [889]}

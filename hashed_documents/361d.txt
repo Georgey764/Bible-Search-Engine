@@ -1,5 +1,2 @@
 
 ch	{"1 Chronicles_ch_7.docx": [3883], "1 Chronicles_ch_11.docx": [5420]}
-24her	{"1 Chronicles_ch_5.docx": [3064]}
-ch	{"1 Chronicles_ch_7.docx": [3883], "1 Chronicles_ch_11.docx": [5420]}
-ch	{"1 Chronicles_ch_7.docx": [3883], "1 Chronicles_ch_11.docx": [5420]}

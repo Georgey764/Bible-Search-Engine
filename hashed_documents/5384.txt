@@ -1,4 +1,2 @@
 
-carnal	{"Proverbs_ch_7.docx": [951]}
-carnal	{"Proverbs_ch_7.docx": [951]}
-carnal	{"Proverbs_ch_7.docx": [951]}
+carnal	{"Proverbs_ch_7.docx": [951], "Jude_ch_1.docx": [3813]}

@@ -1,4 +1,2 @@
 
-doors!	{"2 Chronicles_ch_28.docx": [4209], "Proverbs_ch_8.docx": [3264, 3264, 3264], "Matthew_ch_24.docx": [3926, 3926, 3926]}
-doors!	{"2 Chronicles_ch_28.docx": [4209], "Proverbs_ch_8.docx": [3264, 3264], "Matthew_ch_24.docx": [3926, 3926]}
 doors!	{"2 Chronicles_ch_28.docx": [4209], "Proverbs_ch_8.docx": [3264], "Matthew_ch_24.docx": [3926]}

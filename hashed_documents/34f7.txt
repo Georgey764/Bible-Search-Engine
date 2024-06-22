@@ -1,2 +1,2 @@
 
-20like	{"2 Kings_ch_21.docx": [3687]}
+chisi	{"Ezekiel_ch_48.docx": [6992], "Daniel_ch_12.docx": [3422]}
