@@ -33,7 +33,7 @@ _2001 Translation Bible can be found [here](https://2001translation.org/download
 
 2. Create a virtual env in python
 
-    ``` >>> python3 venv ./.venv ```
+    ``` >>> python3 -m venv ./.venv ```
 
 3. Activate the virtual environment
 
@@ -51,9 +51,9 @@ In Summary, enter the following commands:
 
 ```
 >>> cd ./path-to-cloned-repository/Bible-Search-Engine/
->>> python3 venv ./.venv
+>>> python3 -m venv ./.venv
 >>> pip3 install -r requirements.txt
->>> python3 run query_chapter.py "Your query goes here inside double quotes" y(optional) #y=the maximum number of results to be returned
+>>> python3 query_chapter.py "Your query goes here inside double quotes" y(optional) #y=the maximum number of results to be returned
 ```
 
 <br/>
@@ -106,7 +106,7 @@ In Summary, enter the following commands:
 
 2. Create a virtual env in python
 
-    ``` >>> python3 venv ./.venv ```
+    ``` >>> python3 -m venv ./.venv ```
 
 3. Activate the virtual environment
 
@@ -118,7 +118,7 @@ In Summary, enter the following commands:
 
 6. Start the backend server
 
-    ``` >>> python3 run main.py ```
+    ``` >>> python3 main.py ```
    
 8. Access the backend on http://localhost:8080/
 
@@ -126,9 +126,9 @@ In Summary, enter the following commands:
 
 ```
 >>> cd ./path-to-cloned-repository/Bible-Search-Engine/
->>> python3 venv ./.venv
+>>> python3 -m venv ./.venv
 >>> pip3 install -r requirements.txt
->>> python3 run main.py
+>>> python3 main.py
 ```
         
 <br/>
