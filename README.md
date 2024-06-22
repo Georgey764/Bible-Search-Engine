@@ -7,7 +7,7 @@ I went over all the steps that I took to make this application in this [blog](ht
 
 **Keep in mind that this engine is based on 2001 Translation of Bible and other popular translation will not work.**
 
-_2001 Translation Bible can be found [here](https://2001translation.org/download-docx)._
+_2001 Translation Bible can be found [here](https://2001translation.org/)._
 
 <div align="center">
   <Image src="/home_page.png" alt="Pretty picture" width="800" height="auto" />
