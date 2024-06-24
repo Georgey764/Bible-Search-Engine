@@ -8,10 +8,10 @@ I went over all the steps that I took to make this application in this [blog](ht
 **Keep in mind that this engine is based on 2001 Translation of Bible and other popular translation will not work.**
 
 _2001 Translation Bible can be found [here](https://2001translation.org/)._
-
+  
+**Video**
 [Click here to watch the full walkthrough of the application](https://www.youtube.com/watch?v=OjqZtkpyjlg)  
-
-**Video**  
+  
 [![Click me to watch the application video!](/home_page.png)](https://www.youtube.com/watch?v=OjqZtkpyjlg)
 
 ## Overview
