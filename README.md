@@ -9,7 +9,7 @@ I went over all the steps that I took to make this application in this [blog](ht
 
 _2001 Translation Bible can be found [here](https://2001translation.org/)._
 
-[![asciicast](https://asciinema.org/a/113463.png)](https://www.youtube.com/watch?v=OjqZtkpyjlg)
+[![asciicast](/home_page.png)](https://www.youtube.com/watch?v=OjqZtkpyjlg)
 
 
 <div align="center">
