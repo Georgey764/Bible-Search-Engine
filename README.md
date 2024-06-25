@@ -7,12 +7,9 @@
 [![Click me to watch the application video!](/home_page.png)](https://www.youtube.com/watch?v=OjqZtkpyjlg)
   
   
-_**Interested in how I made this?**_ Check out the [blog](https://medium.com/@georgesamuel764/how-to-create-a-simple-and-efficient-search-engine-in-python-bd1196ac4c1c).  
-I went over all the steps that I took to make this application in this [blog](https://medium.com/@georgesamuel764/how-to-create-a-simple-and-efficient-search-engine-in-python-bd1196ac4c1c).
+_**Interested in how I made this?**_ Check out the [blog](https://medium.com/@georgesamuel764/how-to-create-a-simple-and-efficient-search-engine-in-python-bd1196ac4c1c). I went over all the steps that I took to make this application in this [blog](https://medium.com/@georgesamuel764/how-to-create-a-simple-and-efficient-search-engine-in-python-bd1196ac4c1c).
 
-**Keep in mind that this engine is based on 2001 Translation of Bible and other popular translation will not work.**
-
-_2001 Translation Bible can be found [here](https://2001translation.org/)._  
+**Keep in mind that this engine is based on 2001 Translation of Bible and other popular translation will not work.** _2001 Translation Bible can be found [here](https://2001translation.org/)._  
 
 ## Overview
 1. <a href="#how-to-CLI">How to run the app from CLI (Easiest)
