@@ -11,7 +11,7 @@ _2001 Translation Bible can be found [here](https://2001translation.org/)._
   
 [![Click me to watch the application video!](/home_page.png)](https://www.youtube.com/watch?v=OjqZtkpyjlg)
 <div align="center"><strong>Video:</strong>
-<a href="https://www.youtube.com/watch?v=OjqZtkpyjlg" target="_blank">Click here to watch the full walkthrough of the application</a></div>  
+<a href="https://www.youtube.com/watch?v=OjqZtkpyjlg">Click here to watch the full walkthrough of the application</a></div>  
 
 ## Overview
 1. <a href="#how-to-CLI">How to run the app from CLI (Easiest)
