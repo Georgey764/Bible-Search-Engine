@@ -1,6 +1,6 @@
 # Bible Search Engine
 
-It is a search engine that efficiently queries over the 2001 Translation of Bible and returns the best matching chapter that matches with the user queried verse.
+> It is a search engine that efficiently queries over the 2001 Translation of Bible and returns the best matching chapter that matches with the user queried verse.
 
 _**Interested in how I made this?**_ Check out the [blog](https://medium.com/@georgesamuel764/how-to-create-a-simple-and-efficient-search-engine-in-python-bd1196ac4c1c).  
 I went over all the steps that I took to make this application in this [blog](https://medium.com/@georgesamuel764/how-to-create-a-simple-and-efficient-search-engine-in-python-bd1196ac4c1c).
