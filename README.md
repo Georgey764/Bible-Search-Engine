@@ -10,10 +10,8 @@ I went over all the steps that I took to make this application in this [blog](ht
 _2001 Translation Bible can be found [here](https://2001translation.org/)._
   
 [![Click me to watch the application video!](/home_page.png)](https://www.youtube.com/watch?v=OjqZtkpyjlg)
-<div style="text-align:center">
-**Video**:
-[Click here to watch the full walkthrough of the application](https://www.youtube.com/watch?v=OjqZtkpyjlg)  
-<div>  
+<div align="center">**Video**:
+[Click here to watch the full walkthrough of the application](https://www.youtube.com/watch?v=OjqZtkpyjlg)</div>  
 
 ## Overview
 1. <a href="#how-to-CLI">How to run the app from CLI (Easiest)
