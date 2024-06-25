@@ -2,7 +2,7 @@
 
 > It is a search engine that efficiently queries over the 2001 Translation of Bible and returns the best matching chapter that matches with the user queried verse.  
   
-<div align="center"><strong>Video:</strong><a href="https://www.youtube.com/watch?v=OjqZtkpyjlg">Click here to watch the full walkthrough of the application</a></div>
+<div align="center"><strong>Video:</strong><a href="https://www.youtube.com/watch?v=OjqZtkpyjlg">Click here to watch the full walkthrough of the application</a></div>  
 [![Click me to watch the application video!](/home_page.png)](https://www.youtube.com/watch?v=OjqZtkpyjlg)
   
   
