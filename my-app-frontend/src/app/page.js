@@ -44,8 +44,8 @@ export default function Home() {
         </form>
         <p className="text-sm font-light text-center">Please make sure you are searching for VERSES from 2001 translation of the Bible</p>
         <div className="flex flex-row gap-2">
-          <Button variant="outline">Button</Button>
-          <Button variant="outline">Button</Button>
+          <Button variant="outline">Blog</Button>
+          <Button variant="outline">Options</Button>
         </div>
       </div>
     </main>
