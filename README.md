@@ -3,6 +3,7 @@
 > It is a search engine that efficiently queries over the 2001 Translation of Bible and returns the best matching chapter that matches with the user queried verse.  
   
 <div align="center"><strong>Video:</strong><a href="https://www.youtube.com/watch?v=OjqZtkpyjlg">Click here to watch the full walkthrough of the application</a></div>  
+<br/>
   
 [![Click me to watch the application video!](https://github.com/Georgey764/Bible-Search-Engine/assets/127057827/40d84c66-3047-48f5-920b-21987083b7f1)](https://www.youtube.com/watch?v=OjqZtkpyjlg)
 
