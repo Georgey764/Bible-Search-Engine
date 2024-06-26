@@ -4,8 +4,8 @@
   
 <div align="center"><strong>Video:</strong><a href="https://www.youtube.com/watch?v=OjqZtkpyjlg">Click here to watch the full walkthrough of the application</a></div>  
   
-[![Click me to watch the application video!](/home_page.png)](https://www.youtube.com/watch?v=OjqZtkpyjlg)
-     
+[![Click me to watch the application video!](https://github.com/Georgey764/Bible-Search-Engine/assets/127057827/40d84c66-3047-48f5-920b-21987083b7f1)](https://www.youtube.com/watch?v=OjqZtkpyjlg)
+
   
 _**Interested in how I made this?**_ Check out the [blog](https://medium.com/@georgesamuel764/how-to-create-a-simple-and-efficient-search-engine-in-python-bd1196ac4c1c). I went over all the steps that I took to make this application in this [blog](https://medium.com/@georgesamuel764/how-to-create-a-simple-and-efficient-search-engine-in-python-bd1196ac4c1c).
 
